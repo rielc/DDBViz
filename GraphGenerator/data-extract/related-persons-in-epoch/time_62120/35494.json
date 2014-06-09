@@ -1,0 +1,44 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 35494,
+    "from_affiliate_facet": "Bank for International Settlements,",
+    "occurrence": 20,
+    "affiliates": [
+        {
+            "facet_id": 35494,
+            "occurrence": 20,
+            "value": "Bank for International Settlements,"
+        },
+        {
+            "facet_id": 35496,
+            "occurrence": 18,
+            "value": "Bank für Internationalen Zahlungsausgleich / Währungs- und Wirtschaftsabteilung"
+        },
+        {
+            "facet_id": 35495,
+            "occurrence": 1,
+            "value": "Mihaljek, Dubravko"
+        },
+        {
+            "facet_id": 371671,
+            "occurrence": 1,
+            "value": "Moreno, Ramon"
+        },
+        {
+            "facet_id": 715281,
+            "occurrence": 1,
+            "value": "Bank für Internationalen Zahlungsausgleich / Ausschuß für Zahlungsverkehrs- und Abrechnungssysteme der Zentralbanken der Länder der Zehnergruppe"
+        },
+        {
+            "facet_id": 1050418,
+            "occurrence": 1,
+            "value": "Archer, David J."
+        },
+        {
+            "facet_id": 1050419,
+            "occurrence": 1,
+            "value": "Moser-Boehm, Paul"
+        }
+    ]
+}

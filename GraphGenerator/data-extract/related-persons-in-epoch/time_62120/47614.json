@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 47614,
+    "from_affiliate_facet": "Baur, Willi",
+    "occurrence": 17,
+    "affiliates": [
+        {
+            "facet_id": 47614,
+            "occurrence": 17,
+            "value": "Baur, Willi"
+        },
+        {
+            "facet_id": 47615,
+            "occurrence": 17,
+            "value": "Universität Ulm"
+        },
+        {
+            "facet_id": 47613,
+            "occurrence": 16,
+            "value": "Universität Ulm, Pressestelle,"
+        },
+        {
+            "facet_id": 222349,
+            "occurrence": 1,
+            "value": "Universität Ulm. Pressestelle,"
+        }
+    ]
+}

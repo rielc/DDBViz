@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 21836,
+    "from_affiliate_facet": "Newspaper Publ., PLC,",
+    "occurrence": 27,
+    "affiliates": [
+        {
+            "facet_id": 21836,
+            "occurrence": 27,
+            "value": "Newspaper Publ., PLC,"
+        },
+        {
+            "facet_id": 21837,
+            "occurrence": 27,
+            "value": "Wolf, Siegfried O."
+        },
+        {
+            "facet_id": 706516,
+            "occurrence": 1,
+            "value": "Sauerborn, Djan"
+        },
+        {
+            "facet_id": 1148820,
+            "occurrence": 1,
+            "value": "Khan, Imran"
+        }
+    ]
+}

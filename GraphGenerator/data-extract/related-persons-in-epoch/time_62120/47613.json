@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 47613,
+    "from_affiliate_facet": "Universität Ulm, Pressestelle,",
+    "occurrence": 21,
+    "affiliates": [
+        {
+            "facet_id": 47613,
+            "occurrence": 21,
+            "value": "Universität Ulm, Pressestelle,"
+        },
+        {
+            "facet_id": 47615,
+            "occurrence": 21,
+            "value": "Universität Ulm"
+        },
+        {
+            "facet_id": 47614,
+            "occurrence": 16,
+            "value": "Baur, Willi"
+        },
+        {
+            "facet_id": 182399,
+            "occurrence": 5,
+            "value": "Pietschmann, Peter"
+        }
+    ]
+}

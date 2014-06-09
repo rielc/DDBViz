@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 11691,
+    "from_affiliate_facet": "Forstamt Karlsruhe",
+    "occurrence": 40,
+    "affiliates": [
+        {
+            "facet_id": 11691,
+            "occurrence": 40,
+            "value": "Forstamt Karlsruhe"
+        },
+        {
+            "facet_id": 17618,
+            "occurrence": 8,
+            "value": "Geometer Weiss"
+        },
+        {
+            "facet_id": 510282,
+            "occurrence": 3,
+            "value": "Geometer J. Weckner"
+        },
+        {
+            "facet_id": 662958,
+            "occurrence": 1,
+            "value": "Geometer L. Müller"
+        },
+        {
+            "facet_id": 1118702,
+            "occurrence": 1,
+            "value": "Geometer A. Camerer"
+        }
+    ]
+}

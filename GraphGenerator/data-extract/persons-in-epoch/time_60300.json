@@ -1,0 +1,2507 @@
+{
+    "epochID": 57,
+    "epoch": "time_60300",
+    "count": 500,
+    "items": [
+        {
+            "affiliate_facet_id": 4340,
+            "affiliate_facet": "Liebieghaus (Frankfurt (Main))",
+            "occurrence": 165
+        },
+        {
+            "affiliate_facet_id": 6331,
+            "affiliate_facet": "Simon von Taisten",
+            "occurrence": 162
+        },
+        {
+            "affiliate_facet_id": 9823,
+            "affiliate_facet": "Römisch-Germanisches Museum (Köln)",
+            "occurrence": 124
+        },
+        {
+            "affiliate_facet_id": 2216,
+            "affiliate_facet": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 13338,
+            "affiliate_facet": "Rosner, Johann",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 10551,
+            "affiliate_facet": "Welter, Michael",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 6111,
+            "affiliate_facet": "Rheinisches Landesmuseum (Trier)",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 537,
+            "affiliate_facet": "Aufsberg, Lala (Fotograf)",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 84,
+            "affiliate_facet": "Verdi, Giuseppe",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 386,
+            "affiliate_facet": "Landesmuseum Mainz (Mainz)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 90341,
+            "affiliate_facet": "Herbel, Charles",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 4746,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 40872,
+            "affiliate_facet": "Archäologisches Museum (Saloniki)",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 20816,
+            "affiliate_facet": "Ephesus Archaeological Museum (Selçuk)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 61,
+            "affiliate_facet": "Richter, Regine (Fotograf)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 544,
+            "affiliate_facet": "Helbig, Konrad (Fotograf)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 51998,
+            "affiliate_facet": "Vaillant, Jacques",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 4232,
+            "affiliate_facet": "Karpinski, Jürgen (Fotograf)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 1935,
+            "affiliate_facet": "Wagner, Richard",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 7262,
+            "affiliate_facet": "[Günther Zainer]",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 10321,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Vor- und Frühgeschichte (Berlin)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 76626,
+            "affiliate_facet": "Fromiller, Josef Ferdinand",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 109340,
+            "affiliate_facet": "[Johann Mentelin]",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 16947,
+            "affiliate_facet": "Richter, Ludwig <1803>",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 309537,
+            "affiliate_facet": "Meister von Hohenfurth",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 37283,
+            "affiliate_facet": "Musei Capitolini (Rom)",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 12682,
+            "affiliate_facet": "Canaletto",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 39053,
+            "affiliate_facet": "Loos, Hans (Fotograf)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 216146,
+            "affiliate_facet": "[Drucker mit dem bizarren R, d.i. Adolf Rusch]",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 58,
+            "affiliate_facet": "Hildebrand, Gustav (Fotograf)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 30308,
+            "affiliate_facet": "Rheinisches Landesmuseum Bonn mit Regionalmuseum Xanten (Bonn)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 27576,
+            "affiliate_facet": "Libaerts, Eliseus",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 33004,
+            "affiliate_facet": "Dinglinger, Melchior",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 69694,
+            "affiliate_facet": "Cima da Conegliano, Giovanni Battista",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 120038,
+            "affiliate_facet": "[Johann Amerbach]",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 145107,
+            "affiliate_facet": "[Michael Wenssler]",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 1248,
+            "affiliate_facet": "Augustinus, Aurelius (354-430)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 2780,
+            "affiliate_facet": "Thomas <de Aquino> (1225-1274)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 4660,
+            "affiliate_facet": "Vandenhoeck & Ruprecht,",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 53390,
+            "affiliate_facet": "Paulus <Burgensis> (1350-1435)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 117951,
+            "affiliate_facet": "[Michael Greyff]",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 165403,
+            "affiliate_facet": "Maderni, Giovanni Manfredo",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 242534,
+            "affiliate_facet": "Geselschap, Friedrich",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 25822,
+            "affiliate_facet": "[Drucker des Henricus Ariminensis, d.i. Georg Reyser]",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 37317,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Spätantike und Byzantinische Kunst (Berlin)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 44985,
+            "affiliate_facet": "Gerson, Johannes (1363-1429)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 45636,
+            "affiliate_facet": "Nicolaus <de Lyra> (1270-1349)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 90664,
+            "affiliate_facet": "Caracciolo, Roberto (1425-1495)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 195287,
+            "affiliate_facet": "Musée Départemental des Vosges et Musée International de l'Imagerie (Épinal)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 292684,
+            "affiliate_facet": "Grosse, Theodor",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 200,
+            "affiliate_facet": "Rössing, Roger (Fotograf)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 201,
+            "affiliate_facet": "Rössing, Renate (Fotograf)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 276,
+            "affiliate_facet": "Cicero, Marcus Tullius (v106-v43)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 585,
+            "affiliate_facet": "Unbekannter Fotograf (Fotograf)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 1567,
+            "affiliate_facet": "Schenk, Pieter",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 3346,
+            "affiliate_facet": "Archäologisches Nationalmuseum (Athen)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 12169,
+            "affiliate_facet": "Landesmuseum für Kärnten — Provinzialrömische Archäologie (Klagenfurt)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 12953,
+            "affiliate_facet": "Musée National du Louvre (Paris)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 15774,
+            "affiliate_facet": "Galleria degli Uffizi — Sculture Antiche (Florenz)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 24138,
+            "affiliate_facet": "Johannes <Andreae> (1270-1348)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 31942,
+            "affiliate_facet": "Nider, Johannes (1380-1438)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 34371,
+            "affiliate_facet": "Römisch-Germanisches Zentralmuseum (Mainz)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 52547,
+            "affiliate_facet": "Smids, Ludolf",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 56762,
+            "affiliate_facet": "Archäologisches Museum (Milet)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 69462,
+            "affiliate_facet": "[Johann Prüss]",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 72113,
+            "affiliate_facet": "[Konrad Fyner]",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 111348,
+            "affiliate_facet": "[Ulrich Zell]",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 1861,
+            "affiliate_facet": "Mozart, Wolfgang Amadeus",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 4185,
+            "affiliate_facet": "Rudolph, Wilhelm",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 5160,
+            "affiliate_facet": "Thomas <a Kempis> (1379-1471)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 6729,
+            "affiliate_facet": "Schönbach, Hans Willy? (Fotograf)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 6907,
+            "affiliate_facet": "Leoncavallo, Ruggiero",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 9991,
+            "affiliate_facet": "Staatliche Antikensammlungen und Glyptothek (München)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 18107,
+            "affiliate_facet": "Antoninus <Florentinus> (1389-1459)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 36203,
+            "affiliate_facet": "Musée Archéologique (Dijon)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 39103,
+            "affiliate_facet": "Avicenna (980-1037)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 40378,
+            "affiliate_facet": "Museo Nazionale Romano (Rom)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 40379,
+            "affiliate_facet": "Bosetti, Hermine",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 44327,
+            "affiliate_facet": "Bernigeroth, Martin",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 45174,
+            "affiliate_facet": "Musée Borély (Marseille)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 45262,
+            "affiliate_facet": "Leisner, Emmi",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 73419,
+            "affiliate_facet": "[Heinrich Knoblochtzer]",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 76595,
+            "affiliate_facet": "Gerardus <Cremonensis> (1114-1187)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 88265,
+            "affiliate_facet": "Villeroy und Boch",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 143781,
+            "affiliate_facet": "[Johann Zainer der Ältere]",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 201794,
+            "affiliate_facet": "Johann Zainer der Ältere",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 253825,
+            "affiliate_facet": "[Georg Husner]",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 2,
+            "affiliate_facet": "Rous, André (Fotograf)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 917,
+            "affiliate_facet": "Bayerisches Nationalmuseum (München)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 981,
+            "affiliate_facet": "[Peter Schöffer]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 1097,
+            "affiliate_facet": "Aristoteles (v384-v322)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 1416,
+            "affiliate_facet": "Universitätsmuseum für Kunst und Kulturgeschichte (Marburg)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 2186,
+            "affiliate_facet": "Massenet, Jules",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 2487,
+            "affiliate_facet": "Museum Folkwang (Essen)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 3292,
+            "affiliate_facet": "Schubert, Franz",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 6224,
+            "affiliate_facet": "Albertus <Magnus> (1193-1280)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 6324,
+            "affiliate_facet": "Seidler-Winkler, Bruno",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 7263,
+            "affiliate_facet": "Gregor <I., Papst> (540-604)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 7320,
+            "affiliate_facet": "Gounod, Charles",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 8690,
+            "affiliate_facet": "Donizetti, Gaetano",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 13757,
+            "affiliate_facet": "Alexander <de Villa Dei> (1170-1250)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 14672,
+            "affiliate_facet": "private Sammlung (Bonn)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 15101,
+            "affiliate_facet": "Kotzsch, August (Fotograf)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 25709,
+            "affiliate_facet": "Ferbecq, ?",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 26577,
+            "affiliate_facet": "Hugo <de Sancto Caro> (-1263)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 32287,
+            "affiliate_facet": "Henricus <de Gorrichem> (1378-1431)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 32881,
+            "affiliate_facet": "[Heinrich Eggestein]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 34678,
+            "affiliate_facet": "Jacobus <de Voragine> (1228-1298)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 38237,
+            "affiliate_facet": "Herolt, Johannes (-1468)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 39533,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Pio-Clementino (Vatikan)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 53389,
+            "affiliate_facet": "Guilelmus <Brito, Exegeta> (ca. gest. ca. 1275)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 54662,
+            "affiliate_facet": "Caruso, Enrico",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 55566,
+            "affiliate_facet": "Staatliche Kunstsammlungen Dresden — Skulpturensammlung (Dresden)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 67204,
+            "affiliate_facet": "Heynlin, Johannes (1432-1496)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 70225,
+            "affiliate_facet": "Paulus <II., Papa> (1417-1471)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 86624,
+            "affiliate_facet": "Musées de la Cour d'Or (Metz)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 89932,
+            "affiliate_facet": "Bispham, David",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 96597,
+            "affiliate_facet": "Amato, Pasquale",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 105965,
+            "affiliate_facet": "[Koberger]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 119266,
+            "affiliate_facet": "Museo Nazionale Romano — Terme di Diocleziano (Rom)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 147280,
+            "affiliate_facet": "[Nikolaus Kessler]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 150846,
+            "affiliate_facet": "[Martin Schott]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 158649,
+            "affiliate_facet": "Museum der Stadt Ulm — Vor- und Frühgeschichtliche Abteilung (Ulm)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 179983,
+            "affiliate_facet": "[Albrecht Kunne]",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 185620,
+            "affiliate_facet": "Wolf-Ferrari, Ermanno",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 239285,
+            "affiliate_facet": "Gäubodenmuseum (Straubing)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 274363,
+            "affiliate_facet": "Meffreth (um 1443/47)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 32,
+            "affiliate_facet": "Schumacher, Klaus-Dieter (Fotograf)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 272,
+            "affiliate_facet": "Baldus <de Ubaldis> (1327-1400)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 1363,
+            "affiliate_facet": "[St. Ulrich und Afra]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 4204,
+            "affiliate_facet": "Pius <II., Papa> (1405-1464)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 5731,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Byzantinische Kunst (Berlin)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 5849,
+            "affiliate_facet": "Strauß, Johann <Sohn>",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 6984,
+            "affiliate_facet": "Fink,",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 7605,
+            "affiliate_facet": "Bizet, Georges",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 9647,
+            "affiliate_facet": "Saint-Saëns, Camille",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 10800,
+            "affiliate_facet": "Beethoven, Ludwig van",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 10979,
+            "affiliate_facet": "[Anton Sorg]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 11551,
+            "affiliate_facet": "Petrarca, Francesco (1304-1374)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 11859,
+            "affiliate_facet": "Vorarlberger Landesmuseum (Bregenz)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 11944,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Lateranense (Vatikan)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 12334,
+            "affiliate_facet": "Rembrandt <Harmensz van Rijn>",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 13758,
+            "affiliate_facet": "Gerardus <de Zutphania> (1367-1398)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 17522,
+            "affiliate_facet": "Dyck, Anton van",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 18595,
+            "affiliate_facet": "Nicolaus <V., Papa> (1397-1455)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 19031,
+            "affiliate_facet": "Saljapin, Fëdor I.",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 20205,
+            "affiliate_facet": "Johannes <Chrysostomus> (344-407)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 23550,
+            "affiliate_facet": "Piccaver, Alfred",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 23557,
+            "affiliate_facet": "[Martin Landsberg]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 25208,
+            "affiliate_facet": "Schleswig-Holsteinisches Landesmuseum, Schloss Gottorf (Schleswig)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 29229,
+            "affiliate_facet": "Durantis, Guilelmus (1237-1296)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 36880,
+            "affiliate_facet": "[Johann Petri]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 38787,
+            "affiliate_facet": "Johann Amerbach",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 40697,
+            "affiliate_facet": "[Eucharius Silber]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 47094,
+            "affiliate_facet": "Guilelmus <Arvernus> (1180-1249)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 47219,
+            "affiliate_facet": "Savonarola, Girolamo (1452-1498)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 64256,
+            "affiliate_facet": "Società Salviati und Co.",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 89049,
+            "affiliate_facet": "[Wolfgang Stöckel]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 89371,
+            "affiliate_facet": "David <de Augusta> (1200-1272)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 98806,
+            "affiliate_facet": "Jacobus <de Paradiso> (1381-1465)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 105786,
+            "affiliate_facet": "Nikopolis-Museum (Preveza)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 109357,
+            "affiliate_facet": "Feinhals, Fritz",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 114866,
+            "affiliate_facet": "Schwarz, Joseph",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 129948,
+            "affiliate_facet": "[Konrad Kachelofen]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 139045,
+            "affiliate_facet": "Dinus <Mugellanus> (-1303)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 139047,
+            "affiliate_facet": "Johannes <de Auerbach> (-1469)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 140020,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Pio-Clementino? (Vatikan)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 145353,
+            "affiliate_facet": "[Peter Drach der Mittlere]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 161910,
+            "affiliate_facet": "[Johann Amerbach für Anton Koberger d.Ä.],",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 161911,
+            "affiliate_facet": "Hugo <de Sancto Caro> ( - 1263)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 167006,
+            "affiliate_facet": "Musée Lapidaire (Béziers)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 174201,
+            "affiliate_facet": "[Johann und Conrad Hist]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 185621,
+            "affiliate_facet": "Salden, Ida",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 186619,
+            "affiliate_facet": "[Georg Stuchs]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 190045,
+            "affiliate_facet": "[Berthold Ruppel]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 235179,
+            "affiliate_facet": "[Johann Sensenschmidt]",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 238125,
+            "affiliate_facet": "Geyer. Elias",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 259340,
+            "affiliate_facet": "Haug, Michael; Ratsmitglied und Bürgermeister in Weil der Stadt",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 283814,
+            "affiliate_facet": "Eblin, Hans, Bürgermeister, 1603-1607",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 449883,
+            "affiliate_facet": "Belhomme, Hyppolite",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 796159,
+            "affiliate_facet": "Ferbecq?, ?",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 132,
+            "affiliate_facet": "Weber, Carl Maria von",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 307,
+            "affiliate_facet": "private Sammlung (Marburg)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 325,
+            "affiliate_facet": "Domschatz (Trier)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 811,
+            "affiliate_facet": "Mirschel, Hansjoachim (Fotograf)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 1000,
+            "affiliate_facet": "Grasser, Franz (Fotograf)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 1877,
+            "affiliate_facet": "Bischöfliches Dom- und Diözesanmuseum (Trier)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 2285,
+            "affiliate_facet": "Isidorus <Hispalensis> (560-636)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 2287,
+            "affiliate_facet": "Vries, Adriaen de",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 3016,
+            "affiliate_facet": "Hieronymus, Sophronius Eusebius (345-420)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 3782,
+            "affiliate_facet": "Petrus <Lombardus> (1095-1160)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 4801,
+            "affiliate_facet": "Iodocus <Erfordensis> (1420-)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 5155,
+            "affiliate_facet": "private Sammlung (Berlin)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 6323,
+            "affiliate_facet": "Bender, Paul",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 8028,
+            "affiliate_facet": "Rodin, Auguste",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 10958,
+            "affiliate_facet": "Valerius <Maximus> (ca. 1. Jh. v. Chr./1. Jh. n. Chr.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 11930,
+            "affiliate_facet": "Schöningh,",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 12605,
+            "affiliate_facet": "Unger, Hans",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 13349,
+            "affiliate_facet": "Culp, Julia",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 13729,
+            "affiliate_facet": "private Sammlung (Karlsruhe)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 14226,
+            "affiliate_facet": "Iustinus, Marcus Iunianus (ca. 3. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 14542,
+            "affiliate_facet": "Vincentius <Bellovacensis> (1190-1264)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 14887,
+            "affiliate_facet": "Leider, Frida",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 15646,
+            "affiliate_facet": "Museo Archeologico Regionale (Agrigent)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 15796,
+            "affiliate_facet": "[Johann Froschauer]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 21210,
+            "affiliate_facet": "Bloemen, Jan Frans van",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 22820,
+            "affiliate_facet": "Richardus Pafraet",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 25173,
+            "affiliate_facet": "Momper, Josse de <2>",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 25767,
+            "affiliate_facet": "Schlusnus, Heinrich",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 27628,
+            "affiliate_facet": "Rossini, Gioachino",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 28596,
+            "affiliate_facet": "Lehmann, Lotte",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 31936,
+            "affiliate_facet": "Guilelmus <Peraldus> (-1271)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 32891,
+            "affiliate_facet": "Saracchi, Ambrogio",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 33494,
+            "affiliate_facet": "private Sammlung",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 33571,
+            "affiliate_facet": "Zelenka, Jan Dismas",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 34789,
+            "affiliate_facet": "Forst, Grete",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 38456,
+            "affiliate_facet": "Bellucci, Antonio",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 38671,
+            "affiliate_facet": "Crespi, Giuseppe Maria",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 40995,
+            "affiliate_facet": "Ancona, Mario",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 41735,
+            "affiliate_facet": "Haydn, Joseph",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 42349,
+            "affiliate_facet": "Augustinus <Dati> (1420-1478)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 42350,
+            "affiliate_facet": "Capaccius, Andreas (ca. 15. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 43789,
+            "affiliate_facet": "Reuchlin, Johannes (1455-1522)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 44946,
+            "affiliate_facet": "[Drucker des Jordanus, d.i. Georg Husner]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 50614,
+            "affiliate_facet": "Galleria e Museo di Palazzo Ducale (Mantua)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 52885,
+            "affiliate_facet": "Köhler, Johann Heinrich",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 53119,
+            "affiliate_facet": "Diözese (Eichstätt)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 53514,
+            "affiliate_facet": "Eusebius <Caesariensis> (260-339)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 59114,
+            "affiliate_facet": "Lortzing, Albert",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 61578,
+            "affiliate_facet": "Boninsegna, Celestina",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 62200,
+            "affiliate_facet": "Johannes <Andreas> (1417-1475)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 62779,
+            "affiliate_facet": "Erb, Karl",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 65236,
+            "affiliate_facet": "Georgius <Trapezuntius> (1395-1484)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 69683,
+            "affiliate_facet": "Bolz, Oskar",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 69884,
+            "affiliate_facet": "[Michael Furter]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 70224,
+            "affiliate_facet": "Konrad Sweynheym und Arnold Pannartz",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 70478,
+            "affiliate_facet": "Lauch, Balthasar",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 77299,
+            "affiliate_facet": "Preuss, Arthur",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 77471,
+            "affiliate_facet": "Kraus, Ernst",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 79337,
+            "affiliate_facet": "Knote, Heinrich",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 81714,
+            "affiliate_facet": "Branzell, Karin",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 87316,
+            "affiliate_facet": "[Lucas Brandis]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 91619,
+            "affiliate_facet": "Farrar, Geraldine",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 94673,
+            "affiliate_facet": "Friedrich Creussner",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 96160,
+            "affiliate_facet": "[Friedrich Creussner]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 96635,
+            "affiliate_facet": "Kittel, Hermine",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 97543,
+            "affiliate_facet": "Sandrart, Jakob von",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 98269,
+            "affiliate_facet": "Alanus <ab Insulis> (1120-1202)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 98399,
+            "affiliate_facet": "Felsecker, ?",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 98543,
+            "affiliate_facet": "Matzenauer, Margarete",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 99260,
+            "affiliate_facet": "[Johann Grüninger]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 99328,
+            "affiliate_facet": "Johannes <de Turrecremata> (1388-1468)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 100770,
+            "affiliate_facet": "Türke, Georg",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 107982,
+            "affiliate_facet": "Hutt, Robert",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 108752,
+            "affiliate_facet": "Rolevinck, Werner (1425-1502)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 131634,
+            "affiliate_facet": "Reinerus <de Pisis> (-1348)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 138625,
+            "affiliate_facet": "Antonius <Andreas> (ca. ca. 1280 - ca. 1320)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 139046,
+            "affiliate_facet": "Innocentius <IV., Papa> (1195-1254)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 142309,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie (Vatikan)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 151151,
+            "affiliate_facet": "Städtische Kunstsammlungen — Römisches Museum in der Dominikanerkirche (Augsburg)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 152781,
+            "affiliate_facet": "Bachmann, Hermann",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 156953,
+            "affiliate_facet": "[Johann Otmar]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 167325,
+            "affiliate_facet": "[Peter Drach der Ältere]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 177979,
+            "affiliate_facet": "Musée de l'Arles Antique (Arles)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 180836,
+            "affiliate_facet": "Fanger, Otto",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 182087,
+            "affiliate_facet": "Jacobus <Florentinus> (ca. 15. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 185622,
+            "affiliate_facet": "Mařák, Otakar",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 189928,
+            "affiliate_facet": "Musil, Clara",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 193482,
+            "affiliate_facet": "Galvanus <de Bononia> (ca. um 1386)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 201444,
+            "affiliate_facet": "Berthold <der Bruder> (ca. 1296/1303)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 216160,
+            "affiliate_facet": "Christoph Arnold",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 218125,
+            "affiliate_facet": "Marák, Otakar",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 226639,
+            "affiliate_facet": "Hugo <de Prato Florido> (-1322)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 229328,
+            "affiliate_facet": "Demougeot, Marcelle",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 237686,
+            "affiliate_facet": "Grütsch, Conrad (1409-1475)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 244714,
+            "affiliate_facet": "Borgatti, Giuseppe",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 246232,
+            "affiliate_facet": "[Bernhard Richel]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 251086,
+            "affiliate_facet": "Wilhelm <Eichstätt, Bischof> (1426-1496)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 275706,
+            "affiliate_facet": "Baklanoff, George",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 275791,
+            "affiliate_facet": "Marignan, Jane",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 303117,
+            "affiliate_facet": "Campagnola, Léon",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 305161,
+            "affiliate_facet": "[Petrus Petri, Friedrich Eber und Johannes Conradi]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 316332,
+            "affiliate_facet": "Museo Romano (Brescia)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 330700,
+            "affiliate_facet": "Peter Drach der Mittlere",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 331702,
+            "affiliate_facet": "Fischer, Emil",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 332499,
+            "affiliate_facet": "Sarachi",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 340023,
+            "affiliate_facet": "[Konrad Winters]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 370748,
+            "affiliate_facet": "[Drucker des Wiener Almanachs für 1462, GW 1287]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 376783,
+            "affiliate_facet": "Lohfing, Max",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 376937,
+            "affiliate_facet": "[Pierre Mareschal und Barnabé Chaussard]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 376938,
+            "affiliate_facet": "Ladavianus, Johannes (ca. 15. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 379384,
+            "affiliate_facet": "Astesanus <de Ast> (-1330)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 379739,
+            "affiliate_facet": "Petrus <Jacobi> (1311-)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 400193,
+            "affiliate_facet": "[Johann Sensenschmidt und Andreas Frisner]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 413230,
+            "affiliate_facet": "Hugo <Argentinensis> (1210-1270)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 430134,
+            "affiliate_facet": "Gasparinus <Barzizius> (1359-1431)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 435282,
+            "affiliate_facet": "Koene, Francis",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 435283,
+            "affiliate_facet": "IJzer, Maurice van",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 437693,
+            "affiliate_facet": "Johannes <Bromiardus> (ca. gest. ca. 1390, bzw. ca. 1409)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 439254,
+            "affiliate_facet": "[Jakob Wolff]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 447074,
+            "affiliate_facet": "Alvarez, Albert",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 676070,
+            "affiliate_facet": "Eden, Irene",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 686331,
+            "affiliate_facet": "[Konrad Mancz]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 715187,
+            "affiliate_facet": "Bellincioni, Gemma",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 744992,
+            "affiliate_facet": "Götz, Leonhard (16. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 744993,
+            "affiliate_facet": "Fingerlin, Ludwig (16. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 748299,
+            "affiliate_facet": "Flégier, Ange",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 782147,
+            "affiliate_facet": "Viglione-Borghese, Domenico",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 795724,
+            "affiliate_facet": "[Michael Furter für Mathias Walker]",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 795725,
+            "affiliate_facet": "Walker, Mathias (ca. 15. Jh.)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 887674,
+            "affiliate_facet": "Albers, Henri",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 919945,
+            "affiliate_facet": "Fabbri-Boesmi, Franco",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 970615,
+            "affiliate_facet": "Migliori, Francesco",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 1062681,
+            "affiliate_facet": "Legrand, Jacques (1365-1420)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 116,
+            "affiliate_facet": "Boccaccio, Giovanni (1313-1375)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 131,
+            "affiliate_facet": "Domänenkanzlei",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 169,
+            "affiliate_facet": "Antonius <de Rampegollis> (1360-1423)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 264,
+            "affiliate_facet": "Wagner",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1467,
+            "affiliate_facet": "Archäologisches Museum (Ioannina)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1469,
+            "affiliate_facet": "Staatliche Kunstsammlungen — Schloss Wilhelmshöhe (Kassel)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1564,
+            "affiliate_facet": "Forstdirektion Freiburg",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1634,
+            "affiliate_facet": "Nachlaß Herzog Wilhelm II. von Urach",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1779,
+            "affiliate_facet": "Plinius Secundus, Gaius (23-79)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1862,
+            "affiliate_facet": "Hesch, Wilhelm",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1946,
+            "affiliate_facet": "Knight, Joseph P.",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1948,
+            "affiliate_facet": "Willard, Emma C.",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2075,
+            "affiliate_facet": "STB",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2079,
+            "affiliate_facet": "Museo Archeologico Nazionale (Neapel)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2139,
+            "affiliate_facet": "Ägyptisches Museum (Kairo)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2409,
+            "affiliate_facet": "Suetonius Tranquillus, Gaius (70-150)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2594,
+            "affiliate_facet": "Johannes <Argyropulus> (1415-1487)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2611,
+            "affiliate_facet": "Permoser, Balthasar",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2615,
+            "affiliate_facet": "Geißler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2749,
+            "affiliate_facet": "Winckler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2847,
+            "affiliate_facet": "Bonaventura <Sanctus> (1221-1274)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 3798,
+            "affiliate_facet": "Bartolus <de Saxoferrato> (1314-1357)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 3890,
+            "affiliate_facet": "Kramer, Rudolph (Fotograf)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 3899,
+            "affiliate_facet": "Galenus (129-199)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4219,
+            "affiliate_facet": "Euripides (v480-v406)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4314,
+            "affiliate_facet": "Frisörmuseum",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5134,
+            "affiliate_facet": "Hempel, Frieda",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5258,
+            "affiliate_facet": "Friedrich, Caspar David",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5307,
+            "affiliate_facet": "Philipps-Universität — Archäologisches Seminar (Marburg)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5438,
+            "affiliate_facet": "Thiele, Johann Alexander",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5485,
+            "affiliate_facet": "Philelphus, Franciscus (1398-1481)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5601,
+            "affiliate_facet": "Dinglinger, Georg Friedrich <1666>",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5652,
+            "affiliate_facet": "Tertullianus, Quintus Septimius Florens (150-230)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5840,
+            "affiliate_facet": "Tartaretus, Petrus (ca. gest. ca. 1522)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 5850,
+            "affiliate_facet": "Ivogün, Maria",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 6145,
+            "affiliate_facet": "Gregorius <de Tipherno> (1414-1462)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 6146,
+            "affiliate_facet": "Guarinus <Veronensis> (1374-1460)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 6748,
+            "affiliate_facet": "Anselmus <Cantuariensis> (1033-1109)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7045,
+            "affiliate_facet": "Jacobus <de Arena> (ca. ca. 1270-ca. 1320)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7102,
+            "affiliate_facet": "Carus, Carl Gustav",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7231,
+            "affiliate_facet": "[Johann Schönsperger]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7349,
+            "affiliate_facet": "Badisches Landesmuseum (Karlsruhe)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7663,
+            "affiliate_facet": "Württembergisches Landesmuseum (Stuttgart)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7715,
+            "affiliate_facet": "Württ. Bundestagsgesandtschaft in Frankfurt a. M.",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7881,
+            "affiliate_facet": "Martinus <de Fano> (-1272)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7886,
+            "affiliate_facet": "Unbekannt",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 8480,
+            "affiliate_facet": "Schönbach, Hans Willy (Fotograf)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 9452,
+            "affiliate_facet": "Franck, Christoph",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 9807,
+            "affiliate_facet": "Endter",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 9986,
+            "affiliate_facet": "Plinius Caecilius Secundus, Gaius (61/62-ca. 114)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 10046,
+            "affiliate_facet": "Burg, Robert",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 10384,
+            "affiliate_facet": "Bruni, Leonardo (1370-1444)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 10862,
+            "affiliate_facet": "Museum Wiesbaden — Sammlung Nassauischer Altertümer (Wiesbaden)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 11251,
+            "affiliate_facet": "Wendelin von Speyer",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 11719,
+            "affiliate_facet": "NL Fürst Maximilian Carl",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 11734,
+            "affiliate_facet": "Theodorus <Gaza> (1398-1476)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 12384,
+            "affiliate_facet": "Giambologna",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 12865,
+            "affiliate_facet": "Johann von Köln und Johann Manthen",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 13122,
+            "affiliate_facet": "Stehmann, Gerhard",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 13168,
+            "affiliate_facet": "Gueudeville, Nicolas (1654-1721)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 14765,
+            "affiliate_facet": "Hessisches Landesmuseum Darmstadt (Darmstadt)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 16536,
+            "affiliate_facet": "[Bartolomeo de' Libri],",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 17905,
+            "affiliate_facet": "Saalburgmuseum (Bad Homburg vor der Höhe)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18165,
+            "affiliate_facet": "Domitius <de Calderiis> (1446-1478)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18168,
+            "affiliate_facet": "Medici, Lorenzo de' (1449-1492)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18368,
+            "affiliate_facet": "Erhard Ratdolt",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18576,
+            "affiliate_facet": "Battistini, Mattia",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18806,
+            "affiliate_facet": "Musée National du Louvre — Département des Antiquités égyptiennes (Paris)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18839,
+            "affiliate_facet": "[Stephan Plannck]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 19332,
+            "affiliate_facet": "Klein",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 19556,
+            "affiliate_facet": "Pattiera, Tino",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 19845,
+            "affiliate_facet": "Corvinus, Johann August",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 19974,
+            "affiliate_facet": "Caccialupus, Johannes Baptista (ca. 1427-1496)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 20137,
+            "affiliate_facet": "Vaguet, Albert",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 20390,
+            "affiliate_facet": "[Christophorus de Canibus]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 20676,
+            "affiliate_facet": "Rethel, Alfred",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21120,
+            "affiliate_facet": "Hoffmann, Johann",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21416,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Gregoriano Profano (Vatikan)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21542,
+            "affiliate_facet": "Meister H L",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21543,
+            "affiliate_facet": "Meister des Breisacher Hochaltars",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21957,
+            "affiliate_facet": "Meier-Staubach, Christel (1942-)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 21982,
+            "affiliate_facet": "Furck, Sebastian",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 22364,
+            "affiliate_facet": "Accursius, Franciscus <Senior> (1185-1263)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23211,
+            "affiliate_facet": "Buonincontro, Lorenzo (1410-1500)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23224,
+            "affiliate_facet": "Duns Scotus, Johannes (1266-1308)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23519,
+            "affiliate_facet": "Kestner-Museum (Hannover)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23622,
+            "affiliate_facet": "[Peter Wagner]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23673,
+            "affiliate_facet": "Peter Schöffer",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 24158,
+            "affiliate_facet": "Römer- und Pelizaeus-Museum (Hildesheim)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 25275,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Kircheriano (Vatikan)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 25318,
+            "affiliate_facet": "Kauffmann, Angelica",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 25689,
+            "affiliate_facet": "[Johann Bämler]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 25823,
+            "affiliate_facet": "Peregrinus <de Oppeln> (1260-1335)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 25897,
+            "affiliate_facet": "Bonus <Accursius> (ca. gest. 1485)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 26563,
+            "affiliate_facet": "Klenze, Leo von (1784-1864)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 26992,
+            "affiliate_facet": "Johannes <Versor> (ca. gest. ca. 1482)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 27465,
+            "affiliate_facet": "Günther Zainer",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 27879,
+            "affiliate_facet": "Bellotto, Bernardo",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 28009,
+            "affiliate_facet": "Carriera, Rosalba",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 28083,
+            "affiliate_facet": "Theodoretus <Cyrrhensis> (393-466)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 28094,
+            "affiliate_facet": "Reni, Guido",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 28890,
+            "affiliate_facet": "Württemberg, Haus",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 29958,
+            "affiliate_facet": "Lincke, Erna",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 30367,
+            "affiliate_facet": "Konrad Kachelofen",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 30594,
+            "affiliate_facet": "Musée Saint-Remi de Reims (Reims)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 30706,
+            "affiliate_facet": "Kark, Friedrich",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 31650,
+            "affiliate_facet": "private Sammlung (Düsseldorf)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 31796,
+            "affiliate_facet": "Archäologisches Museum",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 31941,
+            "affiliate_facet": "Johann Bämler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 32029,
+            "affiliate_facet": "Museo Archeologico Nazionale — Farnese-Sammlung (Neapel)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 33855,
+            "affiliate_facet": "Nicolaus <de Tudeschis> (1386-1445)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 34348,
+            "affiliate_facet": "Sabellicus, Marcus Antonius (1436-1506)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 34561,
+            "affiliate_facet": "Museo dell'Età Cristiana (Brescia)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 34870,
+            "affiliate_facet": "Calfurnio, Giovanni (1443-1503)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 35142,
+            "affiliate_facet": "Beroaldo, Filippo (1453-1505)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 35363,
+            "affiliate_facet": "Bohnen, Michael",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 36319,
+            "affiliate_facet": "Apuleius <Madaurensis> (125-190)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 37209,
+            "affiliate_facet": "[Anton Koberger]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 37229,
+            "affiliate_facet": "Omnibonus <Leonicenus> (1412-1474)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 38998,
+            "affiliate_facet": "Helgers, Otto",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 39218,
+            "affiliate_facet": "Dietrich, Christian Wilhelm Ernst",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 40519,
+            "affiliate_facet": "Lanfrancus <de Oriano> (-1488)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 41486,
+            "affiliate_facet": "Städtische Museen (Heilbronn)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 41610,
+            "affiliate_facet": "Piombo, Sebastiano del",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 42553,
+            "affiliate_facet": "NL Fürst Carl Thomas",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 42945,
+            "affiliate_facet": "Schnell, Martin",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 43179,
+            "affiliate_facet": "Kurz, Selma",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 43207,
+            "affiliate_facet": "Albrecht <von Eyb> (1420-1475)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 44164,
+            "affiliate_facet": "Richardus <de Mediavilla> (1249-1302)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 44623,
+            "affiliate_facet": "Historisches Museum der Pfalz mit Weinmuseum (Speyer)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 45879,
+            "affiliate_facet": "Univ.,",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 45910,
+            "affiliate_facet": "Thomae, Benjamin",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 46744,
+            "affiliate_facet": "Johannes <Crastonus> (ca. um 1475/92)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 46745,
+            "affiliate_facet": "Turrianus, Johannes Franciscus (ca. 15./16. Jh.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 47042,
+            "affiliate_facet": "[Wendelin von Speyer]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 48346,
+            "affiliate_facet": "Daumier, Honoré",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 48584,
+            "affiliate_facet": "[Johann Sensenschmidt und Heinrich Keffer]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 48667,
+            "affiliate_facet": "Nicolai, Otto",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 48893,
+            "affiliate_facet": "Agora Museum (Athen)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 49424,
+            "affiliate_facet": "Journet, Marcel",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 50529,
+            "affiliate_facet": "Nikolaus Kessler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 51236,
+            "affiliate_facet": "Fischer,",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 52248,
+            "affiliate_facet": "Aesopus (ca. 6. Jh. v. Chr.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 53498,
+            "affiliate_facet": "Florus, Lucius Annaeus (ca. 2. Jh. n. Chr.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 54663,
+            "affiliate_facet": "Melba, Nellie",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 55021,
+            "affiliate_facet": "Rupertus <Tuitensis> (ca. 1075/80-1129/30)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 55550,
+            "affiliate_facet": "Sulpitius, Johannes",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 55799,
+            "affiliate_facet": "Spindler, Ludwig Gottfried",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 56036,
+            "affiliate_facet": "Dorsch, Ferdinand",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 56561,
+            "affiliate_facet": "Hüttel, Christa (Fotograf)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 56888,
+            "affiliate_facet": "Hanik, Susanne",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 57742,
+            "affiliate_facet": "Lucanus, Marcus Annaeus (39-65)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 57826,
+            "affiliate_facet": "Dio <Chrysostomus> (40-120)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 58730,
+            "affiliate_facet": "Galvany, Maria",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 60260,
+            "affiliate_facet": "Musée Bertrand? (Châteauroux (Indre))",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 62513,
+            "affiliate_facet": "[Gregor Boettiger]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 62989,
+            "affiliate_facet": "Mariette, Jean",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 65629,
+            "affiliate_facet": "Shakespeare, William",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 68329,
+            "affiliate_facet": "Nicolaus <de Dinkelspuhel> (1366-1433)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 69463,
+            "affiliate_facet": "Hilarius",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 69557,
+            "affiliate_facet": "British Museum — Department of Prehistory and Early Europe (London)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 69878,
+            "affiliate_facet": "Maler, Valentin",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 70144,
+            "affiliate_facet": "Metzger, Eduard (1807-1894)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 70226,
+            "affiliate_facet": "Ausonius, Decimus Magnus (310-395)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 70658,
+            "affiliate_facet": "Soccini, Bartolommeo (1436-1507)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 71216,
+            "affiliate_facet": "Johannes <Evangelist> (1. Jh.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 72114,
+            "affiliate_facet": "Meyer, Johann Friedrich",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 72763,
+            "affiliate_facet": "Jadlowker, Hermann",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 76148,
+            "affiliate_facet": "Johannes <XXI., Papa> (1210-1277)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 78257,
+            "affiliate_facet": "Georgius, Marinus (ca. 15. Jh.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 78934,
+            "affiliate_facet": "Ponchielli, Amilcare",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 79224,
+            "affiliate_facet": "Ferg, Franz de Paula",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 81769,
+            "affiliate_facet": "Müller, Auguste",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 81781,
+            "affiliate_facet": "Thomas, Ambroise",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 82499,
+            "affiliate_facet": "Lutherer, Carl",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 84962,
+            "affiliate_facet": "[Heinrich Quentell]",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 85797,
+            "affiliate_facet": "Johann Amerbach,",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 85798,
+            "affiliate_facet": "Otto <Constantiensis> (1452 - 1491)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 85799,
+            "affiliate_facet": "Christan, Michael (um 1460/84)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 87317,
+            "affiliate_facet": "Urdemann, Heinrich (-1485)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 87452,
+            "affiliate_facet": "Lindemann, Fritz",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 87542,
+            "affiliate_facet": "Cassiodorus, Flavius Magnus Aurelius (490-583)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 88378,
+            "affiliate_facet": "Honorius <Augustodunensis> (1080-1154)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 88441,
+            "affiliate_facet": "Theobaldus <de Sexannia> (ca. 13. Jh.)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 89380,
+            "affiliate_facet": "Demuth, Leopold",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 89738,
+            "affiliate_facet": "Abbaye de Saint-Maurice d'Agaune — Kirchenschatz (Saint-Maurice (Wallis))",
+            "occurrence": 1
+        }
+    ]
+}

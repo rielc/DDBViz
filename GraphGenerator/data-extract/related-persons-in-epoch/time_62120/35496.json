@@ -1,0 +1,44 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 35496,
+    "from_affiliate_facet": "Bank für Internationalen Zahlungsausgleich / Währungs- und Wirtschaftsabteilung",
+    "occurrence": 19,
+    "affiliates": [
+        {
+            "facet_id": 35496,
+            "occurrence": 19,
+            "value": "Bank für Internationalen Zahlungsausgleich / Währungs- und Wirtschaftsabteilung"
+        },
+        {
+            "facet_id": 35494,
+            "occurrence": 18,
+            "value": "Bank for International Settlements,"
+        },
+        {
+            "facet_id": 26753,
+            "occurrence": 1,
+            "value": "BIS"
+        },
+        {
+            "facet_id": 35495,
+            "occurrence": 1,
+            "value": "Mihaljek, Dubravko"
+        },
+        {
+            "facet_id": 371671,
+            "occurrence": 1,
+            "value": "Moreno, Ramon"
+        },
+        {
+            "facet_id": 1050418,
+            "occurrence": 1,
+            "value": "Archer, David J."
+        },
+        {
+            "facet_id": 1050419,
+            "occurrence": 1,
+            "value": "Moser-Boehm, Paul"
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "epochID": 64,
+    "epoch": "time_39300",
+    "count": 102,
+    "items": [
+        {
+            "affiliate_facet_id": 4746,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 3346,
+            "affiliate_facet": "Archäologisches Nationalmuseum (Athen)",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 34634,
+            "affiliate_facet": "Musée National du Louvre — Département des Antiquités orientales et d'Art d'Islam (Paris)",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 125509,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Kircheriano? (Vatikan)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 8874,
+            "affiliate_facet": "Archäologisches Museum (Iraklion)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 846,
+            "affiliate_facet": "Museo Nazionale di Villa Giulia (Rom)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 9991,
+            "affiliate_facet": "Staatliche Antikensammlungen und Glyptothek (München)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 50532,
+            "affiliate_facet": "Museo Archeologico Regionale (Syrakus)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 9936,
+            "affiliate_facet": "Museo Archeologico Nazionale (Cagliari)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 138732,
+            "affiliate_facet": "Archäologisches Museum (Samos)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 39292,
+            "affiliate_facet": "Museo Nazionale Tarquiniese (Tarquinia)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 132754,
+            "affiliate_facet": "Archäologisches Museum (Rhodos)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 7349,
+            "affiliate_facet": "Badisches Landesmuseum (Karlsruhe)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 10321,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Vor- und Frühgeschichte (Berlin)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 144531,
+            "affiliate_facet": "Museo Archeologico Nazionale (Palestrina)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 16402,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Vorderasiatisches Museum (Berlin)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 25118,
+            "affiliate_facet": "Museo Archeologico (Florenz)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 37778,
+            "affiliate_facet": "Archäologisches Museum (Olympia)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 81360,
+            "affiliate_facet": "Museo Civico Archeologico (Bologna)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 401867,
+            "affiliate_facet": "Amenerdais (Ägypten, Fürstin)",
+            "occurrence": 7
+        },
+        {
+            "affiliate_facet_id": 2139,
+            "affiliate_facet": "Ägyptisches Museum (Kairo)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 50166,
+            "affiliate_facet": "Kerameikos-Museum (Athen)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 224305,
+            "affiliate_facet": "Museo Archeologico Mecenate (Arezzo)",
+            "occurrence": 6
+        },
+        {
+            "affiliate_facet_id": 5056,
+            "affiliate_facet": "Archäologisches Museum (Delphi)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 42462,
+            "affiliate_facet": "Archäologisches Museum (Delos)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 48893,
+            "affiliate_facet": "Agora Museum (Athen)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 63534,
+            "affiliate_facet": "Museo Nazionale Etrusco (Chiusi)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 87628,
+            "affiliate_facet": "Monumenti, Musei e Gallerie Pontificie — Museo Gregoriano Etrusco (Vatikan)",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 257118,
+            "affiliate_facet": "Analatos-Maler",
+            "occurrence": 5
+        },
+        {
+            "affiliate_facet_id": 20415,
+            "affiliate_facet": "Archäologisches Museum (Thera)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 31796,
+            "affiliate_facet": "Archäologisches Museum",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 37283,
+            "affiliate_facet": "Musei Capitolini (Rom)",
+            "occurrence": 4
+        },
+        {
+            "affiliate_facet_id": 50833,
+            "affiliate_facet": "Archäologisches Museum (Eleusis)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 55255,
+            "affiliate_facet": "Archäologisches Museum (Nauplion)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 55362,
+            "affiliate_facet": "Archäologisches Museum (Mykonos)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 83296,
+            "affiliate_facet": "Archäologisches Museum (Argos)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 107235,
+            "affiliate_facet": "Taharka (Ägypten, König)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 143075,
+            "affiliate_facet": "Württembergisches Landesmuseum — Vorgeschichtliche Sammlung (Stuttgart)",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 676315,
+            "affiliate_facet": "Dipylon-Maler",
+            "occurrence": 3
+        },
+        {
+            "affiliate_facet_id": 2079,
+            "affiliate_facet": "Museo Archeologico Nazionale (Neapel)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 2487,
+            "affiliate_facet": "Museum Folkwang (Essen)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 2607,
+            "affiliate_facet": "Kurhessische Hausstiftung — Schloss Fasanerie (Adolfseck (Kreis Fulda))",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 4340,
+            "affiliate_facet": "Liebieghaus (Frankfurt (Main))",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 8970,
+            "affiliate_facet": "Martin von Wagner Museum der Universität (Würzburg)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 12553,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Ägyptisches Museum (Berlin)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 13729,
+            "affiliate_facet": "private Sammlung (Karlsruhe)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 44623,
+            "affiliate_facet": "Historisches Museum der Pfalz mit Weinmuseum (Speyer)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 57620,
+            "affiliate_facet": "Archäologisches Museum (Thasos)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 66634,
+            "affiliate_facet": "Thutmosis (Ägypten, König, 3)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 128129,
+            "affiliate_facet": "Museum Birkenfeld (Birkenfeld Kreis Birkenfeld)",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 350148,
+            "affiliate_facet": "Hirschfeld-Maler",
+            "occurrence": 2
+        },
+        {
+            "affiliate_facet_id": 1294,
+            "affiliate_facet": "Akropolis-Museum (Athen)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 2216,
+            "affiliate_facet": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 3490,
+            "affiliate_facet": "Umweltbundesamt",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4170,
+            "affiliate_facet": "Mesogeia-Maler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4171,
+            "affiliate_facet": "private Sammlung (Athen)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4541,
+            "affiliate_facet": "British Museum (London)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 4660,
+            "affiliate_facet": "Vandenhoeck & Ruprecht,",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 7238,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung? (Berlin)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 9620,
+            "affiliate_facet": "private Sammlung (Mannheim)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 10566,
+            "affiliate_facet": "unbekannt private Sammlung (Marburg)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 11894,
+            "affiliate_facet": "Ramses (Ägypten, König, 2)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 14672,
+            "affiliate_facet": "private Sammlung (Bonn)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 15646,
+            "affiliate_facet": "Museo Archeologico Regionale (Agrigent)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 18806,
+            "affiliate_facet": "Musée National du Louvre — Département des Antiquités égyptiennes (Paris)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 23870,
+            "affiliate_facet": "Philipps-Universität Marburg — Archäologisches Seminar (Marburg)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 35957,
+            "affiliate_facet": "Museo Archeologico Regionale Antonino Salinas (Palermo)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 39968,
+            "affiliate_facet": "Archäologisches Museum (Korinth)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 55566,
+            "affiliate_facet": "Staatliche Kunstsammlungen Dresden — Skulpturensammlung (Dresden)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 58484,
+            "affiliate_facet": "Museo Egizio (Turin)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 65059,
+            "affiliate_facet": "Staatliche Eremitage (Sankt Petersburg)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 90670,
+            "affiliate_facet": "Archäologisches Institut (Tübingen)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 96456,
+            "affiliate_facet": "Museum von Ioannina (Ioannina)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 106564,
+            "affiliate_facet": "Archäologisches Museum (Chania)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 107236,
+            "affiliate_facet": "Thutmosis (Ägypten, König, 4)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 122432,
+            "affiliate_facet": "Archäologisches Nationalmuseum (Athen?)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 125958,
+            "affiliate_facet": "Archäologisches Institut? (München)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 129341,
+            "affiliate_facet": "Deutschland / Umweltbundesamt",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 134250,
+            "affiliate_facet": "Musées Royaux d'Art et d'Histoire — Antiquité et classique (Brüssel)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 151151,
+            "affiliate_facet": "Städtische Kunstsammlungen — Römisches Museum in der Dominikanerkirche (Augsburg)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 162573,
+            "affiliate_facet": "Amenophis (Ägypten, König, 3)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 166455,
+            "affiliate_facet": "Ehemaliges Provinzialmuseum — Sammlung Pommerscher Altertümer (Szczecin)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 167741,
+            "affiliate_facet": "Ptolemaios (Ägypten, König, 2, Philadelphos)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 209349,
+            "affiliate_facet": "Staatliche Antikensammlungen und Glyptothek? (München)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 212320,
+            "affiliate_facet": "Ptolemaios (Ägypten, König, 6, Philometor)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 292468,
+            "affiliate_facet": "Ptolemaios (Ägypten, König, 3, Euergetes, 1)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 297762,
+            "affiliate_facet": "Greco-Roman Museum (Alexandria)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 304371,
+            "affiliate_facet": "Archäologisches Museum (Bergama)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 355052,
+            "affiliate_facet": "Berliner Maler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 373750,
+            "affiliate_facet": "Staatliches Museum Ägyptischer Kunst? (München)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 429209,
+            "affiliate_facet": "Svenshon, Helge Olaf (1954-)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 531779,
+            "affiliate_facet": "Archäologisches Museum (Thermos)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 538891,
+            "affiliate_facet": "Archäologisches Museum (Naxos)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 565404,
+            "affiliate_facet": "Aristonothos",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 594607,
+            "affiliate_facet": "Dihle, Albrecht (1923-)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 683302,
+            "affiliate_facet": "Ptolemaios (Ägypten, König, 11, Alexander, 2)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 775464,
+            "affiliate_facet": "Sabakon (Ägypten, König)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1017576,
+            "affiliate_facet": "Tyszkiewicz-Maler",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1054467,
+            "affiliate_facet": "Maler von Palermo 1108",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1060062,
+            "affiliate_facet": "Museo Archeologico Comunale (Artimino di Carmignano)",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1075410,
+            "affiliate_facet": "Bulba, Mustafa",
+            "occurrence": 1
+        },
+        {
+            "affiliate_facet_id": 1158386,
+            "affiliate_facet": "Hübinger, Ulrich",
+            "occurrence": 1
+        }
+    ]
+}

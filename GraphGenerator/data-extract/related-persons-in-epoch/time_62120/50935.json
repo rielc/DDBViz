@@ -1,0 +1,79 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 50935,
+    "from_affiliate_facet": "Reiß, Michael",
+    "occurrence": 87,
+    "affiliates": [
+        {
+            "facet_id": 3100,
+            "occurrence": 87,
+            "value": "Universitätsbibliothek der Universität Stuttgart"
+        },
+        {
+            "facet_id": 50935,
+            "occurrence": 87,
+            "value": "Reiß, Michael"
+        },
+        {
+            "facet_id": 179402,
+            "occurrence": 8,
+            "value": "Corsten, Hans"
+        },
+        {
+            "facet_id": 50934,
+            "occurrence": 5,
+            "value": "Brink, Hans-Josef"
+        },
+        {
+            "facet_id": 54812,
+            "occurrence": 3,
+            "value": "Morelli, Frank"
+        },
+        {
+            "facet_id": 287141,
+            "occurrence": 3,
+            "value": "Höge, Robert"
+        },
+        {
+            "facet_id": 221756,
+            "occurrence": 2,
+            "value": "Beck, Thilo C."
+        },
+        {
+            "facet_id": 356197,
+            "occurrence": 2,
+            "value": "Gans, Christian"
+        },
+        {
+            "facet_id": 20805,
+            "occurrence": 1,
+            "value": "Schuster, Hermann"
+        },
+        {
+            "facet_id": 304318,
+            "occurrence": 1,
+            "value": "Feige, Wolfgang"
+        },
+        {
+            "facet_id": 304319,
+            "occurrence": 1,
+            "value": "Rohwer, Bernd"
+        },
+        {
+            "facet_id": 699924,
+            "occurrence": 1,
+            "value": "Pfau, Wolfgang"
+        },
+        {
+            "facet_id": 973557,
+            "occurrence": 1,
+            "value": "Grimmeisen, Markus"
+        },
+        {
+            "facet_id": 1080841,
+            "occurrence": 1,
+            "value": "Klein-Blenkers, Fritz"
+        }
+    ]
+}

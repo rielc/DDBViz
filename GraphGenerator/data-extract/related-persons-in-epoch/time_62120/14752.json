@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 14752,
+    "from_affiliate_facet": "Seyfried, Hartmut",
+    "occurrence": 16,
+    "affiliates": [
+        {
+            "facet_id": 14752,
+            "occurrence": 16,
+            "value": "Seyfried, Hartmut"
+        },
+        {
+            "facet_id": 1110,
+            "occurrence": 15,
+            "value": "ZDV Universität Tübingen,"
+        },
+        {
+            "facet_id": 3100,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek der Universität Stuttgart"
+        },
+        {
+            "facet_id": 365330,
+            "occurrence": 1,
+            "value": "Strasser, Marcel"
+        }
+    ]
+}

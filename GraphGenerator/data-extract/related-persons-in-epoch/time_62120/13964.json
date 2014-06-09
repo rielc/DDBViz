@@ -1,0 +1,679 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 13964,
+    "from_affiliate_facet": "Universitätsbibliothek Technische Universität Berlin",
+    "occurrence": 68,
+    "affiliates": [
+        {
+            "facet_id": 13964,
+            "occurrence": 68,
+            "value": "Universitätsbibliothek Technische Universität Berlin"
+        },
+        {
+            "facet_id": 271681,
+            "occurrence": 13,
+            "value": "Forum für Stadt- und Regionalplanung, c/o Institut für Stadt- und Regionalplanung"
+        },
+        {
+            "facet_id": 98491,
+            "occurrence": 7,
+            "value": "Dittmar, Jakob F."
+        },
+        {
+            "facet_id": 28885,
+            "occurrence": 6,
+            "value": "Zarnekow, Rüdiger (1968-)"
+        },
+        {
+            "facet_id": 143455,
+            "occurrence": 5,
+            "value": "Erek, Koray"
+        },
+        {
+            "facet_id": 143456,
+            "occurrence": 4,
+            "value": "Schmidt, Nils-Holger"
+        },
+        {
+            "facet_id": 143457,
+            "occurrence": 3,
+            "value": "Löser, Fabian"
+        },
+        {
+            "facet_id": 13967,
+            "occurrence": 2,
+            "value": "Calbet i Elias, Laura"
+        },
+        {
+            "facet_id": 42619,
+            "occurrence": 2,
+            "value": "Gaskins, Matthew"
+        },
+        {
+            "facet_id": 313884,
+            "occurrence": 2,
+            "value": "Wilkens, Marc"
+        },
+        {
+            "facet_id": 411337,
+            "occurrence": 2,
+            "value": "Flecken, Ursula"
+        },
+        {
+            "facet_id": 449612,
+            "occurrence": 2,
+            "value": "Straube, Frank"
+        },
+        {
+            "facet_id": 611709,
+            "occurrence": 2,
+            "value": "Rückert, Klaus"
+        },
+        {
+            "facet_id": 995267,
+            "occurrence": 2,
+            "value": "Ben Bouzid, Atef"
+        },
+        {
+            "facet_id": 13965,
+            "occurrence": 1,
+            "value": "Bodenschatz, Harald (1946-)"
+        },
+        {
+            "facet_id": 13966,
+            "occurrence": 1,
+            "value": "Bremer, Stefanie"
+        },
+        {
+            "facet_id": 13968,
+            "occurrence": 1,
+            "value": "Hofmann, Aljoscha"
+        },
+        {
+            "facet_id": 13969,
+            "occurrence": 1,
+            "value": "Kegler, Harald"
+        },
+        {
+            "facet_id": 13970,
+            "occurrence": 1,
+            "value": "Lütke Daldrup, Engelbert"
+        },
+        {
+            "facet_id": 13971,
+            "occurrence": 1,
+            "value": "Polinna, Cordelia"
+        },
+        {
+            "facet_id": 13972,
+            "occurrence": 1,
+            "value": "Schlaack, Johanna"
+        },
+        {
+            "facet_id": 13973,
+            "occurrence": 1,
+            "value": "Oppen, Christian von"
+        },
+        {
+            "facet_id": 13974,
+            "occurrence": 1,
+            "value": "Think Berl!n + (Red.)"
+        },
+        {
+            "facet_id": 28884,
+            "occurrence": 1,
+            "value": "Repschläger, Jonas"
+        },
+        {
+            "facet_id": 33231,
+            "occurrence": 1,
+            "value": "Blind, Knut"
+        },
+        {
+            "facet_id": 42617,
+            "occurrence": 1,
+            "value": "Geissler, Alexander"
+        },
+        {
+            "facet_id": 42618,
+            "occurrence": 1,
+            "value": "Busse, Reinhard"
+        },
+        {
+            "facet_id": 60929,
+            "occurrence": 1,
+            "value": "Becker, Stephan"
+        },
+        {
+            "facet_id": 63786,
+            "occurrence": 1,
+            "value": "Theodossiou, Ioannis"
+        },
+        {
+            "facet_id": 82278,
+            "occurrence": 1,
+            "value": "Wozny, Günter"
+        },
+        {
+            "facet_id": 89882,
+            "occurrence": 1,
+            "value": "Aretz, Astrid"
+        },
+        {
+            "facet_id": 101174,
+            "occurrence": 1,
+            "value": "Roskamm, Nikolai"
+        },
+        {
+            "facet_id": 153414,
+            "occurrence": 1,
+            "value": "Buchfelder, Angela"
+        },
+        {
+            "facet_id": 175789,
+            "occurrence": 1,
+            "value": "Samulat, Peter"
+        },
+        {
+            "facet_id": 177571,
+            "occurrence": 1,
+            "value": "Hausmann, Christiane"
+        },
+        {
+            "facet_id": 183998,
+            "occurrence": 1,
+            "value": "Kirchner, Uta"
+        },
+        {
+            "facet_id": 183999,
+            "occurrence": 1,
+            "value": "Matuschka, Agnes von"
+        },
+        {
+            "facet_id": 184000,
+            "occurrence": 1,
+            "value": "TU Berlin, Gründungsservice"
+        },
+        {
+            "facet_id": 204787,
+            "occurrence": 1,
+            "value": "Leutz, Achim"
+        },
+        {
+            "facet_id": 207396,
+            "occurrence": 1,
+            "value": "Hirschl, Bernd"
+        },
+        {
+            "facet_id": 207397,
+            "occurrence": 1,
+            "value": "Böther, Timo"
+        },
+        {
+            "facet_id": 236754,
+            "occurrence": 1,
+            "value": "Hofmann, Susanne"
+        },
+        {
+            "facet_id": 236755,
+            "occurrence": 1,
+            "value": "Walter, Urs"
+        },
+        {
+            "facet_id": 256053,
+            "occurrence": 1,
+            "value": "Fritz, Rüdiger"
+        },
+        {
+            "facet_id": 256054,
+            "occurrence": 1,
+            "value": "Lang, Andrea"
+        },
+        {
+            "facet_id": 256055,
+            "occurrence": 1,
+            "value": "Kyriakopoulos, Fee"
+        },
+        {
+            "facet_id": 267043,
+            "occurrence": 1,
+            "value": "Völker, Stephan (1966-)"
+        },
+        {
+            "facet_id": 271680,
+            "occurrence": 1,
+            "value": "Butenschön, Sylvia"
+        },
+        {
+            "facet_id": 275941,
+            "occurrence": 1,
+            "value": "Philipp, Daniel"
+        },
+        {
+            "facet_id": 299512,
+            "occurrence": 1,
+            "value": "Glau, Thomas"
+        },
+        {
+            "facet_id": 308668,
+            "occurrence": 1,
+            "value": "Foljanty, Lukas"
+        },
+        {
+            "facet_id": 337472,
+            "occurrence": 1,
+            "value": "Ivaniec, Mario"
+        },
+        {
+            "facet_id": 337484,
+            "occurrence": 1,
+            "value": "Hinrichs, Timo"
+        },
+        {
+            "facet_id": 348029,
+            "occurrence": 1,
+            "value": "Forßbohm, Ulrike"
+        },
+        {
+            "facet_id": 350396,
+            "occurrence": 1,
+            "value": "Schedel, Michael"
+        },
+        {
+            "facet_id": 354385,
+            "occurrence": 1,
+            "value": "Nölting, Benjamin"
+        },
+        {
+            "facet_id": 362232,
+            "occurrence": 1,
+            "value": "Nelkert, Denise"
+        },
+        {
+            "facet_id": 362488,
+            "occurrence": 1,
+            "value": "Peseke, Birgit"
+        },
+        {
+            "facet_id": 362489,
+            "occurrence": 1,
+            "value": "Roschek, Annekathrin"
+        },
+        {
+            "facet_id": 421685,
+            "occurrence": 1,
+            "value": "Weid, Sabrina"
+        },
+        {
+            "facet_id": 424749,
+            "occurrence": 1,
+            "value": "Zehner, Carsten"
+        },
+        {
+            "facet_id": 441965,
+            "occurrence": 1,
+            "value": "Wachsen, Eva"
+        },
+        {
+            "facet_id": 449613,
+            "occurrence": 1,
+            "value": "Ouyeder, Ouelid"
+        },
+        {
+            "facet_id": 469574,
+            "occurrence": 1,
+            "value": "Jüttemann-Lembke, Amelie"
+        },
+        {
+            "facet_id": 491314,
+            "occurrence": 1,
+            "value": "Mansky, Thomas"
+        },
+        {
+            "facet_id": 491315,
+            "occurrence": 1,
+            "value": "Nimptsch, Ulrike"
+        },
+        {
+            "facet_id": 491316,
+            "occurrence": 1,
+            "value": "Vogel, Klemens"
+        },
+        {
+            "facet_id": 491317,
+            "occurrence": 1,
+            "value": "Hellerhoff, Friedhelm"
+        },
+        {
+            "facet_id": 493066,
+            "occurrence": 1,
+            "value": "Schäfer, Rudolf"
+        },
+        {
+            "facet_id": 497413,
+            "occurrence": 1,
+            "value": "Keppler, Dorothee"
+        },
+        {
+            "facet_id": 497414,
+            "occurrence": 1,
+            "value": "Grüttner, Frank"
+        },
+        {
+            "facet_id": 515470,
+            "occurrence": 1,
+            "value": "Dengel, Frank"
+        },
+        {
+            "facet_id": 537862,
+            "occurrence": 1,
+            "value": "Hady, Lukasz"
+        },
+        {
+            "facet_id": 551995,
+            "occurrence": 1,
+            "value": "Bahrke, Jeannine"
+        },
+        {
+            "facet_id": 562263,
+            "occurrence": 1,
+            "value": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, City of L’viv"
+        },
+        {
+            "facet_id": 580219,
+            "occurrence": 1,
+            "value": "Weber, Mike"
+        },
+        {
+            "facet_id": 607571,
+            "occurrence": 1,
+            "value": "Schertel, Daniel"
+        },
+        {
+            "facet_id": 609847,
+            "occurrence": 1,
+            "value": "Fokdal, Josefine"
+        },
+        {
+            "facet_id": 609848,
+            "occurrence": 1,
+            "value": "Technische Universität Berlin, Urban Management Program"
+        },
+        {
+            "facet_id": 609849,
+            "occurrence": 1,
+            "value": "Deutsche Gesellschaft für Technische Zusammenarbeit GmbH"
+        },
+        {
+            "facet_id": 609850,
+            "occurrence": 1,
+            "value": "Participatory Development Programme in Urban Areas GTZ - Egypt"
+        },
+        {
+            "facet_id": 694559,
+            "occurrence": 1,
+            "value": "Kern, Johanna"
+        },
+        {
+            "facet_id": 702633,
+            "occurrence": 1,
+            "value": "Nasrollahi, Farshad"
+        },
+        {
+            "facet_id": 702634,
+            "occurrence": 1,
+            "value": "Ohlenburg, Holger"
+        },
+        {
+            "facet_id": 702635,
+            "occurrence": 1,
+            "value": "Stellmacher, Florian"
+        },
+        {
+            "facet_id": 704739,
+            "occurrence": 1,
+            "value": "TU Berlin, Faculty VI, Institute of Architecture, Department Design and Structure as lead partner and project partners"
+        },
+        {
+            "facet_id": 717912,
+            "occurrence": 1,
+            "value": "Gutzmer, Janine"
+        },
+        {
+            "facet_id": 733230,
+            "occurrence": 1,
+            "value": "Futterlieb, Matthias"
+        },
+        {
+            "facet_id": 757674,
+            "occurrence": 1,
+            "value": "Flach, Hendrik"
+        },
+        {
+            "facet_id": 773260,
+            "occurrence": 1,
+            "value": "Fernholz, Hans-Hermann"
+        },
+        {
+            "facet_id": 790095,
+            "occurrence": 1,
+            "value": "Büker, Oliver"
+        },
+        {
+            "facet_id": 823507,
+            "occurrence": 1,
+            "value": "Drenkelfort, Gregor"
+        },
+        {
+            "facet_id": 823508,
+            "occurrence": 1,
+            "value": "Dittmar, Lars"
+        },
+        {
+            "facet_id": 823509,
+            "occurrence": 1,
+            "value": "Institut für Energietechnik"
+        },
+        {
+            "facet_id": 823510,
+            "occurrence": 1,
+            "value": "Institut für Technologie und Management"
+        },
+        {
+            "facet_id": 844173,
+            "occurrence": 1,
+            "value": "Albrecht, Svende"
+        },
+        {
+            "facet_id": 844174,
+            "occurrence": 1,
+            "value": "Parnitzke, Anna-Maria"
+        },
+        {
+            "facet_id": 844175,
+            "occurrence": 1,
+            "value": "Reichert, Josefine"
+        },
+        {
+            "facet_id": 848869,
+            "occurrence": 1,
+            "value": "Abt, Jan"
+        },
+        {
+            "facet_id": 848870,
+            "occurrence": 1,
+            "value": "Hillmann, Claudia"
+        },
+        {
+            "facet_id": 848871,
+            "occurrence": 1,
+            "value": "Forum für Stadt- und regionalplanung, c/o Institut für Stadt- und Regionalplanung"
+        },
+        {
+            "facet_id": 881325,
+            "occurrence": 1,
+            "value": "Kroll, Julia"
+        },
+        {
+            "facet_id": 886340,
+            "occurrence": 1,
+            "value": "Möhring, Thomas"
+        },
+        {
+            "facet_id": 890970,
+            "occurrence": 1,
+            "value": "Kreichauf, René"
+        },
+        {
+            "facet_id": 905430,
+            "occurrence": 1,
+            "value": "Bartczak-Gingold, Aleksandra"
+        },
+        {
+            "facet_id": 905431,
+            "occurrence": 1,
+            "value": "Nationales Alumniprogramm der TU Berlin"
+        },
+        {
+            "facet_id": 918305,
+            "occurrence": 1,
+            "value": "Höwler, Elisabeth"
+        },
+        {
+            "facet_id": 923014,
+            "occurrence": 1,
+            "value": "Kharitonova-Akhvlediani, Anastasia"
+        },
+        {
+            "facet_id": 951700,
+            "occurrence": 1,
+            "value": "Volkmann, Anne"
+        },
+        {
+            "facet_id": 953905,
+            "occurrence": 1,
+            "value": "Schilling, Thomas"
+        },
+        {
+            "facet_id": 971952,
+            "occurrence": 1,
+            "value": "Rebensburg, Klaus (1945-)"
+        },
+        {
+            "facet_id": 1016630,
+            "occurrence": 1,
+            "value": "Bösebeck, Viola"
+        },
+        {
+            "facet_id": 1016631,
+            "occurrence": 1,
+            "value": "Esins, Svea"
+        },
+        {
+            "facet_id": 1017614,
+            "occurrence": 1,
+            "value": "Beyer, Dennis"
+        },
+        {
+            "facet_id": 1019792,
+            "occurrence": 1,
+            "value": "Schäfer, Martina (1964-)"
+        },
+        {
+            "facet_id": 1019793,
+            "occurrence": 1,
+            "value": "Kebir, Noara"
+        },
+        {
+            "facet_id": 1019794,
+            "occurrence": 1,
+            "value": "Promotionskolleg Mikroenergie-Systeme <Berlin>"
+        },
+        {
+            "facet_id": 1021427,
+            "occurrence": 1,
+            "value": "Meier, Josiane (1979-)"
+        },
+        {
+            "facet_id": 1036035,
+            "occurrence": 1,
+            "value": "Winklmair, Claudia"
+        },
+        {
+            "facet_id": 1044572,
+            "occurrence": 1,
+            "value": "Andreeva, Elena"
+        },
+        {
+            "facet_id": 1051490,
+            "occurrence": 1,
+            "value": "Franke, Peter D."
+        },
+        {
+            "facet_id": 1082892,
+            "occurrence": 1,
+            "value": "Rußwinkel, Nele"
+        },
+        {
+            "facet_id": 1082893,
+            "occurrence": 1,
+            "value": "Drewitz, Uwe"
+        },
+        {
+            "facet_id": 1082894,
+            "occurrence": 1,
+            "value": "van Rijn, Hedderik"
+        },
+        {
+            "facet_id": 1091068,
+            "occurrence": 1,
+            "value": "Brenner, M. Harvey"
+        },
+        {
+            "facet_id": 1091069,
+            "occurrence": 1,
+            "value": "Drakopoulos, Stavros"
+        },
+        {
+            "facet_id": 1091070,
+            "occurrence": 1,
+            "value": "Edenharter, Günter"
+        },
+        {
+            "facet_id": 1091071,
+            "occurrence": 1,
+            "value": "Laurijssen, Eddy"
+        },
+        {
+            "facet_id": 1091072,
+            "occurrence": 1,
+            "value": "Mihályi, Péter"
+        },
+        {
+            "facet_id": 1091073,
+            "occurrence": 1,
+            "value": "Theorell, Töres"
+        },
+        {
+            "facet_id": 1091074,
+            "occurrence": 1,
+            "value": "Triomphe, Claude Emmanuel"
+        },
+        {
+            "facet_id": 1147845,
+            "occurrence": 1,
+            "value": "Zentner, Annette"
+        },
+        {
+            "facet_id": 1147846,
+            "occurrence": 1,
+            "value": "Velasco-Garrido, Marcial"
+        },
+        {
+            "facet_id": 1147847,
+            "occurrence": 1,
+            "value": "Busse, Reinhard (1963-)"
+        }
+    ]
+}

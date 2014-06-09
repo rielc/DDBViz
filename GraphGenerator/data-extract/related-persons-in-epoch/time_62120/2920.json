@@ -1,0 +1,59 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 2920,
+    "from_affiliate_facet": "Bahnprojekt Stuttgart-Ulm e.V.",
+    "occurrence": 20,
+    "affiliates": [
+        {
+            "facet_id": 2920,
+            "occurrence": 20,
+            "value": "Bahnprojekt Stuttgart-Ulm e.V."
+        },
+        {
+            "facet_id": 2916,
+            "occurrence": 14,
+            "value": "Bahnprojekt Stuttgart-Ulm,"
+        },
+        {
+            "facet_id": 61466,
+            "occurrence": 3,
+            "value": "Turmforum Bahnprojekt Stuttgart-Ulm,"
+        },
+        {
+            "facet_id": 353074,
+            "occurrence": 2,
+            "value": "Kraufmann, Franziska"
+        },
+        {
+            "facet_id": 803544,
+            "occurrence": 2,
+            "value": "Bahnprojekt Stuttgart-Ulm"
+        },
+        {
+            "facet_id": 418175,
+            "occurrence": 1,
+            "value": "Jünemann, Heike"
+        },
+        {
+            "facet_id": 790503,
+            "occurrence": 1,
+            "value": "Mantel, Lothar"
+        },
+        {
+            "facet_id": 1004053,
+            "occurrence": 1,
+            "value": "DB Station & Service AG,"
+        },
+        {
+            "facet_id": 1004054,
+            "occurrence": 1,
+            "value": "Hantel, Sven"
+        },
+        {
+            "facet_id": 1004055,
+            "occurrence": 1,
+            "value": "DB Station & Service AG"
+        }
+    ]
+}

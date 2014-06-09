@@ -1,0 +1,44 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 12233,
+    "from_affiliate_facet": "Bayern / Amt für Ländliche Entwicklung Oberbayern",
+    "occurrence": 22,
+    "affiliates": [
+        {
+            "facet_id": 12233,
+            "occurrence": 22,
+            "value": "Bayern / Amt für Ländliche Entwicklung Oberbayern"
+        },
+        {
+            "facet_id": 213380,
+            "occurrence": 3,
+            "value": "Amt für Ländliche Entwicklung Oberbayern"
+        },
+        {
+            "facet_id": 112580,
+            "occurrence": 1,
+            "value": "Danner, Johannes"
+        },
+        {
+            "facet_id": 307528,
+            "occurrence": 1,
+            "value": "Klein, Gerhard"
+        },
+        {
+            "facet_id": 816076,
+            "occurrence": 1,
+            "value": "Huber, Matthias"
+        },
+        {
+            "facet_id": 870175,
+            "occurrence": 1,
+            "value": "Stumpf, Michael"
+        },
+        {
+            "facet_id": 910926,
+            "occurrence": 1,
+            "value": "Gfirtner, Anna"
+        }
+    ]
+}

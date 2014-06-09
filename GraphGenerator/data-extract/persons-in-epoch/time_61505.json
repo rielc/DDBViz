@@ -1,0 +1,2507 @@
+{
+    "epochID": 37,
+    "epoch": "time_61505",
+    "count": 500,
+    "items": [
+        {
+            "affiliate_facet_id": 685,
+            "affiliate_facet": "Bayerische Staatsbibliothek (München)",
+            "occurrence": 687
+        },
+        {
+            "affiliate_facet_id": 1744,
+            "affiliate_facet": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz (Berlin)",
+            "occurrence": 575
+        },
+        {
+            "affiliate_facet_id": 7885,
+            "affiliate_facet": "Leopold Adler",
+            "occurrence": 571
+        },
+        {
+            "affiliate_facet_id": 393,
+            "affiliate_facet": "Württembergische Landesbibliothek (Stuttgart)",
+            "occurrence": 429
+        },
+        {
+            "affiliate_facet_id": 194,
+            "affiliate_facet": "Württemberg-Urach, Ludwig I. von; Graf, 1412-1450",
+            "occurrence": 408
+        },
+        {
+            "affiliate_facet_id": 1727,
+            "affiliate_facet": "Oskar Netoliczka",
+            "occurrence": 308
+        },
+        {
+            "affiliate_facet_id": 917,
+            "affiliate_facet": "Bayerisches Nationalmuseum (München)",
+            "occurrence": 303
+        },
+        {
+            "affiliate_facet_id": 21511,
+            "affiliate_facet": "Sigismund; Kaiser, 1368-1437",
+            "occurrence": 288
+        },
+        {
+            "affiliate_facet_id": 1261,
+            "affiliate_facet": "Altmünster Mainz",
+            "occurrence": 253
+        },
+        {
+            "affiliate_facet_id": 2007,
+            "affiliate_facet": "Reichklara Mainz",
+            "occurrence": 246
+        },
+        {
+            "affiliate_facet_id": 1496,
+            "affiliate_facet": "Ghiberti, Lorenzo",
+            "occurrence": 236
+        },
+        {
+            "affiliate_facet_id": 537,
+            "affiliate_facet": "Aufsberg, Lala (Fotograf)",
+            "occurrence": 233
+        },
+        {
+            "affiliate_facet_id": 4436,
+            "affiliate_facet": "Fridang, Erhard, Abt von Weingarten",
+            "occurrence": 202
+        },
+        {
+            "affiliate_facet_id": 10028,
+            "affiliate_facet": "Bibliothèque Royale Albert Ier (Brüssel)",
+            "occurrence": 200
+        },
+        {
+            "affiliate_facet_id": 4441,
+            "affiliate_facet": "Weingarten, Äbte von; Erhard Fridang",
+            "occurrence": 199
+        },
+        {
+            "affiliate_facet_id": 8726,
+            "affiliate_facet": "Bibliothèque Nationale (Paris)",
+            "occurrence": 193
+        },
+        {
+            "affiliate_facet_id": 4634,
+            "affiliate_facet": "aus dem vorderösterreichischen Archiv",
+            "occurrence": 188
+        },
+        {
+            "affiliate_facet_id": 28124,
+            "affiliate_facet": "Bibliothèque Muncipal (Grenoble)",
+            "occurrence": 181
+        },
+        {
+            "affiliate_facet_id": 28125,
+            "affiliate_facet": "Martin le Franc",
+            "occurrence": 181
+        },
+        {
+            "affiliate_facet_id": 14046,
+            "affiliate_facet": "Jean (Berry, Herzog, 1, le Magnifique)",
+            "occurrence": 172
+        },
+        {
+            "affiliate_facet_id": 596,
+            "affiliate_facet": "Ulrich V., Graf",
+            "occurrence": 171
+        },
+        {
+            "affiliate_facet_id": 1478,
+            "affiliate_facet": "aus dem Hochberger Archiv",
+            "occurrence": 163
+        },
+        {
+            "affiliate_facet_id": 6331,
+            "affiliate_facet": "Simon von Taisten",
+            "occurrence": 162
+        },
+        {
+            "affiliate_facet_id": 12154,
+            "affiliate_facet": "Ruprecht (III.) von der Pfalz; König, 1352-1410",
+            "occurrence": 144
+        },
+        {
+            "affiliate_facet_id": 7991,
+            "affiliate_facet": "Kommende Mergentheim",
+            "occurrence": 141
+        },
+        {
+            "affiliate_facet_id": 7199,
+            "affiliate_facet": "St. Johannes Mainz",
+            "occurrence": 132
+        },
+        {
+            "affiliate_facet_id": 11915,
+            "affiliate_facet": "Württemberg, Eberhard III. (der Milde); Graf, nach 1362-1417",
+            "occurrence": 132
+        },
+        {
+            "affiliate_facet_id": 6630,
+            "affiliate_facet": "St. Agnes Mainz",
+            "occurrence": 125
+        },
+        {
+            "affiliate_facet_id": 140,
+            "affiliate_facet": "Gesamtarchiv Schenk von Stauffenberg",
+            "occurrence": 119
+        },
+        {
+            "affiliate_facet_id": 12374,
+            "affiliate_facet": "Stadtgericht Mainz",
+            "occurrence": 119
+        },
+        {
+            "affiliate_facet_id": 13641,
+            "affiliate_facet": "Maria (Geldern, Herzogin)",
+            "occurrence": 115
+        },
+        {
+            "affiliate_facet_id": 7722,
+            "affiliate_facet": "Grübel, Heinrich",
+            "occurrence": 109
+        },
+        {
+            "affiliate_facet_id": 7724,
+            "affiliate_facet": "Sünder, Kaspar",
+            "occurrence": 109
+        },
+        {
+            "affiliate_facet_id": 7723,
+            "affiliate_facet": "Lederhoser, Joh.",
+            "occurrence": 106
+        },
+        {
+            "affiliate_facet_id": 61,
+            "affiliate_facet": "Richter, Regine (Fotograf)",
+            "occurrence": 103
+        },
+        {
+            "affiliate_facet_id": 4616,
+            "affiliate_facet": "Kartause Mainz",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 59554,
+            "affiliate_facet": "Blarer, Johann II. Abt von Weingarten",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 13338,
+            "affiliate_facet": "Rosner, Johann",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 4440,
+            "affiliate_facet": "Tod, Oswald, Ammann",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 59557,
+            "affiliate_facet": "Weingarten, Äbte von; Johann II. Blarer",
+            "occurrence": 92
+        },
+        {
+            "affiliate_facet_id": 9751,
+            "affiliate_facet": "Germanisches Nationalmuseum (Nürnberg)",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 10130,
+            "affiliate_facet": "Liebfrauen Mainz",
+            "occurrence": 89
+        },
+        {
+            "affiliate_facet_id": 10763,
+            "affiliate_facet": "Coler, Johannes",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 10764,
+            "affiliate_facet": "Rudolf (Ems, von)",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 1568,
+            "affiliate_facet": "St. Annen-Museum",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 6269,
+            "affiliate_facet": "Bibliothèque Municipale (Tours)",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 2265,
+            "affiliate_facet": "Heiliggeistspital Mainz",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 13748,
+            "affiliate_facet": "Mainz",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 3114,
+            "affiliate_facet": "Bruderschaft der vier Klöster Mainz",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 66334,
+            "affiliate_facet": "Pseudo-Jacquemart",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 2726,
+            "affiliate_facet": "Donatello",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 10551,
+            "affiliate_facet": "Welter, Michael",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 4340,
+            "affiliate_facet": "Liebieghaus (Frankfurt (Main))",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 25859,
+            "affiliate_facet": "Offenburg; Henmann",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 5213,
+            "affiliate_facet": "Dom und Domschatz Halberstadt (Halberstadt)",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 195,
+            "affiliate_facet": "Messbildstelle Dresden (Fotograf)",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 325,
+            "affiliate_facet": "Domschatz (Trier)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 7224,
+            "affiliate_facet": "Adeltzhoffer, Ulrich",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 6644,
+            "affiliate_facet": "aus dem Rötteln- und Sausenberger Archiv",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 14646,
+            "affiliate_facet": "aus dem Archiv der Deutsch-Ordens-Kommende Freiburg",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 594,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Skulpturensammlung (Berlin)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 13640,
+            "affiliate_facet": "Meister der Maria von Geldern",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 24798,
+            "affiliate_facet": "Württemberg, Ulrich V. der Vielgeliebte; Graf, 1413-1480",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 60214,
+            "affiliate_facet": "Le Noir, Jean",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 351,
+            "affiliate_facet": "Großherzogliches Justizdepartement, Lehenhof",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 4446,
+            "affiliate_facet": "Friedrich III.; Kaiser, 1415-1493",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 877,
+            "affiliate_facet": "Hessische Landesbibliothek Fulda (Fulda)",
+            "occurrence": 59
+        },
+        {
+            "affiliate_facet_id": 2340,
+            "affiliate_facet": "Kloster Bronnbach",
+            "occurrence": 59
+        },
+        {
+            "affiliate_facet_id": 4215,
+            "affiliate_facet": "Conrad von Soest",
+            "occurrence": 59
+        },
+        {
+            "affiliate_facet_id": 47655,
+            "affiliate_facet": "Konstanz, Generalvikar",
+            "occurrence": 59
+        },
+        {
+            "affiliate_facet_id": 50197,
+            "affiliate_facet": "Roritzer (Baumeister- und Bildhauer-Familie)",
+            "occurrence": 58
+        },
+        {
+            "affiliate_facet_id": 6906,
+            "affiliate_facet": "St. Peter Mainz",
+            "occurrence": 57
+        },
+        {
+            "affiliate_facet_id": 28154,
+            "affiliate_facet": "Franz (Gewicz, von)",
+            "occurrence": 57
+        },
+        {
+            "affiliate_facet_id": 5956,
+            "affiliate_facet": "Karmeliter Mainz",
+            "occurrence": 56
+        },
+        {
+            "affiliate_facet_id": 14045,
+            "affiliate_facet": "Hesdin, Jacquemart de (1380)",
+            "occurrence": 54
+        },
+        {
+            "affiliate_facet_id": 46672,
+            "affiliate_facet": "Weyden, Rogier van der",
+            "occurrence": 54
+        },
+        {
+            "affiliate_facet_id": 19496,
+            "affiliate_facet": "Domstift Mainz",
+            "occurrence": 53
+        },
+        {
+            "affiliate_facet_id": 1495,
+            "affiliate_facet": "Museo dell'Opera di Santa Maria del Fiore (Florenz)",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 9834,
+            "affiliate_facet": "Rottweil, Hofrichter",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 77487,
+            "affiliate_facet": "Meister des Dutuitschen Ölberges",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 115689,
+            "affiliate_facet": "Rot an der Rot, Martin, Abt von",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 7052,
+            "affiliate_facet": "Schnütgen-Museum (Köln)",
+            "occurrence": 51
+        },
+        {
+            "affiliate_facet_id": 1514,
+            "affiliate_facet": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 10253,
+            "affiliate_facet": "Lochner, Stefan",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 1867,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Gemäldegalerie (Berlin)",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 49992,
+            "affiliate_facet": "Multscher, Hans",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 2073,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Kupferstichkabinett - Sammlung der Zeichnungen und Druckgraphik (Berlin)",
+            "occurrence": 47
+        },
+        {
+            "affiliate_facet_id": 58,
+            "affiliate_facet": "Hildebrand, Gustav (Fotograf)",
+            "occurrence": 46
+        },
+        {
+            "affiliate_facet_id": 732,
+            "affiliate_facet": "Wenzel (Heiliges Römisches Reich, König)",
+            "occurrence": 44
+        },
+        {
+            "affiliate_facet_id": 733,
+            "affiliate_facet": "Museum Plantin-Moretus (Antwerpen)",
+            "occurrence": 44
+        },
+        {
+            "affiliate_facet_id": 25991,
+            "affiliate_facet": "Biblioteca Nazionale Centrale (Turin)",
+            "occurrence": 44
+        },
+        {
+            "affiliate_facet_id": 1416,
+            "affiliate_facet": "Universitätsmuseum für Kunst und Kulturgeschichte (Marburg)",
+            "occurrence": 43
+        },
+        {
+            "affiliate_facet_id": 9365,
+            "affiliate_facet": "Angelico (Fra)",
+            "occurrence": 43
+        },
+        {
+            "affiliate_facet_id": 4470,
+            "affiliate_facet": "Arnold von Westfalen",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 7596,
+            "affiliate_facet": "Gaston Phoebus",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 18999,
+            "affiliate_facet": "Kloster Eberbach",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 42860,
+            "affiliate_facet": "Zeichner A der Lauber-Werkstatt",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 62051,
+            "affiliate_facet": "Quercia, Jacopo della",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 70369,
+            "affiliate_facet": "Reischach, Heinrich von, Unterlandvogt",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 2282,
+            "affiliate_facet": "private Sammlung (München)",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 36612,
+            "affiliate_facet": "St. Jakob Mainz",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 85743,
+            "affiliate_facet": "Gertener, Madern",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 4083,
+            "affiliate_facet": "Staatliche Graphische Sammlung (München)",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 22416,
+            "affiliate_facet": "Eyck, Jan van",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 41718,
+            "affiliate_facet": "Museen der Stadt Aschaffenburg — Schlossmuseum (Aschaffenburg)",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 41719,
+            "affiliate_facet": "Meister der Goldranken-Gebetbücher",
+            "occurrence": 37
+        },
+        {
+            "affiliate_facet_id": 585,
+            "affiliate_facet": "Unbekannter Fotograf (Fotograf)",
+            "occurrence": 36
+        },
+        {
+            "affiliate_facet_id": 128365,
+            "affiliate_facet": "Sammlung über Erwerbungen und Veräußerungen",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 13,
+            "affiliate_facet": "Deutsche Forschungsgemeinschaft",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 2295,
+            "affiliate_facet": "Stadt Mainz",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 2833,
+            "affiliate_facet": "Möbius, Walter (Fotograf)",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 28228,
+            "affiliate_facet": "private Sammlung (Amsterdam)",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 56199,
+            "affiliate_facet": "Masolino",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 71653,
+            "affiliate_facet": "Essendorf, Johann I. von, Abt zu Weingarten",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 161542,
+            "affiliate_facet": "Nicolaus (Lyra, von)",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 43982,
+            "affiliate_facet": "Monastero di Santa Scolastica — Biblioteca dell' Abbazia (Subiaco)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 71658,
+            "affiliate_facet": "Weingarten, Äbte von; Johann I. von Essendorf",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 8115,
+            "affiliate_facet": "?",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 8282,
+            "affiliate_facet": "Gebr. Metz, Tübingen",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 19221,
+            "affiliate_facet": "Weißfrauen Mainz",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 33591,
+            "affiliate_facet": "Museo Civico Medievale? (Bologna)",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 176505,
+            "affiliate_facet": "Strauß, Wolfhard (Abt)",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 387925,
+            "affiliate_facet": "Conrad (1434)",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 551,
+            "affiliate_facet": "aus dem Badenweiler Archiv",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 3560,
+            "affiliate_facet": "Kaubisch, Oskar (Fotograf)",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 3939,
+            "affiliate_facet": "Musée des Beaux-Arts de Tournai (Tournai)",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 11914,
+            "affiliate_facet": "Baden, Bernhard I.; Markgraf, 1364-1431",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 94330,
+            "affiliate_facet": "Photographie und Verlag Bernhard Wehnert, Wertheim a.M.",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 104772,
+            "affiliate_facet": "Rechberg-Hohenrechberg; Hans von",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 1318,
+            "affiliate_facet": "Friedberg-Scheer",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 5654,
+            "affiliate_facet": "aus dem Sickingen'schen Archiv",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 13343,
+            "affiliate_facet": "Rosgartenmuseum (Konstanz)",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 16584,
+            "affiliate_facet": "Hebeisen, Gustav; Archivar, Museumsdirektor, 1875-1940",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 129,
+            "affiliate_facet": "Hessische Landes- und Hochschulbibliothek (Darmstadt)",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 536,
+            "affiliate_facet": "Karl IV.; Kaiser, 1316-1378",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 87013,
+            "affiliate_facet": "Meister des Otto van Moerdrecht",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 84,
+            "affiliate_facet": "Verdi, Giuseppe",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 101,
+            "affiliate_facet": "Wallraf-Richartz-Museum - Fondation Corboud (Köln)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 14672,
+            "affiliate_facet": "private Sammlung (Bonn)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 16979,
+            "affiliate_facet": "aus dem Sickinger Archiv",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 31986,
+            "affiliate_facet": "Reichsstadt Rottweil",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 90341,
+            "affiliate_facet": "Herbel, Charles",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 110319,
+            "affiliate_facet": "-Akten Baden (Gegenakten)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 118669,
+            "affiliate_facet": "Strigel, Hans (der Ältere)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 1168,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Kunstgewerbemuseum (Berlin)",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 2263,
+            "affiliate_facet": "Bischöfliches Dom- und Diözesanmuseum (Mainz)",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 9167,
+            "affiliate_facet": "Speyer, Richter, Rat und Bürger",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 56706,
+            "affiliate_facet": "Michelozzo di Bartolommeo",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 153403,
+            "affiliate_facet": "Witz, Konrad",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 455,
+            "affiliate_facet": "Robbia, Luca di Simone di Marco della",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 13891,
+            "affiliate_facet": "Universitätsbibliothek (Lüttich)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 17213,
+            "affiliate_facet": "Sankt-Annen-Museum (Lübeck)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 40161,
+            "affiliate_facet": "Eberhard IV., Graf",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 47849,
+            "affiliate_facet": "Leptzow, Henning",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 13680,
+            "affiliate_facet": "von Württemberg extradiert",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 14765,
+            "affiliate_facet": "Hessisches Landesmuseum Darmstadt (Darmstadt)",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 142457,
+            "affiliate_facet": "Österreich, Friedrich IV. mit der leeren Tasche; Herzog, Graf von Tirol, 1382-1439",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 170540,
+            "affiliate_facet": "Martinus-Bibliothek Mainz (Mainz)",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 178452,
+            "affiliate_facet": "Meister der Passion",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 205788,
+            "affiliate_facet": "[Chongyuan lu ru xue; Nanjing guozijian]",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 205789,
+            "affiliate_facet": "Wang Yinglin <1223-1296>",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 24368,
+            "affiliate_facet": "Württemberg, Eberhard IV. (der Jüngere); Graf, 1388-1419",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 15,
+            "affiliate_facet": "Museen der Stadt Aachen — Suermondt-Ludwig-Museum (Aachen)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 2487,
+            "affiliate_facet": "Museum Folkwang (Essen)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 3983,
+            "affiliate_facet": "Westfälisches Landesmuseum für Kunst und Kulturgeschichte (Münster (Westfalen))",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 8101,
+            "affiliate_facet": "Neuwürttembergische Reichslehen I",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 18928,
+            "affiliate_facet": "Andrea del Castagno",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 28599,
+            "affiliate_facet": "St. Moritz Mainz",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 38823,
+            "affiliate_facet": "Reichsstadt Ulm",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 215491,
+            "affiliate_facet": "Ludwig, Pfalzgraf bei Rhein",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 3530,
+            "affiliate_facet": "Herzog Anton Ulrich-Museum — Kupferstichkabinett (Braunschweig)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 6984,
+            "affiliate_facet": "Fink,",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 9684,
+            "affiliate_facet": "Fürstliches Schlossmuseum und Familienmuseum (Braunfels)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 21015,
+            "affiliate_facet": "Brunsberg, Hinrich",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 28998,
+            "affiliate_facet": "Eyck, Hubert van",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 29289,
+            "affiliate_facet": "Reichsstadt Ravensburg",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 30308,
+            "affiliate_facet": "Rheinisches Landesmuseum Bonn mit Regionalmuseum Xanten (Bonn)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 36468,
+            "affiliate_facet": "Weissfrauen Mainz",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 113999,
+            "affiliate_facet": "private Sammlung (Oudenaarde)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 131522,
+            "affiliate_facet": "Adelberg, Heinrich; Propst",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 744,
+            "affiliate_facet": "Österreich, Albrecht VI.; Erzherzog; 1418-1463",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 2476,
+            "affiliate_facet": "Städelsches Kunstinstitut und Städtische Galerie (Frankfurt (Main))",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 34040,
+            "affiliate_facet": "Abtei Ellwangen;",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 35415,
+            "affiliate_facet": "Reichsstadt Reutlingen",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 60215,
+            "affiliate_facet": "Meister der Dreifaltigkeit",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 79470,
+            "affiliate_facet": "Reischach von Dietfurt, Eck von, Unterlandvogt",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 244010,
+            "affiliate_facet": "Pfalz-Mosbach, Otto I.; Pfalzgraf; Pfalzgraf, 1390-1461",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 386,
+            "affiliate_facet": "Landesmuseum Mainz (Mainz)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 7663,
+            "affiliate_facet": "Württembergisches Landesmuseum (Stuttgart)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 28164,
+            "affiliate_facet": "Otto (Heiliges Römisches Reich, Kaiser, 3)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 59232,
+            "affiliate_facet": "Abtei Ellwangen",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 62984,
+            "affiliate_facet": "François",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 63517,
+            "affiliate_facet": "Steiermärkisches Landesmuseum Joanneum (Graz)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 186391,
+            "affiliate_facet": "Humpis, Jos, Bürgermeister",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 223755,
+            "affiliate_facet": "Kulturhistorisches Museum (Stralsund)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 394428,
+            "affiliate_facet": "Schindelin, Paul, Stadtammann",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 2729,
+            "affiliate_facet": "Konstanz, Heinrich IV. von Hewen; Bischof, um 1398-1462",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 13960,
+            "affiliate_facet": "private Sammlung (Altena (Kreis Altena))",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 28465,
+            "affiliate_facet": "Domschatzkammer (Aachen)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 37172,
+            "affiliate_facet": "Museum der Stadt Ulm (Ulm)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 41682,
+            "affiliate_facet": "Sekundarklerus Mainz",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 49561,
+            "affiliate_facet": "Masaccio",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 95955,
+            "affiliate_facet": "Schockholz, Kaspar",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 110330,
+            "affiliate_facet": "private Sammlung (Fulda)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 171736,
+            "affiliate_facet": "Bellini, Jacopo",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 1848,
+            "affiliate_facet": "Museum für Kunsthandwerk (Frankfurt (Main))",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 11348,
+            "affiliate_facet": "Öffentliche Kunstsammlung — Kunstmuseum (Basel)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 33676,
+            "affiliate_facet": "Stadt Ulm",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 37298,
+            "affiliate_facet": "Badische Landesbibliothek (Karlsruhe)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 51998,
+            "affiliate_facet": "Vaillant, Jacques",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 54856,
+            "affiliate_facet": "Meister Heinrich (1381)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 73957,
+            "affiliate_facet": "aus dem Archiv von Badenweiler",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 84993,
+            "affiliate_facet": "Herzogl. Rentkammer Amt Stuttgart",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 430278,
+            "affiliate_facet": "Bornemann, Hans",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 136,
+            "affiliate_facet": "Kunert, Dietrich (Fotograf)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 2161,
+            "affiliate_facet": "aus dem St. Galler Archiv",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 2705,
+            "affiliate_facet": "Dom-Museum Hildesheim — Domschatz (Hildesheim)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 4232,
+            "affiliate_facet": "Karpinski, Jürgen (Fotograf)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 8964,
+            "affiliate_facet": "Landesmuseum für Kunst- und Kulturgeschichte, Focke-Museum (Bremen)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 10580,
+            "affiliate_facet": "Talenti, Francesco",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 10776,
+            "affiliate_facet": "Kloster Weingarten",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 17703,
+            "affiliate_facet": "Schongauer, Martin",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 20045,
+            "affiliate_facet": "Galleria degli Uffizi — Pinacoteca (Florenz)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 37158,
+            "affiliate_facet": "Reichsstadt Esslingen",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 38485,
+            "affiliate_facet": "aus dem Archiv der Herrschaft Badenweiler",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 41462,
+            "affiliate_facet": "GG-Malerei",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 45668,
+            "affiliate_facet": "Reichsstadt Leutkirch",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 97642,
+            "affiliate_facet": "Musée National du Louvre — Cabinet des Dessins (Paris)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 101899,
+            "affiliate_facet": "Brunelleschi, Filippo",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 107271,
+            "affiliate_facet": "Eckardt, Daniel",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 108157,
+            "affiliate_facet": "Schilling, Wolf",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 148855,
+            "affiliate_facet": "Bruyn, Claes de",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 179693,
+            "affiliate_facet": "Haug, Hans, Bürger, Ravensburg",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 186375,
+            "affiliate_facet": "Dürrmenz, Craft von",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 276886,
+            "affiliate_facet": "Dedo (Rochlitz-Groitzsch, Markgraf, 5, der Feiste)",
+            "occurrence": 15
+        },
+        {
+            "affiliate_facet_id": 270,
+            "affiliate_facet": "Beckmann, ? (Fotograf)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 335,
+            "affiliate_facet": "Herrschaft Schemmerberg des Kl. Salem",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 1545,
+            "affiliate_facet": "Diözesanmuseum (Freising (Kreis Freising))",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 1935,
+            "affiliate_facet": "Wagner, Richard",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 6947,
+            "affiliate_facet": "Lauber, Diebolt",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 7262,
+            "affiliate_facet": "[Günther Zainer]",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 8722,
+            "affiliate_facet": "Lgfsch.Nellenburg",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 8873,
+            "affiliate_facet": "Sachsenheim, Hans von",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 10582,
+            "affiliate_facet": "Ghini, Giovanni di Lapo",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 12568,
+            "affiliate_facet": "Gruuthusemuseum (Brügge)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 16244,
+            "affiliate_facet": "Dalen Mainz",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 18172,
+            "affiliate_facet": "-Akten Basel-",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 25317,
+            "affiliate_facet": "Kuene, Konrad",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 26773,
+            "affiliate_facet": "Bayerisches Hauptstaatsarchiv (München)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 46730,
+            "affiliate_facet": "Geroldseck; Heinrich von",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 52955,
+            "affiliate_facet": "Malenbry, Martin, Ammann",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 53887,
+            "affiliate_facet": "Museum für das Fürstenturm Lüneburg (Lüneburg)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 54853,
+            "affiliate_facet": "Speyer, Propst des Dreifaltigkeitsstifts",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 62813,
+            "affiliate_facet": "Musée d'Unterlinden (Colmar)",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 64223,
+            "affiliate_facet": "Brandenburg, Friedrich I.; Kurfürst, 1371-1440 | 11870317X",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 76626,
+            "affiliate_facet": "Fromiller, Josef Ferdinand",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 105099,
+            "affiliate_facet": "Conrad von Einbeck",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 109340,
+            "affiliate_facet": "[Johann Mentelin]",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 145844,
+            "affiliate_facet": "Ḫairallāh Efendī",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 172873,
+            "affiliate_facet": "Oettingen-Wallersteinsche Bibliothek (Harburg (Schwaben))",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 188816,
+            "affiliate_facet": "Meister der Goldenen Tafel",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 252049,
+            "affiliate_facet": "Meister der Spielkarten",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 299916,
+            "affiliate_facet": "Francesco d'Antonio da Viterbo",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 339909,
+            "affiliate_facet": "Konstanz, Otto III. von Hachberg; Bischof, 1388-1451 | 14396111X",
+            "occurrence": 14
+        },
+        {
+            "affiliate_facet_id": 847,
+            "affiliate_facet": "aus dem badischen Archiv",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 3501,
+            "affiliate_facet": "Kaiser Wilhelm Museum (Krefeld)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 3932,
+            "affiliate_facet": "Museum voor Schone Kunsten (Gent)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 5155,
+            "affiliate_facet": "private Sammlung (Berlin)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 6898,
+            "affiliate_facet": "Sammlung Haerle private Sammlung (Mülheim an der Ruhr)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 10765,
+            "affiliate_facet": "Bayerisches Nationalmuseum? (München)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 12520,
+            "affiliate_facet": "Maulbronn, Konvent",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 16947,
+            "affiliate_facet": "Richter, Ludwig <1803>",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 28406,
+            "affiliate_facet": "Ludwig, Pfalzgraf",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 32129,
+            "affiliate_facet": "Musée de Picardie (Amiens)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 61901,
+            "affiliate_facet": "Martin V. (Oddo di Colonna); Papst, 1368-1431",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 73839,
+            "affiliate_facet": "Stadt- und Universitätsbibliothek (Frankfurt (Main))",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 93698,
+            "affiliate_facet": "Fürstlich Fürstenbergische Schlossbibliothek (Donaueschingen)",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 112208,
+            "affiliate_facet": "Adelberg, Ruprecht; Propst",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 132771,
+            "affiliate_facet": "Sachsenheim, Hermann von",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 165639,
+            "affiliate_facet": "Reichklara? Mainz",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 270218,
+            "affiliate_facet": "Kunstanstalt C. Pelz, Sigmaringen",
+            "occurrence": 13
+        },
+        {
+            "affiliate_facet_id": 13141,
+            "affiliate_facet": "Medici, Cosimo de'",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 15560,
+            "affiliate_facet": "Centrale Bibliotheek van de Universiteit (Gent)",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 16037,
+            "affiliate_facet": "St. Stephan Mainz",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 19530,
+            "affiliate_facet": "Domschatz und Museum des Sankt-Petri-Domes (Fritzlar)",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 20551,
+            "affiliate_facet": "Sulz, Rudolf Graf von",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 25748,
+            "affiliate_facet": "Tennenbach",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 27498,
+            "affiliate_facet": "Pflüger, Conrad",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 30978,
+            "affiliate_facet": "Trésor de la Cathedrale Notre-Dame (Tournai)",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 30979,
+            "affiliate_facet": "Feré, Pierre",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 36725,
+            "affiliate_facet": "Stüler, August",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 39090,
+            "affiliate_facet": "Junge, Johannes",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 61179,
+            "affiliate_facet": "Piero della Francesca",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 61232,
+            "affiliate_facet": "Bubenhofen, Wolf von",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 65807,
+            "affiliate_facet": "Württemberg, Räte",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 80177,
+            "affiliate_facet": "Hornstein, von; Han(n)s",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 85227,
+            "affiliate_facet": "Börer, Blasius",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 92735,
+            "affiliate_facet": "Stocinger, Hans",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 120253,
+            "affiliate_facet": "Hornberg, Brun Wernher von",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 126109,
+            "affiliate_facet": "Baumgart, Hans",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 132789,
+            "affiliate_facet": "Stöffeln; Simon Freiherr von",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 153660,
+            "affiliate_facet": "Adler, Friedrich <1827>",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 228617,
+            "affiliate_facet": "Kollegiatkirche",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 238023,
+            "affiliate_facet": "Gültlingen, Burkhard von",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 261325,
+            "affiliate_facet": "Nikolaus (Papst, 5)",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 262049,
+            "affiliate_facet": "Meister der Darssow-Madonna",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 330882,
+            "affiliate_facet": "Weinsberg, Konrad von, Reichserbkämmerer",
+            "occurrence": 12
+        },
+        {
+            "affiliate_facet_id": 709,
+            "affiliate_facet": "Kloster Herrenalb",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 1628,
+            "affiliate_facet": "Müller, Hans",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 2780,
+            "affiliate_facet": "Thomas <de Aquino> (1225-1274)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 4660,
+            "affiliate_facet": "Vandenhoeck & Ruprecht,",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 6412,
+            "affiliate_facet": "Kloster St. Georgen",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 8786,
+            "affiliate_facet": "Boswank, Herbert (Fotograf)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 11873,
+            "affiliate_facet": "Palais Lichtenstein? (Lichtenstein (Württemberg))",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 12682,
+            "affiliate_facet": "Canaletto",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 15107,
+            "affiliate_facet": "Frühling, Karl",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 19124,
+            "affiliate_facet": "Miélot, Jehan",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 24363,
+            "affiliate_facet": "Speyer, Generalvikar",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 28407,
+            "affiliate_facet": "Pfalz, Ludwig III.; Kurfürst, 1378-1436",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 31497,
+            "affiliate_facet": "Mager, Volmar",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 39053,
+            "affiliate_facet": "Loos, Hans (Fotograf)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 42777,
+            "affiliate_facet": "Mannsberg, Burkhard Ritter von",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 43059,
+            "affiliate_facet": "Reichsstadt Heilbronn",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 44985,
+            "affiliate_facet": "Gerson, Johannes (1363-1429)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 48248,
+            "affiliate_facet": "Fürstlich Fürstenbergische Schloßbibliothek (Donaueschingen)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 59116,
+            "affiliate_facet": "Sindelfingen, Propst",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 64892,
+            "affiliate_facet": "Oettinger; Klaus",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 84655,
+            "affiliate_facet": "Museo di San Marco (Florenz)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 97441,
+            "affiliate_facet": "Reichsstadt Isny",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 101831,
+            "affiliate_facet": "Lindenau-Museum — Gemäldesammlung (Altenburg (Thüringen))",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 102630,
+            "affiliate_facet": "Reichsstadt Schwäbisch Hall",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 108686,
+            "affiliate_facet": "Sigismund, Kaiser",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 116228,
+            "affiliate_facet": "Friedrich (1401)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 160888,
+            "affiliate_facet": "Metzger, Konrad, Ammann",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 186397,
+            "affiliate_facet": "Sürg, Hans, Stadtammann",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 216146,
+            "affiliate_facet": "[Drucker mit dem bizarren R, d.i. Adolf Rusch]",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 223186,
+            "affiliate_facet": "Claux de Werve",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 238426,
+            "affiliate_facet": "Francke (Meister)",
+            "occurrence": 11
+        },
+        {
+            "affiliate_facet_id": 276,
+            "affiliate_facet": "Cicero, Marcus Tullius (v106-v43)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 582,
+            "affiliate_facet": "Niedersächsisches Landesmuseum (Hannover)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 806,
+            "affiliate_facet": "Kupferstichkabinett, Staatliche Museen zu Berlin",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 4984,
+            "affiliate_facet": "Koninklijk Museum voor Schone Kunsten (Antwerpen)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 6224,
+            "affiliate_facet": "Albertus <Magnus> (1193-1280)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 13711,
+            "affiliate_facet": "Wenzel, König, 1361-1419",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 26440,
+            "affiliate_facet": "Mannsberg, Heinrich von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 27360,
+            "affiliate_facet": "Kloster Tennenbach",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 32269,
+            "affiliate_facet": "Märkisches Museum (Berlin)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 34060,
+            "affiliate_facet": "G. Schaffert, Creglingen",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 34435,
+            "affiliate_facet": "Liebfrauen? Mainz",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 35464,
+            "affiliate_facet": "Waldburg, Leonhard (Lienhard) Truchseß von, Priester, Pfarrer, Haisterkirch, Biberach",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 41268,
+            "affiliate_facet": "von Württemberg extradiert (aus dem Archiv des Klosters Alpirsbach)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 49002,
+            "affiliate_facet": "Museen der Stadt Regensburg — Historisches Museum (Regensburg)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 57004,
+            "affiliate_facet": "Sachsenheim, Berthold von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 59555,
+            "affiliate_facet": "Gremlich, Hans",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 92126,
+            "affiliate_facet": "Maulbronn, Albrecht <von Ötisheim>; Abt",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 102623,
+            "affiliate_facet": "Campin, Robert",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 106304,
+            "affiliate_facet": "Zisterzienserorden",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 111369,
+            "affiliate_facet": "Museum des Chorherrenstiftes Klosterneuburg (Klosterneuburg (Niederösterreich))",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 117090,
+            "affiliate_facet": "Huguet (1385)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 123579,
+            "affiliate_facet": "Liebenstein, Hans von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 131243,
+            "affiliate_facet": "Acker, Hans",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 134814,
+            "affiliate_facet": "Deutsches Bibel-Archiv (Hamburg)",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 140019,
+            "affiliate_facet": "Piero di Nicolò Lamberti",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 144781,
+            "affiliate_facet": "Waldburg, Johann(es) Truchsess von; Reichslandvogt",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 172739,
+            "affiliate_facet": "Sachsenheim, Schwarzfritz von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 186376,
+            "affiliate_facet": "Öhningen, Albrecht Sölre von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 189725,
+            "affiliate_facet": "Paul von Köln",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 213928,
+            "affiliate_facet": "Zollern, Eitelfritz Graf von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 225372,
+            "affiliate_facet": "Weinsberg, Konrad von",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 225789,
+            "affiliate_facet": "Sachsenheim, Hermann von, Ritter",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 238427,
+            "affiliate_facet": "Englandfahrer-Gesellschaft",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 245056,
+            "affiliate_facet": "Ulm, Stadt",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 270525,
+            "affiliate_facet": "Württemberg, Ludwig von; Graf, 1412-1450",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 276310,
+            "affiliate_facet": "Stadion, Hans von; Ritter, Hofmeister",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 363837,
+            "affiliate_facet": "Meister von Eriskirch",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 496886,
+            "affiliate_facet": "Johann, Bischof von Würzburg",
+            "occurrence": 10
+        },
+        {
+            "affiliate_facet_id": 1248,
+            "affiliate_facet": "Augustinus, Aurelius (354-430)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 2515,
+            "affiliate_facet": "(Gefürstete) Grafschaft Sigmaringen bzw. Fürstentum Hohenzollern-Sigmaringen",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 3646,
+            "affiliate_facet": "Staatliche Kunsthalle (Karlsruhe)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 7106,
+            "affiliate_facet": "Herzog Anton Ulrich-Museum (Braunschweig)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 7403,
+            "affiliate_facet": "Oberösterreichisches Landesmuseum (Linz (Oberösterreich))",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 7692,
+            "affiliate_facet": "Stadtbibliothek (Nürnberg)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 10098,
+            "affiliate_facet": "Museu Nacional d'Art de Catalunya (Barcelona)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 15664,
+            "affiliate_facet": "Oudheidkundige Musea der Stad Antwerpen — Vleeshuis (Antwerpen)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 17815,
+            "affiliate_facet": "Eisenreich, Franz Anthoni, Obervogt",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 17818,
+            "affiliate_facet": "Welz, Jakob Niklas; Registrator",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 20517,
+            "affiliate_facet": "private Sammlung (Frankfurt (Main))",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 20869,
+            "affiliate_facet": "Schnell, Eugen; Archivar, 1818-1897",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 23453,
+            "affiliate_facet": "private Sammlung (Heidelberg)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 23671,
+            "affiliate_facet": "Enzberg, Friedrich von",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 25535,
+            "affiliate_facet": "Staatliches Museum Schwerin (Schwerin)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 27576,
+            "affiliate_facet": "Libaerts, Eliseus",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 29883,
+            "affiliate_facet": "Staatliche Kunstsammlungen Dresden — Kupferstich-Kabinett (Dresden)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 33004,
+            "affiliate_facet": "Dinglinger, Melchior",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 33007,
+            "affiliate_facet": "Bregno, Antonio (1425)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 33313,
+            "affiliate_facet": "Meister des Astaler-Fensters",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 35346,
+            "affiliate_facet": "Kunstsammlung Lorenzkapelle (Rottweil)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 39635,
+            "affiliate_facet": "Haus Württemberg (Privilegien und Freiheiten)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 40268,
+            "affiliate_facet": "Stadt Konstanz",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 42636,
+            "affiliate_facet": "Götteler, Ruf",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 51608,
+            "affiliate_facet": "Germanisches Nationalmuseum — Graphische Sammlung (Nürnberg)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 69694,
+            "affiliate_facet": "Cima da Conegliano, Giovanni Battista",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 73653,
+            "affiliate_facet": "Hartmann (1417)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 73657,
+            "affiliate_facet": "Ensingen, Ulrich von",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 80178,
+            "affiliate_facet": "Hornstein, von; Han(n)s der Ältere",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 92359,
+            "affiliate_facet": "Uccello, Paolo",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 113894,
+            "affiliate_facet": "Stetten, Hans Truchsess von",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 114093,
+            "affiliate_facet": "Meister des Albrecht-Altars",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 115690,
+            "affiliate_facet": "Rupp, Hans, Bürger, Memmingen",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 116944,
+            "affiliate_facet": "Humpis, Ital, Bürgermeister",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 120038,
+            "affiliate_facet": "[Johann Amerbach]",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 123506,
+            "affiliate_facet": "Württemberg, Henriette Gräfin von, geb. Gräfin von Mömpelgard (Montfaucon), 1384/91-1444",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 128107,
+            "affiliate_facet": "Koninklijke Bibliotheek (Den Haag)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 132786,
+            "affiliate_facet": "Neuhausen, Wolf von",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 145107,
+            "affiliate_facet": "[Michael Wenssler]",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 150071,
+            "affiliate_facet": "J. Paul Getty Museum (Malibu)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 157194,
+            "affiliate_facet": "Hornstein, Hans von",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 165118,
+            "affiliate_facet": "Museen der Stadt Erfurt — Angermuseum (Erfurt)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 258032,
+            "affiliate_facet": "Herter von Herteneck; Jakob",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 267068,
+            "affiliate_facet": "Konstanz, Marquard von Randegg; Bischof, -1406",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 277369,
+            "affiliate_facet": "Reichsstadt Bopfingen",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 278480,
+            "affiliate_facet": "Schwarz, August (1855)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 278939,
+            "affiliate_facet": "Agostino di Duccio",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 280463,
+            "affiliate_facet": "Schilling, Berthold",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 308317,
+            "affiliate_facet": "Adelberg, Ruprecht; Abt",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 317774,
+            "affiliate_facet": "Kraft, Heinrich, Bürger, Bürgermeister, Ulm",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 376472,
+            "affiliate_facet": "Prescher, Heinrich",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 379533,
+            "affiliate_facet": "-Akten Basel: Sekt. I-XII (VIII + Anhang; IX + Suppl.)",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 427880,
+            "affiliate_facet": "Hagg, Rudin",
+            "occurrence": 9
+        },
+        {
+            "affiliate_facet_id": 188,
+            "affiliate_facet": "Eschen, Fritz (Fotograf)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 1131,
+            "affiliate_facet": "Landgrafschaft Klettgau",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 1434,
+            "affiliate_facet": "Krause, Siegfried (Fotograf)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 2492,
+            "affiliate_facet": "Reichsbahndirektion Karlsruhe",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 4541,
+            "affiliate_facet": "British Museum (London)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 7197,
+            "affiliate_facet": "Lauber, Diebold",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 8235,
+            "affiliate_facet": "Stedelijk Museum Vander Kelen-Mertens (Löwen)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 8236,
+            "affiliate_facet": "Rillaer, Jan van (der Ältere)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 9161,
+            "affiliate_facet": "Musée de Cluny (Paris)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 12153,
+            "affiliate_facet": "Stift Ellwangen",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 12953,
+            "affiliate_facet": "Musée National du Louvre (Paris)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 13496,
+            "affiliate_facet": "Staatliche Kunstsammlungen &amp; Hessisches Landesmuseum (Kassel)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 19134,
+            "affiliate_facet": "Lorenzo Monaco",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 21383,
+            "affiliate_facet": "aus dem vorderösterreichischen Archiv (?)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 34016,
+            "affiliate_facet": "aus dem Archiv des Klosters Alpirsbach",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 34187,
+            "affiliate_facet": "unbekannter Meister",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 34700,
+            "affiliate_facet": "Fouquet, Jean (1420)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 37946,
+            "affiliate_facet": "Vermessungsamt Mosbach",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 45636,
+            "affiliate_facet": "Nicolaus <de Lyra> (1270-1349)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 53390,
+            "affiliate_facet": "Paulus <Burgensis> (1350-1435)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 63070,
+            "affiliate_facet": "Pfalz, Friedrich I. der Siegreiche; Kurfürst, 1425-1475",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 64891,
+            "affiliate_facet": "Neidlingen; Anastasia (Staeslun, Stasel) von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 67252,
+            "affiliate_facet": "Lippi, Filippo (Fra)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 71329,
+            "affiliate_facet": "Provenienz unbekannt",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 81541,
+            "affiliate_facet": "Giovanni di Paolo di Grazia",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 88819,
+            "affiliate_facet": "Landau, Lutz von, Unterlandvogt",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 91211,
+            "affiliate_facet": "Diözesanmuseum Graz (Graz)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 92401,
+            "affiliate_facet": "Meister des Tempziner Altars",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 99096,
+            "affiliate_facet": "Württemberg, Grafen von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 99480,
+            "affiliate_facet": "Halbbutter, Ulrich",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 99481,
+            "affiliate_facet": "Gerngross, Peter",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 112257,
+            "affiliate_facet": "Musée Communal de Bruxelles, Maison du Roi (Brüssel)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 112437,
+            "affiliate_facet": "Unbekannt (französisch)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 113573,
+            "affiliate_facet": "Benediktinerorden",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 117131,
+            "affiliate_facet": "Gültlingen, Gumpold von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 117951,
+            "affiliate_facet": "[Michael Greyff]",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 118771,
+            "affiliate_facet": "Reichsstadt Biberach",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 126592,
+            "affiliate_facet": "Waldburg, Jakob Truchseß von, Ritter, Landvogt in Schwaben, Vogt des Klosters Rot",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 130818,
+            "affiliate_facet": "Bodman, Frischhans von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 130820,
+            "affiliate_facet": "Schwarzburg, Günter Graf von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 132788,
+            "affiliate_facet": "Schechingen; Ulrich von, Edelknecht",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 132790,
+            "affiliate_facet": "Thumb von Neuburg, Albrecht",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 147461,
+            "affiliate_facet": "Meister der Dormitio von Terni",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 147985,
+            "affiliate_facet": "Höfingen, Hans Truchsess von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 165403,
+            "affiliate_facet": "Maderni, Giovanni Manfredo",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 175832,
+            "affiliate_facet": "Stain, Konrad vom",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 177957,
+            "affiliate_facet": "Raverti, Matteo de'",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 186453,
+            "affiliate_facet": "Hornberg, Konrad von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 189453,
+            "affiliate_facet": "Stengel & Co., Dresden",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 189751,
+            "affiliate_facet": "Wernau, Hans von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 193734,
+            "affiliate_facet": "Pfalz, Ludwig IV.; Kurfürst, 1424-1449",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 205973,
+            "affiliate_facet": "Gültlingen, Hans von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 212476,
+            "affiliate_facet": "Francesco da Faenza",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 214008,
+            "affiliate_facet": "Giovanni di Martino da Fiesole",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 227029,
+            "affiliate_facet": "Sagrera, Guillén",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 242534,
+            "affiliate_facet": "Geselschap, Friedrich",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 249044,
+            "affiliate_facet": "Pizan, Christine de",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 257628,
+            "affiliate_facet": "Lichtenstein; Hans von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 270985,
+            "affiliate_facet": "Ochsenhausen, Michael (Michel), Abt von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 274734,
+            "affiliate_facet": "Meister der Darsow-Madonna",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 284054,
+            "affiliate_facet": "Banco, Nanni d'Antonio di",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 288000,
+            "affiliate_facet": "Werdnau, Hans von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 290211,
+            "affiliate_facet": "Storrenberg, Heinz",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 290574,
+            "affiliate_facet": "Chiemsee, Bischöfe",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 329196,
+            "affiliate_facet": "Strigel?, Hans (der Ältere)",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 333481,
+            "affiliate_facet": "Nürnberg; Friedrich VI. Burggraf von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 338421,
+            "affiliate_facet": "Humpis, Henggi, Bürgermeister",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 342533,
+            "affiliate_facet": "Mannsberg, Volmar von",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 343270,
+            "affiliate_facet": "Ottmar Zieher, München",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 343271,
+            "affiliate_facet": "Zieher, Ottmar, München",
+            "occurrence": 8
+        },
+        {
+            "affiliate_facet_id": 357469,
+            "affiliate_facet": "Sigmund (Merseburg, Bischof)",
+            "occurrence": 8
+        }
+    ]
+}

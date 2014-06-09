@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 67769,
+    "from_affiliate_facet": "C.R.A.-Plant Pathology Research Center, Roma, Italy",
+    "occurrence": 18,
+    "affiliates": [
+        {
+            "facet_id": 32570,
+            "occurrence": 18,
+            "value": "Julius Kühn-Institut"
+        },
+        {
+            "facet_id": 67769,
+            "occurrence": 18,
+            "value": "C.R.A.-Plant Pathology Research Center, Roma, Italy"
+        },
+        {
+            "facet_id": 67767,
+            "occurrence": 10,
+            "value": "Belisario, Alessandra"
+        },
+        {
+            "facet_id": 67768,
+            "occurrence": 10,
+            "value": "Galli, Massimo"
+        },
+        {
+            "facet_id": 160504,
+            "occurrence": 8,
+            "value": "Robin, Cécile"
+        }
+    ]
+}

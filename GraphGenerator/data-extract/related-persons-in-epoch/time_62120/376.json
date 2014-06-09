@@ -1,0 +1,364 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 376,
+    "from_affiliate_facet": "Universitätsbibliothek Heidelberg",
+    "occurrence": 87,
+    "affiliates": [
+        {
+            "facet_id": 376,
+            "occurrence": 87,
+            "value": "Universitätsbibliothek Heidelberg"
+        },
+        {
+            "facet_id": 70,
+            "occurrence": 39,
+            "value": "Universitätsbibliothek der Universität Heidelberg,"
+        },
+        {
+            "facet_id": 25487,
+            "occurrence": 25,
+            "value": "Univ.-Bibl.,"
+        },
+        {
+            "facet_id": 98376,
+            "occurrence": 19,
+            "value": "Universität Heidelberg / Universitätsbibliothek,"
+        },
+        {
+            "facet_id": 645422,
+            "occurrence": 3,
+            "value": "Universität Heidelberg / Universitätsbibliothek"
+        },
+        {
+            "facet_id": 1303,
+            "occurrence": 1,
+            "value": "Neumann, Hans (1953-)"
+        },
+        {
+            "facet_id": 4104,
+            "occurrence": 1,
+            "value": "Nova, Alessandro (1954-)"
+        },
+        {
+            "facet_id": 4387,
+            "occurrence": 1,
+            "value": "Andreae, Bernard (1930-)"
+        },
+        {
+            "facet_id": 4641,
+            "occurrence": 1,
+            "value": "Chaniotis, Angelos (1959-)"
+        },
+        {
+            "facet_id": 5807,
+            "occurrence": 1,
+            "value": "Kohle, Hubertus (1959-)"
+        },
+        {
+            "facet_id": 6713,
+            "occurrence": 1,
+            "value": "Funke, Joachim (1953-)"
+        },
+        {
+            "facet_id": 6853,
+            "occurrence": 1,
+            "value": "Schubert, Dietrich (1941-)"
+        },
+        {
+            "facet_id": 7208,
+            "occurrence": 1,
+            "value": "Campus-TV"
+        },
+        {
+            "facet_id": 9968,
+            "occurrence": 1,
+            "value": "Dörflinger, Gabriele (1949-)"
+        },
+        {
+            "facet_id": 12847,
+            "occurrence": 1,
+            "value": "Assmann, Jan (1938-)"
+        },
+        {
+            "facet_id": 13573,
+            "occurrence": 1,
+            "value": "Büttner, Nils (1967-)"
+        },
+        {
+            "facet_id": 14042,
+            "occurrence": 1,
+            "value": "Altenmüller, Hartwig (1938-)"
+        },
+        {
+            "facet_id": 14639,
+            "occurrence": 1,
+            "value": "Röllig, Wolfgang (1932-)"
+        },
+        {
+            "facet_id": 15809,
+            "occurrence": 1,
+            "value": "Müller, Jürgen (1961-)"
+        },
+        {
+            "facet_id": 19214,
+            "occurrence": 1,
+            "value": "Rosenberg, Raphael (1962-)"
+        },
+        {
+            "facet_id": 20351,
+            "occurrence": 1,
+            "value": "Krauskopf, Ingrid (1944-)"
+        },
+        {
+            "facet_id": 24089,
+            "occurrence": 1,
+            "value": "Pfisterer, Ulrich (1968-)"
+        },
+        {
+            "facet_id": 28392,
+            "occurrence": 1,
+            "value": "Roettgen, Steffi (1941-)"
+        },
+        {
+            "facet_id": 28996,
+            "occurrence": 1,
+            "value": "Stupperich, Reinhard (1951-)"
+        },
+        {
+            "facet_id": 30654,
+            "occurrence": 1,
+            "value": "Dobberstein, Bernhard"
+        },
+        {
+            "facet_id": 34642,
+            "occurrence": 1,
+            "value": "Karolinger"
+        },
+        {
+            "facet_id": 37771,
+            "occurrence": 1,
+            "value": "Biller, Thomas (1948-)"
+        },
+        {
+            "facet_id": 43938,
+            "occurrence": 1,
+            "value": "Funke, Peter (1950-)"
+        },
+        {
+            "facet_id": 48299,
+            "occurrence": 1,
+            "value": "Ganz, David (1970-)"
+        },
+        {
+            "facet_id": 48786,
+            "occurrence": 1,
+            "value": "Malitz, Jürgen (1947-)"
+        },
+        {
+            "facet_id": 49885,
+            "occurrence": 1,
+            "value": "Zöllner, Frank (1956-)"
+        },
+        {
+            "facet_id": 50513,
+            "occurrence": 1,
+            "value": "Schenkel, Wolfgang (1936-)"
+        },
+        {
+            "facet_id": 50717,
+            "occurrence": 1,
+            "value": "Bickendorf, Gabriele"
+        },
+        {
+            "facet_id": 51363,
+            "occurrence": 1,
+            "value": "Eichberger, Dagmar (1955-)"
+        },
+        {
+            "facet_id": 51726,
+            "occurrence": 1,
+            "value": "Tacke, Andreas (1954-)"
+        },
+        {
+            "facet_id": 56502,
+            "occurrence": 1,
+            "value": "Blum, Gerd (1965-)"
+        },
+        {
+            "facet_id": 56555,
+            "occurrence": 1,
+            "value": "Polleroß, Friedrich B. (1958-)"
+        },
+        {
+            "facet_id": 66845,
+            "occurrence": 1,
+            "value": "Möllendorff, Peter von (1963-)"
+        },
+        {
+            "facet_id": 70100,
+            "occurrence": 1,
+            "value": "Büttner, Frank (1944-)"
+        },
+        {
+            "facet_id": 75477,
+            "occurrence": 1,
+            "value": "Universität Heidelberg"
+        },
+        {
+            "facet_id": 75933,
+            "occurrence": 1,
+            "value": "Panagiotopoulos, Diamantis (1957-)"
+        },
+        {
+            "facet_id": 85662,
+            "occurrence": 1,
+            "value": "Schneemann, Peter Johannes (1964-)"
+        },
+        {
+            "facet_id": 85807,
+            "occurrence": 1,
+            "value": "Rehm, Ellen (1962-)"
+        },
+        {
+            "facet_id": 89040,
+            "occurrence": 1,
+            "value": "Riedl, Peter Anselm (1930-)"
+        },
+        {
+            "facet_id": 97660,
+            "occurrence": 1,
+            "value": "Roux, Jacob Wilhelm Christian"
+        },
+        {
+            "facet_id": 98453,
+            "occurrence": 1,
+            "value": "Borg, Barbara"
+        },
+        {
+            "facet_id": 103492,
+            "occurrence": 1,
+            "value": "Saurma-Jeltsch, Lieselotte E. (1946-)"
+        },
+        {
+            "facet_id": 105839,
+            "occurrence": 1,
+            "value": "Verhoeven- van Elsbergen, Ursula (1957-)"
+        },
+        {
+            "facet_id": 109876,
+            "occurrence": 1,
+            "value": "Maul, Stefan M. (1958-)"
+        },
+        {
+            "facet_id": 110162,
+            "occurrence": 1,
+            "value": "Hoffmann, Friedhelm (1966-)"
+        },
+        {
+            "facet_id": 118900,
+            "occurrence": 1,
+            "value": "Wenning, Robert"
+        },
+        {
+            "facet_id": 120053,
+            "occurrence": 1,
+            "value": "Kirchner, Thomas (1954-)"
+        },
+        {
+            "facet_id": 126308,
+            "occurrence": 1,
+            "value": "Gross, Uwe (1955-)"
+        },
+        {
+            "facet_id": 131516,
+            "occurrence": 1,
+            "value": "Kemp, Wolfgang (1946-)"
+        },
+        {
+            "facet_id": 136278,
+            "occurrence": 1,
+            "value": "Faist, Betina"
+        },
+        {
+            "facet_id": 136870,
+            "occurrence": 1,
+            "value": "Wetzenstein, Thorsten (1976-)"
+        },
+        {
+            "facet_id": 159425,
+            "occurrence": 1,
+            "value": "Hoppe, Stephan (1966-)"
+        },
+        {
+            "facet_id": 167372,
+            "occurrence": 1,
+            "value": "Fuchs, Andreas (1960-)"
+        },
+        {
+            "facet_id": 168514,
+            "occurrence": 1,
+            "value": "Parschik, Thomas (1978-)"
+        },
+        {
+            "facet_id": 184003,
+            "occurrence": 1,
+            "value": "Novák, Mirko (1965-)"
+        },
+        {
+            "facet_id": 195195,
+            "occurrence": 1,
+            "value": "Schmitzer, Ulrich (1960-)"
+        },
+        {
+            "facet_id": 249539,
+            "occurrence": 1,
+            "value": "Volk, Konrad"
+        },
+        {
+            "facet_id": 260553,
+            "occurrence": 1,
+            "value": "Probst, Veit (1958-)"
+        },
+        {
+            "facet_id": 284439,
+            "occurrence": 1,
+            "value": "Stadler, Martin Andreas (1973-)"
+        },
+        {
+            "facet_id": 347777,
+            "occurrence": 1,
+            "value": "Pfälzner, Peter (1960-)"
+        },
+        {
+            "facet_id": 350570,
+            "occurrence": 1,
+            "value": "Thürlemann, Felix (1946-)"
+        },
+        {
+            "facet_id": 407285,
+            "occurrence": 1,
+            "value": "Schaffrodt, Petra"
+        },
+        {
+            "facet_id": 475684,
+            "occurrence": 1,
+            "value": "Krause, Katharina (1960-)"
+        },
+        {
+            "facet_id": 480881,
+            "occurrence": 1,
+            "value": "Peust, Carsten (1968-)"
+        },
+        {
+            "facet_id": 528093,
+            "occurrence": 1,
+            "value": "Fehrenbach, Frank"
+        },
+        {
+            "facet_id": 1065640,
+            "occurrence": 1,
+            "value": "Kloster Lorsch / Bibliothek"
+        }
+    ]
+}

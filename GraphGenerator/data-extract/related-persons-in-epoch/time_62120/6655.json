@@ -1,0 +1,1399 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 6655,
+    "from_affiliate_facet": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+    "occurrence": 108,
+    "affiliates": [
+        {
+            "facet_id": 6655,
+            "occurrence": 108,
+            "value": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin"
+        },
+        {
+            "facet_id": 74684,
+            "occurrence": 4,
+            "value": "Köper, Birgit"
+        },
+        {
+            "facet_id": 85967,
+            "occurrence": 4,
+            "value": "Kinne, Jens"
+        },
+        {
+            "facet_id": 165306,
+            "occurrence": 4,
+            "value": "Freude, Gabriele"
+        },
+        {
+            "facet_id": 384889,
+            "occurrence": 4,
+            "value": "Steinberg, Ulf"
+        },
+        {
+            "facet_id": 6654,
+            "occurrence": 3,
+            "value": "Barth, Christof"
+        },
+        {
+            "facet_id": 85970,
+            "occurrence": 3,
+            "value": "Schatte, Martin"
+        },
+        {
+            "facet_id": 111782,
+            "occurrence": 3,
+            "value": "Windel, Armin"
+        },
+        {
+            "facet_id": 356648,
+            "occurrence": 3,
+            "value": "Nöllenheidt, Christoph"
+        },
+        {
+            "facet_id": 356649,
+            "occurrence": 3,
+            "value": "Brenscheidt, Simone"
+        },
+        {
+            "facet_id": 378323,
+            "occurrence": 3,
+            "value": "Richter, Gabriele"
+        },
+        {
+            "facet_id": 430786,
+            "occurrence": 3,
+            "value": "Richter, Götz"
+        },
+        {
+            "facet_id": 433564,
+            "occurrence": 3,
+            "value": "Kujath, Peter"
+        },
+        {
+            "facet_id": 458445,
+            "occurrence": 3,
+            "value": "Creutzenberg, Otto"
+        },
+        {
+            "facet_id": 458447,
+            "occurrence": 3,
+            "value": "Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM)"
+        },
+        {
+            "facet_id": 470864,
+            "occurrence": 3,
+            "value": "Gebhardt, Hansjürgen"
+        },
+        {
+            "facet_id": 85968,
+            "occurrence": 2,
+            "value": "Latzel, Konrad"
+        },
+        {
+            "facet_id": 111779,
+            "occurrence": 2,
+            "value": "Beermann, Beate"
+        },
+        {
+            "facet_id": 111781,
+            "occurrence": 2,
+            "value": "Brenscheidt, Frank"
+        },
+        {
+            "facet_id": 115624,
+            "occurrence": 2,
+            "value": "Roßnagel, Alexander"
+        },
+        {
+            "facet_id": 165304,
+            "occurrence": 2,
+            "value": "Baethge, Anja"
+        },
+        {
+            "facet_id": 165305,
+            "occurrence": 2,
+            "value": "Rigotti, Thomas"
+        },
+        {
+            "facet_id": 194026,
+            "occurrence": 2,
+            "value": "Wittig, Peter"
+        },
+        {
+            "facet_id": 245997,
+            "occurrence": 2,
+            "value": "Glaser, Jürgen"
+        },
+        {
+            "facet_id": 285405,
+            "occurrence": 2,
+            "value": "Weiß, Raimund"
+        },
+        {
+            "facet_id": 307969,
+            "occurrence": 2,
+            "value": "Adolph, Lars"
+        },
+        {
+            "facet_id": 329058,
+            "occurrence": 2,
+            "value": "Berger-Preiß, Edith"
+        },
+        {
+            "facet_id": 329059,
+            "occurrence": 2,
+            "value": "Kock, Heiko"
+        },
+        {
+            "facet_id": 333261,
+            "occurrence": 2,
+            "value": "Blochmann, Günter"
+        },
+        {
+            "facet_id": 337812,
+            "occurrence": 2,
+            "value": "Reyhl, Holger"
+        },
+        {
+            "facet_id": 338571,
+            "occurrence": 2,
+            "value": "Rieger, Monika A."
+        },
+        {
+            "facet_id": 338574,
+            "occurrence": 2,
+            "value": "Institut für Arbeitsmedizin, Sozialmedizin und Versorgungsforschung Universitätsklinikum Tübingen"
+        },
+        {
+            "facet_id": 350030,
+            "occurrence": 2,
+            "value": "Udovicic, Ljiljana"
+        },
+        {
+            "facet_id": 350032,
+            "occurrence": 2,
+            "value": "Janßen, Marco"
+        },
+        {
+            "facet_id": 350034,
+            "occurrence": 2,
+            "value": "Ott, Günter"
+        },
+        {
+            "facet_id": 394769,
+            "occurrence": 2,
+            "value": "Hamacher, Werner"
+        },
+        {
+            "facet_id": 394774,
+            "occurrence": 2,
+            "value": "Gesellschaft für Systemforschung und Konzeptentwicklung mbH"
+        },
+        {
+            "facet_id": 449952,
+            "occurrence": 2,
+            "value": "Jandt, Silke"
+        },
+        {
+            "facet_id": 449953,
+            "occurrence": 2,
+            "value": "Skistims, Hendrik"
+        },
+        {
+            "facet_id": 449954,
+            "occurrence": 2,
+            "value": "Zirfas, Julia"
+        },
+        {
+            "facet_id": 449955,
+            "occurrence": 2,
+            "value": "Universität Kassel Projektgruppe verfassungsverträgliche Technikgestaltung"
+        },
+        {
+            "facet_id": 572492,
+            "occurrence": 2,
+            "value": "Levchuk, Inna"
+        },
+        {
+            "facet_id": 589692,
+            "occurrence": 2,
+            "value": "Grzech-Šukalo, Hiltraud"
+        },
+        {
+            "facet_id": 589693,
+            "occurrence": 2,
+            "value": "Hänecke, Kerstin"
+        },
+        {
+            "facet_id": 613961,
+            "occurrence": 2,
+            "value": "Schütte, Martin"
+        },
+        {
+            "facet_id": 668415,
+            "occurrence": 2,
+            "value": "Romanus, Erik"
+        },
+        {
+            "facet_id": 683016,
+            "occurrence": 2,
+            "value": "Bundesministerium für Arbeit und Soziales"
+        },
+        {
+            "facet_id": 735351,
+            "occurrence": 2,
+            "value": "Koch, Wolfgang"
+        },
+        {
+            "facet_id": 741735,
+            "occurrence": 2,
+            "value": "Universität Innsbruck Institut für Psychologie"
+        },
+        {
+            "facet_id": 771491,
+            "occurrence": 2,
+            "value": "Kurtz, Patrick"
+        },
+        {
+            "facet_id": 864808,
+            "occurrence": 2,
+            "value": "Mangelsdorf, Inge"
+        },
+        {
+            "facet_id": 961083,
+            "occurrence": 2,
+            "value": "Nagel, Jelena"
+        },
+        {
+            "facet_id": 1053775,
+            "occurrence": 2,
+            "value": "Meyer, Inga"
+        },
+        {
+            "facet_id": 1129264,
+            "occurrence": 2,
+            "value": "AWiS-consult"
+        },
+        {
+            "facet_id": 4124,
+            "occurrence": 1,
+            "value": "Radon, Katja"
+        },
+        {
+            "facet_id": 6653,
+            "occurrence": 1,
+            "value": "BAuA"
+        },
+        {
+            "facet_id": 21850,
+            "occurrence": 1,
+            "value": "Püschel, Klaus"
+        },
+        {
+            "facet_id": 29252,
+            "occurrence": 1,
+            "value": "Enderlein, Heiko"
+        },
+        {
+            "facet_id": 29253,
+            "occurrence": 1,
+            "value": "Krause, Sabine"
+        },
+        {
+            "facet_id": 29254,
+            "occurrence": 1,
+            "value": "Spanner-Ulmer, Birgit"
+        },
+        {
+            "facet_id": 29255,
+            "occurrence": 1,
+            "value": "Technische Universität Chemnitz Professur Arbeitswissenschaft"
+        },
+        {
+            "facet_id": 36224,
+            "occurrence": 1,
+            "value": "Sust, Charlotte A."
+        },
+        {
+            "facet_id": 42347,
+            "occurrence": 1,
+            "value": "Bundesinstitut für Berufsbildung"
+        },
+        {
+            "facet_id": 65178,
+            "occurrence": 1,
+            "value": "Kirch, Wilhelm (1947-)"
+        },
+        {
+            "facet_id": 65179,
+            "occurrence": 1,
+            "value": "Scheuch, Klaus"
+        },
+        {
+            "facet_id": 65180,
+            "occurrence": 1,
+            "value": "Reichler, Martin"
+        },
+        {
+            "facet_id": 65181,
+            "occurrence": 1,
+            "value": "Looks, Peggy"
+        },
+        {
+            "facet_id": 65182,
+            "occurrence": 1,
+            "value": "Stab, Nicole (1982-)"
+        },
+        {
+            "facet_id": 65183,
+            "occurrence": 1,
+            "value": "Hillger, Christiane"
+        },
+        {
+            "facet_id": 65184,
+            "occurrence": 1,
+            "value": "Technische Universität Dresden"
+        },
+        {
+            "facet_id": 85969,
+            "occurrence": 1,
+            "value": "Melzig-Thiel, Roman"
+        },
+        {
+            "facet_id": 89128,
+            "occurrence": 1,
+            "value": "Kuhlmann, Gerhard"
+        },
+        {
+            "facet_id": 89129,
+            "occurrence": 1,
+            "value": "Elbeshausen, Frank"
+        },
+        {
+            "facet_id": 89130,
+            "occurrence": 1,
+            "value": "Hebisch, Ralf"
+        },
+        {
+            "facet_id": 89131,
+            "occurrence": 1,
+            "value": "Wolf, Torsten"
+        },
+        {
+            "facet_id": 89132,
+            "occurrence": 1,
+            "value": "Bregau GmbH & Co. KG"
+        },
+        {
+            "facet_id": 98123,
+            "occurrence": 1,
+            "value": "Schmidt, Manfred"
+        },
+        {
+            "facet_id": 114817,
+            "occurrence": 1,
+            "value": "Thim, Carmen"
+        },
+        {
+            "facet_id": 129524,
+            "occurrence": 1,
+            "value": "Ernst, Heinrich"
+        },
+        {
+            "facet_id": 165307,
+            "occurrence": 1,
+            "value": "Universität Leipzig, Institut für Psychologie, Arbeits- und Organisationspsychologie"
+        },
+        {
+            "facet_id": 170855,
+            "occurrence": 1,
+            "value": "Bundesanst. für Arbeitsschutz und Arbeitsmedizin"
+        },
+        {
+            "facet_id": 177404,
+            "occurrence": 1,
+            "value": "Püster, Thomas"
+        },
+        {
+            "facet_id": 192701,
+            "occurrence": 1,
+            "value": "Bux, Kersten"
+        },
+        {
+            "facet_id": 192824,
+            "occurrence": 1,
+            "value": "Latza, Ute"
+        },
+        {
+            "facet_id": 206994,
+            "occurrence": 1,
+            "value": "Kahl, Anke"
+        },
+        {
+            "facet_id": 206995,
+            "occurrence": 1,
+            "value": "Wilmes, Annette"
+        },
+        {
+            "facet_id": 206996,
+            "occurrence": 1,
+            "value": "Guhe, Christine"
+        },
+        {
+            "facet_id": 206997,
+            "occurrence": 1,
+            "value": "Packroff, Rolf"
+        },
+        {
+            "facet_id": 206998,
+            "occurrence": 1,
+            "value": "Lotz, Gabriele"
+        },
+        {
+            "facet_id": 206999,
+            "occurrence": 1,
+            "value": "Tischer, Martin"
+        },
+        {
+            "facet_id": 207000,
+            "occurrence": 1,
+            "value": "Bergische Universität Wuppertal Fachgebiet Sicherheitstechnik/Arbeitssicherheit"
+        },
+        {
+            "facet_id": 244681,
+            "occurrence": 1,
+            "value": "Holler, Markus"
+        },
+        {
+            "facet_id": 244682,
+            "occurrence": 1,
+            "value": "Tschersich, Nikolai"
+        },
+        {
+            "facet_id": 244683,
+            "occurrence": 1,
+            "value": "Gensicke, Miriam"
+        },
+        {
+            "facet_id": 244684,
+            "occurrence": 1,
+            "value": "Internationales Institut für Empirische Sozialökonomie gGmbH, INIFES"
+        },
+        {
+            "facet_id": 244685,
+            "occurrence": 1,
+            "value": "TNS Infratest Sozialforschung GmbH"
+        },
+        {
+            "facet_id": 245996,
+            "occurrence": 1,
+            "value": "Herbig, Britta"
+        },
+        {
+            "facet_id": 253151,
+            "occurrence": 1,
+            "value": "Schurer, Stefanie"
+        },
+        {
+            "facet_id": 278174,
+            "occurrence": 1,
+            "value": "Hentschel, Manuel"
+        },
+        {
+            "facet_id": 302827,
+            "occurrence": 1,
+            "value": "Hebisch, Ralph"
+        },
+        {
+            "facet_id": 307970,
+            "occurrence": 1,
+            "value": "Adomeit, Christiane"
+        },
+        {
+            "facet_id": 329056,
+            "occurrence": 1,
+            "value": "Knebel, Jan"
+        },
+        {
+            "facet_id": 329057,
+            "occurrence": 1,
+            "value": "Ritter, Detlef"
+        },
+        {
+            "facet_id": 329060,
+            "occurrence": 1,
+            "value": "Liebsch, Manfred"
+        },
+        {
+            "facet_id": 329061,
+            "occurrence": 1,
+            "value": "Smirnova, Lena"
+        },
+        {
+            "facet_id": 329062,
+            "occurrence": 1,
+            "value": "Pirow, Ralph"
+        },
+        {
+            "facet_id": 329063,
+            "occurrence": 1,
+            "value": "Linsel, Gunter"
+        },
+        {
+            "facet_id": 329064,
+            "occurrence": 1,
+            "value": "Bauer, Mario"
+        },
+        {
+            "facet_id": 329065,
+            "occurrence": 1,
+            "value": "Gräbsch, Carolin"
+        },
+        {
+            "facet_id": 329066,
+            "occurrence": 1,
+            "value": "Fraunhofer-Institut für Toxikologie und Experimentelle Medizin"
+        },
+        {
+            "facet_id": 329067,
+            "occurrence": 1,
+            "value": "Bundesinstitut für Risikobewertung (BfR) ZEBET – Alternativmethoden zu Tierversuchen"
+        },
+        {
+            "facet_id": 333259,
+            "occurrence": 1,
+            "value": "Schach, Rainer"
+        },
+        {
+            "facet_id": 333260,
+            "occurrence": 1,
+            "value": "Wach, Marco"
+        },
+        {
+            "facet_id": 333262,
+            "occurrence": 1,
+            "value": "Hoffmann, Christina"
+        },
+        {
+            "facet_id": 333263,
+            "occurrence": 1,
+            "value": "Systemkonzept – Gesellschaft für Systemforschung und Konzeptentwicklung mbH"
+        },
+        {
+            "facet_id": 333264,
+            "occurrence": 1,
+            "value": "RKW Kompetenzzentrum Bundesgeschäftsstelle"
+        },
+        {
+            "facet_id": 335802,
+            "occurrence": 1,
+            "value": "Woelk, Susanne"
+        },
+        {
+            "facet_id": 337808,
+            "occurrence": 1,
+            "value": "Riedel, Stephan"
+        },
+        {
+            "facet_id": 337809,
+            "occurrence": 1,
+            "value": "Gillmeister, Frank"
+        },
+        {
+            "facet_id": 337810,
+            "occurrence": 1,
+            "value": "Reiss, Tanja"
+        },
+        {
+            "facet_id": 337811,
+            "occurrence": 1,
+            "value": "Mutschler, Hartmut"
+        },
+        {
+            "facet_id": 337813,
+            "occurrence": 1,
+            "value": "die ergonomie.experten, Netzwerk für Ergonomie"
+        },
+        {
+            "facet_id": 338570,
+            "occurrence": 1,
+            "value": "Fischer, Imma"
+        },
+        {
+            "facet_id": 338572,
+            "occurrence": 1,
+            "value": "Jäckel, Regina"
+        },
+        {
+            "facet_id": 338573,
+            "occurrence": 1,
+            "value": "Graf, Joachim S."
+        },
+        {
+            "facet_id": 350031,
+            "occurrence": 1,
+            "value": "Mainusch, Florian"
+        },
+        {
+            "facet_id": 350033,
+            "occurrence": 1,
+            "value": "Nowack, Dennis"
+        },
+        {
+            "facet_id": 359208,
+            "occurrence": 1,
+            "value": "Lorenz, Dieter"
+        },
+        {
+            "facet_id": 360240,
+            "occurrence": 1,
+            "value": "Lang, Karl-Heinz"
+        },
+        {
+            "facet_id": 382329,
+            "occurrence": 1,
+            "value": "Martus, Peter"
+        },
+        {
+            "facet_id": 382330,
+            "occurrence": 1,
+            "value": "Seibt, Reingard"
+        },
+        {
+            "facet_id": 394770,
+            "occurrence": 1,
+            "value": "Eickholt, Clarissa"
+        },
+        {
+            "facet_id": 394771,
+            "occurrence": 1,
+            "value": "Lenartz, Norbert"
+        },
+        {
+            "facet_id": 394772,
+            "occurrence": 1,
+            "value": "Blanco, Sonja"
+        },
+        {
+            "facet_id": 394773,
+            "occurrence": 1,
+            "value": "Wittmann, Sonja"
+        },
+        {
+            "facet_id": 430787,
+            "occurrence": 1,
+            "value": "Bode, Silke"
+        },
+        {
+            "facet_id": 433563,
+            "occurrence": 1,
+            "value": "Vogelberg, Christian (1971-)"
+        },
+        {
+            "facet_id": 433565,
+            "occurrence": 1,
+            "value": "Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin, Klinikum der Universität München"
+        },
+        {
+            "facet_id": 433566,
+            "occurrence": 1,
+            "value": "Universitätsklinikum Carl Gustav Carus, Klinik und Poliklinik für Kinder- und Jugendmedizin, Dresden"
+        },
+        {
+            "facet_id": 437890,
+            "occurrence": 1,
+            "value": "Kampen, Vera van"
+        },
+        {
+            "facet_id": 437891,
+            "occurrence": 1,
+            "value": "Deckert, Anja"
+        },
+        {
+            "facet_id": 437892,
+            "occurrence": 1,
+            "value": "Bünger, Jürgen"
+        },
+        {
+            "facet_id": 437893,
+            "occurrence": 1,
+            "value": "Willer, Eckart"
+        },
+        {
+            "facet_id": 437894,
+            "occurrence": 1,
+            "value": "Felten, Christian"
+        },
+        {
+            "facet_id": 437895,
+            "occurrence": 1,
+            "value": "Neumann, Heinz-Dieter"
+        },
+        {
+            "facet_id": 437896,
+            "occurrence": 1,
+            "value": "Buxtrup, Martin"
+        },
+        {
+            "facet_id": 437897,
+            "occurrence": 1,
+            "value": "Institut für Prävention und Arbeitsmedizin der Deutschen Gesetzlichen Unfallversicherung, Institut der Ruhr Universität Bochum (IPA)"
+        },
+        {
+            "facet_id": 437898,
+            "occurrence": 1,
+            "value": "Berufsgenossenschaft für Transport und Verkehrswirtschaft"
+        },
+        {
+            "facet_id": 437899,
+            "occurrence": 1,
+            "value": "Unfallkasse Nordrhein-Westfalen"
+        },
+        {
+            "facet_id": 443678,
+            "occurrence": 1,
+            "value": "Knietsch, Anja"
+        },
+        {
+            "facet_id": 458446,
+            "occurrence": 1,
+            "value": "Gebel, Thomas"
+        },
+        {
+            "facet_id": 467280,
+            "occurrence": 1,
+            "value": "Verband der Chemischen Industrie e.V."
+        },
+        {
+            "facet_id": 489465,
+            "occurrence": 1,
+            "value": "Liebers, Falk"
+        },
+        {
+            "facet_id": 489466,
+            "occurrence": 1,
+            "value": "Behrendt, Sylvia"
+        },
+        {
+            "facet_id": 489467,
+            "occurrence": 1,
+            "value": "Klußmann, André"
+        },
+        {
+            "facet_id": 489468,
+            "occurrence": 1,
+            "value": "Institut für Arbeitsmedizin, Ergonomie und Sicherheitstechnik"
+        },
+        {
+            "facet_id": 524319,
+            "occurrence": 1,
+            "value": "Bockelmann, Martina"
+        },
+        {
+            "facet_id": 524320,
+            "occurrence": 1,
+            "value": "Nachreiner, Friedhelm"
+        },
+        {
+            "facet_id": 524321,
+            "occurrence": 1,
+            "value": "Nickel, Peter"
+        },
+        {
+            "facet_id": 524322,
+            "occurrence": 1,
+            "value": "Gesellschaft für Arbeits-, Wirtschafts- und Organisationspsychologische Forschung e.V. (GAWO)"
+        },
+        {
+            "facet_id": 524323,
+            "occurrence": 1,
+            "value": "Institut für Arbeitsschutz der Deutschen Gesetzlichen Unfallversicherung (IFA) Referat 5.1: Neue Technologien, Mensch & Technik"
+        },
+        {
+            "facet_id": 524324,
+            "occurrence": 1,
+            "value": "Bundesanstalt für Arbeitsschutz und Arbeitsmedzin"
+        },
+        {
+            "facet_id": 549546,
+            "occurrence": 1,
+            "value": "Morschhäuser, Martina"
+        },
+        {
+            "facet_id": 572493,
+            "occurrence": 1,
+            "value": "Mühlemeyer, Christoph"
+        },
+        {
+            "facet_id": 572494,
+            "occurrence": 1,
+            "value": "ASER – Institut für Arbeitsmedizin, Sicherheitstechnik und Ergonomie e. V. an der Bergischen Universität Wuppertal"
+        },
+        {
+            "facet_id": 584627,
+            "occurrence": 1,
+            "value": "Ebener, Melanie"
+        },
+        {
+            "facet_id": 584628,
+            "occurrence": 1,
+            "value": "Hasselhorn, Hans-Martin"
+        },
+        {
+            "facet_id": 601684,
+            "occurrence": 1,
+            "value": "Lafrenz, Bettina"
+        },
+        {
+            "facet_id": 609659,
+            "occurrence": 1,
+            "value": "Völker, Katy"
+        },
+        {
+            "facet_id": 613960,
+            "occurrence": 1,
+            "value": "Lohmann-Haislah, Andrea"
+        },
+        {
+            "facet_id": 613962,
+            "occurrence": 1,
+            "value": "Siefer, Anke"
+        },
+        {
+            "facet_id": 613963,
+            "occurrence": 1,
+            "value": "Burr, Hermann"
+        },
+        {
+            "facet_id": 613964,
+            "occurrence": 1,
+            "value": "Bodnar, Linn"
+        },
+        {
+            "facet_id": 653760,
+            "occurrence": 1,
+            "value": "Johannes Gutenberg-Universität Mainz Arbeits-, Organisations- und Wirtschaftspsychologie"
+        },
+        {
+            "facet_id": 667015,
+            "occurrence": 1,
+            "value": "Lang, Jacqueline"
+        },
+        {
+            "facet_id": 667016,
+            "occurrence": 1,
+            "value": "Meyer-Plath, Asmus"
+        },
+        {
+            "facet_id": 671703,
+            "occurrence": 1,
+            "value": "Hustedt, Michael (1967-)"
+        },
+        {
+            "facet_id": 676453,
+            "occurrence": 1,
+            "value": "Thiemann, Kathrin"
+        },
+        {
+            "facet_id": 676454,
+            "occurrence": 1,
+            "value": "Schröder, Frauke"
+        },
+        {
+            "facet_id": 676455,
+            "occurrence": 1,
+            "value": "Hennig, Philipp"
+        },
+        {
+            "facet_id": 680061,
+            "occurrence": 1,
+            "value": "Fitzner, Klaus"
+        },
+        {
+            "facet_id": 680062,
+            "occurrence": 1,
+            "value": "Finke, Ulrich"
+        },
+        {
+            "facet_id": 680655,
+            "occurrence": 1,
+            "value": "Benndorf, Felix"
+        },
+        {
+            "facet_id": 682525,
+            "occurrence": 1,
+            "value": "Haas, Claus"
+        },
+        {
+            "facet_id": 682902,
+            "occurrence": 1,
+            "value": "Holthenrich, Dagmar"
+        },
+        {
+            "facet_id": 687341,
+            "occurrence": 1,
+            "value": "Kampstein, C."
+        },
+        {
+            "facet_id": 699453,
+            "occurrence": 1,
+            "value": "Nägele, Gerhard"
+        },
+        {
+            "facet_id": 701746,
+            "occurrence": 1,
+            "value": "Plitzko, Sabine"
+        },
+        {
+            "facet_id": 701747,
+            "occurrence": 1,
+            "value": "Bachmann, Volker"
+        },
+        {
+            "facet_id": 702668,
+            "occurrence": 1,
+            "value": "Ebersold, Mirco"
+        },
+        {
+            "facet_id": 702669,
+            "occurrence": 1,
+            "value": "Gralla, Gisbert"
+        },
+        {
+            "facet_id": 702670,
+            "occurrence": 1,
+            "value": "Geißler, Paul"
+        },
+        {
+            "facet_id": 702671,
+            "occurrence": 1,
+            "value": "Müller-BBM GmbH"
+        },
+        {
+            "facet_id": 709335,
+            "occurrence": 1,
+            "value": "Badura, Bernhard"
+        },
+        {
+            "facet_id": 709336,
+            "occurrence": 1,
+            "value": "Steinke, Mika"
+        },
+        {
+            "facet_id": 709337,
+            "occurrence": 1,
+            "value": "Universität Bielefeld Fakultät für Gesundheitswissenschaften"
+        },
+        {
+            "facet_id": 741734,
+            "occurrence": 1,
+            "value": "Klinikum der Universität München Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin"
+        },
+        {
+            "facet_id": 771060,
+            "occurrence": 1,
+            "value": "Sievers, Ulrich"
+        },
+        {
+            "facet_id": 772892,
+            "occurrence": 1,
+            "value": "Blochwitz, Torsten"
+        },
+        {
+            "facet_id": 772893,
+            "occurrence": 1,
+            "value": "Bittner, Stefan"
+        },
+        {
+            "facet_id": 772894,
+            "occurrence": 1,
+            "value": "Schreiber, Uwe"
+        },
+        {
+            "facet_id": 772895,
+            "occurrence": 1,
+            "value": "Uhlig, Andreas"
+        },
+        {
+            "facet_id": 772896,
+            "occurrence": 1,
+            "value": "ITI Gesellschaft für ingenieurtechnische Informationsverarbeitung mbH"
+        },
+        {
+            "facet_id": 794211,
+            "occurrence": 1,
+            "value": "Schäferhenrich, Anja"
+        },
+        {
+            "facet_id": 794212,
+            "occurrence": 1,
+            "value": "Krutz, Kristina"
+        },
+        {
+            "facet_id": 794213,
+            "occurrence": 1,
+            "value": "Göen, Thomas"
+        },
+        {
+            "facet_id": 794214,
+            "occurrence": 1,
+            "value": "Friedrich-Alexander Universität Erlangen-Nürnberg Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin"
+        },
+        {
+            "facet_id": 803736,
+            "occurrence": 1,
+            "value": "Hellwig, Runa T."
+        },
+        {
+            "facet_id": 803737,
+            "occurrence": 1,
+            "value": "Nöske, Iris"
+        },
+        {
+            "facet_id": 803738,
+            "occurrence": 1,
+            "value": "Bischof, Wolfgang"
+        },
+        {
+            "facet_id": 803739,
+            "occurrence": 1,
+            "value": "Brasche, Sabine"
+        },
+        {
+            "facet_id": 803740,
+            "occurrence": 1,
+            "value": "Hochschule Augsburg Fachgebiet Energie Effizienz Design und Bauklimatik"
+        },
+        {
+            "facet_id": 803741,
+            "occurrence": 1,
+            "value": "Fraunhofer – Institut für Bauphysik"
+        },
+        {
+            "facet_id": 803742,
+            "occurrence": 1,
+            "value": "Universitätsklinikum Jena Institut für Arbeits-, Sozial-, Umweltmedizin und -hygiene"
+        },
+        {
+            "facet_id": 821308,
+            "occurrence": 1,
+            "value": "Hahn, Stefan"
+        },
+        {
+            "facet_id": 824643,
+            "occurrence": 1,
+            "value": "Eisermann, Jens (1965-)"
+        },
+        {
+            "facet_id": 831990,
+            "occurrence": 1,
+            "value": "Wischniewski, Sascha"
+        },
+        {
+            "facet_id": 845648,
+            "occurrence": 1,
+            "value": "Schröder, Katrin"
+        },
+        {
+            "facet_id": 855695,
+            "occurrence": 1,
+            "value": "Windberg, H.-J."
+        },
+        {
+            "facet_id": 861438,
+            "occurrence": 1,
+            "value": "Malo, Andrea Alice"
+        },
+        {
+            "facet_id": 864805,
+            "occurrence": 1,
+            "value": "Ziemann, Christina"
+        },
+        {
+            "facet_id": 864806,
+            "occurrence": 1,
+            "value": "Rittinghausen, Susanne"
+        },
+        {
+            "facet_id": 864807,
+            "occurrence": 1,
+            "value": "Kolling, Angelika"
+        },
+        {
+            "facet_id": 869630,
+            "occurrence": 1,
+            "value": "De Costanzo, Elisabetta (1957-)"
+        },
+        {
+            "facet_id": 869631,
+            "occurrence": 1,
+            "value": "Freie Universität Berlin AB Wirtschafts- und Sozialpsychologie"
+        },
+        {
+            "facet_id": 886959,
+            "occurrence": 1,
+            "value": "Hinding, Barbara"
+        },
+        {
+            "facet_id": 886960,
+            "occurrence": 1,
+            "value": "Kastner, Michael (1946-)"
+        },
+        {
+            "facet_id": 886961,
+            "occurrence": 1,
+            "value": "Özkan, Orhan"
+        },
+        {
+            "facet_id": 886962,
+            "occurrence": 1,
+            "value": "Buchholz, Sonja"
+        },
+        {
+            "facet_id": 886963,
+            "occurrence": 1,
+            "value": "Mardin, Ersoy"
+        },
+        {
+            "facet_id": 886964,
+            "occurrence": 1,
+            "value": "TU Dortmund Institut für Psychologie"
+        },
+        {
+            "facet_id": 905936,
+            "occurrence": 1,
+            "value": "Pangert, Barbara"
+        },
+        {
+            "facet_id": 905937,
+            "occurrence": 1,
+            "value": "Schüpbach, Heinz"
+        },
+        {
+            "facet_id": 905938,
+            "occurrence": 1,
+            "value": "Albert-Ludwigs-Universität Freiburg Institut für Psychologie, Wirtschaftspsychologie"
+        },
+        {
+            "facet_id": 914009,
+            "occurrence": 1,
+            "value": "Hacker, Winfried"
+        },
+        {
+            "facet_id": 914010,
+            "occurrence": 1,
+            "value": "Stab, Nicole"
+        },
+        {
+            "facet_id": 914011,
+            "occurrence": 1,
+            "value": "Herms, Isabel"
+        },
+        {
+            "facet_id": 914012,
+            "occurrence": 1,
+            "value": "Technische Universität Dresden Fakultät Mathematik/Naturwissenschaften Institut für Allgemeine Psychologie, Biopsychologie und Methoden der Psychologie Arbeitsgruppe „Wissen-Denken-Handeln“"
+        },
+        {
+            "facet_id": 914013,
+            "occurrence": 1,
+            "value": "Prävention/Gesundheitsmanagement – Abteilung ArGUS B.A.D Gesundheitsvorsorge und Sicherheitstechnik GmbH"
+        },
+        {
+            "facet_id": 914442,
+            "occurrence": 1,
+            "value": "Ritter, Albert (1954-)"
+        },
+        {
+            "facet_id": 914443,
+            "occurrence": 1,
+            "value": "Dresenkamp, Johannes"
+        },
+        {
+            "facet_id": 914444,
+            "occurrence": 1,
+            "value": "Bodmer, Frank"
+        },
+        {
+            "facet_id": 914445,
+            "occurrence": 1,
+            "value": "Hillbricht, N."
+        },
+        {
+            "facet_id": 914446,
+            "occurrence": 1,
+            "value": "Lewald, Dirk"
+        },
+        {
+            "facet_id": 914447,
+            "occurrence": 1,
+            "value": "Reisen, H.P."
+        },
+        {
+            "facet_id": 954887,
+            "occurrence": 1,
+            "value": "Systemkonzept Gesellschaft für Systemforschung und Konzeptentwicklung mbH"
+        },
+        {
+            "facet_id": 955453,
+            "occurrence": 1,
+            "value": "Schröder, Helmut"
+        },
+        {
+            "facet_id": 961081,
+            "occurrence": 1,
+            "value": "Kittelmann, Marlies"
+        },
+        {
+            "facet_id": 961082,
+            "occurrence": 1,
+            "value": "Tschöcke, Evelyn"
+        },
+        {
+            "facet_id": 965961,
+            "occurrence": 1,
+            "value": "Mahlstedt, Hans"
+        },
+        {
+            "facet_id": 972864,
+            "occurrence": 1,
+            "value": "Windberg, Hans-Jörg"
+        },
+        {
+            "facet_id": 972865,
+            "occurrence": 1,
+            "value": "Deutsches Kuratorium für Sicherheit in Heim und Freizeit e.V."
+        },
+        {
+            "facet_id": 1021557,
+            "occurrence": 1,
+            "value": "Schiel, Stefan"
+        },
+        {
+            "facet_id": 1021558,
+            "occurrence": 1,
+            "value": "Schulz, Sabine"
+        },
+        {
+            "facet_id": 1021559,
+            "occurrence": 1,
+            "value": "Kleudgen, Martin"
+        },
+        {
+            "facet_id": 1021560,
+            "occurrence": 1,
+            "value": "infas Institut für angewandte Sozialwissenschaft GmbH"
+        },
+        {
+            "facet_id": 1049714,
+            "occurrence": 1,
+            "value": "Nagel, Katrin"
+        },
+        {
+            "facet_id": 1049715,
+            "occurrence": 1,
+            "value": "Morlock, Michael M."
+        },
+        {
+            "facet_id": 1049716,
+            "occurrence": 1,
+            "value": "Huber, Gerd (1969-)"
+        },
+        {
+            "facet_id": 1049717,
+            "occurrence": 1,
+            "value": "Klein, Anke"
+        },
+        {
+            "facet_id": 1049718,
+            "occurrence": 1,
+            "value": "TUHH - Hamburg University of Technology Institute of Biomechanics"
+        },
+        {
+            "facet_id": 1049719,
+            "occurrence": 1,
+            "value": "University Medical Center Hamburg-Eppendorf Department of Legal Medicine"
+        },
+        {
+            "facet_id": 1053774,
+            "occurrence": 1,
+            "value": "Fahlbruch, Babette"
+        },
+        {
+            "facet_id": 1053776,
+            "occurrence": 1,
+            "value": "TÜV NORD Systems GmbH & Co. KG Geschäftsstelle Berlin-Brandenburg"
+        },
+        {
+            "facet_id": 1055822,
+            "occurrence": 1,
+            "value": "Roller, Markus"
+        },
+        {
+            "facet_id": 1066104,
+            "occurrence": 1,
+            "value": "Herzog, Dirk (1976-)"
+        },
+        {
+            "facet_id": 1066105,
+            "occurrence": 1,
+            "value": "Laser Zentrum Hannover e.V."
+        },
+        {
+            "facet_id": 1074997,
+            "occurrence": 1,
+            "value": "KLIMAKONZEPT Ingenieurgesellschaft b.R."
+        },
+        {
+            "facet_id": 1096621,
+            "occurrence": 1,
+            "value": "Behnke, Wolfgang"
+        },
+        {
+            "facet_id": 1096622,
+            "occurrence": 1,
+            "value": "Department of Aerosol Technology"
+        },
+        {
+            "facet_id": 1096623,
+            "occurrence": 1,
+            "value": "Department of Chemical Risk Assessment, Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM)"
+        },
+        {
+            "facet_id": 1124821,
+            "occurrence": 1,
+            "value": "Schaudien, Dirk"
+        },
+        {
+            "facet_id": 1124822,
+            "occurrence": 1,
+            "value": "Knebel, Jan Wolfgang"
+        },
+        {
+            "facet_id": 1124823,
+            "occurrence": 1,
+            "value": "Voss, Jens-Uwe"
+        },
+        {
+            "facet_id": 1129048,
+            "occurrence": 1,
+            "value": "Hasselhorn, Hans Martin"
+        },
+        {
+            "facet_id": 1146782,
+            "occurrence": 1,
+            "value": "Feneberg, Gregor"
+        },
+        {
+            "facet_id": 1155115,
+            "occurrence": 1,
+            "value": "Fahlbruch, Susanne"
+        },
+        {
+            "facet_id": 1175798,
+            "occurrence": 1,
+            "value": "Schapkin, Sergei A."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 9819,
+    "from_affiliate_facet": "Bayern",
+    "occurrence": 22,
+    "affiliates": [
+        {
+            "facet_id": 9819,
+            "occurrence": 22,
+            "value": "Bayern"
+        },
+        {
+            "facet_id": 387,
+            "occurrence": 18,
+            "value": "Landesamt"
+        },
+        {
+            "facet_id": 388,
+            "occurrence": 18,
+            "value": "Bayern / Landesamt für Statistik und Datenverarbeitung"
+        },
+        {
+            "facet_id": 129490,
+            "occurrence": 3,
+            "value": "Bayern / Staatsministerium der Finanzen"
+        },
+        {
+            "facet_id": 249530,
+            "occurrence": 1,
+            "value": "Bayerisches Staatsministerium der Finanzen"
+        },
+        {
+            "facet_id": 294052,
+            "occurrence": 1,
+            "value": "Bayern / Landesamt für Verfassungsschutz"
+        }
+    ]
+}

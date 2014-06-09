@@ -1,0 +1,294 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 19441,
+    "from_affiliate_facet": "Universitätsbibliothek",
+    "occurrence": 38,
+    "affiliates": [
+        {
+            "facet_id": 19441,
+            "occurrence": 38,
+            "value": "Universitätsbibliothek"
+        },
+        {
+            "facet_id": 25487,
+            "occurrence": 11,
+            "value": "Univ.-Bibl.,"
+        },
+        {
+            "facet_id": 14362,
+            "occurrence": 4,
+            "value": "Universitätsbibliothek Tübingen,"
+        },
+        {
+            "facet_id": 266378,
+            "occurrence": 4,
+            "value": "Univ.-Bibl."
+        },
+        {
+            "facet_id": 7180,
+            "occurrence": 3,
+            "value": "SLUB Dresden,"
+        },
+        {
+            "facet_id": 21342,
+            "occurrence": 2,
+            "value": "Malz, Angela"
+        },
+        {
+            "facet_id": 53759,
+            "occurrence": 2,
+            "value": "Stadtbibliothek Chemnitz"
+        },
+        {
+            "facet_id": 228101,
+            "occurrence": 2,
+            "value": "Raffelt, Albert (1944-)"
+        },
+        {
+            "facet_id": 266380,
+            "occurrence": 2,
+            "value": "Batlogg, Andreas R. (1962-)"
+        },
+        {
+            "facet_id": 585153,
+            "occurrence": 2,
+            "value": "Psychiatrische Universitätsklinik,"
+        },
+        {
+            "facet_id": 641775,
+            "occurrence": 2,
+            "value": "Karl-Rahner-Archiv [u.a.],"
+        },
+        {
+            "facet_id": 5853,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek der Universität Stuttgart,"
+        },
+        {
+            "facet_id": 7616,
+            "occurrence": 1,
+            "value": "Pertschi, Ottmar"
+        },
+        {
+            "facet_id": 23153,
+            "occurrence": 1,
+            "value": "Sächsische Landesbibliothek- Staats- und Universitätsbibliothek Dresden,"
+        },
+        {
+            "facet_id": 28979,
+            "occurrence": 1,
+            "value": "Jacobi, Johann Georg (1740 - 1814)"
+        },
+        {
+            "facet_id": 48888,
+            "occurrence": 1,
+            "value": "Rahner, Karl"
+        },
+        {
+            "facet_id": 62692,
+            "occurrence": 1,
+            "value": "Kirchhoff-Institut für Physik,"
+        },
+        {
+            "facet_id": 66171,
+            "occurrence": 1,
+            "value": "Roth, Klaus (1951-)"
+        },
+        {
+            "facet_id": 66262,
+            "occurrence": 1,
+            "value": "Jacobi, Johann Georg"
+        },
+        {
+            "facet_id": 93439,
+            "occurrence": 1,
+            "value": "Seidler, Günter H. (1951-)"
+        },
+        {
+            "facet_id": 96900,
+            "occurrence": 1,
+            "value": "Steyrer, Philipp Jakob (1715 - 1795)"
+        },
+        {
+            "facet_id": 147823,
+            "occurrence": 1,
+            "value": "Stephan, Werner (1947-)"
+        },
+        {
+            "facet_id": 156948,
+            "occurrence": 1,
+            "value": "Beer, Elke"
+        },
+        {
+            "facet_id": 181074,
+            "occurrence": 1,
+            "value": "Platt, Ulrich (1949-)"
+        },
+        {
+            "facet_id": 197999,
+            "occurrence": 1,
+            "value": "Südasien Institut,"
+        },
+        {
+            "facet_id": 198000,
+            "occurrence": 1,
+            "value": "Klonner, Stefan (1971-)"
+        },
+        {
+            "facet_id": 208923,
+            "occurrence": 1,
+            "value": "Psychosomatische Universitätsklinik,"
+        },
+        {
+            "facet_id": 245242,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek Freiburg im Breisgau"
+        },
+        {
+            "facet_id": 276694,
+            "occurrence": 1,
+            "value": "Röske, Thomas (1962-)"
+        },
+        {
+            "facet_id": 326770,
+            "occurrence": 1,
+            "value": "Universität Heidelberg, Institut für Geowissenschaften,"
+        },
+        {
+            "facet_id": 326771,
+            "occurrence": 1,
+            "value": "Trieloff, Mario"
+        },
+        {
+            "facet_id": 338047,
+            "occurrence": 1,
+            "value": "Enss, Christian"
+        },
+        {
+            "facet_id": 351239,
+            "occurrence": 1,
+            "value": "Hering, Jürgen (1937-)"
+        },
+        {
+            "facet_id": 389444,
+            "occurrence": 1,
+            "value": "Hastreiter, Uwe"
+        },
+        {
+            "facet_id": 396141,
+            "occurrence": 1,
+            "value": "Katholische Akademie der Erzdiözese Freiburg"
+        },
+        {
+            "facet_id": 400773,
+            "occurrence": 1,
+            "value": "UB"
+        },
+        {
+            "facet_id": 407534,
+            "occurrence": 1,
+            "value": "Institut für Sport und Sportwissenschaft,"
+        },
+        {
+            "facet_id": 420827,
+            "occurrence": 1,
+            "value": "Zabel, Klaus-Jürgen (1928-)"
+        },
+        {
+            "facet_id": 420828,
+            "occurrence": 1,
+            "value": "Rambach, Christiane"
+        },
+        {
+            "facet_id": 420829,
+            "occurrence": 1,
+            "value": "Paulus, Stefan (1973-)"
+        },
+        {
+            "facet_id": 420830,
+            "occurrence": 1,
+            "value": "Becker, Norbert (1960-)"
+        },
+        {
+            "facet_id": 420831,
+            "occurrence": 1,
+            "value": "Philipp, Klaus Jan (1957-)"
+        },
+        {
+            "facet_id": 420832,
+            "occurrence": 1,
+            "value": "Huster, Henriette"
+        },
+        {
+            "facet_id": 420833,
+            "occurrence": 1,
+            "value": "Jost, Holger"
+        },
+        {
+            "facet_id": 420834,
+            "occurrence": 1,
+            "value": "Stürzebecher, Jörg (1961-)"
+        },
+        {
+            "facet_id": 420835,
+            "occurrence": 1,
+            "value": "Küster, Bärbel"
+        },
+        {
+            "facet_id": 420836,
+            "occurrence": 1,
+            "value": "Szymczyk-Eggert, Elisabeth"
+        },
+        {
+            "facet_id": 493013,
+            "occurrence": 1,
+            "value": "Vorgrimler, Herbert (1929-)"
+        },
+        {
+            "facet_id": 585154,
+            "occurrence": 1,
+            "value": "Schnell, Knut"
+        },
+        {
+            "facet_id": 706923,
+            "occurrence": 1,
+            "value": "Heym, Stefan"
+        },
+        {
+            "facet_id": 923039,
+            "occurrence": 1,
+            "value": "Klinik für Allgemeine Psychiatrie / Sammlung Prinzhorn"
+        },
+        {
+            "facet_id": 1042262,
+            "occurrence": 1,
+            "value": "Institut für Umweltphysik,"
+        },
+        {
+            "facet_id": 1053502,
+            "occurrence": 1,
+            "value": "Univ.-Bibl. [u.a.],"
+        },
+        {
+            "facet_id": 1108270,
+            "occurrence": 1,
+            "value": "Wolf-Holzäpfel, Werner (1957-)"
+        },
+        {
+            "facet_id": 1126365,
+            "occurrence": 1,
+            "value": "Institut für Grenzgebiete der Psychologie und Psychohygiene"
+        },
+        {
+            "facet_id": 1152780,
+            "occurrence": 1,
+            "value": "Beese, Michael"
+        },
+        {
+            "facet_id": 1179204,
+            "occurrence": 1,
+            "value": "Wassilowsky, Günther (1968-)"
+        }
+    ]
+}

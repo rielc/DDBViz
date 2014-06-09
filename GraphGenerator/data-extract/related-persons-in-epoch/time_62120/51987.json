@@ -1,0 +1,49 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 51987,
+    "from_affiliate_facet": "SLUB",
+    "occurrence": 21,
+    "affiliates": [
+        {
+            "facet_id": 51987,
+            "occurrence": 21,
+            "value": "SLUB"
+        },
+        {
+            "facet_id": 37664,
+            "occurrence": 20,
+            "value": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek"
+        },
+        {
+            "facet_id": 34764,
+            "occurrence": 1,
+            "value": "Techn. Univ.,"
+        },
+        {
+            "facet_id": 572510,
+            "occurrence": 1,
+            "value": "Buchmuseum"
+        },
+        {
+            "facet_id": 640506,
+            "occurrence": 1,
+            "value": "Scheurmann, Konrad"
+        },
+        {
+            "facet_id": 640507,
+            "occurrence": 1,
+            "value": "Universitätssammlungen. Kunst + Technik"
+        },
+        {
+            "facet_id": 640508,
+            "occurrence": 1,
+            "value": "Ausstellung Color Continuo 1810 ... 2010 ... System und Kunst der Farbe <2009 - 2010, Dresden>"
+        },
+        {
+            "facet_id": 818489,
+            "occurrence": 1,
+            "value": "Hofkapelle"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 5255,
+    "from_affiliate_facet": "Shakespeare, William (1564-1616)",
+    "occurrence": 17,
+    "affiliates": [
+        {
+            "facet_id": 5255,
+            "occurrence": 17,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 58564,
+            "occurrence": 11,
+            "value": "Langmans"
+        },
+        {
+            "facet_id": 58565,
+            "occurrence": 11,
+            "value": "Hunter, John"
+        },
+        {
+            "facet_id": 533,
+            "occurrence": 3,
+            "value": "Macmillan"
+        },
+        {
+            "facet_id": 38681,
+            "occurrence": 3,
+            "value": "Wright, William Aldis (1831-1914)"
+        },
+        {
+            "facet_id": 36355,
+            "occurrence": 2,
+            "value": "Pagnerre"
+        },
+        {
+            "facet_id": 157821,
+            "occurrence": 1,
+            "value": "Dt. Shakespeare-Ges."
+        },
+        {
+            "facet_id": 200837,
+            "occurrence": 1,
+            "value": "Deutsche Shakespeare-Gesellschaft"
+        }
+    ]
+}

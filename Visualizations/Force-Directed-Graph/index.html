@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  stroke: none;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+<body>
+<h1>2011 - 2020</h1>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var width = 960, height = 960;
+
+var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .charge(-30)
+    .linkDistance(20)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("../../GraphGenerator/data-extract/networks-per-epoch/network_10.json", function(error, graph) {
+  force
+      .nodes( graph['time_62120'].nodes )
+      .links( graph['time_62120'].links )
+      .start();
+
+  var link = svg.selectAll(".link")
+      .data(graph['time_62120'].links)
+    .enter().append("line")
+      .attr("class", "link")
+      .style("stroke-width", 1);
+
+  var node = svg.selectAll(".node")
+      .data(graph['time_62120'].nodes)
+    .enter().append("circle")
+      .attr("class", "node")
+      .attr("r", 5)
+      .style("fill", function(d) { return color(d.occurrence/100); })
+      .call(force.drag);
+
+  node.append("title")
+      .text(function(d) { return d.value; });
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  });
+});
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,284 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 27300,
+    "from_affiliate_facet": "LfL",
+    "occurrence": 58,
+    "affiliates": [
+        {
+            "facet_id": 27300,
+            "occurrence": 58,
+            "value": "LfL"
+        },
+        {
+            "facet_id": 24936,
+            "occurrence": 23,
+            "value": "Bayerische Landesanstalt für Landwirtschaft"
+        },
+        {
+            "facet_id": 51247,
+            "occurrence": 7,
+            "value": "Institut für Landtechnik und Tierhaltung (Poing)"
+        },
+        {
+            "facet_id": 125474,
+            "occurrence": 4,
+            "value": "Institut für Tierernährung und Futterwirtschaft (Poing)"
+        },
+        {
+            "facet_id": 489269,
+            "occurrence": 4,
+            "value": "Institut für Pflanzenbau und Pflanzenzüchtung (Freising)"
+        },
+        {
+            "facet_id": 84600,
+            "occurrence": 3,
+            "value": "Schuffenhauer, Arne"
+        },
+        {
+            "facet_id": 84601,
+            "occurrence": 3,
+            "value": "Institut für Ernährung und Markt (München)"
+        },
+        {
+            "facet_id": 125471,
+            "occurrence": 3,
+            "value": "Lindermayer, Hermann"
+        },
+        {
+            "facet_id": 878747,
+            "occurrence": 3,
+            "value": "Engelhard, Bernhard"
+        },
+        {
+            "facet_id": 37007,
+            "occurrence": 2,
+            "value": "Wendl, Georg"
+        },
+        {
+            "facet_id": 84599,
+            "occurrence": 2,
+            "value": "Maier, Matthias"
+        },
+        {
+            "facet_id": 125472,
+            "occurrence": 2,
+            "value": "Preißinger, Wolfgang"
+        },
+        {
+            "facet_id": 125473,
+            "occurrence": 2,
+            "value": "Propstmeier, Günther"
+        },
+        {
+            "facet_id": 259737,
+            "occurrence": 2,
+            "value": "Institut für Landtechnik und Tierhaltung (Freising; Poing)"
+        },
+        {
+            "facet_id": 335879,
+            "occurrence": 2,
+            "value": "Jais, Christina"
+        },
+        {
+            "facet_id": 24527,
+            "occurrence": 1,
+            "value": "Bayern / Landesamt für Gesundheit und Lebensmittelsicherheit"
+        },
+        {
+            "facet_id": 45798,
+            "occurrence": 1,
+            "value": "Maier, Jakob"
+        },
+        {
+            "facet_id": 51245,
+            "occurrence": 1,
+            "value": "Harms, Jann Henrik (1972-)"
+        },
+        {
+            "facet_id": 51246,
+            "occurrence": 1,
+            "value": "Wanner, Ludwig"
+        },
+        {
+            "facet_id": 67739,
+            "occurrence": 1,
+            "value": "Kulturlandschaftstag <9, 2011, Freising>"
+        },
+        {
+            "facet_id": 81512,
+            "occurrence": 1,
+            "value": "Haidn, Bernhard"
+        },
+        {
+            "facet_id": 81513,
+            "occurrence": 1,
+            "value": "Bayrhof, Werner"
+        },
+        {
+            "facet_id": 81514,
+            "occurrence": 1,
+            "value": "Wangler, Anke"
+        },
+        {
+            "facet_id": 84598,
+            "occurrence": 1,
+            "value": "Bundschuh, Ralf"
+        },
+        {
+            "facet_id": 112099,
+            "occurrence": 1,
+            "value": "Kuhn, Gisbert"
+        },
+        {
+            "facet_id": 112100,
+            "occurrence": 1,
+            "value": "Heinz, Sabine"
+        },
+        {
+            "facet_id": 112101,
+            "occurrence": 1,
+            "value": "Mayer, Franziska"
+        },
+        {
+            "facet_id": 140798,
+            "occurrence": 1,
+            "value": "Huber, Ludwig"
+        },
+        {
+            "facet_id": 150785,
+            "occurrence": 1,
+            "value": "Lutz, Anton"
+        },
+        {
+            "facet_id": 205271,
+            "occurrence": 1,
+            "value": "Schätzl, Robert (1970-)"
+        },
+        {
+            "facet_id": 355107,
+            "occurrence": 1,
+            "value": "Landtechnisch-Bauliche Jahrestagung <2011, Grub, Poing>"
+        },
+        {
+            "facet_id": 401870,
+            "occurrence": 1,
+            "value": "Fröhner, Ariane"
+        },
+        {
+            "facet_id": 427103,
+            "occurrence": 1,
+            "value": "Wiesinger, Klaus"
+        },
+        {
+            "facet_id": 427104,
+            "occurrence": 1,
+            "value": "Öko-Landbau-Tag <2012, Freising>"
+        },
+        {
+            "facet_id": 489270,
+            "occurrence": 1,
+            "value": "Gesellschaft für Hopfenforschung (Hüll, Wolnzach)"
+        },
+        {
+            "facet_id": 490342,
+            "occurrence": 1,
+            "value": "Steinberger, Siegfried"
+        },
+        {
+            "facet_id": 496693,
+            "occurrence": 1,
+            "value": "Dötsch, Klemens"
+        },
+        {
+            "facet_id": 496694,
+            "occurrence": 1,
+            "value": "Institut für Fischerei"
+        },
+        {
+            "facet_id": 610648,
+            "occurrence": 1,
+            "value": "Rehm, Norbert"
+        },
+        {
+            "facet_id": 611961,
+            "occurrence": 1,
+            "value": "Institut für Ländliche Strukturentwicklung, Betriebswirtschaft und Agrarinformatik (München)"
+        },
+        {
+            "facet_id": 655701,
+            "occurrence": 1,
+            "value": "Faulhaber, Irene"
+        },
+        {
+            "facet_id": 655702,
+            "occurrence": 1,
+            "value": "Freiberger, Franz"
+        },
+        {
+            "facet_id": 655703,
+            "occurrence": 1,
+            "value": "Simon, Jochen"
+        },
+        {
+            "facet_id": 826240,
+            "occurrence": 1,
+            "value": "Goldbrunner, Ludwig"
+        },
+        {
+            "facet_id": 826241,
+            "occurrence": 1,
+            "value": "Meyer, Christian (1972-)"
+        },
+        {
+            "facet_id": 917584,
+            "occurrence": 1,
+            "value": "Seigner, Elisabeth"
+        },
+        {
+            "facet_id": 969317,
+            "occurrence": 1,
+            "value": "Loock, Elisabeth"
+        },
+        {
+            "facet_id": 1030791,
+            "occurrence": 1,
+            "value": "Spandau, Peter"
+        },
+        {
+            "facet_id": 1044719,
+            "occurrence": 1,
+            "value": "Pelzer, Andreas"
+        },
+        {
+            "facet_id": 1044720,
+            "occurrence": 1,
+            "value": "Randt, Andreas"
+        },
+        {
+            "facet_id": 1044721,
+            "occurrence": 1,
+            "value": "Reiter, Klaus"
+        },
+        {
+            "facet_id": 1113127,
+            "occurrence": 1,
+            "value": "Besamungstagung Eber <2011, Grub, Poing>"
+        },
+        {
+            "facet_id": 1115392,
+            "occurrence": 1,
+            "value": "Holterman, Dirk (1952-)"
+        },
+        {
+            "facet_id": 1147191,
+            "occurrence": 1,
+            "value": "Bachmaier, Hans"
+        },
+        {
+            "facet_id": 1177656,
+            "occurrence": 1,
+            "value": "Zenger, Xaver"
+        }
+    ]
+}

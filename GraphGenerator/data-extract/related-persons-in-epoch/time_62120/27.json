@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 27,
+    "from_affiliate_facet": "Willy Pragher",
+    "occurrence": 42,
+    "affiliates": [
+        {
+            "facet_id": 27,
+            "occurrence": 42,
+            "value": "Willy Pragher"
+        },
+        {
+            "facet_id": 4993,
+            "occurrence": 32,
+            "value": "Filmnegative, Ordner 292 (Transnistrien)"
+        },
+        {
+            "facet_id": 8415,
+            "occurrence": 8,
+            "value": "Filmnegative, Ordner 150 (Freiburg alt)"
+        },
+        {
+            "facet_id": 3920,
+            "occurrence": 2,
+            "value": "Filmnegative, Ordner 903 (Zeitgeschehen 1939)"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 103655,
+    "from_affiliate_facet": "Eschen, Fritz",
+    "occurrence": 35,
+    "affiliates": [
+        {
+            "facet_id": 1956,
+            "occurrence": 35,
+            "value": "Danigel, Gerd (Fotograf)"
+        },
+        {
+            "facet_id": 103655,
+            "occurrence": 35,
+            "value": "Eschen, Fritz"
+        },
+        {
+            "facet_id": 301018,
+            "occurrence": 1,
+            "value": "Schulze-Eldowy, Gundula"
+        },
+        {
+            "facet_id": 575775,
+            "occurrence": 1,
+            "value": "Weidner, Sascha"
+        }
+    ]
+}

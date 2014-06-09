@@ -1,0 +1,2507 @@
+{
+    "epochID": 30,
+    "epoch": "time_61907",
+    "count": 500,
+    "items": [
+        {
+            "affiliate_facet_id": 131,
+            "affiliate_facet": "Domänenkanzlei",
+            "occurrence": 3608
+        },
+        {
+            "affiliate_facet_id": 351,
+            "affiliate_facet": "Großherzogliches Justizdepartement, Lehenhof",
+            "occurrence": 1891
+        },
+        {
+            "affiliate_facet_id": 301,
+            "affiliate_facet": "Cotta",
+            "occurrence": 1232
+        },
+        {
+            "affiliate_facet_id": 13,
+            "affiliate_facet": "Deutsche Forschungsgemeinschaft",
+            "occurrence": 1072
+        },
+        {
+            "affiliate_facet_id": 162,
+            "affiliate_facet": "Limpurg-Gaildorfer Erbschenkenarchiv",
+            "occurrence": 997
+        },
+        {
+            "affiliate_facet_id": 5311,
+            "affiliate_facet": "Gesamtarchiv der Schenken von Stauffenberg",
+            "occurrence": 802
+        },
+        {
+            "affiliate_facet_id": 2075,
+            "affiliate_facet": "STB",
+            "occurrence": 730
+        },
+        {
+            "affiliate_facet_id": 5025,
+            "affiliate_facet": "Fürstliche Landesregierung Sigmaringen",
+            "occurrence": 643
+        },
+        {
+            "affiliate_facet_id": 3025,
+            "affiliate_facet": "Württemberg, Friedrich I.; König, 1754-1816",
+            "occurrence": 590
+        },
+        {
+            "affiliate_facet_id": 7885,
+            "affiliate_facet": "Leopold Adler",
+            "occurrence": 571
+        },
+        {
+            "affiliate_facet_id": 442,
+            "affiliate_facet": "Regierung",
+            "occurrence": 549
+        },
+        {
+            "affiliate_facet_id": 32,
+            "affiliate_facet": "Schumacher, Klaus-Dieter (Fotograf)",
+            "occurrence": 546
+        },
+        {
+            "affiliate_facet_id": 687,
+            "affiliate_facet": "LV Heilbronn",
+            "occurrence": 533
+        },
+        {
+            "affiliate_facet_id": 600,
+            "affiliate_facet": "Brockhaus",
+            "occurrence": 532
+        },
+        {
+            "affiliate_facet_id": 7527,
+            "affiliate_facet": "Theatergeschichtliche Sammlung und Hebbelsammlung",
+            "occurrence": 527
+        },
+        {
+            "affiliate_facet_id": 907,
+            "affiliate_facet": "Lindauer",
+            "occurrence": 506
+        },
+        {
+            "affiliate_facet_id": 2057,
+            "affiliate_facet": "Ministerium des Innern; Adelsmatrikelkommission",
+            "occurrence": 503
+        },
+        {
+            "affiliate_facet_id": 1137,
+            "affiliate_facet": "Seidel",
+            "occurrence": 501
+        },
+        {
+            "affiliate_facet_id": 1131,
+            "affiliate_facet": "Landgrafschaft Klettgau",
+            "occurrence": 499
+        },
+        {
+            "affiliate_facet_id": 1476,
+            "affiliate_facet": "Didot",
+            "occurrence": 485
+        },
+        {
+            "affiliate_facet_id": 300,
+            "affiliate_facet": "Th. u. T. Oberamt Scheer",
+            "occurrence": 461
+        },
+        {
+            "affiliate_facet_id": 3716,
+            "affiliate_facet": "Fleischer",
+            "occurrence": 460
+        },
+        {
+            "affiliate_facet_id": 5794,
+            "affiliate_facet": "Lentner",
+            "occurrence": 452
+        },
+        {
+            "affiliate_facet_id": 18123,
+            "affiliate_facet": "Ministerium des Innern",
+            "occurrence": 442
+        },
+        {
+            "affiliate_facet_id": 56,
+            "affiliate_facet": "Lüttig, Matthias (Fotograf)",
+            "occurrence": 423
+        },
+        {
+            "affiliate_facet_id": 8016,
+            "affiliate_facet": "Kotzebue, August von (1761-1819)",
+            "occurrence": 392
+        },
+        {
+            "affiliate_facet_id": 11702,
+            "affiliate_facet": "Deterville",
+            "occurrence": 384
+        },
+        {
+            "affiliate_facet_id": 9900,
+            "affiliate_facet": "Studienfondsverwaltung Rastatt",
+            "occurrence": 383
+        },
+        {
+            "affiliate_facet_id": 2248,
+            "affiliate_facet": "Innenministerium",
+            "occurrence": 382
+        },
+        {
+            "affiliate_facet_id": 1645,
+            "affiliate_facet": "Barba",
+            "occurrence": 369
+        },
+        {
+            "affiliate_facet_id": 5662,
+            "affiliate_facet": "Dieterich",
+            "occurrence": 364
+        },
+        {
+            "affiliate_facet_id": 5258,
+            "affiliate_facet": "Friedrich, Caspar David",
+            "occurrence": 359
+        },
+        {
+            "affiliate_facet_id": 4622,
+            "affiliate_facet": "Hübschmann",
+            "occurrence": 350
+        },
+        {
+            "affiliate_facet_id": 10890,
+            "affiliate_facet": "Fleischmann",
+            "occurrence": 346
+        },
+        {
+            "affiliate_facet_id": 1265,
+            "affiliate_facet": "Reimer",
+            "occurrence": 331
+        },
+        {
+            "affiliate_facet_id": 5118,
+            "affiliate_facet": "Göschen",
+            "occurrence": 326
+        },
+        {
+            "affiliate_facet_id": 6561,
+            "affiliate_facet": "Ministerium der Auswärtigen Angelegenheiten",
+            "occurrence": 317
+        },
+        {
+            "affiliate_facet_id": 1727,
+            "affiliate_facet": "Oskar Netoliczka",
+            "occurrence": 308
+        },
+        {
+            "affiliate_facet_id": 1235,
+            "affiliate_facet": "Baumgärtner",
+            "occurrence": 307
+        },
+        {
+            "affiliate_facet_id": 6441,
+            "affiliate_facet": "Hofkammer",
+            "occurrence": 302
+        },
+        {
+            "affiliate_facet_id": 5159,
+            "affiliate_facet": "Doll",
+            "occurrence": 300
+        },
+        {
+            "affiliate_facet_id": 3715,
+            "affiliate_facet": "Bezirksamt Eberbach",
+            "occurrence": 294
+        },
+        {
+            "affiliate_facet_id": 257,
+            "affiliate_facet": "Bezirksamt Gengenbach",
+            "occurrence": 292
+        },
+        {
+            "affiliate_facet_id": 15620,
+            "affiliate_facet": "Direktorium des Seekreises",
+            "occurrence": 283
+        },
+        {
+            "affiliate_facet_id": 6332,
+            "affiliate_facet": "Palm",
+            "occurrence": 280
+        },
+        {
+            "affiliate_facet_id": 2935,
+            "affiliate_facet": "Graphische Sammlung (Kassel)",
+            "occurrence": 276
+        },
+        {
+            "affiliate_facet_id": 1045,
+            "affiliate_facet": "Hahn",
+            "occurrence": 275
+        },
+        {
+            "affiliate_facet_id": 3090,
+            "affiliate_facet": "Württemberg, Wilhelm I.; König, 1781-1864",
+            "occurrence": 275
+        },
+        {
+            "affiliate_facet_id": 276,
+            "affiliate_facet": "Cicero, Marcus Tullius (v106-v43)",
+            "occurrence": 272
+        },
+        {
+            "affiliate_facet_id": 2481,
+            "affiliate_facet": "Treuttel et Würtz",
+            "occurrence": 269
+        },
+        {
+            "affiliate_facet_id": 2182,
+            "affiliate_facet": "Becker",
+            "occurrence": 252
+        },
+        {
+            "affiliate_facet_id": 1416,
+            "affiliate_facet": "Universitätsmuseum für Kunst und Kulturgeschichte (Marburg)",
+            "occurrence": 251
+        },
+        {
+            "affiliate_facet_id": 1800,
+            "affiliate_facet": "Wieland, Christoph Martin (1733-1813)",
+            "occurrence": 250
+        },
+        {
+            "affiliate_facet_id": 2727,
+            "affiliate_facet": "Sauerländer",
+            "occurrence": 250
+        },
+        {
+            "affiliate_facet_id": 3029,
+            "affiliate_facet": "Nicolai",
+            "occurrence": 245
+        },
+        {
+            "affiliate_facet_id": 9876,
+            "affiliate_facet": "sö. Regierung und Kammer",
+            "occurrence": 245
+        },
+        {
+            "affiliate_facet_id": 184,
+            "affiliate_facet": "Levrault",
+            "occurrence": 244
+        },
+        {
+            "affiliate_facet_id": 879,
+            "affiliate_facet": "Schiller, Friedrich (1759-1805)",
+            "occurrence": 244
+        },
+        {
+            "affiliate_facet_id": 1760,
+            "affiliate_facet": "Thomann",
+            "occurrence": 244
+        },
+        {
+            "affiliate_facet_id": 4627,
+            "affiliate_facet": "vö. Regierung und Kammer",
+            "occurrence": 230
+        },
+        {
+            "affiliate_facet_id": 61,
+            "affiliate_facet": "Richter, Regine (Fotograf)",
+            "occurrence": 223
+        },
+        {
+            "affiliate_facet_id": 9819,
+            "affiliate_facet": "Bayern",
+            "occurrence": 223
+        },
+        {
+            "affiliate_facet_id": 9148,
+            "affiliate_facet": "Dentu",
+            "occurrence": 222
+        },
+        {
+            "affiliate_facet_id": 6336,
+            "affiliate_facet": "Museen im Kulturzentrum",
+            "occurrence": 220
+        },
+        {
+            "affiliate_facet_id": 914,
+            "affiliate_facet": "Müller",
+            "occurrence": 217
+        },
+        {
+            "affiliate_facet_id": 11952,
+            "affiliate_facet": "Baudouin",
+            "occurrence": 217
+        },
+        {
+            "affiliate_facet_id": 917,
+            "affiliate_facet": "Bayerisches Nationalmuseum (München)",
+            "occurrence": 215
+        },
+        {
+            "affiliate_facet_id": 1559,
+            "affiliate_facet": "Murray",
+            "occurrence": 214
+        },
+        {
+            "affiliate_facet_id": 326,
+            "affiliate_facet": "Preußische Regierung Sigmaringen",
+            "occurrence": 213
+        },
+        {
+            "affiliate_facet_id": 5255,
+            "affiliate_facet": "Shakespeare, William (1564-1616)",
+            "occurrence": 210
+        },
+        {
+            "affiliate_facet_id": 1272,
+            "affiliate_facet": "Wallishausser",
+            "occurrence": 208
+        },
+        {
+            "affiliate_facet_id": 1788,
+            "affiliate_facet": "Limpurg-Gaildorfisches Erbschenkenarchiv",
+            "occurrence": 208
+        },
+        {
+            "affiliate_facet_id": 4830,
+            "affiliate_facet": "Gefürstete Grafschaft bzw. Fürstentum Hohenzollern-Sigmaringen",
+            "occurrence": 207
+        },
+        {
+            "affiliate_facet_id": 722,
+            "affiliate_facet": "Gerold",
+            "occurrence": 199
+        },
+        {
+            "affiliate_facet_id": 136,
+            "affiliate_facet": "Kunert, Dietrich (Fotograf)",
+            "occurrence": 197
+        },
+        {
+            "affiliate_facet_id": 1768,
+            "affiliate_facet": "Decker",
+            "occurrence": 196
+        },
+        {
+            "affiliate_facet_id": 728,
+            "affiliate_facet": "Zensurkommission",
+            "occurrence": 190
+        },
+        {
+            "affiliate_facet_id": 3059,
+            "affiliate_facet": "Finanzministerium",
+            "occurrence": 190
+        },
+        {
+            "affiliate_facet_id": 482,
+            "affiliate_facet": "Hinrichs",
+            "occurrence": 187
+        },
+        {
+            "affiliate_facet_id": 20106,
+            "affiliate_facet": "Aretin, Johann Christoph von (1773-1824)",
+            "occurrence": 186
+        },
+        {
+            "affiliate_facet_id": 39740,
+            "affiliate_facet": "Goya y Lucientes, Francisco José de",
+            "occurrence": 186
+        },
+        {
+            "affiliate_facet_id": 8354,
+            "affiliate_facet": "Schinkel, Karl Friedrich",
+            "occurrence": 185
+        },
+        {
+            "affiliate_facet_id": 14954,
+            "affiliate_facet": "Geistinger",
+            "occurrence": 185
+        },
+        {
+            "affiliate_facet_id": 18330,
+            "affiliate_facet": "Maurer",
+            "occurrence": 185
+        },
+        {
+            "affiliate_facet_id": 637,
+            "affiliate_facet": "Arnold",
+            "occurrence": 184
+        },
+        {
+            "affiliate_facet_id": 12260,
+            "affiliate_facet": "Justizkanzlei",
+            "occurrence": 184
+        },
+        {
+            "affiliate_facet_id": 15651,
+            "affiliate_facet": "Gemmingen; Otto von",
+            "occurrence": 184
+        },
+        {
+            "affiliate_facet_id": 6485,
+            "affiliate_facet": "-Rentkammer-",
+            "occurrence": 183
+        },
+        {
+            "affiliate_facet_id": 22738,
+            "affiliate_facet": "Wintzingerode, Heinrich Friedrich Karl Levin Graf von; württembergischer Gesandter und Außenminister, 1778-1856",
+            "occurrence": 182
+        },
+        {
+            "affiliate_facet_id": 10951,
+            "affiliate_facet": "Panckoucke",
+            "occurrence": 180
+        },
+        {
+            "affiliate_facet_id": 2451,
+            "affiliate_facet": "Jussow, Heinrich Christoph",
+            "occurrence": 177
+        },
+        {
+            "affiliate_facet_id": 1039,
+            "affiliate_facet": "Perthes",
+            "occurrence": 175
+        },
+        {
+            "affiliate_facet_id": 21137,
+            "affiliate_facet": "Hartmann",
+            "occurrence": 175
+        },
+        {
+            "affiliate_facet_id": 3235,
+            "affiliate_facet": "Barth",
+            "occurrence": 172
+        },
+        {
+            "affiliate_facet_id": 7588,
+            "affiliate_facet": "Gleditsch",
+            "occurrence": 170
+        },
+        {
+            "affiliate_facet_id": 19689,
+            "affiliate_facet": "Maradan",
+            "occurrence": 170
+        },
+        {
+            "affiliate_facet_id": 6036,
+            "affiliate_facet": "Schrag",
+            "occurrence": 167
+        },
+        {
+            "affiliate_facet_id": 19183,
+            "affiliate_facet": "Napoleon I.; Kaiser der Franzosen, 1769-1821",
+            "occurrence": 167
+        },
+        {
+            "affiliate_facet_id": 7693,
+            "affiliate_facet": "Weidmann",
+            "occurrence": 165
+        },
+        {
+            "affiliate_facet_id": 11392,
+            "affiliate_facet": "Krüll",
+            "occurrence": 165
+        },
+        {
+            "affiliate_facet_id": 19984,
+            "affiliate_facet": "Petitot, Claude Bernard (1772-1825)",
+            "occurrence": 165
+        },
+        {
+            "affiliate_facet_id": 15730,
+            "affiliate_facet": "Scott, Walter (1771-1832)",
+            "occurrence": 164
+        },
+        {
+            "affiliate_facet_id": 33743,
+            "affiliate_facet": "vö. bzw. sö. Regierung und Kammer",
+            "occurrence": 164
+        },
+        {
+            "affiliate_facet_id": 2832,
+            "affiliate_facet": "Museumsberg Flensburg",
+            "occurrence": 160
+        },
+        {
+            "affiliate_facet_id": 17404,
+            "affiliate_facet": "Bertuch, Friedrich Justin (1747-1822)",
+            "occurrence": 160
+        },
+        {
+            "affiliate_facet_id": 4975,
+            "affiliate_facet": "Türckheim; Johann V. von",
+            "occurrence": 159
+        },
+        {
+            "affiliate_facet_id": 1062,
+            "affiliate_facet": "Sylter Heimatmuseum",
+            "occurrence": 158
+        },
+        {
+            "affiliate_facet_id": 7715,
+            "affiliate_facet": "Württ. Bundestagsgesandtschaft in Frankfurt a. M.",
+            "occurrence": 157
+        },
+        {
+            "affiliate_facet_id": 2887,
+            "affiliate_facet": "Andreä",
+            "occurrence": 155
+        },
+        {
+            "affiliate_facet_id": 369,
+            "affiliate_facet": "Altfriesisches Haus",
+            "occurrence": 154
+        },
+        {
+            "affiliate_facet_id": 5895,
+            "affiliate_facet": "Herrschaft Trochtelfingen",
+            "occurrence": 154
+        },
+        {
+            "affiliate_facet_id": 22088,
+            "affiliate_facet": "Stage",
+            "occurrence": 154
+        },
+        {
+            "affiliate_facet_id": 69971,
+            "affiliate_facet": "Salm; Franz Wilhelm, Fürst von",
+            "occurrence": 153
+        },
+        {
+            "affiliate_facet_id": 2142,
+            "affiliate_facet": "Rentamt Löwenstein",
+            "occurrence": 152
+        },
+        {
+            "affiliate_facet_id": 2179,
+            "affiliate_facet": "Hammerich",
+            "occurrence": 152
+        },
+        {
+            "affiliate_facet_id": 16826,
+            "affiliate_facet": "Gönner, Nikolaus Thaddäus (1764-1827)",
+            "occurrence": 152
+        },
+        {
+            "affiliate_facet_id": 397,
+            "affiliate_facet": "Selbstverl.",
+            "occurrence": 151
+        },
+        {
+            "affiliate_facet_id": 12899,
+            "affiliate_facet": "Kastellanei Ludwigsburg",
+            "occurrence": 151
+        },
+        {
+            "affiliate_facet_id": 17403,
+            "affiliate_facet": "Verl. d. Industrie-Comptoirs",
+            "occurrence": 151
+        },
+        {
+            "affiliate_facet_id": 6046,
+            "affiliate_facet": "Buisson",
+            "occurrence": 150
+        },
+        {
+            "affiliate_facet_id": 2157,
+            "affiliate_facet": "Hofgericht Oberrheinkreis",
+            "occurrence": 149
+        },
+        {
+            "affiliate_facet_id": 10965,
+            "affiliate_facet": "Storno",
+            "occurrence": 149
+        },
+        {
+            "affiliate_facet_id": 585,
+            "affiliate_facet": "Unbekannter Fotograf (Fotograf)",
+            "occurrence": 148
+        },
+        {
+            "affiliate_facet_id": 24032,
+            "affiliate_facet": "Direktorium des Neckarkreises",
+            "occurrence": 146
+        },
+        {
+            "affiliate_facet_id": 11568,
+            "affiliate_facet": "Gruber, Johann Gottfried (1774-1851)",
+            "occurrence": 145
+        },
+        {
+            "affiliate_facet_id": 21521,
+            "affiliate_facet": "Rossini, Gioachino (1792-1868)",
+            "occurrence": 144
+        },
+        {
+            "affiliate_facet_id": 653,
+            "affiliate_facet": "Dithmarscher Landesmuseum",
+            "occurrence": 143
+        },
+        {
+            "affiliate_facet_id": 10662,
+            "affiliate_facet": "Stadtdirektion Stuttgart",
+            "occurrence": 143
+        },
+        {
+            "affiliate_facet_id": 19401,
+            "affiliate_facet": "Posselt, Ernst Ludwig (1763-1804)",
+            "occurrence": 143
+        },
+        {
+            "affiliate_facet_id": 33037,
+            "affiliate_facet": "Herder, Johann Gottfried von (1744-1803)",
+            "occurrence": 143
+        },
+        {
+            "affiliate_facet_id": 3311,
+            "affiliate_facet": "Weber",
+            "occurrence": 141
+        },
+        {
+            "affiliate_facet_id": 1243,
+            "affiliate_facet": "Krünitz, Johann Georg (1728-1796)",
+            "occurrence": 140
+        },
+        {
+            "affiliate_facet_id": 4449,
+            "affiliate_facet": "Zschokke, Heinrich (1771-1848)",
+            "occurrence": 140
+        },
+        {
+            "affiliate_facet_id": 8357,
+            "affiliate_facet": "Kummer",
+            "occurrence": 140
+        },
+        {
+            "affiliate_facet_id": 30005,
+            "affiliate_facet": "Malte-Brun, Conrad (1775-1826)",
+            "occurrence": 140
+        },
+        {
+            "affiliate_facet_id": 37090,
+            "affiliate_facet": "Delaunay",
+            "occurrence": 140
+        },
+        {
+            "affiliate_facet_id": 807,
+            "affiliate_facet": "Bertrand",
+            "occurrence": 139
+        },
+        {
+            "affiliate_facet_id": 4602,
+            "affiliate_facet": "Eymery",
+            "occurrence": 139
+        },
+        {
+            "affiliate_facet_id": 107394,
+            "affiliate_facet": "Landgericht Mannheim, Abgabe an GLA 1889",
+            "occurrence": 138
+        },
+        {
+            "affiliate_facet_id": 735,
+            "affiliate_facet": "Geheimer Rat",
+            "occurrence": 136
+        },
+        {
+            "affiliate_facet_id": 1242,
+            "affiliate_facet": "Pauli",
+            "occurrence": 136
+        },
+        {
+            "affiliate_facet_id": 2546,
+            "affiliate_facet": "Homerus (ca. 8. Jh. v. Chr.)",
+            "occurrence": 136
+        },
+        {
+            "affiliate_facet_id": 73701,
+            "affiliate_facet": "Röwer",
+            "occurrence": 136
+        },
+        {
+            "affiliate_facet_id": 556,
+            "affiliate_facet": "Walther",
+            "occurrence": 135
+        },
+        {
+            "affiliate_facet_id": 12239,
+            "affiliate_facet": "Foucault",
+            "occurrence": 135
+        },
+        {
+            "affiliate_facet_id": 1623,
+            "affiliate_facet": "Bayerische Akademie der Wissenschaften (München)",
+            "occurrence": 134
+        },
+        {
+            "affiliate_facet_id": 2109,
+            "affiliate_facet": "Hermann",
+            "occurrence": 134
+        },
+        {
+            "affiliate_facet_id": 10312,
+            "affiliate_facet": "Bezirksamt Eppingen",
+            "occurrence": 134
+        },
+        {
+            "affiliate_facet_id": 24269,
+            "affiliate_facet": "Domänenverwaltung Pforzheim",
+            "occurrence": 134
+        },
+        {
+            "affiliate_facet_id": 15830,
+            "affiliate_facet": "Giel",
+            "occurrence": 133
+        },
+        {
+            "affiliate_facet_id": 69746,
+            "affiliate_facet": "Rentamt Habitzheim",
+            "occurrence": 133
+        },
+        {
+            "affiliate_facet_id": 9071,
+            "affiliate_facet": "(Gefürstete) Grafschaft Zollern bzw. Fürstentum Hohenzollern-Hechingen",
+            "occurrence": 132
+        },
+        {
+            "affiliate_facet_id": 11020,
+            "affiliate_facet": "Michaud",
+            "occurrence": 131
+        },
+        {
+            "affiliate_facet_id": 4580,
+            "affiliate_facet": "Goethe, Johann Wolfgang von (1749-1832)",
+            "occurrence": 130
+        },
+        {
+            "affiliate_facet_id": 19794,
+            "affiliate_facet": "Genlis, Stéphanie Félicité de (1746-1830)",
+            "occurrence": 130
+        },
+        {
+            "affiliate_facet_id": 21719,
+            "affiliate_facet": "Zängl",
+            "occurrence": 130
+        },
+        {
+            "affiliate_facet_id": 46204,
+            "affiliate_facet": "[Bolling]",
+            "occurrence": 130
+        },
+        {
+            "affiliate_facet_id": 2515,
+            "affiliate_facet": "(Gefürstete) Grafschaft Sigmaringen bzw. Fürstentum Hohenzollern-Sigmaringen",
+            "occurrence": 129
+        },
+        {
+            "affiliate_facet_id": 11039,
+            "affiliate_facet": "Realschulbuchh.",
+            "occurrence": 129
+        },
+        {
+            "affiliate_facet_id": 7559,
+            "affiliate_facet": "Floerke, Friedrich Jakob (1758-1799)",
+            "occurrence": 128
+        },
+        {
+            "affiliate_facet_id": 7560,
+            "affiliate_facet": "Flörke, Heinrich Gustav (1764-1835)",
+            "occurrence": 128
+        },
+        {
+            "affiliate_facet_id": 11,
+            "affiliate_facet": "Reinecke, Hans (Fotograf)",
+            "occurrence": 127
+        },
+        {
+            "affiliate_facet_id": 8418,
+            "affiliate_facet": "Jenisch und Stage",
+            "occurrence": 127
+        },
+        {
+            "affiliate_facet_id": 15084,
+            "affiliate_facet": "Korn",
+            "occurrence": 127
+        },
+        {
+            "affiliate_facet_id": 16411,
+            "affiliate_facet": "Arndt, Ernst Moritz (1769-1860)",
+            "occurrence": 127
+        },
+        {
+            "affiliate_facet_id": 2099,
+            "affiliate_facet": "Stein",
+            "occurrence": 126
+        },
+        {
+            "affiliate_facet_id": 3511,
+            "affiliate_facet": "Hohenlohe-Langenburg, Karl Ludwig von",
+            "occurrence": 125
+        },
+        {
+            "affiliate_facet_id": 10903,
+            "affiliate_facet": "Gemeinschaftliche Rentei",
+            "occurrence": 125
+        },
+        {
+            "affiliate_facet_id": 14609,
+            "affiliate_facet": "Kommission zu den Vergleichsunterhandlungen mit Bayern",
+            "occurrence": 125
+        },
+        {
+            "affiliate_facet_id": 13026,
+            "affiliate_facet": "Landes-Industrie-Comptoir",
+            "occurrence": 124
+        },
+        {
+            "affiliate_facet_id": 14142,
+            "affiliate_facet": "Soc. Tipografica de' Classici Italiani",
+            "occurrence": 124
+        },
+        {
+            "affiliate_facet_id": 3785,
+            "affiliate_facet": "Stettin",
+            "occurrence": 123
+        },
+        {
+            "affiliate_facet_id": 5573,
+            "affiliate_facet": "Macklot",
+            "occurrence": 123
+        },
+        {
+            "affiliate_facet_id": 10566,
+            "affiliate_facet": "unbekannt private Sammlung (Marburg)",
+            "occurrence": 123
+        },
+        {
+            "affiliate_facet_id": 63572,
+            "affiliate_facet": "Mame",
+            "occurrence": 123
+        },
+        {
+            "affiliate_facet_id": 882,
+            "affiliate_facet": "Meyer",
+            "occurrence": 122
+        },
+        {
+            "affiliate_facet_id": 4960,
+            "affiliate_facet": "Heubner",
+            "occurrence": 121
+        },
+        {
+            "affiliate_facet_id": 9330,
+            "affiliate_facet": "Kupferberg",
+            "occurrence": 121
+        },
+        {
+            "affiliate_facet_id": 32121,
+            "affiliate_facet": "Schumann",
+            "occurrence": 121
+        },
+        {
+            "affiliate_facet_id": 2991,
+            "affiliate_facet": "Hartknoch",
+            "occurrence": 120
+        },
+        {
+            "affiliate_facet_id": 21079,
+            "affiliate_facet": "Direktorium des Wiesenkreises",
+            "occurrence": 120
+        },
+        {
+            "affiliate_facet_id": 1266,
+            "affiliate_facet": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "occurrence": 119
+        },
+        {
+            "affiliate_facet_id": 23565,
+            "affiliate_facet": "Collin",
+            "occurrence": 119
+        },
+        {
+            "affiliate_facet_id": 1291,
+            "affiliate_facet": "Wolf",
+            "occurrence": 118
+        },
+        {
+            "affiliate_facet_id": 1102,
+            "affiliate_facet": "Schnorr von Carolsfeld, Julius",
+            "occurrence": 117
+        },
+        {
+            "affiliate_facet_id": 1138,
+            "affiliate_facet": "Sailer, Johann Michael (1751-1832)",
+            "occurrence": 117
+        },
+        {
+            "affiliate_facet_id": 21133,
+            "affiliate_facet": "Picard, Louis Benoît (1769-1828)",
+            "occurrence": 117
+        },
+        {
+            "affiliate_facet_id": 34849,
+            "affiliate_facet": "Allart",
+            "occurrence": 117
+        },
+        {
+            "affiliate_facet_id": 485,
+            "affiliate_facet": "Rentkammer in Freiburg",
+            "occurrence": 116
+        },
+        {
+            "affiliate_facet_id": 1399,
+            "affiliate_facet": "Verlag A. und R. Adam (Fotograf)",
+            "occurrence": 116
+        },
+        {
+            "affiliate_facet_id": 3973,
+            "affiliate_facet": "Kellereiverwaltung Löwenstein",
+            "occurrence": 116
+        },
+        {
+            "affiliate_facet_id": 31286,
+            "affiliate_facet": "Dillen, Karl Ludwig Emanuel von; Generaloberintendant, 1777-1841",
+            "occurrence": 116
+        },
+        {
+            "affiliate_facet_id": 6158,
+            "affiliate_facet": "Allg. Zeitung",
+            "occurrence": 115
+        },
+        {
+            "affiliate_facet_id": 6159,
+            "affiliate_facet": "Cotta, Johann Friedrich von (1764-1832)",
+            "occurrence": 115
+        },
+        {
+            "affiliate_facet_id": 6722,
+            "affiliate_facet": "Pirola",
+            "occurrence": 115
+        },
+        {
+            "affiliate_facet_id": 16947,
+            "affiliate_facet": "Richter, Ludwig <1803>",
+            "occurrence": 115
+        },
+        {
+            "affiliate_facet_id": 1284,
+            "affiliate_facet": "Köhler",
+            "occurrence": 114
+        },
+        {
+            "affiliate_facet_id": 7745,
+            "affiliate_facet": "Regierung des Seekreises",
+            "occurrence": 114
+        },
+        {
+            "affiliate_facet_id": 4887,
+            "affiliate_facet": "Schleswig-Holsteinische Landesbibliothek",
+            "occurrence": 113
+        },
+        {
+            "affiliate_facet_id": 9557,
+            "affiliate_facet": "Bauer",
+            "occurrence": 113
+        },
+        {
+            "affiliate_facet_id": 11945,
+            "affiliate_facet": "Cnobloch",
+            "occurrence": 113
+        },
+        {
+            "affiliate_facet_id": 48269,
+            "affiliate_facet": "Lebel",
+            "occurrence": 113
+        },
+        {
+            "affiliate_facet_id": 244,
+            "affiliate_facet": "Plutarchus (45-120)",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 1120,
+            "affiliate_facet": "Fürstliches Rentamt Breuberg",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 3131,
+            "affiliate_facet": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Nationalgalerie (Berlin)",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 3502,
+            "affiliate_facet": "Heyer",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 69092,
+            "affiliate_facet": "Regierung in Freiburg",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 107395,
+            "affiliate_facet": "Wiser; Karl Theodor von",
+            "occurrence": 112
+        },
+        {
+            "affiliate_facet_id": 4818,
+            "affiliate_facet": "Keller, Ludwig (1847 - 1930)",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 4877,
+            "affiliate_facet": "France",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 6648,
+            "affiliate_facet": "Forstamt Spessart",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 164,
+            "affiliate_facet": "Crusius",
+            "occurrence": 110
+        },
+        {
+            "affiliate_facet_id": 9705,
+            "affiliate_facet": "Schlegel, August Wilhelm von (1767-1845)",
+            "occurrence": 110
+        },
+        {
+            "affiliate_facet_id": 25137,
+            "affiliate_facet": "Napoléon <I., Frankreich, Kaiser> (1769-1821)",
+            "occurrence": 110
+        },
+        {
+            "affiliate_facet_id": 5837,
+            "affiliate_facet": "Staël-Holstein, Anne Louise Germaine de (1766-1817)",
+            "occurrence": 109
+        },
+        {
+            "affiliate_facet_id": 270,
+            "affiliate_facet": "Beckmann, ? (Fotograf)",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 4448,
+            "affiliate_facet": "Orell, Füßli",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 6619,
+            "affiliate_facet": "Unger",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 12713,
+            "affiliate_facet": "Courcier",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 14896,
+            "affiliate_facet": "Frommann",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 28187,
+            "affiliate_facet": "Rauch",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 32750,
+            "affiliate_facet": "Scheffer; Wilhelm Ferdinand Ludwig, Archivar, A",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 264,
+            "affiliate_facet": "Wagner",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 4510,
+            "affiliate_facet": "Nauck",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 9535,
+            "affiliate_facet": "Vogel",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 16456,
+            "affiliate_facet": "Livius, Titus (v59-17)",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 28872,
+            "affiliate_facet": "Lafontaine, August Heinrich Julius (1758-1831)",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 10020,
+            "affiliate_facet": "Trommsdorff, Johann Bartholomäus (1770-1837)",
+            "occurrence": 106
+        },
+        {
+            "affiliate_facet_id": 572,
+            "affiliate_facet": "Hartleben",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 2837,
+            "affiliate_facet": "Alembert, Jean Le Rond d' (1717-1783)",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 3839,
+            "affiliate_facet": "-Oberamt-",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 5546,
+            "affiliate_facet": "Vergilius Maro, Publius (v70-v19)",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 5738,
+            "affiliate_facet": "-Hofrat-",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 12347,
+            "affiliate_facet": "Sachsen-Gotha",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 12965,
+            "affiliate_facet": "Campe",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 23937,
+            "affiliate_facet": "Aster, Friedrich Ludwig",
+            "occurrence": 105
+        },
+        {
+            "affiliate_facet_id": 26,
+            "affiliate_facet": "v.ö. Regierung und Kammer Freiburg",
+            "occurrence": 104
+        },
+        {
+            "affiliate_facet_id": 4513,
+            "affiliate_facet": "Breitkopf & Härtel",
+            "occurrence": 104
+        },
+        {
+            "affiliate_facet_id": 10428,
+            "affiliate_facet": "Degen",
+            "occurrence": 104
+        },
+        {
+            "affiliate_facet_id": 23606,
+            "affiliate_facet": "Le Normant",
+            "occurrence": 104
+        },
+        {
+            "affiliate_facet_id": 21016,
+            "affiliate_facet": "Sismondi, Jean-Charles-Léonard Simonde de (1773-1842)",
+            "occurrence": 103
+        },
+        {
+            "affiliate_facet_id": 30088,
+            "affiliate_facet": "Hormayr, Joseph von (1781-1848)",
+            "occurrence": 103
+        },
+        {
+            "affiliate_facet_id": 66208,
+            "affiliate_facet": "Jäck, Joachim Heinrich (1777-1847)",
+            "occurrence": 103
+        },
+        {
+            "affiliate_facet_id": 878,
+            "affiliate_facet": "Renouard",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 2670,
+            "affiliate_facet": "Hohenlohe-Jagstberg, Karl Joseph Fürst zu",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 11497,
+            "affiliate_facet": "Brongniart, Alexandre (1770-1847)",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 29196,
+            "affiliate_facet": "Bureau der deutschen Classiker",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 32283,
+            "affiliate_facet": "Wintzingerode, Georg Ernst Levin von; Staatsminister, 1752-1834",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 3649,
+            "affiliate_facet": "Österreich",
+            "occurrence": 101
+        },
+        {
+            "affiliate_facet_id": 11624,
+            "affiliate_facet": "Direktorium des Dreisamkreises",
+            "occurrence": 101
+        },
+        {
+            "affiliate_facet_id": 18758,
+            "affiliate_facet": "Rivington",
+            "occurrence": 101
+        },
+        {
+            "affiliate_facet_id": 21370,
+            "affiliate_facet": "Voß, Johann Heinrich (1751-1826)",
+            "occurrence": 101
+        },
+        {
+            "affiliate_facet_id": 450,
+            "affiliate_facet": "Basse",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 2173,
+            "affiliate_facet": "Württemberg, Wilhelm Friedrich Philipp; Herzog, Kriegsminister, 1761-1830",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 4197,
+            "affiliate_facet": "Hofgericht des Seekreises",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 5473,
+            "affiliate_facet": "Rentkammer",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 30800,
+            "affiliate_facet": "Goebhardt",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 35899,
+            "affiliate_facet": "Hamburger Kunsthalle — Kupferstichkabinett (Hamburg)",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 703,
+            "affiliate_facet": "Voß",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 3692,
+            "affiliate_facet": "Staatliche Kunstsammlungen — Graphische Sammlung (Kassel)",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 5946,
+            "affiliate_facet": "Hoffmann",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 14638,
+            "affiliate_facet": "Nitribitt",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 14764,
+            "affiliate_facet": "Müller, Johann Georg (1759-1819)",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 195,
+            "affiliate_facet": "Messbildstelle Dresden (Fotograf)",
+            "occurrence": 98
+        },
+        {
+            "affiliate_facet_id": 6659,
+            "affiliate_facet": "Bran",
+            "occurrence": 98
+        },
+        {
+            "affiliate_facet_id": 19983,
+            "affiliate_facet": "Petitot, Alexandre (1777-)",
+            "occurrence": 98
+        },
+        {
+            "affiliate_facet_id": 23775,
+            "affiliate_facet": "Kabinett",
+            "occurrence": 98
+        },
+        {
+            "affiliate_facet_id": 28194,
+            "affiliate_facet": "Fages",
+            "occurrence": 98
+        },
+        {
+            "affiliate_facet_id": 381,
+            "affiliate_facet": "Vandenhoeck & Ruprecht",
+            "occurrence": 97
+        },
+        {
+            "affiliate_facet_id": 11496,
+            "affiliate_facet": "Brochant de Villers, André Jean François Marie",
+            "occurrence": 97
+        },
+        {
+            "affiliate_facet_id": 11498,
+            "affiliate_facet": "Turpin, Pierre Jean François (1775-1840)",
+            "occurrence": 97
+        },
+        {
+            "affiliate_facet_id": 39894,
+            "affiliate_facet": "-Neckarkreis-",
+            "occurrence": 97
+        },
+        {
+            "affiliate_facet_id": 4353,
+            "affiliate_facet": "Guizot, François (1787-1874)",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 8503,
+            "affiliate_facet": "Raw",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 9696,
+            "affiliate_facet": "Keyser",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 17063,
+            "affiliate_facet": "Hölderlin, Friedrich (1770 - 1843)",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 404,
+            "affiliate_facet": "Vieweg",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 2319,
+            "affiliate_facet": "Verf.",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 4403,
+            "affiliate_facet": "Paschoud",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 10585,
+            "affiliate_facet": "Schwickert",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 17348,
+            "affiliate_facet": "Thunberg, Carl Peter (1743-1828)",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 22650,
+            "affiliate_facet": "Chateaubriand, François-René de (1768-1848)",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 24725,
+            "affiliate_facet": "Klopstock, Friedrich Gottlieb (1724-1803)",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 32282,
+            "affiliate_facet": "Taube, Karl August Ludwig von; Staatsminister, Diplomat, Außenminister, 1772-1816",
+            "occurrence": 95
+        },
+        {
+            "affiliate_facet_id": 1057,
+            "affiliate_facet": "Hermbstaedt, Sigismund Friedrich (1760-1833)",
+            "occurrence": 94
+        },
+        {
+            "affiliate_facet_id": 2206,
+            "affiliate_facet": "Verl. des Landes-Industrie-Comptoirs",
+            "occurrence": 94
+        },
+        {
+            "affiliate_facet_id": 4700,
+            "affiliate_facet": "Pillet",
+            "occurrence": 94
+        },
+        {
+            "affiliate_facet_id": 8029,
+            "affiliate_facet": "Garnery",
+            "occurrence": 94
+        },
+        {
+            "affiliate_facet_id": 11946,
+            "affiliate_facet": "Beck, Christian Daniel (1757-1832)",
+            "occurrence": 94
+        },
+        {
+            "affiliate_facet_id": 6660,
+            "affiliate_facet": "Archenholz, Johann Wilhelm von (1743-1812)",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 10833,
+            "affiliate_facet": "Fürstl. Rentamt Breuberg",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 21474,
+            "affiliate_facet": "-Min.d.Innern-",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 26831,
+            "affiliate_facet": "Württemberg, Paul Prinz von, 1785-1852",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 6941,
+            "affiliate_facet": "Musikinstrumenten-Museum, Staatliches Institut für Musikforschung Preußischer Kulturbesitz",
+            "occurrence": 92
+        },
+        {
+            "affiliate_facet_id": 8516,
+            "affiliate_facet": "Dannheimer",
+            "occurrence": 92
+        },
+        {
+            "affiliate_facet_id": 26308,
+            "affiliate_facet": "Alberti; Karl von, Rechtskonsulent in Künzelsau, A",
+            "occurrence": 92
+        },
+        {
+            "affiliate_facet_id": 784,
+            "affiliate_facet": "Mayr",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 2085,
+            "affiliate_facet": "Metzler",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 4706,
+            "affiliate_facet": "Realschulbuchhandlung",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 9124,
+            "affiliate_facet": "Longman [u.a.]",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 10906,
+            "affiliate_facet": "Forstamt Löwenstein",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 36756,
+            "affiliate_facet": "Jérôme Bonaparte; König von Westphalen, Fürst von Montfort, kaiserlicher Prinz von Frankreich, später Präsident des französischen Senats, 1784-1860",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 71366,
+            "affiliate_facet": "Lang, Karl Heinrich von (1764-1835)",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 104745,
+            "affiliate_facet": "Schütz, Christian Gottfried (1747-1832)",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 547,
+            "affiliate_facet": "Bossange et Masson",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 1311,
+            "affiliate_facet": "Stahel",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 3052,
+            "affiliate_facet": "Dümmler",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 6265,
+            "affiliate_facet": "Württemberg, Ludwig (Louis) Herzog von, 1756-1817",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 7081,
+            "affiliate_facet": "Anton",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 11308,
+            "affiliate_facet": "(Gefürstete) Grafschaft Sigmaringen und Fürstentum Hohenzollern-Sigmaringen",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 11459,
+            "affiliate_facet": "Steiner",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 6047,
+            "affiliate_facet": "Lacretelle, Charles de (1766-1855)",
+            "occurrence": 89
+        },
+        {
+            "affiliate_facet_id": 15024,
+            "affiliate_facet": "Delille, Jacques (1738-1813)",
+            "occurrence": 89
+        },
+        {
+            "affiliate_facet_id": 22580,
+            "affiliate_facet": "Stabsamt Sulzbach",
+            "occurrence": 89
+        },
+        {
+            "affiliate_facet_id": 1487,
+            "affiliate_facet": "Oberamt Künzelsau",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 2850,
+            "affiliate_facet": "Voss",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 3828,
+            "affiliate_facet": "Gräff",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 4142,
+            "affiliate_facet": "Bohn",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 4219,
+            "affiliate_facet": "Euripides (v480-v406)",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 8692,
+            "affiliate_facet": "Beroldingen, Joseph Ignaz Graf von; württembergischer Offizier, Gesandter und Minister der auswärtigen Angelegenheiten, 1780-1868",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 10565,
+            "affiliate_facet": "Grimm, Ludwig Emil",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 1056,
+            "affiliate_facet": "Amelang",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 6661,
+            "affiliate_facet": "Bran, Friedrich Alexander (1767-1831)",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 13594,
+            "affiliate_facet": "Reclam",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 21127,
+            "affiliate_facet": "Maximilian Joseph <I., Bayern, König> (1756-1825)",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 7,
+            "affiliate_facet": "Spanien / Cortes",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 1527,
+            "affiliate_facet": "Reichsabtei Obermarchtal",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 6928,
+            "affiliate_facet": "Oberamt Habitzheim",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 20581,
+            "affiliate_facet": "GWB",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 32445,
+            "affiliate_facet": "Müller, Johannes von (1752-1809)",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 39172,
+            "affiliate_facet": "Pradt, Dominique Georges Frédéric de R. de (1759-1837)",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 41686,
+            "affiliate_facet": "Hoftheater-Intendanz",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 84577,
+            "affiliate_facet": "Craz und Gerlach",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 2172,
+            "affiliate_facet": "Milbiller, Joseph (1753-1816)",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 3792,
+            "affiliate_facet": "Renger",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 9153,
+            "affiliate_facet": "Fikenscher, Georg Wolfgang Augustin (1773-1813)",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 18623,
+            "affiliate_facet": "Retti, Livio",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 163688,
+            "affiliate_facet": "Severin, Carl Theodor",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 280,
+            "affiliate_facet": "Silvestri",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 1048,
+            "affiliate_facet": "Dyck",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 1271,
+            "affiliate_facet": "Bossuet, Jacques Bénigne (1627-1704)",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 3862,
+            "affiliate_facet": "Trattner",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 4258,
+            "affiliate_facet": "La Harpe, Jean-François de (1739-1803)",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 6428,
+            "affiliate_facet": "Bürglen",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 6481,
+            "affiliate_facet": "Ebner,",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 13661,
+            "affiliate_facet": "Marmontel, Jean François (1723-1799)",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 16603,
+            "affiliate_facet": "Wilmans",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 23202,
+            "affiliate_facet": "Johnson, Samuel",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 2833,
+            "affiliate_facet": "Möbius, Walter (Fotograf)",
+            "occurrence": 83
+        },
+        {
+            "affiliate_facet_id": 3092,
+            "affiliate_facet": "Saarländisches Uhrenmuseum",
+            "occurrence": 83
+        },
+        {
+            "affiliate_facet_id": 5505,
+            "affiliate_facet": "Horatius Flaccus, Quintus (v65-v8)",
+            "occurrence": 83
+        },
+        {
+            "affiliate_facet_id": 8912,
+            "affiliate_facet": "Pichler",
+            "occurrence": 83
+        },
+        {
+            "affiliate_facet_id": 39,
+            "affiliate_facet": "Krieger",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 1906,
+            "affiliate_facet": "Amt Habitzheim",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 3878,
+            "affiliate_facet": "Varnbüler von und zu Hemmingen, Ferdinand Friedrich Gottlob, 1774-1830",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 5053,
+            "affiliate_facet": "Schuricht, Christian Friedrich",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 8457,
+            "affiliate_facet": "Strauß",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 14437,
+            "affiliate_facet": "Zeppelin, Ferdinand Ludwig von; Politiker, Minister, 1772-1829",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 15895,
+            "affiliate_facet": "Verl. d. Landes-Industrie-Comptoirs",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 19430,
+            "affiliate_facet": "Frölich",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 25334,
+            "affiliate_facet": "Sander",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 58026,
+            "affiliate_facet": "Jouy, Étienne de (1764-1846)",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 75331,
+            "affiliate_facet": "Krenner, Franz von (1762-1819)",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 81195,
+            "affiliate_facet": "Anquetil, Louis Pierre (1723-1806)",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 797,
+            "affiliate_facet": "Bregulla, Siegfried (Fotograf)",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 1665,
+            "affiliate_facet": "Dyk",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 6903,
+            "affiliate_facet": "Longman",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 10467,
+            "affiliate_facet": "Plato (v427-v347)",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 11499,
+            "affiliate_facet": "Ladvocat",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 13022,
+            "affiliate_facet": "Bezirksamt Neckargemünd",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 28525,
+            "affiliate_facet": "Stolberg-Stolberg, Friedrich Leopold zu (1750-1819)",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 48711,
+            "affiliate_facet": "Leonhard, Carl Cäsar von (1779-1862)",
+            "occurrence": 81
+        },
+        {
+            "affiliate_facet_id": 9678,
+            "affiliate_facet": "Westenrieder, Lorenz von (1748-1829)",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 13653,
+            "affiliate_facet": "Chez l'auteur [u.a.]",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 13654,
+            "affiliate_facet": "Hoverlant de Beauwelaere, Adrien Alexandre Marie",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 30555,
+            "affiliate_facet": "Hennings",
+            "occurrence": 80
+        },
+        {
+            "affiliate_facet_id": 6785,
+            "affiliate_facet": "Domainenkanzlei",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 7886,
+            "affiliate_facet": "Unbekannt",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 15256,
+            "affiliate_facet": "Haas",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 17257,
+            "affiliate_facet": "Gide",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 23203,
+            "affiliate_facet": "Katholischer geistlicher Rat",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 105650,
+            "affiliate_facet": "Thaer, Albrecht Daniel (1752-1828)",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 112173,
+            "affiliate_facet": "Schellenberg",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 2752,
+            "affiliate_facet": "Beck",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 5396,
+            "affiliate_facet": "Schmidt",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 8522,
+            "affiliate_facet": "Impr. Royale",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 12213,
+            "affiliate_facet": "Alfieri, Vittorio (1749-1803)",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 21559,
+            "affiliate_facet": "Strobel",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 40498,
+            "affiliate_facet": "Württemberg, Katharina Pawlowna von; Königin, 1788-1819",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 7790,
+            "affiliate_facet": "Klosteramt Blaubeuren",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 9169,
+            "affiliate_facet": "Rotermundt",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 10551,
+            "affiliate_facet": "Welter, Michael",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 16023,
+            "affiliate_facet": "Salat, Jakob (1766-1851)",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 73310,
+            "affiliate_facet": "Johnson [u.a.]",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 13297,
+            "affiliate_facet": "Lemaire",
+            "occurrence": 76
+        },
+        {
+            "affiliate_facet_id": 40539,
+            "affiliate_facet": "Nichols",
+            "occurrence": 76
+        },
+        {
+            "affiliate_facet_id": 73164,
+            "affiliate_facet": "Mohr und Zimmer",
+            "occurrence": 76
+        },
+        {
+            "affiliate_facet_id": 2171,
+            "affiliate_facet": "Schmidt, Michael Ignaz (1736-1794)",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 24063,
+            "affiliate_facet": "Buffon, Georges Louis Le Clerc de (1707-1788)",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 28376,
+            "affiliate_facet": "Schoell, Friedrich (1766-1833)",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 32742,
+            "affiliate_facet": "Bentzel-Sternau, Christian Ernst von (1767-1849)",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 74102,
+            "affiliate_facet": "Studienfondsverrechnung Baden",
+            "occurrence": 75
+        },
+        {
+            "affiliate_facet_id": 427,
+            "affiliate_facet": "Rieger",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 1513,
+            "affiliate_facet": "Masson",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 3365,
+            "affiliate_facet": "Lechner",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 54212,
+            "affiliate_facet": "Goldsmith",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 64751,
+            "affiliate_facet": "Badische Regierung und Kammer Freiburg",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 74460,
+            "affiliate_facet": "Castel, René Richard Louis (1758-1832)",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 103094,
+            "affiliate_facet": "Galerie Eike Moog (Köln)",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 1932,
+            "affiliate_facet": "Herodotus (v485-v425)",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 2828,
+            "affiliate_facet": "Schwetschke",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 4539,
+            "affiliate_facet": "Sprengel, Kurt (1766-1833)",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 14272,
+            "affiliate_facet": "Simrock",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 23380,
+            "affiliate_facet": "Normant",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 36698,
+            "affiliate_facet": "Nestler",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 42889,
+            "affiliate_facet": "Thienemann",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 75330,
+            "affiliate_facet": "Hübschmann [u.a.]",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 1931,
+            "affiliate_facet": "Max",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 14342,
+            "affiliate_facet": "Bachelier",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 19546,
+            "affiliate_facet": "Jacobs, Friedrich (1764-1847)",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 46551,
+            "affiliate_facet": "Hitzig",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 65383,
+            "affiliate_facet": "Feuerbach, Paul Johann Anselm von (1775-1833)",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 94456,
+            "affiliate_facet": "Sacy, Antoine Isaac Silvestre de (1758-1838)",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 2421,
+            "affiliate_facet": "Fantin des Odoards, Antoine Etienne Nicolas (1738-1820)",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 9835,
+            "affiliate_facet": "Bossange",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 14765,
+            "affiliate_facet": "Hessisches Landesmuseum Darmstadt (Darmstadt)",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 23830,
+            "affiliate_facet": "Vollmer",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 25650,
+            "affiliate_facet": "Churfürstl. Sächsische Zeitungsexpedition",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 27537,
+            "affiliate_facet": "Helmstatt; Franz Ludwig von",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 39171,
+            "affiliate_facet": "Béchet",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 73250,
+            "affiliate_facet": "Nicolovius",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 597,
+            "affiliate_facet": "Richter",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 719,
+            "affiliate_facet": "Ovidius Naso, Publius (ca. 43 v. Chr.-ca. 18)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 1565,
+            "affiliate_facet": "Pokoj, Lydia (Fotograf)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 3187,
+            "affiliate_facet": "Kollegiatstift Baden",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 3697,
+            "affiliate_facet": "Tauchnitz",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 11040,
+            "affiliate_facet": "Woltmann, Karl Ludwig von (1770-1817)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 26748,
+            "affiliate_facet": "Reinhard, Franz Volkmar (1753-1812)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 43566,
+            "affiliate_facet": "Jung-Stilling, Johann Heinrich (1740-1817)",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 521,
+            "affiliate_facet": "Deutschordensherrschaft Hohenfels",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 2838,
+            "affiliate_facet": "Vicq-d'Azur, Félix (1748-1794)",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 10511,
+            "affiliate_facet": "Rossi, Gaetano (1774-1855)",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 44637,
+            "affiliate_facet": "Harnier, Wilhelm von (1)",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 4136,
+            "affiliate_facet": "Krug, Wilhelm Traugott (1770-1842)",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 6354,
+            "affiliate_facet": "Gebauer",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 9259,
+            "affiliate_facet": "Hemmerde und Schwetschke",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 19186,
+            "affiliate_facet": "Russland, Alexander I.; Zar, 1777-1825",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 21451,
+            "affiliate_facet": "Helmstatt; Familie von",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 26392,
+            "affiliate_facet": "Frankreich / Chambre des Pairs",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 40448,
+            "affiliate_facet": "Steube zu Schnaditz, Christoph Erdmann Freiherr von; württembergischer Gesandter",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 956,
+            "affiliate_facet": "Hübschmann)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 1477,
+            "affiliate_facet": "Voltaire (1694-1778)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 2407,
+            "affiliate_facet": "Tacitus, Cornelius (55-116/120n.Chr.)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 3335,
+            "affiliate_facet": "Voigt",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 9301,
+            "affiliate_facet": "Meusel, Johann Georg (1743-1820)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 12447,
+            "affiliate_facet": "Härter",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 15930,
+            "affiliate_facet": "Goldoni, Carlo (1707-1793)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 25846,
+            "affiliate_facet": "Fénelon, François de Salignac de La Mothe (1651-1715)",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 40980,
+            "affiliate_facet": "Oswald, Franz X.",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 47396,
+            "affiliate_facet": "Justizamt Habitzheim",
+            "occurrence": 67
+        },
+        {
+            "affiliate_facet_id": 2140,
+            "affiliate_facet": "Göbhardt",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 2340,
+            "affiliate_facet": "Kloster Bronnbach",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 7055,
+            "affiliate_facet": "Lipowsky, Felix Joseph (1764-1842)",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 30723,
+            "affiliate_facet": "Bayern / Landtag",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 31607,
+            "affiliate_facet": "Matthisson, Friedrich von (1761-1831)",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 73577,
+            "affiliate_facet": "Jakob Lohr",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 84040,
+            "affiliate_facet": "Fouqué, Friedrich de La Motte- (1777-1843)",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 221,
+            "affiliate_facet": "Ministerium der auswärtigen Angelegenheiten",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 2283,
+            "affiliate_facet": "Thurn und Taxis, Fürsten von",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 5664,
+            "affiliate_facet": "Geßner",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 8917,
+            "affiliate_facet": "Sommer",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 14658,
+            "affiliate_facet": "Th. u. T. Reg. Reg'bg",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 15023,
+            "affiliate_facet": "Giguet et Michaud",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 18896,
+            "affiliate_facet": "unbekannt",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 18905,
+            "affiliate_facet": "Haase",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 66635,
+            "affiliate_facet": "Domänenverwaltung Lörrach",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 287,
+            "affiliate_facet": "Steinkopf",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 4603,
+            "affiliate_facet": "Ségur, Louis-Philippe de (1753-1830)",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 10084,
+            "affiliate_facet": "Kick, Jacob Friedrich (1795 - 1882)",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 45433,
+            "affiliate_facet": "Nepveu",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 56423,
+            "affiliate_facet": "Adelon, Nicolas P.",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 1720,
+            "affiliate_facet": "Tasso, Torquato (1544-1595)",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 4263,
+            "affiliate_facet": "Scribe, Eugène (1791-1861)",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 7143,
+            "affiliate_facet": "-Geh.Rat-",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 10518,
+            "affiliate_facet": "Engelmann",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 23911,
+            "affiliate_facet": "Pfalz-Bayern",
+            "occurrence": 63
+        },
+        {
+            "affiliate_facet_id": 3909,
+            "affiliate_facet": "Treuttel et Würtz [u.a.]",
+            "occurrence": 62
+        },
+        {
+            "affiliate_facet_id": 8168,
+            "affiliate_facet": "Gessner",
+            "occurrence": 62
+        },
+        {
+            "affiliate_facet_id": 8566,
+            "affiliate_facet": "Hazzi, Joseph von (1768-1845)",
+            "occurrence": 62
+        },
+        {
+            "affiliate_facet_id": 10832,
+            "affiliate_facet": "Pölitz, Karl Heinrich Ludwig (1772-1838)",
+            "occurrence": 62
+        },
+        {
+            "affiliate_facet_id": 3799,
+            "affiliate_facet": "Doertenbach",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 3823,
+            "affiliate_facet": "Freiherrlich Schenk von Stauffenbergisches Archiv Wilflingen / Geislingen",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 14116,
+            "affiliate_facet": "Gemmingen; von",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 16570,
+            "affiliate_facet": "Racine, Jean (1639-1699)",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 20239,
+            "affiliate_facet": "Attenkover",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 25096,
+            "affiliate_facet": "Byron, George Gordon Byron (1788-1824)",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 36222,
+            "affiliate_facet": "Thüringer Museum Eisenach",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 41294,
+            "affiliate_facet": "Rehm",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 131622,
+            "affiliate_facet": "Bettoni",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 958,
+            "affiliate_facet": "Wolff",
+            "occurrence": 60
+        }
+    ]
+}

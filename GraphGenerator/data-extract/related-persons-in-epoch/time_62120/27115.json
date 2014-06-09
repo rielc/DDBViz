@@ -1,0 +1,504 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 27115,
+    "from_affiliate_facet": "Schloss Dagstuhl - Leibniz-Zentrum für Informatik GmbH",
+    "occurrence": 41,
+    "affiliates": [
+        {
+            "facet_id": 27115,
+            "occurrence": 41,
+            "value": "Schloss Dagstuhl - Leibniz-Zentrum für Informatik GmbH"
+        },
+        {
+            "facet_id": 93487,
+            "occurrence": 3,
+            "value": "Hagen, Hans"
+        },
+        {
+            "facet_id": 263207,
+            "occurrence": 2,
+            "value": "Dürr, Christoph"
+        },
+        {
+            "facet_id": 432854,
+            "occurrence": 2,
+            "value": "Simões, Alberto"
+        },
+        {
+            "facet_id": 530147,
+            "occurrence": 2,
+            "value": "Middel, Ariane"
+        },
+        {
+            "facet_id": 591143,
+            "occurrence": 2,
+            "value": "Jones, Andrew V."
+        },
+        {
+            "facet_id": 595602,
+            "occurrence": 2,
+            "value": "Wilke, Thomas"
+        },
+        {
+            "facet_id": 4586,
+            "occurrence": 1,
+            "value": "Wingender, Edgar"
+        },
+        {
+            "facet_id": 4587,
+            "occurrence": 1,
+            "value": "Waack, Stephan"
+        },
+        {
+            "facet_id": 27116,
+            "occurrence": 1,
+            "value": "Caprara, Alberto"
+        },
+        {
+            "facet_id": 27117,
+            "occurrence": 1,
+            "value": "Kontogiannis, Spyros"
+        },
+        {
+            "facet_id": 30641,
+            "occurrence": 1,
+            "value": "Meister, Christoph"
+        },
+        {
+            "facet_id": 61390,
+            "occurrence": 1,
+            "value": "Beißbarth, Tim"
+        },
+        {
+            "facet_id": 61391,
+            "occurrence": 1,
+            "value": "Kollmar, Martin"
+        },
+        {
+            "facet_id": 61392,
+            "occurrence": 1,
+            "value": "Leha, Andreas"
+        },
+        {
+            "facet_id": 61393,
+            "occurrence": 1,
+            "value": "Morgenstern, Burkhard"
+        },
+        {
+            "facet_id": 61394,
+            "occurrence": 1,
+            "value": "Schultz, Anne-Kathrin"
+        },
+        {
+            "facet_id": 76844,
+            "occurrence": 1,
+            "value": "Schuster, Stefan"
+        },
+        {
+            "facet_id": 116088,
+            "occurrence": 1,
+            "value": "Preuss, Mike"
+        },
+        {
+            "facet_id": 117549,
+            "occurrence": 1,
+            "value": "Delling, Daniel"
+        },
+        {
+            "facet_id": 127795,
+            "occurrence": 1,
+            "value": "Ravizza, Stefan"
+        },
+        {
+            "facet_id": 127796,
+            "occurrence": 1,
+            "value": "Holborn, Penny"
+        },
+        {
+            "facet_id": 130799,
+            "occurrence": 1,
+            "value": "Kumar, Amit"
+        },
+        {
+            "facet_id": 186677,
+            "occurrence": 1,
+            "value": "Bezem, Marc"
+        },
+        {
+            "facet_id": 186678,
+            "occurrence": 1,
+            "value": "EACSL (European Association for Computer Science Logic)"
+        },
+        {
+            "facet_id": 189994,
+            "occurrence": 1,
+            "value": "Schwentick, Thomas"
+        },
+        {
+            "facet_id": 243962,
+            "occurrence": 1,
+            "value": "Governatori, Guido"
+        },
+        {
+            "facet_id": 247655,
+            "occurrence": 1,
+            "value": "Lucas, Simon M."
+        },
+        {
+            "facet_id": 247656,
+            "occurrence": 1,
+            "value": "Mateas, Michael"
+        },
+        {
+            "facet_id": 247657,
+            "occurrence": 1,
+            "value": "Spronck, Pieter"
+        },
+        {
+            "facet_id": 247658,
+            "occurrence": 1,
+            "value": "Togelius, Julian"
+        },
+        {
+            "facet_id": 253013,
+            "occurrence": 1,
+            "value": "Vardanega, Tullio"
+        },
+        {
+            "facet_id": 331328,
+            "occurrence": 1,
+            "value": "Frigioni, Daniele"
+        },
+        {
+            "facet_id": 331329,
+            "occurrence": 1,
+            "value": "Stiller, Sebastian"
+        },
+        {
+            "facet_id": 332335,
+            "occurrence": 1,
+            "value": "Brauer, Jörg"
+        },
+        {
+            "facet_id": 332336,
+            "occurrence": 1,
+            "value": "Roveri, Marco"
+        },
+        {
+            "facet_id": 332337,
+            "occurrence": 1,
+            "value": "Tews, Hendrik"
+        },
+        {
+            "facet_id": 348903,
+            "occurrence": 1,
+            "value": "Durand, Arnaud"
+        },
+        {
+            "facet_id": 414064,
+            "occurrence": 1,
+            "value": "Finlayson, Mark A."
+        },
+        {
+            "facet_id": 414065,
+            "occurrence": 1,
+            "value": "Fisseni, Bernhard"
+        },
+        {
+            "facet_id": 414066,
+            "occurrence": 1,
+            "value": "Löwe, Benedikt"
+        },
+        {
+            "facet_id": 432852,
+            "occurrence": 1,
+            "value": "Leal, José Paulo"
+        },
+        {
+            "facet_id": 432853,
+            "occurrence": 1,
+            "value": "Rocha, Ricardo"
+        },
+        {
+            "facet_id": 445857,
+            "occurrence": 1,
+            "value": "Seth, Anil"
+        },
+        {
+            "facet_id": 445858,
+            "occurrence": 1,
+            "value": "Vishnoi, Nisheeth K."
+        },
+        {
+            "facet_id": 450680,
+            "occurrence": 1,
+            "value": "Indian Association for Research in Computing Science (IARCS)"
+        },
+        {
+            "facet_id": 457501,
+            "occurrence": 1,
+            "value": "Thiele, Lothar"
+        },
+        {
+            "facet_id": 530146,
+            "occurrence": 1,
+            "value": "Garth, Christoph"
+        },
+        {
+            "facet_id": 546562,
+            "occurrence": 1,
+            "value": "Lucas, Philipp"
+        },
+        {
+            "facet_id": 571374,
+            "occurrence": 1,
+            "value": "Böcker, Seabastian"
+        },
+        {
+            "facet_id": 571375,
+            "occurrence": 1,
+            "value": "Hufsky, Franziska"
+        },
+        {
+            "facet_id": 571376,
+            "occurrence": 1,
+            "value": "Scheubert, Kerstin"
+        },
+        {
+            "facet_id": 571377,
+            "occurrence": 1,
+            "value": "Schleicher, Jana"
+        },
+        {
+            "facet_id": 580562,
+            "occurrence": 1,
+            "value": "Matyska, Luděk"
+        },
+        {
+            "facet_id": 580563,
+            "occurrence": 1,
+            "value": "Kozubek, Michal"
+        },
+        {
+            "facet_id": 580564,
+            "occurrence": 1,
+            "value": "Vojnar, Tomáš"
+        },
+        {
+            "facet_id": 580565,
+            "occurrence": 1,
+            "value": "Zemčík, Pavel"
+        },
+        {
+            "facet_id": 580566,
+            "occurrence": 1,
+            "value": "Antos, David"
+        },
+        {
+            "facet_id": 591144,
+            "occurrence": 1,
+            "value": "Ng, Nicholas"
+        },
+        {
+            "facet_id": 592593,
+            "occurrence": 1,
+            "value": "Dovier, Agostino"
+        },
+        {
+            "facet_id": 592594,
+            "occurrence": 1,
+            "value": "Costa, Santos"
+        },
+        {
+            "facet_id": 617413,
+            "occurrence": 1,
+            "value": "Cégielski, Patrick"
+        },
+        {
+            "facet_id": 625111,
+            "occurrence": 1,
+            "value": "Severini, Simone"
+        },
+        {
+            "facet_id": 625112,
+            "occurrence": 1,
+            "value": "Brandao, Fernando"
+        },
+        {
+            "facet_id": 632782,
+            "occurrence": 1,
+            "value": "D'Souza, Deepak"
+        },
+        {
+            "facet_id": 632783,
+            "occurrence": 1,
+            "value": "Kavitha, Telikepalli"
+        },
+        {
+            "facet_id": 632784,
+            "occurrence": 1,
+            "value": "Radhakrishnan, Jaikumar"
+        },
+        {
+            "facet_id": 643202,
+            "occurrence": 1,
+            "value": "Tiwari, Ashish"
+        },
+        {
+            "facet_id": 682443,
+            "occurrence": 1,
+            "value": "Gallagher, John P."
+        },
+        {
+            "facet_id": 682444,
+            "occurrence": 1,
+            "value": "Gelfond, Michael"
+        },
+        {
+            "facet_id": 730746,
+            "occurrence": 1,
+            "value": "Liberti, Leo"
+        },
+        {
+            "facet_id": 761616,
+            "occurrence": 1,
+            "value": "Schweikardt, Nicole"
+        },
+        {
+            "facet_id": 799323,
+            "occurrence": 1,
+            "value": "Ronchi Della Rocca, Simona"
+        },
+        {
+            "facet_id": 810907,
+            "occurrence": 1,
+            "value": "Müller, Meinard"
+        },
+        {
+            "facet_id": 810908,
+            "occurrence": 1,
+            "value": "Goto, Masataka"
+        },
+        {
+            "facet_id": 810909,
+            "occurrence": 1,
+            "value": "Schedl, Markus"
+        },
+        {
+            "facet_id": 825203,
+            "occurrence": 1,
+            "value": "Wilhelm, Reinhard"
+        },
+        {
+            "facet_id": 847272,
+            "occurrence": 1,
+            "value": "Queirós, Ricardo"
+        },
+        {
+            "facet_id": 847273,
+            "occurrence": 1,
+            "value": "da Cruz, Daniela"
+        },
+        {
+            "facet_id": 855386,
+            "occurrence": 1,
+            "value": "van Raamsdonk, Fremke"
+        },
+        {
+            "facet_id": 871654,
+            "occurrence": 1,
+            "value": "Portier, Natacha"
+        },
+        {
+            "facet_id": 927653,
+            "occurrence": 1,
+            "value": "Chakraborty, Supratik"
+        },
+        {
+            "facet_id": 936115,
+            "occurrence": 1,
+            "value": "Scheler, Inga"
+        },
+        {
+            "facet_id": 960123,
+            "occurrence": 1,
+            "value": "Luttenberger, Norbert"
+        },
+        {
+            "facet_id": 960124,
+            "occurrence": 1,
+            "value": "Peters, Hagen"
+        },
+        {
+            "facet_id": 960125,
+            "occurrence": 1,
+            "value": "GI/ITG Fachgruppe Kommunikation und Verteilte Systeme (KuVS)"
+        },
+        {
+            "facet_id": 1001702,
+            "occurrence": 1,
+            "value": "Kolaitis, Phokion G."
+        },
+        {
+            "facet_id": 1001703,
+            "occurrence": 1,
+            "value": "Lenzerini, Maurizio"
+        },
+        {
+            "facet_id": 1011504,
+            "occurrence": 1,
+            "value": "Triquet, Benoit"
+        },
+        {
+            "facet_id": 1011505,
+            "occurrence": 1,
+            "value": "Ungerer, Theo"
+        },
+        {
+            "facet_id": 1025213,
+            "occurrence": 1,
+            "value": "Schmidt-Schauss, Manfred"
+        },
+        {
+            "facet_id": 1058924,
+            "occurrence": 1,
+            "value": "Danielsson, Nils Anders"
+        },
+        {
+            "facet_id": 1058925,
+            "occurrence": 1,
+            "value": "Nordström, Bengt"
+        },
+        {
+            "facet_id": 1088977,
+            "occurrence": 1,
+            "value": "Andrighetto, Giulia"
+        },
+        {
+            "facet_id": 1117013,
+            "occurrence": 1,
+            "value": "Maiza, Claire"
+        },
+        {
+            "facet_id": 1118113,
+            "occurrence": 1,
+            "value": "Choppy, Christine"
+        },
+        {
+            "facet_id": 1118114,
+            "occurrence": 1,
+            "value": "Sun, Jun"
+        },
+        {
+            "facet_id": 1122651,
+            "occurrence": 1,
+            "value": "Noriega, Pablo"
+        },
+        {
+            "facet_id": 1122652,
+            "occurrence": 1,
+            "value": "van der Torre, Leendert W. N."
+        }
+    ]
+}

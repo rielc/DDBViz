@@ -1,0 +1,44 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 85976,
+    "from_affiliate_facet": "Kull, Ulrich",
+    "occurrence": 17,
+    "affiliates": [
+        {
+            "facet_id": 3100,
+            "occurrence": 17,
+            "value": "Universitätsbibliothek der Universität Stuttgart"
+        },
+        {
+            "facet_id": 85976,
+            "occurrence": 17,
+            "value": "Kull, Ulrich"
+        },
+        {
+            "facet_id": 354488,
+            "occurrence": 2,
+            "value": "Hentschel, Günther"
+        },
+        {
+            "facet_id": 1080597,
+            "occurrence": 2,
+            "value": "Jeremias, Kurt"
+        },
+        {
+            "facet_id": 289699,
+            "occurrence": 1,
+            "value": "Hoffmann, Franz"
+        },
+        {
+            "facet_id": 667202,
+            "occurrence": 1,
+            "value": "Goubeau, Josef"
+        },
+        {
+            "facet_id": 892108,
+            "occurrence": 1,
+            "value": "Hiller, Karl"
+        }
+    ]
+}

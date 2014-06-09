@@ -1,0 +1,2507 @@
+{
+    "epochID": 9,
+    "epoch": "time_62120",
+    "count": 500,
+    "items": [
+        {
+            "affiliate_facet_id": 161,
+            "affiliate_facet": "Gerig, Uwe (Fotograf)",
+            "occurrence": 12488
+        },
+        {
+            "affiliate_facet_id": 3100,
+            "affiliate_facet": "Universitätsbibliothek der Universität Stuttgart",
+            "occurrence": 2407
+        },
+        {
+            "affiliate_facet_id": 918,
+            "affiliate_facet": "Universitätsbibliothek der Ludwig-Maximilians-Universität",
+            "occurrence": 2113
+        },
+        {
+            "affiliate_facet_id": 336,
+            "affiliate_facet": "Universitätsbibliothek der TU München",
+            "occurrence": 1944
+        },
+        {
+            "affiliate_facet_id": 179,
+            "affiliate_facet": "Niedersächsische Staats- und Universitätsbibliothek Göttingen",
+            "occurrence": 1678
+        },
+        {
+            "affiliate_facet_id": 629,
+            "affiliate_facet": "Medizinische Fakultät Charité - Universitätsmedizin Berlin",
+            "occurrence": 1593
+        },
+        {
+            "affiliate_facet_id": 7819,
+            "affiliate_facet": "Staats- und Universitätsbibliothek Hamburg",
+            "occurrence": 1302
+        },
+        {
+            "affiliate_facet_id": 448,
+            "affiliate_facet": "Bibliothek der Universität Konstanz,",
+            "occurrence": 1295
+        },
+        {
+            "affiliate_facet_id": 4321,
+            "affiliate_facet": "Freie Universität Berlin",
+            "occurrence": 1264
+        },
+        {
+            "affiliate_facet_id": 3305,
+            "affiliate_facet": "Forschungsinstitut zur Zukunft der Arbeit GmbH",
+            "occurrence": 1177
+        },
+        {
+            "affiliate_facet_id": 1151,
+            "affiliate_facet": "Hochschulbibliothek der Rheinisch-Westfälischen Technischen Hochschule Aachen",
+            "occurrence": 1029
+        },
+        {
+            "affiliate_facet_id": 2671,
+            "affiliate_facet": "Universitäts- und Landesbibliothek Bonn",
+            "occurrence": 964
+        },
+        {
+            "affiliate_facet_id": 2337,
+            "affiliate_facet": "Universitätsbibliothek der Universität Erlangen-Nürnberg",
+            "occurrence": 911
+        },
+        {
+            "affiliate_facet_id": 8574,
+            "affiliate_facet": "Universitätsbibliothek der Universität Würzburg",
+            "occurrence": 849
+        },
+        {
+            "affiliate_facet_id": 25077,
+            "affiliate_facet": "Universitätsbibliothek der Technischen Universität Berlin",
+            "occurrence": 758
+        },
+        {
+            "affiliate_facet_id": 1285,
+            "affiliate_facet": "Universitätsbibliothek Kiel",
+            "occurrence": 710
+        },
+        {
+            "affiliate_facet_id": 2276,
+            "affiliate_facet": "Universitäts- und Landesbibliothek der Heinrich-Heine-Universität Düsseldorf",
+            "occurrence": 687
+        },
+        {
+            "affiliate_facet_id": 9994,
+            "affiliate_facet": "Thüringer Universitäts- und Landesbibliothek Jena",
+            "occurrence": 637
+        },
+        {
+            "affiliate_facet_id": 3434,
+            "affiliate_facet": "Universitätsbibliothek Regensburg",
+            "occurrence": 632
+        },
+        {
+            "affiliate_facet_id": 226,
+            "affiliate_facet": "KIT-Bibliothek",
+            "occurrence": 623
+        },
+        {
+            "affiliate_facet_id": 792,
+            "affiliate_facet": "Philipps-Universität Marburg",
+            "occurrence": 608
+        },
+        {
+            "affiliate_facet_id": 11882,
+            "affiliate_facet": "Universitätsbibliothek Mainz",
+            "occurrence": 603
+        },
+        {
+            "affiliate_facet_id": 1205,
+            "affiliate_facet": "Universitäts- und Landesbibliothek Sachsen-Anhalt",
+            "occurrence": 598
+        },
+        {
+            "affiliate_facet_id": 210,
+            "affiliate_facet": "Universitäts- und Stadtbibliothek Köln",
+            "occurrence": 590
+        },
+        {
+            "affiliate_facet_id": 3599,
+            "affiliate_facet": "Universitätsbibliothek Greifswald",
+            "occurrence": 547
+        },
+        {
+            "affiliate_facet_id": 10216,
+            "affiliate_facet": "Universität Ulm. Medizinische Fakultät",
+            "occurrence": 520
+        },
+        {
+            "affiliate_facet_id": 1084,
+            "affiliate_facet": "Bibliothek der Tierärztlichen Hochschule Hannover",
+            "occurrence": 468
+        },
+        {
+            "affiliate_facet_id": 416,
+            "affiliate_facet": "Universitätsbibliothek Duisburg-Essen",
+            "occurrence": 466
+        },
+        {
+            "affiliate_facet_id": 1827,
+            "affiliate_facet": "Zentrale Hochschulbibliothek Lübeck",
+            "occurrence": 462
+        },
+        {
+            "affiliate_facet_id": 6160,
+            "affiliate_facet": "Deutsche Zentralbibliothek für Medizin",
+            "occurrence": 449
+        },
+        {
+            "affiliate_facet_id": 4414,
+            "affiliate_facet": "Deutschland / Bundestag",
+            "occurrence": 416
+        },
+        {
+            "affiliate_facet_id": 4413,
+            "affiliate_facet": "DIP,",
+            "occurrence": 413
+        },
+        {
+            "affiliate_facet_id": 4415,
+            "affiliate_facet": "Deutschland / Bundesrat",
+            "occurrence": 413
+        },
+        {
+            "affiliate_facet_id": 1442,
+            "affiliate_facet": "Universitätsbibliothek Ilmenau",
+            "occurrence": 399
+        },
+        {
+            "affiliate_facet_id": 70,
+            "affiliate_facet": "Universitätsbibliothek der Universität Heidelberg,",
+            "occurrence": 373
+        },
+        {
+            "affiliate_facet_id": 10640,
+            "affiliate_facet": "Universitäts- und Landesbibliothek der Westfälischen Wilhelms-Universität",
+            "occurrence": 330
+        },
+        {
+            "affiliate_facet_id": 5067,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Mathematisch-Naturwissenschaftliche Fakultät I",
+            "occurrence": 329
+        },
+        {
+            "affiliate_facet_id": 2122,
+            "affiliate_facet": "Deutsche Bundesstiftung Umwelt",
+            "occurrence": 322
+        },
+        {
+            "affiliate_facet_id": 574,
+            "affiliate_facet": "Universitätsbibliothek",
+            "occurrence": 312
+        },
+        {
+            "affiliate_facet_id": 30557,
+            "affiliate_facet": "Univ.-Bibliothek Frankfurt am Main",
+            "occurrence": 301
+        },
+        {
+            "affiliate_facet_id": 5442,
+            "affiliate_facet": "Kommunikations-, Informations- und Medienzentrum der Universität Hohenheim",
+            "occurrence": 298
+        },
+        {
+            "affiliate_facet_id": 2,
+            "affiliate_facet": "Rous, André (Fotograf)",
+            "occurrence": 282
+        },
+        {
+            "affiliate_facet_id": 20636,
+            "affiliate_facet": "Universitätsbibliothek der Universität Potsdam",
+            "occurrence": 271
+        },
+        {
+            "affiliate_facet_id": 4,
+            "affiliate_facet": "Höhne, Erich (Fotograf)",
+            "occurrence": 269
+        },
+        {
+            "affiliate_facet_id": 5,
+            "affiliate_facet": "Pohl, Erich (Fotograf)",
+            "occurrence": 269
+        },
+        {
+            "affiliate_facet_id": 7180,
+            "affiliate_facet": "SLUB Dresden,",
+            "occurrence": 266
+        },
+        {
+            "affiliate_facet_id": 14362,
+            "affiliate_facet": "Universitätsbibliothek Tübingen,",
+            "occurrence": 265
+        },
+        {
+            "affiliate_facet_id": 6880,
+            "affiliate_facet": "Michael Frank, michael-frank.eu",
+            "occurrence": 264
+        },
+        {
+            "affiliate_facet_id": 6882,
+            "affiliate_facet": "www.michael-frank.eu",
+            "occurrence": 263
+        },
+        {
+            "affiliate_facet_id": 788,
+            "affiliate_facet": "SLUB/Dresdner Digitalisierungszentrum (Fotograf)",
+            "occurrence": 261
+        },
+        {
+            "affiliate_facet_id": 6881,
+            "affiliate_facet": "Frank, Michael (1982-)",
+            "occurrence": 250
+        },
+        {
+            "affiliate_facet_id": 4998,
+            "affiliate_facet": "Bibliothek der Universität Konstanz",
+            "occurrence": 244
+        },
+        {
+            "affiliate_facet_id": 2119,
+            "affiliate_facet": "Rheinisch-Westfälisches Institut für Wirtschaftsforschung",
+            "occurrence": 241
+        },
+        {
+            "affiliate_facet_id": 3605,
+            "affiliate_facet": "Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR)",
+            "occurrence": 233
+        },
+        {
+            "affiliate_facet_id": 17484,
+            "affiliate_facet": "Universitätsbibliothek Bielefeld, Hochschulschriften",
+            "occurrence": 217
+        },
+        {
+            "affiliate_facet_id": 3803,
+            "affiliate_facet": "Universitätsbibliothek Wuppertal",
+            "occurrence": 214
+        },
+        {
+            "affiliate_facet_id": 21203,
+            "affiliate_facet": "Universitätsbibliothek Kassel",
+            "occurrence": 213
+        },
+        {
+            "affiliate_facet_id": 61,
+            "affiliate_facet": "Richter, Regine (Fotograf)",
+            "occurrence": 203
+        },
+        {
+            "affiliate_facet_id": 16868,
+            "affiliate_facet": "Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie,",
+            "occurrence": 201
+        },
+        {
+            "affiliate_facet_id": 4797,
+            "affiliate_facet": "Institut für Europäische Geschichte",
+            "occurrence": 189
+        },
+        {
+            "affiliate_facet_id": 6610,
+            "affiliate_facet": "Schweitzer, Dieter",
+            "occurrence": 180
+        },
+        {
+            "affiliate_facet_id": 439,
+            "affiliate_facet": "KIT Scientific Publishing",
+            "occurrence": 178
+        },
+        {
+            "affiliate_facet_id": 22478,
+            "affiliate_facet": "Universitätsbibliothek Hildesheim",
+            "occurrence": 178
+        },
+        {
+            "affiliate_facet_id": 4572,
+            "affiliate_facet": "Bundesministerium für Verkehr, Bau und Stadtentwicklung",
+            "occurrence": 173
+        },
+        {
+            "affiliate_facet_id": 13368,
+            "affiliate_facet": "Universitätsbibliothek Technische Universität Dortmund",
+            "occurrence": 170
+        },
+        {
+            "affiliate_facet_id": 68799,
+            "affiliate_facet": "Voß, Alfred",
+            "occurrence": 167
+        },
+        {
+            "affiliate_facet_id": 5295,
+            "affiliate_facet": "Düsseldorf Institute for Competition Economics (DICE)",
+            "occurrence": 159
+        },
+        {
+            "affiliate_facet_id": 3454,
+            "affiliate_facet": "Universität Ulm. Fakultät für Ingenieurwissenschaften und Informatik",
+            "occurrence": 148
+        },
+        {
+            "affiliate_facet_id": 388,
+            "affiliate_facet": "Bayern / Landesamt für Statistik und Datenverarbeitung",
+            "occurrence": 146
+        },
+        {
+            "affiliate_facet_id": 33833,
+            "affiliate_facet": "Bibliothek der Medizinischen Hochschule Hannover",
+            "occurrence": 146
+        },
+        {
+            "affiliate_facet_id": 387,
+            "affiliate_facet": "Landesamt",
+            "occurrence": 144
+        },
+        {
+            "affiliate_facet_id": 24176,
+            "affiliate_facet": "Oppermann, Martin",
+            "occurrence": 144
+        },
+        {
+            "affiliate_facet_id": 1850,
+            "affiliate_facet": "Universitätsbibliothek Bayreuth",
+            "occurrence": 136
+        },
+        {
+            "affiliate_facet_id": 4803,
+            "affiliate_facet": "IRC-Library, Information Resource Center der Jacobs University Bremen",
+            "occurrence": 135
+        },
+        {
+            "affiliate_facet_id": 8354,
+            "affiliate_facet": "Schinkel, Karl Friedrich",
+            "occurrence": 132
+        },
+        {
+            "affiliate_facet_id": 14011,
+            "affiliate_facet": "Akademie für Raumforschung und Landesplanung",
+            "occurrence": 127
+        },
+        {
+            "affiliate_facet_id": 8875,
+            "affiliate_facet": "ZEW,",
+            "occurrence": 126
+        },
+        {
+            "affiliate_facet_id": 14366,
+            "affiliate_facet": "Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen",
+            "occurrence": 125
+        },
+        {
+            "affiliate_facet_id": 19050,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Mathematisch-Naturwissenschaftliche Fakultät II",
+            "occurrence": 124
+        },
+        {
+            "affiliate_facet_id": 9848,
+            "affiliate_facet": "Universitätsbibliothek der Universität Siegen",
+            "occurrence": 122
+        },
+        {
+            "affiliate_facet_id": 20911,
+            "affiliate_facet": "Europäische Geschichte Online [Elektronische Ressource]: EGO = European history online / hrsg. vom Institut für Europäische Geschichte Mainz",
+            "occurrence": 120
+        },
+        {
+            "affiliate_facet_id": 26283,
+            "affiliate_facet": "Technische Universität Kaiserslautern",
+            "occurrence": 117
+        },
+        {
+            "affiliate_facet_id": 20266,
+            "affiliate_facet": "Universität Ulm. Fakultät für Naturwissenschaften",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 32570,
+            "affiliate_facet": "Julius Kühn-Institut",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 59093,
+            "affiliate_facet": "Saechsische Landesbibliothek- Staats- und Universitaetsbibliothek Dresden",
+            "occurrence": 111
+        },
+        {
+            "affiliate_facet_id": 6655,
+            "affiliate_facet": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+            "occurrence": 108
+        },
+        {
+            "affiliate_facet_id": 35245,
+            "affiliate_facet": "Universitätsbibliothek Mannheim",
+            "occurrence": 107
+        },
+        {
+            "affiliate_facet_id": 6852,
+            "affiliate_facet": "Universitätsbibliothek Heidelberg,",
+            "occurrence": 102
+        },
+        {
+            "affiliate_facet_id": 46545,
+            "affiliate_facet": "Fernuniversität Hagen",
+            "occurrence": 101
+        },
+        {
+            "affiliate_facet_id": 27488,
+            "affiliate_facet": "Universitätsverlag Göttingen c/o SUB Göttingen",
+            "occurrence": 100
+        },
+        {
+            "affiliate_facet_id": 1012,
+            "affiliate_facet": "Eligehausen, Rolf (1942-)",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 11382,
+            "affiliate_facet": "Hans-Böckler-Stiftung",
+            "occurrence": 99
+        },
+        {
+            "affiliate_facet_id": 41060,
+            "affiliate_facet": "Keller, Heimo Joachim",
+            "occurrence": 96
+        },
+        {
+            "affiliate_facet_id": 109,
+            "affiliate_facet": "Universitätsbibliothek der BTU Cottbus",
+            "occurrence": 93
+        },
+        {
+            "affiliate_facet_id": 5297,
+            "affiliate_facet": "Düsseldorf Institute for Competition Economics (DICE), Heinrich-Heine-Universität Düsseldorf",
+            "occurrence": 91
+        },
+        {
+            "affiliate_facet_id": 13437,
+            "affiliate_facet": "Bayern / Landesamt für Umwelt",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 85498,
+            "affiliate_facet": "Virsik-Köpp, Patricia",
+            "occurrence": 90
+        },
+        {
+            "affiliate_facet_id": 5276,
+            "affiliate_facet": "Universitätsbibliothek der Universität der Bundeswehr",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 40290,
+            "affiliate_facet": "Universitätsbibliothek Clausthal",
+            "occurrence": 88
+        },
+        {
+            "affiliate_facet_id": 376,
+            "affiliate_facet": "Universitätsbibliothek Heidelberg",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 50935,
+            "affiliate_facet": "Reiß, Michael",
+            "occurrence": 87
+        },
+        {
+            "affiliate_facet_id": 12089,
+            "affiliate_facet": "Universität Ulm, Fakultät für Ingenieurwissenschaften und Informatik,",
+            "occurrence": 86
+        },
+        {
+            "affiliate_facet_id": 18623,
+            "affiliate_facet": "Retti, Livio",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 52591,
+            "affiliate_facet": "Bellers, Jürgen",
+            "occurrence": 85
+        },
+        {
+            "affiliate_facet_id": 31645,
+            "affiliate_facet": "IBIT - Universitätsbibliothek",
+            "occurrence": 84
+        },
+        {
+            "affiliate_facet_id": 17729,
+            "affiliate_facet": "Hubig, Christoph (1952-)",
+            "occurrence": 82
+        },
+        {
+            "affiliate_facet_id": 3101,
+            "affiliate_facet": "Hülser, Dieter F. (1937-)",
+            "occurrence": 79
+        },
+        {
+            "affiliate_facet_id": 14048,
+            "affiliate_facet": "Verlag für das Künstlerbuch",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 20160,
+            "affiliate_facet": "Institut für Makroökonomie und Konjunkturforschung (IMK)",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 31567,
+            "affiliate_facet": "Antidiskriminierungsstelle des Bundes",
+            "occurrence": 78
+        },
+        {
+            "affiliate_facet_id": 20096,
+            "affiliate_facet": "Hochschulbibliothek der Fachhochschule Köln",
+            "occurrence": 77
+        },
+        {
+            "affiliate_facet_id": 17076,
+            "affiliate_facet": "Kretschmann, Winfried; Politiker (GRÜNE), Ministerpräsident von Baden-Württemberg, 1948-",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 53109,
+            "affiliate_facet": "Mathematisches Forschungsinstitut Oberwolfach gGmbH",
+            "occurrence": 74
+        },
+        {
+            "affiliate_facet_id": 3150,
+            "affiliate_facet": "HTW Dresden,",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 11205,
+            "affiliate_facet": "United Nations,",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 37338,
+            "affiliate_facet": "Universitätsbibliothek Bielefeld",
+            "occurrence": 73
+        },
+        {
+            "affiliate_facet_id": 26798,
+            "affiliate_facet": "Crozier, Thomas",
+            "occurrence": 72
+        },
+        {
+            "affiliate_facet_id": 20450,
+            "affiliate_facet": "Ibero-Amerikanisches Institut, Stiftung Preußischer Kulturbesitz",
+            "occurrence": 71
+        },
+        {
+            "affiliate_facet_id": 20409,
+            "affiliate_facet": "Deutscher Rat für Landespflege",
+            "occurrence": 70
+        },
+        {
+            "affiliate_facet_id": 24425,
+            "affiliate_facet": "Sauer, Karl-Ludwig (1949-)",
+            "occurrence": 69
+        },
+        {
+            "affiliate_facet_id": 13964,
+            "affiliate_facet": "Universitätsbibliothek Technische Universität Berlin",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 15542,
+            "affiliate_facet": "Johann Heinrich von Thünen-Institut (vTI), Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 37664,
+            "affiliate_facet": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek",
+            "occurrence": 68
+        },
+        {
+            "affiliate_facet_id": 5853,
+            "affiliate_facet": "Universitätsbibliothek der Universität Stuttgart,",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 62934,
+            "affiliate_facet": "KIT, Fakultät für Informatik,",
+            "occurrence": 66
+        },
+        {
+            "affiliate_facet_id": 8890,
+            "affiliate_facet": "Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 32500,
+            "affiliate_facet": "Universitätsbibliothek Mannheim,",
+            "occurrence": 65
+        },
+        {
+            "affiliate_facet_id": 40742,
+            "affiliate_facet": "Universitätsbibliothek Kaiserslautern",
+            "occurrence": 64
+        },
+        {
+            "affiliate_facet_id": 5934,
+            "affiliate_facet": "Universitätsbibliothek der Leuphana Universität Lüneburg",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 18921,
+            "affiliate_facet": "Bundesinstitut für Bau-, Stadt- und Raumforschung",
+            "occurrence": 61
+        },
+        {
+            "affiliate_facet_id": 27026,
+            "affiliate_facet": "Universitätsbibliothek <Ilmenau> / ilmedia",
+            "occurrence": 60
+        },
+        {
+            "affiliate_facet_id": 13435,
+            "affiliate_facet": "LfU",
+            "occurrence": 59
+        },
+        {
+            "affiliate_facet_id": 22486,
+            "affiliate_facet": "Althoff, Klaus-Dieter",
+            "occurrence": 58
+        },
+        {
+            "affiliate_facet_id": 27300,
+            "affiliate_facet": "LfL",
+            "occurrence": 58
+        },
+        {
+            "affiliate_facet_id": 2760,
+            "affiliate_facet": "KIT,",
+            "occurrence": 57
+        },
+        {
+            "affiliate_facet_id": 2851,
+            "affiliate_facet": "Institut für Wirtschaftsforschung Halle - IWH",
+            "occurrence": 56
+        },
+        {
+            "affiliate_facet_id": 183784,
+            "affiliate_facet": "Saarland / Ministerium für Bildung, Kultur und Wissenschaft",
+            "occurrence": 56
+        },
+        {
+            "affiliate_facet_id": 21472,
+            "affiliate_facet": "Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg",
+            "occurrence": 55
+        },
+        {
+            "affiliate_facet_id": 25487,
+            "affiliate_facet": "Univ.-Bibl.,",
+            "occurrence": 55
+        },
+        {
+            "affiliate_facet_id": 113314,
+            "affiliate_facet": "Univ. Hohenheim, Forschungszentrum Innovation und Dienstleistung,",
+            "occurrence": 53
+        },
+        {
+            "affiliate_facet_id": 7654,
+            "affiliate_facet": "KIT Scientific Publishing,",
+            "occurrence": 52
+        },
+        {
+            "affiliate_facet_id": 3538,
+            "affiliate_facet": "Deutsches Institut für Erwachsenenbildung",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 14832,
+            "affiliate_facet": "Tiziani, Hans J.",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 51656,
+            "affiliate_facet": "Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 61251,
+            "affiliate_facet": "Umlauf, Konrad",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 143194,
+            "affiliate_facet": "desiguALdades.net",
+            "occurrence": 50
+        },
+        {
+            "affiliate_facet_id": 8072,
+            "affiliate_facet": "Mausberg, Rainer",
+            "occurrence": 49
+        },
+        {
+            "affiliate_facet_id": 91107,
+            "affiliate_facet": "Universitätsbibliothek Siegen",
+            "occurrence": 49
+        },
+        {
+            "affiliate_facet_id": 15985,
+            "affiliate_facet": "Wunderlich, Hans-Joachim",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 32313,
+            "affiliate_facet": "ESMT European School of Management and Technology",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 38275,
+            "affiliate_facet": "Deutsches GeoForschungsZentrum GFZ",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 39117,
+            "affiliate_facet": "Saarland / Ministerium für Bildung, Familie, Frauen und Kultur",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 46686,
+            "affiliate_facet": "Rummeny, Ernst J.",
+            "occurrence": 48
+        },
+        {
+            "affiliate_facet_id": 501,
+            "affiliate_facet": "Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie",
+            "occurrence": 47
+        },
+        {
+            "affiliate_facet_id": 66363,
+            "affiliate_facet": "Universitätsbibliothek Leipzig",
+            "occurrence": 47
+        },
+        {
+            "affiliate_facet_id": 1110,
+            "affiliate_facet": "ZDV Universität Tübingen,",
+            "occurrence": 46
+        },
+        {
+            "affiliate_facet_id": 61144,
+            "affiliate_facet": "Deutsche Nationalbibliothek",
+            "occurrence": 46
+        },
+        {
+            "affiliate_facet_id": 108289,
+            "affiliate_facet": "MFO,",
+            "occurrence": 46
+        },
+        {
+            "affiliate_facet_id": 133455,
+            "affiliate_facet": "Friedrich, Rainer",
+            "occurrence": 45
+        },
+        {
+            "affiliate_facet_id": 3712,
+            "affiliate_facet": "Claupein, Wilhelm",
+            "occurrence": 44
+        },
+        {
+            "affiliate_facet_id": 37231,
+            "affiliate_facet": "LipsCityForumLeipzig c/ o: Prof. Dr. Walkhoefer",
+            "occurrence": 44
+        },
+        {
+            "affiliate_facet_id": 40988,
+            "affiliate_facet": "Engelmann, Wolfgang",
+            "occurrence": 43
+        },
+        {
+            "affiliate_facet_id": 75366,
+            "affiliate_facet": "Der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR, Abteilung Bildung und Forschung",
+            "occurrence": 43
+        },
+        {
+            "affiliate_facet_id": 145397,
+            "affiliate_facet": "Universität Siegen, Scildemante Verlag Siegen, Prof. Dr. Jürgen Bellers",
+            "occurrence": 43
+        },
+        {
+            "affiliate_facet_id": 27,
+            "affiliate_facet": "Willy Pragher",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 8293,
+            "affiliate_facet": "Wagner, Stefan",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 12943,
+            "affiliate_facet": "Waxmann Verlag,",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 32213,
+            "affiliate_facet": "Universitätsbibliothek Frankfurt am Main",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 34725,
+            "affiliate_facet": "Bayern / Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 163986,
+            "affiliate_facet": "Sauter, Guido",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 184035,
+            "affiliate_facet": "Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei",
+            "occurrence": 42
+        },
+        {
+            "affiliate_facet_id": 6032,
+            "affiliate_facet": "Schiehlen, Werner",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 22596,
+            "affiliate_facet": "Deutsches Jugendinstitut",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 26455,
+            "affiliate_facet": "Frankfurt School of Finance & Management gGmbH",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 27115,
+            "affiliate_facet": "Schloss Dagstuhl - Leibniz-Zentrum für Informatik GmbH",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 38885,
+            "affiliate_facet": "Schumacher, Hermann",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 145398,
+            "affiliate_facet": "Universität Siegen",
+            "occurrence": 41
+        },
+        {
+            "affiliate_facet_id": 6596,
+            "affiliate_facet": "[s.n.]",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 7522,
+            "affiliate_facet": "BIS-Verlag",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 11691,
+            "affiliate_facet": "Forstamt Karlsruhe",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 19440,
+            "affiliate_facet": "Universitätsbibliothek,",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 21853,
+            "affiliate_facet": "Olschowy et al., Gerhard",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 52590,
+            "affiliate_facet": "Scildemante Verlag Siegen, Prof. Dr. Jürgen Bellers",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 61019,
+            "affiliate_facet": "United Nations / Development Programme",
+            "occurrence": 40
+        },
+        {
+            "affiliate_facet_id": 1854,
+            "affiliate_facet": "Universität Bayreuth, Abteilung Mikrometeorologie",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 27167,
+            "affiliate_facet": "Arbeitskreis Quantitative Steuerlehre c/o Universität Paderborn, Lehrstuhl für BWL",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 83506,
+            "affiliate_facet": "Wehking, Karl-Heinz (1954-)",
+            "occurrence": 39
+        },
+        {
+            "affiliate_facet_id": 19441,
+            "affiliate_facet": "Universitätsbibliothek",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 20410,
+            "affiliate_facet": "Wurzel, Angelika",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 22515,
+            "affiliate_facet": "Merkel, Angela, Bundeskanzlerin",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 24936,
+            "affiliate_facet": "Bayerische Landesanstalt für Landwirtschaft",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 97628,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Landwirtschaftlich-Gärtnerische Fakultät",
+            "occurrence": 38
+        },
+        {
+            "affiliate_facet_id": 6695,
+            "affiliate_facet": "Universitätsbibliothek Koblenz",
+            "occurrence": 37
+        },
+        {
+            "affiliate_facet_id": 23153,
+            "affiliate_facet": "Sächsische Landesbibliothek- Staats- und Universitätsbibliothek Dresden,",
+            "occurrence": 37
+        },
+        {
+            "affiliate_facet_id": 25243,
+            "affiliate_facet": "Office on Drugs and Crime",
+            "occurrence": 37
+        },
+        {
+            "affiliate_facet_id": 19176,
+            "affiliate_facet": "Universitätsbibliothek der Universität Passau",
+            "occurrence": 36
+        },
+        {
+            "affiliate_facet_id": 1956,
+            "affiliate_facet": "Danigel, Gerd (Fotograf)",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 4799,
+            "affiliate_facet": "Institut für Europäische Geschichte (IEG)",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 4930,
+            "affiliate_facet": "Molitor, Mathieu",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 13118,
+            "affiliate_facet": "Technische Universität Kaiserslautern, Fachbereich Mathematik",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 16117,
+            "affiliate_facet": "Institut für Angewandte Wirtschaftsforschung (IAW)",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 18389,
+            "affiliate_facet": "European School of Business",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 47615,
+            "affiliate_facet": "Universität Ulm",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 103655,
+            "affiliate_facet": "Eschen, Fritz",
+            "occurrence": 35
+        },
+        {
+            "affiliate_facet_id": 6021,
+            "affiliate_facet": "Fahl, Ulrich",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 26457,
+            "affiliate_facet": "Frankfurt School of Finance & Management",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 122244,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Philosophische Fakultät I",
+            "occurrence": 34
+        },
+        {
+            "affiliate_facet_id": 3462,
+            "affiliate_facet": "AWI, Alfred-Wegener-Institut für Polar- und Meeresforschung",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 50981,
+            "affiliate_facet": "Jürgen Olczyk",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 86554,
+            "affiliate_facet": "Europäische Geschichte Online [Elektronische Ressource]: EGO = European history online / hrsg. vom Leibniz-Institut für Europäische Geschichte Mainz",
+            "occurrence": 33
+        },
+        {
+            "affiliate_facet_id": 4993,
+            "affiliate_facet": "Filmnegative, Ordner 292 (Transnistrien)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 6221,
+            "affiliate_facet": "Düsseldorf Institute for Competition Economics (DICE), Heinrich-Heine-Universität Düsseldorf, düsseldorf university press (dup)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 8291,
+            "affiliate_facet": "Quirrenbach, Andreas",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 11161,
+            "affiliate_facet": "Wittchen, Hans-Ulrich (1951-)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 19435,
+            "affiliate_facet": "Erhard, Michael",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 30571,
+            "affiliate_facet": "Engesser, Karl-Heinrich (1952-)",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 70701,
+            "affiliate_facet": "Institut für Informatik / Christian-Albrechts-Universität zu Kiel",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 168495,
+            "affiliate_facet": "Centrum für Hochschulentwicklung gGmbH",
+            "occurrence": 32
+        },
+        {
+            "affiliate_facet_id": 28564,
+            "affiliate_facet": "Institut für Ost- und Südosteuropaforschung",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 30766,
+            "affiliate_facet": "ILO,",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 60438,
+            "affiliate_facet": "Tom Trambow",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 63831,
+            "affiliate_facet": "Universität Bielefeld, Sonderforschungsbereich (SFB) 882",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 64327,
+            "affiliate_facet": "Technische Universität Dresden, Medienzentrum,",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 67271,
+            "affiliate_facet": "Wissenschaftszentrum Berlin für Sozialforschung",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 67433,
+            "affiliate_facet": "Universitätsbibliothek Landau",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 71412,
+            "affiliate_facet": "Helmut Ziegler",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 75579,
+            "affiliate_facet": "Ficner, Ralf",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 88226,
+            "affiliate_facet": "Ziegler, Heide",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 298983,
+            "affiliate_facet": "Techn. Univ., SFB 528,",
+            "occurrence": 31
+        },
+        {
+            "affiliate_facet_id": 7616,
+            "affiliate_facet": "Pertschi, Ottmar",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 136675,
+            "affiliate_facet": "Ilmenau : Pro WiWi",
+            "occurrence": 30
+        },
+        {
+            "affiliate_facet_id": 489,
+            "affiliate_facet": "Mappus, Stefan; Politiker (CDU), 1966-",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 11160,
+            "affiliate_facet": "Technische Universität Dresden, Fakultät Mathematik und Naturwissenschaften, Professur für Klinische Psychologie und Psychotherapie,",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 20070,
+            "affiliate_facet": "WHU - Otto Beisheim School of Management",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 21837,
+            "affiliate_facet": "Wolf, Siegfried O.",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 60832,
+            "affiliate_facet": "Brenner, Hermann",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 62811,
+            "affiliate_facet": "Universität Ulm. Fakultät für Mathematik und Wirtschaftswissenschaften",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 66516,
+            "affiliate_facet": "Strahlenschutzkommission c/o Geschäftsstelle der Strahlenschutzkommission",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 66517,
+            "affiliate_facet": "Strahlenschutzkommission",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 67274,
+            "affiliate_facet": "Wissenschaftszentrum Berlin für Sozialforschung, WZB",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 76286,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Wirtschaftswissenschaftliche Fakultät",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 92062,
+            "affiliate_facet": "Ludwig, Sören",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 199560,
+            "affiliate_facet": "Allianz Global Investors Europe",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 201258,
+            "affiliate_facet": "Institut zur Erforschung und Erschließung der Alten Musik in Dresden,",
+            "occurrence": 29
+        },
+        {
+            "affiliate_facet_id": 5296,
+            "affiliate_facet": "Haucap, Justus (1969-)",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 10353,
+            "affiliate_facet": "Belzig, Wolfgang",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 16885,
+            "affiliate_facet": "Technische Universität Dresden, Fakultät Umweltwissenschaften, Institut für Abfallwirtschaft und Altlasten,",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 26274,
+            "affiliate_facet": "Buchner, Johannes",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 30661,
+            "affiliate_facet": "Bayerisches Landesamt für Umwelt",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 45879,
+            "affiliate_facet": "Univ.,",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 89247,
+            "affiliate_facet": "Engel, Wolfgang",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 93550,
+            "affiliate_facet": "Navab, Nassir",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 102082,
+            "affiliate_facet": "Vogeler, Georg (1969-)",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 125050,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Philosophische Fakultät III",
+            "occurrence": 28
+        },
+        {
+            "affiliate_facet_id": 2366,
+            "affiliate_facet": "Bundesanstalt für Gewässerkunde",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 21836,
+            "affiliate_facet": "Newspaper Publ., PLC,",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 37232,
+            "affiliate_facet": "Walkhoefer, Wolfgang G.",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 41498,
+            "affiliate_facet": "United Nations / Environment Programme",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 42537,
+            "affiliate_facet": "Leitenstorfer, Alfred",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 162250,
+            "affiliate_facet": "Fakultät für Soziologie",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 231129,
+            "affiliate_facet": "Neumeier, Dieter (1945-)",
+            "occurrence": 27
+        },
+        {
+            "affiliate_facet_id": 6220,
+            "affiliate_facet": "Haucap, Justus",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 10526,
+            "affiliate_facet": "LfL,",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 18944,
+            "affiliate_facet": "Seifert, Udo (1959-)",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 24443,
+            "affiliate_facet": "Brose, Nils",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 29732,
+            "affiliate_facet": "Zentrum für Entwicklungsforschung, Abteilung für Politischen und Kulturellen Wandel",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 70216,
+            "affiliate_facet": "Institut für soziale Innovation",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 81245,
+            "affiliate_facet": "Helmut-Schmidt-Universität, Bibliothek",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 84234,
+            "affiliate_facet": "Schlipf, David",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 89831,
+            "affiliate_facet": "HIS,",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 98536,
+            "affiliate_facet": "Liebl, Wolfgang",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 146162,
+            "affiliate_facet": "Halle, Martin",
+            "occurrence": 26
+        },
+        {
+            "affiliate_facet_id": 6813,
+            "affiliate_facet": "Bahrs, Enno",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 7211,
+            "affiliate_facet": "Gudat, Dietrich (1957-)",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 7886,
+            "affiliate_facet": "Unbekannt",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 12050,
+            "affiliate_facet": "United Nations University, Institute for Environment and Human Security (UNU-EHS)",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 15843,
+            "affiliate_facet": "Bernd Spauke",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 28479,
+            "affiliate_facet": "Diederichsen, Ulf",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 29147,
+            "affiliate_facet": "Simons, Mikael",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 46683,
+            "affiliate_facet": "Universitätsbibliothek Leipzig",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 127906,
+            "affiliate_facet": "Gauly, Matthias",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 160954,
+            "affiliate_facet": "Edition dpe",
+            "occurrence": 25
+        },
+        {
+            "affiliate_facet_id": 7208,
+            "affiliate_facet": "Campus-TV",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 8463,
+            "affiliate_facet": "Humboldt Universität zu Berlin, Philosophische Fakultät IV",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 20229,
+            "affiliate_facet": "Maecenata Institut für Philanthropie und Zivilgesellschaft an der Humboldt-Universität zu Berlin",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 21850,
+            "affiliate_facet": "Püschel, Klaus",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 23615,
+            "affiliate_facet": "Meyer, Axel (1960-)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 24444,
+            "affiliate_facet": "Wodarz, Andreas",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 38887,
+            "affiliate_facet": "Trasser, Andreas",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 51924,
+            "affiliate_facet": "Wienands, Jürgen",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 55525,
+            "affiliate_facet": "Stahr, Karl (1945-)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 68695,
+            "affiliate_facet": "Wurst, Wolfgang",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 83613,
+            "affiliate_facet": "Rehm, Gallus (1924-)",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 102081,
+            "affiliate_facet": "Fritze, Christiane",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 129206,
+            "affiliate_facet": "BioMed Central",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 197814,
+            "affiliate_facet": "Universitätsverlag Chemnitz,",
+            "occurrence": 24
+        },
+        {
+            "affiliate_facet_id": 3630,
+            "affiliate_facet": "Elbert, Thomas",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 8288,
+            "affiliate_facet": "Kaufmann, Sarah",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 13293,
+            "affiliate_facet": "Fraunhofer-Institut für Techno- und Wirtschaftsmathematik, Fraunhofer (ITWM)",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 20134,
+            "affiliate_facet": "Bayern / Staatsministerium für Ernährung, Landwirtschaft und Forsten",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 49138,
+            "affiliate_facet": "Köhler, Klaus",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 50667,
+            "affiliate_facet": "Marx, Andreas",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 52683,
+            "affiliate_facet": "Ludwig, Hans-Günter (1962-)",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 53789,
+            "affiliate_facet": "Heuveline, Vincent",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 62850,
+            "affiliate_facet": "Fischer, Franz",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 83957,
+            "affiliate_facet": "Scheer, Elke",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 116239,
+            "affiliate_facet": "Landratsamt",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 138435,
+            "affiliate_facet": "Moser, Tobias",
+            "occurrence": 23
+        },
+        {
+            "affiliate_facet_id": 5413,
+            "affiliate_facet": "Univ. of Bamberg Press",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 8292,
+            "affiliate_facet": "Schwemmer, Stephanie",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 9819,
+            "affiliate_facet": "Bayern",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 12233,
+            "affiliate_facet": "Bayern / Amt für Ländliche Entwicklung Oberbayern",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 12998,
+            "affiliate_facet": "Hausser, Karl Hermann (1919-2001)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 14485,
+            "affiliate_facet": "Leist, Marcel (1964-)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 23510,
+            "affiliate_facet": "United Nations High Commissioner for Refugees,",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 27070,
+            "affiliate_facet": "Trommsdorff, Gisela (1943-)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 29317,
+            "affiliate_facet": "Zentrale Hochschulbibliothek Flensburg",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 44055,
+            "affiliate_facet": "Ertl, Thomas (1957-)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 62770,
+            "affiliate_facet": "Belke, Ansgar",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 91507,
+            "affiliate_facet": "Wimmer, Ernst A.",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 105782,
+            "affiliate_facet": "Grethe, Harald (1965-)",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 275314,
+            "affiliate_facet": "Schnieke, Angelika",
+            "occurrence": 22
+        },
+        {
+            "affiliate_facet_id": 487,
+            "affiliate_facet": "Hauk, Peter; Politiker (CDU)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 1579,
+            "affiliate_facet": "Mecking, Stefan",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 5788,
+            "affiliate_facet": "Springer",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 8892,
+            "affiliate_facet": "Umlauf, Konrad (1952-)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 10036,
+            "affiliate_facet": "CEPAL,",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 12090,
+            "affiliate_facet": "Kolassa, Iris-Tatjana (1978-)",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 21363,
+            "affiliate_facet": "Shaker",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 30574,
+            "affiliate_facet": "Knackmuss, Hans-Joachim",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 34724,
+            "affiliate_facet": "Bayerisches Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 46685,
+            "affiliate_facet": "Imhoff, Andreas",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 47613,
+            "affiliate_facet": "Universität Ulm, Pressestelle,",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 51987,
+            "affiliate_facet": "SLUB",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 52685,
+            "affiliate_facet": "Caffau, Elisabetta",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 61055,
+            "affiliate_facet": "Walter Wehner",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 65918,
+            "affiliate_facet": "International Organization for Migration,",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 160955,
+            "affiliate_facet": "Walter, Guntram",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 173488,
+            "affiliate_facet": "Groß, Uwe",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 186798,
+            "affiliate_facet": "Ulbrich, Heinz",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 224259,
+            "affiliate_facet": "Rieger, Bernhard",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 243404,
+            "affiliate_facet": "Max-Planck-Inst. für Gesellschaftsforschung,",
+            "occurrence": 21
+        },
+        {
+            "affiliate_facet_id": 2708,
+            "affiliate_facet": "atene KOM GmbH",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 2920,
+            "affiliate_facet": "Bahnprojekt Stuttgart-Ulm e.V.",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 6315,
+            "affiliate_facet": "Schmid, Nils; Finanzminister und stellvertretender Ministerpräsident von Baden-Württemberg",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 6713,
+            "affiliate_facet": "Funke, Joachim (1953-)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 8285,
+            "affiliate_facet": "Abramowski, Attila",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 8287,
+            "affiliate_facet": "Hauser, Marcus",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 9467,
+            "affiliate_facet": "International Organization for Migration",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 10701,
+            "affiliate_facet": "Hochschule für Musik und Theater Leipzig,",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 11401,
+            "affiliate_facet": "International Monetary Fund,",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 12702,
+            "affiliate_facet": "Reiterer, Harald",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 29081,
+            "affiliate_facet": "Herrmann, Andreas",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 31132,
+            "affiliate_facet": "Gabriel, Oscar W. (1947-)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 31248,
+            "affiliate_facet": "Baden-Württemberg / Ministerium für Umwelt, Klima und Energiewirtschaft",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 35494,
+            "affiliate_facet": "Bank for International Settlements,",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 37060,
+            "affiliate_facet": "Meidner, Ludwig",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 43733,
+            "affiliate_facet": "Rülke, Hans-Ulrich",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 58577,
+            "affiliate_facet": "Stark, Oded",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 59237,
+            "affiliate_facet": "Bürger, Thomas (1953-)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 61345,
+            "affiliate_facet": "Steinem, Claudia",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 61944,
+            "affiliate_facet": "Humbeck, Klaus",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 66603,
+            "affiliate_facet": "Dobbelstein, Matthias",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 67049,
+            "affiliate_facet": "Brümmer, Franz (1956-)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 73112,
+            "affiliate_facet": "Molls, Michael",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 78610,
+            "affiliate_facet": "Reichert, Manfred",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 82175,
+            "affiliate_facet": "Willbold, Dieter",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 99780,
+            "affiliate_facet": "Kaserer, Christoph",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 109533,
+            "affiliate_facet": "Oberauer, Lothar",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 116376,
+            "affiliate_facet": "Scherer, Siegfried",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 156015,
+            "affiliate_facet": "Deutsches Jugendinstitut e.V.",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 168693,
+            "affiliate_facet": "Müller, Joachim (1959-)",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 263084,
+            "affiliate_facet": "Braus, Gerhard",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 266105,
+            "affiliate_facet": "Klee, Wolfgang",
+            "occurrence": 20
+        },
+        {
+            "affiliate_facet_id": 4314,
+            "affiliate_facet": "Frisörmuseum",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 7210,
+            "affiliate_facet": "Niecke, Edgar (1939-)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 9968,
+            "affiliate_facet": "Dörflinger, Gabriele (1949-)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 12095,
+            "affiliate_facet": "Elbert, Thomas (1950-)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 12999,
+            "affiliate_facet": "Staab, Heinz A. (1926-2012)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 19498,
+            "affiliate_facet": "Edition Scores & Parts",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 19499,
+            "affiliate_facet": "Bruengel, Klaus",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 35496,
+            "affiliate_facet": "Bank für Internationalen Zahlungsausgleich / Währungs- und Wirtschaftsabteilung",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 39099,
+            "affiliate_facet": "Weigand, Bernhard (1962-)",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 44872,
+            "affiliate_facet": "Deutsches Institut für Wirtschaftsforschung",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 89248,
+            "affiliate_facet": "Hoyer-Fender, Sigrid",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 98376,
+            "affiliate_facet": "Universität Heidelberg / Universitätsbibliothek,",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 104280,
+            "affiliate_facet": "United Nations",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 127005,
+            "affiliate_facet": "Universitaetsbibliothek Bielefeld",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 157705,
+            "affiliate_facet": "United Nations Pubns,",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 160348,
+            "affiliate_facet": "Unesco",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 174595,
+            "affiliate_facet": "Weuster-Botz, Dirk",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 182696,
+            "affiliate_facet": "Internat. Monetary Fund,",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 185154,
+            "affiliate_facet": "Heinen, Ilsabe",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 190559,
+            "affiliate_facet": "Bayerisches Staatsministerium für Ernährung, Landwirtschaft und Forsten",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 218575,
+            "affiliate_facet": "WIDER,",
+            "occurrence": 19
+        },
+        {
+            "affiliate_facet_id": 13227,
+            "affiliate_facet": "Berthold, Michael",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 18155,
+            "affiliate_facet": "Drescher, Malte",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 21424,
+            "affiliate_facet": "Merhof, Dorit (1978-)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 26181,
+            "affiliate_facet": "Institut für Evolution und Ökologie",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 30500,
+            "affiliate_facet": "Waldvogel, Marcel",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 36279,
+            "affiliate_facet": "Sigusch, Bernd W.",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 37094,
+            "affiliate_facet": "Stephanie Kulbach",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 38308,
+            "affiliate_facet": "Brandenburgisches Institut für Gesellschaft und Sicherheit (BIGS)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 44062,
+            "affiliate_facet": "Ruder, Hanns (1939-)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 48760,
+            "affiliate_facet": "United Nations / Economic Commission for Latin America and the Caribbean",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 66637,
+            "affiliate_facet": "Sachsen / Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 67769,
+            "affiliate_facet": "C.R.A.-Plant Pathology Research Center, Roma, Italy",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 70442,
+            "affiliate_facet": "Boysen, Barbara",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 71060,
+            "affiliate_facet": "Müller, Torsten (1962-)",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 88411,
+            "affiliate_facet": "Westkämper, Engelbert",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 94936,
+            "affiliate_facet": "Klasen, Stephan",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 95970,
+            "affiliate_facet": "Brockmöller, Jürgen",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 96980,
+            "affiliate_facet": "Vance, Colin",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 112966,
+            "affiliate_facet": "Regierungsbezirk Stuttgart / Landesgesundheitsamt",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 116488,
+            "affiliate_facet": "Becker, Thomas",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 145383,
+            "affiliate_facet": "Hochschule für Musik und Theater Leipzig",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 150197,
+            "affiliate_facet": "Leuschner, Christoph",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 170411,
+            "affiliate_facet": "Haller, Dirk",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 250124,
+            "affiliate_facet": "Ibarra, Alejandro",
+            "occurrence": 18
+        },
+        {
+            "affiliate_facet_id": 1224,
+            "affiliate_facet": "Kassel University Press",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 3892,
+            "affiliate_facet": "Mathematisches Forschungsinstitut,",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 5167,
+            "affiliate_facet": "Univ.",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 5255,
+            "affiliate_facet": "Shakespeare, William (1564-1616)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 5833,
+            "affiliate_facet": "Nature Publ. Group",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 7545,
+            "affiliate_facet": "Universitätsbibliothek der Universität Bamberg",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 7910,
+            "affiliate_facet": "Hugel, Thorsten",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 11069,
+            "affiliate_facet": "Oldenbourg",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 11539,
+            "affiliate_facet": "Leiderer, Paul (1944-)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 12358,
+            "affiliate_facet": "Galizia, Cosmas Giovanni",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 18956,
+            "affiliate_facet": "MER,",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 19950,
+            "affiliate_facet": "Stefan Falke",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 24869,
+            "affiliate_facet": "Christoph Dalitz",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 24871,
+            "affiliate_facet": "Dalitz, Christoph",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 36565,
+            "affiliate_facet": "Renner, Britta (1965-)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 37719,
+            "affiliate_facet": "Keim, Daniel",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 42358,
+            "affiliate_facet": "Leue, Stefan",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 42879,
+            "affiliate_facet": "CESifo,",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 44875,
+            "affiliate_facet": "Deutsches Institut für Wirtschaftsforschung (DIW Berlin)",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 46138,
+            "affiliate_facet": "Landeshauptstadt Wiesbaden / Amt für Strategische Steuerung, Stadtforschung und Statistik",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 47614,
+            "affiliate_facet": "Baur, Willi",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 51940,
+            "affiliate_facet": "Hauner, Johann Josef",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 56990,
+            "affiliate_facet": "Deutschland / Bundesministerium für Verkehr, Bau und Stadtentwicklung",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 57952,
+            "affiliate_facet": "Deutsche Zentralbibliothek für Blinde Leipzig (DZB),",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 59541,
+            "affiliate_facet": "Heyse, Paul",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 67250,
+            "affiliate_facet": "Dobner, Thomas",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 67408,
+            "affiliate_facet": "Kurz, Hermann",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 70615,
+            "affiliate_facet": "Bry, Theodor de",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 80445,
+            "affiliate_facet": "Universitätsbibliothek Erfurt",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 84239,
+            "affiliate_facet": "Cheng, Po Wen",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 85976,
+            "affiliate_facet": "Kull, Ulrich",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 91471,
+            "affiliate_facet": "Walter, Lutz",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 111209,
+            "affiliate_facet": "Andreas Weiss",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 128621,
+            "affiliate_facet": "Universitätsbibliothek der Europa-Universität Viadrina Frankfurt",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 135790,
+            "affiliate_facet": "Wuttke, Wolfgang",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 137656,
+            "affiliate_facet": "Schmidt-Mende, Lukas",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 172719,
+            "affiliate_facet": "Hamburg University Press, Verlag der Staats- und Universitätsbibliothek Hamburg",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 176120,
+            "affiliate_facet": "European University Institute, Robert Schuman Centre for Advanced Studies,",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 176954,
+            "affiliate_facet": "Schleußner, Ekkehard",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 200112,
+            "affiliate_facet": "Weinkauf, Sevil",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 309797,
+            "affiliate_facet": "Paul, Stephan",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 332626,
+            "affiliate_facet": "United Nations Office on Drugs and Crime,",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 359086,
+            "affiliate_facet": "Küster, Bernhard",
+            "occurrence": 17
+        },
+        {
+            "affiliate_facet_id": 1191,
+            "affiliate_facet": "Baden, Friedrich I. Großherzog von",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 1852,
+            "affiliate_facet": "Foken, Thomas (1949-)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 5626,
+            "affiliate_facet": "Lucius, Richard",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 7024,
+            "affiliate_facet": "Ulbricht, Mathias",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 7855,
+            "affiliate_facet": "UB,",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 10182,
+            "affiliate_facet": "Bundesinstitut für Bevölkerungsforschung",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 12403,
+            "affiliate_facet": "Wolff, Klaus-Dietrich",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 14752,
+            "affiliate_facet": "Seyfried, Hartmut",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 19763,
+            "affiliate_facet": "Baden-Württemberg / Ministerium für Finanzen und Wirtschaft",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 20318,
+            "affiliate_facet": "Univ.-Verl. Göttingen",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 28004,
+            "affiliate_facet": "Gruber, Sabine",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 28816,
+            "affiliate_facet": "C. A. Reitzels Bo og Arvinger",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 28817,
+            "affiliate_facet": "Hertz, Henrik (1798-1870)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 30260,
+            "affiliate_facet": "Dekorsy, Thomas (1965-)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 31744,
+            "affiliate_facet": "Dosch, Fabian",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 46140,
+            "affiliate_facet": "Wiesbaden / Amt für Strategische Steuerung, Stadtforschung und Statistik",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 53763,
+            "affiliate_facet": "Kruse, Michael (1965-)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 57953,
+            "affiliate_facet": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 60690,
+            "affiliate_facet": "Stalke, Dietmar",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 62937,
+            "affiliate_facet": "Wagner, Dorothea",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 64318,
+            "affiliate_facet": "Stark, Holger",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 66602,
+            "affiliate_facet": "Hahn, Heidi",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 67665,
+            "affiliate_facet": "Brück, Wolfgang",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 75477,
+            "affiliate_facet": "Universität Heidelberg",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 75581,
+            "affiliate_facet": "Tittmann, Kai",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 79329,
+            "affiliate_facet": "net-Verlag Maria Weise",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 79842,
+            "affiliate_facet": "Tscharntke, Teja",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 81168,
+            "affiliate_facet": "Daniel, Hannelore",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 82724,
+            "affiliate_facet": "Enderlein, Jörg",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 83610,
+            "affiliate_facet": "Jahn, Reinhard",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 87046,
+            "affiliate_facet": "Hoppert, Michael",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 87181,
+            "affiliate_facet": "Hülsmann, Michael",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 91790,
+            "affiliate_facet": "Gogu, Emil (1960-)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 102813,
+            "affiliate_facet": "Baden-Württemberg Stiftung gGmbH",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 103873,
+            "affiliate_facet": "Arbeitsgemeinschaft Frieden und Entwicklung (FriEnt)",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 111187,
+            "affiliate_facet": "Wachtmeister, Georg",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 111259,
+            "affiliate_facet": "Endres, Helmut",
+            "occurrence": 16
+        },
+        {
+            "affiliate_facet_id": 120720,
+            "affiliate_facet": "Karlovsky, Petr",
+            "occurrence": 16
+        }
+    ]
+}

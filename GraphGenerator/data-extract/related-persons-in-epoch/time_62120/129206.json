@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "from_affiliate_facet_id": 129206,
+    "from_affiliate_facet": "BioMed Central",
+    "occurrence": 24,
+    "affiliates": [
+        {
+            "facet_id": 129206,
+            "occurrence": 24,
+            "value": "BioMed Central"
+        },
+        {
+            "facet_id": 5788,
+            "occurrence": 9,
+            "value": "Springer"
+        },
+        {
+            "facet_id": 129207,
+            "occurrence": 1,
+            "value": "Biomed Central"
+        }
+    ]
+}

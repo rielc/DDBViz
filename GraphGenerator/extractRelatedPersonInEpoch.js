@@ -47,7 +47,7 @@ launchQuery = function() {
         console.log('Querying -> time_fct.id = '+ epochsAndPersons[fileIndex].epochID +' && affiliate_fct.id = '+ epochsAndPersons[fileIndex].items[personIndex].affiliate_facet_id);
 
 
-        connection.query('SELECT affiliate_fct_items.facet_id, count(DISTINCT affiliate_fct_items.item_id) as occurrence, affiliate_fct.value FROM affiliate_fct_items, affiliate_fct, time_fct_items WHERE affiliate_fct_items.facet_id = affiliate_fct.id AND time_fct_items.item_id = affiliate_fct_items.item_id AND time_fct_items.facet_id ='+time_facet_id+' AND affiliate_fct_items.item_id IN (SELECT item_id FROM affiliate_fct_items WHERE facet_id = '+affiliate_facet_id+') GROUP BY facet_id ORDER BY occurrence DESC', 
+        connection.query('SELECT affiliate_fct_items.facet_id, count(DISTINCT affiliate_fct_items.item_id) as occurrence, affiliate_fct.value FROM affiliate_fct_items, affiliate_fct, time_fct_items WHERE affiliate_fct_items.facet_id = affiliate_fct.id AND time_fct_items.item_id = affiliate_fct_items.item_id AND time_fct_items.facet_id = '+time_facet_id+'AND affiliate_fct_items.item_id IN (SELECT item_id FROM affiliate_fct_items, time_fct_items WHERE time_fct_items.item_id = affiliate_fct_items.item_id AND facet_id = '+affiliate_facet_id+'AND time_fct_items.facet_id = '+time_facet_id+') GROUP BY facet_id ORDER BY occurrence DESC',
             function( error, rows ) {
                 person = {};
                 person.time_fct_id = epochsAndPersons[fileIndex].epochID;

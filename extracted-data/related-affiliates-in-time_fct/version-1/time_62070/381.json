@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 11,
+    "time_fct": "time_62070",
+    "affiliate_facet_id": 381,
+    "affiliate_facet": "Filmnegative, Ordner 456 Luftfahrt",
+    "occurrence": 237,
+    "affiliates": [
+        {
+            "facet_id": 381,
+            "occurrence": 252,
+            "value": "Vandenhoeck & Ruprecht"
+        },
+        {
+            "facet_id": 33557,
+            "occurrence": 16,
+            "value": "Deutsches Reich"
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 8,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 35514,
+            "occurrence": 8,
+            "value": "Raabe, Wilhelm (1831-1910)"
+        },
+        {
+            "facet_id": 47479,
+            "occurrence": 7,
+            "value": "Hoppe, Karl (1892-1973)"
+        },
+        {
+            "facet_id": 135880,
+            "occurrence": 4,
+            "value": "Wittram, Reinhard (1902-1971)"
+        },
+        {
+            "facet_id": 4580,
+            "occurrence": 3,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 33781,
+            "occurrence": 3,
+            "value": "Dörries, Hermann (1895-1977)"
+        },
+        {
+            "facet_id": 44021,
+            "occurrence": 3,
+            "value": "Mülhaupt, Erwin (1905-1996)"
+        },
+        {
+            "facet_id": 338517,
+            "occurrence": 3,
+            "value": "Schöne, Albrecht"
+        },
+        {
+            "facet_id": 2631,
+            "occurrence": 2,
+            "value": "Maximilian <I., Bayern, Kurfürst> (1573-1651)"
+        },
+        {
+            "facet_id": 5255,
+            "occurrence": 2,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 2,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 26671,
+            "occurrence": 2,
+            "value": "Stackelberg, Jürgen von (1925-)"
+        },
+        {
+            "facet_id": 41124,
+            "occurrence": 2,
+            "value": "Heine, Heinrich (1797-1856)"
+        },
+        {
+            "facet_id": 81011,
+            "occurrence": 2,
+            "value": "Dostoevskij, Fëdor Michajlovič (1821-1881)"
+        },
+        {
+            "facet_id": 126303,
+            "occurrence": 2,
+            "value": "Tolstoj, Lev N. (1828-1910)"
+        },
+        {
+            "facet_id": 135647,
+            "occurrence": 2,
+            "value": "Radbruch, Gustav (1878-1949)"
+        },
+        {
+            "facet_id": 146077,
+            "occurrence": 2,
+            "value": "Hermann, Rudolf (1887-1962)"
+        },
+        {
+            "facet_id": 146078,
+            "occurrence": 2,
+            "value": "Beintker, Horst (1918-2012)"
+        },
+        {
+            "facet_id": 146710,
+            "occurrence": 2,
+            "value": "Kurschat, Alexander"
+        },
+        {
+            "facet_id": 152377,
+            "occurrence": 2,
+            "value": "Rehm, Walther (1901-1963)"
+        },
+        {
+            "facet_id": 154479,
+            "occurrence": 2,
+            "value": "Jacobs, Manfred"
+        },
+        {
+            "facet_id": 183719,
+            "occurrence": 2,
+            "value": "Günther, Hartmut"
+        },
+        {
+            "facet_id": 198458,
+            "occurrence": 2,
+            "value": "Blumhardt, Johann Christoph (1805-1880)"
+        },
+        {
+            "facet_id": 221816,
+            "occurrence": 2,
+            "value": "Böhme, Walter"
+        },
+        {
+            "facet_id": 235970,
+            "occurrence": 2,
+            "value": "Zimmerli, Walther (1907-1983)"
+        },
+        {
+            "facet_id": 262591,
+            "occurrence": 2,
+            "value": "Maurer, Wilhelm (1900-1982)"
+        },
+        {
+            "facet_id": 291899,
+            "occurrence": 2,
+            "value": "Schubert, Friedrich-Hermann (1925-1973)"
+        },
+        {
+            "facet_id": 339905,
+            "occurrence": 2,
+            "value": "Steffen, Hans (1926-)"
+        },
+        {
+            "facet_id": 396889,
+            "occurrence": 2,
+            "value": "Schumpeter, Joseph Alois (1883-1950)"
+        },
+        {
+            "facet_id": 430926,
+            "occurrence": 2,
+            "value": "Schoell, Konrad"
+        },
+        {
+            "facet_id": 465146,
+            "occurrence": 2,
+            "value": "Kierkegaard, Søren (1813-1855)"
+        },
+        {
+            "facet_id": 485789,
+            "occurrence": 2,
+            "value": "Friedrich, Wolf-Hartmut (1907-2000)"
+        },
+        {
+            "facet_id": 553883,
+            "occurrence": 2,
+            "value": "Menzel, Eberhard"
+        },
+        {
+            "facet_id": 571183,
+            "occurrence": 2,
+            "value": "Bubser, Eberhard"
+        },
+        {
+            "facet_id": 582031,
+            "occurrence": 2,
+            "value": "Schimmelpfennig, Bernhard (1938-)"
+        },
+        {
+            "facet_id": 617157,
+            "occurrence": 2,
+            "value": "Michel, Otto (1903-1993)"
+        },
+        {
+            "facet_id": 620099,
+            "occurrence": 2,
+            "value": "Kohls, Ernst-Wilhelm (1931-2001)"
+        },
+        {
+            "facet_id": 771986,
+            "occurrence": 2,
+            "value": "Grundmann, Herbert (1902-1970)"
+        },
+        {
+            "facet_id": 874926,
+            "occurrence": 2,
+            "value": "Merkelbach, Reinhold (1918-2006)"
+        },
+        {
+            "facet_id": 917708,
+            "occurrence": 2,
+            "value": "Bousset, Wilhelm (1865-1920)"
+        },
+        {
+            "facet_id": 924869,
+            "occurrence": 2,
+            "value": "Kayser, Wolfgang (1906-1960)"
+        },
+        {
+            "facet_id": 1087,
+            "occurrence": 1,
+            "value": "Beethoven, Ludwig van (1770-1827)"
+        },
+        {
+            "facet_id": 1702,
+            "occurrence": 1,
+            "value": "Alewyn, Richard (1902-1979)"
+        },
+        {
+            "facet_id": 1703,
+            "occurrence": 1,
+            "value": "Hofmannsthal, Hugo von (1874-1929)"
+        },
+        {
+            "facet_id": 1857,
+            "occurrence": 1,
+            "value": "Calixt, Georg (1586-1656)"
+        },
+        {
+            "facet_id": 1874,
+            "occurrence": 1,
+            "value": "Gotthelf, Jeremias (1797-1854)"
+        },
+        {
+            "facet_id": 2546,
+            "occurrence": 1,
+            "value": "Homerus (ca. 8. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 3917,
+            "occurrence": 1,
+            "value": "Paul, Jean (1763-1825)"
+        },
+        {
+            "facet_id": 7022,
+            "occurrence": 1,
+            "value": "Harnisch, Wolfgang"
+        },
+        {
+            "facet_id": 7481,
+            "occurrence": 1,
+            "value": "Karl <I., Heiliges Römisches Reich, Kaiser> (747-814)"
+        },
+        {
+            "facet_id": 7694,
+            "occurrence": 1,
+            "value": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)"
+        },
+        {
+            "facet_id": 11950,
+            "occurrence": 1,
+            "value": "Benn, Gottfried (1886-1956)"
+        },
+        {
+            "facet_id": 12320,
+            "occurrence": 1,
+            "value": "Müntzer, Thomas (1489-1525)"
+        },
+        {
+            "facet_id": 12658,
+            "occurrence": 1,
+            "value": "Hutten, Ulrich von (1488-1523)"
+        },
+        {
+            "facet_id": 15726,
+            "occurrence": 1,
+            "value": "La Bruyère, Jean de (1645-1696)"
+        },
+        {
+            "facet_id": 15923,
+            "occurrence": 1,
+            "value": "Dahlmann, Friedrich Christoph (1785-1860)"
+        },
+        {
+            "facet_id": 23589,
+            "occurrence": 1,
+            "value": "Jesus Christus"
+        },
+        {
+            "facet_id": 25097,
+            "occurrence": 1,
+            "value": "Vierhaus, Rudolf (1922-2011)"
+        },
+        {
+            "facet_id": 26672,
+            "occurrence": 1,
+            "value": "Gide, André (1869-1951)"
+        },
+        {
+            "facet_id": 26673,
+            "occurrence": 1,
+            "value": "Proust, Marcel (1871-1922)"
+        },
+        {
+            "facet_id": 26674,
+            "occurrence": 1,
+            "value": "Valéry, Paul (1871-1945)"
+        },
+        {
+            "facet_id": 29807,
+            "occurrence": 1,
+            "value": "Richter, Wolfgang"
+        },
+        {
+            "facet_id": 34986,
+            "occurrence": 1,
+            "value": "Wollasch, Joachim (1931-)"
+        },
+        {
+            "facet_id": 38244,
+            "occurrence": 1,
+            "value": "Harsdörffer, Georg Philipp (1607-1658)"
+        },
+        {
+            "facet_id": 39687,
+            "occurrence": 1,
+            "value": "Ranke, Leopold von (1795-1886)"
+        },
+        {
+            "facet_id": 40144,
+            "occurrence": 1,
+            "value": "Goez, Werner (1929-2003)"
+        },
+        {
+            "facet_id": 40808,
+            "occurrence": 1,
+            "value": "Kant, Immanuel (1724-1804)"
+        },
+        {
+            "facet_id": 42774,
+            "occurrence": 1,
+            "value": "Lichtenberg, Georg Christoph (1742-1799)"
+        },
+        {
+            "facet_id": 44602,
+            "occurrence": 1,
+            "value": "Hölderlin, Friedrich (1770-1843)"
+        },
+        {
+            "facet_id": 47190,
+            "occurrence": 1,
+            "value": "Jonas, Hans (1903-1993)"
+        },
+        {
+            "facet_id": 54521,
+            "occurrence": 1,
+            "value": "Raupach, Hans (1903-1997)"
+        },
+        {
+            "facet_id": 57529,
+            "occurrence": 1,
+            "value": "Lohse, Bernhard (1928-1997)"
+        },
+        {
+            "facet_id": 61755,
+            "occurrence": 1,
+            "value": "Holborn, Hajo (1902-1969)"
+        },
+        {
+            "facet_id": 64565,
+            "occurrence": 1,
+            "value": "Neumann, Friedrich (1889-1978)"
+        },
+        {
+            "facet_id": 65383,
+            "occurrence": 1,
+            "value": "Feuerbach, Paul Johann Anselm von (1775-1833)"
+        },
+        {
+            "facet_id": 73698,
+            "occurrence": 1,
+            "value": "Prometheus"
+        },
+        {
+            "facet_id": 73972,
+            "occurrence": 1,
+            "value": "Burckhardt, Jacob (1818-1897)"
+        },
+        {
+            "facet_id": 74605,
+            "occurrence": 1,
+            "value": "Wittgenstein, Ludwig (1889-1951)"
+        },
+        {
+            "facet_id": 78498,
+            "occurrence": 1,
+            "value": "Kreutz, Christian"
+        },
+        {
+            "facet_id": 78837,
+            "occurrence": 1,
+            "value": "Barth, Karl"
+        },
+        {
+            "facet_id": 80658,
+            "occurrence": 1,
+            "value": "Stammler, Gerhard (1898-1977)"
+        },
+        {
+            "facet_id": 83348,
+            "occurrence": 1,
+            "value": "Paulus <Apostel> (ca. 1. Jh.)"
+        },
+        {
+            "facet_id": 87874,
+            "occurrence": 1,
+            "value": "Lenz, Jakob Michael Reinhold (1751-1792)"
+        },
+        {
+            "facet_id": 117087,
+            "occurrence": 1,
+            "value": "Pollok, Karl-Heinz (1929-2003)"
+        },
+        {
+            "facet_id": 121787,
+            "occurrence": 1,
+            "value": "Bürger, Gottfried August (1747-1794)"
+        },
+        {
+            "facet_id": 122551,
+            "occurrence": 1,
+            "value": "Jankuhn, Herbert (1905-1990)"
+        },
+        {
+            "facet_id": 131326,
+            "occurrence": 1,
+            "value": "Gončarov, Ivan A. (1812-1891)"
+        },
+        {
+            "facet_id": 131804,
+            "occurrence": 1,
+            "value": "Onasch, Konrad (1916-2007)"
+        },
+        {
+            "facet_id": 135093,
+            "occurrence": 1,
+            "value": "Kreutzer, Leo (1938-)"
+        },
+        {
+            "facet_id": 135503,
+            "occurrence": 1,
+            "value": "Zehbe, Jürgen"
+        },
+        {
+            "facet_id": 135648,
+            "occurrence": 1,
+            "value": "Kaufmann, Arthur"
+        },
+        {
+            "facet_id": 137177,
+            "occurrence": 1,
+            "value": "Bismarck, Otto von (1815-1898)"
+        },
+        {
+            "facet_id": 141801,
+            "occurrence": 1,
+            "value": "Albrecht, Dieter (1927-1999)"
+        },
+        {
+            "facet_id": 142463,
+            "occurrence": 1,
+            "value": "Ilkow, Peter"
+        },
+        {
+            "facet_id": 142464,
+            "occurrence": 1,
+            "value": "Rosenfeld, Hans-Friedrich (1899-1993)"
+        },
+        {
+            "facet_id": 142465,
+            "occurrence": 1,
+            "value": "Wissmann, Wilhelm (1899-1966)"
+        },
+        {
+            "facet_id": 143793,
+            "occurrence": 1,
+            "value": "Reindel, Kurt (1925-2011)"
+        },
+        {
+            "facet_id": 147444,
+            "occurrence": 1,
+            "value": "Trakl, Georg (1887-1914)"
+        }
+    ]
+}

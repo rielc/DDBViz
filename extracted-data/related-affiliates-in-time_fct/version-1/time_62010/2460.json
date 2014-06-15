@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 2460,
+    "affiliate_facet": "Oberamt Tübingen",
+    "occurrence": 176,
+    "affiliates": [
+        {
+            "facet_id": 2460,
+            "occurrence": 184,
+            "value": "Forstamt Langensteinbach"
+        },
+        {
+            "facet_id": 620303,
+            "occurrence": 2,
+            "value": "Geometer G. Theilmann"
+        },
+        {
+            "facet_id": 835953,
+            "occurrence": 1,
+            "value": "Geometer G. Theilmann / Forsttaxator Lünzmann"
+        }
+    ]
+}

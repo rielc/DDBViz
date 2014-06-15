@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_facet_id": 266,
+    "affiliate_facet": "Forstamt Gernsbach",
+    "occurrence": 233,
+    "affiliates": [
+        {
+            "facet_id": 266,
+            "occurrence": 240,
+            "value": "Teubner"
+        },
+        {
+            "facet_id": 3643,
+            "occurrence": 75,
+            "value": "Sächsisches Staatsministerium für Wissenschaft und Kunst"
+        },
+        {
+            "facet_id": 608,
+            "occurrence": 67,
+            "value": "Lambeck, Gustav"
+        },
+        {
+            "facet_id": 609,
+            "occurrence": 66,
+            "value": "Rühlmann, Paul"
+        },
+        {
+            "facet_id": 610,
+            "occurrence": 51,
+            "value": "Wilmanns, Ernst"
+        },
+        {
+            "facet_id": 77147,
+            "occurrence": 10,
+            "value": "Schmarsow, August"
+        },
+        {
+            "facet_id": 109373,
+            "occurrence": 6,
+            "value": "Schenk, Karl"
+        },
+        {
+            "facet_id": 311546,
+            "occurrence": 6,
+            "value": "Neustadt, Ernst"
+        },
+        {
+            "facet_id": 131250,
+            "occurrence": 5,
+            "value": "Schoenborn, Heinrich"
+        },
+        {
+            "facet_id": 607,
+            "occurrence": 4,
+            "value": "Kranz, Walther"
+        },
+        {
+            "facet_id": 129054,
+            "occurrence": 4,
+            "value": "Neumann, Carl"
+        },
+        {
+            "facet_id": 148437,
+            "occurrence": 4,
+            "value": "Roscher, Wilhelm Heinrich"
+        },
+        {
+            "facet_id": 303014,
+            "occurrence": 4,
+            "value": "Lehmann, Richard"
+        },
+        {
+            "facet_id": 374196,
+            "occurrence": 4,
+            "value": "Delbrück, Berthold"
+        },
+        {
+            "facet_id": 128899,
+            "occurrence": 3,
+            "value": "Sievers, Eduard"
+        },
+        {
+            "facet_id": 161207,
+            "occurrence": 3,
+            "value": "Müller-Freienfels, Richard"
+        },
+        {
+            "facet_id": 206424,
+            "occurrence": 3,
+            "value": "Koch, Julius"
+        },
+        {
+            "facet_id": 278668,
+            "occurrence": 3,
+            "value": "Anrich, Gustav"
+        },
+        {
+            "facet_id": 434984,
+            "occurrence": 3,
+            "value": "Kurze, Friedrich"
+        },
+        {
+            "facet_id": 649338,
+            "occurrence": 3,
+            "value": "Rappaport, Bruno"
+        },
+        {
+            "facet_id": 4367,
+            "occurrence": 2,
+            "value": "Günther, Felix"
+        },
+        {
+            "facet_id": 6812,
+            "occurrence": 2,
+            "value": "Bauer, Karl"
+        },
+        {
+            "facet_id": 8867,
+            "occurrence": 2,
+            "value": "Weise, Oskar (1851-1933)"
+        },
+        {
+            "facet_id": 51426,
+            "occurrence": 2,
+            "value": "Ostwald, Wilhelm"
+        },
+        {
+            "facet_id": 62860,
+            "occurrence": 2,
+            "value": "Brandenburg, Erich"
+        },
+        {
+            "facet_id": 73381,
+            "occurrence": 2,
+            "value": "Prym, Friedrich (1841-1915)"
+        },
+        {
+            "facet_id": 73382,
+            "occurrence": 2,
+            "value": "Rost, Georg (1870-1958)"
+        },
+        {
+            "facet_id": 78081,
+            "occurrence": 2,
+            "value": "Sethe, Kurt"
+        },
+        {
+            "facet_id": 100339,
+            "occurrence": 2,
+            "value": "Martini, Edgar"
+        },
+        {
+            "facet_id": 160341,
+            "occurrence": 2,
+            "value": "Garten, Siegfried"
+        },
+        {
+            "facet_id": 180658,
+            "occurrence": 2,
+            "value": "Lüdtke, Franz"
+        },
+        {
+            "facet_id": 206760,
+            "occurrence": 2,
+            "value": "Hoffmann, Ernst"
+        },
+        {
+            "facet_id": 213583,
+            "occurrence": 2,
+            "value": "Pfeffer, Wilhelm"
+        },
+        {
+            "facet_id": 255927,
+            "occurrence": 2,
+            "value": "Dietrich, Otto"
+        },
+        {
+            "facet_id": 285837,
+            "occurrence": 2,
+            "value": "Landwehr von Pragenau, M."
+        },
+        {
+            "facet_id": 311547,
+            "occurrence": 2,
+            "value": "Küchling, H."
+        },
+        {
+            "facet_id": 319490,
+            "occurrence": 2,
+            "value": "Oppenheim, Samuel"
+        },
+        {
+            "facet_id": 334993,
+            "occurrence": 2,
+            "value": "Brandenburg, Erich (1868-1946)"
+        },
+        {
+            "facet_id": 354934,
+            "occurrence": 2,
+            "value": "Pohle, Ludwig (1869-1926)"
+        },
+        {
+            "facet_id": 372447,
+            "occurrence": 2,
+            "value": "Steinhauff, Arnold"
+        },
+        {
+            "facet_id": 372448,
+            "occurrence": 2,
+            "value": "Schmidt, Max Georg"
+        },
+        {
+            "facet_id": 411626,
+            "occurrence": 2,
+            "value": "Gehmlich, Ernst"
+        },
+        {
+            "facet_id": 417289,
+            "occurrence": 2,
+            "value": "Tschirch, Otto"
+        },
+        {
+            "facet_id": 462935,
+            "occurrence": 2,
+            "value": "Bjerknes, Vilhelm"
+        },
+        {
+            "facet_id": 499407,
+            "occurrence": 2,
+            "value": "Steffens, W."
+        },
+        {
+            "facet_id": 594247,
+            "occurrence": 2,
+            "value": "Wiener, Otto"
+        },
+        {
+            "facet_id": 609227,
+            "occurrence": 2,
+            "value": "Ede, Wilhelm"
+        },
+        {
+            "facet_id": 761226,
+            "occurrence": 2,
+            "value": "Joachimsen, Paul"
+        },
+        {
+            "facet_id": 885499,
+            "occurrence": 2,
+            "value": "Dinkler, Rudolf"
+        },
+        {
+            "facet_id": 999697,
+            "occurrence": 2,
+            "value": "Dentzer, Bernhard"
+        },
+        {
+            "facet_id": 1068598,
+            "occurrence": 2,
+            "value": "Evers, Edwin"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 1,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 2546,
+            "occurrence": 1,
+            "value": "Homerus (ca. 8. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 11353,
+            "occurrence": 1,
+            "value": "Bücher, Karl (1847-1930)"
+        },
+        {
+            "facet_id": 15494,
+            "occurrence": 1,
+            "value": "Lange, Helene (1848-1930)"
+        },
+        {
+            "facet_id": 19345,
+            "occurrence": 1,
+            "value": "Thomae, Johannes"
+        },
+        {
+            "facet_id": 20447,
+            "occurrence": 1,
+            "value": "Klein, Felix"
+        },
+        {
+            "facet_id": 24454,
+            "occurrence": 1,
+            "value": "Mayer, Rudolf"
+        },
+        {
+            "facet_id": 26120,
+            "occurrence": 1,
+            "value": "Beck, Richard"
+        },
+        {
+            "facet_id": 30223,
+            "occurrence": 1,
+            "value": "Schippel, Max (1859-1928)"
+        },
+        {
+            "facet_id": 42823,
+            "occurrence": 1,
+            "value": "Barocci, Federico"
+        },
+        {
+            "facet_id": 51427,
+            "occurrence": 1,
+            "value": "slubsmwksaw"
+        },
+        {
+            "facet_id": 51619,
+            "occurrence": 1,
+            "value": "Hofstaetter, Walther"
+        },
+        {
+            "facet_id": 56001,
+            "occurrence": 1,
+            "value": "Simon, Max"
+        },
+        {
+            "facet_id": 62539,
+            "occurrence": 1,
+            "value": "Fricke, Robert"
+        },
+        {
+            "facet_id": 68298,
+            "occurrence": 1,
+            "value": "Ruge, Sophus"
+        },
+        {
+            "facet_id": 77843,
+            "occurrence": 1,
+            "value": "Fischer, Otto"
+        },
+        {
+            "facet_id": 78080,
+            "occurrence": 1,
+            "value": "Partsch, Josef"
+        },
+        {
+            "facet_id": 84939,
+            "occurrence": 1,
+            "value": "Haupt, Otto"
+        },
+        {
+            "facet_id": 88220,
+            "occurrence": 1,
+            "value": "Stieda, Wilhelm (1852-1933)"
+        },
+        {
+            "facet_id": 94552,
+            "occurrence": 1,
+            "value": "Scheibner, Wilhelm"
+        },
+        {
+            "facet_id": 102823,
+            "occurrence": 1,
+            "value": "Fuchs, Carl Johannes (1865-1934)"
+        },
+        {
+            "facet_id": 109344,
+            "occurrence": 1,
+            "value": "Weissbach, Franz H."
+        },
+        {
+            "facet_id": 121692,
+            "occurrence": 1,
+            "value": "Scheumann, Karl Hermann"
+        },
+        {
+            "facet_id": 130668,
+            "occurrence": 1,
+            "value": "Bücher, Karl"
+        },
+        {
+            "facet_id": 130997,
+            "occurrence": 1,
+            "value": "Marx, Erich"
+        },
+        {
+            "facet_id": 132810,
+            "occurrence": 1,
+            "value": "Hampe, Karl (1869-1936)"
+        },
+        {
+            "facet_id": 136588,
+            "occurrence": 1,
+            "value": "Binding, Karl (1841-1920)"
+        },
+        {
+            "facet_id": 140460,
+            "occurrence": 1,
+            "value": "Sturm, Hans"
+        },
+        {
+            "facet_id": 144075,
+            "occurrence": 1,
+            "value": "Peper, Wilhelm"
+        },
+        {
+            "facet_id": 149723,
+            "occurrence": 1,
+            "value": "Meyer, Friedrich"
+        },
+        {
+            "facet_id": 164333,
+            "occurrence": 1,
+            "value": "Ilberg, Johannes"
+        },
+        {
+            "facet_id": 174578,
+            "occurrence": 1,
+            "value": "Günther, Hermann"
+        },
+        {
+            "facet_id": 176399,
+            "occurrence": 1,
+            "value": "Abel, Hans"
+        },
+        {
+            "facet_id": 177361,
+            "occurrence": 1,
+            "value": "Fleiner, Fritz (1867-1937)"
+        },
+        {
+            "facet_id": 207662,
+            "occurrence": 1,
+            "value": "Studniczka, Franz"
+        },
+        {
+            "facet_id": 207663,
+            "occurrence": 1,
+            "value": "Callixenus"
+        },
+        {
+            "facet_id": 215029,
+            "occurrence": 1,
+            "value": "Helfferich, Karl (1872-1924)"
+        },
+        {
+            "facet_id": 221021,
+            "occurrence": 1,
+            "value": "Herkner, Heinrich (1863-1932)"
+        },
+        {
+            "facet_id": 238349,
+            "occurrence": 1,
+            "value": "Stieda, Wilhelm"
+        },
+        {
+            "facet_id": 242509,
+            "occurrence": 1,
+            "value": "Leskien, August"
+        },
+        {
+            "facet_id": 246074,
+            "occurrence": 1,
+            "value": "Wild, Karl"
+        },
+        {
+            "facet_id": 253084,
+            "occurrence": 1,
+            "value": "Schwarz, Andreas Bertalan"
+        },
+        {
+            "facet_id": 254480,
+            "occurrence": 1,
+            "value": "Troeltsch, Ernst (1865-1923)"
+        },
+        {
+            "facet_id": 265191,
+            "occurrence": 1,
+            "value": "Schiebold, Ernst"
+        },
+        {
+            "facet_id": 272710,
+            "occurrence": 1,
+            "value": "Polack, Friedrich"
+        },
+        {
+            "facet_id": 288860,
+            "occurrence": 1,
+            "value": "Allfeld, Philipp (1852-1940)"
+        },
+        {
+            "facet_id": 310931,
+            "occurrence": 1,
+            "value": "Blass, Margarete"
+        },
+        {
+            "facet_id": 311392,
+            "occurrence": 1,
+            "value": "Rehm, Hermann (1862-1917)"
+        },
+        {
+            "facet_id": 312461,
+            "occurrence": 1,
+            "value": "Palm, Rudolf"
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61700",
+    "affiliate_facet_id": 1469,
+    "affiliate_facet": "Deutsche Forschungsgemeinschaft",
+    "occurrence": 6235,
+    "affiliates": [
+        {
+            "facet_id": 1469,
+            "occurrence": 127,
+            "value": "Staatliche Kunstsammlungen — Schloss Wilhelmshöhe (Kassel)"
+        },
+        {
+            "facet_id": 10150,
+            "occurrence": 15,
+            "value": "Rembrandt"
+        },
+        {
+            "facet_id": 1183,
+            "occurrence": 10,
+            "value": "Rubens, Peter Paul"
+        },
+        {
+            "facet_id": 24,
+            "occurrence": 9,
+            "value": "Jordaens, Jacob (1)"
+        },
+        {
+            "facet_id": 17522,
+            "occurrence": 8,
+            "value": "Dyck, Anton van"
+        },
+        {
+            "facet_id": 7929,
+            "occurrence": 5,
+            "value": "Brueghel, Jan (der Ältere)"
+        },
+        {
+            "facet_id": 51099,
+            "occurrence": 4,
+            "value": "Hals, Frans (1)"
+        },
+        {
+            "facet_id": 18220,
+            "occurrence": 3,
+            "value": "Rottenhammer, Hans (1)"
+        },
+        {
+            "facet_id": 115388,
+            "occurrence": 3,
+            "value": "Breenbergh, Bartholomeus"
+        },
+        {
+            "facet_id": 409932,
+            "occurrence": 3,
+            "value": "Balen, Hendrick van (der Ältere)"
+        },
+        {
+            "facet_id": 12341,
+            "occurrence": 2,
+            "value": "Bourdon, Sébastien"
+        },
+        {
+            "facet_id": 22742,
+            "occurrence": 2,
+            "value": "Liss, Johann (1597)"
+        },
+        {
+            "facet_id": 48365,
+            "occurrence": 2,
+            "value": "Potter, Paulus"
+        },
+        {
+            "facet_id": 159299,
+            "occurrence": 2,
+            "value": "Turchi, Alessandro (1578)"
+        },
+        {
+            "facet_id": 202914,
+            "occurrence": 2,
+            "value": "Uyttenbroeck, Moysesz van"
+        },
+        {
+            "facet_id": 342430,
+            "occurrence": 2,
+            "value": "Steenwyck, Hendrick van (1580)"
+        },
+        {
+            "facet_id": 329,
+            "occurrence": 1,
+            "value": "Ostade, Adriaen van"
+        },
+        {
+            "facet_id": 1868,
+            "occurrence": 1,
+            "value": "Velde, Esaias van de (1)"
+        },
+        {
+            "facet_id": 3518,
+            "occurrence": 1,
+            "value": "Goyen, Jan van"
+        },
+        {
+            "facet_id": 12342,
+            "occurrence": 1,
+            "value": "Brugghen, Hendrick ter"
+        },
+        {
+            "facet_id": 13051,
+            "occurrence": 1,
+            "value": "Bassano, Jacopo"
+        },
+        {
+            "facet_id": 13745,
+            "occurrence": 1,
+            "value": "Murillo, Bartolomé Esteban"
+        },
+        {
+            "facet_id": 15431,
+            "occurrence": 1,
+            "value": "Du Jardin, Karel"
+        },
+        {
+            "facet_id": 20530,
+            "occurrence": 1,
+            "value": "Teniers, David (2)"
+        },
+        {
+            "facet_id": 23110,
+            "occurrence": 1,
+            "value": "Elsheimer, Adam"
+        },
+        {
+            "facet_id": 27843,
+            "occurrence": 1,
+            "value": "Poussin, Nicolas"
+        },
+        {
+            "facet_id": 28094,
+            "occurrence": 1,
+            "value": "Reni, Guido"
+        },
+        {
+            "facet_id": 29512,
+            "occurrence": 1,
+            "value": "Saenredam, Pieter Jansz."
+        },
+        {
+            "facet_id": 32814,
+            "occurrence": 1,
+            "value": "Vouet, Simon"
+        },
+        {
+            "facet_id": 37631,
+            "occurrence": 1,
+            "value": "Neeffs, Peeter (der Ältere)"
+        },
+        {
+            "facet_id": 44091,
+            "occurrence": 1,
+            "value": "Neer, Aert van der (der Ältere)"
+        },
+        {
+            "facet_id": 48916,
+            "occurrence": 1,
+            "value": "Boeckhorst, Jan"
+        },
+        {
+            "facet_id": 50698,
+            "occurrence": 1,
+            "value": "Venne, Adriaen Pietersz van de"
+        },
+        {
+            "facet_id": 57947,
+            "occurrence": 1,
+            "value": "Brouwer, Adriaen"
+        },
+        {
+            "facet_id": 75227,
+            "occurrence": 1,
+            "value": "Ribera, Jusepe de"
+        },
+        {
+            "facet_id": 76356,
+            "occurrence": 1,
+            "value": "Coques, Gonzales"
+        },
+        {
+            "facet_id": 79757,
+            "occurrence": 1,
+            "value": "Honthorst, Gerrit van"
+        },
+        {
+            "facet_id": 79928,
+            "occurrence": 1,
+            "value": "Craesbeeck, Joos van"
+        },
+        {
+            "facet_id": 81862,
+            "occurrence": 1,
+            "value": "Sassoferrato"
+        },
+        {
+            "facet_id": 89540,
+            "occurrence": 1,
+            "value": "Helst, Bartholomeus van der"
+        },
+        {
+            "facet_id": 97353,
+            "occurrence": 1,
+            "value": "Avercamp, Hendrick"
+        },
+        {
+            "facet_id": 107311,
+            "occurrence": 1,
+            "value": "Sandrart, Joachim von (der Ältere)"
+        },
+        {
+            "facet_id": 107886,
+            "occurrence": 1,
+            "value": "Lastman, Pieter Pietersz"
+        },
+        {
+            "facet_id": 112894,
+            "occurrence": 1,
+            "value": "Poelenburg, Cornelis van"
+        },
+        {
+            "facet_id": 116429,
+            "occurrence": 1,
+            "value": "Cesari, Giuseppe"
+        },
+        {
+            "facet_id": 119325,
+            "occurrence": 1,
+            "value": "Grebber, Pieter Fransz de"
+        },
+        {
+            "facet_id": 137711,
+            "occurrence": 1,
+            "value": "Cerquozzi, Michelangelo"
+        },
+        {
+            "facet_id": 153045,
+            "occurrence": 1,
+            "value": "Hagen, Joris van der"
+        },
+        {
+            "facet_id": 178350,
+            "occurrence": 1,
+            "value": "Utrecht, Adriaen van"
+        },
+        {
+            "facet_id": 187710,
+            "occurrence": 1,
+            "value": "Saftleven, Herman (3)"
+        },
+        {
+            "facet_id": 247026,
+            "occurrence": 1,
+            "value": "Schoubroeck, Pieter"
+        },
+        {
+            "facet_id": 273321,
+            "occurrence": 1,
+            "value": "Francken, Frans (2)"
+        },
+        {
+            "facet_id": 316831,
+            "occurrence": 1,
+            "value": "Janssens, Abraham (1)"
+        },
+        {
+            "facet_id": 372064,
+            "occurrence": 1,
+            "value": "Claesz., Pieter (1597)"
+        },
+        {
+            "facet_id": 412447,
+            "occurrence": 1,
+            "value": "Stalbemt, Adriaen van"
+        },
+        {
+            "facet_id": 435393,
+            "occurrence": 1,
+            "value": "Marienhof, Jan A."
+        },
+        {
+            "facet_id": 447480,
+            "occurrence": 1,
+            "value": "Tassel, Jean"
+        },
+        {
+            "facet_id": 477185,
+            "occurrence": 1,
+            "value": "Vries, Abraham de"
+        },
+        {
+            "facet_id": 486630,
+            "occurrence": 1,
+            "value": "Wael, Cornelis de"
+        },
+        {
+            "facet_id": 614566,
+            "occurrence": 1,
+            "value": "Croos, Anthony Jansz. van der"
+        },
+        {
+            "facet_id": 783539,
+            "occurrence": 1,
+            "value": "Hondecoeter, Gillis Claesz de"
+        },
+        {
+            "facet_id": 826494,
+            "occurrence": 1,
+            "value": "Bleker, Dirck"
+        },
+        {
+            "facet_id": 855566,
+            "occurrence": 1,
+            "value": "Angeluccio"
+        },
+        {
+            "facet_id": 1007256,
+            "occurrence": 1,
+            "value": "Neeffs, Peeter (der Jüngere)"
+        },
+        {
+            "facet_id": 1115620,
+            "occurrence": 1,
+            "value": "Tilens, Johannes"
+        }
+    ]
+}

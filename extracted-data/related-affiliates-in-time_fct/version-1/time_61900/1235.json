@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 1235,
+    "affiliate_facet": "Hartleben",
+    "occurrence": 778,
+    "affiliates": [
+        {
+            "facet_id": 1235,
+            "occurrence": 790,
+            "value": "Baumgärtner"
+        },
+        {
+            "facet_id": 39109,
+            "occurrence": 55,
+            "value": "Hussell, Ludwig"
+        },
+        {
+            "facet_id": 21310,
+            "occurrence": 31,
+            "value": "Witzleben, Karl August Friedrich von (1773-1839)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 26,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 19495,
+            "occurrence": 16,
+            "value": "Kurländer, Franz August von (1777-1836)"
+        },
+        {
+            "facet_id": 129387,
+            "occurrence": 15,
+            "value": "Klasen, Ludwig"
+        },
+        {
+            "facet_id": 6912,
+            "occurrence": 13,
+            "value": "Rosenmüller, Ernst Friedrich Karl (1768-1835)"
+        },
+        {
+            "facet_id": 14354,
+            "occurrence": 13,
+            "value": "Philippson, Ludwig (1811-1889)"
+        },
+        {
+            "facet_id": 84788,
+            "occurrence": 12,
+            "value": "Lobe, Johann Christian (1797-1881)"
+        },
+        {
+            "facet_id": 220710,
+            "occurrence": 10,
+            "value": "Holzschuher, Rudolph von (1777-1861)"
+        },
+        {
+            "facet_id": 43503,
+            "occurrence": 9,
+            "value": "Butte, Wilhelm (1772-1833)"
+        },
+        {
+            "facet_id": 71066,
+            "occurrence": 9,
+            "value": "Hasse, Traugott Lebrecht (1775-1853)"
+        },
+        {
+            "facet_id": 74922,
+            "occurrence": 9,
+            "value": "Hassenfratz, Jean H. (1755-1827)"
+        },
+        {
+            "facet_id": 113306,
+            "occurrence": 9,
+            "value": "Krause, Johann Wilhelm (-1842)"
+        },
+        {
+            "facet_id": 95166,
+            "occurrence": 8,
+            "value": "Schenk, Ernst (1796-1859)"
+        },
+        {
+            "facet_id": 197461,
+            "occurrence": 7,
+            "value": "Pfeil, Wilhelm (1783-1859)"
+        },
+        {
+            "facet_id": 198318,
+            "occurrence": 7,
+            "value": "Wiese, Friedrich Adolph (1800-)"
+        },
+        {
+            "facet_id": 288601,
+            "occurrence": 7,
+            "value": "Richter, Optatus Wilhelm Leopold (ca. 1. H. 19. Jh.)"
+        },
+        {
+            "facet_id": 43504,
+            "occurrence": 6,
+            "value": "Baumgärtner, Adam Friedrich Gotthelf (1759-1843)"
+        },
+        {
+            "facet_id": 46560,
+            "occurrence": 6,
+            "value": "Bergk, Johann Adam (1769-1834)"
+        },
+        {
+            "facet_id": 69753,
+            "occurrence": 5,
+            "value": "Tredgold, Thomas (1788-1829)"
+        },
+        {
+            "facet_id": 19494,
+            "occurrence": 4,
+            "value": "Koch, Karl Wilhelm"
+        },
+        {
+            "facet_id": 28429,
+            "occurrence": 4,
+            "value": "Cuvier, Georges (1769-1832)"
+        },
+        {
+            "facet_id": 34406,
+            "occurrence": 4,
+            "value": "Michaelis, Christian Friedrich"
+        },
+        {
+            "facet_id": 40578,
+            "occurrence": 4,
+            "value": "Rüder, Friedrich August (1762-1856)"
+        },
+        {
+            "facet_id": 69790,
+            "occurrence": 4,
+            "value": "Beyer, Moritz"
+        },
+        {
+            "facet_id": 152448,
+            "occurrence": 4,
+            "value": "Lüders, Ludwig (1776-1822)"
+        },
+        {
+            "facet_id": 262064,
+            "occurrence": 4,
+            "value": "Falke, J. E. L."
+        },
+        {
+            "facet_id": 4136,
+            "occurrence": 3,
+            "value": "Krug, Wilhelm Traugott (1770-1842)"
+        },
+        {
+            "facet_id": 11506,
+            "occurrence": 3,
+            "value": "Diezmann, August (1805-1869)"
+        },
+        {
+            "facet_id": 25501,
+            "occurrence": 3,
+            "value": "Leonhardi, Friedrich Gottlob (1757-1814)"
+        },
+        {
+            "facet_id": 65383,
+            "occurrence": 3,
+            "value": "Feuerbach, Paul Johann Anselm von (1775-1833)"
+        },
+        {
+            "facet_id": 106251,
+            "occurrence": 3,
+            "value": "Schübler, Gustav"
+        },
+        {
+            "facet_id": 115637,
+            "occurrence": 3,
+            "value": "Kurr, Johann Gottlob von (1798-1870)"
+        },
+        {
+            "facet_id": 140146,
+            "occurrence": 3,
+            "value": "Labaume, Eugène (1783-1849)"
+        },
+        {
+            "facet_id": 141665,
+            "occurrence": 3,
+            "value": "Ramshorn, Carl (1812-1887)"
+        },
+        {
+            "facet_id": 153654,
+            "occurrence": 3,
+            "value": "Coston, François G. de"
+        },
+        {
+            "facet_id": 192655,
+            "occurrence": 3,
+            "value": "Ramshorn, Johann Gottlob Ludwig (1768-1837)"
+        },
+        {
+            "facet_id": 249210,
+            "occurrence": 3,
+            "value": "Sprengel, C."
+        },
+        {
+            "facet_id": 309095,
+            "occurrence": 3,
+            "value": "Hermann, C."
+        },
+        {
+            "facet_id": 361055,
+            "occurrence": 3,
+            "value": "Falke, E."
+        },
+        {
+            "facet_id": 623176,
+            "occurrence": 3,
+            "value": "Robbi, Jakob Heinrich (1779-1834)"
+        },
+        {
+            "facet_id": 785777,
+            "occurrence": 3,
+            "value": "Pinckert, Frdr. Aug."
+        },
+        {
+            "facet_id": 879,
+            "occurrence": 2,
+            "value": "Schiller, Friedrich (1759-1805)"
+        },
+        {
+            "facet_id": 10587,
+            "occurrence": 2,
+            "value": "Jörg, Johann Christian Gottfried (1779-1856)"
+        },
+        {
+            "facet_id": 11497,
+            "occurrence": 2,
+            "value": "Brongniart, Alexandre (1770-1847)"
+        },
+        {
+            "facet_id": 13139,
+            "occurrence": 2,
+            "value": "Levy, Jacob (1819-1892)"
+        },
+        {
+            "facet_id": 15403,
+            "occurrence": 2,
+            "value": "Hirschfeld"
+        },
+        {
+            "facet_id": 40174,
+            "occurrence": 2,
+            "value": "Mayer, Samuel"
+        },
+        {
+            "facet_id": 60047,
+            "occurrence": 2,
+            "value": "Redslob, Gustav Moritz (1804-1882)"
+        },
+        {
+            "facet_id": 106578,
+            "occurrence": 2,
+            "value": "Wagner, Johann J."
+        },
+        {
+            "facet_id": 108343,
+            "occurrence": 2,
+            "value": "Sarrazin, Adrien de (1775-1852)"
+        },
+        {
+            "facet_id": 116910,
+            "occurrence": 2,
+            "value": "Behlen, Stephan (1784-1847)"
+        },
+        {
+            "facet_id": 137256,
+            "occurrence": 2,
+            "value": "Kühn, Otto Bernhard (1800-1863)"
+        },
+        {
+            "facet_id": 140911,
+            "occurrence": 2,
+            "value": "Vincent, L."
+        },
+        {
+            "facet_id": 143300,
+            "occurrence": 2,
+            "value": "Tzschirner, Heinrich Gottlieb (1778-1828)"
+        },
+        {
+            "facet_id": 166232,
+            "occurrence": 2,
+            "value": "Clarus, Johann Christian August (1774-1854)"
+        },
+        {
+            "facet_id": 166890,
+            "occurrence": 2,
+            "value": "Hoffmann, Andreas Gottlieb (1796-1864)"
+        },
+        {
+            "facet_id": 172183,
+            "occurrence": 2,
+            "value": "Philippson, Ludwig"
+        },
+        {
+            "facet_id": 173042,
+            "occurrence": 2,
+            "value": "Luther, Carl F."
+        },
+        {
+            "facet_id": 182053,
+            "occurrence": 2,
+            "value": "Rosenmüller, Johann Christian"
+        },
+        {
+            "facet_id": 206874,
+            "occurrence": 2,
+            "value": "Frick, Georg (1781-1848)"
+        },
+        {
+            "facet_id": 244286,
+            "occurrence": 2,
+            "value": "Rosenmüller, Georg Hieronymus Conrad (1775-1824)"
+        },
+        {
+            "facet_id": 251307,
+            "occurrence": 2,
+            "value": "Bergk, ..."
+        },
+        {
+            "facet_id": 268593,
+            "occurrence": 2,
+            "value": "Dupuytren, Guillaume (1777-1835)"
+        },
+        {
+            "facet_id": 270926,
+            "occurrence": 2,
+            "value": "Bock, August Carl"
+        },
+        {
+            "facet_id": 272746,
+            "occurrence": 2,
+            "value": "Sprengel, Carl (1787-1859)"
+        },
+        {
+            "facet_id": 297569,
+            "occurrence": 2,
+            "value": "Gardin du Mesnil, Jean-Baptiste (1720-1802)"
+        },
+        {
+            "facet_id": 307467,
+            "occurrence": 2,
+            "value": "Spieker, Christian Wilhelm (1780-1858)"
+        },
+        {
+            "facet_id": 339631,
+            "occurrence": 2,
+            "value": "Gössel, Johann Heinrich"
+        },
+        {
+            "facet_id": 356795,
+            "occurrence": 2,
+            "value": "Rennie, James (1787-1867)"
+        },
+        {
+            "facet_id": 384651,
+            "occurrence": 2,
+            "value": "Murray, Hugh (1779-1846)"
+        },
+        {
+            "facet_id": 450544,
+            "occurrence": 2,
+            "value": "Bramah, T."
+        },
+        {
+            "facet_id": 450545,
+            "occurrence": 2,
+            "value": "Kühn, Otto B."
+        },
+        {
+            "facet_id": 547381,
+            "occurrence": 2,
+            "value": "Jameson, Robert (1774-1854)"
+        },
+        {
+            "facet_id": 597363,
+            "occurrence": 2,
+            "value": "Clarke, George"
+        },
+        {
+            "facet_id": 653868,
+            "occurrence": 2,
+            "value": "Adams, Hannah (ca. 1755-1831)"
+        },
+        {
+            "facet_id": 657634,
+            "occurrence": 2,
+            "value": "Busby, Thomas"
+        },
+        {
+            "facet_id": 710213,
+            "occurrence": 2,
+            "value": "Falke, Johann Ernst Ludwig (1805-)"
+        },
+        {
+            "facet_id": 737753,
+            "occurrence": 2,
+            "value": "Bech, Emil"
+        },
+        {
+            "facet_id": 939823,
+            "occurrence": 2,
+            "value": "Bingley, William"
+        },
+        {
+            "facet_id": 1006546,
+            "occurrence": 2,
+            "value": "Caspari, Carl"
+        },
+        {
+            "facet_id": 276,
+            "occurrence": 1,
+            "value": "Cicero, Marcus Tullius (v106-v43)"
+        },
+        {
+            "facet_id": 451,
+            "occurrence": 1,
+            "value": "Hartmann, Carl Friedrich Alexander (1796-1863)"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 1,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 4707,
+            "occurrence": 1,
+            "value": "Bell, Charles (1774-1842)"
+        },
+        {
+            "facet_id": 5328,
+            "occurrence": 1,
+            "value": "Kühn, Carl Gottlob (1754-1840)"
+        },
+        {
+            "facet_id": 5757,
+            "occurrence": 1,
+            "value": "Ponsard, Franc̢ois"
+        },
+        {
+            "facet_id": 5913,
+            "occurrence": 1,
+            "value": "Lessing, Gotthold Ephraim"
+        },
+        {
+            "facet_id": 6045,
+            "occurrence": 1,
+            "value": "Metastasio, Pietro (1698-1782)"
+        },
+        {
+            "facet_id": 6839,
+            "occurrence": 1,
+            "value": "Kausler, Franz Georg Friedrich von (1794-1848)"
+        },
+        {
+            "facet_id": 8525,
+            "occurrence": 1,
+            "value": "Knaur, Hermann"
+        },
+        {
+            "facet_id": 11568,
+            "occurrence": 1,
+            "value": "Gruber, Johann Gottfried (1774-1851)"
+        },
+        {
+            "facet_id": 12313,
+            "occurrence": 1,
+            "value": "Foscolo, Ugo (1778-1827)"
+        },
+        {
+            "facet_id": 13067,
+            "occurrence": 1,
+            "value": "Oettinger, Eduard Maria (1808-1872)"
+        },
+        {
+            "facet_id": 15295,
+            "occurrence": 1,
+            "value": "Schmidt, Karl"
+        },
+        {
+            "facet_id": 21509,
+            "occurrence": 1,
+            "value": "Richter, Johann Georg"
+        },
+        {
+            "facet_id": 25137,
+            "occurrence": 1,
+            "value": "Napoléon <I., Frankreich, Kaiser> (1769-1821)"
+        },
+        {
+            "facet_id": 26748,
+            "occurrence": 1,
+            "value": "Reinhard, Franz Volkmar (1753-1812)"
+        },
+        {
+            "facet_id": 26821,
+            "occurrence": 1,
+            "value": "Schultze, Johann Karl Ludwig"
+        }
+    ]
+}

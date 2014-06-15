@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_facet_id": 2295,
+    "affiliate_facet": "Reusner",
+    "occurrence": 549,
+    "affiliates": [
+        {
+            "facet_id": 2295,
+            "occurrence": 601,
+            "value": "Stadt Mainz"
+        },
+        {
+            "facet_id": 11315,
+            "occurrence": 2,
+            "value": "Schmidt, Johann"
+        },
+        {
+            "facet_id": 22881,
+            "occurrence": 2,
+            "value": "Jäger, Johann"
+        },
+        {
+            "facet_id": 131830,
+            "occurrence": 2,
+            "value": "Zeidlmayr, Oswald"
+        },
+        {
+            "facet_id": 150303,
+            "occurrence": 2,
+            "value": "Christ, Agnes"
+        },
+        {
+            "facet_id": 150305,
+            "occurrence": 2,
+            "value": "Lohe, Johannes von"
+        },
+        {
+            "facet_id": 229346,
+            "occurrence": 2,
+            "value": "Le Pourceau, Jeanne"
+        },
+        {
+            "facet_id": 294821,
+            "occurrence": 2,
+            "value": "Dohms, Johann Theodor"
+        },
+        {
+            "facet_id": 432875,
+            "occurrence": 2,
+            "value": "Haun, Simon"
+        },
+        {
+            "facet_id": 513822,
+            "occurrence": 2,
+            "value": "Hundt von Saulheim, Adolf"
+        },
+        {
+            "facet_id": 515029,
+            "occurrence": 2,
+            "value": "Johann"
+        },
+        {
+            "facet_id": 819232,
+            "occurrence": 2,
+            "value": "Mantel, Johann Kaspar"
+        },
+        {
+            "facet_id": 3754,
+            "occurrence": 1,
+            "value": "Baur, Hans"
+        },
+        {
+            "facet_id": 4525,
+            "occurrence": 1,
+            "value": "Schwank, Johann Konrad"
+        },
+        {
+            "facet_id": 7671,
+            "occurrence": 1,
+            "value": "Michael"
+        },
+        {
+            "facet_id": 10214,
+            "occurrence": 1,
+            "value": "Michel, Johann"
+        },
+        {
+            "facet_id": 11210,
+            "occurrence": 1,
+            "value": "Heffner, Hans Peter"
+        },
+        {
+            "facet_id": 11269,
+            "occurrence": 1,
+            "value": "Schmitt, Michael"
+        },
+        {
+            "facet_id": 12450,
+            "occurrence": 1,
+            "value": "Leubelfing, Johan Christoph v. <Pfleger>"
+        },
+        {
+            "facet_id": 12451,
+            "occurrence": 1,
+            "value": "Löeßl, Michael"
+        },
+        {
+            "facet_id": 16662,
+            "occurrence": 1,
+            "value": "Wagner, Georg"
+        },
+        {
+            "facet_id": 20364,
+            "occurrence": 1,
+            "value": "Vogel, Michael"
+        },
+        {
+            "facet_id": 21120,
+            "occurrence": 1,
+            "value": "Hoffmann, Johann"
+        },
+        {
+            "facet_id": 23889,
+            "occurrence": 1,
+            "value": "Schott, Johann"
+        },
+        {
+            "facet_id": 24131,
+            "occurrence": 1,
+            "value": "Schmidt, Christoph"
+        },
+        {
+            "facet_id": 26836,
+            "occurrence": 1,
+            "value": "Müller, Georg Andreas"
+        },
+        {
+            "facet_id": 27162,
+            "occurrence": 1,
+            "value": "Claudy, Nikolaus"
+        },
+        {
+            "facet_id": 31268,
+            "occurrence": 1,
+            "value": "Schmidt, Hans"
+        },
+        {
+            "facet_id": 33100,
+            "occurrence": 1,
+            "value": "Meyer, Sebastian"
+        },
+        {
+            "facet_id": 41227,
+            "occurrence": 1,
+            "value": "Kilbert, Johann Adam"
+        },
+        {
+            "facet_id": 49357,
+            "occurrence": 1,
+            "value": "Lambert, Johann Paul"
+        },
+        {
+            "facet_id": 49755,
+            "occurrence": 1,
+            "value": "Bertling, Johann"
+        },
+        {
+            "facet_id": 53341,
+            "occurrence": 1,
+            "value": "Ebert, Johann Heinrich"
+        },
+        {
+            "facet_id": 53342,
+            "occurrence": 1,
+            "value": "Neyß, Erhard"
+        },
+        {
+            "facet_id": 57757,
+            "occurrence": 1,
+            "value": "Nagel, Hans"
+        },
+        {
+            "facet_id": 60376,
+            "occurrence": 1,
+            "value": "Berner, Philipp, Jakob"
+        },
+        {
+            "facet_id": 60377,
+            "occurrence": 1,
+            "value": "Mas, Maria Magdalena"
+        },
+        {
+            "facet_id": 68562,
+            "occurrence": 1,
+            "value": "Arnoldt, Anton"
+        },
+        {
+            "facet_id": 71293,
+            "occurrence": 1,
+            "value": "Müller, Paul"
+        },
+        {
+            "facet_id": 71744,
+            "occurrence": 1,
+            "value": "Stahl, Johann"
+        },
+        {
+            "facet_id": 71847,
+            "occurrence": 1,
+            "value": "Khnisel, Martin"
+        },
+        {
+            "facet_id": 71848,
+            "occurrence": 1,
+            "value": "Veser, Melchior"
+        },
+        {
+            "facet_id": 72565,
+            "occurrence": 1,
+            "value": "Schweitzer, Johann"
+        },
+        {
+            "facet_id": 73163,
+            "occurrence": 1,
+            "value": "Baumann, Andreas"
+        },
+        {
+            "facet_id": 73274,
+            "occurrence": 1,
+            "value": "Eger, Georg"
+        },
+        {
+            "facet_id": 73459,
+            "occurrence": 1,
+            "value": "Barthol, Andreas"
+        },
+        {
+            "facet_id": 76781,
+            "occurrence": 1,
+            "value": "Bardtscher, Adam"
+        },
+        {
+            "facet_id": 77216,
+            "occurrence": 1,
+            "value": "Martini, Johann"
+        },
+        {
+            "facet_id": 77225,
+            "occurrence": 1,
+            "value": "Conrad, Christian"
+        },
+        {
+            "facet_id": 77394,
+            "occurrence": 1,
+            "value": "Meyer, Issak"
+        },
+        {
+            "facet_id": 77395,
+            "occurrence": 1,
+            "value": "Valberz, Anna"
+        },
+        {
+            "facet_id": 78897,
+            "occurrence": 1,
+            "value": "Becker, Valentin"
+        },
+        {
+            "facet_id": 79124,
+            "occurrence": 1,
+            "value": "Mayer, Friedrich"
+        },
+        {
+            "facet_id": 84950,
+            "occurrence": 1,
+            "value": "Plentz, Johann"
+        },
+        {
+            "facet_id": 92928,
+            "occurrence": 1,
+            "value": "Weiß, Johann"
+        },
+        {
+            "facet_id": 96341,
+            "occurrence": 1,
+            "value": "Stein, Matthias"
+        },
+        {
+            "facet_id": 99362,
+            "occurrence": 1,
+            "value": "Joris, Peter"
+        },
+        {
+            "facet_id": 99398,
+            "occurrence": 1,
+            "value": "Urban, Hans"
+        },
+        {
+            "facet_id": 102221,
+            "occurrence": 1,
+            "value": "Schmit, Peter"
+        },
+        {
+            "facet_id": 103202,
+            "occurrence": 1,
+            "value": "Lamb, Johann"
+        },
+        {
+            "facet_id": 103522,
+            "occurrence": 1,
+            "value": "Todtenbier, Friedrich"
+        },
+        {
+            "facet_id": 105832,
+            "occurrence": 1,
+            "value": "Freytag, Wolfgang"
+        },
+        {
+            "facet_id": 108009,
+            "occurrence": 1,
+            "value": "Weiß, Thomas"
+        },
+        {
+            "facet_id": 109483,
+            "occurrence": 1,
+            "value": "Rupperts, Anna"
+        },
+        {
+            "facet_id": 110881,
+            "occurrence": 1,
+            "value": "Fetzer, Michael"
+        },
+        {
+            "facet_id": 113456,
+            "occurrence": 1,
+            "value": "Kesser, Johann"
+        },
+        {
+            "facet_id": 117998,
+            "occurrence": 1,
+            "value": "Klein, Ludwig"
+        },
+        {
+            "facet_id": 119368,
+            "occurrence": 1,
+            "value": "Clemens, Anton Friedrich"
+        },
+        {
+            "facet_id": 119369,
+            "occurrence": 1,
+            "value": "Mesenich, Johanna"
+        },
+        {
+            "facet_id": 120412,
+            "occurrence": 1,
+            "value": "Dietz, Johann Ludwig von Weidenberg auf Wildenau"
+        },
+        {
+            "facet_id": 120413,
+            "occurrence": 1,
+            "value": "Klein, Andreas"
+        },
+        {
+            "facet_id": 122125,
+            "occurrence": 1,
+            "value": "Kempf, Johann"
+        },
+        {
+            "facet_id": 122305,
+            "occurrence": 1,
+            "value": "Putzweiler, Johann"
+        },
+        {
+            "facet_id": 123568,
+            "occurrence": 1,
+            "value": "Hartmann, Johann"
+        },
+        {
+            "facet_id": 124114,
+            "occurrence": 1,
+            "value": "Wülst, Hans Georg"
+        },
+        {
+            "facet_id": 125047,
+            "occurrence": 1,
+            "value": "Kolb, Johann"
+        },
+        {
+            "facet_id": 127162,
+            "occurrence": 1,
+            "value": "Becker, Johann"
+        },
+        {
+            "facet_id": 128380,
+            "occurrence": 1,
+            "value": "Groß, Johann"
+        },
+        {
+            "facet_id": 130904,
+            "occurrence": 1,
+            "value": "Gollackhner, Andreas"
+        },
+        {
+            "facet_id": 130905,
+            "occurrence": 1,
+            "value": "Hem, Johann Melchior"
+        },
+        {
+            "facet_id": 131829,
+            "occurrence": 1,
+            "value": "Poldinger, Hans"
+        },
+        {
+            "facet_id": 134639,
+            "occurrence": 1,
+            "value": "Fischer, Lorenz"
+        },
+        {
+            "facet_id": 134819,
+            "occurrence": 1,
+            "value": "Glockner, Anna Barbara"
+        },
+        {
+            "facet_id": 136032,
+            "occurrence": 1,
+            "value": "Lothringen, Herzog von"
+        },
+        {
+            "facet_id": 137236,
+            "occurrence": 1,
+            "value": "Schott, Wilhelm"
+        },
+        {
+            "facet_id": 137358,
+            "occurrence": 1,
+            "value": "Neumann, Abraham"
+        },
+        {
+            "facet_id": 137359,
+            "occurrence": 1,
+            "value": "Neumann, Agnes"
+        },
+        {
+            "facet_id": 137360,
+            "occurrence": 1,
+            "value": "Neumann, Anna Dorothea"
+        },
+        {
+            "facet_id": 139313,
+            "occurrence": 1,
+            "value": "Hellrigel, Maria Elisabeth"
+        },
+        {
+            "facet_id": 140427,
+            "occurrence": 1,
+            "value": "Bauer, Johann"
+        },
+        {
+            "facet_id": 141228,
+            "occurrence": 1,
+            "value": "Stolle, Kaspar"
+        },
+        {
+            "facet_id": 146493,
+            "occurrence": 1,
+            "value": "Hilpert, Johann"
+        },
+        {
+            "facet_id": 148599,
+            "occurrence": 1,
+            "value": "Sigmund, Johann"
+        },
+        {
+            "facet_id": 149571,
+            "occurrence": 1,
+            "value": "Schmidt, Katharina"
+        },
+        {
+            "facet_id": 150304,
+            "occurrence": 1,
+            "value": "Loh, Johannes von"
+        },
+        {
+            "facet_id": 155695,
+            "occurrence": 1,
+            "value": "Friedrich, Johann Jakob"
+        },
+        {
+            "facet_id": 158748,
+            "occurrence": 1,
+            "value": "Müller, Hans Georg"
+        },
+        {
+            "facet_id": 159619,
+            "occurrence": 1,
+            "value": "Schmid, Magdalena"
+        },
+        {
+            "facet_id": 162550,
+            "occurrence": 1,
+            "value": "Eberhardt, Friedrich"
+        },
+        {
+            "facet_id": 164132,
+            "occurrence": 1,
+            "value": "Pütz, Johann"
+        }
+    ]
+}

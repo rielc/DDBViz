@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 8,
+    "time_fct": "time_62100",
+    "affiliate_fct_id": 1827,
+    "affiliate_fct": "Universitätsbibliothek Greifswald",
+    "affiliate_fct_occurrence": 550,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1827,
+            "affiliate_fct": "Zentrale Hochschulbibliothek Lübeck",
+            "affiliate_fct_occurrence": 619
+        },
+        {
+            "affiliate_fct_id": 1828,
+            "affiliate_fct": "Wussow, Ursula Gertrud von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 7741,
+            "affiliate_fct": "Schmidt, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14395,
+            "affiliate_fct": "Hügel, Stefanie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17289,
+            "affiliate_fct": "Wolff, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17505,
+            "affiliate_fct": "Schierholz, Stefanie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26453,
+            "affiliate_fct": "Graf, Iris",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39416,
+            "affiliate_fct": "Schindler, Lisa Angela",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43042,
+            "affiliate_fct": "Rönfeldt, Johanna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44160,
+            "affiliate_fct": "Faasch, Frauke",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45793,
+            "affiliate_fct": "Eisenbeis, Constanze",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54811,
+            "affiliate_fct": "Setter, Cornelia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56953,
+            "affiliate_fct": "Mohrmann, Inga",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 58661,
+            "affiliate_fct": "Kähler, Daniel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59655,
+            "affiliate_fct": "Kirchner, Tina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60115,
+            "affiliate_fct": "Sinn, Mathieu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60356,
+            "affiliate_fct": "Mohammadi-Tabrisi, Ahmad",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61595,
+            "affiliate_fct": "Knopp, Cordula",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73670,
+            "affiliate_fct": "Schoop, Rita",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76220,
+            "affiliate_fct": "Lange, Thomas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76885,
+            "affiliate_fct": "Zessin, Annette",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78203,
+            "affiliate_fct": "Löffler, Stephan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 82223,
+            "affiliate_fct": "Gräwe, Janna Sarah",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 86396,
+            "affiliate_fct": "Sindhuwinata, Nora",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89254,
+            "affiliate_fct": "Brauer, Juliane",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 95655,
+            "affiliate_fct": "Trampe, Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96816,
+            "affiliate_fct": "Nassar, Khaled",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105192,
+            "affiliate_fct": "Otto, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 106341,
+            "affiliate_fct": "Reinhardt, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 108419,
+            "affiliate_fct": "Schulz, Ellen-Andrea",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117906,
+            "affiliate_fct": "Kewitz, Kerstin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123553,
+            "affiliate_fct": "Labusch, Kai",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127196,
+            "affiliate_fct": "Schütt, Jenny",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128224,
+            "affiliate_fct": "Wolkewitz, Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128480,
+            "affiliate_fct": "Rüdel, Benjamin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128794,
+            "affiliate_fct": "Schedel, Fiona",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128874,
+            "affiliate_fct": "Sarrazin, Heike",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130805,
+            "affiliate_fct": "Loeck, Cecilia Victoria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132991,
+            "affiliate_fct": "Hülle, Jan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 137408,
+            "affiliate_fct": "Niggebrügge, Hans Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 141756,
+            "affiliate_fct": "Schorcht, Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153542,
+            "affiliate_fct": "Lunding, Lars Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156995,
+            "affiliate_fct": "Focke, Cornelia Marlene",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 158695,
+            "affiliate_fct": "Philipp, Eva Kristina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160619,
+            "affiliate_fct": "Wolf, Melanie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 162627,
+            "affiliate_fct": "Neumann, Ilka",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 162706,
+            "affiliate_fct": "Esmann, Lars",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168506,
+            "affiliate_fct": "Ott, Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169732,
+            "affiliate_fct": "Haas, Carsten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 170102,
+            "affiliate_fct": "Nagel, Sabine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 170882,
+            "affiliate_fct": "Jungnitz, Claudia Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 177363,
+            "affiliate_fct": "Berndt, Matthias Joachim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 180734,
+            "affiliate_fct": "Buckert, Frederike",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181915,
+            "affiliate_fct": "Kleensang, André",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185150,
+            "affiliate_fct": "Dieker, Patrick",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187503,
+            "affiliate_fct": "Neumann, Jan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189843,
+            "affiliate_fct": "Buck, Eva-Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 190310,
+            "affiliate_fct": "Pöhlsen, Stephan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192674,
+            "affiliate_fct": "Johannes, Amélie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193179,
+            "affiliate_fct": "Jendrysik, Jessica",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197277,
+            "affiliate_fct": "Miesel, Anja",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197941,
+            "affiliate_fct": "Theben, Juliane",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204471,
+            "affiliate_fct": "Michel, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207098,
+            "affiliate_fct": "Zhu, Yiping",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207780,
+            "affiliate_fct": "Landeghem, Thomas van",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 208919,
+            "affiliate_fct": "Wagner, Isabel Viola",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211200,
+            "affiliate_fct": "Herzberg, Saskia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211824,
+            "affiliate_fct": "Schubert, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218468,
+            "affiliate_fct": "Hampel, Volker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 220030,
+            "affiliate_fct": "Küter, Jan-Dirk",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222189,
+            "affiliate_fct": "Homolka, Susanne",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 225015,
+            "affiliate_fct": "Michel, Sophie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 231290,
+            "affiliate_fct": "Diekelmann, Susanne",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235920,
+            "affiliate_fct": "Evers, Theo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 239950,
+            "affiliate_fct": "Christiansen, Ingo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 240331,
+            "affiliate_fct": "Hering, Michael Patrick",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242144,
+            "affiliate_fct": "Krieger, Anna-Saskia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 246272,
+            "affiliate_fct": "Wilhelm, Lars",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 247677,
+            "affiliate_fct": "Hertel, Susanne",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 248865,
+            "affiliate_fct": "Abdulazim, Ahmed Nabil",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 249934,
+            "affiliate_fct": "Böhme, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 251102,
+            "affiliate_fct": "Haker, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255034,
+            "affiliate_fct": "Forchheim, Sonja",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255441,
+            "affiliate_fct": "Colmorgen, Caterina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257646,
+            "affiliate_fct": "Vig, Eleonora",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259209,
+            "affiliate_fct": "Schulz, Diana",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 262750,
+            "affiliate_fct": "Roessler, Florian C.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 262838,
+            "affiliate_fct": "L'Homme de Courbière, Felix de",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270113,
+            "affiliate_fct": "Meyer, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270268,
+            "affiliate_fct": "Lindenberg, Ann-Sophie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273761,
+            "affiliate_fct": "Frank, Nora Philine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274946,
+            "affiliate_fct": "Wissel, Daniela",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278058,
+            "affiliate_fct": "Ludwig, Janna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 279162,
+            "affiliate_fct": "Lipphardt, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 282420,
+            "affiliate_fct": "Parschke, Patrick Benjamin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 284868,
+            "affiliate_fct": "Langschwager, Nicole",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285381,
+            "affiliate_fct": "Knese, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 287341,
+            "affiliate_fct": "Banczyk, David Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 292914,
+            "affiliate_fct": "Coley, Mortimer Frederick",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293971,
+            "affiliate_fct": "Jonas, Beate",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

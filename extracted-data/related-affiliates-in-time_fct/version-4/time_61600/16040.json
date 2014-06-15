@@ -1,0 +1,434 @@
+{
+    "time_fct_id": 24,
+    "time_fct": "time_61600",
+    "affiliate_fct_id": 16040,
+    "affiliate_fct": "Paracelsus (1493-1541)",
+    "affiliate_fct_occurrence": 285,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 16040,
+            "affiliate_fct": "Paracelsus (1493-1541)",
+            "affiliate_fct_occurrence": 285
+        },
+        {
+            "affiliate_fct_id": 48737,
+            "affiliate_fct": "Bodenstein, Adam von (1528-1577)",
+            "affiliate_fct_occurrence": 53
+        },
+        {
+            "affiliate_fct_id": 12047,
+            "affiliate_fct": "Perna",
+            "affiliate_fct_occurrence": 39
+        },
+        {
+            "affiliate_fct_id": 38234,
+            "affiliate_fct": "Dorn, Gerhard (ca. 16.Jh.)",
+            "affiliate_fct_occurrence": 37
+        },
+        {
+            "affiliate_fct_id": 21671,
+            "affiliate_fct": "Waldkirch",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 74897,
+            "affiliate_fct": "Huser, Johannes",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 914,
+            "affiliate_fct": "Müller",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 58877,
+            "affiliate_fct": "Toxites, Michael (1515-1581)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 16039,
+            "affiliate_fct": "Byrckmannus",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 31179,
+            "affiliate_fct": "Steyner",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 48736,
+            "affiliate_fct": "[Perna]",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 73625,
+            "affiliate_fct": "[Rab]",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 124227,
+            "affiliate_fct": "Byrckman",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 22185,
+            "affiliate_fct": "Albertus, Johannes",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 69272,
+            "affiliate_fct": "Egen[olff]",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 167041,
+            "affiliate_fct": "Trismosin, Salomon (ca. Ende 15. Jh./Anfang 16.Jh.)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 170433,
+            "affiliate_fct": "Korndörffer, Bartholomaeus (ca. Anfang 16. Jh.)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 173754,
+            "affiliate_fct": "Forberger, Georg (1543-1604)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 9196,
+            "affiliate_fct": "Mylius",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 14547,
+            "affiliate_fct": "Berg",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 23860,
+            "affiliate_fct": "Rihel",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 237861,
+            "affiliate_fct": "Morbachus, Achatius",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 10081,
+            "affiliate_fct": "Egenolff",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 25932,
+            "affiliate_fct": "Jobin",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 31853,
+            "affiliate_fct": "Apiarius",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 37379,
+            "affiliate_fct": "Gohory, Jacques (1520-1576)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 38947,
+            "affiliate_fct": "Bathodius, Lucas",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 199464,
+            "affiliate_fct": "Messerschmidt",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 360579,
+            "affiliate_fct": "Valentius <de Retiis>",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3898,
+            "affiliate_fct": "Hippocrates (v460-v370)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4608,
+            "affiliate_fct": "Willer",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4979,
+            "affiliate_fct": "[Egenolff]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 27064,
+            "affiliate_fct": "Lullus, Raimundus (1232-1315)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 52484,
+            "affiliate_fct": "Rovillius",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 69544,
+            "affiliate_fct": "Vischer",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 128283,
+            "affiliate_fct": "[Gross]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 175616,
+            "affiliate_fct": "(Apiarius)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 382752,
+            "affiliate_fct": "[Apiarius]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1172,
+            "affiliate_fct": "Antonius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13649,
+            "affiliate_fct": "Hollandus, Johan Isaac (ca. lebte vermutlich um 1425)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13650,
+            "affiliate_fct": "Phaedro, Georgius (ca. 1560/70)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 14367,
+            "affiliate_fct": "Wechelus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 19139,
+            "affiliate_fct": "Fischart, Johann (1546-1590)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 30140,
+            "affiliate_fct": "Froschoverus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 35603,
+            "affiliate_fct": "Burger",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63604,
+            "affiliate_fct": "Wyriot",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 71819,
+            "affiliate_fct": "Feyerabendt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81313,
+            "affiliate_fct": "Lertout",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 108505,
+            "affiliate_fct": "Iobinus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 114861,
+            "affiliate_fct": "Aretius, Benedictus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 121435,
+            "affiliate_fct": "Penot, Bernard Georges (1520/30-1617)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 211150,
+            "affiliate_fct": "Alpinus, Marcus Tatius (1509-1562)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 240289,
+            "affiliate_fct": "(Vierendunck)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 240290,
+            "affiliate_fct": "Floeter, Balthasar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 310251,
+            "affiliate_fct": "Du Puys",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 343846,
+            "affiliate_fct": "[Perna])",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 419227,
+            "affiliate_fct": "Stemler, Levin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 432754,
+            "affiliate_fct": "Officina Pernaea",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 447760,
+            "affiliate_fct": "Dalhemius, Josquin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 533394,
+            "affiliate_fct": "Wirzbieta",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 533395,
+            "affiliate_fct": "Macer, Gregorius J.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 533396,
+            "affiliate_fct": "Schröther, Adam",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 789145,
+            "affiliate_fct": "I. P. S. M. S.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 874675,
+            "affiliate_fct": "Beyer, Albert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2896,
+            "affiliate_fct": "Mayer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4063,
+            "affiliate_fct": "Feyerabend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4064,
+            "affiliate_fct": "(Lechler)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6204,
+            "affiliate_fct": "Horst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 7459,
+            "affiliate_fct": "Schmid",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21347,
+            "affiliate_fct": "Bertram",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28224,
+            "affiliate_fct": "Henricpetri",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41249,
+            "affiliate_fct": "Scaliger, Julius Caesar (1484-1558)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44215,
+            "affiliate_fct": "Emmelius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44869,
+            "affiliate_fct": "(Peypus)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54752,
+            "affiliate_fct": "[Jobin]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72491,
+            "affiliate_fct": "Peypus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 106382,
+            "affiliate_fct": "Egen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 121509,
+            "affiliate_fct": "Birckman",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 124792,
+            "affiliate_fct": "Greiff, Sebastian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169194,
+            "affiliate_fct": "Gülfferich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 221693,
+            "affiliate_fct": "Varnier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 450047,
+            "affiliate_fct": "Wittel)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 484471,
+            "affiliate_fct": "Birckmanni Erben Vierendunck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 981564,
+            "affiliate_fct": "Gennep)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1155946,
+            "affiliate_fct": "Feyrabend vnd Hüter",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

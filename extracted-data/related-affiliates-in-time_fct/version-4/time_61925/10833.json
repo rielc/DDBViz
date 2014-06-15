@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_fct_id": 10833,
+    "affiliate_fct": "Fürstl. Rentamt Breuberg",
+    "affiliate_fct_occurrence": 432,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 10833,
+            "affiliate_fct": "Fürstl. Rentamt Breuberg",
+            "affiliate_fct_occurrence": 432
+        },
+        {
+            "affiliate_fct_id": 40413,
+            "affiliate_fct": "Elbert, Georg Wilhelm, Müller",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 338327,
+            "affiliate_fct": "Föppl, -, Rentamtmann",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 265110,
+            "affiliate_fct": "Löwenstein-Wertheim-Rosenberg, Fürst zu",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 39348,
+            "affiliate_fct": "Lautz, Friedrich, Gutsverwalter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 379541,
+            "affiliate_fct": "Wiesmann, Adam, Revierverwalter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 552940,
+            "affiliate_fct": "Eckert, Joseph, Förster",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 71585,
+            "affiliate_fct": "Oberle, [Wilhelm], Verwalter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 155949,
+            "affiliate_fct": "Bachert, Heinrich, Förster",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 195360,
+            "affiliate_fct": "Neubauer, Sebastian, Schullehrer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 224331,
+            "affiliate_fct": "Sauer, Philipp",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 278538,
+            "affiliate_fct": "Ostner, -, Forstmeister",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 320676,
+            "affiliate_fct": "Ostner, -, Forstmeister [jun.]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 356427,
+            "affiliate_fct": "Preiß, -, Oberförster",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 401576,
+            "affiliate_fct": "Camesasca, [August], Rentamtmann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 432491,
+            "affiliate_fct": "Linke, -, Domänenrat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 520745,
+            "affiliate_fct": "Bachert, Wenzel, Wiesenaufseher",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 537795,
+            "affiliate_fct": "Daum, Leonhard, Erbpächter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 577138,
+            "affiliate_fct": "Fleckenstein, -, Bauaufseher",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 579586,
+            "affiliate_fct": "Oberle, -, Wirtschaftsverwalter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 645213,
+            "affiliate_fct": "Nees, -, Geometer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 954135,
+            "affiliate_fct": "Merkel, -, Oberknecht",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28139,
+            "affiliate_fct": "Storck, Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42216,
+            "affiliate_fct": "Pilger, -, Schreiner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43906,
+            "affiliate_fct": "Haas VI, Peter, Erbeständer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43907,
+            "affiliate_fct": "Meier I, Georg, Erbbeständer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43908,
+            "affiliate_fct": "Müller III, Georg, Erbbeständer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45822,
+            "affiliate_fct": "Link II, Joseph, Mühlknecht",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51109,
+            "affiliate_fct": "Brenner, Nicolaus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62597,
+            "affiliate_fct": "Schwarz, H.-J., Spiritus- und Likörfabrikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 66752,
+            "affiliate_fct": "Gruber, -, Pächter vom Wolfer Hof in Rimhorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69407,
+            "affiliate_fct": "Munz, Georg, Rentamtsgehilfe, Speicherverwalter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73127,
+            "affiliate_fct": "König, Peter, Nieder-Kinzig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96517,
+            "affiliate_fct": "Fasel, Michael, Nieder-Kinzig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117228,
+            "affiliate_fct": "Braun, Johannes, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117229,
+            "affiliate_fct": "Camesasca, A., Rentamtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117230,
+            "affiliate_fct": "Haas, Peter IV, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117231,
+            "affiliate_fct": "Haas, PeterII, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127097,
+            "affiliate_fct": "Gieles, Johann Alois, Schulvikar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127098,
+            "affiliate_fct": "Krug, Georg Joseph, Schullehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127099,
+            "affiliate_fct": "Reymann, Lorenz, Schullehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127410,
+            "affiliate_fct": "Walter, Wilhelm, Pfarrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131902,
+            "affiliate_fct": "Niepeiller, -, Forstkassier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133555,
+            "affiliate_fct": "Ebert, Adam, Reviergehilfe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133556,
+            "affiliate_fct": "Hausmann, Wilhelm, Reviergehilfe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133557,
+            "affiliate_fct": "Hottenroth, -, Förster",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133558,
+            "affiliate_fct": "Nothling, -, Hofjäger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133559,
+            "affiliate_fct": "Siebenpfund, -, Hofjäger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133560,
+            "affiliate_fct": "Stelz, -, Unterförster",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 133561,
+            "affiliate_fct": "Wörner, -, Förster",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152271,
+            "affiliate_fct": "Steltmann, -, Revierförster",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153648,
+            "affiliate_fct": "Jordan, -, Maschinenbaumeister aus Darmstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 166014,
+            "affiliate_fct": "Friedrich, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173753,
+            "affiliate_fct": "Preiß, Georg, Revierförster aus Raibach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 177083,
+            "affiliate_fct": "Grohe, -, Rentamtsaktuar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 188420,
+            "affiliate_fct": "Lust, Adam, Grumbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 188421,
+            "affiliate_fct": "Lust, Ludwig, Müller in Mömling-Grumbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 195359,
+            "affiliate_fct": "Kraft, Heinrich, Schulleher",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212018,
+            "affiliate_fct": "Kissebert, Friedrich, Nieder-Kinzig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 220539,
+            "affiliate_fct": "Stelz, Leonhard, Rentamtsgehilfe, Speicherverwalter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 220540,
+            "affiliate_fct": "Wascheroh, Johannes, Fruchtmesser, Mahnbote",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222152,
+            "affiliate_fct": "Löwenstein-Wertheim-Rosenberg, Carl Fürst zu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224328,
+            "affiliate_fct": "Daum, Leonhard, Rimhorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224329,
+            "affiliate_fct": "Keller, -, Lehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224330,
+            "affiliate_fct": "Reisinger, Phillipp, Rimhorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224332,
+            "affiliate_fct": "Steiger, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259449,
+            "affiliate_fct": "Stappel, Georg, Schuhmacher in Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 264772,
+            "affiliate_fct": "Zipperich, Johann Joseph, Müller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 269952,
+            "affiliate_fct": "Neubauer, Johannes, Schullehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 269953,
+            "affiliate_fct": "Schneider, Wilhelm, Schullehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 281962,
+            "affiliate_fct": "Niepeiller, -, Forstkassier, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288028,
+            "affiliate_fct": "Hartmann, Philipp, Lehrer in Klein-Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288029,
+            "affiliate_fct": "Heß, Johann Georg, Klein-Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288030,
+            "affiliate_fct": "Kling,Johannes, Lehrer in Klein-Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 301687,
+            "affiliate_fct": "Vömel, -, Wirtschaftspraktikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310450,
+            "affiliate_fct": "Dingeldey,-, Kammerrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310451,
+            "affiliate_fct": "Hinkeldey, Hieronimus Heinrich, Regierungs- und Kammerpräsident",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310452,
+            "affiliate_fct": "Jagemann von, -, Domänenkanzlei-Direktor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 316048,
+            "affiliate_fct": "Schäfer, Adam, Rimhorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 338326,
+            "affiliate_fct": "Danz, Anton, Kleinzimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 349161,
+            "affiliate_fct": "Muntermann, -, Forstschütze",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 356428,
+            "affiliate_fct": "Preiß, Johann Georg, Forstgehilfe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 368887,
+            "affiliate_fct": "Jagemann von, -, Geheimrat, Justizrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 369149,
+            "affiliate_fct": "Daum, Georg Friedrich, Gutspächter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391662,
+            "affiliate_fct": "Saal, Georg, Ober-Klingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391663,
+            "affiliate_fct": "Stock VII, Adam, Ober-Klingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401575,
+            "affiliate_fct": "Amrhein, -, Lehrer, Kanzlist",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 410649,
+            "affiliate_fct": "Wascheroh, -, Wiesenaufseher",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 416896,
+            "affiliate_fct": "Wolf, Michael, Müller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426309,
+            "affiliate_fct": "Gärtner, -, Förster in Mömlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426310,
+            "affiliate_fct": "Heiter jun., Wilhelm, Forstschütze in Hainstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426311,
+            "affiliate_fct": "Heiter sen., -, Jäger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426312,
+            "affiliate_fct": "Hottenroth, -, Jäger in Hohenstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 432492,
+            "affiliate_fct": "Lippert, Georg, Schmiedemeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 432493,
+            "affiliate_fct": "Lohnes, Leonhard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 434341,
+            "affiliate_fct": "Erbach-Schönberg, Graf zu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 434342,
+            "affiliate_fct": "Fleck, -, Bürgermeister von Nieder-Kinzig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 437682,
+            "affiliate_fct": "Camesasca, Witwe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 437683,
+            "affiliate_fct": "Camesasca,[August], Rentamtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 468605,
+            "affiliate_fct": "Schnellbacher, Adam",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

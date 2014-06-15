@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_facet_id": 10585,
+    "affiliate_facet": "Hölderlin, Friedrich (1770 - 1843)",
+    "occurrence": 256,
+    "affiliates": [
+        {
+            "facet_id": 10585,
+            "occurrence": 269,
+            "value": "Schwickert"
+        },
+        {
+            "facet_id": 24077,
+            "occurrence": 16,
+            "value": "Forkel, Johann Nikolaus (1749-1818)"
+        },
+        {
+            "facet_id": 51795,
+            "occurrence": 16,
+            "value": "Gehler, Johann Samuel Traugott (1751-1795)"
+        },
+        {
+            "facet_id": 45585,
+            "occurrence": 15,
+            "value": "Schröckh, Johann Matthias (1733-1808)"
+        },
+        {
+            "facet_id": 5266,
+            "occurrence": 10,
+            "value": "Leipzig"
+        },
+        {
+            "facet_id": 5762,
+            "occurrence": 10,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 8,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 21865,
+            "occurrence": 8,
+            "value": "Ernesti, Johann Heinrich Martin (1755-1836)"
+        },
+        {
+            "facet_id": 138432,
+            "occurrence": 8,
+            "value": "Hirsching, Friedrich Carl Gottlob (1762-1800)"
+        },
+        {
+            "facet_id": 96542,
+            "occurrence": 7,
+            "value": "Gehler, Johann Samuel Traugott"
+        },
+        {
+            "facet_id": 507511,
+            "occurrence": 6,
+            "value": "Müller, Johann Traugott (1730-1794)"
+        },
+        {
+            "facet_id": 868,
+            "occurrence": 5,
+            "value": "Klemens <XIV., Papst> (1705-1774)"
+        },
+        {
+            "facet_id": 32941,
+            "occurrence": 5,
+            "value": "Gilbert, Ludwig Wilhelm"
+        },
+        {
+            "facet_id": 91926,
+            "occurrence": 5,
+            "value": "Jagemann, Christian Joseph (1735-1804)"
+        },
+        {
+            "facet_id": 100677,
+            "occurrence": 5,
+            "value": "Morus, Samuel Friedrich Nathanael (1736-1792)"
+        },
+        {
+            "facet_id": 120267,
+            "occurrence": 5,
+            "value": "Gusta, Francesco (1744-1816)"
+        },
+        {
+            "facet_id": 160213,
+            "occurrence": 5,
+            "value": "Moll, Christian Hieronymus (1750-)"
+        },
+        {
+            "facet_id": 174705,
+            "occurrence": 5,
+            "value": "Türk, Daniel Gottlob (1750-1813)"
+        },
+        {
+            "facet_id": 6356,
+            "occurrence": 4,
+            "value": "Adelung, Johann Christoph (1732-1806)"
+        },
+        {
+            "facet_id": 10315,
+            "occurrence": 4,
+            "value": "Xenophon (v. 430-v. 355)"
+        },
+        {
+            "facet_id": 11946,
+            "occurrence": 4,
+            "value": "Beck, Christian Daniel (1757-1832)"
+        },
+        {
+            "facet_id": 18452,
+            "occurrence": 4,
+            "value": "Fabri, Johann Ernst (1755-1825)"
+        },
+        {
+            "facet_id": 23202,
+            "occurrence": 4,
+            "value": "Johnson, Samuel"
+        },
+        {
+            "facet_id": 23459,
+            "occurrence": 4,
+            "value": "Goldsmith, Oliver (1728-1774)"
+        },
+        {
+            "facet_id": 71068,
+            "occurrence": 4,
+            "value": "Russell, William (1741-1793)"
+        },
+        {
+            "facet_id": 111428,
+            "occurrence": 4,
+            "value": "Bach, Carl Philipp Emanuel (1714-1788)"
+        },
+        {
+            "facet_id": 188932,
+            "occurrence": 4,
+            "value": "Platner, Ernst (1744-1818)"
+        },
+        {
+            "facet_id": 680487,
+            "occurrence": 4,
+            "value": "Lüdicke, August Friedrich (1748-1822)"
+        },
+        {
+            "facet_id": 4539,
+            "occurrence": 3,
+            "value": "Sprengel, Kurt (1766-1833)"
+        },
+        {
+            "facet_id": 24049,
+            "occurrence": 3,
+            "value": "Estienne, Henri (1531-1598)"
+        },
+        {
+            "facet_id": 24076,
+            "occurrence": 3,
+            "value": "Arteaga, Esteban de (1747-1799)"
+        },
+        {
+            "facet_id": 44735,
+            "occurrence": 3,
+            "value": "Lindemann, Hermann Wilhelm (1760-)"
+        },
+        {
+            "facet_id": 96169,
+            "occurrence": 3,
+            "value": "Klein, Ernst Ferdinand (1744-1810)"
+        },
+        {
+            "facet_id": 101464,
+            "occurrence": 3,
+            "value": "Hasche, Johann Christian (1744-1827)"
+        },
+        {
+            "facet_id": 107468,
+            "occurrence": 3,
+            "value": "Herodianus <Historicus> (ca. 2./3. Jh.)"
+        },
+        {
+            "facet_id": 118995,
+            "occurrence": 3,
+            "value": "Irmisch, Gottlieb Wilhelm (1732-1794)"
+        },
+        {
+            "facet_id": 141258,
+            "occurrence": 3,
+            "value": "Nicholson, William"
+        },
+        {
+            "facet_id": 169015,
+            "occurrence": 3,
+            "value": "Voigt, Christian Friedrich Traugott (1770-1814)"
+        },
+        {
+            "facet_id": 292464,
+            "occurrence": 3,
+            "value": "Fischer, Heinrich L."
+        },
+        {
+            "facet_id": 571353,
+            "occurrence": 3,
+            "value": "Knoch, August Wilhelm"
+        },
+        {
+            "facet_id": 777686,
+            "occurrence": 3,
+            "value": "Neide, Johann Georg Christoph"
+        },
+        {
+            "facet_id": 874478,
+            "occurrence": 3,
+            "value": "Hervey, Frederic"
+        },
+        {
+            "facet_id": 4138,
+            "occurrence": 2,
+            "value": "Terentius Afer, Publius (v195-v159)"
+        },
+        {
+            "facet_id": 12072,
+            "occurrence": 2,
+            "value": "Touchy, Ferdinand Christian (1736-1808)"
+        },
+        {
+            "facet_id": 18050,
+            "occurrence": 2,
+            "value": "Hezel, Wilhelm Friedrich (1754-1824)"
+        },
+        {
+            "facet_id": 44273,
+            "occurrence": 2,
+            "value": "Watson, Richard (1737-1816)"
+        },
+        {
+            "facet_id": 44274,
+            "occurrence": 2,
+            "value": "Gallisch, Friedrich Andreas (1754-1783)"
+        },
+        {
+            "facet_id": 48651,
+            "occurrence": 2,
+            "value": "Morus, Samuel Friedrich Nathanael"
+        },
+        {
+            "facet_id": 57986,
+            "occurrence": 2,
+            "value": "Fischer, Friedrich Christoph Jonathan (1750-1797)"
+        },
+        {
+            "facet_id": 87522,
+            "occurrence": 2,
+            "value": "Wünsch, Christian Ernst (1744-1828)"
+        },
+        {
+            "facet_id": 99470,
+            "occurrence": 2,
+            "value": "Davies, Thomas (1712-1785)"
+        },
+        {
+            "facet_id": 99471,
+            "occurrence": 2,
+            "value": "Garrick, David (1717-1779)"
+        },
+        {
+            "facet_id": 105176,
+            "occurrence": 2,
+            "value": "Benda, Georg (1722-1795)"
+        },
+        {
+            "facet_id": 120283,
+            "occurrence": 2,
+            "value": "Bernstein, Johann Gottlob (1747-1835)"
+        },
+        {
+            "facet_id": 142582,
+            "occurrence": 2,
+            "value": "Bailly, Jean Sylvain (1736-1793)"
+        },
+        {
+            "facet_id": 156252,
+            "occurrence": 2,
+            "value": "Hahnemann, Samuel (1755-1843)"
+        },
+        {
+            "facet_id": 158295,
+            "occurrence": 2,
+            "value": "Matthäi, Christian Friedrich von (1744-1811)"
+        },
+        {
+            "facet_id": 243233,
+            "occurrence": 2,
+            "value": "Haas, Johann Gottfried (1737-1815)"
+        },
+        {
+            "facet_id": 247741,
+            "occurrence": 2,
+            "value": "Verfasser ; Hemmerde und Schwetschke"
+        },
+        {
+            "facet_id": 294658,
+            "occurrence": 2,
+            "value": "Vollbeding, Johann Christoph (1757-)"
+        },
+        {
+            "facet_id": 301594,
+            "occurrence": 2,
+            "value": "Voigt, Gottfried Christian (1740-1791)"
+        },
+        {
+            "facet_id": 311771,
+            "occurrence": 2,
+            "value": "Leibnitz, Johann Gottfried"
+        },
+        {
+            "facet_id": 676901,
+            "occurrence": 2,
+            "value": "Cullen, William (1710-1790)"
+        },
+        {
+            "facet_id": 737024,
+            "occurrence": 2,
+            "value": "Barneveld, Willem van"
+        },
+        {
+            "facet_id": 744267,
+            "occurrence": 2,
+            "value": "Neide, Johann G."
+        },
+        {
+            "facet_id": 922644,
+            "occurrence": 2,
+            "value": "Oehlmann, Karl August (1752-1809)"
+        },
+        {
+            "facet_id": 967758,
+            "occurrence": 2,
+            "value": "Anton, Johann Nicolaus (1737-1814)"
+        },
+        {
+            "facet_id": 719,
+            "occurrence": 1,
+            "value": "Ovidius Naso, Publius (ca. 43 v. Chr.-ca. 18)"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 1,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 1574,
+            "occurrence": 1,
+            "value": "Bertholon, Pierre (1741-1800)"
+        },
+        {
+            "facet_id": 6778,
+            "occurrence": 1,
+            "value": "Heynatz, Johann Friedrich (1744-1809)"
+        },
+        {
+            "facet_id": 9338,
+            "occurrence": 1,
+            "value": "Eschenburg, Johann Joachim (1743-1820)"
+        },
+        {
+            "facet_id": 10467,
+            "occurrence": 1,
+            "value": "Plato (v427-v347)"
+        },
+        {
+            "facet_id": 10586,
+            "occurrence": 1,
+            "value": "Grillo, Friedrich (1739-1802)"
+        },
+        {
+            "facet_id": 11717,
+            "occurrence": 1,
+            "value": "Ernesti, Johann August (1707-1781)"
+        },
+        {
+            "facet_id": 14254,
+            "occurrence": 1,
+            "value": "Weigel, Karl Christian Leberecht (1769-1845)"
+        },
+        {
+            "facet_id": 18490,
+            "occurrence": 1,
+            "value": "Toze, Eobald (1715-1789)"
+        },
+        {
+            "facet_id": 18712,
+            "occurrence": 1,
+            "value": "Schlözer, August Ludwig von (1735-1809)"
+        },
+        {
+            "facet_id": 19826,
+            "occurrence": 1,
+            "value": "Ramler, Karl Wilhelm"
+        },
+        {
+            "facet_id": 26877,
+            "occurrence": 1,
+            "value": "Rotermund, Heinrich Wilhelm (1761-1848)"
+        },
+        {
+            "facet_id": 32832,
+            "occurrence": 1,
+            "value": "Epictetus (50-130)"
+        },
+        {
+            "facet_id": 33441,
+            "occurrence": 1,
+            "value": "Flögel, Karl Friedrich (1729-1788)"
+        },
+        {
+            "facet_id": 36955,
+            "occurrence": 1,
+            "value": "Gesner, Johann Matthias (1691-1761)"
+        },
+        {
+            "facet_id": 38299,
+            "occurrence": 1,
+            "value": "Penzel, Abraham Jacob (1749-1819)"
+        },
+        {
+            "facet_id": 42869,
+            "occurrence": 1,
+            "value": "Hecker, August Friedrich"
+        },
+        {
+            "facet_id": 43564,
+            "occurrence": 1,
+            "value": "Gotter, Friedrich Wilhelm (1746-1797)"
+        },
+        {
+            "facet_id": 44161,
+            "occurrence": 1,
+            "value": "Ovidius Naso, Publius"
+        },
+        {
+            "facet_id": 46153,
+            "occurrence": 1,
+            "value": "Plinius Caecilius Secundus, Gaius"
+        },
+        {
+            "facet_id": 47332,
+            "occurrence": 1,
+            "value": "Pfeiffer, Johann Friedrich von (1718-1787)"
+        },
+        {
+            "facet_id": 48652,
+            "occurrence": 1,
+            "value": "Just, Coelestin August"
+        },
+        {
+            "facet_id": 54215,
+            "occurrence": 1,
+            "value": "Cramer, Johann Andreas (1723-1788)"
+        },
+        {
+            "facet_id": 54329,
+            "occurrence": 1,
+            "value": "Gurlitt, Johannes (1754-1827)"
+        },
+        {
+            "facet_id": 58415,
+            "occurrence": 1,
+            "value": "Reiske, Johann Jacob (1716-1774)"
+        },
+        {
+            "facet_id": 59050,
+            "occurrence": 1,
+            "value": "Adams, George"
+        },
+        {
+            "facet_id": 62066,
+            "occurrence": 1,
+            "value": "Tibullus, Albius"
+        },
+        {
+            "facet_id": 62872,
+            "occurrence": 1,
+            "value": "Cavallo, Tiberius (1749-1809)"
+        },
+        {
+            "facet_id": 70024,
+            "occurrence": 1,
+            "value": "Schlüter, Johann Georg Karl"
+        },
+        {
+            "facet_id": 77351,
+            "occurrence": 1,
+            "value": "Monro, Alexander <II.> (1733-1817)"
+        },
+        {
+            "facet_id": 79399,
+            "occurrence": 1,
+            "value": "Bentley, Richard (1662-1742)"
+        },
+        {
+            "facet_id": 79445,
+            "occurrence": 1,
+            "value": "Äsop"
+        }
+    ]
+}

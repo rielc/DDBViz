@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_fct_id": 1353,
+    "affiliate_fct": "VÖ Regierung und Kammer in Freiburg",
+    "affiliate_fct_occurrence": 212,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1353,
+            "affiliate_fct": "VÖ Regierung und Kammer in Freiburg",
+            "affiliate_fct_occurrence": 212
+        },
+        {
+            "affiliate_fct_id": 137625,
+            "affiliate_fct": "Spann,v.,Waldvogt(1786-1802)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 57647,
+            "affiliate_fct": "Himberger,v.,Landschreiber(1784)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1354,
+            "affiliate_fct": "Kilian,Andreas Josias,Zoller(1777)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31785,
+            "affiliate_fct": "Dufner,Joseph,Rotgerber(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44214,
+            "affiliate_fct": "Kilian,Josias(1788-1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61275,
+            "affiliate_fct": "Kilian,Andreas Joseph,Oberzoller(1780-1781)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79495,
+            "affiliate_fct": "Merz,Amtmann(1632-1657)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 82475,
+            "affiliate_fct": "Nopper,Joseph,Jäger(1762-1765)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117615,
+            "affiliate_fct": "Rottenberg,Frh.v.,Chorherr(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128292,
+            "affiliate_fct": "Kirner,Joseph(1766-1786)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129188,
+            "affiliate_fct": "Perola,Gebrüder,Salzfaktoren in Waldshut(1774-1779)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129189,
+            "affiliate_fct": "Ufenheimer,Salzkontrahent(1774-1779)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 136920,
+            "affiliate_fct": "Mesk,Franz Thadäus,Goldschmied(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 148584,
+            "affiliate_fct": "Perola,Rudolf(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160383,
+            "affiliate_fct": "Fischer,Helene,Bärenwirtin(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185838,
+            "affiliate_fct": "Mercy,kaiserlicher Botschafter in Paris(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185839,
+            "affiliate_fct": "Spann,v.,Waldvogt(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185840,
+            "affiliate_fct": "Talleyrand,Gf.v.,Feldmarschall(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 225411,
+            "affiliate_fct": "Kilian,Andreas,Postmeister(1777)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 225412,
+            "affiliate_fct": "Württemberger,Baptist,Posthalter(1777)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 234789,
+            "affiliate_fct": "Gäß,Franz Joseph,Kaplan(1764-1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 234790,
+            "affiliate_fct": "Mader,Dominikus,Kaplan(1764-1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 234791,
+            "affiliate_fct": "Stark,Joseph Anton,Kaplan(1764-1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 234792,
+            "affiliate_fct": "Straubhaar,Franz Joseph,Kaplan(1764-1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255262,
+            "affiliate_fct": "Häffelin,Franz Karl,Spitalschaffner(1780)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258399,
+            "affiliate_fct": "Bayer,Anton(1793)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265794,
+            "affiliate_fct": "Häffelin,Karl,Spitalschaffner(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285830,
+            "affiliate_fct": "Gäß(1790-1791)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289467,
+            "affiliate_fct": "Brentano,Karoline(1788-1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289468,
+            "affiliate_fct": "Nißli,Chorherr(1788-1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 299976,
+            "affiliate_fct": "Kilian,v.; Satzrecht(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 322293,
+            "affiliate_fct": "Häffelin,Franz Karl,Spitalpfleger(1765-1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 322294,
+            "affiliate_fct": "Häffelin,Nepomuk,Spitalpfleger(1765-1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 335571,
+            "affiliate_fct": "Gäng,Josef,Kuchelbach(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 335572,
+            "affiliate_fct": "Jöhlin,Josef,Dogern(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 335573,
+            "affiliate_fct": "Roll,Frh.v.(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 342062,
+            "affiliate_fct": "Hueber,Johann,Eck bei Rickenbach(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 362639,
+            "affiliate_fct": "Probst,Ursus(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 368143,
+            "affiliate_fct": "Dering,Rochus(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 368144,
+            "affiliate_fct": "Gohm,Kanzlist(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 371017,
+            "affiliate_fct": "Schackmin,Frh.v.; Jagd(1778)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381769,
+            "affiliate_fct": "Mösch,Magdalena(1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395526,
+            "affiliate_fct": "Rottenberg,Frh.v.,Dekan(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395966,
+            "affiliate_fct": "Beyer,v.; Amt zu Buchholz(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395967,
+            "affiliate_fct": "Keck,Georg(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395968,
+            "affiliate_fct": "Wahl,Hans Georg,Buchholz(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 416138,
+            "affiliate_fct": "Wittenbach,v.(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423839,
+            "affiliate_fct": "Töller(1781)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 438026,
+            "affiliate_fct": "Beck,Mathias(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 478309,
+            "affiliate_fct": "Gäß(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 507507,
+            "affiliate_fct": "Kirner,Glaskompagnie(1799-1802)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 508279,
+            "affiliate_fct": "Greiffenegg,v. siehe v.Hauser!",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 508280,
+            "affiliate_fct": "Hauser,v.,Frau,geb.v.Greiffenegg; Abzug(1785)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 509280,
+            "affiliate_fct": "Bez,Leonhard,Jäger(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 509281,
+            "affiliate_fct": "Stotzingen,Frh.v.; Schulden(1782)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 518656,
+            "affiliate_fct": "Bröglin,Josef Fridolin(1797)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529582,
+            "affiliate_fct": "Roll,Frh.v.(1790)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 533950,
+            "affiliate_fct": "Roll,Frh.v.; Stiftungen(1797-1803)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 566518,
+            "affiliate_fct": "Brentano,Brüder,Handelsleute(1771-1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 566519,
+            "affiliate_fct": "Lauber,Schiffsmann(1771-1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 566520,
+            "affiliate_fct": "Schneider,Schiffsmann(1771-1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 573684,
+            "affiliate_fct": "Aach,von der,Josef(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618050,
+            "affiliate_fct": "Henzler,v.,Kanzleiverwalter(1784-1785)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 621169,
+            "affiliate_fct": "Vetter,Magdalena(1786-1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 628087,
+            "affiliate_fct": "Kopp,Chorherr in Waldkirch(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630836,
+            "affiliate_fct": "Kilian,Oberzoller(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630837,
+            "affiliate_fct": "Spann,v.,Waldvogt(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630854,
+            "affiliate_fct": "Munch,Andreas,Dogern(1785)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647079,
+            "affiliate_fct": "Schäfler,Ursula(1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647080,
+            "affiliate_fct": "Schill,Joseph(1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647461,
+            "affiliate_fct": "Ergele,Jakob(1778)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 686703,
+            "affiliate_fct": "Mayer,Johannes(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 698159,
+            "affiliate_fct": "Kopp,Baptist,Schuhmacher(1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 711090,
+            "affiliate_fct": "Haberstroh,Andreas,Mühlenbeständer(1794)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 711091,
+            "affiliate_fct": "Kirner,Joseph(1794)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 716773,
+            "affiliate_fct": "Bächle,Josef,Dogern(1794)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 716774,
+            "affiliate_fct": "Bornhäuser,Josef(1794)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 718035,
+            "affiliate_fct": "Kirner,Joseph,Registrator(1779-1780)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 725580,
+            "affiliate_fct": "Mösch,Priester(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 737262,
+            "affiliate_fct": "Gugel,Kanoniker beim Stift Waldkirch(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 737263,
+            "affiliate_fct": "Ringwald,Franz Josef,Priester(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 756334,
+            "affiliate_fct": "Kilian,v.,Oberzoller(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 773602,
+            "affiliate_fct": "Zweyer,Frh.v.; Landschaftssache(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 791004,
+            "affiliate_fct": "Merzler,Josef(1784)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 797746,
+            "affiliate_fct": "Zimmer,Maria Anna(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 804392,
+            "affiliate_fct": "Bonafont,de,Rastatt(1780)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 804393,
+            "affiliate_fct": "Brun,Le,Rastatt(1780)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 804394,
+            "affiliate_fct": "Le Brun,Rastatt(1780)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 820239,
+            "affiliate_fct": "Brunner,Joseph,Chirurg(1796)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 825189,
+            "affiliate_fct": "Straubhaar,Chirurg(1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 847270,
+            "affiliate_fct": "Kilian,v.,Josef,Postmeister(1792)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 859716,
+            "affiliate_fct": "Kilian,v.,Andreas Josias; Zwangsversteigerung(1786-1789)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 870880,
+            "affiliate_fct": "Wehrli,Johann,Sternenwirt(1783)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 874344,
+            "affiliate_fct": "Mösch,Statthalter(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 874345,
+            "affiliate_fct": "Wunderle,Fridolin,Mumpf(1788)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 885852,
+            "affiliate_fct": "Himberger,v.,Joseph,Landschreiber(1786)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 885853,
+            "affiliate_fct": "Schnitzer,Mathias,Registrator(1786)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 885854,
+            "affiliate_fct": "Spann,v.,Waldvogt(1786)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 892294,
+            "affiliate_fct": "Ergele,Konrad(1788)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

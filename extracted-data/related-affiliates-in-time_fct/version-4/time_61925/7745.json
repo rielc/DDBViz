@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_fct_id": 7745,
+    "affiliate_fct": "Regierung des Seekreises",
+    "affiliate_fct_occurrence": 431,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 7745,
+            "affiliate_fct": "Regierung des Seekreises",
+            "affiliate_fct_occurrence": 431
+        },
+        {
+            "affiliate_fct_id": 15495,
+            "affiliate_fct": "Fürstenberg, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 35
+        },
+        {
+            "affiliate_fct_id": 103711,
+            "affiliate_fct": "Buol, Amalie Freifrau von, geb. von Stotzingen",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 103712,
+            "affiliate_fct": "Buol, Gebhard Freiherr von",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 103713,
+            "affiliate_fct": "Stotzingen, Amalie von s. Buol, Amalie Freifrau von",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 131196,
+            "affiliate_fct": "Bodman, Freiherren von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 2283,
+            "affiliate_fct": "Thurn und Taxis, Fürsten von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 73854,
+            "affiliate_fct": "Österreich, Ferdinand Erzherzog von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 160206,
+            "affiliate_fct": "Stotzingen, Ernst Freiherr von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 264098,
+            "affiliate_fct": "Fischer, Martin, Mottschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 369960,
+            "affiliate_fct": "Binder, Michael, Mottschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 404028,
+            "affiliate_fct": "Levi, Joel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 404029,
+            "affiliate_fct": "Levi, Wolf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 595880,
+            "affiliate_fct": "Fischer, Karl, Mottschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 644171,
+            "affiliate_fct": "Fischer, Wendelin, Mottschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 676826,
+            "affiliate_fct": "Wetz, Lorenz, Ettisweiler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 689863,
+            "affiliate_fct": "Wolber, Vaihinger et Comp., Schiltach, Holzhändler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 739468,
+            "affiliate_fct": "Lutz, Johann, Mottschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1042,
+            "affiliate_fct": "Schellenberg, Heinrich von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4386,
+            "affiliate_fct": "Ott, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13170,
+            "affiliate_fct": "Fischer, Bernhard, Ettisweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13171,
+            "affiliate_fct": "Fischer, Johann, Ettisweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26599,
+            "affiliate_fct": "Ebinger, Adelheid, geb. Frech",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26600,
+            "affiliate_fct": "Ebinger, Frick, Mengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26601,
+            "affiliate_fct": "Ebinger, Hans, Mengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26602,
+            "affiliate_fct": "Frech, Adelheid siehe Ebinger, Adelheid",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26603,
+            "affiliate_fct": "Frech, Bertold, Pfullendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26604,
+            "affiliate_fct": "Frech, Konrad, Pfullendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26605,
+            "affiliate_fct": "Hohenfels, Burkard von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26606,
+            "affiliate_fct": "Hohenzollern-Sigmaringen, Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 32139,
+            "affiliate_fct": "Ulm, Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33476,
+            "affiliate_fct": "Essinger, Jakob David, Buchau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33477,
+            "affiliate_fct": "Lenz, Georg, Immenstaad",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33478,
+            "affiliate_fct": "Waldbott-Bassenheim, Friedrich Karl Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33479,
+            "affiliate_fct": "Waldbott-Bassenheim, Hugo Graf von, München",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37505,
+            "affiliate_fct": "Auer, Mathias, Hödingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37506,
+            "affiliate_fct": "Auer, Michael, Hödingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46562,
+            "affiliate_fct": "Roth von Schreckenstein, Freiherr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56229,
+            "affiliate_fct": "Werner, Johann, Hausen am Andelsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 67938,
+            "affiliate_fct": "Hornstein, Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69615,
+            "affiliate_fct": "Generallandesarchiv Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110112,
+            "affiliate_fct": "Reischach, Rudolf Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113046,
+            "affiliate_fct": "Keller, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113160,
+            "affiliate_fct": "Auer, Nikolaus, Adlerwirt, Herdwangen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120054,
+            "affiliate_fct": "Schmid, Georg, Breitenerlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120055,
+            "affiliate_fct": "Schmid, Martin, Breitenerlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130311,
+            "affiliate_fct": "Kugler, Johann, Ölkofen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168413,
+            "affiliate_fct": "Langenstein, Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 178700,
+            "affiliate_fct": "Dompropstei Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193727,
+            "affiliate_fct": "du Mont, Elise s. Stotzingen, Elise Freifrau von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193728,
+            "affiliate_fct": "Stotzingen, Elise Freifrau von, geb. du Mont",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209781,
+            "affiliate_fct": "Ulm, Johann Baptist Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209782,
+            "affiliate_fct": "Ulm, Maximilian Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 241018,
+            "affiliate_fct": "Reischach, Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243117,
+            "affiliate_fct": "Bischoff, Georg, Beuren (an der Aach?)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243118,
+            "affiliate_fct": "Gomser, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243119,
+            "affiliate_fct": "Haag, Xaver, Seelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243120,
+            "affiliate_fct": "Müller, Mathä, Liggersdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243121,
+            "affiliate_fct": "Müller, Thadä, Liggersdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243122,
+            "affiliate_fct": "Reichlin von Meldegg, Karolus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243123,
+            "affiliate_fct": "Schram, Theiß",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243124,
+            "affiliate_fct": "Wezel, Ferdinand, Breitenerlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 252013,
+            "affiliate_fct": "Hartmann, Mathä, Ettisweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 261296,
+            "affiliate_fct": "Straub, Joseph, Denkingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 261297,
+            "affiliate_fct": "Straub, Wendelin, Denkingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268677,
+            "affiliate_fct": "Keller, Franz Joseph, Bambergen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268678,
+            "affiliate_fct": "Stüble, Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289645,
+            "affiliate_fct": "Rauch, Gottfried, Denkingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289646,
+            "affiliate_fct": "Rauch, Johann, Denkingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308855,
+            "affiliate_fct": "Baden, Markgrafen und Großherzöge von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308874,
+            "affiliate_fct": "Hage, Anton, Fischbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308875,
+            "affiliate_fct": "Heger, Anton siehe Hage, Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308876,
+            "affiliate_fct": "Rues, Alois, Fischbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310578,
+            "affiliate_fct": "Hornstein-Grüningen, Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 333027,
+            "affiliate_fct": "Restle, Johann, Deisendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 333169,
+            "affiliate_fct": "Enzenberg, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 346675,
+            "affiliate_fct": "Zeller, Joseph, Mottschieß",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 349611,
+            "affiliate_fct": "Heudorf, Georg, Schiggendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 361755,
+            "affiliate_fct": "Schmid, Pfarrer, Blumberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 388208,
+            "affiliate_fct": "Ramschwag, Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391974,
+            "affiliate_fct": "Alexander VII., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391975,
+            "affiliate_fct": "Domkapitel Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391976,
+            "affiliate_fct": "Urban VIII., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395550,
+            "affiliate_fct": "Bodman, Carl Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 409127,
+            "affiliate_fct": "Hasler, Xaver, Ettisweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 444309,
+            "affiliate_fct": "Reischach, Johann Nepomuk Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 447471,
+            "affiliate_fct": "Rodt, Maximilian Christoph von, Fürstbischof von Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448672,
+            "affiliate_fct": "Manz, Mathias, Hofgutsbesitzer, Rickelshausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448673,
+            "affiliate_fct": "Müller, Martin, Hofgutsbesitzer, Radolfzell",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 454148,
+            "affiliate_fct": "Schweizer, Sebastian, Illmensee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 456802,
+            "affiliate_fct": "Walk, Josef, Kleinschönach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 456803,
+            "affiliate_fct": "Walk, Wendelin, Großschönach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 458786,
+            "affiliate_fct": "Keller, Lorenz, Selgetsweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 458787,
+            "affiliate_fct": "Keller, Magdalena, Selgetsweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 515466,
+            "affiliate_fct": "Frey, Wilhelm, Kreenheinstetten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 525212,
+            "affiliate_fct": "Beurer, Johann, Fischermeister, Überlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537964,
+            "affiliate_fct": "Buchmüller, Martin, Fischbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537965,
+            "affiliate_fct": "Epple, Johann Baptist, Fischbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537966,
+            "affiliate_fct": "Epple, Joseph, Fischbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 540629,
+            "affiliate_fct": "Sicka, Rupert, Ringgenbach",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

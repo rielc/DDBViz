@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 31,
+    "time_fct": "time_61605",
+    "affiliate_facet_id": 884,
+    "affiliate_facet": "Bayerische Staatsbibliothek (München)",
+    "occurrence": 773,
+    "affiliates": [
+        {
+            "facet_id": 884,
+            "occurrence": 1030,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 18745,
+            "occurrence": 67,
+            "value": "Lufft"
+        },
+        {
+            "facet_id": 8019,
+            "occurrence": 57,
+            "value": "[Lotter]"
+        },
+        {
+            "facet_id": 3334,
+            "occurrence": 44,
+            "value": "[Otmar]"
+        },
+        {
+            "facet_id": 10652,
+            "occurrence": 40,
+            "value": "[Steiner]"
+        },
+        {
+            "facet_id": 1839,
+            "occurrence": 38,
+            "value": "Melanchthon, Philipp (1497-1560)"
+        },
+        {
+            "facet_id": 25578,
+            "occurrence": 36,
+            "value": "Schirlentz"
+        },
+        {
+            "facet_id": 11683,
+            "occurrence": 34,
+            "value": "[Ramminger]"
+        },
+        {
+            "facet_id": 24856,
+            "occurrence": 31,
+            "value": "[Gutknecht]"
+        },
+        {
+            "facet_id": 17264,
+            "occurrence": 30,
+            "value": "[Ulhart]"
+        },
+        {
+            "facet_id": 298,
+            "occurrence": 27,
+            "value": "Cochlaeus, Johannes (1479-1552)"
+        },
+        {
+            "facet_id": 8625,
+            "occurrence": 23,
+            "value": "Klug"
+        },
+        {
+            "facet_id": 19526,
+            "occurrence": 23,
+            "value": "Spalatin, Georg (1484-1545)"
+        },
+        {
+            "facet_id": 3419,
+            "occurrence": 22,
+            "value": "Rhaw"
+        },
+        {
+            "facet_id": 6349,
+            "occurrence": 22,
+            "value": "Eck, Johannes (1486-1543)"
+        },
+        {
+            "facet_id": 9865,
+            "occurrence": 20,
+            "value": "[Petri]"
+        },
+        {
+            "facet_id": 57385,
+            "occurrence": 19,
+            "value": "[Grimm und Wirsung]"
+        },
+        {
+            "facet_id": 169201,
+            "occurrence": 18,
+            "value": "[Rhau-Grunenberg]"
+        },
+        {
+            "facet_id": 25295,
+            "occurrence": 17,
+            "value": "[Petreius]"
+        },
+        {
+            "facet_id": 5059,
+            "occurrence": 16,
+            "value": "[Nadler]"
+        },
+        {
+            "facet_id": 20424,
+            "occurrence": 16,
+            "value": "Mazzolini, Silvestro (ca. 1456?-1527?)"
+        },
+        {
+            "facet_id": 347553,
+            "occurrence": 14,
+            "value": "[Cranach und Döring]"
+        },
+        {
+            "facet_id": 35359,
+            "occurrence": 13,
+            "value": "Lotther"
+        },
+        {
+            "facet_id": 3700,
+            "occurrence": 12,
+            "value": "[Maler]"
+        },
+        {
+            "facet_id": 6632,
+            "occurrence": 12,
+            "value": "Bugenhagen, Johannes (1485-1558)"
+        },
+        {
+            "facet_id": 21030,
+            "occurrence": 12,
+            "value": "Otmar"
+        },
+        {
+            "facet_id": 49261,
+            "occurrence": 11,
+            "value": "Karlstadt, Andreas (1480-1541)"
+        },
+        {
+            "facet_id": 29328,
+            "occurrence": 10,
+            "value": "Ottmar"
+        },
+        {
+            "facet_id": 167458,
+            "occurrence": 10,
+            "value": "Schyrlentz"
+        },
+        {
+            "facet_id": 190196,
+            "occurrence": 10,
+            "value": "Lufft)"
+        },
+        {
+            "facet_id": 1249,
+            "occurrence": 9,
+            "value": "Erasmus, Desiderius (1469-1536)"
+        },
+        {
+            "facet_id": 17439,
+            "occurrence": 9,
+            "value": "[Schott]"
+        },
+        {
+            "facet_id": 21025,
+            "occurrence": 9,
+            "value": "Hervagius"
+        },
+        {
+            "facet_id": 34733,
+            "occurrence": 9,
+            "value": "[Quentel]"
+        },
+        {
+            "facet_id": 43599,
+            "occurrence": 9,
+            "value": "[Ruff]"
+        },
+        {
+            "facet_id": 1718,
+            "occurrence": 8,
+            "value": "Petri"
+        },
+        {
+            "facet_id": 12076,
+            "occurrence": 8,
+            "value": "Brenz, Johannes (1499-1570)"
+        },
+        {
+            "facet_id": 15795,
+            "occurrence": 8,
+            "value": "Menius, Justus (1499-1558)"
+        },
+        {
+            "facet_id": 6522,
+            "occurrence": 7,
+            "value": "[Schirlentz]"
+        },
+        {
+            "facet_id": 39770,
+            "occurrence": 7,
+            "value": "Emser, Hieronymus (1478-1527)"
+        },
+        {
+            "facet_id": 50120,
+            "occurrence": 7,
+            "value": "[Hergot]"
+        },
+        {
+            "facet_id": 76905,
+            "occurrence": 7,
+            "value": "Link, Wenzeslaus (1483-1547)"
+        },
+        {
+            "facet_id": 172483,
+            "occurrence": 7,
+            "value": "Grunenberg"
+        },
+        {
+            "facet_id": 312748,
+            "occurrence": 7,
+            "value": "[Apian und Apian]"
+        },
+        {
+            "facet_id": 212,
+            "occurrence": 6,
+            "value": "Luther, Martin"
+        },
+        {
+            "facet_id": 17501,
+            "occurrence": 6,
+            "value": "Weiss"
+        },
+        {
+            "facet_id": 32797,
+            "occurrence": 6,
+            "value": "Heinrich <VIII., England, König> (1491-1547)"
+        },
+        {
+            "facet_id": 40675,
+            "occurrence": 6,
+            "value": "[Froschauer]"
+        },
+        {
+            "facet_id": 40724,
+            "occurrence": 6,
+            "value": "Rhegius, Urbanus (1489-1541)"
+        },
+        {
+            "facet_id": 41019,
+            "occurrence": 6,
+            "value": "Jonas, Justus (1493-1555)"
+        },
+        {
+            "facet_id": 67576,
+            "occurrence": 6,
+            "value": "Cranach, Lucas (1472-1553)"
+        },
+        {
+            "facet_id": 127512,
+            "occurrence": 6,
+            "value": "Rörer, Georg (1492-1557)"
+        },
+        {
+            "facet_id": 156698,
+            "occurrence": 6,
+            "value": "Rodt, Stephan"
+        },
+        {
+            "facet_id": 234610,
+            "occurrence": 6,
+            "value": "Grueninger"
+        },
+        {
+            "facet_id": 2208,
+            "occurrence": 5,
+            "value": "Leo <X., Papst> (1475-1521)"
+        },
+        {
+            "facet_id": 2859,
+            "occurrence": 5,
+            "value": "Secerius"
+        },
+        {
+            "facet_id": 27837,
+            "occurrence": 5,
+            "value": "[Knobloch]"
+        },
+        {
+            "facet_id": 35576,
+            "occurrence": 5,
+            "value": "Nadler"
+        },
+        {
+            "facet_id": 48642,
+            "occurrence": 5,
+            "value": "Fabri, Johann (1478-1541)"
+        },
+        {
+            "facet_id": 55316,
+            "occurrence": 5,
+            "value": "Hus, Jan (1369-1415)"
+        },
+        {
+            "facet_id": 61034,
+            "occurrence": 5,
+            "value": "Lottherus"
+        },
+        {
+            "facet_id": 68631,
+            "occurrence": 5,
+            "value": "[Rhau]"
+        },
+        {
+            "facet_id": 87612,
+            "occurrence": 5,
+            "value": "[Stuchs]"
+        },
+        {
+            "facet_id": 104338,
+            "occurrence": 5,
+            "value": "[Curio]"
+        },
+        {
+            "facet_id": 113789,
+            "occurrence": 5,
+            "value": "Wachter"
+        },
+        {
+            "facet_id": 214688,
+            "occurrence": 5,
+            "value": "[Klug]"
+        },
+        {
+            "facet_id": 4883,
+            "occurrence": 4,
+            "value": "Flacius, Matthias (1520-1575)"
+        },
+        {
+            "facet_id": 5591,
+            "occurrence": 4,
+            "value": "[Höltzel]"
+        },
+        {
+            "facet_id": 6980,
+            "occurrence": 4,
+            "value": "Wolrab"
+        },
+        {
+            "facet_id": 7603,
+            "occurrence": 4,
+            "value": "Stöckel"
+        },
+        {
+            "facet_id": 10340,
+            "occurrence": 4,
+            "value": "Lotter"
+        },
+        {
+            "facet_id": 10341,
+            "occurrence": 4,
+            "value": "Amsdorff, Nicolaus von (1483-1565)"
+        },
+        {
+            "facet_id": 31179,
+            "occurrence": 4,
+            "value": "Steyner"
+        },
+        {
+            "facet_id": 32121,
+            "occurrence": 4,
+            "value": "Schumann"
+        },
+        {
+            "facet_id": 57506,
+            "occurrence": 4,
+            "value": "Jud, Leo (1482-1542)"
+        },
+        {
+            "facet_id": 58780,
+            "occurrence": 4,
+            "value": "Aurifaber, Johann (1519-1575)"
+        },
+        {
+            "facet_id": 72491,
+            "occurrence": 4,
+            "value": "Peypus"
+        },
+        {
+            "facet_id": 77229,
+            "occurrence": 4,
+            "value": "[Lotter])"
+        },
+        {
+            "facet_id": 133070,
+            "occurrence": 4,
+            "value": "[Erlinger]"
+        },
+        {
+            "facet_id": 138808,
+            "occurrence": 4,
+            "value": "Stüchs"
+        },
+        {
+            "facet_id": 212843,
+            "occurrence": 4,
+            "value": "(Rhaw)"
+        },
+        {
+            "facet_id": 253575,
+            "occurrence": 4,
+            "value": "[Herwagen]"
+        },
+        {
+            "facet_id": 1838,
+            "occurrence": 3,
+            "value": "[Landsberg]"
+        },
+        {
+            "facet_id": 2752,
+            "occurrence": 3,
+            "value": "Beck"
+        },
+        {
+            "facet_id": 4882,
+            "occurrence": 3,
+            "value": "Rödinger"
+        },
+        {
+            "facet_id": 5772,
+            "occurrence": 3,
+            "value": "[Schönsperger]"
+        },
+        {
+            "facet_id": 8564,
+            "occurrence": 3,
+            "value": "Weiß"
+        },
+        {
+            "facet_id": 8978,
+            "occurrence": 3,
+            "value": "Petreius"
+        },
+        {
+            "facet_id": 8994,
+            "occurrence": 3,
+            "value": "[Schürer]"
+        },
+        {
+            "facet_id": 13455,
+            "occurrence": 3,
+            "value": "Grüninger"
+        },
+        {
+            "facet_id": 15273,
+            "occurrence": 3,
+            "value": "[Kantz]"
+        },
+        {
+            "facet_id": 24488,
+            "occurrence": 3,
+            "value": "Weyssenhorn)"
+        },
+        {
+            "facet_id": 27231,
+            "occurrence": 3,
+            "value": "Maior, Georg (1502-1574)"
+        },
+        {
+            "facet_id": 30956,
+            "occurrence": 3,
+            "value": "[Rottmaier]"
+        },
+        {
+            "facet_id": 40918,
+            "occurrence": 3,
+            "value": "Quentell"
+        },
+        {
+            "facet_id": 41576,
+            "occurrence": 3,
+            "value": "[Köpfel]"
+        },
+        {
+            "facet_id": 49118,
+            "occurrence": 3,
+            "value": "Froschauer"
+        },
+        {
+            "facet_id": 51360,
+            "occurrence": 3,
+            "value": "Cruciger, Caspar (1504-1548)"
+        },
+        {
+            "facet_id": 52078,
+            "occurrence": 3,
+            "value": "Lambert, François (1486-1530)"
+        },
+        {
+            "facet_id": 57802,
+            "occurrence": 3,
+            "value": "[Grimm]"
+        }
+    ]
+}

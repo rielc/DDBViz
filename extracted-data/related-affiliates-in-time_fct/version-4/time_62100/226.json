@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 8,
+    "time_fct": "time_62100",
+    "affiliate_fct_id": 226,
+    "affiliate_fct": "KIT-Bibliothek",
+    "affiliate_fct_occurrence": 880,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 226,
+            "affiliate_fct": "KIT-Bibliothek",
+            "affiliate_fct_occurrence": 880
+        },
+        {
+            "affiliate_fct_id": 82809,
+            "affiliate_fct": "Albers, A.",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 24589,
+            "affiliate_fct": "Weinhardt, C.",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 42671,
+            "affiliate_fct": "Dillmann, R.",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 97896,
+            "affiliate_fct": "Studer, R.",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 8592,
+            "affiliate_fct": "Fischer, R.",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 132897,
+            "affiliate_fct": "Blümer, J.",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 265853,
+            "affiliate_fct": "Löhneysen, H. von",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 287543,
+            "affiliate_fct": "Kalt, H.",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 147782,
+            "affiliate_fct": "Barner-Kowollik, C.",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 29619,
+            "affiliate_fct": "Franzreb, M.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 126896,
+            "affiliate_fct": "Wörn, H.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 180579,
+            "affiliate_fct": "Kraft, O.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 186220,
+            "affiliate_fct": "Drexlin, G.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 198660,
+            "affiliate_fct": "Spicher, U.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 585727,
+            "affiliate_fct": "Feindt, M.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 27782,
+            "affiliate_fct": "Heuveline, V.",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 39779,
+            "affiliate_fct": "Wagner, D.",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 41590,
+            "affiliate_fct": "Bös, Klaus (1948-)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 115490,
+            "affiliate_fct": "Busch, K.",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 256580,
+            "affiliate_fct": "Gumbsch, P.",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 21146,
+            "affiliate_fct": "Račev, Svetlozar T. (1951-)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 24874,
+            "affiliate_fct": "Wegener, M.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 104198,
+            "affiliate_fct": "Bräse, S.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 128140,
+            "affiliate_fct": "Müller, T.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 152346,
+            "affiliate_fct": "Nick, P.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 205641,
+            "affiliate_fct": "Wedlich, D.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 304224,
+            "affiliate_fct": "Kottmeier, C.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 369684,
+            "affiliate_fct": "Stiller, C.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 453086,
+            "affiliate_fct": "Schulze, V.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 228,
+            "affiliate_fct": "Syldatk, C.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 85210,
+            "affiliate_fct": "Baumbach, T.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 162099,
+            "affiliate_fct": "Lemmer, U.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 223683,
+            "affiliate_fct": "Müller, Thomas (1953-)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 342805,
+            "affiliate_fct": "Seemann, W.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 349150,
+            "affiliate_fct": "Bretthauer, G.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 384150,
+            "affiliate_fct": "Taraschewski, H.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 384863,
+            "affiliate_fct": "Metzler, M.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 391970,
+            "affiliate_fct": "Nienhaus, G. U.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 417908,
+            "affiliate_fct": "Gerthsen, D.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 543344,
+            "affiliate_fct": "Bastmeyer, M.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 638016,
+            "affiliate_fct": "Ovtcharova, J.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 259,
+            "affiliate_fct": "Nestmann, F.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3198,
+            "affiliate_fct": "Müller, H. S.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 8776,
+            "affiliate_fct": "Quast, G.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 16225,
+            "affiliate_fct": "Hinz, S.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 17992,
+            "affiliate_fct": "Urban, M.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 96882,
+            "affiliate_fct": "Furmans, K.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 113039,
+            "affiliate_fct": "Reussner, R.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 127675,
+            "affiliate_fct": "Zeppenfeld, D.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 196318,
+            "affiliate_fct": "Herrlich, F.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 240420,
+            "affiliate_fct": "Zitterbart, M.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 241709,
+            "affiliate_fct": "Puchta, H.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 255574,
+            "affiliate_fct": "Stork, W.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 258375,
+            "affiliate_fct": "Boer, W. de",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 269730,
+            "affiliate_fct": "Ustinov, A. V.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 287680,
+            "affiliate_fct": "Winter, J.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 306714,
+            "affiliate_fct": "Bös, K.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 334149,
+            "affiliate_fct": "Bockhorn, H.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 365566,
+            "affiliate_fct": "Waibel, A.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 430731,
+            "affiliate_fct": "Wanner, A.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 431660,
+            "affiliate_fct": "Jondral, F.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 462751,
+            "affiliate_fct": "Hubbuch, J.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 463467,
+            "affiliate_fct": "Wulfhekel, W.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 472209,
+            "affiliate_fct": "Meier, M. A. R.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 564085,
+            "affiliate_fct": "Saile, V.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 632014,
+            "affiliate_fct": "Ulrich, A.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 768360,
+            "affiliate_fct": "Schön, G.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 841174,
+            "affiliate_fct": "Schuster, R.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 27313,
+            "affiliate_fct": "Deutschmann, O.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 43140,
+            "affiliate_fct": "Wölfle, P.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 45561,
+            "affiliate_fct": "Stosch, H.-G.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 119014,
+            "affiliate_fct": "Bäuerle, N.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 126226,
+            "affiliate_fct": "Fischer, H.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 159223,
+            "affiliate_fct": "Heck, B.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 160531,
+            "affiliate_fct": "Zarzalis, N.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 167966,
+            "affiliate_fct": "Feldmann, C.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 170992,
+            "affiliate_fct": "Böhm, K.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 177356,
+            "affiliate_fct": "Kühn, J.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 226954,
+            "affiliate_fct": "Kappes, M.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 265513,
+            "affiliate_fct": "Ruckes, M. E.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 270594,
+            "affiliate_fct": "Wigger, B. U.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 282200,
+            "affiliate_fct": "Beyerer, J.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 290154,
+            "affiliate_fct": "Kraushaar-Czarnetzki, B.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 333715,
+            "affiliate_fct": "Dörfler, W.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 333984,
+            "affiliate_fct": "Waldmann, K.-H.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 335049,
+            "affiliate_fct": "Stucky, W.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 345768,
+            "affiliate_fct": "Elstner, M.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 359226,
+            "affiliate_fct": "Bohlen, T.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 373180,
+            "affiliate_fct": "Willenbacher, N.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 385870,
+            "affiliate_fct": "Steinhauser, M.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 390809,
+            "affiliate_fct": "Berninghaus, S.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 464776,
+            "affiliate_fct": "Hahn, H. H.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 487633,
+            "affiliate_fct": "Klopper, W.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 542550,
+            "affiliate_fct": "Powell, A.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 569777,
+            "affiliate_fct": "Orphal, J.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 583552,
+            "affiliate_fct": "Zum Gahr, Karl-Heinz (1943-)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 678755,
+            "affiliate_fct": "Ulrich, A. S.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 684032,
+            "affiliate_fct": "Kappes, M. M.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 733551,
+            "affiliate_fct": "Kämper, J.",
+            "affiliate_fct_occurrence": 3
+        }
+    ]
+}

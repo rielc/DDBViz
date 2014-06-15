@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_facet_id": 10210,
+    "affiliate_facet": "Thiersch, Friedrich von",
+    "occurrence": 314,
+    "affiliates": [
+        {
+            "facet_id": 10210,
+            "occurrence": 331,
+            "value": "Landgericht Konstanz"
+        },
+        {
+            "facet_id": 75745,
+            "occurrence": 17,
+            "value": "Stromeyer, Max, Oberbürgermeister, Konstanz"
+        },
+        {
+            "facet_id": 795986,
+            "occurrence": 10,
+            "value": "Ebner, Albert, Landwirt und Stabhalter, Steinbach"
+        },
+        {
+            "facet_id": 14002,
+            "occurrence": 8,
+            "value": "Fürstenberg, Standesherrschaft"
+        },
+        {
+            "facet_id": 87815,
+            "occurrence": 7,
+            "value": "Strobel, Hermann, Landwirt, Meersburg"
+        },
+        {
+            "facet_id": 96320,
+            "occurrence": 7,
+            "value": "Maier, Augusta, Uttenhofen"
+        },
+        {
+            "facet_id": 96321,
+            "occurrence": 6,
+            "value": "Weber, Fridolin, Uttenhofen"
+        },
+        {
+            "facet_id": 161541,
+            "occurrence": 6,
+            "value": "Ratzer, Bartholomäus, Reiselfingen"
+        },
+        {
+            "facet_id": 19639,
+            "occurrence": 4,
+            "value": "Breinlinger, Sebastian, Liptingen"
+        },
+        {
+            "facet_id": 169028,
+            "occurrence": 4,
+            "value": "Kopp, Anastasia, Dienstmagd, Weilersbach"
+        },
+        {
+            "facet_id": 967253,
+            "occurrence": 4,
+            "value": "Strobel, Monika, Meersburg"
+        },
+        {
+            "facet_id": 11638,
+            "occurrence": 3,
+            "value": "Allgeier, Nemesius, Ruschweiler"
+        },
+        {
+            "facet_id": 125625,
+            "occurrence": 3,
+            "value": "Lang, Bernhard, Bäckermeister, Konstanz"
+        },
+        {
+            "facet_id": 125626,
+            "occurrence": 3,
+            "value": "Lang, Pauline, Esenhausen"
+        },
+        {
+            "facet_id": 125627,
+            "occurrence": 3,
+            "value": "Staimer, Josef, Bäckergeselle, Kay"
+        },
+        {
+            "facet_id": 207106,
+            "occurrence": 3,
+            "value": "Breinlinger, Xaver, Liptingen"
+        },
+        {
+            "facet_id": 613981,
+            "occurrence": 3,
+            "value": "Mayer, Friedrich, Glaser, Donaueschingen"
+        },
+        {
+            "facet_id": 72697,
+            "occurrence": 2,
+            "value": "Paganini, Maria, Bräunlingen"
+        },
+        {
+            "facet_id": 126578,
+            "occurrence": 2,
+            "value": "Barho, Johann Martin, Sunthausen"
+        },
+        {
+            "facet_id": 126579,
+            "occurrence": 2,
+            "value": "Lohrer, Christiana, Sunthausen"
+        },
+        {
+            "facet_id": 126580,
+            "occurrence": 2,
+            "value": "Lohrer, Thomas, Sunthausen"
+        },
+        {
+            "facet_id": 171025,
+            "occurrence": 2,
+            "value": "Beha, Pius, Gastwirt, Villingen"
+        },
+        {
+            "facet_id": 283793,
+            "occurrence": 2,
+            "value": "Weisser, Valentin, Unterkirnach"
+        },
+        {
+            "facet_id": 287000,
+            "occurrence": 2,
+            "value": "Freudigmann, Anton, Ochsenbach"
+        },
+        {
+            "facet_id": 378846,
+            "occurrence": 2,
+            "value": "Weisser, Sebald, Unterkirnach"
+        },
+        {
+            "facet_id": 468121,
+            "occurrence": 2,
+            "value": "Greiner, Karl, Metzger, Immendingen"
+        },
+        {
+            "facet_id": 531112,
+            "occurrence": 2,
+            "value": "Hof, Maximilian, Maurer, Zizenhausen"
+        },
+        {
+            "facet_id": 531113,
+            "occurrence": 2,
+            "value": "Trüb, Wunibald, Zizenhausen"
+        },
+        {
+            "facet_id": 688206,
+            "occurrence": 2,
+            "value": "Belli, Josef, Rammersweier"
+        },
+        {
+            "facet_id": 688207,
+            "occurrence": 2,
+            "value": "Mohr, Albert, Immenstaad"
+        },
+        {
+            "facet_id": 688208,
+            "occurrence": 2,
+            "value": "Mohr, Josefa, Immenstaad"
+        },
+        {
+            "facet_id": 688209,
+            "occurrence": 2,
+            "value": "Mohr, Paulina, Immenstaad"
+        },
+        {
+            "facet_id": 688210,
+            "occurrence": 2,
+            "value": "Mohr, Theodor, Immenstaad"
+        },
+        {
+            "facet_id": 688211,
+            "occurrence": 2,
+            "value": "Rebstein, Johann, Immenstaad"
+        },
+        {
+            "facet_id": 699224,
+            "occurrence": 2,
+            "value": "Kauth, Maria, Konstanz"
+        },
+        {
+            "facet_id": 723704,
+            "occurrence": 2,
+            "value": "Guggenheim, Sigmund, Kaufmann, Konstanz"
+        },
+        {
+            "facet_id": 771859,
+            "occurrence": 2,
+            "value": "Weh, Lorenz, Küfer, Donaueschingen"
+        },
+        {
+            "facet_id": 904224,
+            "occurrence": 2,
+            "value": "Bismarck, v., Reichskanzler"
+        },
+        {
+            "facet_id": 1034548,
+            "occurrence": 2,
+            "value": "Otto, Karl, Kaufmann, Villingen"
+        },
+        {
+            "facet_id": 11639,
+            "occurrence": 1,
+            "value": "Fischer, Mathäus, Judentenburg"
+        },
+        {
+            "facet_id": 32078,
+            "occurrence": 1,
+            "value": "Tritschler, Johann, Orchestrionfabrikant, Vöhrenbach"
+        },
+        {
+            "facet_id": 72696,
+            "occurrence": 1,
+            "value": "Costa, Giacomo, Bauunternehmer, Triberg"
+        },
+        {
+            "facet_id": 85173,
+            "occurrence": 1,
+            "value": "Neugart, August, Unterkirnach"
+        },
+        {
+            "facet_id": 85174,
+            "occurrence": 1,
+            "value": "Neugart, Emil, Unterkirnach"
+        },
+        {
+            "facet_id": 107706,
+            "occurrence": 1,
+            "value": "Wohlgemuth, Philipp, Zentraldirektor, Karlsruhe"
+        },
+        {
+            "facet_id": 147319,
+            "occurrence": 1,
+            "value": "Leopold, Großherzog von Baden"
+        },
+        {
+            "facet_id": 147320,
+            "occurrence": 1,
+            "value": "Ullmann, Dr. C., Dekan, theolog. Fakultät Universität Heidelberg"
+        },
+        {
+            "facet_id": 153629,
+            "occurrence": 1,
+            "value": "Damm, Friedrich, Baden-Baden"
+        },
+        {
+            "facet_id": 175857,
+            "occurrence": 1,
+            "value": "Galley, Lukas, Maurermeister, Allmannsdorf"
+        },
+        {
+            "facet_id": 175858,
+            "occurrence": 1,
+            "value": "Hörnle, Elisabeth, Konstanz"
+        },
+        {
+            "facet_id": 176640,
+            "occurrence": 1,
+            "value": "Lohr, Friedrich, Überlingen"
+        },
+        {
+            "facet_id": 222123,
+            "occurrence": 1,
+            "value": "Schmeh, Konrad, Hofgutsbesitzer, Adelsreute"
+        },
+        {
+            "facet_id": 229932,
+            "occurrence": 1,
+            "value": "Siegwart, Adolf, Bierbrauer, Villingen"
+        },
+        {
+            "facet_id": 229933,
+            "occurrence": 1,
+            "value": "Ummenhofer, Richard, Dreher, Villingen"
+        },
+        {
+            "facet_id": 236607,
+            "occurrence": 1,
+            "value": "Berthold, Otto, Schreiner, Ruhland"
+        },
+        {
+            "facet_id": 307368,
+            "occurrence": 1,
+            "value": "Schmidt, Georg, Expeditor, Konstanz"
+        },
+        {
+            "facet_id": 317532,
+            "occurrence": 1,
+            "value": "Zwick, Johann, Leitishofen"
+        },
+        {
+            "facet_id": 322755,
+            "occurrence": 1,
+            "value": "Weltin, Engelbert, Allensbach"
+        },
+        {
+            "facet_id": 331649,
+            "occurrence": 1,
+            "value": "Müller, Karl, Registrator, Konstanz"
+        },
+        {
+            "facet_id": 342691,
+            "occurrence": 1,
+            "value": "Schwarz, Adolf, Notar, Hüfingen"
+        },
+        {
+            "facet_id": 348878,
+            "occurrence": 1,
+            "value": "Honegger, Kaspar, Wollmatingen"
+        },
+        {
+            "facet_id": 357861,
+            "occurrence": 1,
+            "value": "Dietrich, Adolf, Notar, Tengen"
+        },
+        {
+            "facet_id": 373773,
+            "occurrence": 1,
+            "value": "Hilpert, Joseph, Müller, Gailingen"
+        },
+        {
+            "facet_id": 376526,
+            "occurrence": 1,
+            "value": "Müller, Cyprian, Villingen"
+        },
+        {
+            "facet_id": 376527,
+            "occurrence": 1,
+            "value": "Singer, Joseph, Küfer, Villingen"
+        },
+        {
+            "facet_id": 379975,
+            "occurrence": 1,
+            "value": "Brändle, Elisabeth, Riedöschingen"
+        },
+        {
+            "facet_id": 401783,
+            "occurrence": 1,
+            "value": "Frey, Gregor, Holz- und Kohlenhändler, Konstanz"
+        },
+        {
+            "facet_id": 401784,
+            "occurrence": 1,
+            "value": "Hains, Mathias, Schleppschiffführer"
+        },
+        {
+            "facet_id": 403728,
+            "occurrence": 1,
+            "value": "Herrmann, Eduard, Berlin"
+        },
+        {
+            "facet_id": 422559,
+            "occurrence": 1,
+            "value": "Krebs, Cyriak, Aktuar, Iffezheim"
+        },
+        {
+            "facet_id": 431717,
+            "occurrence": 1,
+            "value": "Schatz, Benedikt, Handelsmann, Konstanz"
+        },
+        {
+            "facet_id": 432338,
+            "occurrence": 1,
+            "value": "Rid, Josef, Bürstenbinder, Markdorf"
+        },
+        {
+            "facet_id": 439887,
+            "occurrence": 1,
+            "value": "Singer, Theodor, Landgerichtsrat, Konstanz"
+        },
+        {
+            "facet_id": 443014,
+            "occurrence": 1,
+            "value": "Schwarz, Paul, Güterhändler, Bonndorf"
+        },
+        {
+            "facet_id": 444908,
+            "occurrence": 1,
+            "value": "Müller, Georg Friedrich, Sonnenwirt, Blumenfeld"
+        },
+        {
+            "facet_id": 444909,
+            "occurrence": 1,
+            "value": "Rosenstiehl, Josef, Döggingen"
+        },
+        {
+            "facet_id": 448866,
+            "occurrence": 1,
+            "value": "Guggenheim, Leopold, Güterhändler, Gailingen"
+        },
+        {
+            "facet_id": 448867,
+            "occurrence": 1,
+            "value": "Kummer, August, Wirt, Konstanz"
+        },
+        {
+            "facet_id": 463696,
+            "occurrence": 1,
+            "value": "Schneckenburger, Christian, Vogt, Biesingen"
+        },
+        {
+            "facet_id": 463697,
+            "occurrence": 1,
+            "value": "Schneckenburger, Johann, Lehrer, Biesingen"
+        },
+        {
+            "facet_id": 463698,
+            "occurrence": 1,
+            "value": "Strom, Matthias, Biesingen"
+        },
+        {
+            "facet_id": 472454,
+            "occurrence": 1,
+            "value": "Bloch, Elias, Freiburg"
+        },
+        {
+            "facet_id": 472455,
+            "occurrence": 1,
+            "value": "Götz, Johann, Donaueschingen"
+        },
+        {
+            "facet_id": 473659,
+            "occurrence": 1,
+            "value": "Blessing, Engelbert, Maschinenbauer, Villingen"
+        },
+        {
+            "facet_id": 473660,
+            "occurrence": 1,
+            "value": "Bloch, Salomon, Kaufmann, Villingen"
+        },
+        {
+            "facet_id": 490441,
+            "occurrence": 1,
+            "value": "Haas, Andreas, Klostermüller, St. Georgen"
+        },
+        {
+            "facet_id": 490442,
+            "occurrence": 1,
+            "value": "Rosenfelder, Andreas, Zimmermann, St. Georgen"
+        },
+        {
+            "facet_id": 491939,
+            "occurrence": 1,
+            "value": "Stromeyer, Ludwig, Firma, Konstanz"
+        },
+        {
+            "facet_id": 491940,
+            "occurrence": 1,
+            "value": "Thanhauser, H., Firma, Konstanz"
+        },
+        {
+            "facet_id": 498007,
+            "occurrence": 1,
+            "value": "Holzendorff, K."
+        },
+        {
+            "facet_id": 498008,
+            "occurrence": 1,
+            "value": "Raabe, Hermann"
+        },
+        {
+            "facet_id": 531739,
+            "occurrence": 1,
+            "value": "Reischach, v."
+        },
+        {
+            "facet_id": 542236,
+            "occurrence": 1,
+            "value": "Schreiber, Casimir, Unterkirnach"
+        },
+        {
+            "facet_id": 542950,
+            "occurrence": 1,
+            "value": "Bauer, Hermann, Landgerichtsrat, Konstanz"
+        },
+        {
+            "facet_id": 544074,
+            "occurrence": 1,
+            "value": "Karrer, Ludwina, Konstanz"
+        },
+        {
+            "facet_id": 544168,
+            "occurrence": 1,
+            "value": "Käfer, Johann, Donaueschingen"
+        },
+        {
+            "facet_id": 544169,
+            "occurrence": 1,
+            "value": "Müller, Johann, Stallegg"
+        },
+        {
+            "facet_id": 545525,
+            "occurrence": 1,
+            "value": "Leuthner, Joseph, Kaufmann, Singen"
+        },
+        {
+            "facet_id": 561458,
+            "occurrence": 1,
+            "value": "Greiner, Titus, Wolterdingen"
+        },
+        {
+            "facet_id": 561459,
+            "occurrence": 1,
+            "value": "Maier Weil, Heinrich, Handelsmann, Donaueschingen"
+        }
+    ]
+}

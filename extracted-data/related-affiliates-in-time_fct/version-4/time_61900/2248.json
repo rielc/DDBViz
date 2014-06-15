@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 2248,
+    "affiliate_fct": "Innenministerium",
+    "affiliate_fct_occurrence": 724,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2248,
+            "affiliate_fct": "Innenministerium",
+            "affiliate_fct_occurrence": 724
+        },
+        {
+            "affiliate_fct_id": 3090,
+            "affiliate_fct": "Württemberg, Wilhelm I.; König, 1781-1864",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 11851,
+            "affiliate_fct": "Thurn und Taxis, Freiherren und Fürsten von",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 11579,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Schillingsfürst, Fürsten von",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 3086,
+            "affiliate_fct": "Württemberg, Karl I.; König, 1823-1891",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 22634,
+            "affiliate_fct": "Hohenlohe-Langenburg, Fürsten von",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 22635,
+            "affiliate_fct": "Hohenlohe-Öhringen, Fürsten von",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 92167,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Schillingsfürst, Fstn. v.",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 3088,
+            "affiliate_fct": "Württemberg, Kge. von; Wilhelm I.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 3091,
+            "affiliate_fct": "Württemberg, Wilhelm II.; König, 1848-1921 | 11910539X",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 22631,
+            "affiliate_fct": "Hohenlohe-Jagstberg, Fürsten von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 22632,
+            "affiliate_fct": "Hohenlohe-Kirchberg, Fürsten von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 162897,
+            "affiliate_fct": "Löwenstein-Wertheim, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 3087,
+            "affiliate_fct": "Württemberg, Kge. von; Karl",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 22629,
+            "affiliate_fct": "Hohenlohe, Fürsten von (Gesamthaus)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 140318,
+            "affiliate_fct": "Öttingen-Wallerstein, Karl Fürst von",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 165313,
+            "affiliate_fct": "Adelsheim, Frhn. v.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 165314,
+            "affiliate_fct": "Adelsheim, von; Ritter, Freiherren und Adlige",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 3089,
+            "affiliate_fct": "Württemberg, Kge. von; Wilhelm II.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 72437,
+            "affiliate_fct": "Beroldingen, Paul Ignaz Graf von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 127091,
+            "affiliate_fct": "Zeppelin, Friedrich Graf von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 148554,
+            "affiliate_fct": "Hohenlohe-Langenburg, Hermann Fürst von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 169634,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Bartenstein, Fürsten von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 183661,
+            "affiliate_fct": "Brussele-Schaubeck, Felix Freiherr von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 423532,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Bartenstein, Fstn. v.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 507108,
+            "affiliate_fct": "Üxküll-Gyllenband, Grafen und Feiherren von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 571883,
+            "affiliate_fct": "Waldburg-Zeil-Wurzach, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 2302,
+            "affiliate_fct": "Waldburg-Wolfegg-Waldsee, Fürsten von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 3084,
+            "affiliate_fct": "Waldburg-Wolfegg-Waldsee, Franz Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 22091,
+            "affiliate_fct": "Waldburg, Fstn., Gfn. und Trsn. v. (Gesamthaus)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 22092,
+            "affiliate_fct": "Waldburg, Truchsessen, Freiherren, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 22636,
+            "affiliate_fct": "Hohenlohe-Schillingsfürst, Fürsten von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 66048,
+            "affiliate_fct": "Varnbühler von Hemmingen, Freiherren",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 154146,
+            "affiliate_fct": "Hohenlohe-Kirchberg, Carl Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 173352,
+            "affiliate_fct": "Hohenlohe-Langenburg, Ernst Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 220271,
+            "affiliate_fct": "Crailsheim, Freiherren von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 329903,
+            "affiliate_fct": "Wöllwarth-Lauterburg, Wilhelm Freiherr von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 344411,
+            "affiliate_fct": "Waldburg-Wolfegg-Waldsee, Fstn. v.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 388719,
+            "affiliate_fct": "Kohlhammer; Wilhelm, Verlagsbuchhandlung",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 426117,
+            "affiliate_fct": "König, Wilhelm Freiherr von; Bankier in Amsterdam",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 438232,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Bartenstein, Karl August Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 505693,
+            "affiliate_fct": "Hohenlohe-Jagstberg, Albert Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 538928,
+            "affiliate_fct": "Freyberg-Eisenberg-Wellendingen, Anton Thaddäus Freiherr von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 600471,
+            "affiliate_fct": "Gemmingen-Guttenberg, Freiherren von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 631178,
+            "affiliate_fct": "Adelsheim, Carl Freiherr von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 637255,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Bartenstein, Karl Fürst von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1562,
+            "affiliate_fct": "Holtz, Freiherren vom",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2992,
+            "affiliate_fct": "Beroldingen, Paul Joseph Graf von; Geheimer Rat und Gesandter, 1754-1831",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3085,
+            "affiliate_fct": "Waldburg-Wolfegg-Waldsee, Maximilian Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8319,
+            "affiliate_fct": "Massenbach, Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13423,
+            "affiliate_fct": "Bismark, Friedrich Wilhelm Graf von; Generalleutnant und württembergischer Gesandter, 1783-1860",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16692,
+            "affiliate_fct": "Sternenfels, Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 36158,
+            "affiliate_fct": "Cotta von Cottendorf, Freiherren",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 36159,
+            "affiliate_fct": "Cotta von Cottendorf, Johann Friedrich Freiherr, Buchhändler, Verleger und Politiker, 1764-1832 | 11852240X",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 42102,
+            "affiliate_fct": "Münch, Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 42191,
+            "affiliate_fct": "Schenk von Stauffenberg, Grafen und Freiherren",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 61153,
+            "affiliate_fct": "Waldburg-Zeil-Trauchburg, Franz Thaddäus von; Fürst, Präsident der Ständeversammlung, 1778-1845 | 11711765X",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 64529,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Schillingsfürst, Friedrich Karl Fürst zu, 1908-1982",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 66049,
+            "affiliate_fct": "Varnbühler von Hemmingen; Carl Freiherr",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 66050,
+            "affiliate_fct": "Varnbühler von Hemmingen; Ferdinand Freiherr",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 71192,
+            "affiliate_fct": "Württemberg, Eberhard von; Graf, Rittmeister, Komponist, 1833-1896",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 109155,
+            "affiliate_fct": "Waldburg-Zeil-Wurzach, Leopold Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 110908,
+            "affiliate_fct": "Kechler von Schwandorf, Gustav Freiherr",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 118858,
+            "affiliate_fct": "Gaisberg, (Freiherren) von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 123477,
+            "affiliate_fct": "Ifflinger von Graneck, Freiherren",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 164112,
+            "affiliate_fct": "Salm-Reifferscheid-Dyck, Franz Altgraf bzw. Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 185532,
+            "affiliate_fct": "Racknitz, Karl Freiherr von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 185977,
+            "affiliate_fct": "Schertel von Burtenbach, Freiherren",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 189219,
+            "affiliate_fct": "Hohenlohe-Öhringen, Hugo Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 209416,
+            "affiliate_fct": "Waldburg-Zeil-Trauchburg, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 212186,
+            "affiliate_fct": "Hohenlohe-Öhringen, Felix Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 246276,
+            "affiliate_fct": "Linden, Grafen und Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 270933,
+            "affiliate_fct": "Pückler-Limpurg, Friedrich Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 328651,
+            "affiliate_fct": "Breitschwerdt, J. K. K. Freiherr von; Staatsrat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 347980,
+            "affiliate_fct": "Hohenlohe-Waldenburg; Fürsten von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 367978,
+            "affiliate_fct": "Neipperg, Adam Albert von; General, Staatsmann, 1775-1829",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 375963,
+            "affiliate_fct": "Schad, Jacob von; bayerischer Oberjustizrat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 438231,
+            "affiliate_fct": "Hohenlohe-Bartenstein-Jagstberg, Ludwig Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 440201,
+            "affiliate_fct": "Löwenstein-Wertheim-Freudenberg, Wilhelm I. Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 441912,
+            "affiliate_fct": "Pückler-Limpurg, Ludwig Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 450594,
+            "affiliate_fct": "Adelmann von Adelmannsfelden, Clemens Wenzeslaus Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 472528,
+            "affiliate_fct": "Stetten, Freiherr(en) von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 507109,
+            "affiliate_fct": "Üxküll-Gyllenband, Rudolf Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 523577,
+            "affiliate_fct": "Bissingen-Nippenburg, Cajetan Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 531987,
+            "affiliate_fct": "Waldburg-Zeil-Trauchburg, Wilhelm Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 571884,
+            "affiliate_fct": "Waldburg-Zeil-Wurzach, Karl Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 603063,
+            "affiliate_fct": "Pückler-Limpurg, Karl Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 603064,
+            "affiliate_fct": "Pückler-Limpurg, Kurt Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 625524,
+            "affiliate_fct": "Ifflinger v. Graneck, Frhn.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 798394,
+            "affiliate_fct": "Brecht, -; Stiftsschaffner",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 879540,
+            "affiliate_fct": "Bullinger, Bezirksamtmann in Wurzach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 915258,
+            "affiliate_fct": "Hohenlohe-Waldenburg-Schillingsfürst, Nikolaus Fürst von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 930410,
+            "affiliate_fct": "Baldinger, Karl Friedrich von, Leutnant, später Oberst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1010332,
+            "affiliate_fct": "Neipperg, Gfn. v.; Adam Adalbert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2249,
+            "affiliate_fct": "Linden, Edmund Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2521,
+            "affiliate_fct": "Linden, Franz à Paula Friedrich Freiherr (Graf) von; württembergischer Gesandter, 1800-1888",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3080,
+            "affiliate_fct": "Schaesberg-Thannheim, Heinrich Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3081,
+            "affiliate_fct": "Schaesberg-Thannheim, Josef Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3082,
+            "affiliate_fct": "Schaesberg-Thannheim, Julius Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3083,
+            "affiliate_fct": "Schaesberg-Thannheim, Richard Graf von",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 4,
+    "time_fct": "time_62000",
+    "affiliate_fct_id": 3553,
+    "affiliate_fct": "Präsidialabteilung",
+    "affiliate_fct_occurrence": 1448,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 3553,
+            "affiliate_fct": "Präsidialabteilung",
+            "affiliate_fct_occurrence": 1448
+        },
+        {
+            "affiliate_fct_id": 250590,
+            "affiliate_fct": "Cahn-Garnier; Fritz Dr.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 250592,
+            "affiliate_fct": "Köhler; Heinrich, Dr.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 20296,
+            "affiliate_fct": "Burger; Wilhelm, Dr.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 643151,
+            "affiliate_fct": "Unser; Hans, Dr.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 842423,
+            "affiliate_fct": "Heuß; Theodor",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 26348,
+            "affiliate_fct": "Kühn",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 61736,
+            "affiliate_fct": "Maier; Reinhold, Dr.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 86622,
+            "affiliate_fct": "Kaufmann; Th.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 250593,
+            "affiliate_fct": "Lisle; Colonel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 406428,
+            "affiliate_fct": "Unser; Dr.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 441111,
+            "affiliate_fct": "Baumann; Paula",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 535884,
+            "affiliate_fct": "Rosswag; Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 551116,
+            "affiliate_fct": "Lais; Eduard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 652300,
+            "affiliate_fct": "Jellinek; Walter, Prof. Dr.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 762221,
+            "affiliate_fct": "Frank; Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1013494,
+            "affiliate_fct": "Stams; Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1080002,
+            "affiliate_fct": "Müller; Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16961,
+            "affiliate_fct": "Lotz; Ernst, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17966,
+            "affiliate_fct": "Smith",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26329,
+            "affiliate_fct": "Bock",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26473,
+            "affiliate_fct": "Seubert; Robert, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30581,
+            "affiliate_fct": "Mössner; K.E.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30958,
+            "affiliate_fct": "Zimmermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57690,
+            "affiliate_fct": "Schober; Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 74075,
+            "affiliate_fct": "Quinke; Hermann, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 74552,
+            "affiliate_fct": "Heye; Ferdinand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84650,
+            "affiliate_fct": "Lomnitzer; H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90121,
+            "affiliate_fct": "Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100211,
+            "affiliate_fct": "Gröber; Conrad, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 103332,
+            "affiliate_fct": "Frei",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135073,
+            "affiliate_fct": "Schuman",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 144361,
+            "affiliate_fct": "Finke; Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160278,
+            "affiliate_fct": "Hornbach; Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 162344,
+            "affiliate_fct": "Adenauer; Konrad",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 178836,
+            "affiliate_fct": "Bender; Julius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 179194,
+            "affiliate_fct": "Nordheim; Gertrud, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181745,
+            "affiliate_fct": "Hellmann; Otto, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187227,
+            "affiliate_fct": "Menschik; Irene",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193483,
+            "affiliate_fct": "Landschütz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194165,
+            "affiliate_fct": "Neinhaus; Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 195470,
+            "affiliate_fct": "Schupp; Werner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 198616,
+            "affiliate_fct": "Nolting; Fritz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213059,
+            "affiliate_fct": "Ingold; Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213616,
+            "affiliate_fct": "Bertsch; Josef",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 223044,
+            "affiliate_fct": "Fricke; Prof. Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 232177,
+            "affiliate_fct": "Harlan; Veit",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 238337,
+            "affiliate_fct": "Heimerich; Hermann, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 250589,
+            "affiliate_fct": "Batschari, August; Cigarettenfabrik Baden-Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 250591,
+            "affiliate_fct": "Garnier; s. auch Cahn-Garnier, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 250594,
+            "affiliate_fct": "Martens; Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 250595,
+            "affiliate_fct": "Schnabel; Franz, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 263700,
+            "affiliate_fct": "Bartning; Otto, Prof.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 315272,
+            "affiliate_fct": "Scholl; R.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 317180,
+            "affiliate_fct": "Koppenberg; H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 325286,
+            "affiliate_fct": "Esche; E.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 325287,
+            "affiliate_fct": "Neitzke; A.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358594,
+            "affiliate_fct": "Bening; W., Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358595,
+            "affiliate_fct": "Schunk; Rudolf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358871,
+            "affiliate_fct": "Siebeck; Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 393634,
+            "affiliate_fct": "Rapp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 394402,
+            "affiliate_fct": "Trappel-Wallburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399451,
+            "affiliate_fct": "Sternad; Viktor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 405837,
+            "affiliate_fct": "Rappaport; P.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 405838,
+            "affiliate_fct": "Rossaint; J. C.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 406427,
+            "affiliate_fct": "Kaufmann; Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 430685,
+            "affiliate_fct": "Knebel; Kurt, Dipl.Ing.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 433105,
+            "affiliate_fct": "Anders; Reinhard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 433405,
+            "affiliate_fct": "Zircher; Hubert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448431,
+            "affiliate_fct": "Töpper; Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451729,
+            "affiliate_fct": "Matzerath",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470791,
+            "affiliate_fct": "Scharff; Walter, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487939,
+            "affiliate_fct": "Schweizer; Otto Ernst, Prof.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 505475,
+            "affiliate_fct": "Eichinger; Edmund",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 519605,
+            "affiliate_fct": "Mittasch; Paul Alwin, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 534966,
+            "affiliate_fct": "Bolte; Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 551117,
+            "affiliate_fct": "Swart; Hugo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 557431,
+            "affiliate_fct": "König; Gustav, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 558722,
+            "affiliate_fct": "Künzler; Minna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 578597,
+            "affiliate_fct": "Vögele; Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 596746,
+            "affiliate_fct": "Pier; Matthias, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 634906,
+            "affiliate_fct": "Hook; Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 652301,
+            "affiliate_fct": "Maunz; Prof.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 658769,
+            "affiliate_fct": "Reviczky; Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 680132,
+            "affiliate_fct": "Wacker; Oskar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 686064,
+            "affiliate_fct": "Hoffmann; Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 686065,
+            "affiliate_fct": "Loos; Theodor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 686066,
+            "affiliate_fct": "Ponto; Erich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 692698,
+            "affiliate_fct": "Gebhardt; Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 701953,
+            "affiliate_fct": "Tuchelt; Kurt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 710048,
+            "affiliate_fct": "Neubecker; Ottfried",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 710049,
+            "affiliate_fct": "Scheibert; Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 723666,
+            "affiliate_fct": "Leonhard; Gottfried",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 725157,
+            "affiliate_fct": "Huber; Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 737828,
+            "affiliate_fct": "Fassnacht; Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 747584,
+            "affiliate_fct": "Baden; Hilda von, Großherzogin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 757981,
+            "affiliate_fct": "Bischoff; Charlotte",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 767826,
+            "affiliate_fct": "Brender; Naftali H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 769373,
+            "affiliate_fct": "Stang; Eugen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 827779,
+            "affiliate_fct": "Steinle; Hans",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

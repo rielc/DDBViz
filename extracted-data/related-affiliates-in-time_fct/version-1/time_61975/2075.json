@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_facet_id": 2075,
+    "affiliate_facet": "Oskar Netoliczka",
+    "occurrence": 308,
+    "affiliates": [
+        {
+            "facet_id": 2075,
+            "occurrence": 319,
+            "value": "STB"
+        },
+        {
+            "facet_id": 13879,
+            "occurrence": 62,
+            "value": "Bauer; Hermann, Dekan in Weinsberg, A"
+        },
+        {
+            "facet_id": 13880,
+            "occurrence": 61,
+            "value": "Bossert; Gustav, Pfarrer in Bächlingen, A"
+        },
+        {
+            "facet_id": 214206,
+            "occurrence": 30,
+            "value": "Paulus; Eduard, Landeskonservator, im STB"
+        },
+        {
+            "facet_id": 151289,
+            "occurrence": 28,
+            "value": "Roth; Karl, Finanzrat in Neuenstadt, A"
+        },
+        {
+            "facet_id": 13897,
+            "occurrence": 11,
+            "value": "Hartmann; Julius, im STB/SLA"
+        },
+        {
+            "facet_id": 155790,
+            "occurrence": 6,
+            "value": "Hammer; Hofrat in Kirchberg an der Jagst, A"
+        },
+        {
+            "facet_id": 13247,
+            "occurrence": 5,
+            "value": "Paulus; Karl Eduard, im STB"
+        },
+        {
+            "facet_id": 66619,
+            "occurrence": 5,
+            "value": "Kull; Finanzrat im STB"
+        },
+        {
+            "facet_id": 10079,
+            "occurrence": 4,
+            "value": "Hartmann; Steuerkommissär, A"
+        },
+        {
+            "facet_id": 33751,
+            "occurrence": 2,
+            "value": "Bauer; Christian Friedrich, OAsarzt in Mergentheim, A"
+        },
+        {
+            "facet_id": 64919,
+            "occurrence": 2,
+            "value": "Stälin; Paul, Archivrat, im STB"
+        },
+        {
+            "facet_id": 154239,
+            "occurrence": 2,
+            "value": "Demus; Güterbuchkommissär, A"
+        },
+        {
+            "facet_id": 172140,
+            "occurrence": 2,
+            "value": "Teichmann; Steuerkommissär, A"
+        },
+        {
+            "facet_id": 262804,
+            "occurrence": 2,
+            "value": "Neuenstein; Herren von"
+        },
+        {
+            "facet_id": 362675,
+            "occurrence": 2,
+            "value": "Württemberg; Eberhard III. von, Herzog"
+        },
+        {
+            "facet_id": 415389,
+            "occurrence": 2,
+            "value": "Neff; Paul, Buchhandlung in Stuttgart"
+        },
+        {
+            "facet_id": 710386,
+            "occurrence": 2,
+            "value": "Kahle; Schultheiß in Lauchheim, A"
+        },
+        {
+            "facet_id": 900577,
+            "occurrence": 2,
+            "value": "Alberti; Otto von, Archivar, A"
+        },
+        {
+            "facet_id": 10080,
+            "occurrence": 1,
+            "value": "Schneiderhan; Pfarrer in Mühlhausen, A"
+        },
+        {
+            "facet_id": 13881,
+            "occurrence": 1,
+            "value": "Eubigheim; Herren von"
+        },
+        {
+            "facet_id": 13882,
+            "occurrence": 1,
+            "value": "Rosenberg; Herren von"
+        },
+        {
+            "facet_id": 27268,
+            "occurrence": 1,
+            "value": "Köhler; A., A"
+        },
+        {
+            "facet_id": 46949,
+            "occurrence": 1,
+            "value": "Gemmingen; Freiherren von"
+        },
+        {
+            "facet_id": 64917,
+            "occurrence": 1,
+            "value": "Jaumann; Pfarrer in Ebersberg, A"
+        },
+        {
+            "facet_id": 64918,
+            "occurrence": 1,
+            "value": "Killinger; Freiherren von"
+        },
+        {
+            "facet_id": 64920,
+            "occurrence": 1,
+            "value": "Wielandt; Ministerialrat in Karlsruhe, A"
+        },
+        {
+            "facet_id": 92374,
+            "occurrence": 1,
+            "value": "Crailsheim; Freiherren von"
+        },
+        {
+            "facet_id": 110510,
+            "occurrence": 1,
+            "value": "Bürger; Pfarrer in Kochersteinsfeld, A"
+        },
+        {
+            "facet_id": 110511,
+            "occurrence": 1,
+            "value": "Jäger; Karl, Pfarrer in Bürg, A"
+        },
+        {
+            "facet_id": 110512,
+            "occurrence": 1,
+            "value": "Maucher; Pfarrer in Neckarsulm, A"
+        },
+        {
+            "facet_id": 110513,
+            "occurrence": 1,
+            "value": "Sannwaldt; Steuerkommissär, A"
+        },
+        {
+            "facet_id": 116282,
+            "occurrence": 1,
+            "value": "Ulm; Freiherren von"
+        },
+        {
+            "facet_id": 121785,
+            "occurrence": 1,
+            "value": "Fugger; Grafen von"
+        },
+        {
+            "facet_id": 154240,
+            "occurrence": 1,
+            "value": "Greck von Kochendorf; Herren"
+        },
+        {
+            "facet_id": 154241,
+            "occurrence": 1,
+            "value": "Kochendorf; Herren von"
+        },
+        {
+            "facet_id": 154242,
+            "occurrence": 1,
+            "value": "St. André; Herren von"
+        },
+        {
+            "facet_id": 155789,
+            "occurrence": 1,
+            "value": "Dörzbach; Herren von"
+        },
+        {
+            "facet_id": 167610,
+            "occurrence": 1,
+            "value": "Hohenlohe; Grafen und Fürsten von"
+        },
+        {
+            "facet_id": 167612,
+            "occurrence": 1,
+            "value": "Neudeck; Herren von"
+        },
+        {
+            "facet_id": 177967,
+            "occurrence": 1,
+            "value": "Pfaff; Karl, Konrektor in Esslingen, A"
+        },
+        {
+            "facet_id": 178637,
+            "occurrence": 1,
+            "value": "Mauz; Lehrer in Nellingen, A"
+        },
+        {
+            "facet_id": 185245,
+            "occurrence": 1,
+            "value": "Helfenstein; Grafen von"
+        },
+        {
+            "facet_id": 200881,
+            "occurrence": 1,
+            "value": "Oettingen-Wallerstein; Fürsten von"
+        },
+        {
+            "facet_id": 211663,
+            "occurrence": 1,
+            "value": "Titot; Schultheiß in Heilbronn, A"
+        },
+        {
+            "facet_id": 212610,
+            "occurrence": 1,
+            "value": "Gonser; W., A"
+        },
+        {
+            "facet_id": 212611,
+            "occurrence": 1,
+            "value": "Schön; Theodor, Privatgelehrter in Stuttgart, A"
+        },
+        {
+            "facet_id": 212612,
+            "occurrence": 1,
+            "value": "Schwenckfeld; Kaspar"
+        },
+        {
+            "facet_id": 212613,
+            "occurrence": 1,
+            "value": "Weller; Karl, A"
+        },
+        {
+            "facet_id": 214207,
+            "occurrence": 1,
+            "value": "Scheler; Eugen von, Student"
+        },
+        {
+            "facet_id": 214208,
+            "occurrence": 1,
+            "value": "Schubart; Christian Friedrich Daniel"
+        },
+        {
+            "facet_id": 214209,
+            "occurrence": 1,
+            "value": "Wiederholt; Konrad, Festungskommandant"
+        },
+        {
+            "facet_id": 248061,
+            "occurrence": 1,
+            "value": "Magenau; Pfarrer in Hermaringen, A"
+        },
+        {
+            "facet_id": 256869,
+            "occurrence": 1,
+            "value": "Bazing; Justizrat, A"
+        },
+        {
+            "facet_id": 256870,
+            "occurrence": 1,
+            "value": "Hildebrand; Hans, in Stockholm, A"
+        },
+        {
+            "facet_id": 256871,
+            "occurrence": 1,
+            "value": "Kienle; Hans Ludwig, Goldschmied in Ulm"
+        },
+        {
+            "facet_id": 262803,
+            "occurrence": 1,
+            "value": "Löhr; Peter, aus Ingelfingen"
+        },
+        {
+            "facet_id": 262805,
+            "occurrence": 1,
+            "value": "Stein zu Kocherstein; Herren von"
+        },
+        {
+            "facet_id": 264592,
+            "occurrence": 1,
+            "value": "Kremer; Pater in Schöntal, A"
+        },
+        {
+            "facet_id": 301183,
+            "occurrence": 1,
+            "value": "Breitenbach; Anton, Archivar in Mergentheim, A"
+        },
+        {
+            "facet_id": 309967,
+            "occurrence": 1,
+            "value": "Volz; Pfarrer in Honhardt, A"
+        },
+        {
+            "facet_id": 329572,
+            "occurrence": 1,
+            "value": "Buck; OAsarzt in Ehingen, A"
+        },
+        {
+            "facet_id": 336306,
+            "occurrence": 1,
+            "value": "Christ; Karl, Heimatforscher in Heidelberg, A"
+        },
+        {
+            "facet_id": 336307,
+            "occurrence": 1,
+            "value": "Kurtz; K.M., A"
+        },
+        {
+            "facet_id": 336308,
+            "occurrence": 1,
+            "value": "Reuleaux; F., A"
+        },
+        {
+            "facet_id": 336309,
+            "occurrence": 1,
+            "value": "Zangemeister; Karl, A"
+        },
+        {
+            "facet_id": 344277,
+            "occurrence": 1,
+            "value": "Capler von Oedheim; Freiherren"
+        },
+        {
+            "facet_id": 344278,
+            "occurrence": 1,
+            "value": "Capler von Oedheim; Heinrich, A"
+        },
+        {
+            "facet_id": 344279,
+            "occurrence": 1,
+            "value": "Laib; Pfarrer in Oedheim, A"
+        },
+        {
+            "facet_id": 353436,
+            "occurrence": 1,
+            "value": "Welfen; Dynastie"
+        },
+        {
+            "facet_id": 366870,
+            "occurrence": 1,
+            "value": "Vanotti; Johann Nepomuk von, Domkapitular in Rottenburg, A"
+        },
+        {
+            "facet_id": 368023,
+            "occurrence": 1,
+            "value": "Schumann; Pfarrer in Bonfeld, A"
+        },
+        {
+            "facet_id": 392841,
+            "occurrence": 1,
+            "value": "Grävenitz; Wilhelmine von"
+        },
+        {
+            "facet_id": 409482,
+            "occurrence": 1,
+            "value": "Staudinger; Antiquariat in Würzburg"
+        },
+        {
+            "facet_id": 409483,
+            "occurrence": 1,
+            "value": "Wolf; Pfarrer in Altenmünster, A"
+        },
+        {
+            "facet_id": 414580,
+            "occurrence": 1,
+            "value": "Mack; Schultheiß in Pfahlheim"
+        },
+        {
+            "facet_id": 415387,
+            "occurrence": 1,
+            "value": "Bader; R., Antiquariat in Freiburg i.Br."
+        },
+        {
+            "facet_id": 415388,
+            "occurrence": 1,
+            "value": "Knöringen; Freiherren von"
+        },
+        {
+            "facet_id": 438960,
+            "occurrence": 1,
+            "value": "Ellrichshausen; Freiherren von"
+        },
+        {
+            "facet_id": 438961,
+            "occurrence": 1,
+            "value": "Ellrichshausen; Josef von, Freiherr, A"
+        },
+        {
+            "facet_id": 438962,
+            "occurrence": 1,
+            "value": "Sandberger; Karl, Pfarrer in Assumstadt, A"
+        },
+        {
+            "facet_id": 481840,
+            "occurrence": 1,
+            "value": "Heller; Daniel Friedrich, Pfarrer in Braunsbach, A"
+        },
+        {
+            "facet_id": 481841,
+            "occurrence": 1,
+            "value": "Stetten zu Kocherstetten; Eugenie von, A"
+        },
+        {
+            "facet_id": 481842,
+            "occurrence": 1,
+            "value": "Stetten zu Kocherstetten; Freiherren von"
+        },
+        {
+            "facet_id": 481843,
+            "occurrence": 1,
+            "value": "Weitbrecht; Pfarrer in Kocherstetten, A"
+        },
+        {
+            "facet_id": 491383,
+            "occurrence": 1,
+            "value": "Zorer; Amtmann in Ellwangen, A"
+        },
+        {
+            "facet_id": 498613,
+            "occurrence": 1,
+            "value": "Sieglin; Pfarrer in Vorbachzimmern, A"
+        },
+        {
+            "facet_id": 508809,
+            "occurrence": 1,
+            "value": "Tannhausen; von, Revierförster in Ellenberg, A"
+        },
+        {
+            "facet_id": 511425,
+            "occurrence": 1,
+            "value": "Enzberg; Leopold von, in Mühlheim a.d. Donau, A"
+        },
+        {
+            "facet_id": 511426,
+            "occurrence": 1,
+            "value": "Gmelin; Moritz, Archivar in Karlsruhe, A"
+        },
+        {
+            "facet_id": 521645,
+            "occurrence": 1,
+            "value": "Ohrn; Herren von"
+        },
+        {
+            "facet_id": 521646,
+            "occurrence": 1,
+            "value": "Pfedelbach; Herren von"
+        },
+        {
+            "facet_id": 521647,
+            "occurrence": 1,
+            "value": "Sindringen; Herren von"
+        },
+        {
+            "facet_id": 535846,
+            "occurrence": 1,
+            "value": "Faber; Pfarrer in Möckmühl, A"
+        },
+        {
+            "facet_id": 565822,
+            "occurrence": 1,
+            "value": "Braunschweig; Ernst August von, Herzog"
+        },
+        {
+            "facet_id": 565823,
+            "occurrence": 1,
+            "value": "Bühler; Anton, A"
+        },
+        {
+            "facet_id": 565824,
+            "occurrence": 1,
+            "value": "Heyd; Wilhelm, A"
+        },
+        {
+            "facet_id": 565825,
+            "occurrence": 1,
+            "value": "Preußen; Viktoria Luise von"
+        },
+        {
+            "facet_id": 565826,
+            "occurrence": 1,
+            "value": "Römischer König; Rudolf I."
+        },
+        {
+            "facet_id": 565827,
+            "occurrence": 1,
+            "value": "Rösch; Familie in Ravensburg"
+        }
+    ]
+}

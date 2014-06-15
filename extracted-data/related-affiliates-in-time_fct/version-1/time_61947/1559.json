@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 2,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 1559,
+    "affiliate_facet": "Domänenkanzlei",
+    "occurrence": 7312,
+    "affiliates": [
+        {
+            "facet_id": 1559,
+            "occurrence": 288,
+            "value": "Murray"
+        },
+        {
+            "facet_id": 30657,
+            "occurrence": 25,
+            "value": "Royal Geographical Society"
+        },
+        {
+            "facet_id": 18888,
+            "occurrence": 21,
+            "value": "Wellington, Arthur Wellesley of (1769-1852)"
+        },
+        {
+            "facet_id": 95251,
+            "occurrence": 15,
+            "value": "Wellington, Arthur Richard Wellesley of (1807-1884)"
+        },
+        {
+            "facet_id": 25096,
+            "occurrence": 12,
+            "value": "Byron, George Gordon Byron (1788-1824)"
+        },
+        {
+            "facet_id": 185319,
+            "occurrence": 10,
+            "value": "Milman, Henry Hart (1791-1868)"
+        },
+        {
+            "facet_id": 11845,
+            "occurrence": 9,
+            "value": "Arber, Edward (1836-1912)"
+        },
+        {
+            "facet_id": 12979,
+            "occurrence": 5,
+            "value": "Pope, Alexander (1688-1744)"
+        },
+        {
+            "facet_id": 88243,
+            "occurrence": 5,
+            "value": "Croker, John Wilson (1780-1857)"
+        },
+        {
+            "facet_id": 187433,
+            "occurrence": 5,
+            "value": "Robinson, Edward"
+        },
+        {
+            "facet_id": 211375,
+            "occurrence": 5,
+            "value": "Borrow, George Henry (1803-1881)"
+        },
+        {
+            "facet_id": 33501,
+            "occurrence": 4,
+            "value": "Darwin, Charles (1809-1882)"
+        },
+        {
+            "facet_id": 66863,
+            "occurrence": 4,
+            "value": "Livingstone, David (1813-1873)"
+        },
+        {
+            "facet_id": 73286,
+            "occurrence": 4,
+            "value": "Waagen, Gustav Friedrich (1794-1868)"
+        },
+        {
+            "facet_id": 100876,
+            "occurrence": 4,
+            "value": "Napier, William Francis Patrick (1785-1860)"
+        },
+        {
+            "facet_id": 520311,
+            "occurrence": 4,
+            "value": "Bateman, Josiah"
+        },
+        {
+            "facet_id": 744576,
+            "occurrence": 4,
+            "value": "Hobhouse, John Cam"
+        },
+        {
+            "facet_id": 25164,
+            "occurrence": 3,
+            "value": "Lowe, Hudson (1769-1844)"
+        },
+        {
+            "facet_id": 30082,
+            "occurrence": 3,
+            "value": "Ross, Charles"
+        },
+        {
+            "facet_id": 49083,
+            "occurrence": 3,
+            "value": "Stanley, Arthur Penrhyn (1815-1881)"
+        },
+        {
+            "facet_id": 75849,
+            "occurrence": 3,
+            "value": "Hallam, Henry"
+        },
+        {
+            "facet_id": 79885,
+            "occurrence": 3,
+            "value": "Lane, Edward William (1801-1876)"
+        },
+        {
+            "facet_id": 100708,
+            "occurrence": 3,
+            "value": "Abbot, Charles"
+        },
+        {
+            "facet_id": 132575,
+            "occurrence": 3,
+            "value": "Stanhope, Philip Henry (1805-1875)"
+        },
+        {
+            "facet_id": 238734,
+            "occurrence": 3,
+            "value": "Forsyth, William"
+        },
+        {
+            "facet_id": 273996,
+            "occurrence": 3,
+            "value": "Fortune, Robert"
+        },
+        {
+            "facet_id": 285990,
+            "occurrence": 3,
+            "value": "Cornwallis, Charles Cornwallis (1738-1805)"
+        },
+        {
+            "facet_id": 343639,
+            "occurrence": 3,
+            "value": "Fergusson, James"
+        },
+        {
+            "facet_id": 407077,
+            "occurrence": 3,
+            "value": "Kirk, John Foster (1824-1904)"
+        },
+        {
+            "facet_id": 531868,
+            "occurrence": 3,
+            "value": "Abbot, Charles (1757-1829)"
+        },
+        {
+            "facet_id": 531869,
+            "occurrence": 3,
+            "value": "Abbot, Charles (1798-1867)"
+        },
+        {
+            "facet_id": 605780,
+            "occurrence": 3,
+            "value": "Somerville, Mary (1780-1872)"
+        },
+        {
+            "facet_id": 54072,
+            "occurrence": 2,
+            "value": "Blakiston, Thomas Wright"
+        },
+        {
+            "facet_id": 132561,
+            "occurrence": 2,
+            "value": "Donne, W. Bodham"
+        },
+        {
+            "facet_id": 134875,
+            "occurrence": 2,
+            "value": "Lyell, Charles (1797-1875)"
+        },
+        {
+            "facet_id": 150560,
+            "occurrence": 2,
+            "value": "Broughton, John Cam Hobhouse (1786-1869)"
+        },
+        {
+            "facet_id": 189162,
+            "occurrence": 2,
+            "value": "Franklin, John (1786-1847)"
+        },
+        {
+            "facet_id": 216174,
+            "occurrence": 2,
+            "value": "Hooker, Joseph Dalton (1817-1911)"
+        },
+        {
+            "facet_id": 220353,
+            "occurrence": 2,
+            "value": "Du Chaillu, Paul B. (1835-1903)"
+        },
+        {
+            "facet_id": 221080,
+            "occurrence": 2,
+            "value": "Grey, Charles Earl"
+        },
+        {
+            "facet_id": 279623,
+            "occurrence": 2,
+            "value": "Muirhead, James P."
+        },
+        {
+            "facet_id": 282349,
+            "occurrence": 2,
+            "value": "Porter, Josias L."
+        },
+        {
+            "facet_id": 346788,
+            "occurrence": 2,
+            "value": "Cust, Edward"
+        },
+        {
+            "facet_id": 358813,
+            "occurrence": 2,
+            "value": "Calthorpe, Somerset John Gough"
+        },
+        {
+            "facet_id": 365085,
+            "occurrence": 2,
+            "value": "Erskine, John Elphinstone"
+        },
+        {
+            "facet_id": 390911,
+            "occurrence": 2,
+            "value": "Ellis, William (1794-1872)"
+        },
+        {
+            "facet_id": 422788,
+            "occurrence": 2,
+            "value": "Bates, Henry Walter (1825-1892)"
+        },
+        {
+            "facet_id": 427216,
+            "occurrence": 2,
+            "value": "Leslie, Charles Robert (1794-1859)"
+        },
+        {
+            "facet_id": 514159,
+            "occurrence": 2,
+            "value": "Bisset, Andrew"
+        },
+        {
+            "facet_id": 735383,
+            "occurrence": 2,
+            "value": "M'Clintock, Francis Leopold (1819-1907)"
+        },
+        {
+            "facet_id": 744794,
+            "occurrence": 2,
+            "value": "Churton, Edward"
+        },
+        {
+            "facet_id": 1007529,
+            "occurrence": 2,
+            "value": "Grote, George (1794-1871)"
+        },
+        {
+            "facet_id": 1083430,
+            "occurrence": 2,
+            "value": "Randolph, Herbert"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 1,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 3744,
+            "occurrence": 1,
+            "value": "Brougham and Vaux, Henry Brougham (1778-1868)"
+        },
+        {
+            "facet_id": 4541,
+            "occurrence": 1,
+            "value": "British Museum (London)"
+        },
+        {
+            "facet_id": 4874,
+            "occurrence": 1,
+            "value": "Great Britain"
+        },
+        {
+            "facet_id": 5762,
+            "occurrence": 1,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 11844,
+            "occurrence": 1,
+            "value": "Buckingham, George Villiers of (1592-1628)"
+        },
+        {
+            "facet_id": 21475,
+            "occurrence": 1,
+            "value": "Addison, Joseph (1672-1719)"
+        },
+        {
+            "facet_id": 25927,
+            "occurrence": 1,
+            "value": "Selden, John (1584-1654)"
+        },
+        {
+            "facet_id": 31196,
+            "occurrence": 1,
+            "value": "Cobbold, Robert Henry"
+        },
+        {
+            "facet_id": 42518,
+            "occurrence": 1,
+            "value": "Great Britain / Record Commission"
+        },
+        {
+            "facet_id": 57886,
+            "occurrence": 1,
+            "value": "Vámbéry, Ármin (1832-1913)"
+        },
+        {
+            "facet_id": 62656,
+            "occurrence": 1,
+            "value": "London"
+        },
+        {
+            "facet_id": 63967,
+            "occurrence": 1,
+            "value": "Loch, Henry Brougham"
+        },
+        {
+            "facet_id": 75962,
+            "occurrence": 1,
+            "value": "Campbell, John"
+        },
+        {
+            "facet_id": 97808,
+            "occurrence": 1,
+            "value": "Airy, George Biddell (1801-1892)"
+        },
+        {
+            "facet_id": 121587,
+            "occurrence": 1,
+            "value": "Markham, Clements R. (1830-1916)"
+        },
+        {
+            "facet_id": 127294,
+            "occurrence": 1,
+            "value": "Habington, William (1605-1654)"
+        },
+        {
+            "facet_id": 163822,
+            "occurrence": 1,
+            "value": "Gosson, Stephen (1554-1624)"
+        },
+        {
+            "facet_id": 179528,
+            "occurrence": 1,
+            "value": "Maine, Henry Sumner (1822-1888)"
+        },
+        {
+            "facet_id": 183724,
+            "occurrence": 1,
+            "value": "King, Samuel William"
+        },
+        {
+            "facet_id": 184662,
+            "occurrence": 1,
+            "value": "(Clowes and Sons)"
+        },
+        {
+            "facet_id": 184663,
+            "occurrence": 1,
+            "value": "Livingstone, Charles"
+        },
+        {
+            "facet_id": 187434,
+            "occurrence": 1,
+            "value": "Smith, Eli (1801-1857)"
+        },
+        {
+            "facet_id": 194189,
+            "occurrence": 1,
+            "value": "Hill, Frederic"
+        },
+        {
+            "facet_id": 203047,
+            "occurrence": 1,
+            "value": "Douglas, Howard (1776-1861)"
+        },
+        {
+            "facet_id": 243366,
+            "occurrence": 1,
+            "value": "Winston, Charles (1814-1864)"
+        },
+        {
+            "facet_id": 276789,
+            "occurrence": 1,
+            "value": "Hardcastle, Mary Scarlett Campbell"
+        },
+        {
+            "facet_id": 283556,
+            "occurrence": 1,
+            "value": "Dixon, William Hepworth (1821-1879)"
+        },
+        {
+            "facet_id": 375069,
+            "occurrence": 1,
+            "value": "Bickmore, Albert Smith"
+        },
+        {
+            "facet_id": 380487,
+            "occurrence": 1,
+            "value": "Campbell, George"
+        },
+        {
+            "facet_id": 403628,
+            "occurrence": 1,
+            "value": "Head, Edmund (1805-1868)"
+        },
+        {
+            "facet_id": 439580,
+            "occurrence": 1,
+            "value": "Howard, Henry (1517-1547)"
+        },
+        {
+            "facet_id": 449399,
+            "occurrence": 1,
+            "value": "Oliphant, Laurence"
+        },
+        {
+            "facet_id": 453976,
+            "occurrence": 1,
+            "value": "Layard, Austen Henry (1817-1894)"
+        },
+        {
+            "facet_id": 457292,
+            "occurrence": 1,
+            "value": "Grey, George, Sir"
+        },
+        {
+            "facet_id": 464766,
+            "occurrence": 1,
+            "value": "King, Charles William"
+        },
+        {
+            "facet_id": 544375,
+            "occurrence": 1,
+            "value": "Tylor, Edward Burnet"
+        },
+        {
+            "facet_id": 553043,
+            "occurrence": 1,
+            "value": "Cathcart, George (1794-1854)"
+        },
+        {
+            "facet_id": 605860,
+            "occurrence": 1,
+            "value": "Frère, M."
+        },
+        {
+            "facet_id": 616163,
+            "occurrence": 1,
+            "value": "Mayne, Richard Charles"
+        },
+        {
+            "facet_id": 641724,
+            "occurrence": 1,
+            "value": "Mills, Arthur"
+        },
+        {
+            "facet_id": 663277,
+            "occurrence": 1,
+            "value": "Ferrier, J. P."
+        },
+        {
+            "facet_id": 676262,
+            "occurrence": 1,
+            "value": "King, Samuel W. (1821-1868)"
+        },
+        {
+            "facet_id": 704534,
+            "occurrence": 1,
+            "value": "Vaux, William S. W. (1818-1885)"
+        },
+        {
+            "facet_id": 708362,
+            "occurrence": 1,
+            "value": "Scrope, George Poulett (1797-1876)"
+        },
+        {
+            "facet_id": 715006,
+            "occurrence": 1,
+            "value": "Seymour, Henry Dauby"
+        },
+        {
+            "facet_id": 722048,
+            "occurrence": 1,
+            "value": "Elgin, James"
+        }
+    ]
+}

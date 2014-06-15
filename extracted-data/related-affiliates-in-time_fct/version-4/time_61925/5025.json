@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_fct_id": 5025,
+    "affiliate_fct": "Fürstliche Landesregierung Sigmaringen",
+    "affiliate_fct_occurrence": 1149,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5025,
+            "affiliate_fct": "Fürstliche Landesregierung Sigmaringen",
+            "affiliate_fct_occurrence": 1149
+        },
+        {
+            "affiliate_fct_id": 89299,
+            "affiliate_fct": "Laßberg, Friedrich von; Rechtshistoriker, 1798-1838",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 43704,
+            "affiliate_fct": "Fürstenberg, Fürsten von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 323331,
+            "affiliate_fct": "Speth, von; Friedrich Adelbert (Hettingen, Gammertingen SIG)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 323332,
+            "affiliate_fct": "Speth, von; Ludwig",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 8300,
+            "affiliate_fct": "Hohenzollern-Sigmaringen, von; Familie",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 48327,
+            "affiliate_fct": "Kuhn, Sebastian, Walbertsweiler",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 151681,
+            "affiliate_fct": "Straßberg, von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 8899,
+            "affiliate_fct": "Brodmann, Franz Josef, Liggersdorf",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 23149,
+            "affiliate_fct": "Hohenzollern-Sigmaringen, Anton Aloys von; Fürst, 1762-1831",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 88078,
+            "affiliate_fct": "Dangel, Franz, Pfarrer, Veringendorf",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 123016,
+            "affiliate_fct": "Butsch, Ignatz, Lehrer, Hippetsweiler",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 123017,
+            "affiliate_fct": "Engel, Anton, Lehrer, Liggersdorf",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 284466,
+            "affiliate_fct": "Pfeiffer, Ferdinand, Bingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 502859,
+            "affiliate_fct": "Bregenzer, Josef, Wagner, Bingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 517917,
+            "affiliate_fct": "Diem, Josef, Schultheiß, Vilsingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2283,
+            "affiliate_fct": "Thurn und Taxis, Fürsten von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 48328,
+            "affiliate_fct": "Nothhelfer, Georg, Dietershofen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81482,
+            "affiliate_fct": "Birkle, Linus, Kronenwirt, Haigerloch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 82037,
+            "affiliate_fct": "Mock, Walburga, Sigmaringen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 130311,
+            "affiliate_fct": "Kugler, Johann, Ölkofen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 182860,
+            "affiliate_fct": "Wolf, Anton, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 182861,
+            "affiliate_fct": "Wolf, Fidel, Bäcker, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 205110,
+            "affiliate_fct": "Fauler, Valentin, Kettenacker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 205112,
+            "affiliate_fct": "Fleisch, Michael, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 205116,
+            "affiliate_fct": "Schrök, Josef, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 232316,
+            "affiliate_fct": "Uhl, Bauinspektor",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 237353,
+            "affiliate_fct": "Schmid, Johann, Heggelbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 238246,
+            "affiliate_fct": "Leibfritz, Carl, Hettingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 277276,
+            "affiliate_fct": "Hieber, Johann, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 278397,
+            "affiliate_fct": "Baumeister, Hofapotheker, Sigmaringen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 294897,
+            "affiliate_fct": "Kuhn, Johann Georg, Walbertsweiler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 297031,
+            "affiliate_fct": "Neusch, Joseph, Nusplingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 312415,
+            "affiliate_fct": "Rebholz, Mathä, Bäcker, Sigmaringendorf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 346907,
+            "affiliate_fct": "Eger, Martin, Lehrer, Haigerloch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 400708,
+            "affiliate_fct": "Sprißler, Josef, Pfarrer, Nationalversammlungsabgeordneter, Empfingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 401518,
+            "affiliate_fct": "Ulmann, Moses, Haigerloch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 406138,
+            "affiliate_fct": "Baur, F., Publikationskommissar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 406139,
+            "affiliate_fct": "Henes, Ludwig, Publikationsgehilfe",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 420359,
+            "affiliate_fct": "Kessler, Johann, Bauer, Bittelschieß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 444999,
+            "affiliate_fct": "Engel, Pfarrer, Hausen am Andelsbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 503741,
+            "affiliate_fct": "Schweikart, Johann Baptist, Lehrer, Walbertsweiler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 551743,
+            "affiliate_fct": "Wessenberg, von; Ignaz Heinrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 567649,
+            "affiliate_fct": "Burkart, Leodegar, Gammertingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 568213,
+            "affiliate_fct": "Marte, Ambros, Deutwang",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 601129,
+            "affiliate_fct": "Längle, Johannes, Ringgenbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 603056,
+            "affiliate_fct": "Knoll, Joachim, Sigmaringendorf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 620543,
+            "affiliate_fct": "Heilbronner, Lazarus, Haigerloch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 673439,
+            "affiliate_fct": "Keller, Jacob, Bauer, Liggersdorf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 679101,
+            "affiliate_fct": "Klötzle, Joseph, Lehrer, Kappel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 790778,
+            "affiliate_fct": "Duffner, Veronika, Bietenhausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 804770,
+            "affiliate_fct": "Kleiner, Konrad, Goldadlerwirt, Krauchenwies",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 845990,
+            "affiliate_fct": "Schnell, Fidelis, Pfarrer, Gruol",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 863269,
+            "affiliate_fct": "Knoll, Klemens, Bingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 863270,
+            "affiliate_fct": "Schlegel, Johann Georg, Göggingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 863865,
+            "affiliate_fct": "Marquart, Georg, Bauer, Waldsteig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 946984,
+            "affiliate_fct": "Stecher, Josef, Krauchenwies",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 976203,
+            "affiliate_fct": "Sautter; Werkmeister, Balingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 340,
+            "affiliate_fct": "Baur",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 12632,
+            "affiliate_fct": "Sell; Geometer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23150,
+            "affiliate_fct": "Schwarzmann, Eduard; Archivar, 1815-1869",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26444,
+            "affiliate_fct": "Weil, Jakob, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37545,
+            "affiliate_fct": "Franz II.; Kaiser, 1768-1835",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39372,
+            "affiliate_fct": "Eger, Lehrer, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46928,
+            "affiliate_fct": "Gulde, Johann, Kettenacker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 48326,
+            "affiliate_fct": "Blum, Anselm, Kappel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56228,
+            "affiliate_fct": "Säger, Anton, Hausen am Andelsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56229,
+            "affiliate_fct": "Werner, Johann, Hausen am Andelsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56327,
+            "affiliate_fct": "Eisele, Remig, Arzt, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60564,
+            "affiliate_fct": "Hohenzollern-Hechingen, Meinrad von; Graf, Domherr zu Konstanz, Pfarrer in Veringendorf, 1730-1823",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68685,
+            "affiliate_fct": "Fidelis von Sigmaringen; Heiliger, 1578-1622",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68686,
+            "affiliate_fct": "Fidelis, Heiliger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69733,
+            "affiliate_fct": "Bantle, Johann, Bauer, Straßberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73011,
+            "affiliate_fct": "Biggard, Abraham, Dettensee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73012,
+            "affiliate_fct": "Biggard, Veit, Dettensee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73013,
+            "affiliate_fct": "Hochstätter, Baruch, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73014,
+            "affiliate_fct": "Hochstätter, Jakob, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73015,
+            "affiliate_fct": "Levi, Ella, Dettensee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73016,
+            "affiliate_fct": "Löwengart, Jakob, Dettensee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73017,
+            "affiliate_fct": "Rothfelder, Rosalia, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73018,
+            "affiliate_fct": "Zeiser, Johann, Haigerloch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73947,
+            "affiliate_fct": "Dopfer, Regierungsassessor, Sigmaringen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 74257,
+            "affiliate_fct": "Öttingen-Spielberg, Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80626,
+            "affiliate_fct": "Speh, Wendelin, Sigmaringendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 82038,
+            "affiliate_fct": "Münzer, Hirschwirt, Sigmaringen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 82170,
+            "affiliate_fct": "Riedle, M.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84083,
+            "affiliate_fct": "Ott, Wendelin, Lehrer, Sigmaringen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85673,
+            "affiliate_fct": "Bach, Alois, Maurer, Dießen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105441,
+            "affiliate_fct": "Speh, Josef, Bauer, Sigmaringendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110499,
+            "affiliate_fct": "Sautter, Jakob, Rechnungsrat und Hauptkassierer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110984,
+            "affiliate_fct": "Braun, Anna Maria, Hippetsweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110985,
+            "affiliate_fct": "Mühlherr, Johann Georg, Selgetsweiler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115497,
+            "affiliate_fct": "Gulde, Stefan, Kirchenpfleger, Sigmaringendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115498,
+            "affiliate_fct": "Pröbstle, Mathias, Kirchenpfleger, Sigmaringendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115499,
+            "affiliate_fct": "Rebholz, Johann, Kirchenpfleger, Sigmaringendorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120707,
+            "affiliate_fct": "Dobler, Franz Karl, Lehrer, Veringenstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123018,
+            "affiliate_fct": "Humberger, Raimund, Lehrer, Mindersdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 126741,
+            "affiliate_fct": "Holzhausen, Freiherr von, Gesandter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129337,
+            "affiliate_fct": "Mittnacht, von, Oberfinanzrat, Stuttgart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131196,
+            "affiliate_fct": "Bodman, Freiherren von",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

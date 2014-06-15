@@ -1,0 +1,469 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 2340,
+    "affiliate_facet": "Castello, Elia",
+    "occurrence": 417,
+    "affiliates": [
+        {
+            "facet_id": 2340,
+            "occurrence": 526,
+            "value": "Kloster Bronnbach"
+        },
+        {
+            "facet_id": 18006,
+            "occurrence": 8,
+            "value": "Löwenstein-Wertheim, Fürsten und Grafen zu"
+        },
+        {
+            "facet_id": 659044,
+            "occurrence": 3,
+            "value": "Mammel, Valentin, Abt zu Bronnbach"
+        },
+        {
+            "facet_id": 278958,
+            "occurrence": 2,
+            "value": "Geyer von Giebelstadt; Philipp"
+        },
+        {
+            "facet_id": 491033,
+            "occurrence": 2,
+            "value": "Sickingen, von; Schweikard"
+        },
+        {
+            "facet_id": 526943,
+            "occurrence": 2,
+            "value": "Schürer, Veit, Schultheiß zu Hochhausen"
+        },
+        {
+            "facet_id": 649696,
+            "occurrence": 2,
+            "value": "Bundschuh, Michael, Reicholzheim"
+        },
+        {
+            "facet_id": 995158,
+            "occurrence": 2,
+            "value": "Schönborn, von; Johann Philipp, Bischof zu Würzburg"
+        },
+        {
+            "facet_id": 12536,
+            "occurrence": 1,
+            "value": "Bundschuh, Andreas, Reicholzheim"
+        },
+        {
+            "facet_id": 77120,
+            "occurrence": 1,
+            "value": "Wertheim, Grafen von; Rudolf"
+        },
+        {
+            "facet_id": 215485,
+            "occurrence": 1,
+            "value": "Geyer von Giebelstadt"
+        },
+        {
+            "facet_id": 245320,
+            "occurrence": 1,
+            "value": "Bundt, Michael"
+        },
+        {
+            "facet_id": 262280,
+            "occurrence": 1,
+            "value": "Rosenberg, von"
+        },
+        {
+            "facet_id": 278956,
+            "occurrence": 1,
+            "value": "Geyer von Giebelstadt; Heinrich Wolfgang"
+        },
+        {
+            "facet_id": 278957,
+            "occurrence": 1,
+            "value": "Geyer von Giebelstadt; Johann Heinrich"
+        },
+        {
+            "facet_id": 302796,
+            "occurrence": 1,
+            "value": "Hotz, Niklas"
+        },
+        {
+            "facet_id": 302797,
+            "occurrence": 1,
+            "value": "Mühlich, Valentin"
+        },
+        {
+            "facet_id": 395904,
+            "occurrence": 1,
+            "value": "Schürer, Hans"
+        },
+        {
+            "facet_id": 428372,
+            "occurrence": 1,
+            "value": "Johann, Abt zu Bronnbach"
+        },
+        {
+            "facet_id": 491032,
+            "occurrence": 1,
+            "value": "Echter zu Mespelbrunn, Freiherren; Karl Rudolf"
+        },
+        {
+            "facet_id": 491034,
+            "occurrence": 1,
+            "value": "Stettenberg zu Gamburg, von"
+        },
+        {
+            "facet_id": 505657,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Rochefort, Fürsten und Grafen zu"
+        },
+        {
+            "facet_id": 558616,
+            "occurrence": 1,
+            "value": "Wolfskehl zu Albertshausen, Neidhard Konrad"
+        },
+        {
+            "facet_id": 565139,
+            "occurrence": 1,
+            "value": "Kriechingen, Freiherren von; Wilhelm"
+        },
+        {
+            "facet_id": 574110,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim, Grafen von; Ludwig"
+        },
+        {
+            "facet_id": 577781,
+            "occurrence": 1,
+            "value": "Krane, Heinrich"
+        },
+        {
+            "facet_id": 581372,
+            "occurrence": 1,
+            "value": "Dölfer, Michael"
+        },
+        {
+            "facet_id": 581928,
+            "occurrence": 1,
+            "value": "Röser, Michel, Schulmeister zu Reicholzheim"
+        },
+        {
+            "facet_id": 608747,
+            "occurrence": 1,
+            "value": "Geyer von Giebelstadt; Sebastian"
+        },
+        {
+            "facet_id": 608748,
+            "occurrence": 1,
+            "value": "Keusch, Johannes, Vikar des Domstifts Würzburg"
+        },
+        {
+            "facet_id": 608749,
+            "occurrence": 1,
+            "value": "Weibler, Heinz, Bürger zu Würzburg"
+        },
+        {
+            "facet_id": 618871,
+            "occurrence": 1,
+            "value": "Waldenberger, Johann"
+        },
+        {
+            "facet_id": 618872,
+            "occurrence": 1,
+            "value": "Wilhelm, Peter"
+        },
+        {
+            "facet_id": 619926,
+            "occurrence": 1,
+            "value": "Kaufmann, Alexander, Archivrat"
+        },
+        {
+            "facet_id": 659042,
+            "occurrence": 1,
+            "value": "Alberich, Abt zu Ebrach"
+        },
+        {
+            "facet_id": 659043,
+            "occurrence": 1,
+            "value": "Groß, Friedrich, Abt zu Bronnbach"
+        },
+        {
+            "facet_id": 661122,
+            "occurrence": 1,
+            "value": "Wertheim, Grafen von"
+        },
+        {
+            "facet_id": 701724,
+            "occurrence": 1,
+            "value": "Echter zu Mespelbrunn, Freiherren; Karl Joseph"
+        },
+        {
+            "facet_id": 704916,
+            "occurrence": 1,
+            "value": "Rauchhundt, Matthias, Schultheiß"
+        },
+        {
+            "facet_id": 714205,
+            "occurrence": 1,
+            "value": "Löhr, Anton, Reicholzheim"
+        },
+        {
+            "facet_id": 731632,
+            "occurrence": 1,
+            "value": "Busmann, Hans Adam"
+        },
+        {
+            "facet_id": 731633,
+            "occurrence": 1,
+            "value": "Eitel, Hans, Reicholzheim"
+        },
+        {
+            "facet_id": 731634,
+            "occurrence": 1,
+            "value": "Herold, Lorenz, Müller zu Bronnbach"
+        },
+        {
+            "facet_id": 731635,
+            "occurrence": 1,
+            "value": "Künzig, Lorenz"
+        },
+        {
+            "facet_id": 731636,
+            "occurrence": 1,
+            "value": "Plietsch, Burkhard"
+        },
+        {
+            "facet_id": 731637,
+            "occurrence": 1,
+            "value": "Rochti, Thomas, Wirt zu Dörlesberg"
+        },
+        {
+            "facet_id": 731638,
+            "occurrence": 1,
+            "value": "Teufel, Bernhard"
+        },
+        {
+            "facet_id": 731639,
+            "occurrence": 1,
+            "value": "Weydinger, Christoph"
+        },
+        {
+            "facet_id": 760524,
+            "occurrence": 1,
+            "value": "Wirt, Hans, Hundheim"
+        },
+        {
+            "facet_id": 811648,
+            "occurrence": 1,
+            "value": "Küntzig, Hans, Hardheim"
+        },
+        {
+            "facet_id": 811649,
+            "occurrence": 1,
+            "value": "Nacher aus Wertheim"
+        },
+        {
+            "facet_id": 821851,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen zu; Friedrich Ludwig"
+        },
+        {
+            "facet_id": 832197,
+            "occurrence": 1,
+            "value": "Feilzer, Johannes"
+        },
+        {
+            "facet_id": 840710,
+            "occurrence": 1,
+            "value": "Kockenmeyer, Johannes, Pfarrer zu Hochhausen"
+        },
+        {
+            "facet_id": 840711,
+            "occurrence": 1,
+            "value": "Molitor, Pfarrer zu Hochhausen"
+        },
+        {
+            "facet_id": 861699,
+            "occurrence": 1,
+            "value": "Rauchhundt, Matthias, Oberschultheiß"
+        },
+        {
+            "facet_id": 864150,
+            "occurrence": 1,
+            "value": "Waldenberger, Johann, kurmainzischer Rat"
+        },
+        {
+            "facet_id": 885310,
+            "occurrence": 1,
+            "value": "Heuberg, von; Reinhard"
+        },
+        {
+            "facet_id": 885311,
+            "occurrence": 1,
+            "value": "Matzer, Hans Jörg"
+        },
+        {
+            "facet_id": 885312,
+            "occurrence": 1,
+            "value": "Riedern, von; Eberhard"
+        },
+        {
+            "facet_id": 885313,
+            "occurrence": 1,
+            "value": "Rosenberg, von; Anselm"
+        },
+        {
+            "facet_id": 885314,
+            "occurrence": 1,
+            "value": "Seldeneck, von; Leipold"
+        },
+        {
+            "facet_id": 885417,
+            "occurrence": 1,
+            "value": "Gans, Burkhard, Allersheim"
+        },
+        {
+            "facet_id": 893519,
+            "occurrence": 1,
+            "value": "Deppisch, Johann Georg, Sulzdorf"
+        },
+        {
+            "facet_id": 893520,
+            "occurrence": 1,
+            "value": "Dietmeyer, Klaus, Schiffer zu Miltenberg"
+        },
+        {
+            "facet_id": 893521,
+            "occurrence": 1,
+            "value": "Leuchtenberg, Wilhelm Landgraf von"
+        },
+        {
+            "facet_id": 893522,
+            "occurrence": 1,
+            "value": "Marschall, Franz, Johann genannt Markgraf, hohenlohischer Kammerrat"
+        },
+        {
+            "facet_id": 893523,
+            "occurrence": 1,
+            "value": "Neuwich, Christoph, Apotheker zu Wertheim"
+        },
+        {
+            "facet_id": 893524,
+            "occurrence": 1,
+            "value": "Otto, Kasper, Oberwittighausen"
+        },
+        {
+            "facet_id": 907998,
+            "occurrence": 1,
+            "value": "Baumann, Stephan, Amtmann zu Königheim"
+        },
+        {
+            "facet_id": 907999,
+            "occurrence": 1,
+            "value": "Rudolph, Leonhard"
+        },
+        {
+            "facet_id": 931062,
+            "occurrence": 1,
+            "value": "Amendt, Adam"
+        },
+        {
+            "facet_id": 931063,
+            "occurrence": 1,
+            "value": "Amendt, Tobias, Schultheiß zu Reicholzheim"
+        },
+        {
+            "facet_id": 931064,
+            "occurrence": 1,
+            "value": "Issac, Schutzjude aus Urphar"
+        },
+        {
+            "facet_id": 931065,
+            "occurrence": 1,
+            "value": "Nahm, Christoph"
+        },
+        {
+            "facet_id": 931066,
+            "occurrence": 1,
+            "value": "Platz, Franz, Eberbach"
+        },
+        {
+            "facet_id": 967697,
+            "occurrence": 1,
+            "value": "Friedrich, Abt zu Amorbach"
+        },
+        {
+            "facet_id": 967698,
+            "occurrence": 1,
+            "value": "Hardheim, von; Wicher"
+        },
+        {
+            "facet_id": 967699,
+            "occurrence": 1,
+            "value": "Hermann, Bischof zu Würzburg"
+        },
+        {
+            "facet_id": 967700,
+            "occurrence": 1,
+            "value": "Hohenlohe von; Elisabeth"
+        },
+        {
+            "facet_id": 967701,
+            "occurrence": 1,
+            "value": "Wertheim, Grafen von; Poppo II."
+        },
+        {
+            "facet_id": 967702,
+            "occurrence": 1,
+            "value": "Wertheim, Grafen von; Poppo IV."
+        },
+        {
+            "facet_id": 995157,
+            "occurrence": 1,
+            "value": "Montragon, Oberst"
+        },
+        {
+            "facet_id": 1003593,
+            "occurrence": 1,
+            "value": "Stefan, Kaspar"
+        },
+        {
+            "facet_id": 1018229,
+            "occurrence": 1,
+            "value": "Stapf, Christina, Reicholzheim"
+        },
+        {
+            "facet_id": 1018230,
+            "occurrence": 1,
+            "value": "Stapf, Peter, Hasloch"
+        },
+        {
+            "facet_id": 1021837,
+            "occurrence": 1,
+            "value": "Wrangel, Karl Gustav"
+        },
+        {
+            "facet_id": 1035765,
+            "occurrence": 1,
+            "value": "Kuhn, Andreas, Feldmesser"
+        },
+        {
+            "facet_id": 1035766,
+            "occurrence": 1,
+            "value": "Kuhn, Lukas, Feldmesser"
+        },
+        {
+            "facet_id": 1085425,
+            "occurrence": 1,
+            "value": "Dietz, Andreas, Kupprichhausen"
+        },
+        {
+            "facet_id": 1085426,
+            "occurrence": 1,
+            "value": "Eckhard, Christian, Pfarrer zu Kupprichhausen"
+        },
+        {
+            "facet_id": 1085427,
+            "occurrence": 1,
+            "value": "Spritzenmüller, Georg, Kaltenbrunn"
+        }
+    ]
+}

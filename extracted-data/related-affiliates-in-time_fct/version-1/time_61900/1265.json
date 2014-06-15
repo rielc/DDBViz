@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 1265,
+    "affiliate_facet": "Ministerium der Auswärtigen Angelegenheiten",
+    "occurrence": 1911,
+    "affiliates": [
+        {
+            "facet_id": 1265,
+            "occurrence": 2258,
+            "value": "Reimer"
+        },
+        {
+            "facet_id": 3917,
+            "occurrence": 208,
+            "value": "Paul, Jean (1763-1825)"
+        },
+        {
+            "facet_id": 26217,
+            "occurrence": 128,
+            "value": "Tieck, Ludwig (1773-1853)"
+        },
+        {
+            "facet_id": 16031,
+            "occurrence": 67,
+            "value": "Karsten, Carl J. B. (1782-1853)"
+        },
+        {
+            "facet_id": 5255,
+            "occurrence": 66,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 65,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 75886,
+            "occurrence": 53,
+            "value": "Ritter, Carl (1779-1859)"
+        },
+        {
+            "facet_id": 7835,
+            "occurrence": 52,
+            "value": "Schleiermacher, Friedrich (1768-1834)"
+        },
+        {
+            "facet_id": 75887,
+            "occurrence": 47,
+            "value": "Ideler, Julius Ludwig (1809-1842)"
+        },
+        {
+            "facet_id": 28453,
+            "occurrence": 43,
+            "value": "Bekker, Immanuel (1785-1871)"
+        },
+        {
+            "facet_id": 75888,
+            "occurrence": 43,
+            "value": "Müller, Georg Friedrich Hermann"
+        },
+        {
+            "facet_id": 684,
+            "occurrence": 42,
+            "value": "Horn, Ernst (1774-1848)"
+        },
+        {
+            "facet_id": 23179,
+            "occurrence": 31,
+            "value": "Deutscher Zollverein"
+        },
+        {
+            "facet_id": 149973,
+            "occurrence": 30,
+            "value": "Erman, Adolf (1806-1877)"
+        },
+        {
+            "facet_id": 28454,
+            "occurrence": 24,
+            "value": "Brandis, Christian August (1790-1867)"
+        },
+        {
+            "facet_id": 103477,
+            "occurrence": 24,
+            "value": "Wette, Wilhelm Martin Leberecht de (1780-1849)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 22,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 1097,
+            "occurrence": 21,
+            "value": "Aristoteles (v384-v322)"
+        },
+        {
+            "facet_id": 9525,
+            "occurrence": 20,
+            "value": "Pertz, Georg Heinrich (1795-1876)"
+        },
+        {
+            "facet_id": 28404,
+            "occurrence": 19,
+            "value": "Bardeleben, Adolf von (1819-1895)"
+        },
+        {
+            "facet_id": 28405,
+            "occurrence": 19,
+            "value": "Vidal, Auguste Théodore (1803-1856)"
+        },
+        {
+            "facet_id": 68392,
+            "occurrence": 19,
+            "value": "Hoffmann, E. T. A. (1776-1822)"
+        },
+        {
+            "facet_id": 128173,
+            "occurrence": 17,
+            "value": "Ulrici, Hermann (1806-1884)"
+        },
+        {
+            "facet_id": 239245,
+            "occurrence": 17,
+            "value": "Oppenhoff, Friedrich Christian (1811-1875)"
+        },
+        {
+            "facet_id": 69140,
+            "occurrence": 16,
+            "value": "Förster, Ernst (1800-1885)"
+        },
+        {
+            "facet_id": 13224,
+            "occurrence": 15,
+            "value": "Preußische Akademie der Wissenschaften (Berlin)"
+        },
+        {
+            "facet_id": 38959,
+            "occurrence": 15,
+            "value": "Lachmann, Karl (1793-1851)"
+        },
+        {
+            "facet_id": 78460,
+            "occurrence": 15,
+            "value": "Kleist, Heinrich von (1777-1811)"
+        },
+        {
+            "facet_id": 243446,
+            "occurrence": 14,
+            "value": "Hippel, Theodor Gottlieb von (1775-1843)"
+        },
+        {
+            "facet_id": 24607,
+            "occurrence": 13,
+            "value": "Gruppe, Otto Friedrich (1804-1876)"
+        },
+        {
+            "facet_id": 101934,
+            "occurrence": 13,
+            "value": "Niebuhr, Barthold Georg (1776-1831)"
+        },
+        {
+            "facet_id": 58922,
+            "occurrence": 12,
+            "value": "Gerhard, Eduard (1795-1867)"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 11,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 5458,
+            "occurrence": 11,
+            "value": "Münch, Ernst Hermann Joseph (1798-1841)"
+        },
+        {
+            "facet_id": 12658,
+            "occurrence": 11,
+            "value": "Hutten, Ulrich von (1488-1523)"
+        },
+        {
+            "facet_id": 17685,
+            "occurrence": 11,
+            "value": "Crelle, August L. (1780-1855)"
+        },
+        {
+            "facet_id": 51167,
+            "occurrence": 11,
+            "value": "Hamann, Johann Georg (1730-1788)"
+        },
+        {
+            "facet_id": 87840,
+            "occurrence": 11,
+            "value": "Dove, Heinrich Wilhelm (1803-1879)"
+        },
+        {
+            "facet_id": 114457,
+            "occurrence": 11,
+            "value": "Roth, Friedrich"
+        },
+        {
+            "facet_id": 149535,
+            "occurrence": 11,
+            "value": "Förster, Franz"
+        },
+        {
+            "facet_id": 5398,
+            "occurrence": 9,
+            "value": "Burmeister, Hermann (1807-1892)"
+        },
+        {
+            "facet_id": 127870,
+            "occurrence": 9,
+            "value": "Hosemann, Theodor (1807-1875)"
+        },
+        {
+            "facet_id": 21919,
+            "occurrence": 8,
+            "value": "Hufeland, Christoph Wilhelm von (1762-1836)"
+        },
+        {
+            "facet_id": 31963,
+            "occurrence": 8,
+            "value": "Haeckel, Ernst (1834-1919)"
+        },
+        {
+            "facet_id": 95590,
+            "occurrence": 8,
+            "value": "Gurlt, Ernst Friedrich (1794-1882)"
+        },
+        {
+            "facet_id": 203977,
+            "occurrence": 8,
+            "value": "Schrader, Eberhard"
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 7,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 24164,
+            "occurrence": 7,
+            "value": "Humboldt, Wilhelm von (1767-1835)"
+        },
+        {
+            "facet_id": 25137,
+            "occurrence": 7,
+            "value": "Napoléon <I., Frankreich, Kaiser> (1769-1821)"
+        },
+        {
+            "facet_id": 30736,
+            "occurrence": 7,
+            "value": "Varnhagen von Ense, Karl August (1785-1858)"
+        },
+        {
+            "facet_id": 47723,
+            "occurrence": 7,
+            "value": "Walther, Philipp Franz von (1782-1849)"
+        },
+        {
+            "facet_id": 50248,
+            "occurrence": 7,
+            "value": "Baader, Franz von (1765-1841)"
+        },
+        {
+            "facet_id": 127364,
+            "occurrence": 7,
+            "value": "Gesellschaft für Geburtshülfe (Berlin)"
+        },
+        {
+            "facet_id": 25096,
+            "occurrence": 6,
+            "value": "Byron, George Gordon Byron (1788-1824)"
+        },
+        {
+            "facet_id": 34572,
+            "occurrence": 6,
+            "value": "Bleek, Friedrich (1793-1859)"
+        },
+        {
+            "facet_id": 47274,
+            "occurrence": 6,
+            "value": "Gildemeister, Otto (1823-1902)"
+        },
+        {
+            "facet_id": 59129,
+            "occurrence": 6,
+            "value": "Meineke, August (1790-1870)"
+        },
+        {
+            "facet_id": 71148,
+            "occurrence": 6,
+            "value": "Albrecht <Friedland, Herzog> (1583-1634)"
+        },
+        {
+            "facet_id": 115444,
+            "occurrence": 6,
+            "value": "Förster, Friedrich Christoph (1791-1868)"
+        },
+        {
+            "facet_id": 123455,
+            "occurrence": 6,
+            "value": "Gourgaud, Gaspard (1783-1852)"
+        },
+        {
+            "facet_id": 123456,
+            "occurrence": 6,
+            "value": "Montholon, Charles-Tristan de (1783-1853)"
+        },
+        {
+            "facet_id": 182117,
+            "occurrence": 6,
+            "value": "Billroth, Theodor (1829-1894)"
+        },
+        {
+            "facet_id": 205229,
+            "occurrence": 6,
+            "value": "Seidemann, Johann Karl (1807-1879)"
+        },
+        {
+            "facet_id": 3559,
+            "occurrence": 5,
+            "value": "Hirt, Aloys Ludwig (1759-1837)"
+        },
+        {
+            "facet_id": 3582,
+            "occurrence": 5,
+            "value": "Leupoldt, Johann Michael (1794-1874)"
+        },
+        {
+            "facet_id": 4109,
+            "occurrence": 5,
+            "value": "Radowitz, Joseph Maria von (1797-1853)"
+        },
+        {
+            "facet_id": 10467,
+            "occurrence": 5,
+            "value": "Plato (v427-v347)"
+        },
+        {
+            "facet_id": 20007,
+            "occurrence": 5,
+            "value": "Dindorf, Ludwig August (1805-1871)"
+        },
+        {
+            "facet_id": 25841,
+            "occurrence": 5,
+            "value": "Grimm, Jacob (1785-1863)"
+        },
+        {
+            "facet_id": 27381,
+            "occurrence": 5,
+            "value": "Isler, Meyer (1807-1888)"
+        },
+        {
+            "facet_id": 29885,
+            "occurrence": 5,
+            "value": "Richthofen, Ferdinand"
+        },
+        {
+            "facet_id": 66823,
+            "occurrence": 5,
+            "value": "Eytelwein, Johann Albert (1764-1848)"
+        },
+        {
+            "facet_id": 92665,
+            "occurrence": 5,
+            "value": "Remak, Robert"
+        },
+        {
+            "facet_id": 110769,
+            "occurrence": 5,
+            "value": "Bülow, Eduard von (1803-1853)"
+        },
+        {
+            "facet_id": 133235,
+            "occurrence": 5,
+            "value": "Baeyer, Johann Jacob (1794-1885)"
+        },
+        {
+            "facet_id": 449110,
+            "occurrence": 5,
+            "value": "Eschscholtz, Johann Friedrich von (1793-1831)"
+        },
+        {
+            "facet_id": 5762,
+            "occurrence": 4,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 7694,
+            "occurrence": 4,
+            "value": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)"
+        },
+        {
+            "facet_id": 8514,
+            "occurrence": 4,
+            "value": "Alexander <Aphrodisiensis>"
+        },
+        {
+            "facet_id": 10314,
+            "occurrence": 4,
+            "value": "Tobler, Titus (1806-1877)"
+        },
+        {
+            "facet_id": 12020,
+            "occurrence": 4,
+            "value": "Schröder, Friedrich Ludwig (1744-1816)"
+        },
+        {
+            "facet_id": 16629,
+            "occurrence": 4,
+            "value": "Otto, Christian (1763-1828)"
+        },
+        {
+            "facet_id": 18091,
+            "occurrence": 4,
+            "value": "Daniel, Hermann Adalbert (1812-1871)"
+        },
+        {
+            "facet_id": 33776,
+            "occurrence": 4,
+            "value": "Cervantes Saavedra, Miguel de (1547-1616)"
+        },
+        {
+            "facet_id": 41485,
+            "occurrence": 4,
+            "value": "Eytelwein, Johann Albert"
+        },
+        {
+            "facet_id": 52985,
+            "occurrence": 4,
+            "value": "Raumer, Karl von (1783-1865)"
+        },
+        {
+            "facet_id": 67361,
+            "occurrence": 4,
+            "value": "Virchow, Rudolf (1821-1902)"
+        },
+        {
+            "facet_id": 67422,
+            "occurrence": 4,
+            "value": "Muravʹëv, Nikolaj Nikolaevič (1794-1866)"
+        },
+        {
+            "facet_id": 67423,
+            "occurrence": 4,
+            "value": "Strahl, Philipp"
+        },
+        {
+            "facet_id": 125402,
+            "occurrence": 4,
+            "value": "Busse, Adolf"
+        },
+        {
+            "facet_id": 130319,
+            "occurrence": 4,
+            "value": "Nesselmann, Ferdinand (1811-1881)"
+        },
+        {
+            "facet_id": 159004,
+            "occurrence": 4,
+            "value": "Provinz Sachsen / Elbstrombauverwaltung"
+        },
+        {
+            "facet_id": 217976,
+            "occurrence": 4,
+            "value": "Wallies, Max (1856-)"
+        },
+        {
+            "facet_id": 245426,
+            "occurrence": 4,
+            "value": "Gass, Wilhelm (1813-1889)"
+        },
+        {
+            "facet_id": 266405,
+            "occurrence": 4,
+            "value": "Rosenthal, C. A."
+        },
+        {
+            "facet_id": 320689,
+            "occurrence": 4,
+            "value": "Voigt, Georg"
+        },
+        {
+            "facet_id": 558449,
+            "occurrence": 4,
+            "value": "Scheibert, Carl Gottfried"
+        },
+        {
+            "facet_id": 563120,
+            "occurrence": 4,
+            "value": "Grassmann, F. H."
+        },
+        {
+            "facet_id": 569031,
+            "occurrence": 4,
+            "value": "Goetz, Jacob"
+        },
+        {
+            "facet_id": 773383,
+            "occurrence": 4,
+            "value": "Mitteleuropäische Gradmessung"
+        }
+    ]
+}

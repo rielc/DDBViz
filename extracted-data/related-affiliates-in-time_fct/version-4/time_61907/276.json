@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 276,
+    "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+    "affiliate_fct_occurrence": 272,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 272
+        },
+        {
+            "affiliate_fct_id": 104745,
+            "affiliate_fct": "Schütz, Christian Gottfried (1747-1832)",
+            "affiliate_fct_occurrence": 81
+        },
+        {
+            "affiliate_fct_id": 3716,
+            "affiliate_fct": "Fleischer",
+            "affiliate_fct_occurrence": 51
+        },
+        {
+            "affiliate_fct_id": 11717,
+            "affiliate_fct": "Ernesti, Johann August (1707-1781)",
+            "affiliate_fct_occurrence": 31
+        },
+        {
+            "affiliate_fct_id": 11716,
+            "affiliate_fct": "Fournier",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 92615,
+            "affiliate_fct": "Asconius Pedianus, Quintus (ca. 9 v. Chr. - 76 n. Chr.)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 1800,
+            "affiliate_fct": "Wieland, Christoph Martin (1733-1813)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 14955,
+            "affiliate_fct": "Wolff, Friedrich Karl (1766-1845)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 5664,
+            "affiliate_fct": "Geßner",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 14954,
+            "affiliate_fct": "Geistinger",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 50973,
+            "affiliate_fct": "Lips, Johann Heinrich (1758-1817)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 2179,
+            "affiliate_fct": "Hammerich",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 135293,
+            "affiliate_fct": "Goujon",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 180324,
+            "affiliate_fct": "Goujon, Louis Joseph Marie Achille (1746-1810)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 229408,
+            "affiliate_fct": "Schönberger, Franz Xaver (1754-1820)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 333433,
+            "affiliate_fct": "Wieland, C. M.",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 23120,
+            "affiliate_fct": "Hemmerde",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 55787,
+            "affiliate_fct": "Oertel, Eucharius Ferdinand Christian (1765-1850)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 80745,
+            "affiliate_fct": "Mongault, Nicolas Hubert (1674-1746)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 175678,
+            "affiliate_fct": "Goeschen",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 5573,
+            "affiliate_fct": "Macklot",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 7693,
+            "affiliate_fct": "Weidmann",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 82939,
+            "affiliate_fct": "Mai, Angelo (1782-1854)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 194479,
+            "affiliate_fct": "Davies, John (1679-1732)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 1137,
+            "affiliate_fct": "Seidel",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 8183,
+            "affiliate_fct": "Facciolati, Jacopo (1682-1769)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 11946,
+            "affiliate_fct": "Beck, Christian Daniel (1757-1832)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 66994,
+            "affiliate_fct": "Kümmelius",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 91587,
+            "affiliate_fct": "Schwickertus",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 102172,
+            "affiliate_fct": "Görenz, Johann August (1767-1836)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 144569,
+            "affiliate_fct": "Aumont",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 144570,
+            "affiliate_fct": "Henry, ...",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 172397,
+            "affiliate_fct": "Georgius <Pletho> (1360-1452)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 194480,
+            "affiliate_fct": "Rath, Rudolph Gotthold (1755-1814)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 240387,
+            "affiliate_fct": "Hardt, Ignaz (1749-1811)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5794,
+            "affiliate_fct": "Lentner",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 7624,
+            "affiliate_fct": "Matthiae, August (1769-1835)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 12623,
+            "affiliate_fct": "Prévost D'Exiles, Antoine François (1697-1763)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 25642,
+            "affiliate_fct": "Lagarde",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 54298,
+            "affiliate_fct": "Weinzierl, Franz Xaver (1757-1833)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 320205,
+            "affiliate_fct": "Gernhard, August G.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 878,
+            "affiliate_fct": "Renouard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 9535,
+            "affiliate_fct": "Vogel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11020,
+            "affiliate_fct": "Michaud",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20408,
+            "affiliate_fct": "Hottinger, Johann Jakob (1750-1819)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22293,
+            "affiliate_fct": "Gassert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23083,
+            "affiliate_fct": "Deuerlich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 25643,
+            "affiliate_fct": "Wolf, Friedrich August (1759-1824)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28143,
+            "affiliate_fct": "Barbou",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 61576,
+            "affiliate_fct": "Villefore, Joseph François Bourgoin de (1652-1737)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 61577,
+            "affiliate_fct": "Wailly, Noe͏̈l François de (1724-1801)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 67251,
+            "affiliate_fct": "Weiske, Benjamin (1748-1809)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 99110,
+            "affiliate_fct": "Lequien",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 99111,
+            "affiliate_fct": "Burnouf, Jean-Louis (1775-1844)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 99112,
+            "affiliate_fct": "Guéroult, Pierre Claude Bernard (1744-1821)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 105922,
+            "affiliate_fct": "Lünemann, Georg Heinrich (1780-1830)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 106470,
+            "affiliate_fct": "Villemain, Abel François (1790-1870)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 106710,
+            "affiliate_fct": "Lehner, Johann Friedrich Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 151368,
+            "affiliate_fct": "Peyron, Amedeo (1785-1870)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 208753,
+            "affiliate_fct": "Hülsemann, Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 233864,
+            "affiliate_fct": "Impr. real",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 236602,
+            "affiliate_fct": "Heinrich, Carl F.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 255142,
+            "affiliate_fct": "Wolf, Friedrich A.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 534243,
+            "affiliate_fct": "Valbuena, Manuel de",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 680,
+            "affiliate_fct": "Schultzius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1045,
+            "affiliate_fct": "Hahn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1823,
+            "affiliate_fct": "Martini",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2109,
+            "affiliate_fct": "Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3717,
+            "affiliate_fct": "Hermann, Gottfried (1772-1848)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4164,
+            "affiliate_fct": "Orphanotropheum",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4448,
+            "affiliate_fct": "Orell, Füßli",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5662,
+            "affiliate_fct": "Dieterich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8133,
+            "affiliate_fct": "Ziegler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8146,
+            "affiliate_fct": "Raspe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8152,
+            "affiliate_fct": "Schulbuchhandlung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8909,
+            "affiliate_fct": "Gerlach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10585,
+            "affiliate_fct": "Schwickert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10720,
+            "affiliate_fct": "Müller, Otto M.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11891,
+            "affiliate_fct": "Riegel und Wiessner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13447,
+            "affiliate_fct": "Harless, Adolf Gottlieb Christoph (1738-1815)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13662,
+            "affiliate_fct": "Graevius, Johannes Georgius (1632-1703)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15256,
+            "affiliate_fct": "Haas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16859,
+            "affiliate_fct": "Heinze, Johann Michael (1717-1790)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21662,
+            "affiliate_fct": "Keil",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 22425,
+            "affiliate_fct": "Orelli, Johann Kaspar von (1787-1849)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23606,
+            "affiliate_fct": "Le Normant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28389,
+            "affiliate_fct": "Schelle, Karl Gottlob (1777-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33909,
+            "affiliate_fct": "Barrois [u.a.]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36097,
+            "affiliate_fct": "Perisse",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36955,
+            "affiliate_fct": "Gesner, Johann Matthias (1691-1761)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41001,
+            "affiliate_fct": "Birkholz, Adam Michael (1746-1818)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42368,
+            "affiliate_fct": "Möbius, Anton (1779-1838)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45169,
+            "affiliate_fct": "Creuzer, Friedrich (1771-1858)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46754,
+            "affiliate_fct": "Olivet, Pierre Joseph d' (1682-1768)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 55031,
+            "affiliate_fct": "Wernsdorf, Gregor Gottlieb (1776-1834)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62961,
+            "affiliate_fct": "Garatoni, Gasparo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 74788,
+            "affiliate_fct": "Beier, Karl (1790-1828)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80957,
+            "affiliate_fct": "Meyer, Johann Friedrich von (1772-1849)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 86877,
+            "affiliate_fct": "Orphanotrophei",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88322,
+            "affiliate_fct": "Héron de Villefosse, Antoine-Marie (1774-1852)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

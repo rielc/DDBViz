@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_facet_id": 6619,
+    "affiliate_facet": "Nyon",
+    "occurrence": 242,
+    "affiliates": [
+        {
+            "facet_id": 6619,
+            "occurrence": 250,
+            "value": "Unger"
+        },
+        {
+            "facet_id": 35036,
+            "occurrence": 22,
+            "value": "Girtanner, Christoph (1760-1800)"
+        },
+        {
+            "facet_id": 7939,
+            "occurrence": 20,
+            "value": "Friedrich <II., Preußen, König> (1712-1786)"
+        },
+        {
+            "facet_id": 4580,
+            "occurrence": 14,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 97281,
+            "occurrence": 12,
+            "value": "Gedike, Friedrich"
+        },
+        {
+            "facet_id": 53411,
+            "occurrence": 11,
+            "value": "Moritz, Karl Philipp (1756-1793)"
+        },
+        {
+            "facet_id": 94062,
+            "occurrence": 11,
+            "value": "Buchholz, Friedrich (1768-1843)"
+        },
+        {
+            "facet_id": 100029,
+            "occurrence": 10,
+            "value": "Reichardt, Johann Friedrich (1752-1814)"
+        },
+        {
+            "facet_id": 214184,
+            "occurrence": 9,
+            "value": "Tempelhoff, Georg Friedrich von (1737-1807)"
+        },
+        {
+            "facet_id": 26217,
+            "occurrence": 8,
+            "value": "Tieck, Ludwig (1773-1853)"
+        },
+        {
+            "facet_id": 214183,
+            "occurrence": 8,
+            "value": "Lloyd, Henry"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 7,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 2494,
+            "occurrence": 6,
+            "value": "Hertzberg, Ewald Friedrich von (1725-1795)"
+        },
+        {
+            "facet_id": 5255,
+            "occurrence": 6,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 6,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 15678,
+            "occurrence": 5,
+            "value": "Massenbach, Christian Karl August Ludwig von (1758-1827)"
+        },
+        {
+            "facet_id": 33776,
+            "occurrence": 5,
+            "value": "Cervantes Saavedra, Miguel de (1547-1616)"
+        },
+        {
+            "facet_id": 78309,
+            "occurrence": 5,
+            "value": "Holcroft, Thomas (1745-1809)"
+        },
+        {
+            "facet_id": 397258,
+            "occurrence": 5,
+            "value": "Gebhard, Johann Georg (1743-1807)"
+        },
+        {
+            "facet_id": 33234,
+            "occurrence": 4,
+            "value": "Unger, Friederike Helene (1741-1813)"
+        },
+        {
+            "facet_id": 126298,
+            "occurrence": 4,
+            "value": "Schneider, Johann Gottlob (1750-1822)"
+        },
+        {
+            "facet_id": 2403,
+            "occurrence": 3,
+            "value": "Königliche Akademie der Wissenschaften (Berlin)"
+        },
+        {
+            "facet_id": 7104,
+            "occurrence": 3,
+            "value": "Reichard, Heinrich August Ottokar (1751-1828)"
+        },
+        {
+            "facet_id": 22642,
+            "occurrence": 3,
+            "value": "Mercier, Louis Sébastien (1740-1814)"
+        },
+        {
+            "facet_id": 56050,
+            "occurrence": 3,
+            "value": "Savary, Claude (1750-1788)"
+        },
+        {
+            "facet_id": 72386,
+            "occurrence": 3,
+            "value": "Stein, Christian Gottfried Daniel (1771-1830)"
+        },
+        {
+            "facet_id": 103133,
+            "occurrence": 3,
+            "value": "Gedike, Friedrich (1754-1803)"
+        },
+        {
+            "facet_id": 189230,
+            "occurrence": 3,
+            "value": "Knoblauch, Karl von (1757-1794)"
+        },
+        {
+            "facet_id": 1477,
+            "occurrence": 2,
+            "value": "Voltaire (1694-1778)"
+        },
+        {
+            "facet_id": 3829,
+            "occurrence": 2,
+            "value": "Fischer, Christian August (1771-1829)"
+        },
+        {
+            "facet_id": 5109,
+            "occurrence": 2,
+            "value": "Ewald, Johann Ludwig (1747-1822)"
+        },
+        {
+            "facet_id": 7511,
+            "occurrence": 2,
+            "value": "Barclay, John (1582-1621)"
+        },
+        {
+            "facet_id": 11040,
+            "occurrence": 2,
+            "value": "Woltmann, Karl Ludwig von (1770-1817)"
+        },
+        {
+            "facet_id": 13668,
+            "occurrence": 2,
+            "value": "Goethe, Johann Wolfgang"
+        },
+        {
+            "facet_id": 27931,
+            "occurrence": 2,
+            "value": "Pockels, Karl Friedrich (1757-1814)"
+        },
+        {
+            "facet_id": 33233,
+            "occurrence": 2,
+            "value": "Linguet, Simon Nicolas Henri (1736-1794)"
+        },
+        {
+            "facet_id": 46875,
+            "occurrence": 2,
+            "value": "Haken, Johann Christian Ludwig (1767-1835)"
+        },
+        {
+            "facet_id": 61161,
+            "occurrence": 2,
+            "value": "Condorcet, Jean Antoine Nicolas de Caritat de (1743-1794)"
+        },
+        {
+            "facet_id": 63673,
+            "occurrence": 2,
+            "value": "Bülow, Adam Heinrich Dietrich von (1757-1807)"
+        },
+        {
+            "facet_id": 105350,
+            "occurrence": 2,
+            "value": "Feuquières, Antoine de Pas de (1648-1711)"
+        },
+        {
+            "facet_id": 106748,
+            "occurrence": 2,
+            "value": "Sartorius, Georg (1765-1828)"
+        },
+        {
+            "facet_id": 120074,
+            "occurrence": 2,
+            "value": "Stutz, Johann Ernst (1733-1795)"
+        },
+        {
+            "facet_id": 144015,
+            "occurrence": 2,
+            "value": "Wolzogen, Karoline von (1763-1847)"
+        },
+        {
+            "facet_id": 145331,
+            "occurrence": 2,
+            "value": "Mörschel, Daniel Ernst (1751-1798)"
+        },
+        {
+            "facet_id": 304908,
+            "occurrence": 2,
+            "value": "Beaumarchais, Pierre Augustin Caron"
+        },
+        {
+            "facet_id": 653673,
+            "occurrence": 2,
+            "value": "Hoffmann, G. W."
+        },
+        {
+            "facet_id": 709446,
+            "occurrence": 2,
+            "value": "Lehndorf-Bandels, August Adolph Leopold von (1771-1820)"
+        },
+        {
+            "facet_id": 709447,
+            "occurrence": 2,
+            "value": "Werner, J. L."
+        },
+        {
+            "facet_id": 894444,
+            "occurrence": 2,
+            "value": "Zedlitz, Karl Abraham"
+        },
+        {
+            "facet_id": 213,
+            "occurrence": 1,
+            "value": "Berlin"
+        },
+        {
+            "facet_id": 367,
+            "occurrence": 1,
+            "value": "Langhans, Carl Gotthard"
+        },
+        {
+            "facet_id": 2788,
+            "occurrence": 1,
+            "value": "Auteur"
+        },
+        {
+            "facet_id": 2794,
+            "occurrence": 1,
+            "value": "Sallustius Crispus, Gaius (v86-v34)"
+        },
+        {
+            "facet_id": 3029,
+            "occurrence": 1,
+            "value": "Nicolai"
+        },
+        {
+            "facet_id": 5712,
+            "occurrence": 1,
+            "value": "Rosmaesler, Johann August"
+        },
+        {
+            "facet_id": 5762,
+            "occurrence": 1,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 7683,
+            "occurrence": 1,
+            "value": "Voss,"
+        },
+        {
+            "facet_id": 13224,
+            "occurrence": 1,
+            "value": "Preußische Akademie der Wissenschaften (Berlin)"
+        },
+        {
+            "facet_id": 13667,
+            "occurrence": 1,
+            "value": "Reichardt, Johann Friedrich"
+        },
+        {
+            "facet_id": 15110,
+            "occurrence": 1,
+            "value": "Geßner, Salomon"
+        },
+        {
+            "facet_id": 16628,
+            "occurrence": 1,
+            "value": "Burja, Abel (1752-1816)"
+        },
+        {
+            "facet_id": 19826,
+            "occurrence": 1,
+            "value": "Ramler, Karl Wilhelm"
+        },
+        {
+            "facet_id": 21704,
+            "occurrence": 1,
+            "value": "Berger, Daniel"
+        },
+        {
+            "facet_id": 22961,
+            "occurrence": 1,
+            "value": "Küster, Johann Emmanuel von (1764-1833)"
+        },
+        {
+            "facet_id": 23168,
+            "occurrence": 1,
+            "value": "Himburg"
+        },
+        {
+            "facet_id": 29197,
+            "occurrence": 1,
+            "value": "Moritz, Karl Philipp"
+        },
+        {
+            "facet_id": 31593,
+            "occurrence": 1,
+            "value": "Müller, Ludwig"
+        },
+        {
+            "facet_id": 36004,
+            "occurrence": 1,
+            "value": "Molière"
+        },
+        {
+            "facet_id": 36923,
+            "occurrence": 1,
+            "value": "Schwarze, Christian August"
+        },
+        {
+            "facet_id": 48734,
+            "occurrence": 1,
+            "value": "Iffland, August Wilhelm"
+        },
+        {
+            "facet_id": 50308,
+            "occurrence": 1,
+            "value": "Unger, Johann Friedrich Gottlieb (1753-1804)"
+        },
+        {
+            "facet_id": 60839,
+            "occurrence": 1,
+            "value": "Winterfeld, M. A."
+        },
+        {
+            "facet_id": 70569,
+            "occurrence": 1,
+            "value": "La Roche, Daniel de (1743-1812)"
+        },
+        {
+            "facet_id": 72234,
+            "occurrence": 1,
+            "value": "Unger, Friederike Helene"
+        },
+        {
+            "facet_id": 95891,
+            "occurrence": 1,
+            "value": "Wackenroder, Wilhelm Heinrich (1773-1798)"
+        },
+        {
+            "facet_id": 99580,
+            "occurrence": 1,
+            "value": "Chodowiecki, Daniel (1726 - 1801)"
+        },
+        {
+            "facet_id": 103134,
+            "occurrence": 1,
+            "value": "Heindorf, Johann Friedrich (1730-1796)"
+        },
+        {
+            "facet_id": 103581,
+            "occurrence": 1,
+            "value": "Stöver, Dietrich Heinrich (1767-1822)"
+        },
+        {
+            "facet_id": 110617,
+            "occurrence": 1,
+            "value": "Petronius <Arbiter>"
+        },
+        {
+            "facet_id": 118329,
+            "occurrence": 1,
+            "value": "Spalding, Johann Joachim (1714-1804)"
+        },
+        {
+            "facet_id": 119393,
+            "occurrence": 1,
+            "value": "Hofmann, B."
+        },
+        {
+            "facet_id": 133625,
+            "occurrence": 1,
+            "value": "Hortzschansky, Johann"
+        },
+        {
+            "facet_id": 138419,
+            "occurrence": 1,
+            "value": "Neumann, Johann Friedrich"
+        },
+        {
+            "facet_id": 145576,
+            "occurrence": 1,
+            "value": "Friedrich <II.> < Preußen, König>"
+        },
+        {
+            "facet_id": 161114,
+            "occurrence": 1,
+            "value": "Fischer, Gottlob Nathanael"
+        },
+        {
+            "facet_id": 161115,
+            "occurrence": 1,
+            "value": "Königl. Preus. Akademische Kunst- u. Buchhandlung"
+        },
+        {
+            "facet_id": 173647,
+            "occurrence": 1,
+            "value": "Brunn, Friedrich Leopold (1758-1831)"
+        },
+        {
+            "facet_id": 178440,
+            "occurrence": 1,
+            "value": "Winterfeld, Moritz Adolph von"
+        },
+        {
+            "facet_id": 178778,
+            "occurrence": 1,
+            "value": "Luise < Preußen, Königin>"
+        },
+        {
+            "facet_id": 181242,
+            "occurrence": 1,
+            "value": "Matthisson, Friedrich"
+        },
+        {
+            "facet_id": 183070,
+            "occurrence": 1,
+            "value": "Borgstede, August Heinrich von (1758-1824)"
+        },
+        {
+            "facet_id": 204076,
+            "occurrence": 1,
+            "value": "Béguelin, Heinrich von (1765-1818)"
+        },
+        {
+            "facet_id": 204696,
+            "occurrence": 1,
+            "value": "Schneider, Johann Gottlob"
+        },
+        {
+            "facet_id": 207528,
+            "occurrence": 1,
+            "value": "Hennings, August"
+        },
+        {
+            "facet_id": 229141,
+            "occurrence": 1,
+            "value": "Engel, Johann Jakob"
+        },
+        {
+            "facet_id": 234632,
+            "occurrence": 1,
+            "value": "Ligne, Charles Joseph de"
+        },
+        {
+            "facet_id": 241178,
+            "occurrence": 1,
+            "value": "Faust, Bernhard Christoph (1755-1842)"
+        },
+        {
+            "facet_id": 251055,
+            "occurrence": 1,
+            "value": "Mereau, Sophie (1770-1806)"
+        },
+        {
+            "facet_id": 268831,
+            "occurrence": 1,
+            "value": "Friedrich Wilhelm II. <Preußen, König>"
+        },
+        {
+            "facet_id": 286007,
+            "occurrence": 1,
+            "value": "Maimon, Salomon"
+        }
+    ]
+}

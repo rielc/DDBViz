@@ -1,0 +1,389 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_fct_id": 3643,
+    "affiliate_fct": "Sächsisches Staatsministerium für Wissenschaft und Kunst",
+    "affiliate_fct_occurrence": 136,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 3643,
+            "affiliate_fct": "Sächsisches Staatsministerium für Wissenschaft und Kunst",
+            "affiliate_fct_occurrence": 136
+        },
+        {
+            "affiliate_fct_id": 266,
+            "affiliate_fct": "Teubner",
+            "affiliate_fct_occurrence": 119
+        },
+        {
+            "affiliate_fct_id": 3644,
+            "affiliate_fct": "Hirzel",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 148437,
+            "affiliate_fct": "Roscher, Wilhelm Heinrich",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 77147,
+            "affiliate_fct": "Schmarsow, August",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 77843,
+            "affiliate_fct": "Fischer, Otto",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 110495,
+            "affiliate_fct": "Brugmann, Karl",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 128899,
+            "affiliate_fct": "Sievers, Eduard",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 497726,
+            "affiliate_fct": "Held, Hans",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 42823,
+            "affiliate_fct": "Barocci, Federico",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 51427,
+            "affiliate_fct": "slubsmwksaw",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 51773,
+            "affiliate_fct": "Marchand, Felix",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 56499,
+            "affiliate_fct": "Hirzel, Rudolf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 69074,
+            "affiliate_fct": "Schreiber, Theodor",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 96419,
+            "affiliate_fct": "His, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126124,
+            "affiliate_fct": "Seeliger, Gerhard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 129054,
+            "affiliate_fct": "Neumann, Carl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 160341,
+            "affiliate_fct": "Garten, Siegfried",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 207662,
+            "affiliate_fct": "Studniczka, Franz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 238349,
+            "affiliate_fct": "Stieda, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 353660,
+            "affiliate_fct": "Meister, Richard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 369862,
+            "affiliate_fct": "Oettingen, Arthur J. von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 374196,
+            "affiliate_fct": "Delbrück, Berthold",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 497018,
+            "affiliate_fct": "Peter, Hermann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 514585,
+            "affiliate_fct": "Fischer, August",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 539620,
+            "affiliate_fct": "Hertel, Johannes",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 571427,
+            "affiliate_fct": "Windisch, Ernst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 594247,
+            "affiliate_fct": "Wiener, Otto",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 9020,
+            "affiliate_fct": "Credner, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64102,
+            "affiliate_fct": "Gelzer, Heinrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68298,
+            "affiliate_fct": "Ruge, Sophus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78080,
+            "affiliate_fct": "Partsch, Josef",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90215,
+            "affiliate_fct": "Lamprecht, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90795,
+            "affiliate_fct": "Heinze, Richard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94552,
+            "affiliate_fct": "Scheibner, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100339,
+            "affiliate_fct": "Martini, Edgar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100984,
+            "affiliate_fct": "Lipsius, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 119780,
+            "affiliate_fct": "Bruns, Heinrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 121575,
+            "affiliate_fct": "Wilcken, Ulrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 126981,
+            "affiliate_fct": "Guthe, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127402,
+            "affiliate_fct": "Beckmann, Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130997,
+            "affiliate_fct": "Marx, Erich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164690,
+            "affiliate_fct": "Delitzsch, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 165954,
+            "affiliate_fct": "Hultsch, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213583,
+            "affiliate_fct": "Pfeffer, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242509,
+            "affiliate_fct": "Leskien, August",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242828,
+            "affiliate_fct": "Sohm, Rudolph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 248389,
+            "affiliate_fct": "Nathansohn, Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265191,
+            "affiliate_fct": "Schiebold, Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273483,
+            "affiliate_fct": "Heinze, Max",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 333891,
+            "affiliate_fct": "Rohn, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 336067,
+            "affiliate_fct": "Heinrici, Carl Friedrich Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 338834,
+            "affiliate_fct": "Weickmann, Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 344344,
+            "affiliate_fct": "Peter, Bruno",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 389965,
+            "affiliate_fct": "Zimmern, Heinrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 398350,
+            "affiliate_fct": "Mitteis, Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 417718,
+            "affiliate_fct": "Fick, Rudolf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 435149,
+            "affiliate_fct": "Rinne, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 465661,
+            "affiliate_fct": "Moebius, Willy",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 486010,
+            "affiliate_fct": "Mendel, Gregor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 517706,
+            "affiliate_fct": "Eulenburg, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 541095,
+            "affiliate_fct": "Hausdorff, Felix",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 592770,
+            "affiliate_fct": "Hauck, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 597601,
+            "affiliate_fct": "Junker, Heinrich F. J.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 648176,
+            "affiliate_fct": "Zirkel, Ferdinand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 669556,
+            "affiliate_fct": "Köster, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 697338,
+            "affiliate_fct": "Steindorff, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 740300,
+            "affiliate_fct": "Socin, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 756305,
+            "affiliate_fct": "Goetz, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 849669,
+            "affiliate_fct": "Grossmann, Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 913107,
+            "affiliate_fct": "[Teubner]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 931394,
+            "affiliate_fct": "Stumme, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 997848,
+            "affiliate_fct": "Bethe, Erich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1055284,
+            "affiliate_fct": "Meyer, Ernst von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1121218,
+            "affiliate_fct": "Mogk, Eugen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1156034,
+            "affiliate_fct": "Frey, Max von",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

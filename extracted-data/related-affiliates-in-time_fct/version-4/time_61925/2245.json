@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_fct_id": 2245,
+    "affiliate_fct": "Hofgericht Seekreis",
+    "affiliate_fct_occurrence": 584,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2245,
+            "affiliate_fct": "Hofgericht Seekreis",
+            "affiliate_fct_occurrence": 584
+        },
+        {
+            "affiliate_fct_id": 14002,
+            "affiliate_fct": "Fürstenberg, Standesherrschaft",
+            "affiliate_fct_occurrence": 153
+        },
+        {
+            "affiliate_fct_id": 154075,
+            "affiliate_fct": "Langenstein, v., Grundherrschaft",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 301470,
+            "affiliate_fct": "Bodman, Carl v., Möggingen",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 216189,
+            "affiliate_fct": "Hornstein, v., Weiterdingen",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 294609,
+            "affiliate_fct": "Ulm, Ferdinand v., Überlingen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 599280,
+            "affiliate_fct": "Beschle, Joseph, Weiterdingen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 46624,
+            "affiliate_fct": "Enzberg, Honor v., Mühlheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 46625,
+            "affiliate_fct": "Enzberg, Leopold v., Mühlheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 50295,
+            "affiliate_fct": "Wehrle, Joseph, Falkau",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 81489,
+            "affiliate_fct": "Bodman, Sigmund v.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 198076,
+            "affiliate_fct": "Imthurn, v., Schaffhausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 204977,
+            "affiliate_fct": "Vogt, Johann Georg, Unterlenzkirch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 218971,
+            "affiliate_fct": "Schmuz, Demeter, Löffingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 269807,
+            "affiliate_fct": "Hornstein, Honor v., Grüningen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 269808,
+            "affiliate_fct": "Hornstein, Joseph Anton v., Weiterdingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 450643,
+            "affiliate_fct": "Rogg, Andreas, Unterlenzkirch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 507223,
+            "affiliate_fct": "Kraft, v., Grundherrschaft, Zizenhausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 509327,
+            "affiliate_fct": "Nägele, Vinzenz, Unterlenzkirch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 604433,
+            "affiliate_fct": "Kaufmann, Josef, Gailingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 644514,
+            "affiliate_fct": "Maier, Martin, Unterlenzkirch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 896349,
+            "affiliate_fct": "Villinger, Katharina, Mühlingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 7383,
+            "affiliate_fct": "Stotzingen, v., Grundherrschaft, Steißlingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79603,
+            "affiliate_fct": "Althaus, Franz Hermann v., Bad Dürrheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79604,
+            "affiliate_fct": "Reischach, Leopold v., Hohenkrähen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81488,
+            "affiliate_fct": "Bodman, Klementine v.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 121968,
+            "affiliate_fct": "Hornstein, Joseph v., Weiterdingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 135423,
+            "affiliate_fct": "Hornstein, v., Binningen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 170568,
+            "affiliate_fct": "Winterhalter, Georg, Unterlenzkirch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 216187,
+            "affiliate_fct": "Hornstein, Honor v.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 216188,
+            "affiliate_fct": "Hornstein, Josef Anton v.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 308991,
+            "affiliate_fct": "Müller, Johann, Langenhart",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 321808,
+            "affiliate_fct": "Likert, Fidel, Viertäler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 321809,
+            "affiliate_fct": "Steuert, Lorenz, Viertäler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 351681,
+            "affiliate_fct": "Laßberg, Alexander Frhr. v., Oberforstmeister, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 375308,
+            "affiliate_fct": "Schropp, Johann, Oberlenzkirch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 382552,
+            "affiliate_fct": "Bodman, v., Möggingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 382553,
+            "affiliate_fct": "Maier, Anton, Möggingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 387268,
+            "affiliate_fct": "Meister, Jacob, Müller, Fützen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 432568,
+            "affiliate_fct": "Haarburger, Elias, Gailingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 505459,
+            "affiliate_fct": "Beha, Andreas, Schollach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 505460,
+            "affiliate_fct": "Schwörer, Martin, Schollach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 570981,
+            "affiliate_fct": "Enzberg, v., Grundherrschaft",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 581610,
+            "affiliate_fct": "Schmuz, Andreas, Müller, Hausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 647484,
+            "affiliate_fct": "Bodman, v., Bodman",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 717831,
+            "affiliate_fct": "Spiegelhalter, Bürgermeister, Altglashütten",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 726409,
+            "affiliate_fct": "Langenstein, v., Kuratel, Karlsruhe",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 739686,
+            "affiliate_fct": "Langenstein, Katharina v., Langenstein",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 805891,
+            "affiliate_fct": "Messmer, Thadäus, Löffingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 865986,
+            "affiliate_fct": "Ganter, Marx, Fischbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 885088,
+            "affiliate_fct": "Hornstein, Grundherrschaft v., Weiterdingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 911848,
+            "affiliate_fct": "Reischach, Nepomuk v., Schlatt unter Krähen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 940288,
+            "affiliate_fct": "Winterhalter, Josef, Seebauer, Saig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 985788,
+            "affiliate_fct": "Morath, Joseph, Oberlenzkirch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 988103,
+            "affiliate_fct": "Hornstein, Ferdinand v., Weiterdingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1142644,
+            "affiliate_fct": "Reischach, Rudolf v., Schlatt unter Krähen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3404,
+            "affiliate_fct": "Maier, Johann, Saig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3405,
+            "affiliate_fct": "Maier, Peter, Saig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3406,
+            "affiliate_fct": "Sermin, Matthäus, Oberlenzkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14003,
+            "affiliate_fct": "Heudorfer, Johann, Krumbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19035,
+            "affiliate_fct": "Bertsche, Franz Joseph, Wartenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31708,
+            "affiliate_fct": "Höfler, Georg, Unterlenzkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46623,
+            "affiliate_fct": "Butsch, Joseph, Buchheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49041,
+            "affiliate_fct": "Müller, Philipp, Linach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61743,
+            "affiliate_fct": "Kirner, Benjamin, Bregenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93093,
+            "affiliate_fct": "Biedermann, Elias, Gailingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93094,
+            "affiliate_fct": "Fürstenberg, Amalie v.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 116554,
+            "affiliate_fct": "Winterhalter, Johann Georg, Unterlenzkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 122712,
+            "affiliate_fct": "Ketterer, Joseph, Oberlenzkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132116,
+            "affiliate_fct": "Bodman, Joseph v., Johanniter-Ordenskommandeur, Wahlwies",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 136532,
+            "affiliate_fct": "Winterhalter, Johann, Schollach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 150296,
+            "affiliate_fct": "Hornstein, v., Bietingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 151225,
+            "affiliate_fct": "Levi, Elias, Worblingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 158269,
+            "affiliate_fct": "Kleiser, Joachim, Ochsenwirt, Vöhrenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173751,
+            "affiliate_fct": "Buol, v., Grundherrschaft, Mühlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 180209,
+            "affiliate_fct": "Tritschler, Conrad, Rudenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181188,
+            "affiliate_fct": "Bodman, Clementine v., Möggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181189,
+            "affiliate_fct": "Bodman, Sigmund v., Möggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 186763,
+            "affiliate_fct": "Hogg, Alois, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189389,
+            "affiliate_fct": "Früh, Georg, Fabrikant, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189390,
+            "affiliate_fct": "Rosenlächer, Glockengießer, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 191117,
+            "affiliate_fct": "Schmidt, Mathäus, Leimbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194431,
+            "affiliate_fct": "Müller, Johann Nepomuk, Rotgerber, Obersiggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 216190,
+            "affiliate_fct": "Ramschwag, Max v.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218966,
+            "affiliate_fct": "Bader, Demeter, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218967,
+            "affiliate_fct": "Eggert, Johann, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218968,
+            "affiliate_fct": "Kaus, Zyprian, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218969,
+            "affiliate_fct": "Küfer, Kaspar, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218970,
+            "affiliate_fct": "Messmer, Thaddäus, Löffingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242538,
+            "affiliate_fct": "Straub, Joseph, Unadingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243976,
+            "affiliate_fct": "Hornstein, v., Grundherrschaft",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258503,
+            "affiliate_fct": "Engesser, Joseph, Ippingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268149,
+            "affiliate_fct": "Scherzinger, Augustin, Langenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270911,
+            "affiliate_fct": "Happle, Mathias, Gutmadingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271093,
+            "affiliate_fct": "Kaiser, Bürgermeister, Rudenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271094,
+            "affiliate_fct": "Litzelmann, Karl, Rudenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272586,
+            "affiliate_fct": "Murr, Ignaz, Blumberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 290523,
+            "affiliate_fct": "Würthner, Georg, Schwenningen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 290667,
+            "affiliate_fct": "Eggert, Fidel, Urach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 290668,
+            "affiliate_fct": "Kleiser, Matthäus, Urach",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

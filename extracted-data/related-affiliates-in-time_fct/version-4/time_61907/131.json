@@ -1,0 +1,484 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 131,
+    "affiliate_fct": "Domänenkanzlei",
+    "affiliate_fct_occurrence": 3608,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 131,
+            "affiliate_fct": "Domänenkanzlei",
+            "affiliate_fct_occurrence": 3608
+        },
+        {
+            "affiliate_fct_id": 204015,
+            "affiliate_fct": "Streiter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 217649,
+            "affiliate_fct": "Löwenstein zu, Constantin, Fürst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1025,
+            "affiliate_fct": "Seitz, Lorenz, Lehrer in Steinbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 34614,
+            "affiliate_fct": "Lutz, Franz Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 91890,
+            "affiliate_fct": "Baden von, Karl Friedrich, Großherzog",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105392,
+            "affiliate_fct": "Löwenstein zu, Carl, Fürst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115532,
+            "affiliate_fct": "Frankenstein, Johann Wilhelm, Cantor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 158968,
+            "affiliate_fct": "Löwenstein zu, Luise, Fürstin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176732,
+            "affiliate_fct": "Dihm, Andreas, Lehrer in Hirschlanden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176733,
+            "affiliate_fct": "Fröber, Adam, Lehrer in Hirschlanden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176734,
+            "affiliate_fct": "Groß, Johann Peter, Lehrer in Hirschlanden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176735,
+            "affiliate_fct": "Hammetter, Georg Friedrich, Lehrer in Hirschlanden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200087,
+            "affiliate_fct": "Baumann, Johann Leonhard, Lehrer in Bettingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200088,
+            "affiliate_fct": "Servas, Maria Barbara, Lehrerswitwe in Bettingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200089,
+            "affiliate_fct": "Wankel, Christoph, Lehrer in Bettingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235057,
+            "affiliate_fct": "Hotz, Adam Friedrich, Lehrer in Kreuzwertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235058,
+            "affiliate_fct": "Klein, Johann Christoph, Lehrer in Kreuzwertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235059,
+            "affiliate_fct": "Klein, Johann Georg, Lehrer in Kreuzwertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235060,
+            "affiliate_fct": "Schnellbacher, Lehrer in Kreuzwertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274411,
+            "affiliate_fct": "Bischof, Lorenz, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274412,
+            "affiliate_fct": "Englert, Aloisius, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274413,
+            "affiliate_fct": "Rudolph, Johann Georg, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293436,
+            "affiliate_fct": "Horn, Lehrer in Steinmark",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293437,
+            "affiliate_fct": "Kestler, Johann Georg, Lehrer in Steinmark",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293438,
+            "affiliate_fct": "Schick, Lehrer in Steinmark",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 329372,
+            "affiliate_fct": "Löwenstein zu, Christiane Henriette Polixena, Prinzessin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 329373,
+            "affiliate_fct": "Zeil- und Trauchburg, Franz Thaddaeus, Erbgraf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 330406,
+            "affiliate_fct": "Schweitzer, Johann Wilhelm, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381249,
+            "affiliate_fct": "Gerner, Johann Ludwig, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381250,
+            "affiliate_fct": "Gramlich, Johann Adam, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381251,
+            "affiliate_fct": "Günzer, Andreas, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381252,
+            "affiliate_fct": "Schlöz, Johann Gottfried, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381253,
+            "affiliate_fct": "Seher, Johann Michael, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381254,
+            "affiliate_fct": "Sigmund, Ludwig, Lehrer in Kembach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 396336,
+            "affiliate_fct": "Oberdorf, Johann Andreas, Lehrer in Michelrieth",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 396337,
+            "affiliate_fct": "Oberdorf, Johann Nikolaus, Lehrer in Michelrieth",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429479,
+            "affiliate_fct": "Knauer, Heinrich, aus Wenkheim, Lehrer in Nassig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429480,
+            "affiliate_fct": "Nitschki, Lehrer in Nassig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429481,
+            "affiliate_fct": "Simon, Friedrich Wilhelm, Lehrer in Nassig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429482,
+            "affiliate_fct": "Simon, Wilhelm, Lehrer in Nassig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429658,
+            "affiliate_fct": "Löwenstein zu, Eulalia Maria Isabella Aegidie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463298,
+            "affiliate_fct": "Frischmut, Konrad, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463299,
+            "affiliate_fct": "Hammetter, Georg Friedrich, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463300,
+            "affiliate_fct": "Knauer, Heinrich, Lehrer und Revolutionär in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463301,
+            "affiliate_fct": "Winkler, Lehrer in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 476858,
+            "affiliate_fct": "Hörner, Christian Ludwig, Vogt in Löwenstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 492740,
+            "affiliate_fct": "Dressler, Johann Nikolaus, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 551589,
+            "affiliate_fct": "Hess, Andreas, Lehrer in Bestenheid",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 551590,
+            "affiliate_fct": "Leib, Johann Daniel, Lehrer in Bestenheid",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 557098,
+            "affiliate_fct": "Löwenstein zu, Maria Crescentia, Fürstin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 595513,
+            "affiliate_fct": "Keller, Andreas Philipp, Lehrer in Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 608440,
+            "affiliate_fct": "Lippe, Registrator",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 658187,
+            "affiliate_fct": "Cronenbold, Franz Heinrich, Lehrer in Höhefeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 658188,
+            "affiliate_fct": "Fries, Ludwig, Lehrer in Höhefeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 658189,
+            "affiliate_fct": "Silbereisen, Lehrer in Höhefeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 669353,
+            "affiliate_fct": "Löwenstein zu, Constantin Ludwig Heinrich, Leopoldine Marie Christiane",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 755550,
+            "affiliate_fct": "Adam, Johann Arnold, Lehrer in Niklashausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 755551,
+            "affiliate_fct": "Stierlein, Georg Nikolaus, Lehrer in Niklashausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 770413,
+            "affiliate_fct": "Löwenstein zu, Fürstenstand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 783594,
+            "affiliate_fct": "Mitschonsky, Hofverwalter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 786351,
+            "affiliate_fct": "Baumann, Leonhard, Lehrer in Dietenhan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 786352,
+            "affiliate_fct": "Brückner, Lehrer in Dietenhan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 786353,
+            "affiliate_fct": "Kistner, Karl, Lehrer in Dietenhan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 786354,
+            "affiliate_fct": "Rusch, Philipp, Lehrer in Dietenhan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 823932,
+            "affiliate_fct": "Lambinus, Cantor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 864280,
+            "affiliate_fct": "Hahn, Simon, Lehrer in Altfeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 864281,
+            "affiliate_fct": "Jacob, Johann Adam, Lehrer in Altfeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 864282,
+            "affiliate_fct": "Wankel, Christoph, Lehrer in Niklashausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 864283,
+            "affiliate_fct": "Weber, Johann Heinrich, Lehrer in Altfeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 880944,
+            "affiliate_fct": "Taubenschmidt, Hieronimus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 883709,
+            "affiliate_fct": "Rusch, Wilhelm, Lehrer in Sonderriet",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 883710,
+            "affiliate_fct": "Schönig, Lehrer in Sonderriet",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 911516,
+            "affiliate_fct": "Hausner, Dorothea",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 945704,
+            "affiliate_fct": "Schäfer, Lehrer am Gymnasium",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 964036,
+            "affiliate_fct": "L.-W.-R., Wilhelm, Prinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 967293,
+            "affiliate_fct": "Och, Johann Christoph, Lehrer an der Knabenschule in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 967294,
+            "affiliate_fct": "Schmid, Johann Heinrich, Lehrer an der Knabenschule in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 967295,
+            "affiliate_fct": "Wachs, Johann Jacob, Lehrer in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 967682,
+            "affiliate_fct": "Bauer, Johann Philipp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 967683,
+            "affiliate_fct": "Zwanziger, Hofkassier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 972604,
+            "affiliate_fct": "Hering, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1032106,
+            "affiliate_fct": "Adelmann, Lehrer in Dertingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1032107,
+            "affiliate_fct": "Hammetter, Bernhard, Lehrer in Dertingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044177,
+            "affiliate_fct": "Höfer, Karl, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044178,
+            "affiliate_fct": "Klein, Johann Peter, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044179,
+            "affiliate_fct": "Obländer, Andreas, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044180,
+            "affiliate_fct": "Schönig, Johann Michael, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044181,
+            "affiliate_fct": "Wagner, Georg Lorenz, Lehrer in Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1119549,
+            "affiliate_fct": "Hofmann, Heinrich, Künstler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1131912,
+            "affiliate_fct": "Henninger, August, Lehrer in Vockenrot",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1138983,
+            "affiliate_fct": "Kister, Carl Heinrich, Lehrer in Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1138984,
+            "affiliate_fct": "Pilger, Lehrer in Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1151627,
+            "affiliate_fct": "Hellmich, Lehrer in Eichel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1151628,
+            "affiliate_fct": "Horn, Lehrer in Eichel",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

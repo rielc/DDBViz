@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 2075,
+    "affiliate_fct": "STB",
+    "affiliate_fct_occurrence": 730,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2075,
+            "affiliate_fct": "STB",
+            "affiliate_fct_occurrence": 730
+        },
+        {
+            "affiliate_fct_id": 26308,
+            "affiliate_fct": "Alberti; Karl von, Rechtskonsulent in Künzelsau, A",
+            "affiliate_fct_occurrence": 92
+        },
+        {
+            "affiliate_fct_id": 32750,
+            "affiliate_fct": "Scheffer; Wilhelm Ferdinand Ludwig, Archivar, A",
+            "affiliate_fct_occurrence": 79
+        },
+        {
+            "affiliate_fct_id": 8218,
+            "affiliate_fct": "Köhler; Pfarrer in Marschalkenzimmern, A",
+            "affiliate_fct_occurrence": 42
+        },
+        {
+            "affiliate_fct_id": 46062,
+            "affiliate_fct": "Memminger; Johann Daniel Georg, STB",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 64859,
+            "affiliate_fct": "Zeller; Heinrich, Landvogtei-Steuerrat in Rottweil, A",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 6760,
+            "affiliate_fct": "Gratianus; Karl Christian, Pfarrer in Hengen, A",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 13879,
+            "affiliate_fct": "Bauer; Hermann, Dekan in Weinsberg, A",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 27904,
+            "affiliate_fct": "Moser; Rudolf, Finanzrat im STB",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 65446,
+            "affiliate_fct": "Diezel; Trigonometer im STB",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 33751,
+            "affiliate_fct": "Bauer; Christian Friedrich, OAsarzt in Mergentheim, A",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 73155,
+            "affiliate_fct": "Weber; Buchhalter im STB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 5227,
+            "affiliate_fct": "Rösler; Gottlieb Friedrich, Gymnasialprofessor in Stuttgart, A",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 13880,
+            "affiliate_fct": "Bossert; Gustav, Pfarrer in Bächlingen, A",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 46061,
+            "affiliate_fct": "Hoyer; OAmann in Münsingen, A",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 117194,
+            "affiliate_fct": "Schönleber; Landschaftsregistrator, A",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 167610,
+            "affiliate_fct": "Hohenlohe; Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 13247,
+            "affiliate_fct": "Paulus; Karl Eduard, im STB",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 15410,
+            "affiliate_fct": "Württemberg; Karl Eugen von, Herzog",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 32752,
+            "affiliate_fct": "Tübingen; Pfalzgrafen von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 159277,
+            "affiliate_fct": "Raiser; Johann von, bayerischer Regierungsdirektor, A",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 6761,
+            "affiliate_fct": "Urach; Grafen von",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 605627,
+            "affiliate_fct": "Schübler; Gustav, Professor in Tübingen, A",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 20043,
+            "affiliate_fct": "Stälin; Christoph Friedrich, im STB",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 27905,
+            "affiliate_fct": "Teck; Herzöge von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 68887,
+            "affiliate_fct": "Bregenz; Grafen von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 133809,
+            "affiliate_fct": "Schäfer; Geometer, A",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 138676,
+            "affiliate_fct": "Thurn und Taxis; Fürsten von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 140619,
+            "affiliate_fct": "Württemberg; Grafen von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 171422,
+            "affiliate_fct": "Limpurg Schenken von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 204586,
+            "affiliate_fct": "Zimmern; Grafen von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 214432,
+            "affiliate_fct": "Schmoller; Pfarrer in Simmersfeld, A",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 237531,
+            "affiliate_fct": "Büttner; Heinrich Christoph, Regierungsrat, A",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 248061,
+            "affiliate_fct": "Magenau; Pfarrer in Hermaringen, A",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 316984,
+            "affiliate_fct": "Württemberg; Eberhard V. von, Graf",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 16557,
+            "affiliate_fct": "Württemberg; Christoph von, Herzog",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 26309,
+            "affiliate_fct": "Kirchberg; Grafen von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 65035,
+            "affiliate_fct": "Seyffer; August, Kupferstecher, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 66746,
+            "affiliate_fct": "Scholl; von, Postdirektor, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 68888,
+            "affiliate_fct": "Montfort; Grafen von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 79558,
+            "affiliate_fct": "Mittnacht; Franz Jakob, Geograph im STB",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 92374,
+            "affiliate_fct": "Crailsheim; Freiherren von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 102395,
+            "affiliate_fct": "Reischach; von, Regierungspräsident, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 123384,
+            "affiliate_fct": "Riecker; Lokalhistoriker in Kirchheim/Teck, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 138730,
+            "affiliate_fct": "Württemberg; Ulrich von, Herzog",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 148965,
+            "affiliate_fct": "Frischlin; Nikodemus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 148969,
+            "affiliate_fct": "Württemberg; Ludwig von, Herzog",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 158923,
+            "affiliate_fct": "Hohenstaufen; Dynastie",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 167602,
+            "affiliate_fct": "Gabelkover; Oswald, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 185245,
+            "affiliate_fct": "Helfenstein; Grafen von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 213913,
+            "affiliate_fct": "Pfaff; Karl Friedrich, Archivar, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 220164,
+            "affiliate_fct": "Sattler; Christian Friedrich, Archivar, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 244627,
+            "affiliate_fct": "Hohenberg; Grafen von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 244629,
+            "affiliate_fct": "Lupfen; Grafen von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 286800,
+            "affiliate_fct": "Neuffen; Herren von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 330474,
+            "affiliate_fct": "Teichmann; Kameralverwalter, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 367859,
+            "affiliate_fct": "Sailer; Tiberius, Archivar in Günzburg, A",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 392845,
+            "affiliate_fct": "Würben; Wilhelmine von, geb. von Grävenitz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 396292,
+            "affiliate_fct": "Schenken von Stauffenberg; Grafen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 901323,
+            "affiliate_fct": "Cotta; Verlag und Buchhandlung",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 13897,
+            "affiliate_fct": "Hartmann; Julius, im STB/SLA",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20042,
+            "affiliate_fct": "Rigel; Kanzleiassistent im STB",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20685,
+            "affiliate_fct": "Bebenburg; Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21281,
+            "affiliate_fct": "Crusius; Martin, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21283,
+            "affiliate_fct": "Landau; Grafen und Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 52805,
+            "affiliate_fct": "Fürstenberg; Fürsten von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63110,
+            "affiliate_fct": "Schwenk; pensionierter Kadettenaufseher in Laichingen, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 73154,
+            "affiliate_fct": "Ströbele; Dekan in Riedlingen, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 78020,
+            "affiliate_fct": "Bernerdin; Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 97804,
+            "affiliate_fct": "Degenfeld; Freiherren und Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 97806,
+            "affiliate_fct": "Dillenius; Dekan a.D., A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 116282,
+            "affiliate_fct": "Ulm; Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 123382,
+            "affiliate_fct": "Aichelberg; Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 130149,
+            "affiliate_fct": "Weizel; Oberzollverwalter in Ulm, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 148963,
+            "affiliate_fct": "Achalm; Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 153724,
+            "affiliate_fct": "Pauly; August Friedrich, im STB",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 155790,
+            "affiliate_fct": "Hammer; Hofrat in Kirchberg an der Jagst, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 164599,
+            "affiliate_fct": "Berg; Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 167612,
+            "affiliate_fct": "Neudeck; Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 177967,
+            "affiliate_fct": "Pfaff; Karl, Konrektor in Esslingen, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 198777,
+            "affiliate_fct": "Fuchs; Obergeometer, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 207246,
+            "affiliate_fct": "Württemberg; Friedrich Eugen von, Herzog",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 211199,
+            "affiliate_fct": "Vogt; Schultheiß in Ehingen, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 214206,
+            "affiliate_fct": "Paulus; Eduard, Landeskonservator, im STB",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 214209,
+            "affiliate_fct": "Wiederholt; Konrad, Festungskommandant",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 216693,
+            "affiliate_fct": "Dörner; Pfarrer in Beihingen, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 216695,
+            "affiliate_fct": "Jaumann; Ignaz von, Domdekan in Rottenburg, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 270477,
+            "affiliate_fct": "Woellwarth; Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 280078,
+            "affiliate_fct": "Kindervatter; Johann Josef, Kaufmann in Ulm, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 286256,
+            "affiliate_fct": "Napoleon Bonaparte; Kaiser von Frankreich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 287535,
+            "affiliate_fct": "Heinriet; Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 300535,
+            "affiliate_fct": "Württemberg; Eberhard Ludwig von, Herzog",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 301184,
+            "affiliate_fct": "Breitenbach; Paul Anton, Archivar in Mergentheim, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 303805,
+            "affiliate_fct": "Baumgartinger; Erasmus, Bürgermeister in Mergentheim, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 318301,
+            "affiliate_fct": "Calw; Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 321645,
+            "affiliate_fct": "Mesmer; Domäneninspektor in Aulendorf, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 353434,
+            "affiliate_fct": "Veringen; Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 353435,
+            "affiliate_fct": "Waldburg Truchsessen von; Freiherren und Grafen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 362675,
+            "affiliate_fct": "Württemberg; Eberhard III. von, Herzog",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 366870,
+            "affiliate_fct": "Vanotti; Johann Nepomuk von, Domkapitular in Rottenburg, A",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

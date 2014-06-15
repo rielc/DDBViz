@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_facet_id": 358,
+    "affiliate_facet": "Schmieder",
+    "occurrence": 566,
+    "affiliates": [
+        {
+            "facet_id": 358,
+            "occurrence": 579,
+            "value": "Pflege Ehingen"
+        },
+        {
+            "facet_id": 15216,
+            "occurrence": 2,
+            "value": "Speth; Adam, Schultheiß zu Frankenhofen"
+        },
+        {
+            "facet_id": 516099,
+            "occurrence": 1,
+            "value": "Heber, Johann Jakob, Geometer zu Lindau"
+        },
+        {
+            "facet_id": 516100,
+            "occurrence": 1,
+            "value": "Merck, Georg, Einwohner zu Stetten"
+        }
+    ]
+}

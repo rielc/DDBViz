@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_facet_id": 5025,
+    "affiliate_facet": "Regierung",
+    "occurrence": 549,
+    "affiliates": [
+        {
+            "facet_id": 5025,
+            "occurrence": 643,
+            "value": "Fürstliche Landesregierung Sigmaringen"
+        },
+        {
+            "facet_id": 43704,
+            "occurrence": 5,
+            "value": "Fürstenberg, Fürsten von"
+        },
+        {
+            "facet_id": 88078,
+            "occurrence": 4,
+            "value": "Dangel, Franz, Pfarrer, Veringendorf"
+        },
+        {
+            "facet_id": 2283,
+            "occurrence": 3,
+            "value": "Thurn und Taxis, Fürsten von"
+        },
+        {
+            "facet_id": 8300,
+            "occurrence": 2,
+            "value": "Hohenzollern-Sigmaringen, von; Familie"
+        },
+        {
+            "facet_id": 31541,
+            "occurrence": 2,
+            "value": "Jaudas, Joseph, Feldhausen"
+        },
+        {
+            "facet_id": 60564,
+            "occurrence": 2,
+            "value": "Hohenzollern-Hechingen, Meinrad von; Graf, Domherr zu Konstanz, Pfarrer in Veringendorf, 1730-1823"
+        },
+        {
+            "facet_id": 89299,
+            "occurrence": 2,
+            "value": "Laßberg, Friedrich von; Rechtshistoriker, 1798-1838"
+        },
+        {
+            "facet_id": 352845,
+            "occurrence": 2,
+            "value": "Fessler, Josef, Hofkaplan, Sigmaringen"
+        },
+        {
+            "facet_id": 551743,
+            "occurrence": 2,
+            "value": "Wessenberg, von; Ignaz Heinrich"
+        },
+        {
+            "facet_id": 620543,
+            "occurrence": 2,
+            "value": "Heilbronner, Lazarus, Haigerloch"
+        },
+        {
+            "facet_id": 5252,
+            "occurrence": 1,
+            "value": "Steinhart, Anton, Feldhausen"
+        },
+        {
+            "facet_id": 6820,
+            "occurrence": 1,
+            "value": "Speth, von"
+        },
+        {
+            "facet_id": 23149,
+            "occurrence": 1,
+            "value": "Hohenzollern-Sigmaringen, Anton Aloys von; Fürst, 1762-1831"
+        },
+        {
+            "facet_id": 37545,
+            "occurrence": 1,
+            "value": "Franz II.; Kaiser, 1768-1835"
+        },
+        {
+            "facet_id": 55071,
+            "occurrence": 1,
+            "value": "Greiner, Joseph, Bärenthal"
+        },
+        {
+            "facet_id": 55077,
+            "occurrence": 1,
+            "value": "Grieble, Jakob, Bärenthal"
+        },
+        {
+            "facet_id": 55168,
+            "occurrence": 1,
+            "value": "Pappenheim, Graf von, Reichserbmarschall"
+        },
+        {
+            "facet_id": 55495,
+            "occurrence": 1,
+            "value": "Polzer, Geheimer Rat"
+        },
+        {
+            "facet_id": 55496,
+            "occurrence": 1,
+            "value": "Rabenau, Freiherr von, Deutschordenskomtur"
+        },
+        {
+            "facet_id": 55497,
+            "occurrence": 1,
+            "value": "Reinach, Graf Franz von, Hitzkirch"
+        },
+        {
+            "facet_id": 55498,
+            "occurrence": 1,
+            "value": "Zelling, Michael Felizian von, Geheimer Rat, Oberamtmann, Altshausen"
+        },
+        {
+            "facet_id": 74257,
+            "occurrence": 1,
+            "value": "Öttingen-Spielberg, Fürsten von"
+        },
+        {
+            "facet_id": 80923,
+            "occurrence": 1,
+            "value": "Schorer, Stephan, Bärenthal"
+        },
+        {
+            "facet_id": 84083,
+            "occurrence": 1,
+            "value": "Ott, Wendelin, Lehrer, Sigmaringen"
+        },
+        {
+            "facet_id": 91597,
+            "occurrence": 1,
+            "value": "Bek, Felix, Soldat"
+        },
+        {
+            "facet_id": 91598,
+            "occurrence": 1,
+            "value": "Eisele, Ignatz, Soldat, Ringingen"
+        },
+        {
+            "facet_id": 91599,
+            "occurrence": 1,
+            "value": "Häussler, Joseph"
+        },
+        {
+            "facet_id": 91600,
+            "occurrence": 1,
+            "value": "Lutz, Johann Georg, Wachtmeister, Hausen am Andelsbach"
+        },
+        {
+            "facet_id": 91601,
+            "occurrence": 1,
+            "value": "Mayer, Johann, Haigerloch"
+        },
+        {
+            "facet_id": 91602,
+            "occurrence": 1,
+            "value": "Schott, Philipp"
+        },
+        {
+            "facet_id": 101449,
+            "occurrence": 1,
+            "value": "Pius VII., Papst"
+        },
+        {
+            "facet_id": 110499,
+            "occurrence": 1,
+            "value": "Sautter, Jakob, Rechnungsrat und Hauptkassierer"
+        },
+        {
+            "facet_id": 121502,
+            "occurrence": 1,
+            "value": "Siedler, Johann, Bierwirt, Gruol"
+        },
+        {
+            "facet_id": 122816,
+            "occurrence": 1,
+            "value": "Beck, Meinrad, Bärenthal"
+        },
+        {
+            "facet_id": 122835,
+            "occurrence": 1,
+            "value": "Dormann, Joseph, Bärenthal"
+        },
+        {
+            "facet_id": 122836,
+            "occurrence": 1,
+            "value": "Dormann, Rosalia, Bärenthal"
+        },
+        {
+            "facet_id": 122916,
+            "occurrence": 1,
+            "value": "Steidle, Gregor, Bärenthal"
+        },
+        {
+            "facet_id": 123016,
+            "occurrence": 1,
+            "value": "Butsch, Ignatz, Lehrer, Hippetsweiler"
+        },
+        {
+            "facet_id": 123017,
+            "occurrence": 1,
+            "value": "Engel, Anton, Lehrer, Liggersdorf"
+        },
+        {
+            "facet_id": 139758,
+            "occurrence": 1,
+            "value": "Waßmus, Heinrich, Soldat"
+        },
+        {
+            "facet_id": 139956,
+            "occurrence": 1,
+            "value": "Blankenhorn, Priester"
+        },
+        {
+            "facet_id": 139957,
+            "occurrence": 1,
+            "value": "Hohl, R., Priester"
+        },
+        {
+            "facet_id": 145181,
+            "occurrence": 1,
+            "value": "Hohenzollern-Sigmaringen, Karl von; Fürst, 1785-1853"
+        },
+        {
+            "facet_id": 151680,
+            "occurrence": 1,
+            "value": "Castell, Schenk Franz Graf von"
+        },
+        {
+            "facet_id": 151681,
+            "occurrence": 1,
+            "value": "Straßberg, von"
+        },
+        {
+            "facet_id": 151682,
+            "occurrence": 1,
+            "value": "Ulm, von, zu Erbach"
+        },
+        {
+            "facet_id": 160543,
+            "occurrence": 1,
+            "value": "Brett, Theodor, Fischingen"
+        },
+        {
+            "facet_id": 160544,
+            "occurrence": 1,
+            "value": "Deuringer, Kaspar, Fischingen"
+        },
+        {
+            "facet_id": 160545,
+            "occurrence": 1,
+            "value": "Grupp, Dominikus, Fischingen"
+        },
+        {
+            "facet_id": 160546,
+            "occurrence": 1,
+            "value": "Hellstern, Joseph, Maurer, Fischingen"
+        },
+        {
+            "facet_id": 160547,
+            "occurrence": 1,
+            "value": "Hellstern, Komerana, Fischingen"
+        },
+        {
+            "facet_id": 160548,
+            "occurrence": 1,
+            "value": "Hellstern, Theresa, Fischingen"
+        },
+        {
+            "facet_id": 160549,
+            "occurrence": 1,
+            "value": "Kräher, Ambros, Fischingen"
+        },
+        {
+            "facet_id": 160550,
+            "occurrence": 1,
+            "value": "Kreher, Johann, Schultheiß, Fischingen"
+        },
+        {
+            "facet_id": 160551,
+            "occurrence": 1,
+            "value": "Schon, Zyprian, Fischingen"
+        },
+        {
+            "facet_id": 166717,
+            "occurrence": 1,
+            "value": "Schönbucher"
+        },
+        {
+            "facet_id": 174953,
+            "occurrence": 1,
+            "value": "Gaier, Anton, Lehrer, Sigmaringen"
+        },
+        {
+            "facet_id": 174954,
+            "occurrence": 1,
+            "value": "Huber, Lukas, Lehrer, Weildorf"
+        },
+        {
+            "facet_id": 174955,
+            "occurrence": 1,
+            "value": "Klein, Karl, Lehrer, Sigmaringen"
+        },
+        {
+            "facet_id": 174956,
+            "occurrence": 1,
+            "value": "Stehle, Lorenz, Lehrer, Betra"
+        },
+        {
+            "facet_id": 190529,
+            "occurrence": 1,
+            "value": "Münch, Freiherren von, Mühringen"
+        },
+        {
+            "facet_id": 195296,
+            "occurrence": 1,
+            "value": "Liener, Georg, Thalheim"
+        },
+        {
+            "facet_id": 200436,
+            "occurrence": 1,
+            "value": "Napoleon I.; Kaiser, Frankreich, 1769-1821"
+        },
+        {
+            "facet_id": 205106,
+            "occurrence": 1,
+            "value": "Ammann, Andreas, Bingen"
+        },
+        {
+            "facet_id": 205107,
+            "occurrence": 1,
+            "value": "Ammann, Kristian, Bingen"
+        },
+        {
+            "facet_id": 205108,
+            "occurrence": 1,
+            "value": "Engel, Rochus, Bingen"
+        },
+        {
+            "facet_id": 205109,
+            "occurrence": 1,
+            "value": "Engel, Wunibald, Bingen"
+        },
+        {
+            "facet_id": 205110,
+            "occurrence": 1,
+            "value": "Fauler, Valentin, Kettenacker"
+        },
+        {
+            "facet_id": 205111,
+            "occurrence": 1,
+            "value": "Fleisch, Josef, Bingen"
+        },
+        {
+            "facet_id": 205112,
+            "occurrence": 1,
+            "value": "Fleisch, Michael, Bingen"
+        },
+        {
+            "facet_id": 205113,
+            "occurrence": 1,
+            "value": "Kienle, Genovefa, Hitzkofen"
+        },
+        {
+            "facet_id": 205114,
+            "occurrence": 1,
+            "value": "Luz, Anna Maria, Bingen"
+        },
+        {
+            "facet_id": 205115,
+            "occurrence": 1,
+            "value": "Luz, Thadä, Bingen"
+        },
+        {
+            "facet_id": 205116,
+            "occurrence": 1,
+            "value": "Schrök, Josef, Bingen"
+        },
+        {
+            "facet_id": 205117,
+            "occurrence": 1,
+            "value": "Schrök, Maria Anna, Bingen"
+        },
+        {
+            "facet_id": 205118,
+            "occurrence": 1,
+            "value": "Tanner, Joseph, Bingen"
+        },
+        {
+            "facet_id": 218926,
+            "occurrence": 1,
+            "value": "Hohl, Roman, Theologiestudent, Hippetsweiler"
+        },
+        {
+            "facet_id": 218927,
+            "occurrence": 1,
+            "value": "Reichstetter, Johann Baptist, Benefiziat, Friedrichshafen"
+        },
+        {
+            "facet_id": 218928,
+            "occurrence": 1,
+            "value": "Reichstetter, Robert Ignatz, Friedrichshafen"
+        },
+        {
+            "facet_id": 232315,
+            "occurrence": 1,
+            "value": "Schön, Franz, Sigmaringen"
+        },
+        {
+            "facet_id": 232316,
+            "occurrence": 1,
+            "value": "Uhl, Bauinspektor"
+        },
+        {
+            "facet_id": 242050,
+            "occurrence": 1,
+            "value": "Keller, Jakob, Schultheiß, Liggersdorf"
+        },
+        {
+            "facet_id": 242051,
+            "occurrence": 1,
+            "value": "Schmid, Mathias, Liggersdorf"
+        },
+        {
+            "facet_id": 243121,
+            "occurrence": 1,
+            "value": "Müller, Thadä, Liggersdorf"
+        },
+        {
+            "facet_id": 248077,
+            "occurrence": 1,
+            "value": "Bach, Waldschütz, Neckarhausen"
+        },
+        {
+            "facet_id": 259125,
+            "occurrence": 1,
+            "value": "Ysenburg, Fürsten von"
+        },
+        {
+            "facet_id": 265380,
+            "occurrence": 1,
+            "value": "Enderle, Ferdinand, Bauer, Vilsingen"
+        },
+        {
+            "facet_id": 265381,
+            "occurrence": 1,
+            "value": "Enderle, Joseph, Bauer, Vilsingen"
+        },
+        {
+            "facet_id": 268979,
+            "occurrence": 1,
+            "value": "Ebe, Pfarrer, Walbertsweiler"
+        },
+        {
+            "facet_id": 279880,
+            "occurrence": 1,
+            "value": "Stehle, Kaplan, Inneringen"
+        },
+        {
+            "facet_id": 285525,
+            "occurrence": 1,
+            "value": "Weidmann, Karl, Apotheker, Trochtelfingen"
+        },
+        {
+            "facet_id": 288006,
+            "occurrence": 1,
+            "value": "Burkhard, Fidel"
+        },
+        {
+            "facet_id": 288007,
+            "occurrence": 1,
+            "value": "Deigentesch, Johann Georg, Kleemeister"
+        },
+        {
+            "facet_id": 291990,
+            "occurrence": 1,
+            "value": "Hotz, Fidel, Hochberg"
+        },
+        {
+            "facet_id": 300152,
+            "occurrence": 1,
+            "value": "Waldenspuhl, Benedict, Walbertsweiler"
+        },
+        {
+            "facet_id": 300153,
+            "occurrence": 1,
+            "value": "Waldenspuhl, Mathä, Walbertsweiler"
+        },
+        {
+            "facet_id": 300154,
+            "occurrence": 1,
+            "value": "Waldenspuhl, Sebastian, Walbertsweiler"
+        },
+        {
+            "facet_id": 314689,
+            "occurrence": 1,
+            "value": "Bantle, Geometer"
+        },
+        {
+            "facet_id": 317253,
+            "occurrence": 1,
+            "value": "Toggenburg, Grafen von"
+        }
+    ]
+}

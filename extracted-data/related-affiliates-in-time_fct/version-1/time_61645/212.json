@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61645",
+    "affiliate_facet_id": 212,
+    "affiliate_facet": "Gruppenbachius",
+    "occurrence": 307,
+    "affiliates": [
+        {
+            "facet_id": 212,
+            "occurrence": 326,
+            "value": "Luther, Martin"
+        },
+        {
+            "facet_id": 24489,
+            "occurrence": 11,
+            "value": "Staphylus, Friedrich (1512-1564)"
+        },
+        {
+            "facet_id": 24751,
+            "occurrence": 9,
+            "value": "Melanchthon, Philipp"
+        },
+        {
+            "facet_id": 78602,
+            "occurrence": 8,
+            "value": "Spangenberg, Cyriacus"
+        },
+        {
+            "facet_id": 16928,
+            "occurrence": 7,
+            "value": "Brenz, Johannes"
+        },
+        {
+            "facet_id": 1839,
+            "occurrence": 6,
+            "value": "Melanchthon, Philipp (1497-1560)"
+        },
+        {
+            "facet_id": 4882,
+            "occurrence": 6,
+            "value": "Rödinger"
+        },
+        {
+            "facet_id": 23669,
+            "occurrence": 6,
+            "value": "Spangenberg, Johann (1484-1550)"
+        },
+        {
+            "facet_id": 63725,
+            "occurrence": 6,
+            "value": "Petri, Andreas"
+        },
+        {
+            "facet_id": 127512,
+            "occurrence": 6,
+            "value": "Rörer, Georg (1492-1557)"
+        },
+        {
+            "facet_id": 131295,
+            "occurrence": 6,
+            "value": "Selnecker, Nikolaus"
+        },
+        {
+            "facet_id": 555427,
+            "occurrence": 6,
+            "value": "Poach, Andreas (1516-1585)"
+        },
+        {
+            "facet_id": 18745,
+            "occurrence": 5,
+            "value": "Lufft"
+        },
+        {
+            "facet_id": 27231,
+            "occurrence": 5,
+            "value": "Maior, Georg (1502-1574)"
+        },
+        {
+            "facet_id": 58780,
+            "occurrence": 5,
+            "value": "Aurifaber, Johann (1519-1575)"
+        },
+        {
+            "facet_id": 141046,
+            "occurrence": 5,
+            "value": "Chemnitz, Martin"
+        },
+        {
+            "facet_id": 849,
+            "occurrence": 4,
+            "value": "Oporinus"
+        },
+        {
+            "facet_id": 18942,
+            "occurrence": 4,
+            "value": "Dinckel, Johannes"
+        },
+        {
+            "facet_id": 51360,
+            "occurrence": 4,
+            "value": "Cruciger, Caspar (1504-1548)"
+        },
+        {
+            "facet_id": 107816,
+            "occurrence": 4,
+            "value": "Heinrich, Nikolaus d.Ä."
+        },
+        {
+            "facet_id": 150308,
+            "occurrence": 4,
+            "value": "Wigand, Johann"
+        },
+        {
+            "facet_id": 162028,
+            "occurrence": 4,
+            "value": "Mörlin, Joachim"
+        },
+        {
+            "facet_id": 441177,
+            "occurrence": 4,
+            "value": "Widebram, Friedrich (1532-1585)"
+        },
+        {
+            "facet_id": 826,
+            "occurrence": 3,
+            "value": "Eder"
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 3,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 7963,
+            "occurrence": 3,
+            "value": "Augustinus, Aurelius"
+        },
+        {
+            "facet_id": 14111,
+            "occurrence": 3,
+            "value": "Selnecker, Nikolaus (1530-1592)"
+        },
+        {
+            "facet_id": 21154,
+            "occurrence": 3,
+            "value": "Eichorn"
+        },
+        {
+            "facet_id": 38758,
+            "occurrence": 3,
+            "value": "Maior, Georg"
+        },
+        {
+            "facet_id": 40157,
+            "occurrence": 3,
+            "value": "Clajus, Johannes (1535-1592)"
+        },
+        {
+            "facet_id": 41019,
+            "occurrence": 3,
+            "value": "Jonas, Justus (1493-1555)"
+        },
+        {
+            "facet_id": 45326,
+            "occurrence": 3,
+            "value": "Reinmichel)"
+        },
+        {
+            "facet_id": 54602,
+            "occurrence": 3,
+            "value": "Osiander, Andreas"
+        },
+        {
+            "facet_id": 66137,
+            "occurrence": 3,
+            "value": "Harnisch, Matthaeus"
+        },
+        {
+            "facet_id": 73844,
+            "occurrence": 3,
+            "value": "Ernhoffer, Sigmund (1547-1597)"
+        },
+        {
+            "facet_id": 102915,
+            "occurrence": 3,
+            "value": "Krafft"
+        },
+        {
+            "facet_id": 111623,
+            "occurrence": 3,
+            "value": "Richtzenhan, Donat"
+        },
+        {
+            "facet_id": 117118,
+            "occurrence": 3,
+            "value": "Hamsing"
+        },
+        {
+            "facet_id": 146117,
+            "occurrence": 3,
+            "value": "Kirchner, Timotheus (1533-1587)"
+        },
+        {
+            "facet_id": 206152,
+            "occurrence": 3,
+            "value": "Schmid u.a."
+        },
+        {
+            "facet_id": 206153,
+            "occurrence": 3,
+            "value": "Lauterbach, Anton (1502-1569)"
+        },
+        {
+            "facet_id": 240713,
+            "occurrence": 3,
+            "value": "Bucer, Martin"
+        },
+        {
+            "facet_id": 324630,
+            "occurrence": 3,
+            "value": "Gallus, Nikolaus"
+        },
+        {
+            "facet_id": 338373,
+            "occurrence": 3,
+            "value": "Volmarius, Marcus"
+        },
+        {
+            "facet_id": 457168,
+            "occurrence": 3,
+            "value": "Heusler, Paul"
+        },
+        {
+            "facet_id": 1638,
+            "occurrence": 2,
+            "value": "Roß"
+        },
+        {
+            "facet_id": 1718,
+            "occurrence": 2,
+            "value": "Petri"
+        },
+        {
+            "facet_id": 4063,
+            "occurrence": 2,
+            "value": "Feyerabend"
+        },
+        {
+            "facet_id": 4213,
+            "occurrence": 2,
+            "value": "Rhamba"
+        },
+        {
+            "facet_id": 7839,
+            "occurrence": 2,
+            "value": "Baumann"
+        },
+        {
+            "facet_id": 12076,
+            "occurrence": 2,
+            "value": "Brenz, Johannes (1499-1570)"
+        },
+        {
+            "facet_id": 15130,
+            "occurrence": 2,
+            "value": "Mechler"
+        },
+        {
+            "facet_id": 18872,
+            "occurrence": 2,
+            "value": "Othmar"
+        },
+        {
+            "facet_id": 19616,
+            "occurrence": 2,
+            "value": "Müller, Christian"
+        },
+        {
+            "facet_id": 25142,
+            "occurrence": 2,
+            "value": "Spangenberg, Cyriacus (1528-1604)"
+        },
+        {
+            "facet_id": 26824,
+            "occurrence": 2,
+            "value": "Creutzer"
+        },
+        {
+            "facet_id": 28346,
+            "occurrence": 2,
+            "value": "Gaubisch"
+        },
+        {
+            "facet_id": 28659,
+            "occurrence": 2,
+            "value": "Vögelin"
+        },
+        {
+            "facet_id": 28783,
+            "occurrence": 2,
+            "value": "Rhegius, Urbanus"
+        },
+        {
+            "facet_id": 29078,
+            "occurrence": 2,
+            "value": "Dietrich, Veit (1506-1549)"
+        },
+        {
+            "facet_id": 30345,
+            "occurrence": 2,
+            "value": "Seitz"
+        },
+        {
+            "facet_id": 35603,
+            "occurrence": 2,
+            "value": "Burger"
+        },
+        {
+            "facet_id": 39956,
+            "occurrence": 2,
+            "value": "Walther, Georg (-1580)"
+        },
+        {
+            "facet_id": 45182,
+            "occurrence": 2,
+            "value": "Lactantius, Lucius Caecilius Firmianus (250-317)"
+        },
+        {
+            "facet_id": 47174,
+            "occurrence": 2,
+            "value": "Neander, Michael (1525-1595)"
+        },
+        {
+            "facet_id": 51284,
+            "occurrence": 2,
+            "value": "Mathesius, Johannes"
+        },
+        {
+            "facet_id": 54623,
+            "occurrence": 2,
+            "value": "Voegelin"
+        },
+        {
+            "facet_id": 58254,
+            "occurrence": 2,
+            "value": "Wolfius"
+        },
+        {
+            "facet_id": 64573,
+            "occurrence": 2,
+            "value": "Berwald"
+        },
+        {
+            "facet_id": 75370,
+            "occurrence": 2,
+            "value": "Reich, Stephan (1512-1588)"
+        },
+        {
+            "facet_id": 78387,
+            "occurrence": 2,
+            "value": "Stigel, Johann"
+        },
+        {
+            "facet_id": 87529,
+            "occurrence": 2,
+            "value": "Kohl"
+        },
+        {
+            "facet_id": 93881,
+            "occurrence": 2,
+            "value": "Gallus, Nikolaus (1516-1570)"
+        },
+        {
+            "facet_id": 107815,
+            "occurrence": 2,
+            "value": "Rauscher, Hieronymus"
+        },
+        {
+            "facet_id": 113576,
+            "occurrence": 2,
+            "value": "Bugenhagen, Johannes"
+        },
+        {
+            "facet_id": 129531,
+            "occurrence": 2,
+            "value": "Huberinus, Caspar"
+        },
+        {
+            "facet_id": 133491,
+            "occurrence": 2,
+            "value": "Knorr"
+        },
+        {
+            "facet_id": 138079,
+            "occurrence": 2,
+            "value": "Neuber, Valentin von Nürnberg"
+        },
+        {
+            "facet_id": 140332,
+            "occurrence": 2,
+            "value": "Flacius, Matthias"
+        },
+        {
+            "facet_id": 152735,
+            "occurrence": 2,
+            "value": "Newber"
+        },
+        {
+            "facet_id": 157227,
+            "occurrence": 2,
+            "value": "Lotter, Michael"
+        },
+        {
+            "facet_id": 164780,
+            "occurrence": 2,
+            "value": "Micha (um 750/700 v. Chr.)"
+        },
+        {
+            "facet_id": 183253,
+            "occurrence": 2,
+            "value": "Lufft, Hans"
+        },
+        {
+            "facet_id": 186255,
+            "occurrence": 2,
+            "value": "VomBerg, Johann und Neuber, Ulrich"
+        },
+        {
+            "facet_id": 189412,
+            "occurrence": 2,
+            "value": "Andreä, Jacob"
+        },
+        {
+            "facet_id": 200697,
+            "occurrence": 2,
+            "value": "Withagius"
+        },
+        {
+            "facet_id": 225673,
+            "occurrence": 2,
+            "value": "Beyer, Johann"
+        },
+        {
+            "facet_id": 235986,
+            "occurrence": 2,
+            "value": "Seitz, Peter d.Ä. (Erben)"
+        },
+        {
+            "facet_id": 255594,
+            "occurrence": 2,
+            "value": "Joël <Prophet> (um 800/750 v. Chr.)"
+        },
+        {
+            "facet_id": 262063,
+            "occurrence": 2,
+            "value": "Heshusen, Tilemann"
+        },
+        {
+            "facet_id": 313715,
+            "occurrence": 2,
+            "value": "Tettelbach, Johann (1517-1598)"
+        },
+        {
+            "facet_id": 355984,
+            "occurrence": 2,
+            "value": "Bärwald, Jakob"
+        },
+        {
+            "facet_id": 393492,
+            "occurrence": 2,
+            "value": "Dietrich, Veit"
+        },
+        {
+            "facet_id": 412710,
+            "occurrence": 2,
+            "value": "Schleich, Clemens und Schöne, Anton"
+        },
+        {
+            "facet_id": 451690,
+            "occurrence": 2,
+            "value": "Lapaeus, Johannes"
+        },
+        {
+            "facet_id": 462699,
+            "occurrence": 2,
+            "value": "Baumann, Georg d.Ä."
+        },
+        {
+            "facet_id": 476887,
+            "occurrence": 2,
+            "value": "Walther, Georg"
+        },
+        {
+            "facet_id": 483621,
+            "occurrence": 2,
+            "value": "Bärwald, Jakob (Erben)"
+        },
+        {
+            "facet_id": 509461,
+            "occurrence": 2,
+            "value": "Ursin, Georg"
+        },
+        {
+            "facet_id": 543911,
+            "occurrence": 2,
+            "value": "Hilten, Johann (1425-1500)"
+        }
+    ]
+}

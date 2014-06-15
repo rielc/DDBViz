@@ -1,0 +1,24 @@
+{
+    "time_facet_id": 8,
+    "time_facet": "time_62100",
+    "affiliate_facet_id": 4413,
+    "affiliate_facet": "Universität Tübingen,",
+    "occurrence": 453,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 4413,
+            "affiliate_fct": "DIP,",
+            "affiliate_fct_occurrence": 496
+        },
+        {
+            "affiliate_fct_id": 4414,
+            "affiliate_fct": "Deutschland / Bundestag",
+            "affiliate_fct_occurrence": 496
+        },
+        {
+            "affiliate_fct_id": 4415,
+            "affiliate_fct": "Deutschland / Bundesrat",
+            "affiliate_fct_occurrence": 496
+        }
+    ]
+}

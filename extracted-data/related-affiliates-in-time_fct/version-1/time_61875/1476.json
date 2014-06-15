@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_facet_id": 1476,
+    "affiliate_facet": "Deutschordensherrschaft Hohenfels",
+    "occurrence": 231,
+    "affiliates": [
+        {
+            "facet_id": 1476,
+            "occurrence": 237,
+            "value": "Didot"
+        },
+        {
+            "facet_id": 7204,
+            "occurrence": 16,
+            "value": "Barthélemy, Jean Jacques (1716-1795)"
+        },
+        {
+            "facet_id": 22950,
+            "occurrence": 14,
+            "value": "Helvétius, Claude Adrien (1715-1771)"
+        },
+        {
+            "facet_id": 16570,
+            "occurrence": 13,
+            "value": "Racine, Jean (1639-1699)"
+        },
+        {
+            "facet_id": 25846,
+            "occurrence": 13,
+            "value": "Fénelon, François de Salignac de La Mothe (1651-1715)"
+        },
+        {
+            "facet_id": 276,
+            "occurrence": 10,
+            "value": "Cicero, Marcus Tullius (v106-v43)"
+        },
+        {
+            "facet_id": 1477,
+            "occurrence": 10,
+            "value": "Voltaire (1694-1778)"
+        },
+        {
+            "facet_id": 72363,
+            "occurrence": 10,
+            "value": "La Fontaine, Jean de (1621-1695)"
+        },
+        {
+            "facet_id": 40757,
+            "occurrence": 7,
+            "value": "Florian, Jean-Pierre Claris de (1755-1794)"
+        },
+        {
+            "facet_id": 8305,
+            "occurrence": 6,
+            "value": "Langlès, Louis Mathieu (1763-1824)"
+        },
+        {
+            "facet_id": 49905,
+            "occurrence": 6,
+            "value": "Scarron, Paul (1610-1660)"
+        },
+        {
+            "facet_id": 91355,
+            "occurrence": 6,
+            "value": "Boileau Despréaux, Nicolas (1636-1711)"
+        },
+        {
+            "facet_id": 180210,
+            "occurrence": 6,
+            "value": "Swinburne, Henry (1743-1803)"
+        },
+        {
+            "facet_id": 180211,
+            "occurrence": 6,
+            "value": "Laborde, Jean-Benjamin de (1734-1794)"
+        },
+        {
+            "facet_id": 286368,
+            "occurrence": 6,
+            "value": "Amiot, Joseph Marie (1718-1793)"
+        },
+        {
+            "facet_id": 5546,
+            "occurrence": 5,
+            "value": "Vergilius Maro, Publius (v70-v19)"
+        },
+        {
+            "facet_id": 6362,
+            "occurrence": 5,
+            "value": "Ozanam, Jacques"
+        },
+        {
+            "facet_id": 2546,
+            "occurrence": 4,
+            "value": "Homerus (ca. 8. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 42848,
+            "occurrence": 4,
+            "value": "Tissot, Samuel A. D. (1728-1797)"
+        },
+        {
+            "facet_id": 64487,
+            "occurrence": 4,
+            "value": "Molière (1622-1673)"
+        },
+        {
+            "facet_id": 69241,
+            "occurrence": 4,
+            "value": "Auger, Athanase (1734-1792)"
+        },
+        {
+            "facet_id": 97671,
+            "occurrence": 4,
+            "value": "Coste, Pierre (1668-1747)"
+        },
+        {
+            "facet_id": 106256,
+            "occurrence": 4,
+            "value": "Gin, Pierre-Louis-Claude (1726-1807)"
+        },
+        {
+            "facet_id": 431856,
+            "occurrence": 4,
+            "value": "Norden, Frederik Ludvig"
+        },
+        {
+            "facet_id": 633564,
+            "occurrence": 4,
+            "value": "Cavanilles, Antonio José (1745-1804)"
+        },
+        {
+            "facet_id": 5505,
+            "occurrence": 3,
+            "value": "Horatius Flaccus, Quintus (v65-v8)"
+        },
+        {
+            "facet_id": 75179,
+            "occurrence": 3,
+            "value": "Léonard, Nicolas Germain (1744-1793)"
+        },
+        {
+            "facet_id": 191889,
+            "occurrence": 3,
+            "value": "Campenon, François Nicolas Vincent (1772-1843)"
+        },
+        {
+            "facet_id": 1220,
+            "occurrence": 2,
+            "value": "Meißner, August Gottlieb (1753-1807)"
+        },
+        {
+            "facet_id": 1271,
+            "occurrence": 2,
+            "value": "Bossuet, Jacques Bénigne (1627-1704)"
+        },
+        {
+            "facet_id": 1720,
+            "occurrence": 2,
+            "value": "Tasso, Torquato (1544-1595)"
+        },
+        {
+            "facet_id": 7775,
+            "occurrence": 2,
+            "value": "Poinsinet de Sivry, Louis (1733-1804)"
+        },
+        {
+            "facet_id": 11399,
+            "occurrence": 2,
+            "value": "Corneille, Pierre (1606-1684)"
+        },
+        {
+            "facet_id": 55455,
+            "occurrence": 2,
+            "value": "La Place, Pierre Antoine de (1707-1793)"
+        },
+        {
+            "facet_id": 64283,
+            "occurrence": 2,
+            "value": "Cazotte, Jacques (1720-1792)"
+        },
+        {
+            "facet_id": 72600,
+            "occurrence": 2,
+            "value": "Berthier, Louis-Alexandre (1753-1815)"
+        },
+        {
+            "facet_id": 87440,
+            "occurrence": 2,
+            "value": "Lysias (v450-v380)"
+        },
+        {
+            "facet_id": 251172,
+            "occurrence": 2,
+            "value": "Rauquil-Lieutaud, ..."
+        },
+        {
+            "facet_id": 446152,
+            "occurrence": 2,
+            "value": "Didot, Pierre-François (1731-1795)"
+        },
+        {
+            "facet_id": 459411,
+            "occurrence": 2,
+            "value": "Billardon de Sauvigny, Louis Édme (1736-1812)"
+        },
+        {
+            "facet_id": 666439,
+            "occurrence": 2,
+            "value": "Conti, Louise-Marguerite de Lorraine de (1574-1631)"
+        },
+        {
+            "facet_id": 759329,
+            "occurrence": 2,
+            "value": "Didot, Pierre (1761-1853)"
+        },
+        {
+            "facet_id": 907756,
+            "occurrence": 2,
+            "value": "Bacon-Tacon, Pierre Jean Jacques (1738-1817)"
+        },
+        {
+            "facet_id": 116,
+            "occurrence": 1,
+            "value": "Boccaccio, Giovanni (1313-1375)"
+        },
+        {
+            "facet_id": 556,
+            "occurrence": 1,
+            "value": "Walther"
+        },
+        {
+            "facet_id": 4258,
+            "occurrence": 1,
+            "value": "La Harpe, Jean-François de (1739-1803)"
+        },
+        {
+            "facet_id": 4412,
+            "occurrence": 1,
+            "value": "La Métherie, Jean-Claude de (1743-1817)"
+        },
+        {
+            "facet_id": 4879,
+            "occurrence": 1,
+            "value": "Theocritus (ca. 4./3.Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 5883,
+            "occurrence": 1,
+            "value": "Levesque, Pierre Ch. (1736-1812)"
+        },
+        {
+            "facet_id": 8219,
+            "occurrence": 1,
+            "value": "Walther,"
+        },
+        {
+            "facet_id": 9323,
+            "occurrence": 1,
+            "value": "La Rochefoucauld, François de (1613-1680)"
+        },
+        {
+            "facet_id": 9986,
+            "occurrence": 1,
+            "value": "Plinius Caecilius Secundus, Gaius (61/62-ca. 114)"
+        },
+        {
+            "facet_id": 12213,
+            "occurrence": 1,
+            "value": "Alfieri, Vittorio (1749-1803)"
+        },
+        {
+            "facet_id": 12642,
+            "occurrence": 1,
+            "value": "Marivaux, Pierre Carlet de Chamblain de (1688-1763)"
+        },
+        {
+            "facet_id": 12759,
+            "occurrence": 1,
+            "value": "Tassoni, Alessandro (1565-1635)"
+        },
+        {
+            "facet_id": 13835,
+            "occurrence": 1,
+            "value": "Cagnoli, Antonio (1743-1816)"
+        },
+        {
+            "facet_id": 14446,
+            "occurrence": 1,
+            "value": "Grimoard, Philippe-Henri de (1753-1815)"
+        },
+        {
+            "facet_id": 14697,
+            "occurrence": 1,
+            "value": "Frankreich"
+        },
+        {
+            "facet_id": 14777,
+            "occurrence": 1,
+            "value": "Demosthenes (v384-v322)"
+        },
+        {
+            "facet_id": 15979,
+            "occurrence": 1,
+            "value": "La Chaussée, Nivelle de (1692-1754)"
+        },
+        {
+            "facet_id": 16361,
+            "occurrence": 1,
+            "value": "Rousseau, Jean-Baptiste (1670-1741)"
+        },
+        {
+            "facet_id": 18795,
+            "occurrence": 1,
+            "value": "Berthollet, Claude Louis"
+        },
+        {
+            "facet_id": 18962,
+            "occurrence": 1,
+            "value": "Bézout, Étienne (1730-1783)"
+        },
+        {
+            "facet_id": 30475,
+            "occurrence": 1,
+            "value": "Malherbe, François de (1556-1628)"
+        },
+        {
+            "facet_id": 35584,
+            "occurrence": 1,
+            "value": "Sirmond, Jacques (1559-1651)"
+        },
+        {
+            "facet_id": 37116,
+            "occurrence": 1,
+            "value": "Saint-Pierre, Bernardin de (1737-1814)"
+        },
+        {
+            "facet_id": 40865,
+            "occurrence": 1,
+            "value": "Wimpffen, François Louis Hérold de (1732-1800)"
+        },
+        {
+            "facet_id": 42275,
+            "occurrence": 1,
+            "value": "Isocrates (v436-v338)"
+        },
+        {
+            "facet_id": 42914,
+            "occurrence": 1,
+            "value": "Gustav Adolf <II., Schweden, König> (1594-1632)"
+        },
+        {
+            "facet_id": 51541,
+            "occurrence": 1,
+            "value": "Bernis, François-Joachim de Pierre de (1715-1794)"
+        },
+        {
+            "facet_id": 67275,
+            "occurrence": 1,
+            "value": "Fabricius, Johann C."
+        },
+        {
+            "facet_id": 69240,
+            "occurrence": 1,
+            "value": "Aeschines <Orator> (ca. ca. 389 v. Chr.-ca. 314 v. Chr.)"
+        },
+        {
+            "facet_id": 94456,
+            "occurrence": 1,
+            "value": "Sacy, Antoine Isaac Silvestre de (1758-1838)"
+        },
+        {
+            "facet_id": 107476,
+            "occurrence": 1,
+            "value": "Gail, Jean-Baptiste (1755-1829)"
+        },
+        {
+            "facet_id": 119638,
+            "occurrence": 1,
+            "value": "Favart, Charles Simon (1710-1792)"
+        },
+        {
+            "facet_id": 127338,
+            "occurrence": 1,
+            "value": "La Fayette, Marie-Madeleine Pioche de La Vergne de (1634-1693)"
+        },
+        {
+            "facet_id": 158199,
+            "occurrence": 1,
+            "value": "Parny, Évariste (1753-1814)"
+        },
+        {
+            "facet_id": 187398,
+            "occurrence": 1,
+            "value": "Bachmann, Georg August (1760-1818)"
+        },
+        {
+            "facet_id": 206741,
+            "occurrence": 1,
+            "value": "Cagnoli, Antonio"
+        },
+        {
+            "facet_id": 222880,
+            "occurrence": 1,
+            "value": "Cetto, Anton von (1756-1847)"
+        },
+        {
+            "facet_id": 224577,
+            "occurrence": 1,
+            "value": "Ramsden, Jesse"
+        },
+        {
+            "facet_id": 257051,
+            "occurrence": 1,
+            "value": "Quatremère-Disjonval, Denis-Bernard (1754-1830)"
+        },
+        {
+            "facet_id": 263038,
+            "occurrence": 1,
+            "value": "Sturm, Johann Georg (1742 - 1793)"
+        },
+        {
+            "facet_id": 284083,
+            "occurrence": 1,
+            "value": "Caullet de Veaumorel, Louis (1743-)"
+        },
+        {
+            "facet_id": 295357,
+            "occurrence": 1,
+            "value": "Saint-Lambert, Jean-François de (1716-1803)"
+        },
+        {
+            "facet_id": 332584,
+            "occurrence": 1,
+            "value": "Le Beschu de la Bastays, N."
+        },
+        {
+            "facet_id": 353189,
+            "occurrence": 1,
+            "value": "Romé de L'Isle, Jean Baptiste Louis de (1736-1790)"
+        },
+        {
+            "facet_id": 353872,
+            "occurrence": 1,
+            "value": "Nairne, Edward"
+        },
+        {
+            "facet_id": 385632,
+            "occurrence": 1,
+            "value": "Suremain de Missery, Antoine"
+        },
+        {
+            "facet_id": 401991,
+            "occurrence": 1,
+            "value": "Andry, Charles Louis François (1741-1829)"
+        },
+        {
+            "facet_id": 421722,
+            "occurrence": 1,
+            "value": "Prony, Riche (1755-1839)"
+        },
+        {
+            "facet_id": 439734,
+            "occurrence": 1,
+            "value": "LaBorde, Jean Benjamin"
+        },
+        {
+            "facet_id": 464749,
+            "occurrence": 1,
+            "value": "Bosquillon, Édouard François Marie (1744-1816)"
+        },
+        {
+            "facet_id": 469305,
+            "occurrence": 1,
+            "value": "Picot de Lapeyrouse, Philippe"
+        },
+        {
+            "facet_id": 469306,
+            "occurrence": 1,
+            "value": "Manavit"
+        },
+        {
+            "facet_id": 491723,
+            "occurrence": 1,
+            "value": "Coquebert de Montbret, Antoine J."
+        },
+        {
+            "facet_id": 644962,
+            "occurrence": 1,
+            "value": "David, Jacques Louis (1748-1825)"
+        },
+        {
+            "facet_id": 670525,
+            "occurrence": 1,
+            "value": "Nussbiegel, Georg Paul (1713 - 1776)"
+        },
+        {
+            "facet_id": 696431,
+            "occurrence": 1,
+            "value": "Palassou, Pierre Bernard (1745-1830)"
+        },
+        {
+            "facet_id": 752688,
+            "occurrence": 1,
+            "value": "Callet, François (1744-1798)"
+        }
+    ]
+}

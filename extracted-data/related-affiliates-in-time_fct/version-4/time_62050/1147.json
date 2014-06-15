@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 7,
+    "time_fct": "time_62050",
+    "affiliate_fct_id": 1147,
+    "affiliate_fct": "Heimat- und Handwerksmuseum Wahlstedt",
+    "affiliate_fct_occurrence": 441,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1147,
+            "affiliate_fct": "Heimat- und Handwerksmuseum Wahlstedt",
+            "affiliate_fct_occurrence": 441
+        },
+        {
+            "affiliate_fct_id": 265900,
+            "affiliate_fct": "Agfa",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 121283,
+            "affiliate_fct": "Pfaff",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 138529,
+            "affiliate_fct": "Saba",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 543465,
+            "affiliate_fct": "anker",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 559186,
+            "affiliate_fct": "Alexanderwerk",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 153880,
+            "affiliate_fct": "AEG",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 213802,
+            "affiliate_fct": "Philips",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 246171,
+            "affiliate_fct": "Eschenbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259713,
+            "affiliate_fct": "Tellus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 616661,
+            "affiliate_fct": "Seltmann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 679466,
+            "affiliate_fct": "Luchs",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 802311,
+            "affiliate_fct": "Bilora",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 831513,
+            "affiliate_fct": "Trösser, Armin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 832562,
+            "affiliate_fct": "Leitz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 889462,
+            "affiliate_fct": "Imperial",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1090417,
+            "affiliate_fct": "No-Name",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1585,
+            "affiliate_fct": "Steinmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6464,
+            "affiliate_fct": "Stürmer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 9557,
+            "affiliate_fct": "Bauer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17889,
+            "affiliate_fct": "Meissner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23366,
+            "affiliate_fct": "Haller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37473,
+            "affiliate_fct": "Schürer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42441,
+            "affiliate_fct": "Thomas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49648,
+            "affiliate_fct": "Barthel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51798,
+            "affiliate_fct": "Siemens",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54470,
+            "affiliate_fct": "Kadus Werk",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 66381,
+            "affiliate_fct": "Hauptner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72172,
+            "affiliate_fct": "M.Brammer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73828,
+            "affiliate_fct": "Singer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76327,
+            "affiliate_fct": "Walther Büromaschinen GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80151,
+            "affiliate_fct": "Assmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105038,
+            "affiliate_fct": "Falk",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 119661,
+            "affiliate_fct": "Klingenthal",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 121832,
+            "affiliate_fct": "EBRO",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131933,
+            "affiliate_fct": "ELTA",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 141443,
+            "affiliate_fct": "HaHa",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149038,
+            "affiliate_fct": "BME",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 157505,
+            "affiliate_fct": "Lehnartz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 159022,
+            "affiliate_fct": "Venus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164552,
+            "affiliate_fct": "Kellner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167717,
+            "affiliate_fct": "Beurer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176843,
+            "affiliate_fct": "Contex",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181639,
+            "affiliate_fct": "Adox",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 191868,
+            "affiliate_fct": "Marschall",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194556,
+            "affiliate_fct": "Jacobs Kaffee",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200889,
+            "affiliate_fct": "Telefunken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 215490,
+            "affiliate_fct": "Eigenbau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 229367,
+            "affiliate_fct": "Daimon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235306,
+            "affiliate_fct": "Bizerba",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 244885,
+            "affiliate_fct": "GRUNDIG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 260415,
+            "affiliate_fct": "DECOR Spielzeug",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 262549,
+            "affiliate_fct": "Pennant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268126,
+            "affiliate_fct": "Gossen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 299126,
+            "affiliate_fct": "Dienes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 301857,
+            "affiliate_fct": "Elgeda",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 334237,
+            "affiliate_fct": "WMF",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 344331,
+            "affiliate_fct": "Winterling",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 356999,
+            "affiliate_fct": "Westmark",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358387,
+            "affiliate_fct": "AKV / Deuss",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 364869,
+            "affiliate_fct": "Schildkröt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381624,
+            "affiliate_fct": "unbekannt, Unbekannt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 386375,
+            "affiliate_fct": "Junghans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 409165,
+            "affiliate_fct": "Kodak,",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 411443,
+            "affiliate_fct": "Schuco",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 477863,
+            "affiliate_fct": "Nordmende",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 484144,
+            "affiliate_fct": "K.W.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 493677,
+            "affiliate_fct": "Hornyphon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531988,
+            "affiliate_fct": "Wanderer Werke",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 545593,
+            "affiliate_fct": "Prym",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 549268,
+            "affiliate_fct": "Duplex",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 551834,
+            "affiliate_fct": "Prima",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 584997,
+            "affiliate_fct": "CRÜWELL",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 586313,
+            "affiliate_fct": "Kochkuns,",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 600756,
+            "affiliate_fct": "Captain",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 621545,
+            "affiliate_fct": "Zeiss Ikon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 622860,
+            "affiliate_fct": "Jupiter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 622863,
+            "affiliate_fct": "MÜHOLOS-Werk",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 623978,
+            "affiliate_fct": "Schubert Schreibmaschinenfabrik",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630384,
+            "affiliate_fct": "Dr.Ruhland",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 632447,
+            "affiliate_fct": "GESKA,",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 636329,
+            "affiliate_fct": "Electro AS GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647813,
+            "affiliate_fct": "SPEAR Spiele",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 667039,
+            "affiliate_fct": "Kosmos",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 695211,
+            "affiliate_fct": "Adrian &amp; Stock",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 703906,
+            "affiliate_fct": "Dr.Oetker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 704388,
+            "affiliate_fct": "VEB Rheinmetall",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 705504,
+            "affiliate_fct": "Frobana",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 750181,
+            "affiliate_fct": "Konrad Heidersbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 754900,
+            "affiliate_fct": "Bavaria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 781455,
+            "affiliate_fct": "Quellomat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 801749,
+            "affiliate_fct": "Nirona",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 825393,
+            "affiliate_fct": "ALTUS",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 829006,
+            "affiliate_fct": "EFALOCK",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 860224,
+            "affiliate_fct": "Herkules",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 873939,
+            "affiliate_fct": "Minosa",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 878435,
+            "affiliate_fct": "SOLO",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 883895,
+            "affiliate_fct": "Stern-Garn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 884116,
+            "affiliate_fct": "Bergedorfer Eisenwerke",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 884495,
+            "affiliate_fct": "Huki",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

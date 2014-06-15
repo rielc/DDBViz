@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_fct_id": 4513,
+    "affiliate_fct": "Breitkopf & Härtel",
+    "affiliate_fct_occurrence": 334,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 4513,
+            "affiliate_fct": "Breitkopf & Härtel",
+            "affiliate_fct_occurrence": 334
+        },
+        {
+            "affiliate_fct_id": 11073,
+            "affiliate_fct": "Schumann, Robert (1810-1856)",
+            "affiliate_fct_occurrence": 150
+        },
+        {
+            "affiliate_fct_id": 17645,
+            "affiliate_fct": "Schumann, Clara (1819-1896)",
+            "affiliate_fct_occurrence": 150
+        },
+        {
+            "affiliate_fct_id": 4514,
+            "affiliate_fct": "Händel, Georg Friedrich (1685-1759)",
+            "affiliate_fct_occurrence": 49
+        },
+        {
+            "affiliate_fct_id": 3292,
+            "affiliate_fct": "Schubert, Franz",
+            "affiliate_fct_occurrence": 48
+        },
+        {
+            "affiliate_fct_id": 4515,
+            "affiliate_fct": "Chrysander, Friedrich (1826-1901)",
+            "affiliate_fct_occurrence": 48
+        },
+        {
+            "affiliate_fct_id": 187737,
+            "affiliate_fct": "Reinecke, Carl (1824-1910)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 74252,
+            "affiliate_fct": "Schletterer, Hans Michel (1824-1893)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 313887,
+            "affiliate_fct": "Pergolesi, Giovanni Battista (1710-1736)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 94046,
+            "affiliate_fct": "Fechner, Gustav Theodor",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 458137,
+            "affiliate_fct": "Gade, Niels Wilhelm (1817-1890)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 551014,
+            "affiliate_fct": "Andersen, Carl (1828-1883)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1861,
+            "affiliate_fct": "Mozart, Wolfgang Amadeus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5387,
+            "affiliate_fct": "Schumann, Clara",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17140,
+            "affiliate_fct": "Weber, Carl Maria von (1786-1826)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 45877,
+            "affiliate_fct": "Raff, Joseph Joachim (1822-1882)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 87453,
+            "affiliate_fct": "Eichendorff, Joseph von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 220839,
+            "affiliate_fct": "Scharwenka, Philipp (1847-1917)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 290978,
+            "affiliate_fct": "Gouvy, Théodore (1819-1898)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 353144,
+            "affiliate_fct": "Herzogenberg, Heinrich von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 373989,
+            "affiliate_fct": "Jadassohn, Salomon (1831-1902)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 390761,
+            "affiliate_fct": "Markull, Friedrich Wilhelm (1816-1887)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 634046,
+            "affiliate_fct": "Hugo von Reutlingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1266,
+            "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1720,
+            "affiliate_fct": "Tasso, Torquato (1544-1595)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1767,
+            "affiliate_fct": "Friedrich <Preußen, König, II.>",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2063,
+            "affiliate_fct": "Thoma, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5817,
+            "affiliate_fct": "Mendelssohn Bartholdy, Felix (1809-1847)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 7694,
+            "affiliate_fct": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8026,
+            "affiliate_fct": "Haupt, Theodor von (1784-1832)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8076,
+            "affiliate_fct": "Wagner, Richard (1813-1883)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8867,
+            "affiliate_fct": "Weise, Oskar (1851-1933)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 12762,
+            "affiliate_fct": "Körner, Theodor (1791-1813)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15549,
+            "affiliate_fct": "Baumbach, Rudolf (1840-1905)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21521,
+            "affiliate_fct": "Rossini, Gioachino (1792-1868)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30333,
+            "affiliate_fct": "Cramer, Carl Gottlob (1758-1817)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 32874,
+            "affiliate_fct": "Bunsen, Christian Karl Josias von (1791-1860)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36771,
+            "affiliate_fct": "Schulz, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39677,
+            "affiliate_fct": "Gluck, Christoph Willibald (1714-1787)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41124,
+            "affiliate_fct": "Heine, Heinrich (1797-1856)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45907,
+            "affiliate_fct": "Lachner, Franz Paul (1803-1890)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46205,
+            "affiliate_fct": "Duval, Alexandre (1767-1842)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52343,
+            "affiliate_fct": "Perfall, Karl von (1824-1907)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53803,
+            "affiliate_fct": "Weigl, Joseph (1766-1846)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56668,
+            "affiliate_fct": "Méhul, Étienne Nicolas (1763-1817)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 58026,
+            "affiliate_fct": "Jouy, Étienne de (1764-1846)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60405,
+            "affiliate_fct": "Schubert, Franz (1797-1828)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68392,
+            "affiliate_fct": "Hoffmann, E. T. A. (1776-1822)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70516,
+            "affiliate_fct": "Geibel, Emanuel (1815-1884)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70757,
+            "affiliate_fct": "Hiemer, Franz Karl (1768-1822)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 82782,
+            "affiliate_fct": "Donner, Johann Jacob Christian (1799-1875)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 83276,
+            "affiliate_fct": "Hofmann, Heinrich (1842-1902)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 83277,
+            "affiliate_fct": "Fels, Roderich (1844-1883)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100378,
+            "affiliate_fct": "Günther, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 101568,
+            "affiliate_fct": "Palestrina, Giovanni Pierluigi da (1525-1594)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 104115,
+            "affiliate_fct": "Knothe, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 126041,
+            "affiliate_fct": "Kade, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129204,
+            "affiliate_fct": "Arx, Max von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131887,
+            "affiliate_fct": "Schulze, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132846,
+            "affiliate_fct": "Beethoven, Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 134599,
+            "affiliate_fct": "Abert, Johann Joseph (1832-1915)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139788,
+            "affiliate_fct": "Dahn, Felix (1834-1912)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168786,
+            "affiliate_fct": "Weingartner, Felix (1863-1942)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169137,
+            "affiliate_fct": "Le Beau, Luise Adolpha (1850-1927)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189131,
+            "affiliate_fct": "Thieme, Ulrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192734,
+            "affiliate_fct": "Chopin, F.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197049,
+            "affiliate_fct": "Wittmann, Hugo (1839-1923)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197996,
+            "affiliate_fct": "Scheffel, Joseph Victor von (1826-1886)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 198734,
+            "affiliate_fct": "Bonn, Franz (1830-1894)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204928,
+            "affiliate_fct": "Berté",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204929,
+            "affiliate_fct": "Weinberger, Carl (1861-1939)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 215120,
+            "affiliate_fct": "Beer-Walbrunn, Anton (1864-1929)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 221711,
+            "affiliate_fct": "Bis, Hippolyte (1789-1855)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224200,
+            "affiliate_fct": "Muth, Franz Alfred (1839-1890)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 249073,
+            "affiliate_fct": "Huber, Hans (1852-1921)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258489,
+            "affiliate_fct": "Bargiel, Woldemar (1828-1897)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258492,
+            "affiliate_fct": "Bolck, Oskar (1839-1888)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271439,
+            "affiliate_fct": "Bach, Johann Sebastian (1685-1750)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 304912,
+            "affiliate_fct": "Boehme, E. E. H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 330997,
+            "affiliate_fct": "Burmeister, Richard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 382682,
+            "affiliate_fct": "Maurmann, Emil (1864-1937)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 397160,
+            "affiliate_fct": "Gade, Niels",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 438436,
+            "affiliate_fct": "Bode, Wilhelm von (1845-1929)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 449134,
+            "affiliate_fct": "Becker, Albert (1834-1899)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 517843,
+            "affiliate_fct": "Langhans, Friedrich Wilhelm (1832-1892)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529256,
+            "affiliate_fct": "Thürlings, Adolf (1844-1915)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 539292,
+            "affiliate_fct": "Röntgen, Julius (1855-1932)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593960,
+            "affiliate_fct": "Vogel, Julius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 608953,
+            "affiliate_fct": "Engel, Ernst Johann Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 734504,
+            "affiliate_fct": "Gluth, Viktor (1852-1917)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 776434,
+            "affiliate_fct": "Blumner, Martin (1827-1901)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 780427,
+            "affiliate_fct": "Kulmann, Elisabeth (1808-1825)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 795821,
+            "affiliate_fct": "Raff, Helene (1865-1942)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 796476,
+            "affiliate_fct": "Nagel, Willibald (1863-1929)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 841290,
+            "affiliate_fct": "Froriep, August",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 841291,
+            "affiliate_fct": "Helmert, Rich.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 879843,
+            "affiliate_fct": "Türk, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 927000,
+            "affiliate_fct": "Dudensing, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 978354,
+            "affiliate_fct": "Gervinus, Viktoria (1820-1893)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

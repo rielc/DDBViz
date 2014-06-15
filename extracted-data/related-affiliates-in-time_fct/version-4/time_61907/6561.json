@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 6561,
+    "affiliate_fct": "Ministerium der Auswärtigen Angelegenheiten",
+    "affiliate_fct_occurrence": 317,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 6561,
+            "affiliate_fct": "Ministerium der Auswärtigen Angelegenheiten",
+            "affiliate_fct_occurrence": 317
+        },
+        {
+            "affiliate_fct_id": 22738,
+            "affiliate_fct": "Wintzingerode, Heinrich Friedrich Karl Levin Graf von; württembergischer Gesandter und Außenminister, 1778-1856",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 4424,
+            "affiliate_fct": "Kauffmann, Karl Philipp von; Legationsrat, Direktor des Haus- und Staatsarchivs, 1766-1835",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 32282,
+            "affiliate_fct": "Taube, Karl August Ludwig von; Staatsminister, Diplomat, Außenminister, 1772-1816",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 95021,
+            "affiliate_fct": "Kniestedt, Karl Freiherr von; Kammerherr und Stallmeister",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 200536,
+            "affiliate_fct": "Großbritannien, Georg IV.; König, 1762-1830",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 415984,
+            "affiliate_fct": "Deuring, Freiherr von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10054,
+            "affiliate_fct": "Sachsen, Anton Prinz von, 1755-1836",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10120,
+            "affiliate_fct": "Metternich-Winneburg, Clemens Wenzeslaus (Klemens Wenzel) Fürst von, österreichischer Außenminister und Staatskanzler, 1773-1859",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10121,
+            "affiliate_fct": "Thurn und Taxis, Fürst von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 12841,
+            "affiliate_fct": "Wagner, Karl Friedrich; Leutnant und Legationsrat, 1789-1875",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13423,
+            "affiliate_fct": "Bismark, Friedrich Wilhelm Graf von; Generalleutnant und württembergischer Gesandter, 1783-1860",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14437,
+            "affiliate_fct": "Zeppelin, Ferdinand Ludwig von; Politiker, Minister, 1772-1829",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19186,
+            "affiliate_fct": "Russland, Alexander I.; Zar, 1777-1825",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23149,
+            "affiliate_fct": "Hohenzollern-Sigmaringen, Anton Aloys von; Fürst, 1762-1831",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30217,
+            "affiliate_fct": "Michaelis, Salomon; Philologe, Germanist, Romanist, Buchhändler, Verleger, Redakteur, Hochschullehrer, 1768-1844",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45522,
+            "affiliate_fct": "Cotta, Johann Georg; Buchhändler, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 47172,
+            "affiliate_fct": "Schaul, Eduard; Kanzlist, Legationsrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 50145,
+            "affiliate_fct": "Trott auf Solz zu Imshausen, August Heinrich von; Diplomat, Freiherr, 1783-1840",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52441,
+            "affiliate_fct": "Schneider, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52932,
+            "affiliate_fct": "Batz, Friedrich von; Soldat, Übersetzer, Oberst, 1788-1856",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64612,
+            "affiliate_fct": "Griffith",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68129,
+            "affiliate_fct": "Conte, Jean Levi; russischer Artilleriemajor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76348,
+            "affiliate_fct": "Windisch-Graetz, Alfred Candidus Ferdinand Fürst zu; österreichischer Feldmarschall, 1787-1862",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88992,
+            "affiliate_fct": "Schmitz-Grollenburg, Philipp Moritz Freiherr von; württembergischer Staatsrat und Gesandter, 1765-1849 | 11681635X",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96268,
+            "affiliate_fct": "Bothmer, Karl Heinrich Ernst Freiherr von; württembergischer Gesandter, 1770-1845",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112775,
+            "affiliate_fct": "Kotzebue, August von; Schriftsteller, russischer Staatsrat, 1761-1819",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115845,
+            "affiliate_fct": "Hohenlohe-Jagstberg, Fürst von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123457,
+            "affiliate_fct": "Baden, Karl von; Großherzog, 1786-1818",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123459,
+            "affiliate_fct": "Berthier, Louis Alexandre; Fürst und Herzog von Neuchâtel und Valengin, Fürst von Wagram und Marschall von Frankreich, 1753-1815",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132019,
+            "affiliate_fct": "Jasmund, von; Landvogt am Kocher",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 142385,
+            "affiliate_fct": "Röder, von; Generalleutnant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 162897,
+            "affiliate_fct": "Löwenstein-Wertheim, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168455,
+            "affiliate_fct": "Toskana, Ferdinand III. von; Großherzog, 1769-1824",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173642,
+            "affiliate_fct": "Schenk von Castell, Franz Ludwig; Graf, 1736-1821",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 178624,
+            "affiliate_fct": "Gerlach, Prof.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 178625,
+            "affiliate_fct": "Marperger-Asters, Heinrich von; Privatgelehrter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 184153,
+            "affiliate_fct": "Leykam, Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187161,
+            "affiliate_fct": "Litzenmayer, Paul; Geheimer Kanzlist und Wappenmaler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 195796,
+            "affiliate_fct": "Sand, Karl Ludwig; Student, Attentäter, 1795-1820 | 11875114X",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 198140,
+            "affiliate_fct": "Kaulla, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 198306,
+            "affiliate_fct": "Penasse, Carl Friedrich von; württembergischer Oberstleutnant und Diplomat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 244811,
+            "affiliate_fct": "Arenberg, Amalie Luise Prinzessin und Herzogin von; verh. Herzogin von Bayern, 1789-1823",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285133,
+            "affiliate_fct": "Baldinger, von; Leutnant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 286715,
+            "affiliate_fct": "Hertling, Wilhelm Friedrich Freiherr von; bayerischer Gesandter, 1758-1816",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313349,
+            "affiliate_fct": "Denzel, Amandus; Quartiermeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313350,
+            "affiliate_fct": "Engel, Friedrich von; Leutnant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313351,
+            "affiliate_fct": "Heinemann, Gottlieb; Sergeant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 317989,
+            "affiliate_fct": "Braunschweig-Wolfenbüttel, Karl Wilhelm Ferdinand; Herzog, 1735-1806 | 11913988X",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 319530,
+            "affiliate_fct": "Waldburg-Wurzach, Karl Graf von; Legationssekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 336282,
+            "affiliate_fct": "Boxberg, von; angeblicher bayerischer Offizier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 349333,
+            "affiliate_fct": "Bruns, Viktor; Jurist, Professor für Völkerrecht, 1884-1943",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395632,
+            "affiliate_fct": "Gaelle, Meingosus; Komponist, Theologe, 1752-1816",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 410822,
+            "affiliate_fct": "Nassau-Oranien, Fürst von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 415985,
+            "affiliate_fct": "Gulden, Joseph; Pächter der Herrschaft Randegg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 427122,
+            "affiliate_fct": "Hofmann, Heinrich Carl; Advokat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 427199,
+            "affiliate_fct": "Lebolo, Antonio",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 429957,
+            "affiliate_fct": "Salerno, Leopold Prinz von, 1790-1851",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 436280,
+            "affiliate_fct": "Rau, Posthalter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 436281,
+            "affiliate_fct": "Stewart, Lord; britischer Botschafter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 442913,
+            "affiliate_fct": "Salm-Krautheim, Franz von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448795,
+            "affiliate_fct": "Horn; von; Professor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 457729,
+            "affiliate_fct": "Caillon, franz. Kapitäns-Witwe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 472476,
+            "affiliate_fct": "Dermoncourt, Paul Ferdinand Stanislas; General, 1771-1847",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 480719,
+            "affiliate_fct": "Bitterer, Johann Philipp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487367,
+            "affiliate_fct": "Essenwein, Polizeikommissar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 488329,
+            "affiliate_fct": "Memminger, Johann Daniel Georg von; Geograph, Statistiker, 1773-1840",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 494160,
+            "affiliate_fct": "Baer, Gustav von; Kanzlist",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 508246,
+            "affiliate_fct": "Burkhardt, Kilian; Oberfeuerwerker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 508432,
+            "affiliate_fct": "Tulla, Johann Gottfried; Oberwasserbaudirektor, 1770-1828",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 509827,
+            "affiliate_fct": "Schleswig-Holstein-Sonderburg-Augustenburg, Christian August; Herzog, Kronprinz von Schweden, 1768-1810",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 512384,
+            "affiliate_fct": "Blatter; Landarzt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 519261,
+            "affiliate_fct": "Thumm; Advokat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 524751,
+            "affiliate_fct": "Müller, Landrechnungskammerrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 527797,
+            "affiliate_fct": "Großbritannien; Auguste Prinzessin von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529814,
+            "affiliate_fct": "Neapel, Joachim Murat; König; Marschall von Frankreich, 1767-1815",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531060,
+            "affiliate_fct": "Maria Theresa; Kaiserin, geb. Prinzessin von Neapel-Sizilien, 1772-1807",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 576915,
+            "affiliate_fct": "Stahl, Johann Peter; Geheimer Kanzlist und Sekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 595382,
+            "affiliate_fct": "Stadion, Johann Philipp Graf von; österreichischer Minister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 599959,
+            "affiliate_fct": "Esslair, Ferdinand; Schauspieler, Regisseur, 1772-1840",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 605789,
+            "affiliate_fct": "Hendriks, Carl; niederländischer Konsul in Rio de Janeiro",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 610356,
+            "affiliate_fct": "Franz Xaver; Prinz von Polen und Sachsen, sächsischer Regent (Administrator), 1730-1806",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 610357,
+            "affiliate_fct": "Österreich-Este, Ferdinand Karl; Erzherzog, 1754-1806",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 610358,
+            "affiliate_fct": "Sachsen-Coburg; Ludwig Prinz von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 623325,
+            "affiliate_fct": "Rüttimann, Niklaus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629240,
+            "affiliate_fct": "Halder; Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647075,
+            "affiliate_fct": "Lenz, Aufwärter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647076,
+            "affiliate_fct": "Reichele, Aufwärter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 648045,
+            "affiliate_fct": "Cammerer, Rudolph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 648046,
+            "affiliate_fct": "Walker, Johann G.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 651119,
+            "affiliate_fct": "Schumann von Glückstern; österreichischer Major",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 653627,
+            "affiliate_fct": "King, Jane, Lady verh. Gräfin von Wintzingerode",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 685136,
+            "affiliate_fct": "Sizilien, Louise Charlotte Prinzessin von, verh. Prinzessin von Bourbon, 1804-1844",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 704846,
+            "affiliate_fct": "Benz, Sekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 712952,
+            "affiliate_fct": "Koch, Ludwig Franz Xaver (von); Oberamtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 762583,
+            "affiliate_fct": "Schwarzmann, hechingischer Regierungsrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790211,
+            "affiliate_fct": "Braunschweig-Wolfenbüttel-Oels, Maria Elisabeth Wilhelmine von, geb. von Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790212,
+            "affiliate_fct": "Dänemark, Christian VII.; König, 1749-1808",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790213,
+            "affiliate_fct": "Mecklenburg-Schwerin, Luise; Herzogin, geb. Prinzessin von Sachsen-Gotha-Altenburg, 1756-1808",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790214,
+            "affiliate_fct": "Preußen, Wilhelmine Prinzessin von, geb. Prinzessin von Hessen-Kassel",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

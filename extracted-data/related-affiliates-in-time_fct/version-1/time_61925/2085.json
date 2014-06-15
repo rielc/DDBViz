@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 2085,
+    "affiliate_facet": "Gesamtarchiv der Schenken von Stauffenberg",
+    "occurrence": 1109,
+    "affiliates": [
+        {
+            "facet_id": 2085,
+            "occurrence": 1162,
+            "value": "Metzler"
+        },
+        {
+            "facet_id": 2087,
+            "occurrence": 238,
+            "value": "Notter, Friedrich (1801-1884)"
+        },
+        {
+            "facet_id": 11815,
+            "occurrence": 231,
+            "value": "Pfizer, Gustav (1807-1890)"
+        },
+        {
+            "facet_id": 6415,
+            "occurrence": 155,
+            "value": "James, George Payne Rainsford (1799-1860)"
+        },
+        {
+            "facet_id": 4547,
+            "occurrence": 136,
+            "value": "Pahl, Wilhelm Matthäus (1795-1875)"
+        },
+        {
+            "facet_id": 276,
+            "occurrence": 132,
+            "value": "Cicero, Marcus Tullius (v106-v43)"
+        },
+        {
+            "facet_id": 4546,
+            "occurrence": 132,
+            "value": "Kern, Friedrich Heinrich (1790-1842)"
+        },
+        {
+            "facet_id": 2086,
+            "occurrence": 117,
+            "value": "Lytton, Edward Bulwer Lytton (1803-1873)"
+        },
+        {
+            "facet_id": 18118,
+            "occurrence": 57,
+            "value": "Osiander, Christian Nathanael (1781-1855)"
+        },
+        {
+            "facet_id": 25279,
+            "occurrence": 51,
+            "value": "Pauly, August (1796-1845)"
+        },
+        {
+            "facet_id": 16456,
+            "occurrence": 49,
+            "value": "Livius, Titus (v59-17)"
+        },
+        {
+            "facet_id": 65189,
+            "occurrence": 49,
+            "value": "Klaiber, Christian Friedrich (1782-1850)"
+        },
+        {
+            "facet_id": 5753,
+            "occurrence": 40,
+            "value": "Lucianus <Samosatensis> (120-180)"
+        },
+        {
+            "facet_id": 59458,
+            "occurrence": 38,
+            "value": "Walz, Christian (1802-1857)"
+        },
+        {
+            "facet_id": 14777,
+            "occurrence": 37,
+            "value": "Demosthenes (v384-v322)"
+        },
+        {
+            "facet_id": 34832,
+            "occurrence": 37,
+            "value": "Pabst, Heinrich A."
+        },
+        {
+            "facet_id": 6124,
+            "occurrence": 35,
+            "value": "Appianus (ca. 2. Jh.)"
+        },
+        {
+            "facet_id": 40199,
+            "occurrence": 33,
+            "value": "Dillenius, Ferdinand Ludwig Immanuel (1791-1871)"
+        },
+        {
+            "facet_id": 10584,
+            "occurrence": 31,
+            "value": "Tafel, Leonhard (1800-1880)"
+        },
+        {
+            "facet_id": 10315,
+            "occurrence": 29,
+            "value": "Xenophon (v. 430-v. 355)"
+        },
+        {
+            "facet_id": 244,
+            "occurrence": 26,
+            "value": "Plutarchus (45-120)"
+        },
+        {
+            "facet_id": 246,
+            "occurrence": 26,
+            "value": "Klaiber, Johann Gottfried (1796-1889)"
+        },
+        {
+            "facet_id": 6144,
+            "occurrence": 26,
+            "value": "Strabo (v63-19)"
+        },
+        {
+            "facet_id": 72503,
+            "occurrence": 26,
+            "value": "Fuchs, C."
+        },
+        {
+            "facet_id": 10583,
+            "occurrence": 25,
+            "value": "Cassius <Dio> (163-235)"
+        },
+        {
+            "facet_id": 1097,
+            "occurrence": 23,
+            "value": "Aristoteles (v384-v322)"
+        },
+        {
+            "facet_id": 90150,
+            "occurrence": 23,
+            "value": "Kärcher, Karl"
+        },
+        {
+            "facet_id": 13695,
+            "occurrence": 22,
+            "value": "Zell, Karl (1793-1873)"
+        },
+        {
+            "facet_id": 19546,
+            "occurrence": 21,
+            "value": "Jacobs, Friedrich (1764-1847)"
+        },
+        {
+            "facet_id": 73372,
+            "occurrence": 21,
+            "value": "Roth, Karl Ludwig"
+        },
+        {
+            "facet_id": 1983,
+            "occurrence": 20,
+            "value": "Dionysius <Halicarnassensis> (ca. 1.Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 24136,
+            "occurrence": 20,
+            "value": "Christian, Adolph Heinrich"
+        },
+        {
+            "facet_id": 24137,
+            "occurrence": 20,
+            "value": "Schaller, Gottfried Jakob (1762-1831)"
+        },
+        {
+            "facet_id": 105951,
+            "occurrence": 18,
+            "value": "Aelianus, Claudius (170-240)"
+        },
+        {
+            "facet_id": 129891,
+            "occurrence": 18,
+            "value": "Wunderlich, Ephorus"
+        },
+        {
+            "facet_id": 104183,
+            "occurrence": 17,
+            "value": "Sealsfield, Charles (1793-1864)"
+        },
+        {
+            "facet_id": 19104,
+            "occurrence": 16,
+            "value": "Thucydides (v460-v400)"
+        },
+        {
+            "facet_id": 4220,
+            "occurrence": 15,
+            "value": "Minckwitz, Johannes (1812-1885)"
+        },
+        {
+            "facet_id": 719,
+            "occurrence": 14,
+            "value": "Ovidius Naso, Publius (ca. 43 v. Chr.-ca. 18)"
+        },
+        {
+            "facet_id": 4005,
+            "occurrence": 14,
+            "value": "Caesar, Gaius Iulius (v100-v44)"
+        },
+        {
+            "facet_id": 10360,
+            "occurrence": 14,
+            "value": "Baumstark, Anton (1800-1876)"
+        },
+        {
+            "facet_id": 78194,
+            "occurrence": 14,
+            "value": "Metzger, E. F."
+        },
+        {
+            "facet_id": 81215,
+            "occurrence": 13,
+            "value": "Philostratus, Flavius (160-245)"
+        },
+        {
+            "facet_id": 2407,
+            "occurrence": 12,
+            "value": "Tacitus, Cornelius (55-116/120n.Chr.)"
+        },
+        {
+            "facet_id": 6254,
+            "occurrence": 12,
+            "value": "Gutmann, Heinrich"
+        },
+        {
+            "facet_id": 33776,
+            "occurrence": 12,
+            "value": "Cervantes Saavedra, Miguel de (1547-1616)"
+        },
+        {
+            "facet_id": 97561,
+            "occurrence": 12,
+            "value": "Keller, Adelbert von (1812-1883)"
+        },
+        {
+            "facet_id": 249077,
+            "occurrence": 12,
+            "value": "Callistratus <Sophista> (4. Jh. n. Chr.)"
+        },
+        {
+            "facet_id": 249078,
+            "occurrence": 12,
+            "value": "Philostratus <Iunior> (ca. 3. Jh.)"
+        },
+        {
+            "facet_id": 4219,
+            "occurrence": 11,
+            "value": "Euripides (v480-v406)"
+        },
+        {
+            "facet_id": 18652,
+            "occurrence": 11,
+            "value": "Arrianus, Flavius (95-175)"
+        },
+        {
+            "facet_id": 18653,
+            "occurrence": 11,
+            "value": "Dörner, Christian H."
+        },
+        {
+            "facet_id": 32742,
+            "occurrence": 11,
+            "value": "Bentzel-Sternau, Christian Ernst von (1767-1849)"
+        },
+        {
+            "facet_id": 117741,
+            "occurrence": 11,
+            "value": "Ludwig, Gustav"
+        },
+        {
+            "facet_id": 9986,
+            "occurrence": 10,
+            "value": "Plinius Caecilius Secundus, Gaius (61/62-ca. 114)"
+        },
+        {
+            "facet_id": 38438,
+            "occurrence": 10,
+            "value": "Teuffel, Wilhelm Sigismund (1820-1878)"
+        },
+        {
+            "facet_id": 78195,
+            "occurrence": 10,
+            "value": "Pfitz, Heinrich Christian"
+        },
+        {
+            "facet_id": 433410,
+            "occurrence": 10,
+            "value": "Schott, Christian Friedrich Albert (1782-1861)"
+        },
+        {
+            "facet_id": 4138,
+            "occurrence": 9,
+            "value": "Terentius Afer, Publius (v195-v159)"
+        },
+        {
+            "facet_id": 16267,
+            "occurrence": 9,
+            "value": "Aeschylus (v525-v456)"
+        },
+        {
+            "facet_id": 40028,
+            "occurrence": 9,
+            "value": "Pfaff, Karl (1795-1866)"
+        },
+        {
+            "facet_id": 140448,
+            "occurrence": 9,
+            "value": "Benfey, Theodor (1809-1881)"
+        },
+        {
+            "facet_id": 15140,
+            "occurrence": 8,
+            "value": "Rapp, Karl Moritz (1803-1883)"
+        },
+        {
+            "facet_id": 19524,
+            "occurrence": 8,
+            "value": "Plautus, Titus Maccius (ca. 254 v. Chr.-184 v. Chr.)"
+        },
+        {
+            "facet_id": 32536,
+            "occurrence": 8,
+            "value": "Pausanias <Periegeta> (ca. 2. Jh.)"
+        },
+        {
+            "facet_id": 56742,
+            "occurrence": 8,
+            "value": "Reichardt, H. (um 1856)"
+        },
+        {
+            "facet_id": 56743,
+            "occurrence": 8,
+            "value": "Siebelis, Carl Gottfried (1769-1843)"
+        },
+        {
+            "facet_id": 93753,
+            "occurrence": 8,
+            "value": "Moser, Georg Heinrich (1780-1858)"
+        },
+        {
+            "facet_id": 379009,
+            "occurrence": 8,
+            "value": "Lytton, Rosina Bulwer Lytton (1802-1882)"
+        },
+        {
+            "facet_id": 5546,
+            "occurrence": 7,
+            "value": "Vergilius Maro, Publius (v70-v19)"
+        },
+        {
+            "facet_id": 42327,
+            "occurrence": 7,
+            "value": "Wächter, Karl Georg von (1797-1880)"
+        },
+        {
+            "facet_id": 76603,
+            "occurrence": 7,
+            "value": "Apollodorus <Grammaticus> (ca. 2. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 154127,
+            "occurrence": 7,
+            "value": "Schwarz, Christian"
+        },
+        {
+            "facet_id": 1779,
+            "occurrence": 6,
+            "value": "Plinius Secundus, Gaius (23-79)"
+        },
+        {
+            "facet_id": 7694,
+            "occurrence": 6,
+            "value": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)"
+        },
+        {
+            "facet_id": 14226,
+            "occurrence": 6,
+            "value": "Iustinus, Marcus Iunianus (ca. 3. Jh.)"
+        },
+        {
+            "facet_id": 15732,
+            "occurrence": 6,
+            "value": "Theobald, Joseph Apollinaris Honoratus von (1772-1837)"
+        },
+        {
+            "facet_id": 65060,
+            "occurrence": 6,
+            "value": "Say, Jean Baptiste (1767-1832)"
+        },
+        {
+            "facet_id": 86274,
+            "occurrence": 6,
+            "value": "Külb, Philipp H. (1806-1869)"
+        },
+        {
+            "facet_id": 647007,
+            "occurrence": 6,
+            "value": "Neuffer, Ludwig"
+        },
+        {
+            "facet_id": 2794,
+            "occurrence": 5,
+            "value": "Sallustius Crispus, Gaius (v86-v34)"
+        },
+        {
+            "facet_id": 38230,
+            "occurrence": 5,
+            "value": "Goeriz, August von (ca. um 1830/1840)"
+        },
+        {
+            "facet_id": 12722,
+            "occurrence": 4,
+            "value": "Weber, Karl Julius (1767-1832)"
+        },
+        {
+            "facet_id": 35144,
+            "occurrence": 4,
+            "value": "Nepos, Cornelius (ca. 100 v. Chr.-ca. 25 v. Chr.)"
+        },
+        {
+            "facet_id": 53498,
+            "occurrence": 4,
+            "value": "Florus, Lucius Annaeus (ca. 2. Jh. n. Chr.)"
+        },
+        {
+            "facet_id": 69240,
+            "occurrence": 4,
+            "value": "Aeschines <Orator> (ca. ca. 389 v. Chr.-ca. 314 v. Chr.)"
+        },
+        {
+            "facet_id": 104584,
+            "occurrence": 4,
+            "value": "Bremi, Johann Heinrich (1772-1837)"
+        },
+        {
+            "facet_id": 255798,
+            "occurrence": 4,
+            "value": "Moser, Christian Gottlob (1799-1886)"
+        },
+        {
+            "facet_id": 345021,
+            "occurrence": 4,
+            "value": "Dilthey, Julius Friedrich Karl (1797-1857)"
+        },
+        {
+            "facet_id": 358540,
+            "occurrence": 4,
+            "value": "Gaupp, Carl Christian (1777-1855)"
+        },
+        {
+            "facet_id": 21370,
+            "occurrence": 3,
+            "value": "Voß, Johann Heinrich (1751-1826)"
+        },
+        {
+            "facet_id": 35141,
+            "occurrence": 3,
+            "value": "Aurelius Victor, Sextus (ca. um 360 n. Chr.)"
+        },
+        {
+            "facet_id": 49380,
+            "occurrence": 3,
+            "value": "Denzel, Bernhard Gottlieb (1773-1836)"
+        },
+        {
+            "facet_id": 68276,
+            "occurrence": 3,
+            "value": "Cloß, Karl August (1805-1868)"
+        },
+        {
+            "facet_id": 104789,
+            "occurrence": 3,
+            "value": "Thudichum, Georg (1794-1873)"
+        },
+        {
+            "facet_id": 107468,
+            "occurrence": 3,
+            "value": "Herodianus <Historicus> (ca. 2./3. Jh.)"
+        },
+        {
+            "facet_id": 131946,
+            "occurrence": 3,
+            "value": "Isaeus (v420-v350)"
+        },
+        {
+            "facet_id": 133845,
+            "occurrence": 3,
+            "value": "Hofacker, Carl"
+        },
+        {
+            "facet_id": 159974,
+            "occurrence": 3,
+            "value": "Moser, Christian Gottlob"
+        },
+        {
+            "facet_id": 166882,
+            "occurrence": 3,
+            "value": "Seeger, Karl August Friedrich"
+        }
+    ]
+}

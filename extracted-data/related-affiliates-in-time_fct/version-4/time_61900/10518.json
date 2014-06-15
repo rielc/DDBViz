@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 10518,
+    "affiliate_fct": "Engelmann",
+    "affiliate_fct_occurrence": 1002,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 10518,
+            "affiliate_fct": "Engelmann",
+            "affiliate_fct_occurrence": 1002
+        },
+        {
+            "affiliate_fct_id": 11335,
+            "affiliate_fct": "Gervinus, Georg Gottfried (1805-1871)",
+            "affiliate_fct_occurrence": 76
+        },
+        {
+            "affiliate_fct_id": 39417,
+            "affiliate_fct": "Hartung, Johann Adam (1801-1867)",
+            "affiliate_fct_occurrence": 43
+        },
+        {
+            "affiliate_fct_id": 25736,
+            "affiliate_fct": "Schleiden, Matthias Jacob (1804-1881)",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 124122,
+            "affiliate_fct": "Weber, Georg (1808-1888)",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 10467,
+            "affiliate_fct": "Plato (v427-v347)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 39942,
+            "affiliate_fct": "Wagner, Friedrich Wilhelm (1814-1857)",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 51729,
+            "affiliate_fct": "Engelmann, Wilhelm (1808-1878)",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 4219,
+            "affiliate_fct": "Euripides (v480-v406)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 45353,
+            "affiliate_fct": "Apelt, Ernst Friedrich (1812-1859)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 48711,
+            "affiliate_fct": "Leonhard, Carl Cäsar von (1779-1862)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 72104,
+            "affiliate_fct": "Naumann, Carl Friedrich (1797-1873)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 75314,
+            "affiliate_fct": "Kölliker, Albert von (1817-1905)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 129821,
+            "affiliate_fct": "Weber, Friedr.",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 167105,
+            "affiliate_fct": "Spiegel, Friedrich von (1820-1905)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 10400,
+            "affiliate_fct": "Enslin, Theodor Christian Friedrich (1787-1851)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 14777,
+            "affiliate_fct": "Demosthenes (v384-v322)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 45102,
+            "affiliate_fct": "Becker, Gottfried Wilhelm (1778-1854)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 16267,
+            "affiliate_fct": "Aeschylus (v525-v456)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 110058,
+            "affiliate_fct": "Lehmann, Carl Gotthelf (1812-1863)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 160436,
+            "affiliate_fct": "Gegenbaur, Carl (1826-1903)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 32158,
+            "affiliate_fct": "Kühne, Ferdinand Gustav (1806-1888)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 35570,
+            "affiliate_fct": "Hoffmann von Fallersleben, August Heinrich (1798-1874)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 189231,
+            "affiliate_fct": "Schreiber, Alois Wilhelm (1763-1841)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 719,
+            "affiliate_fct": "Ovidius Naso, Publius (ca. 43 v. Chr.-ca. 18)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 1097,
+            "affiliate_fct": "Aristoteles (v384-v322)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 7694,
+            "affiliate_fct": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 12369,
+            "affiliate_fct": "Müller, Friedrich Max (1823-1900)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 23431,
+            "affiliate_fct": "Geinitz, Hanns Bruno (1814-1900)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 74750,
+            "affiliate_fct": "Thomas, Georg Martin (1817-1887)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 134169,
+            "affiliate_fct": "Fallmerayer, Jakob Philipp (1790-1861)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 167461,
+            "affiliate_fct": "Fritzsche, R.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 167462,
+            "affiliate_fct": "Liebrecht, Felix (1812-1890)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 281167,
+            "affiliate_fct": "Lindemann, Heinrich (1800-1870)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 2407,
+            "affiliate_fct": "Tacitus, Cornelius (55-116/120n.Chr.)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 28555,
+            "affiliate_fct": "Zenker, Julius Theodor (1811-1884)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 58505,
+            "affiliate_fct": "Overbeck, Johannes (1826-1895)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 106666,
+            "affiliate_fct": "Schlüter, Joseph",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 128220,
+            "affiliate_fct": "Hasse, Friedrich Rudolf (1808-1862)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 292858,
+            "affiliate_fct": "Köchly, Hermann (1815-1876)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 296619,
+            "affiliate_fct": "Hering, Ewald",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 484531,
+            "affiliate_fct": "Bezold, Albert",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5041,
+            "affiliate_fct": "Pindarus (v522-v445)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5255,
+            "affiliate_fct": "Shakespeare, William (1564-1616)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 6738,
+            "affiliate_fct": "Ehrenberg, Friedrich (1776-1852)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 22210,
+            "affiliate_fct": "Ludwig, Heinrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 23459,
+            "affiliate_fct": "Goldsmith, Oliver (1728-1774)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 64822,
+            "affiliate_fct": "Weismann, August (1834-1914)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 65129,
+            "affiliate_fct": "Nägeli, Carl (1817-1891)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 67508,
+            "affiliate_fct": "Weber, Georg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 90798,
+            "affiliate_fct": "Fürst, Julius (1805-1873)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 112950,
+            "affiliate_fct": "Heusinger von Waldegg, Edmund (1817-1886)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 143853,
+            "affiliate_fct": "Genée, Rudolf (1824-1914)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 182398,
+            "affiliate_fct": "Morgan, Sydney (1783-1859)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 241407,
+            "affiliate_fct": "Radlkofer, Ludwig (1829-1927)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 257279,
+            "affiliate_fct": "Jenicke, Eduard",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 371904,
+            "affiliate_fct": "Zerrenner, Carl Michael (1818-1878)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 423551,
+            "affiliate_fct": "Ranke, Johannes (1836-1916)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 706732,
+            "affiliate_fct": "Auwers, Arthur von (1838-1915)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 1970,
+            "affiliate_fct": "Hartung, Fritz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 3503,
+            "affiliate_fct": "Sugenheim, Samuel (1811-1877)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4514,
+            "affiliate_fct": "Händel, Georg Friedrich (1685-1759)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 10315,
+            "affiliate_fct": "Xenophon (v. 430-v. 355)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 12827,
+            "affiliate_fct": "Beck, Karl (1817-1879)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 50319,
+            "affiliate_fct": "Willkomm, Ernst (1810-1886)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 65820,
+            "affiliate_fct": "Oncken, Wilhelm (1838-1905)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 110635,
+            "affiliate_fct": "Holtzmann, Heinrich Julius (1832-1910)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 128206,
+            "affiliate_fct": "Rein, Johannes Justus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 132686,
+            "affiliate_fct": "Ricardo, David (1772-1823)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 150867,
+            "affiliate_fct": "Aubert, Hermann (1826-1892)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 161388,
+            "affiliate_fct": "Strube, Carl",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 184152,
+            "affiliate_fct": "Hahn, Johann Georg von (1811-1869)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 197020,
+            "affiliate_fct": "Coaz, Johann Wilhelm Fortunat (1822-1918)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 249531,
+            "affiliate_fct": "Guericke, Heinrich Ernst Ferdinand (1803-1878)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 265882,
+            "affiliate_fct": "Hallier, Ernst (1831-1904)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 273665,
+            "affiliate_fct": "Besser, Leopold (1820-1905)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 313671,
+            "affiliate_fct": "Ebner, Victor von (1842-1925)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 326013,
+            "affiliate_fct": "Dohrn, Anton (1840-1909)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 368866,
+            "affiliate_fct": "Zöllner, Johann Karl Friedrich (1834-1882)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 387032,
+            "affiliate_fct": "Lander, Richard (1804-1834)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 387034,
+            "affiliate_fct": "Lander, John (1807-1839)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 396462,
+            "affiliate_fct": "Meyer, Julius",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 416068,
+            "affiliate_fct": "Leubuscher, Rudolf (1822-1861)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 517633,
+            "affiliate_fct": "Aeneas <Tacticus> (ca. 4. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 582824,
+            "affiliate_fct": "Langenbeck, Wilhelm (1821-1906)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 598119,
+            "affiliate_fct": "Thiele von Thielenfeld, Johann August (1752-)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 739029,
+            "affiliate_fct": "Ihne, Wilhelm (1821-1902)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 925033,
+            "affiliate_fct": "Asclepiodotus <Tacticus> (ca. 110 v. Chr. - 40 v. Chr.)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5505,
+            "affiliate_fct": "Horatius Flaccus, Quintus (v65-v8)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6869,
+            "affiliate_fct": "Choulant, Ludwig (1791-1861)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10723,
+            "affiliate_fct": "Müller, Hermann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17098,
+            "affiliate_fct": "Weiler, A.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 19879,
+            "affiliate_fct": "Meyer, Georg Hermann von (1815-1892)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23202,
+            "affiliate_fct": "Johnson, Samuel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23809,
+            "affiliate_fct": "Hartung, Georg (1822-1891)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 25941,
+            "affiliate_fct": "Ritter, Franz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 29962,
+            "affiliate_fct": "Graesse, Johann Georg Theodor (1814-1885)",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

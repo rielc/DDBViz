@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 4,
+    "time_fct": "time_62000",
+    "affiliate_facet_id": 447,
+    "affiliate_facet": "Eschen, Fritz (Fotograf)",
+    "occurrence": 8521,
+    "affiliates": [
+        {
+            "facet_id": 447,
+            "occurrence": 10072,
+            "value": "Jäckel, Hildegard (Fotograf)"
+        },
+        {
+            "facet_id": 111843,
+            "occurrence": 6,
+            "value": "Kolbe, Rudolf"
+        },
+        {
+            "facet_id": 150670,
+            "occurrence": 4,
+            "value": "Schuchardt, Edmund"
+        },
+        {
+            "facet_id": 240510,
+            "occurrence": 4,
+            "value": "Grämer, Ernst"
+        },
+        {
+            "facet_id": 65372,
+            "occurrence": 1,
+            "value": "Leonhardt, Fritz"
+        }
+    ]
+}

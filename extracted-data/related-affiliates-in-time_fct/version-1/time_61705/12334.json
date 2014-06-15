@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 12334,
+    "affiliate_facet": "Bry",
+    "occurrence": 234,
+    "affiliates": [
+        {
+            "facet_id": 12334,
+            "occurrence": 244,
+            "value": "Rembrandt <Harmensz van Rijn>"
+        },
+        {
+            "facet_id": 4232,
+            "occurrence": 2,
+            "value": "Karpinski, Jürgen (Fotograf)"
+        },
+        {
+            "facet_id": 61,
+            "occurrence": 1,
+            "value": "Richter, Regine (Fotograf)"
+        },
+        {
+            "facet_id": 469130,
+            "occurrence": 1,
+            "value": "Maes, Nicolas?"
+        }
+    ]
+}

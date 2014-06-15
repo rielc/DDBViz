@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 15,
+    "time_fct": "time_62060",
+    "affiliate_fct_id": 3537,
+    "affiliate_fct": "Staatskanzlei Württemberg-Hohenzollern",
+    "affiliate_fct_occurrence": 1085,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 3537,
+            "affiliate_fct": "Staatskanzlei Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1085
+        },
+        {
+            "affiliate_fct_id": 24119,
+            "affiliate_fct": "Müller, Gebhard; Politiker, Richter, 1900-1990 | 11858488X",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 9667,
+            "affiliate_fct": "Maier, Reinhold; Politiker, 1889-1971",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 24350,
+            "affiliate_fct": "Widmer, Guillaume; Landeskommissar Württemberg-Hohenzollern, 1906-1968",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 93639,
+            "affiliate_fct": "Adenauer, Konrad; Politiker, Oberbürgermeister, 1876-1967 | 11850066X",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 96233,
+            "affiliate_fct": "Kiehn, Fritz; Unternehmer, 1885-1980",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 153587,
+            "affiliate_fct": "Lehr, Albert Maria",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 58534,
+            "affiliate_fct": "Kalbfell, Oskar; Bürgermeister, 1897-1979",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 146090,
+            "affiliate_fct": "Farny, Oskar; Unternehmer, Politiker, 1891-1983",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 171785,
+            "affiliate_fct": "Koenig, Pierre; Politiker, Militärgouverneur, 1898 - 1970",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 259653,
+            "affiliate_fct": "Schwan, Anton; Landrat, Politiker, 1903 - 1964",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 356025,
+            "affiliate_fct": "François-Poncet, André; Diplomat, Politiker 1887-1978",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 413510,
+            "affiliate_fct": "Corbin de Mangoux, Gonzague; Oberst",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 24348,
+            "affiliate_fct": "Schmid, Carlo; Staatsrechtler, Politiker (SPD), 1896-1979",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 259646,
+            "affiliate_fct": "Hagen, Herman, Dr.; Karlsruhe",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 300050,
+            "affiliate_fct": "Altmeier, Peter; Ministerpräsident Rheinland-Pfalz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 324423,
+            "affiliate_fct": "Schuman, Robert; französischer Außenminister",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 432581,
+            "affiliate_fct": "Ebersbach, Dr.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 3741,
+            "affiliate_fct": "Renner, Viktor; Politiker, 1899-1969",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24343,
+            "affiliate_fct": "Bock, Lorenz; Jurist, Politiker, 1883-1948",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24344,
+            "affiliate_fct": "De Gaulle, Charles; General",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24347,
+            "affiliate_fct": "McCloy, John J.; Hoher Kommissar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24349,
+            "affiliate_fct": "Schmoller, Gustav von; Jurist, 1907-1991",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 26373,
+            "affiliate_fct": "Hohenzollern, Friedrich Viktor von; Fürst, 1891-1965",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 84520,
+            "affiliate_fct": "Arnold, Karl; Ministerpräsident Nordrhein-Westfalen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 209534,
+            "affiliate_fct": "Stalin, Josef W.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259647,
+            "affiliate_fct": "Hailer, Walter, Dr.; Bürgermeister Ulm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259649,
+            "affiliate_fct": "Lämmle, August; Lehrer, Volkskundler, Heimatschriftsteller, 1876 - 1962",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259655,
+            "affiliate_fct": "Sütterle, Eduard, Dr.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 625993,
+            "affiliate_fct": "Metz, Friedrich; Geograph, 1890-1969",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 625996,
+            "affiliate_fct": "Swart, Hugo; Oberbürgermeister Heidelberg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 640051,
+            "affiliate_fct": "Zürcher, Paul; Jurist, Staatsgerichtshofpräsident, 1893-1980",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 268,
+            "affiliate_fct": "Finanzministerium Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1525,
+            "affiliate_fct": "Wirtschaftsministerium Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16709,
+            "affiliate_fct": "Staatliche Nachrichtenstelle Tübingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23680,
+            "affiliate_fct": "Arbeitsministerium Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24345,
+            "affiliate_fct": "Hubert, Louis; Kreisdelegierter der Militärregierung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24346,
+            "affiliate_fct": "Krebs, Kurt, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27638,
+            "affiliate_fct": "Schneider, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30781,
+            "affiliate_fct": "Schneider, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 34961,
+            "affiliate_fct": "Schneider, Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43358,
+            "affiliate_fct": "Birn, Willi; Regierungspräsident, 1907-2000",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53888,
+            "affiliate_fct": "Eschenburg, Theodor; Politologe, Publizist, 1904-1999",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54971,
+            "affiliate_fct": "Brentano, Heinrich von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 63051,
+            "affiliate_fct": "Keil, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76566,
+            "affiliate_fct": "Straub, Emil; Landwirtschaftsfunktionär, Landeshauptmann, 1873-1965",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80315,
+            "affiliate_fct": "Lütze, Reinhold",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85092,
+            "affiliate_fct": "Rechnungskammer für Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93640,
+            "affiliate_fct": "Sauer, Albert; Politiker (Zentrum; CDU), Kultminister, 1902-1981 | 11697687X",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 108337,
+            "affiliate_fct": "Adam, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 118528,
+            "affiliate_fct": "Walter, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132129,
+            "affiliate_fct": "Staatskommissariat für die Politische Säuberung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145084,
+            "affiliate_fct": "Carl, Heinz-Ulrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145085,
+            "affiliate_fct": "Eisenhower, Dwight David; General",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145086,
+            "affiliate_fct": "Klamann, Kurt; Karikaturist",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145087,
+            "affiliate_fct": "Lechtenberg, H.; Schwerin, Minister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145088,
+            "affiliate_fct": "Reuter, Ernst; Oberbürgermeister Berlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 145089,
+            "affiliate_fct": "Riegenring, Wilmar; Illustrator",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156959,
+            "affiliate_fct": "Hammer, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160133,
+            "affiliate_fct": "Broecker, Wolfgang; München",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 199197,
+            "affiliate_fct": "Hitler, Adolf; Politiker, Künstler, 1889-1945",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 199198,
+            "affiliate_fct": "Ritter, Gerhard, Dr.; Professor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200731,
+            "affiliate_fct": "Innenministerium Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209525,
+            "affiliate_fct": "Brecht, Bertolt; Schriftsteller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209526,
+            "affiliate_fct": "Dieckmann, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209527,
+            "affiliate_fct": "Grotewohl, Otto; Ministerpräsident der DDR",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209528,
+            "affiliate_fct": "Heuß, Theodor; Bundespräsident",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209529,
+            "affiliate_fct": "Kaiser, Jakob; Bundesminister für gesamtdeutsche Fragen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209530,
+            "affiliate_fct": "Lobedanz, Reinhold, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209531,
+            "affiliate_fct": "Noack, Ulrich, Dr.; Professor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209532,
+            "affiliate_fct": "Nuschke, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209533,
+            "affiliate_fct": "Pieck, Wilhelm; Staatspräsident der DDR",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209535,
+            "affiliate_fct": "Weber, Werner, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 215077,
+            "affiliate_fct": "Mattes, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 216343,
+            "affiliate_fct": "Statistisches Landesamt für Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224797,
+            "affiliate_fct": "Lange, Richard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259642,
+            "affiliate_fct": "Bindereif, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259643,
+            "affiliate_fct": "Diez, Carl, Dr.; Radolfzell",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259644,
+            "affiliate_fct": "Eckert, Wilhelm, Dr.; Finanzminister Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259645,
+            "affiliate_fct": "Freudenberg, Richard; Unternehmer, Politiker, 1892 - 1975",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259648,
+            "affiliate_fct": "Hilbert, Anton; MdB",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259650,
+            "affiliate_fct": "Münch, Walter; Jurist, Landrat, 1911-1992",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259651,
+            "affiliate_fct": "Person, Karl, Dr.; Landtagspräsident Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259652,
+            "affiliate_fct": "Pfister, Christian; Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259654,
+            "affiliate_fct": "Speidel, Hans; Landrat, 1900-1984",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 261650,
+            "affiliate_fct": "Müller, Egon; Bürgermeister, Politiker, Kommunalpolitiker, 1885 - 1949 | 101228977X",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274919,
+            "affiliate_fct": "Köhler, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 280591,
+            "affiliate_fct": "Haas, Albert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 292198,
+            "affiliate_fct": "Kramer, Mathias",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296620,
+            "affiliate_fct": "Blank, Theodor; Bundestagsabgeordneter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 326506,
+            "affiliate_fct": "Dreher, Wilhelm; Mechaniker, Regierungspräsident, 1892-1969",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 330701,
+            "affiliate_fct": "Eisele, Hans; Beamter, Schriftsteller, 1876-1957",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 352275,
+            "affiliate_fct": "Bock, Hilda",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 352276,
+            "affiliate_fct": "Luneau, Paul; Administrateur",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 356024,
+            "affiliate_fct": "Bolz, Eugen, Dr.; Jurist, Staatspräsident Württemberg, 1881-1945",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 366999,
+            "affiliate_fct": "Poher, Alain; französischer Minister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 389987,
+            "affiliate_fct": "Entschädigungsgericht Württemberg-Hohenzollern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 413509,
+            "affiliate_fct": "Brochu; Kreisdelegierter Tübingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 413511,
+            "affiliate_fct": "Hauff, Bernhard, Dr.; Holzmaden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 413512,
+            "affiliate_fct": "Laffon, Emile, General; Administrateur Général",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

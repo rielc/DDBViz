@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 20250,
+    "affiliate_facet": "Albertinus, Aegidius (1560-1620)",
+    "occurrence": 143,
+    "affiliates": [
+        {
+            "facet_id": 20250,
+            "occurrence": 145,
+            "value": "Scherff"
+        },
+        {
+            "facet_id": 7750,
+            "occurrence": 46,
+            "value": "Althofer, Christoph (1606-1660)"
+        },
+        {
+            "facet_id": 63626,
+            "occurrence": 13,
+            "value": "Hackspan, Theodoricus (1607-1659)"
+        },
+        {
+            "facet_id": 8643,
+            "occurrence": 8,
+            "value": "Fabricius, Johann"
+        },
+        {
+            "facet_id": 32533,
+            "occurrence": 8,
+            "value": "König, Georg (1590-1654)"
+        },
+        {
+            "facet_id": 16216,
+            "occurrence": 5,
+            "value": "Ritter, Georg"
+        },
+        {
+            "facet_id": 39852,
+            "occurrence": 5,
+            "value": "Ludwell, Wilhelm (1589-1663)"
+        },
+        {
+            "facet_id": 39485,
+            "occurrence": 4,
+            "value": "Weinmann, Johann (1599-1672)"
+        },
+        {
+            "facet_id": 273650,
+            "occurrence": 4,
+            "value": "Schnell, Sebald (1621-1651)"
+        },
+        {
+            "facet_id": 5825,
+            "occurrence": 3,
+            "value": "Frischmuth, Johann (1619-1687)"
+        },
+        {
+            "facet_id": 15221,
+            "occurrence": 3,
+            "value": "Dürr, Johann C."
+        },
+        {
+            "facet_id": 37773,
+            "occurrence": 3,
+            "value": "Schmid, Georg"
+        },
+        {
+            "facet_id": 88478,
+            "occurrence": 3,
+            "value": "Mühlhausen, Yôm-Ṭôv (ca. 15. Jh.)"
+        },
+        {
+            "facet_id": 110385,
+            "occurrence": 3,
+            "value": "Queccius, Georg (1561-1628)"
+        },
+        {
+            "facet_id": 288676,
+            "occurrence": 3,
+            "value": "Seuffert, Balthasar"
+        },
+        {
+            "facet_id": 372162,
+            "occurrence": 3,
+            "value": "Bruno, Wolfgang"
+        },
+        {
+            "facet_id": 421373,
+            "occurrence": 3,
+            "value": "Geillinger, Hieronymus"
+        },
+        {
+            "facet_id": 431535,
+            "occurrence": 3,
+            "value": "Hön, Georg (-1666)"
+        },
+        {
+            "facet_id": 552817,
+            "occurrence": 3,
+            "value": "Schmuck, David (Anfang 17. Jh.)"
+        },
+        {
+            "facet_id": 802753,
+            "occurrence": 3,
+            "value": "Hammerschmidt, Caspar"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 2,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 9670,
+            "occurrence": 2,
+            "value": "Dannhauer, Johann Conrad (1603-1666)"
+        },
+        {
+            "facet_id": 26171,
+            "occurrence": 2,
+            "value": "Felwinger, Johann Paul (1606-1681)"
+        },
+        {
+            "facet_id": 32474,
+            "occurrence": 2,
+            "value": "Dinner, Andreas (1579-1633)"
+        },
+        {
+            "facet_id": 86954,
+            "occurrence": 2,
+            "value": "Felwinger, Johann Paul"
+        },
+        {
+            "facet_id": 125475,
+            "occurrence": 2,
+            "value": "Universität Altdorf (Nürnberg)"
+        },
+        {
+            "facet_id": 193968,
+            "occurrence": 2,
+            "value": "Spoerl, Samuel (1624-1677)"
+        },
+        {
+            "facet_id": 250033,
+            "occurrence": 2,
+            "value": "Maier, Matern (um 1623)"
+        },
+        {
+            "facet_id": 250034,
+            "occurrence": 2,
+            "value": "Schretzenmair, Johann"
+        },
+        {
+            "facet_id": 268320,
+            "occurrence": 2,
+            "value": "Höfflich, Hieronymus"
+        },
+        {
+            "facet_id": 287206,
+            "occurrence": 2,
+            "value": "Müller, G. C."
+        },
+        {
+            "facet_id": 354929,
+            "occurrence": 2,
+            "value": "Heering, Justus Daniel (1609-1649)"
+        },
+        {
+            "facet_id": 404962,
+            "occurrence": 2,
+            "value": "Ohnsorg, Johann Leonhart"
+        },
+        {
+            "facet_id": 421386,
+            "occurrence": 2,
+            "value": "Lemmermann, Leonhart (-1641)"
+        },
+        {
+            "facet_id": 437432,
+            "occurrence": 2,
+            "value": "Drach, Johann Jacob (1595-1648)"
+        },
+        {
+            "facet_id": 458953,
+            "occurrence": 2,
+            "value": "Blintzig, Georg Friedrich (1600-1645)"
+        },
+        {
+            "facet_id": 471000,
+            "occurrence": 2,
+            "value": "Wacker, Balthasar"
+        },
+        {
+            "facet_id": 494066,
+            "occurrence": 2,
+            "value": "Seufferd, Peter"
+        },
+        {
+            "facet_id": 523266,
+            "occurrence": 2,
+            "value": "Jacquet, Isaac (1616-1652)"
+        },
+        {
+            "facet_id": 666217,
+            "occurrence": 2,
+            "value": "Marr, Johannes"
+        },
+        {
+            "facet_id": 679788,
+            "occurrence": 2,
+            "value": "Faber, Adam Georg (1622-1659)"
+        },
+        {
+            "facet_id": 723956,
+            "occurrence": 2,
+            "value": "Finck, Joseph Balthasar (1607-1656)"
+        },
+        {
+            "facet_id": 740931,
+            "occurrence": 2,
+            "value": "Schechs, Jakob Peter (1607-1659)"
+        },
+        {
+            "facet_id": 803970,
+            "occurrence": 2,
+            "value": "Hübschmann, Konrad"
+        },
+        {
+            "facet_id": 855564,
+            "occurrence": 2,
+            "value": "Bröstel, Wolffgang"
+        },
+        {
+            "facet_id": 7600,
+            "occurrence": 1,
+            "value": "Reinhard, Lukas Friedrich (1623-1688)"
+        },
+        {
+            "facet_id": 20251,
+            "occurrence": 1,
+            "value": "Rehm, Johann Lorenz (1619-1684)"
+        },
+        {
+            "facet_id": 21119,
+            "occurrence": 1,
+            "value": "Muḥammad (570-632)"
+        },
+        {
+            "facet_id": 24727,
+            "occurrence": 1,
+            "value": "Marstaller, Georg Hieronymus (1602-1637)"
+        },
+        {
+            "facet_id": 28333,
+            "occurrence": 1,
+            "value": "Frauenburger, Johann Gerhard (1589-1630)"
+        },
+        {
+            "facet_id": 29426,
+            "occurrence": 1,
+            "value": "Wechsler, Stephan (1577-1635)"
+        },
+        {
+            "facet_id": 43872,
+            "occurrence": 1,
+            "value": "Ungepauer, Erasmus (1582-1659)"
+        },
+        {
+            "facet_id": 69523,
+            "occurrence": 1,
+            "value": "Wolff, Gottfried"
+        },
+        {
+            "facet_id": 81367,
+            "occurrence": 1,
+            "value": "Walther, Georg Christoph (1601-1656)"
+        },
+        {
+            "facet_id": 86953,
+            "occurrence": 1,
+            "value": "Reinhard, Lukas Friedrich"
+        },
+        {
+            "facet_id": 89775,
+            "occurrence": 1,
+            "value": "Brenz, Samuel Friedrich (ca. Ende 16. Jh./Anfang 17. Jh.)"
+        },
+        {
+            "facet_id": 91367,
+            "occurrence": 1,
+            "value": "Wurffbain, Johann Hieronymus (1619-1692)"
+        },
+        {
+            "facet_id": 94896,
+            "occurrence": 1,
+            "value": "Winckler, Tobias"
+        },
+        {
+            "facet_id": 104960,
+            "occurrence": 1,
+            "value": "Oelhafen von Schöllenbach, Tobias (1601-1666)"
+        },
+        {
+            "facet_id": 110386,
+            "occurrence": 1,
+            "value": "Curtius, Johannes (1613-1621)"
+        },
+        {
+            "facet_id": 111661,
+            "occurrence": 1,
+            "value": "Laurenti, Georg"
+        },
+        {
+            "facet_id": 125990,
+            "occurrence": 1,
+            "value": "Rupert, Tobias"
+        },
+        {
+            "facet_id": 126219,
+            "occurrence": 1,
+            "value": "Unrath, Johann Caspar"
+        },
+        {
+            "facet_id": 131432,
+            "occurrence": 1,
+            "value": "Colberg, Ehregott Daniel"
+        },
+        {
+            "facet_id": 140444,
+            "occurrence": 1,
+            "value": "Rittershausen, Georg (1595-1664)"
+        },
+        {
+            "facet_id": 160581,
+            "occurrence": 1,
+            "value": "Dietherr von Anwanden, Christoph Ludwig (1619-1687)"
+        },
+        {
+            "facet_id": 177723,
+            "occurrence": 1,
+            "value": "Beck, Matthäus"
+        },
+        {
+            "facet_id": 203177,
+            "occurrence": 1,
+            "value": "Held, Johann (1627-1693)"
+        },
+        {
+            "facet_id": 203445,
+            "occurrence": 1,
+            "value": "Hübner, Johann Matthias"
+        },
+        {
+            "facet_id": 212894,
+            "occurrence": 1,
+            "value": "Trew, Abdias"
+        },
+        {
+            "facet_id": 215532,
+            "occurrence": 1,
+            "value": "König, Georg"
+        },
+        {
+            "facet_id": 223397,
+            "occurrence": 1,
+            "value": "Ernest, Michael C."
+        },
+        {
+            "facet_id": 227220,
+            "occurrence": 1,
+            "value": "Lagus, Jacob"
+        },
+        {
+            "facet_id": 230206,
+            "occurrence": 1,
+            "value": "Metrophanes <Alexandria, Patriarch> (1589-1639)"
+        },
+        {
+            "facet_id": 250705,
+            "occurrence": 1,
+            "value": "Volckmann, Adam"
+        },
+        {
+            "facet_id": 267016,
+            "occurrence": 1,
+            "value": "Rinder, Johann Leonhard (ca. 1630/40)"
+        },
+        {
+            "facet_id": 275985,
+            "occurrence": 1,
+            "value": "Hofmann, Caspar (1572-1648)"
+        },
+        {
+            "facet_id": 300074,
+            "occurrence": 1,
+            "value": "Schmidt, Daniel"
+        },
+        {
+            "facet_id": 300272,
+            "occurrence": 1,
+            "value": "Claudi, Johann"
+        },
+        {
+            "facet_id": 331307,
+            "occurrence": 1,
+            "value": "Schröck, Johann Friedrich (1606-1656)"
+        },
+        {
+            "facet_id": 331788,
+            "occurrence": 1,
+            "value": "Achatius <a Dhona>"
+        },
+        {
+            "facet_id": 399428,
+            "occurrence": 1,
+            "value": "Will, Joachim (1609-1641)"
+        },
+        {
+            "facet_id": 466866,
+            "occurrence": 1,
+            "value": "Tydaeus, Jacobus"
+        },
+        {
+            "facet_id": 491286,
+            "occurrence": 1,
+            "value": "Crinesius, Nicolaus"
+        },
+        {
+            "facet_id": 524786,
+            "occurrence": 1,
+            "value": "Geller, Georg Christoph"
+        },
+        {
+            "facet_id": 535114,
+            "occurrence": 1,
+            "value": "Alberti Steyer, Johann Georg"
+        },
+        {
+            "facet_id": 535735,
+            "occurrence": 1,
+            "value": "Virdung, Michael (1575-1637)"
+        },
+        {
+            "facet_id": 536242,
+            "occurrence": 1,
+            "value": "Müller, Wolfgang Jacob (1614-1661)"
+        },
+        {
+            "facet_id": 576613,
+            "occurrence": 1,
+            "value": "Eichelmann, Johannes (-1654)"
+        },
+        {
+            "facet_id": 625918,
+            "occurrence": 1,
+            "value": "Marci, Cornelius (1594-1646)"
+        },
+        {
+            "facet_id": 637139,
+            "occurrence": 1,
+            "value": "Poemer, Hektor (1612-1655)"
+        },
+        {
+            "facet_id": 637258,
+            "occurrence": 1,
+            "value": "Buggel, Johann"
+        },
+        {
+            "facet_id": 641309,
+            "occurrence": 1,
+            "value": "Ursinus, Petrus Laurentius"
+        },
+        {
+            "facet_id": 698278,
+            "occurrence": 1,
+            "value": "Wickh, Veit (1612-1677)"
+        },
+        {
+            "facet_id": 700949,
+            "occurrence": 1,
+            "value": "Schröck, Johann Friedrich"
+        },
+        {
+            "facet_id": 715549,
+            "occurrence": 1,
+            "value": "Nicolai, Christian (1620-)"
+        },
+        {
+            "facet_id": 718644,
+            "occurrence": 1,
+            "value": "Omeis, Johann Heinrich (1610-1663)"
+        },
+        {
+            "facet_id": 731608,
+            "occurrence": 1,
+            "value": "Petersen, Joachim (1611-1658)"
+        },
+        {
+            "facet_id": 779147,
+            "occurrence": 1,
+            "value": "Felwinger, Joh. Paulus"
+        },
+        {
+            "facet_id": 779162,
+            "occurrence": 1,
+            "value": "Noesslerus, Georgius"
+        }
+    ]
+}

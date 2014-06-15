@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 17,
+    "time_fct": "time_62080",
+    "affiliate_facet_id": 7616,
+    "affiliate_facet": "Willy Pragher",
+    "occurrence": 22685,
+    "affiliates": [
+        {
+            "facet_id": 7616,
+            "occurrence": 121,
+            "value": "Pertschi, Ottmar"
+        },
+        {
+            "facet_id": 5853,
+            "occurrence": 61,
+            "value": "Universitätsbibliothek der Universität Stuttgart,"
+        },
+        {
+            "facet_id": 21782,
+            "occurrence": 14,
+            "value": "Šuchov, Vladimir G."
+        },
+        {
+            "facet_id": 9839,
+            "occurrence": 12,
+            "value": "Šuchov, Vladimir G. (1853 - 1939)"
+        },
+        {
+            "facet_id": 489625,
+            "occurrence": 7,
+            "value": "Pančenkov, G. M."
+        },
+        {
+            "facet_id": 337260,
+            "occurrence": 5,
+            "value": "Pauli, Wolfgang"
+        },
+        {
+            "facet_id": 39136,
+            "occurrence": 4,
+            "value": "Universität Stuttgart / Zentrale Universitätseinrichtungen,"
+        },
+        {
+            "facet_id": 166445,
+            "occurrence": 4,
+            "value": "Kotov, V. N."
+        },
+        {
+            "facet_id": 37902,
+            "occurrence": 3,
+            "value": "Danilova, Galina N."
+        },
+        {
+            "facet_id": 121750,
+            "occurrence": 3,
+            "value": "Frieß-Ehlers, Ulrike"
+        },
+        {
+            "facet_id": 338194,
+            "occurrence": 3,
+            "value": "Frenkel', Viktor Ja."
+        },
+        {
+            "facet_id": 83935,
+            "occurrence": 2,
+            "value": "Berman, Lev D."
+        },
+        {
+            "facet_id": 103312,
+            "occurrence": 2,
+            "value": "Badyl'kes, Isaj S."
+        },
+        {
+            "facet_id": 240644,
+            "occurrence": 2,
+            "value": "Ulrich- von Oertzen, Andrea"
+        },
+        {
+            "facet_id": 388970,
+            "occurrence": 2,
+            "value": "Zolotuchin, N. M."
+        },
+        {
+            "facet_id": 388971,
+            "occurrence": 2,
+            "value": "Šinkarenko, O. M."
+        },
+        {
+            "facet_id": 428727,
+            "occurrence": 2,
+            "value": "Zaruckij, V. V."
+        },
+        {
+            "facet_id": 466909,
+            "occurrence": 2,
+            "value": "Bukin, V. G."
+        },
+        {
+            "facet_id": 533550,
+            "occurrence": 2,
+            "value": "Ščerbo, Georgij M."
+        },
+        {
+            "facet_id": 539577,
+            "occurrence": 2,
+            "value": "Ivojlov, V. S."
+        },
+        {
+            "facet_id": 539578,
+            "occurrence": 2,
+            "value": "Karasevič, Jurij N."
+        },
+        {
+            "facet_id": 539579,
+            "occurrence": 2,
+            "value": "Surovceva, Ė. G."
+        },
+        {
+            "facet_id": 582923,
+            "occurrence": 2,
+            "value": "Sirenko, I. P."
+        },
+        {
+            "facet_id": 648368,
+            "occurrence": 2,
+            "value": "Rochlenko, A. A."
+        },
+        {
+            "facet_id": 648369,
+            "occurrence": 2,
+            "value": "Trukšina, T. S."
+        },
+        {
+            "facet_id": 648370,
+            "occurrence": 2,
+            "value": "Macievskij, G. A."
+        },
+        {
+            "facet_id": 816919,
+            "occurrence": 2,
+            "value": "Kulibin, Ivan P."
+        },
+        {
+            "facet_id": 854057,
+            "occurrence": 2,
+            "value": "Zel'dovič, Jakov B."
+        },
+        {
+            "facet_id": 574,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek"
+        },
+        {
+            "facet_id": 3100,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek der Universität Stuttgart"
+        },
+        {
+            "facet_id": 21781,
+            "occurrence": 1,
+            "value": "Petropavlovskaja, I. A."
+        },
+        {
+            "facet_id": 24554,
+            "occurrence": 1,
+            "value": "Wagenknecht, Monika"
+        },
+        {
+            "facet_id": 37903,
+            "occurrence": 1,
+            "value": "Belskij, V. K."
+        },
+        {
+            "facet_id": 71124,
+            "occurrence": 1,
+            "value": "Azrikan, D. A."
+        },
+        {
+            "facet_id": 87999,
+            "occurrence": 1,
+            "value": "Ivanov, A. V."
+        },
+        {
+            "facet_id": 105056,
+            "occurrence": 1,
+            "value": "Salamatin, B. A."
+        },
+        {
+            "facet_id": 105057,
+            "occurrence": 1,
+            "value": "Pašinkin, Andrej S."
+        },
+        {
+            "facet_id": 107327,
+            "occurrence": 1,
+            "value": "Chejn, A. L."
+        },
+        {
+            "facet_id": 108976,
+            "occurrence": 1,
+            "value": "Kurbakova, A. P."
+        },
+        {
+            "facet_id": 108977,
+            "occurrence": 1,
+            "value": "Lejtes, L. A."
+        },
+        {
+            "facet_id": 108978,
+            "occurrence": 1,
+            "value": "Zorina, E. N."
+        },
+        {
+            "facet_id": 117720,
+            "occurrence": 1,
+            "value": "Sizov, A. P."
+        },
+        {
+            "facet_id": 117721,
+            "occurrence": 1,
+            "value": "Kiselev, I. A."
+        },
+        {
+            "facet_id": 117722,
+            "occurrence": 1,
+            "value": "Nogovicin, A. G."
+        },
+        {
+            "facet_id": 117723,
+            "occurrence": 1,
+            "value": "Sobolev, I. D."
+        },
+        {
+            "facet_id": 145635,
+            "occurrence": 1,
+            "value": "Čerkasov, G."
+        },
+        {
+            "facet_id": 147823,
+            "occurrence": 1,
+            "value": "Stephan, Werner (1947-)"
+        },
+        {
+            "facet_id": 166444,
+            "occurrence": 1,
+            "value": "Bojko, R. V."
+        },
+        {
+            "facet_id": 199566,
+            "occurrence": 1,
+            "value": "Michajlov, A. S."
+        },
+        {
+            "facet_id": 199957,
+            "occurrence": 1,
+            "value": "Čerkašina, T. V."
+        },
+        {
+            "facet_id": 208988,
+            "occurrence": 1,
+            "value": "Amirov, Jurij D."
+        },
+        {
+            "facet_id": 216224,
+            "occurrence": 1,
+            "value": "Raer, G. A."
+        },
+        {
+            "facet_id": 224811,
+            "occurrence": 1,
+            "value": "Djundin, V. A."
+        },
+        {
+            "facet_id": 235924,
+            "occurrence": 1,
+            "value": "Bagrjancev, V. I."
+        },
+        {
+            "facet_id": 235925,
+            "occurrence": 1,
+            "value": "Kislych, V. I."
+        },
+        {
+            "facet_id": 239489,
+            "occurrence": 1,
+            "value": "Kononov, I. V."
+        },
+        {
+            "facet_id": 243115,
+            "occurrence": 1,
+            "value": "Janenko, Nikolaj N. (1921 - 1984)"
+        },
+        {
+            "facet_id": 250598,
+            "occurrence": 1,
+            "value": "Universitätsbibliothek <Stuttgart>"
+        },
+        {
+            "facet_id": 254789,
+            "occurrence": 1,
+            "value": "Fisenko, V. V."
+        },
+        {
+            "facet_id": 254790,
+            "occurrence": 1,
+            "value": "Baranenko, V. I."
+        },
+        {
+            "facet_id": 254791,
+            "occurrence": 1,
+            "value": "Belova, L. A."
+        },
+        {
+            "facet_id": 254792,
+            "occurrence": 1,
+            "value": "Korenevskij, V. A."
+        },
+        {
+            "facet_id": 286578,
+            "occurrence": 1,
+            "value": "Karavanskaja, N. A."
+        },
+        {
+            "facet_id": 286579,
+            "occurrence": 1,
+            "value": "Jakimenko, A. I."
+        },
+        {
+            "facet_id": 286580,
+            "occurrence": 1,
+            "value": "Zemljanskij, V. V."
+        },
+        {
+            "facet_id": 286581,
+            "occurrence": 1,
+            "value": "Liseckaja, N. F."
+        },
+        {
+            "facet_id": 290943,
+            "occurrence": 1,
+            "value": "Ratiani, G."
+        },
+        {
+            "facet_id": 306505,
+            "occurrence": 1,
+            "value": "Chudjakov, P."
+        },
+        {
+            "facet_id": 328551,
+            "occurrence": 1,
+            "value": "Vol'berg, N. S."
+        },
+        {
+            "facet_id": 328552,
+            "occurrence": 1,
+            "value": "Pocina, I. I."
+        },
+        {
+            "facet_id": 337647,
+            "occurrence": 1,
+            "value": "Rźeznikova, M. Ja."
+        },
+        {
+            "facet_id": 373641,
+            "occurrence": 1,
+            "value": "Kecle, G. A."
+        },
+        {
+            "facet_id": 373642,
+            "occurrence": 1,
+            "value": "Mel'nikov, G. V."
+        },
+        {
+            "facet_id": 373643,
+            "occurrence": 1,
+            "value": "Ponomarev, S. G."
+        },
+        {
+            "facet_id": 373644,
+            "occurrence": 1,
+            "value": "Usik, V. P."
+        },
+        {
+            "facet_id": 377898,
+            "occurrence": 1,
+            "value": "Philipp, Klaus Jan"
+        },
+        {
+            "facet_id": 386323,
+            "occurrence": 1,
+            "value": "Avaliani, D. I."
+        },
+        {
+            "facet_id": 392958,
+            "occurrence": 1,
+            "value": "Sokolov, Lev N."
+        },
+        {
+            "facet_id": 392959,
+            "occurrence": 1,
+            "value": "Efimov, V. N."
+        },
+        {
+            "facet_id": 420828,
+            "occurrence": 1,
+            "value": "Rambach, Christiane"
+        },
+        {
+            "facet_id": 420833,
+            "occurrence": 1,
+            "value": "Jost, Holger"
+        },
+        {
+            "facet_id": 420836,
+            "occurrence": 1,
+            "value": "Szymczyk-Eggert, Elisabeth"
+        },
+        {
+            "facet_id": 428728,
+            "occurrence": 1,
+            "value": "Parokonnyj, V. D."
+        },
+        {
+            "facet_id": 428729,
+            "occurrence": 1,
+            "value": "Jantovskaja, N. E."
+        },
+        {
+            "facet_id": 439035,
+            "occurrence": 1,
+            "value": "Jurkević, A. V."
+        },
+        {
+            "facet_id": 439036,
+            "occurrence": 1,
+            "value": "Pośivalov, V. P."
+        },
+        {
+            "facet_id": 442995,
+            "occurrence": 1,
+            "value": "Favorskaja, Tat'jana A."
+        },
+        {
+            "facet_id": 466574,
+            "occurrence": 1,
+            "value": "Dobrušin, A. L."
+        },
+        {
+            "facet_id": 467387,
+            "occurrence": 1,
+            "value": "Basov, B. I."
+        },
+        {
+            "facet_id": 467388,
+            "occurrence": 1,
+            "value": "Dorfman, A. A."
+        },
+        {
+            "facet_id": 467389,
+            "occurrence": 1,
+            "value": "Charlamov, A. A."
+        },
+        {
+            "facet_id": 468414,
+            "occurrence": 1,
+            "value": "Moroz, O. G."
+        },
+        {
+            "facet_id": 471372,
+            "occurrence": 1,
+            "value": "Lisovski, E."
+        },
+        {
+            "facet_id": 476684,
+            "occurrence": 1,
+            "value": "Macul'skij, I. I."
+        },
+        {
+            "facet_id": 476685,
+            "occurrence": 1,
+            "value": "Kinjakin, G. G."
+        },
+        {
+            "facet_id": 498001,
+            "occurrence": 1,
+            "value": "Pleskov, V. A."
+        },
+        {
+            "facet_id": 498002,
+            "occurrence": 1,
+            "value": "Igamberdyev, I."
+        },
+        {
+            "facet_id": 521273,
+            "occurrence": 1,
+            "value": "Barkov, G. D."
+        },
+        {
+            "facet_id": 521274,
+            "occurrence": 1,
+            "value": "Dvoskin, G."
+        },
+        {
+            "facet_id": 521275,
+            "occurrence": 1,
+            "value": "Ėl'piner, Leonid I."
+        }
+    ]
+}

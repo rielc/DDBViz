@@ -1,0 +1,374 @@
+{
+    "time_fct_id": 2,
+    "time_fct": "time_61947",
+    "affiliate_facet_id": 1086,
+    "affiliate_facet": "Weigel",
+    "occurrence": 373,
+    "affiliates": [
+        {
+            "facet_id": 1086,
+            "occurrence": 392,
+            "value": "Breitkopf und Härtel"
+        },
+        {
+            "facet_id": 1087,
+            "occurrence": 267,
+            "value": "Beethoven, Ludwig van (1770-1827)"
+        },
+        {
+            "facet_id": 10152,
+            "occurrence": 15,
+            "value": "Jahn, Otto (1813-1869)"
+        },
+        {
+            "facet_id": 15008,
+            "occurrence": 9,
+            "value": "Hase, Karl August von (1800-1890)"
+        },
+        {
+            "facet_id": 86209,
+            "occurrence": 9,
+            "value": "Marx, Adolf Bernhard (1799-1866)"
+        },
+        {
+            "facet_id": 228493,
+            "occurrence": 7,
+            "value": "Jhering, Rudolf von (1818-1892)"
+        },
+        {
+            "facet_id": 46233,
+            "occurrence": 6,
+            "value": "Rudorff, Adolf Friedrich August (1803-1873)"
+        },
+        {
+            "facet_id": 185224,
+            "occurrence": 6,
+            "value": "Puchta, Georg Friedrich (1798-1846)"
+        },
+        {
+            "facet_id": 8076,
+            "occurrence": 5,
+            "value": "Wagner, Richard (1813-1883)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 4,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 4263,
+            "occurrence": 4,
+            "value": "Scribe, Eugène (1791-1861)"
+        },
+        {
+            "facet_id": 211802,
+            "occurrence": 4,
+            "value": "Küster, Hermann"
+        },
+        {
+            "facet_id": 540772,
+            "occurrence": 4,
+            "value": "Unger, Joseph (1828-1913)"
+        },
+        {
+            "facet_id": 2408,
+            "occurrence": 3,
+            "value": "Michaelis, Adolf (1835-1910)"
+        },
+        {
+            "facet_id": 78255,
+            "occurrence": 3,
+            "value": "Winterfeld, Carl von (1784-1852)"
+        },
+        {
+            "facet_id": 99056,
+            "occurrence": 3,
+            "value": "Holstein, Franz von (1826-1878)"
+        },
+        {
+            "facet_id": 180517,
+            "occurrence": 3,
+            "value": "Hirzel, Heinrich"
+        },
+        {
+            "facet_id": 233218,
+            "occurrence": 3,
+            "value": "Pirogov, Nikolaj I. (1810-1881)"
+        },
+        {
+            "facet_id": 22524,
+            "occurrence": 2,
+            "value": "Ditfurth, Franz Wilhelm von (1801-1880)"
+        },
+        {
+            "facet_id": 30656,
+            "occurrence": 2,
+            "value": "Castelli, Ignaz Franz (1781-1862)"
+        },
+        {
+            "facet_id": 36951,
+            "occurrence": 2,
+            "value": "Meyerbeer, Giacomo (1791-1864)"
+        },
+        {
+            "facet_id": 63634,
+            "occurrence": 2,
+            "value": "Frank, Gustav"
+        },
+        {
+            "facet_id": 66872,
+            "occurrence": 2,
+            "value": "Halévy, Fromental (1799-1862)"
+        },
+        {
+            "facet_id": 73742,
+            "occurrence": 2,
+            "value": "Tewes, August"
+        },
+        {
+            "facet_id": 93139,
+            "occurrence": 2,
+            "value": "Bruyck, Carl van"
+        },
+        {
+            "facet_id": 142203,
+            "occurrence": 2,
+            "value": "Erk, Ludwig (1807-1883)"
+        },
+        {
+            "facet_id": 213167,
+            "occurrence": 2,
+            "value": "Seydel, Rudolf"
+        },
+        {
+            "facet_id": 316474,
+            "occurrence": 2,
+            "value": "Helbig, Wolfgang (1839-1915)"
+        },
+        {
+            "facet_id": 330241,
+            "occurrence": 2,
+            "value": "Deiters, Hermann (1833-1907)"
+        },
+        {
+            "facet_id": 420826,
+            "occurrence": 2,
+            "value": "Lindner, Ernst Otto (1820-1867)"
+        },
+        {
+            "facet_id": 571732,
+            "occurrence": 2,
+            "value": "Tucher, Gottlieb von (1798-1877)"
+        },
+        {
+            "facet_id": 666527,
+            "occurrence": 2,
+            "value": "Laur, Jean A."
+        },
+        {
+            "facet_id": 666528,
+            "occurrence": 2,
+            "value": "Strubberg, O."
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 1,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 4042,
+            "occurrence": 1,
+            "value": "Mozart, Wolfgang Amadeus (1756-1791)"
+        },
+        {
+            "facet_id": 4261,
+            "occurrence": 1,
+            "value": "Auber, Daniel-François-Esprit (1782-1871)"
+        },
+        {
+            "facet_id": 4580,
+            "occurrence": 1,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 4766,
+            "occurrence": 1,
+            "value": "Da Ponte, Lorenzo (1749-1838)"
+        },
+        {
+            "facet_id": 5817,
+            "occurrence": 1,
+            "value": "Mendelssohn Bartholdy, Felix (1809-1847)"
+        },
+        {
+            "facet_id": 21138,
+            "occurrence": 1,
+            "value": "Radius, Justus Wilhelm Martin (1797-1884)"
+        },
+        {
+            "facet_id": 22054,
+            "occurrence": 1,
+            "value": "Delavigne, Germain (1790-1868)"
+        },
+        {
+            "facet_id": 22284,
+            "occurrence": 1,
+            "value": "Franciscus <Assisias> (1182-1226)"
+        },
+        {
+            "facet_id": 30166,
+            "occurrence": 1,
+            "value": "Delavigne, Casimir (1793-1843)"
+        },
+        {
+            "facet_id": 30973,
+            "occurrence": 1,
+            "value": "Wasserschleben, Friedrich Wilhelm (1812-1893)"
+        },
+        {
+            "facet_id": 39382,
+            "occurrence": 1,
+            "value": "Fechner, Gustav Theodor (1801-1887)"
+        },
+        {
+            "facet_id": 48334,
+            "occurrence": 1,
+            "value": "Hufeland, Gottlieb (1760-1817)"
+        },
+        {
+            "facet_id": 78182,
+            "occurrence": 1,
+            "value": "Oesterley, Hermann (1834-1891)"
+        },
+        {
+            "facet_id": 89875,
+            "occurrence": 1,
+            "value": "Mosenthal, Salomon Hermann von (1821-1877)"
+        },
+        {
+            "facet_id": 98671,
+            "occurrence": 1,
+            "value": "Weingarten, Hermann (1834-1892)"
+        },
+        {
+            "facet_id": 136805,
+            "occurrence": 1,
+            "value": "Kittl, Johann Friedrich (1806-1868)"
+        },
+        {
+            "facet_id": 140498,
+            "occurrence": 1,
+            "value": "Reinthaler, Karl Martin (1822-1896)"
+        },
+        {
+            "facet_id": 186740,
+            "occurrence": 1,
+            "value": "Jahn, Otto"
+        },
+        {
+            "facet_id": 198734,
+            "occurrence": 1,
+            "value": "Bonn, Franz (1830-1894)"
+        },
+        {
+            "facet_id": 209757,
+            "occurrence": 1,
+            "value": "Lindgren, W. E. von"
+        },
+        {
+            "facet_id": 227804,
+            "occurrence": 1,
+            "value": "Vesque von Püttlingen, Johann (1803-1883)"
+        },
+        {
+            "facet_id": 247653,
+            "occurrence": 1,
+            "value": "Ortloff, Hermann (1828-1920)"
+        },
+        {
+            "facet_id": 252091,
+            "occurrence": 1,
+            "value": "Nottebohm, Gustav (1817-1882)"
+        },
+        {
+            "facet_id": 257218,
+            "occurrence": 1,
+            "value": "Schöne, Richard"
+        },
+        {
+            "facet_id": 265330,
+            "occurrence": 1,
+            "value": "Richter, Ernst Friedrich Eduard (1808-1879)"
+        },
+        {
+            "facet_id": 359351,
+            "occurrence": 1,
+            "value": "Wächter, Oscar"
+        },
+        {
+            "facet_id": 391019,
+            "occurrence": 1,
+            "value": "Greith, Carl (1828-1887)"
+        },
+        {
+            "facet_id": 411493,
+            "occurrence": 1,
+            "value": "Michaelis, Adolf"
+        },
+        {
+            "facet_id": 434918,
+            "occurrence": 1,
+            "value": "Bornagius, August"
+        },
+        {
+            "facet_id": 460549,
+            "occurrence": 1,
+            "value": "Danz, Heinrich Aemilius August"
+        },
+        {
+            "facet_id": 526769,
+            "occurrence": 1,
+            "value": "Calinich, Robert (1834-1883)"
+        },
+        {
+            "facet_id": 539209,
+            "occurrence": 1,
+            "value": "Hauptmann, Moritz (1792-1868)"
+        },
+        {
+            "facet_id": 548569,
+            "occurrence": 1,
+            "value": "Klingemann, Karl (1798-1862)"
+        },
+        {
+            "facet_id": 613070,
+            "occurrence": 1,
+            "value": "Krüger, Eduard (1807-1885)"
+        },
+        {
+            "facet_id": 671015,
+            "occurrence": 1,
+            "value": "Habich, G. E."
+        },
+        {
+            "facet_id": 895269,
+            "occurrence": 1,
+            "value": "Wagner, Ernst Leberecht (1829-1888)"
+        },
+        {
+            "facet_id": 1068201,
+            "occurrence": 1,
+            "value": "Grundt, Friedrich Immanuel"
+        },
+        {
+            "facet_id": 1108761,
+            "occurrence": 1,
+            "value": "Randa, Anton von"
+        },
+        {
+            "facet_id": 1122209,
+            "occurrence": 1,
+            "value": "Waldau, Thomas"
+        }
+    ]
+}

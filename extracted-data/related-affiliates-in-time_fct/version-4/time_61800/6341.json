@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 6341,
+    "affiliate_fct": "Duchesne",
+    "affiliate_fct_occurrence": 584,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 6341,
+            "affiliate_fct": "Duchesne",
+            "affiliate_fct_occurrence": 584
+        },
+        {
+            "affiliate_fct_id": 15477,
+            "affiliate_fct": "Laugier, Marc Antoine (1711-1769)",
+            "affiliate_fct_occurrence": 41
+        },
+        {
+            "affiliate_fct_id": 113095,
+            "affiliate_fct": "Désormeaux, Joseph-Louis-Ripault (1724-1793)",
+            "affiliate_fct_occurrence": 38
+        },
+        {
+            "affiliate_fct_id": 25621,
+            "affiliate_fct": "Saint-Foix, Germain François Poullain de (1698-1776)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 111306,
+            "affiliate_fct": "Duport du Tertre, François-Joachim (1715-1759)",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 12642,
+            "affiliate_fct": "Marivaux, Pierre Carlet de Chamblain de (1688-1763)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 119638,
+            "affiliate_fct": "Favart, Charles Simon (1710-1792)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 19266,
+            "affiliate_fct": "Laporte, Joseph de (1713-1779)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 224150,
+            "affiliate_fct": "Anseaume, Louis",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 254440,
+            "affiliate_fct": "Duni, Egidio (1708-1775)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 42693,
+            "affiliate_fct": "Vadé, Jean Joseph (1719-1757)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 1477,
+            "affiliate_fct": "Voltaire (1694-1778)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 12979,
+            "affiliate_fct": "Pope, Alexander (1688-1744)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 28463,
+            "affiliate_fct": "Regnard, Jean François (1655-1709)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 219861,
+            "affiliate_fct": "Le Large de Lignac, Joseph Adrien (1710-1762)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 1349,
+            "affiliate_fct": "Rousseau, Jean-Jacques (1712-1778)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 4238,
+            "affiliate_fct": "Luc, Jean André de (1727-1817)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 19948,
+            "affiliate_fct": "Rétif de La Bretonne, Nicolas-Edme (1734-1806)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 20088,
+            "affiliate_fct": "Sainte-Palaye, Jean-Baptiste de LaCurne de (1697-1781)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 25532,
+            "affiliate_fct": "Grétry, André-Ernest-Modeste (1741-1813)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 91923,
+            "affiliate_fct": "Piron, Alexis (1689-1773)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 198354,
+            "affiliate_fct": "Poinsinet, Antoine Alexandre Henri (1735-1769)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 43475,
+            "affiliate_fct": "Garnier, Charles G.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 76987,
+            "affiliate_fct": "Robinet, Jean B. (1735-1820)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 77604,
+            "affiliate_fct": "Sedaine, Michel Jean (1719-1797)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 123902,
+            "affiliate_fct": "Philidor, François-André (1726-1795)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 136794,
+            "affiliate_fct": "Dutens, Louis (1730-1812)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 162929,
+            "affiliate_fct": "Saurin, Bernard J.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 180754,
+            "affiliate_fct": "Cailhava de L'Estendoux, Jean François (1731-1813)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 216686,
+            "affiliate_fct": "Seally, John (1747-1795)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 10144,
+            "affiliate_fct": "Collot D'Herbois, Jean-Marie (1749-1796)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 15930,
+            "affiliate_fct": "Goldoni, Carlo (1707-1793)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 213759,
+            "affiliate_fct": "Lattaignant, Gabriel Charles de (1697-1779)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 6342,
+            "affiliate_fct": "Boissy, Louis de (1694-1758)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 13257,
+            "affiliate_fct": "Bielfeld, Jakob Friedrich von (1717-1770)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 40002,
+            "affiliate_fct": "Coyer, Gabriel François (1707-1782)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 46123,
+            "affiliate_fct": "Fagan, Barthélemy C. (1702-1755)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 59590,
+            "affiliate_fct": "Desfontaines, Pierre François Guyot (1685-1745)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 59715,
+            "affiliate_fct": "Luc, Jean André de (1763-1847)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 60138,
+            "affiliate_fct": "Belloy, Pierre-Laurent Buyrette de (1727-1775)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 140674,
+            "affiliate_fct": "Desfontaines, François G.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 202995,
+            "affiliate_fct": "Guys, Jean B.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 8498,
+            "affiliate_fct": "Le Sage, Alain René (1668-1747)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 12623,
+            "affiliate_fct": "Prévost D'Exiles, Antoine François (1697-1763)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 16380,
+            "affiliate_fct": "Le Mierre, Antoine-Marin (1723-1793)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 34258,
+            "affiliate_fct": "Boutet de Monvel, Jacques Marie (1745-1812)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 40757,
+            "affiliate_fct": "Florian, Jean-Pierre Claris de (1755-1794)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 54137,
+            "affiliate_fct": "Chappuis, Jean",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 81310,
+            "affiliate_fct": "Monsigny, Pierre-Alexandre (1729-1817)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 88991,
+            "affiliate_fct": "Voisenon, Claude Henri de Fusée de (1708-1775)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 105648,
+            "affiliate_fct": "Hèle, Thomas d' (1740-1780)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 116909,
+            "affiliate_fct": "Duplessis D'Argentré, Charles",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 148631,
+            "affiliate_fct": "Longchamps, Pierre de (1740-1812)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 158008,
+            "affiliate_fct": "Poncet de la Grave, Guillaume (1725-ca. 1800)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 158954,
+            "affiliate_fct": "Sautreau de Marsy, Claude Sixte (1740-1815)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 205365,
+            "affiliate_fct": "Lemonnier, Pierre-René (1731-1796)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 236198,
+            "affiliate_fct": "Anseaume, Louis (1721-1784)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 317814,
+            "affiliate_fct": "Dorvigny, Louis Archambault (1743-1812)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 442140,
+            "affiliate_fct": "Aquin de Château-Lyon, Pierre-Louis d' (1720-1796)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 499613,
+            "affiliate_fct": "Clément, Jean-Marie",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 897430,
+            "affiliate_fct": "Cochin, Charles Nicolas (1715-1790)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2407,
+            "affiliate_fct": "Tacitus, Cornelius (55-116/120n.Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6804,
+            "affiliate_fct": "Michault, Jean B.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10474,
+            "affiliate_fct": "Guys, Pierre Augustin (1721-1799)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11129,
+            "affiliate_fct": "Fielding, Henry (1707-1754)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13385,
+            "affiliate_fct": "Fenouillot de Falbaire de Quingey, Charles Georges (1727-1800)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13661,
+            "affiliate_fct": "Marmontel, Jean François (1723-1799)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23987,
+            "affiliate_fct": "Domairon, Louis (1745-1807)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 39678,
+            "affiliate_fct": "Moline, Pierre Louis (1739-1820)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 39683,
+            "affiliate_fct": "Bordelon, Laurent (1653-1730)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62343,
+            "affiliate_fct": "Destouches, Néricault (1680-1754)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62594,
+            "affiliate_fct": "Maimieux, Joseph de (1753-1820)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 64487,
+            "affiliate_fct": "Molière (1622-1673)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 65749,
+            "affiliate_fct": "Nougaret, Pierre Jean-Baptiste (1742-1823)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 78267,
+            "affiliate_fct": "Maréchal, Sylvain (1750-1803)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79767,
+            "affiliate_fct": "Mailly, Louis de (1657-1724)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81343,
+            "affiliate_fct": "La Bléterie, Jean Philippe René de (1696-1772)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 89951,
+            "affiliate_fct": "Favart, Marie-Justine-Benoîte (1727-1772)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 97209,
+            "affiliate_fct": "Collé, Charles (1709-1783)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 115594,
+            "affiliate_fct": "Bricaire de la Dixmerie, Nicolas (1731-1791)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 122719,
+            "affiliate_fct": "Puisieux, Philippe-Florent de (1713-1772)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 134182,
+            "affiliate_fct": "Courchetet D'Esnans, Luc",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 137774,
+            "affiliate_fct": "Framery, Nicolas Etienne (1745-1810)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 148494,
+            "affiliate_fct": "Benoist, Françoise-Albine Puzin de La Martinière (1724-1809)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 185868,
+            "affiliate_fct": "Riccoboni, François (1707-1772)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 199446,
+            "affiliate_fct": "Michel, ... (um 1700)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 202572,
+            "affiliate_fct": "Malvaux, ... de",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 220624,
+            "affiliate_fct": "Jullien, Jean Auguste (1731-1771)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 234208,
+            "affiliate_fct": "Piccinni, Niccolò (1728-1800)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 251876,
+            "affiliate_fct": "Barthe, Nicolas-Thomas (1736-1785)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 276457,
+            "affiliate_fct": "Rousseau, Jean Jacques",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 306238,
+            "affiliate_fct": "Magny, Jean B.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 388097,
+            "affiliate_fct": "Harny de Guerville, ...",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 459411,
+            "affiliate_fct": "Billardon de Sauvigny, Louis Édme (1736-1812)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 554789,
+            "affiliate_fct": "Boissy, Louis Michel de (1725-1793)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 582996,
+            "affiliate_fct": "Dudoyer de Gastels, Gérard (1732-1798)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 658660,
+            "affiliate_fct": "Lemierre, Antoine-Marin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 711389,
+            "affiliate_fct": "Fridzeri, Alessandro Mario Antonio (1741-1825)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 830428,
+            "affiliate_fct": "Cointreau, ...",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 863588,
+            "affiliate_fct": "Forceville, ... de",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

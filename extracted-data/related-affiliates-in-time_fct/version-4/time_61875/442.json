@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_fct_id": 442,
+    "affiliate_fct": "Regierung",
+    "affiliate_fct_occurrence": 1006,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 442,
+            "affiliate_fct": "Regierung",
+            "affiliate_fct_occurrence": 1006
+        },
+        {
+            "affiliate_fct_id": 10317,
+            "affiliate_fct": "Kammer",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 116617,
+            "affiliate_fct": "Reuss, Georg Heinrich, Notar in Wertheim",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 358331,
+            "affiliate_fct": "Neef, Johann Jacob, Hofbauer in Elsbach",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 29241,
+            "affiliate_fct": "Hessen-Darmstadt, Landgrafen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 417770,
+            "affiliate_fct": "Wiesberger-Holzhandlungs-Sozietät, Altfeld",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 417772,
+            "affiliate_fct": "Wolf, Peter, Schultheiß in Altfeld",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 476301,
+            "affiliate_fct": "Würzburg, Hochstift",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 36257,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Dominik Constantin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 147723,
+            "affiliate_fct": "Reuss, Johann Georg, Kammerrat",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 167868,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Johann Carl Ludwig",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 194950,
+            "affiliate_fct": "Müller, Georg Michael, Zollnachgeher und Hospitalsverwalter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 217649,
+            "affiliate_fct": "Löwenstein zu, Constantin, Fürst",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 222976,
+            "affiliate_fct": "Kurmainz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 288580,
+            "affiliate_fct": "Wertheim, Grafschaft; Schatzungsobereinnahme",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 412043,
+            "affiliate_fct": "Fleiner, Leonhard, Pfarrer in Hasloch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 417771,
+            "affiliate_fct": "Wintzenhöhler, Georg, Altfeld",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 417773,
+            "affiliate_fct": "Wolf, Zacharias, Altfeld",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 471027,
+            "affiliate_fct": "Fischer, Georg Friedrich, Vogt in Löwenstein",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 29242,
+            "affiliate_fct": "Pfalz, Kurfürsten",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 43097,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Friedrich Ludwig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 92160,
+            "affiliate_fct": "Hinckeldey, Hieronymus Heinrich von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 204628,
+            "affiliate_fct": "Zwanziger, Friedrich Adolph von, löwenstein-wertheim-rochefortscher Generalfinanzdirektor",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 215482,
+            "affiliate_fct": "Wider, Johann Adam, 1764-1800 löwenstein-wertheim-rochefortscher Agent in Regensburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 286574,
+            "affiliate_fct": "Leopold II., Kaiser",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 292528,
+            "affiliate_fct": "Hofmann, Burkhard Matthäus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 292529,
+            "affiliate_fct": "Kappes, Christoph, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 342994,
+            "affiliate_fct": "Löwenstein-Wertheim, Samthaus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 486466,
+            "affiliate_fct": "Hinckeldey, Johann Philipp von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 541049,
+            "affiliate_fct": "Schwarzenbrunner Hofbauern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 569816,
+            "affiliate_fct": "Arenberg, Herzog",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 638373,
+            "affiliate_fct": "Löwenstein zu, Constantin, Fürst, Verordnung",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 644391,
+            "affiliate_fct": "Städel, Franz Heinrich von, Stadtamtmann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 937231,
+            "affiliate_fct": "Löwenstein zu, Friedrich Ludwig, Graf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1026140,
+            "affiliate_fct": "Gumpelshaimer, Georg, Gesandter in Regensburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 12947,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Carl Thomas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14082,
+            "affiliate_fct": "Löwenstein-Wertheim, Grafen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16240,
+            "affiliate_fct": "Eichhorn, Carl Ludwig, Kammersekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16528,
+            "affiliate_fct": "Hilpert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20790,
+            "affiliate_fct": "Halm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 22370,
+            "affiliate_fct": "Seeger, Georg Friedrich, Hofrat in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25681,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Joseph Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40588,
+            "affiliate_fct": "Scheerbaum, Johannes, Kanzleidirektor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57322,
+            "affiliate_fct": "Bessel, Hieronymus, gemeinschaftlicher Forstmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57574,
+            "affiliate_fct": "Foelisch, Konrektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57575,
+            "affiliate_fct": "Henninger, Johann Michael, Konrektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57576,
+            "affiliate_fct": "Neidhart, Michael Lorenz, Konrektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57577,
+            "affiliate_fct": "Schaller, Konrektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57959,
+            "affiliate_fct": "Isaac, Michael, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73252,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Carl Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 81261,
+            "affiliate_fct": "Frölich, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 81262,
+            "affiliate_fct": "Nies, Revierjäger in Sandbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84735,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Theodor Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85510,
+            "affiliate_fct": "Glaser, Johann Wendelin, Cantor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90982,
+            "affiliate_fct": "Schuchardt, Johann Bartholomäus, Legationssekretär beim fränkischen Kreis",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93533,
+            "affiliate_fct": "Olnhausen, Leopold Franz Peter von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 104881,
+            "affiliate_fct": "Löwenstein zu, Constantin, Graf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110150,
+            "affiliate_fct": "Semmler, Christoph, Forstmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112477,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Leopold",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113839,
+            "affiliate_fct": "Hartmann, Johann Michael, Löwenstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115532,
+            "affiliate_fct": "Frankenstein, Johann Wilhelm, Cantor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 116615,
+            "affiliate_fct": "Cramer, Johann Philipp, Notar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 116616,
+            "affiliate_fct": "Kaufmann, Johann Thomas, Löwenwirt in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117528,
+            "affiliate_fct": "Keller, Schuhmacher in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117529,
+            "affiliate_fct": "Nübling, Schuhmacher in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120377,
+            "affiliate_fct": "Nees, Johann Andreas, löwenstein-wertheim-rochefortscher Kammerrat und Verwalter des Höchster Klosterfonds",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123921,
+            "affiliate_fct": "Hohenlohe-Schillingsfürst; Karl Albrecht III., Fürst zu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130486,
+            "affiliate_fct": "Löwenstein zu, Christian, Prinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135686,
+            "affiliate_fct": "Buch, Philipp, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 136442,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 142204,
+            "affiliate_fct": "Erbach, Grafen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 150242,
+            "affiliate_fct": "Briel, Georg Ludwig, Rat und Amtmann zu Sommerhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153207,
+            "affiliate_fct": "Wüst, Christoph, Sachsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156521,
+            "affiliate_fct": "Preußen, König von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 161137,
+            "affiliate_fct": "Tauchert, Bote in Löwenstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163738,
+            "affiliate_fct": "Konsistorium",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163739,
+            "affiliate_fct": "Uhland; Ludwig, h.-bartensteinischer Jäger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163740,
+            "affiliate_fct": "Waldecker; Johann Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163741,
+            "affiliate_fct": "Waldecker; Juliana, Untersteinbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168274,
+            "affiliate_fct": "Kaplan, Johann Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 175391,
+            "affiliate_fct": "Fleckenstein, Lehen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 175392,
+            "affiliate_fct": "Schattenmann, Amtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176451,
+            "affiliate_fct": "Assum, Johann Heinrich, Physicus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 179488,
+            "affiliate_fct": "Hilpert, Schulmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181484,
+            "affiliate_fct": "Duffing, Maria Barbara, fürstliche Sekretärswitwe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181485,
+            "affiliate_fct": "Zentgraf, Hofrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181992,
+            "affiliate_fct": "Wied-Neuwied, Grafen, Johann Friedrich Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193812,
+            "affiliate_fct": "Weidner, Tobias; Schultheiß in Wenkheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194775,
+            "affiliate_fct": "Erbach zu, Georg August, Graf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194948,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Friedrich Carl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194951,
+            "affiliate_fct": "Städel, Franz, Stadtamtmann in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 196610,
+            "affiliate_fct": "Schreiber, Carl Joseph, Amtsbote aus Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 200676,
+            "affiliate_fct": "Flegler, Hans, Schultheiß in Bettingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204902,
+            "affiliate_fct": "Grau, Fabrikant von Violinsaiten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 205348,
+            "affiliate_fct": "Praun, Tobias Sebastian, Agent beim Reichshofrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 205453,
+            "affiliate_fct": "Wertheim, Grafschaft; gemeinschaftliche Rentei",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207814,
+            "affiliate_fct": "Haag, Georg David, Küfer in Löwenstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207815,
+            "affiliate_fct": "Seufer, Johann Michael, Zimmermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213818,
+            "affiliate_fct": "Abraham, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213819,
+            "affiliate_fct": "Fälklein, David, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

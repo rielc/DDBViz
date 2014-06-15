@@ -1,0 +1,39 @@
+{
+    "time_fct_id": 4,
+    "time_fct": "time_62000",
+    "affiliate_facet_id": 131,
+    "affiliate_facet": "Verlag A. und R. Adam (Fotograf)",
+    "occurrence": 2433,
+    "affiliates": [
+        {
+            "facet_id": 131,
+            "occurrence": 2831,
+            "value": "Domänenkanzlei"
+        },
+        {
+            "facet_id": 223804,
+            "occurrence": 3,
+            "value": "Treusch II, Geometer"
+        },
+        {
+            "facet_id": 2395,
+            "occurrence": 2,
+            "value": "E. Albicker"
+        },
+        {
+            "facet_id": 36928,
+            "occurrence": 1,
+            "value": "Reif"
+        },
+        {
+            "facet_id": 42972,
+            "occurrence": 1,
+            "value": "Buttbaum"
+        },
+        {
+            "facet_id": 1022520,
+            "occurrence": 1,
+            "value": "Gebr. Sulzer, Ludwigshafen"
+        }
+    ]
+}

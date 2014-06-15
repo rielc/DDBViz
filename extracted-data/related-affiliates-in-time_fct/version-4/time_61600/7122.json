@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 24,
+    "time_fct": "time_61600",
+    "affiliate_fct_id": 7122,
+    "affiliate_fct": "Behem",
+    "affiliate_fct_occurrence": 421,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 7122,
+            "affiliate_fct": "Behem",
+            "affiliate_fct_occurrence": 421
+        },
+        {
+            "affiliate_fct_id": 43844,
+            "affiliate_fct": "Wild, Johann (1495-1554)",
+            "affiliate_fct_occurrence": 101
+        },
+        {
+            "affiliate_fct_id": 6981,
+            "affiliate_fct": "Witzel, Georg (1501-1573)",
+            "affiliate_fct_occurrence": 35
+        },
+        {
+            "affiliate_fct_id": 61695,
+            "affiliate_fct": "Ulner, Peter (1523-1595)",
+            "affiliate_fct_occurrence": 31
+        },
+        {
+            "affiliate_fct_id": 298,
+            "affiliate_fct": "Cochlaeus, Johannes (1479-1552)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 50345,
+            "affiliate_fct": "Heiliges Römisches Reich / Reichstag",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 7123,
+            "affiliate_fct": "Thyraeus, Petrus (1546-1601)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 39763,
+            "affiliate_fct": "Braun, Konrad (1491-1563)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 4223,
+            "affiliate_fct": "Michael <Merseburg, Bischof> (1506-1561)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 3648,
+            "affiliate_fct": "Ferdinand <I., Heiliges Römisches Reich, Kaiser> (1503-1564)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 5137,
+            "affiliate_fct": "Buchinger, Michael (1520-1571)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 59457,
+            "affiliate_fct": "Cisnerus, Nikolaus (1529-1583)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 64543,
+            "affiliate_fct": "Optatus <Milevitanus> (ca. 4. Jh.)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 246304,
+            "affiliate_fct": "Loos, Cornelis (1546-1595)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 97680,
+            "affiliate_fct": "Agricola, Philipp (ca. nach 1520-ca. 1595/96)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 445367,
+            "affiliate_fct": "Jan <z Příbramě> (-1448)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 445368,
+            "affiliate_fct": "Johannes <Rokycana> (ca. ca. 1390/92-1471)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 83661,
+            "affiliate_fct": "Hoffmeister, Johann",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 131636,
+            "affiliate_fct": "Karl <V, Heiliges Römisches Reich, Kaiser> (1500-1558)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 7125,
+            "affiliate_fct": "Tossanus, Daniel (1541-1602)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 72862,
+            "affiliate_fct": "Hoffmeister, Johann (1509-1547)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 119443,
+            "affiliate_fct": "Meurer, Noe (1525-1583)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 143935,
+            "affiliate_fct": "Sebastian <Mainz, Erzbischof> (1508-1555)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 245865,
+            "affiliate_fct": "Concilium Provinciale Moguntinum <1549>",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 4683,
+            "affiliate_fct": "Busaeus, Johannes (1547-1611)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 22311,
+            "affiliate_fct": "Leucht, Valentin (1550-1619)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 4272,
+            "affiliate_fct": "Karl <V., Heiliges Römisches Reich, Kaiser> (1500-1558)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 136470,
+            "affiliate_fct": "Heiliges Römisches Reich / Reichshofgericht",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 170832,
+            "affiliate_fct": "Sardi, Alessandro (1520-1588)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 255733,
+            "affiliate_fct": "Johann <VIII., Meißen, Bischof> (1491-1549)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 283730,
+            "affiliate_fct": "Leo, Juan",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 335321,
+            "affiliate_fct": "Andreae, Michael",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 2526,
+            "affiliate_fct": "Kromer, Marcin (1512-1589)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 7124,
+            "affiliate_fct": "Bickel, Philipp",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 32134,
+            "affiliate_fct": "Hosius, Stanislaus (1504-1579)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 69613,
+            "affiliate_fct": "Maximilian <II., Heiliges Römisches Reich, Kaiser> (1527-1576)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 93413,
+            "affiliate_fct": "Via, Johannes a (1520-1582)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 560918,
+            "affiliate_fct": "Maciejowski, Samuel (1499-1550)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 636281,
+            "affiliate_fct": "Agricola, Philipp (1527-1572)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 212,
+            "affiliate_fct": "Luther, Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1248,
+            "affiliate_fct": "Augustinus, Aurelius (354-430)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10111,
+            "affiliate_fct": "Scherer, Georg (1539-1605)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20697,
+            "affiliate_fct": "Dick, Leopold (ca. 1520/30)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22310,
+            "affiliate_fct": "Behem)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23669,
+            "affiliate_fct": "Spangenberg, Johann (1484-1550)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 65875,
+            "affiliate_fct": "Politi, Lancelotto (1484-1553)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 66580,
+            "affiliate_fct": "Campion, Edmund (1540-1581)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 88207,
+            "affiliate_fct": "Seidel, Wolfgang (1491-1562)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 91941,
+            "affiliate_fct": "Schneid, Johannes",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 112480,
+            "affiliate_fct": "Pistorius, Johann (1546-1608)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126719,
+            "affiliate_fct": "Venator, Daniel (-1502)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 148168,
+            "affiliate_fct": "Georg <Sachsen, Herzog>",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 160726,
+            "affiliate_fct": "Lucienberg, Johann (-1588)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 174937,
+            "affiliate_fct": "Craendonch, Johannes",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 196543,
+            "affiliate_fct": "Jeremias <II, Konstantinopel, Patriarch> (1536-1595)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 248932,
+            "affiliate_fct": "Halver, Christian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 268769,
+            "affiliate_fct": "Periander, Aegidius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 275201,
+            "affiliate_fct": "Vehe, Michael (1480-1539)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 283731,
+            "affiliate_fct": "Buranus, Leonardus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 317964,
+            "affiliate_fct": "Miletus, Vitus (-1615)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 399807,
+            "affiliate_fct": "Franck, Franz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 404094,
+            "affiliate_fct": "Vauchop, Rupert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 449933,
+            "affiliate_fct": "Distell, Conrad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 516193,
+            "affiliate_fct": "Kempensis)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 516194,
+            "affiliate_fct": "Weißenberger, Melchior",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 529081,
+            "affiliate_fct": "Kreyten, Hendrik",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 540817,
+            "affiliate_fct": "Spengel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 715186,
+            "affiliate_fct": "Gobel, Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 891555,
+            "affiliate_fct": "Deling, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1943,
+            "affiliate_fct": "Ambrosius <Mediolanensis> (339-397)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5846,
+            "affiliate_fct": "Tapper, Ruard (1487-1559)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18002,
+            "affiliate_fct": "Lindt, Willem van der (1525-1588)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18414,
+            "affiliate_fct": "Ignacio <de Loyola> (1491-1556)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20205,
+            "affiliate_fct": "Johannes <Chrysostomus> (344-407)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23205,
+            "affiliate_fct": "Karl <IV., Heiliges Römisches Reich, Kaiser> (1316-1378)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39484,
+            "affiliate_fct": "Heiliges Römisches Reich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40370,
+            "affiliate_fct": "Nausea, Friedrich (1496-1552)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45955,
+            "affiliate_fct": "Cebes <Philosophus>",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51501,
+            "affiliate_fct": "Cyprianus, Thascius Caecilius (200-258)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57369,
+            "affiliate_fct": "Molitor, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72522,
+            "affiliate_fct": "Patricius, Franciscus (1413-1494)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73766,
+            "affiliate_fct": "Rudolf <II., Heiliges Römisches Reich, Kaiser> (1552-1612)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 91958,
+            "affiliate_fct": "Benoît, Jean (1484-1573)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 97679,
+            "affiliate_fct": "Medina, Miguel de",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99367,
+            "affiliate_fct": "Odo <Cameracensis> (-1113)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 103068,
+            "affiliate_fct": "Hipparius, Christianus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112479,
+            "affiliate_fct": "(Quentel)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128373,
+            "affiliate_fct": "Arnoldus <Vesaliensis> (-1534)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 137882,
+            "affiliate_fct": "Gresemund, Dietrich (1475-1512)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 143934,
+            "affiliate_fct": "Diözese (Mainz)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149498,
+            "affiliate_fct": "Borja, Francisco de (1510-1572)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 177572,
+            "affiliate_fct": "Rull, Theodor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259790,
+            "affiliate_fct": "Thamer, Theobald (1502-1569)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268963,
+            "affiliate_fct": "Fabrini, Giovanni",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 315036,
+            "affiliate_fct": "Artopoeus, Johann Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370415,
+            "affiliate_fct": "Daniel <Mainz, Erzbischof> (1522-1582)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 444964,
+            "affiliate_fct": "Kempen)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 468476,
+            "affiliate_fct": "Auer, Lambert (1533-1573)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 468477,
+            "affiliate_fct": "Backerelius, Ludovicus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529080,
+            "affiliate_fct": "Driel, Godfried van",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

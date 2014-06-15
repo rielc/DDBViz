@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_facet_id": 6332,
+    "affiliate_facet": "Hartknoch",
+    "occurrence": 231,
+    "affiliates": [
+        {
+            "facet_id": 6332,
+            "occurrence": 237,
+            "value": "Palm"
+        },
+        {
+            "facet_id": 138432,
+            "occurrence": 22,
+            "value": "Hirsching, Friedrich Carl Gottlob (1762-1800)"
+        },
+        {
+            "facet_id": 11276,
+            "occurrence": 16,
+            "value": "Glück, Christian Friedrich von (1755-1831)"
+        },
+        {
+            "facet_id": 11278,
+            "occurrence": 14,
+            "value": "Mühlenbruch, Christian Friedrich (1785-1843)"
+        },
+        {
+            "facet_id": 11277,
+            "occurrence": 12,
+            "value": "Hellfeld, Johann August (1717-1782)"
+        },
+        {
+            "facet_id": 16529,
+            "occurrence": 10,
+            "value": "Ammon, Christoph Friedrich von (1766-1850)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 9,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 9301,
+            "occurrence": 9,
+            "value": "Meusel, Johann Georg (1743-1820)"
+        },
+        {
+            "facet_id": 48088,
+            "occurrence": 9,
+            "value": "Klüber, Johann Ludwig (1762-1837)"
+        },
+        {
+            "facet_id": 79370,
+            "occurrence": 9,
+            "value": "Kleinschrod, Gallus Aloys Kaspar (1762-1824)"
+        },
+        {
+            "facet_id": 163809,
+            "occurrence": 9,
+            "value": "Hufnagel, Wilhelm Friedrich (1754-1830)"
+        },
+        {
+            "facet_id": 25347,
+            "occurrence": 7,
+            "value": "Seiler, Georg Friedrich (1733-1807)"
+        },
+        {
+            "facet_id": 61369,
+            "occurrence": 7,
+            "value": "Bensen, Carl Daniel Heinrich (1761-1805)"
+        },
+        {
+            "facet_id": 1669,
+            "occurrence": 6,
+            "value": "Rückert, Georg Christian Albrecht"
+        },
+        {
+            "facet_id": 48324,
+            "occurrence": 4,
+            "value": "Oberthür, Franz (1745-1831)"
+        },
+        {
+            "facet_id": 234955,
+            "occurrence": 4,
+            "value": "Rebmann, Johann Christian (1734-1810)"
+        },
+        {
+            "facet_id": 348803,
+            "occurrence": 4,
+            "value": "Hofer, Franz Joseph (1745-1794)"
+        },
+        {
+            "facet_id": 483385,
+            "occurrence": 4,
+            "value": "Schöpf, Johann David"
+        },
+        {
+            "facet_id": 703,
+            "occurrence": 3,
+            "value": "Voß"
+        },
+        {
+            "facet_id": 2244,
+            "occurrence": 3,
+            "value": "Weigel"
+        },
+        {
+            "facet_id": 8219,
+            "occurrence": 3,
+            "value": "Walther,"
+        },
+        {
+            "facet_id": 28510,
+            "occurrence": 3,
+            "value": "Klinisches Institut (Erlangen)"
+        },
+        {
+            "facet_id": 28511,
+            "occurrence": 3,
+            "value": "Wendt, Friedrich (1738-1817)"
+        },
+        {
+            "facet_id": 50637,
+            "occurrence": 3,
+            "value": "Schott, August Ludwig (1751-1787)"
+        },
+        {
+            "facet_id": 62142,
+            "occurrence": 3,
+            "value": "Eichhoff, Johann Peter (1755-1825)"
+        },
+        {
+            "facet_id": 89270,
+            "occurrence": 3,
+            "value": "Palm, Johann Jakob (1750-1826)"
+        },
+        {
+            "facet_id": 149995,
+            "occurrence": 3,
+            "value": "Expedition d. Schreber'schen Säugthier- u. d. Esper'schen Schmetterlingswerkes"
+        },
+        {
+            "facet_id": 207378,
+            "occurrence": 3,
+            "value": "Abicht, Johann Heinrich (1762-1816)"
+        },
+        {
+            "facet_id": 246364,
+            "occurrence": 3,
+            "value": "Hoffmann, Georg Franz (1761-1826)"
+        },
+        {
+            "facet_id": 249533,
+            "occurrence": 3,
+            "value": "Schöpf, Johann David (1752-1800)"
+        },
+        {
+            "facet_id": 405420,
+            "occurrence": 3,
+            "value": "Schuberth, Michael Heinrich (1741-1807)"
+        },
+        {
+            "facet_id": 665048,
+            "occurrence": 3,
+            "value": "Meyer, Andreas (1742-1807)"
+        },
+        {
+            "facet_id": 16263,
+            "occurrence": 2,
+            "value": "Fein, Eduard (1813-1858)"
+        },
+        {
+            "facet_id": 16826,
+            "occurrence": 2,
+            "value": "Gönner, Nikolaus Thaddäus (1764-1827)"
+        },
+        {
+            "facet_id": 20468,
+            "occurrence": 2,
+            "value": "Mayer, Johann Tobias (1752-1830)"
+        },
+        {
+            "facet_id": 38261,
+            "occurrence": 2,
+            "value": "Fick, Johann Christian (1763-1821)"
+        },
+        {
+            "facet_id": 80594,
+            "occurrence": 2,
+            "value": "Geiger, Johann Burkhard (1743-1809)"
+        },
+        {
+            "facet_id": 104367,
+            "occurrence": 2,
+            "value": "Spiess, Philipp Ernst (1734-1794)"
+        },
+        {
+            "facet_id": 144310,
+            "occurrence": 2,
+            "value": "Papst, Johann Georg Friedrich (1754-1821)"
+        },
+        {
+            "facet_id": 169061,
+            "occurrence": 2,
+            "value": "Füssel, Johann Michael (1753-1824)"
+        },
+        {
+            "facet_id": 217236,
+            "occurrence": 2,
+            "value": "Kunstmann)"
+        },
+        {
+            "facet_id": 283762,
+            "occurrence": 2,
+            "value": "Bauer, Johann Lorenz (1774-)"
+        },
+        {
+            "facet_id": 337602,
+            "occurrence": 2,
+            "value": "Reck, Johann Jacob Christian von (1756-)"
+        },
+        {
+            "facet_id": 544648,
+            "occurrence": 2,
+            "value": "Seidel, Christoph F."
+        },
+        {
+            "facet_id": 688135,
+            "occurrence": 2,
+            "value": "Huch, Friedrich August (1734-1794)"
+        },
+        {
+            "facet_id": 1177,
+            "occurrence": 1,
+            "value": "Meyer, Heinrich"
+        },
+        {
+            "facet_id": 6870,
+            "occurrence": 1,
+            "value": "Linné, Carl von (1707-1778)"
+        },
+        {
+            "facet_id": 9993,
+            "occurrence": 1,
+            "value": "Meiners, Christoph (1747-1810)"
+        },
+        {
+            "facet_id": 11569,
+            "occurrence": 1,
+            "value": "Le Long, Jacques (1665-1721)"
+        },
+        {
+            "facet_id": 12986,
+            "occurrence": 1,
+            "value": "Oetter, Samuel Wilhelm (1720-1792)"
+        },
+        {
+            "facet_id": 13447,
+            "occurrence": 1,
+            "value": "Harless, Adolf Gottlieb Christoph (1738-1815)"
+        },
+        {
+            "facet_id": 17024,
+            "occurrence": 1,
+            "value": "Modeer, Adolph"
+        },
+        {
+            "facet_id": 23013,
+            "occurrence": 1,
+            "value": "Mehmel, Gottlieb Ernst August (1761-1840)"
+        },
+        {
+            "facet_id": 35141,
+            "occurrence": 1,
+            "value": "Aurelius Victor, Sextus (ca. um 360 n. Chr.)"
+        },
+        {
+            "facet_id": 40973,
+            "occurrence": 1,
+            "value": "Malblanc, Julius Friedrich von (1752-1828)"
+        },
+        {
+            "facet_id": 50423,
+            "occurrence": 1,
+            "value": "Hildebrandt, Friedrich (1764-1816)"
+        },
+        {
+            "facet_id": 53077,
+            "occurrence": 1,
+            "value": "Schweiggerus, Fridricus Christianus Laurentius"
+        },
+        {
+            "facet_id": 61758,
+            "occurrence": 1,
+            "value": "Ring, Friedrich Dominicus (1726-1809)"
+        },
+        {
+            "facet_id": 65417,
+            "occurrence": 1,
+            "value": "Parrot, Christoph F."
+        },
+        {
+            "facet_id": 90738,
+            "occurrence": 1,
+            "value": "Sömmerring, Samuel Thomas von (1755-1830)"
+        },
+        {
+            "facet_id": 100236,
+            "occurrence": 1,
+            "value": "Elsäßer, Karl Friedrich (1746-1815)"
+        },
+        {
+            "facet_id": 106813,
+            "occurrence": 1,
+            "value": "Hänlein, Heinrich Karl Alexander"
+        },
+        {
+            "facet_id": 117004,
+            "occurrence": 1,
+            "value": "Masch, Andreas Gottlieb (1724-1807)"
+        },
+        {
+            "facet_id": 119479,
+            "occurrence": 1,
+            "value": "Gruner, Johann Friedrich (1723-1778)"
+        },
+        {
+            "facet_id": 120934,
+            "occurrence": 1,
+            "value": "Tyrwhitt, Thomas"
+        },
+        {
+            "facet_id": 126538,
+            "occurrence": 1,
+            "value": "Schreber, Johann Christian Daniel (1739-1810)"
+        },
+        {
+            "facet_id": 128070,
+            "occurrence": 1,
+            "value": "Schreger, Bernhard Nathanael Gottlob (1766-1825)"
+        },
+        {
+            "facet_id": 142429,
+            "occurrence": 1,
+            "value": "Koch, Friedrich"
+        },
+        {
+            "facet_id": 146727,
+            "occurrence": 1,
+            "value": "De Rossi, Giovanni Bernardo (1742-1831)"
+        },
+        {
+            "facet_id": 169644,
+            "occurrence": 1,
+            "value": "Haus, Ernst August (1767-1813)"
+        },
+        {
+            "facet_id": 185601,
+            "occurrence": 1,
+            "value": "Kölle, Johann Ludwig Christian (1763-1797)"
+        },
+        {
+            "facet_id": 211922,
+            "occurrence": 1,
+            "value": "Haltaus, Christian Gottlob (1702-1758)"
+        },
+        {
+            "facet_id": 274867,
+            "occurrence": 1,
+            "value": "Swartz, Olof (1760-1817)"
+        },
+        {
+            "facet_id": 291979,
+            "occurrence": 1,
+            "value": "Ulmenstein, Friedrich Wilhelm Albrecht"
+        },
+        {
+            "facet_id": 299763,
+            "occurrence": 1,
+            "value": "Langsdorf, Karl Christian von"
+        },
+        {
+            "facet_id": 303172,
+            "occurrence": 1,
+            "value": "Reinhard, Johann Paul"
+        },
+        {
+            "facet_id": 336357,
+            "occurrence": 1,
+            "value": "Rösling, Christian Lebrecht"
+        },
+        {
+            "facet_id": 360339,
+            "occurrence": 1,
+            "value": "Dünnemann, Johann Herrmann"
+        },
+        {
+            "facet_id": 360340,
+            "occurrence": 1,
+            "value": "Koch, Georg Friedrich"
+        },
+        {
+            "facet_id": 362729,
+            "occurrence": 1,
+            "value": "Völderndorff und Waradein, Carl F. von"
+        },
+        {
+            "facet_id": 424368,
+            "occurrence": 1,
+            "value": "Krafft, Sebastian A."
+        },
+        {
+            "facet_id": 424869,
+            "occurrence": 1,
+            "value": "Krafft, Sebastian Adam"
+        },
+        {
+            "facet_id": 440214,
+            "occurrence": 1,
+            "value": "Johannes <Evangelist>"
+        },
+        {
+            "facet_id": 444209,
+            "occurrence": 1,
+            "value": "Suckow, Simon Gabriel (1721-1786)"
+        },
+        {
+            "facet_id": 457805,
+            "occurrence": 1,
+            "value": "Strampffer, Georg Wilhelm (1776-)"
+        },
+        {
+            "facet_id": 502315,
+            "occurrence": 1,
+            "value": "Enslin, Johann Christoph"
+        },
+        {
+            "facet_id": 504945,
+            "occurrence": 1,
+            "value": "Sand, Johann Friedrich"
+        },
+        {
+            "facet_id": 539633,
+            "occurrence": 1,
+            "value": "Dorn, Johann Lorenz (1768-1813)"
+        },
+        {
+            "facet_id": 570633,
+            "occurrence": 1,
+            "value": "Hufnagel, Wilhelm Friedrich"
+        },
+        {
+            "facet_id": 592475,
+            "occurrence": 1,
+            "value": "Scheibe, Friedrich Heinrich"
+        },
+        {
+            "facet_id": 603975,
+            "occurrence": 1,
+            "value": "De Rossi, Giovanni Bernardo"
+        },
+        {
+            "facet_id": 654737,
+            "occurrence": 1,
+            "value": "Elsäßer, Karl Friedrich"
+        },
+        {
+            "facet_id": 672646,
+            "occurrence": 1,
+            "value": "Otto <III., Heiliges Römisches Reich, Kaiser> (980-1002)"
+        },
+        {
+            "facet_id": 672957,
+            "occurrence": 1,
+            "value": "Böll, Friedrich Philipp Karl"
+        },
+        {
+            "facet_id": 716310,
+            "occurrence": 1,
+            "value": "Seiler, Burkhard Wilhelm"
+        },
+        {
+            "facet_id": 761837,
+            "occurrence": 1,
+            "value": "Gaab, Johann Andreas (1698-1770)"
+        },
+        {
+            "facet_id": 761838,
+            "occurrence": 1,
+            "value": "Fleischer, Gottlob Ludwig (1730-1795)"
+        },
+        {
+            "facet_id": 771817,
+            "occurrence": 1,
+            "value": "Marc, Carl Christian Heinrich"
+        },
+        {
+            "facet_id": 787602,
+            "occurrence": 1,
+            "value": "Hagen, Friedrich W."
+        },
+        {
+            "facet_id": 830479,
+            "occurrence": 1,
+            "value": "Huber, Johann Ludwig (1723-1800)"
+        }
+    ]
+}

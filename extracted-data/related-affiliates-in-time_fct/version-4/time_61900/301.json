@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 301,
+    "affiliate_fct": "Cotta",
+    "affiliate_fct_occurrence": 4701,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 301,
+            "affiliate_fct": "Cotta",
+            "affiliate_fct_occurrence": 4701
+        },
+        {
+            "affiliate_fct_id": 4580,
+            "affiliate_fct": "Goethe, Johann Wolfgang von (1749-1832)",
+            "affiliate_fct_occurrence": 377
+        },
+        {
+            "affiliate_fct_id": 302,
+            "affiliate_fct": "Dingler, Johann Gottfried (1778-1855)",
+            "affiliate_fct_occurrence": 243
+        },
+        {
+            "affiliate_fct_id": 14764,
+            "affiliate_fct": "Müller, Johann Georg (1759-1819)",
+            "affiliate_fct_occurrence": 205
+        },
+        {
+            "affiliate_fct_id": 879,
+            "affiliate_fct": "Schiller, Friedrich (1759-1805)",
+            "affiliate_fct_occurrence": 199
+        },
+        {
+            "affiliate_fct_id": 32445,
+            "affiliate_fct": "Müller, Johannes von (1752-1809)",
+            "affiliate_fct_occurrence": 173
+        },
+        {
+            "affiliate_fct_id": 33037,
+            "affiliate_fct": "Herder, Johann Gottfried von (1744-1803)",
+            "affiliate_fct_occurrence": 165
+        },
+        {
+            "affiliate_fct_id": 19401,
+            "affiliate_fct": "Posselt, Ernst Ludwig (1763-1804)",
+            "affiliate_fct_occurrence": 137
+        },
+        {
+            "affiliate_fct_id": 15098,
+            "affiliate_fct": "Bayern <2> / Ständeversammlung",
+            "affiliate_fct_occurrence": 124
+        },
+        {
+            "affiliate_fct_id": 9059,
+            "affiliate_fct": "Heyberger, Joseph (1825-1899)",
+            "affiliate_fct_occurrence": 100
+        },
+        {
+            "affiliate_fct_id": 74240,
+            "affiliate_fct": "Humboldt, Alexander von (1769-1859)",
+            "affiliate_fct_occurrence": 69
+        },
+        {
+            "affiliate_fct_id": 79995,
+            "affiliate_fct": "Mozin, Dominique Joseph (1771-1840)",
+            "affiliate_fct_occurrence": 58
+        },
+        {
+            "affiliate_fct_id": 2503,
+            "affiliate_fct": "Thiersch, Friedrich Wilhelm (1784-1860)",
+            "affiliate_fct_occurrence": 47
+        },
+        {
+            "affiliate_fct_id": 43632,
+            "affiliate_fct": "Riehl, Wilhelm Heinrich (1823-1897)",
+            "affiliate_fct_occurrence": 46
+        },
+        {
+            "affiliate_fct_id": 7042,
+            "affiliate_fct": "Auerbach, Berthold (1812-1882)",
+            "affiliate_fct_occurrence": 42
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 40
+        },
+        {
+            "affiliate_fct_id": 2148,
+            "affiliate_fct": "Simrock, Karl (1802-1876)",
+            "affiliate_fct_occurrence": 37
+        },
+        {
+            "affiliate_fct_id": 11380,
+            "affiliate_fct": "Rotteck, Carl von (1775-1840)",
+            "affiliate_fct_occurrence": 35
+        },
+        {
+            "affiliate_fct_id": 65542,
+            "affiliate_fct": "Murhard, Friedrich Wilhelm August (1779-1853)",
+            "affiliate_fct_occurrence": 35
+        },
+        {
+            "affiliate_fct_id": 34753,
+            "affiliate_fct": "Gregorovius, Ferdinand (1821-1891)",
+            "affiliate_fct_occurrence": 34
+        },
+        {
+            "affiliate_fct_id": 2050,
+            "affiliate_fct": "Platen, August von (1796-1835)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 181193,
+            "affiliate_fct": "Herder, Caroline von (1750-1809)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 192274,
+            "affiliate_fct": "Rühl, Franz (1845-1916)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 69774,
+            "affiliate_fct": "Reyscher, August Ludwig (1802-1880)",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 95960,
+            "affiliate_fct": "Hoffmann, Karl Friedrich Vollrath (1796-1842)",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 3170,
+            "affiliate_fct": "Lenau, Nikolaus (1802-1850)",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 32458,
+            "affiliate_fct": "Berghaus, Heinrich Karl Wilhelm (1797-1884)",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 36465,
+            "affiliate_fct": "Schelling, Friedrich Wilhelm Joseph von (1775-1854)",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 90134,
+            "affiliate_fct": "Pestalozzi, Johann Heinrich (1746-1827)",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 60074,
+            "affiliate_fct": "Uhland, Ludwig (1787-1862)",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 4664,
+            "affiliate_fct": "André, Christian Carl (1763-1831)",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 43265,
+            "affiliate_fct": "Hüttner, Johann Christian (1766-1847)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 61197,
+            "affiliate_fct": "Hartig, Georg Ludwig (1764-1837)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 82900,
+            "affiliate_fct": "Pfeffel, Gottlieb Konrad (1736-1809)",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 70516,
+            "affiliate_fct": "Geibel, Emanuel (1815-1884)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 82106,
+            "affiliate_fct": "Stein, Lorenz von (1815-1890)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 53098,
+            "affiliate_fct": "Roscher, Wilhelm (1817-1894)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 257761,
+            "affiliate_fct": "Buschmann, Johann Carl Ed. (1805-1880)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 304575,
+            "affiliate_fct": "Matthias, Theodor (1859-1934)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 7913,
+            "affiliate_fct": "Schmeller, Johann Andreas (1785-1852)",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 88219,
+            "affiliate_fct": "Pöhlmann, Robert von (1852-1914)",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 4941,
+            "affiliate_fct": "Menzel, Wolfgang",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 35721,
+            "affiliate_fct": "Ludwig <I., Bayern, König> (1786-1868)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 53043,
+            "affiliate_fct": "Holland, Wilhelm Ludwig (1822-1891)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 88220,
+            "affiliate_fct": "Stieda, Wilhelm (1852-1933)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 114917,
+            "affiliate_fct": "Pyrker, János László (1772-1847)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 21370,
+            "affiliate_fct": "Voß, Johann Heinrich (1751-1826)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 26179,
+            "affiliate_fct": "Memminger, Johann Daniel Georg von (1773-1840)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 31500,
+            "affiliate_fct": "Peschier, Adolphe (1805-1878)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 114075,
+            "affiliate_fct": "Las Cases, Emmanuel Auguste Dieudonné Marius Joseph de (1766-1842)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 140693,
+            "affiliate_fct": "Goedeke, Karl (1814-1887)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 220915,
+            "affiliate_fct": "Hoffmeister, Karl (1796-1844)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 14178,
+            "affiliate_fct": "Zachariä von Lingenthal, Karl Salomo (1769-1843)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 90849,
+            "affiliate_fct": "Spittler, Ludwig Timotheus",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 99587,
+            "affiliate_fct": "Bonpland, Aimé (1773-1858)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 3917,
+            "affiliate_fct": "Paul, Jean (1763-1825)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 25137,
+            "affiliate_fct": "Napoléon <I., Frankreich, Kaiser> (1769-1821)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 46358,
+            "affiliate_fct": "Gagern, Hans Christoph von (1766-1852)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 267966,
+            "affiliate_fct": "Heyne, ...",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 2866,
+            "affiliate_fct": "Hermann, Friedrich Benedict Wilhelm von (1795-1868)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 15140,
+            "affiliate_fct": "Rapp, Karl Moritz (1803-1883)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 46419,
+            "affiliate_fct": "Freyberg, Maximilian Prokop von (1789-1851)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 61198,
+            "affiliate_fct": "Hartig, Theodor (1805-1880)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 61517,
+            "affiliate_fct": "Roquette, Otto (1824-1896)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 71207,
+            "affiliate_fct": "Bayern / Statistisches Bureau",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 304,
+            "affiliate_fct": "Grillparzer, Franz (1791-1872)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 4505,
+            "affiliate_fct": "Zedlitz, Joseph Christian von (1790-1862)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 19522,
+            "affiliate_fct": "Bauernfeind, Carl Maximilian von (1818-1894)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 27758,
+            "affiliate_fct": "Körner, Christian Gottfried (1756-1831)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 48088,
+            "affiliate_fct": "Klüber, Johann Ludwig (1762-1837)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 91295,
+            "affiliate_fct": "Lebert, Sigmund (1821-1884)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 232644,
+            "affiliate_fct": "Schorn, Ludwig (1793-1842)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 325006,
+            "affiliate_fct": "Klinger, Friedrich Maximilian",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 65771,
+            "affiliate_fct": "Kerner, Justinus (1786-1862)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 69140,
+            "affiliate_fct": "Förster, Ernst (1800-1885)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 91297,
+            "affiliate_fct": "Stark, Ludwig (1831-1884)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 120432,
+            "affiliate_fct": "Rudhart, Ignaz von (1790-1838)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 135788,
+            "affiliate_fct": "Hauff, Hermann (1800-1865)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 169163,
+            "affiliate_fct": "Bernoulli, Christoph (1782-1863)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 5340,
+            "affiliate_fct": "Oehlenschläger, Adam Gottlob (1779-1850)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 10712,
+            "affiliate_fct": "Schubert, Gotthilf Heinrich von (1780-1860)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 18405,
+            "affiliate_fct": "Kobell, Franz von (1803-1882)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 31041,
+            "affiliate_fct": "Laube, Heinrich (1806-1884)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 39687,
+            "affiliate_fct": "Ranke, Leopold von (1795-1886)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 91659,
+            "affiliate_fct": "Schultes, Joseph August (1773-1831)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 2728,
+            "affiliate_fct": "Rückert, Friedrich (1788-1866)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 5255,
+            "affiliate_fct": "Shakespeare, William (1564-1616)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 39508,
+            "affiliate_fct": "Knapp, Albert (1798-1864)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 106636,
+            "affiliate_fct": "Wessenberg, Ignaz Heinrich von (1774-1860)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 133288,
+            "affiliate_fct": "Arndts von Arnesberg, Karl Ludwig (1803-1878)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 147757,
+            "affiliate_fct": "Weckherlin, August von (1794-1868)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 202586,
+            "affiliate_fct": "Lingg, Hermann (1820-1905)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 272405,
+            "affiliate_fct": "Hailbronner, Karl von (1788-1864)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 290958,
+            "affiliate_fct": "Gregorovius, Ferdinand",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 1087,
+            "affiliate_fct": "Beethoven, Ludwig van (1770-1827)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 11706,
+            "affiliate_fct": "Gerstäcker, Friedrich (1816-1872)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 33519,
+            "affiliate_fct": "Grün, Anastasius (1806-1876)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 55299,
+            "affiliate_fct": "Savoyen-Carignan, Eugen von (1663-1736)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 87053,
+            "affiliate_fct": "Walz, Gustav (1804-1876)",
+            "affiliate_fct_occurrence": 8
+        }
+    ]
+}

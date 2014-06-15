@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 162,
+    "affiliate_facet": "Fleischer",
+    "occurrence": 994,
+    "affiliates": [
+        {
+            "facet_id": 162,
+            "occurrence": 1027,
+            "value": "Limpurg-Gaildorfer Erbschenkenarchiv"
+        },
+        {
+            "facet_id": 1130,
+            "occurrence": 45,
+            "value": "Waldeck-Pyrmont und Limpurg-Gaildorf; Georg Friedrich Carl"
+        },
+        {
+            "facet_id": 39148,
+            "occurrence": 33,
+            "value": "Waldeck-Pyrmont und Limpurg-Gaildorf; Georg Friedrich Carl, Graf von"
+        },
+        {
+            "facet_id": 237713,
+            "occurrence": 16,
+            "value": "Hoffmann, Studienrat zu Gaildorf"
+        },
+        {
+            "facet_id": 298066,
+            "occurrence": 6,
+            "value": "Isenburg-Büdingen-Meerholz; Carl Ludwig Wilhelm"
+        },
+        {
+            "facet_id": 71467,
+            "occurrence": 5,
+            "value": "Solms-Assenheim; Wilhelmina Christina, geb. von Limpurg-Gaildorf"
+        },
+        {
+            "facet_id": 475759,
+            "occurrence": 5,
+            "value": "Pückler-Limpurg; Friedrich Philipp Carl"
+        },
+        {
+            "facet_id": 20067,
+            "occurrence": 4,
+            "value": "Weller, Jakob, solms-braunfelsischer Waldschütz und solms-assenheimischer Jagdgehilfe zu Oberrot"
+        },
+        {
+            "facet_id": 83289,
+            "occurrence": 4,
+            "value": "Waldeck-Pyrmont und Limpurg; Wilhelmina Carolina Louise, geb. von Löwenstein-Wertheim-Freudenberg"
+        },
+        {
+            "facet_id": 418732,
+            "occurrence": 4,
+            "value": "Waldeck-Pyrmont und Limpurg-Gaildorf, von; Georg Friedrich Carl"
+        },
+        {
+            "facet_id": 173569,
+            "occurrence": 3,
+            "value": "Feil, Friedrich, Bauer zu Fichtenberg"
+        },
+        {
+            "facet_id": 204129,
+            "occurrence": 3,
+            "value": "Dreher, Johann Georg, Einwohner zu Fichtenberg"
+        },
+        {
+            "facet_id": 332078,
+            "occurrence": 3,
+            "value": "Bühler, Georg Kaspar, Kammerrat zu Oberrot"
+        },
+        {
+            "facet_id": 437808,
+            "occurrence": 3,
+            "value": "Mauch, gräflich bentinckscher Rentamtmann zu Gaildorf"
+        },
+        {
+            "facet_id": 582379,
+            "occurrence": 3,
+            "value": "Kausler, Friedrich, Pfarrer zu Oberrot"
+        },
+        {
+            "facet_id": 610710,
+            "occurrence": 3,
+            "value": "Waldeck, Grafen und Fürsten von"
+        },
+        {
+            "facet_id": 721929,
+            "occurrence": 3,
+            "value": "Wahl, Christoph, Einwohner zu Seelach"
+        },
+        {
+            "facet_id": 2283,
+            "occurrence": 2,
+            "value": "Thurn und Taxis, Fürsten von"
+        },
+        {
+            "facet_id": 60802,
+            "occurrence": 2,
+            "value": "Pückler-Limpurg; Friedrich Philipp Carl, Graf von"
+        },
+        {
+            "facet_id": 60803,
+            "occurrence": 2,
+            "value": "Solms-Rödelheim; Vollrat Friedrich Carl Ludwig, Graf von"
+        },
+        {
+            "facet_id": 60804,
+            "occurrence": 2,
+            "value": "Waldeck-Pyrmont und Limpurg-Gaildorf, Grafen von"
+        },
+        {
+            "facet_id": 105237,
+            "occurrence": 2,
+            "value": "Wohlfarth, Jacob, Einwohner im Haghöfle"
+        },
+        {
+            "facet_id": 106741,
+            "occurrence": 2,
+            "value": "Mollenbec, von, reichsgräflicher Komitialgesandter"
+        },
+        {
+            "facet_id": 128698,
+            "occurrence": 2,
+            "value": "Braun, Johann Georg, Wirt zu Mittelrot"
+        },
+        {
+            "facet_id": 137319,
+            "occurrence": 2,
+            "value": "Fad, Kronenwirt zu Gaildorf"
+        },
+        {
+            "facet_id": 137320,
+            "occurrence": 2,
+            "value": "Kretschmer, Löwenwirt zu Gaildorf"
+        },
+        {
+            "facet_id": 137321,
+            "occurrence": 2,
+            "value": "Stiefel, Philipp, Häusler zu Hagkling"
+        },
+        {
+            "facet_id": 189558,
+            "occurrence": 2,
+            "value": "Roeder, von, Louise, geb. Gräfin von Pückler-Limpurg"
+        },
+        {
+            "facet_id": 237088,
+            "occurrence": 2,
+            "value": "Waldeck, Grafen von"
+        },
+        {
+            "facet_id": 265727,
+            "occurrence": 2,
+            "value": "Württemberg, Könige; Friedrich I."
+        },
+        {
+            "facet_id": 298068,
+            "occurrence": 2,
+            "value": "Isenburg-Büdingen-Meerholz; Joseph Wilhelm Friedrich Albrecht"
+        },
+        {
+            "facet_id": 298069,
+            "occurrence": 2,
+            "value": "Pückler; Louise Christiana Eleonora, geb. Isenburg-Büdingen-Meerholz"
+        },
+        {
+            "facet_id": 300642,
+            "occurrence": 2,
+            "value": "Klenck, Jacob, Müller in der Obermühle"
+        },
+        {
+            "facet_id": 309254,
+            "occurrence": 2,
+            "value": "Ellrichshausen, von; Wilhelmina, geb. von Gronsfeld"
+        },
+        {
+            "facet_id": 332297,
+            "occurrence": 2,
+            "value": "Creuzberger, Andreas, Schneider zu Fichtenberg"
+        },
+        {
+            "facet_id": 347246,
+            "occurrence": 2,
+            "value": "Deininger, Georg Melchior, Einwohner zu Mittelrot"
+        },
+        {
+            "facet_id": 360873,
+            "occurrence": 2,
+            "value": "Waldeck-Pyrmont; Wilhelmina Carolina Louise, geb. von Löwenstein-Wertheim-Freudenberg"
+        },
+        {
+            "facet_id": 360874,
+            "occurrence": 2,
+            "value": "Württemberg, Könige; Wilhelm I."
+        },
+        {
+            "facet_id": 365608,
+            "occurrence": 2,
+            "value": "Löw, Georg Samuel, Dorfmüller zu Oberrot"
+        },
+        {
+            "facet_id": 365609,
+            "occurrence": 2,
+            "value": "Weller, Johann Michael, Neumüller zu Oberrot"
+        },
+        {
+            "facet_id": 392075,
+            "occurrence": 2,
+            "value": "Sanwald, Leonhard, Untertan zu Oberrot"
+        },
+        {
+            "facet_id": 442454,
+            "occurrence": 2,
+            "value": "Pückler-Limpurg; von"
+        },
+        {
+            "facet_id": 448859,
+            "occurrence": 2,
+            "value": "Vrints-Berberich, von, Alexander, fürstlich thurn und taxischer Bevollmächtigter"
+        },
+        {
+            "facet_id": 469026,
+            "occurrence": 2,
+            "value": "Pfisterer, Heinrich, Einwohner zu Fichtenberg"
+        },
+        {
+            "facet_id": 485797,
+            "occurrence": 2,
+            "value": "Waldeck; Christina Louise Charlotta, geb. von Isenburg-Büdingen-Meerholz"
+        },
+        {
+            "facet_id": 489175,
+            "occurrence": 2,
+            "value": "Solms-Rödelheim; Vollrath Friedrich Carl Ludwig"
+        },
+        {
+            "facet_id": 494886,
+            "occurrence": 2,
+            "value": "Noller, Andreas, Bauer zu Fichtenberg"
+        },
+        {
+            "facet_id": 496281,
+            "occurrence": 2,
+            "value": "Kühnle, Rosina, von Wolfenbrück, Magd zu Ebersberg"
+        },
+        {
+            "facet_id": 496282,
+            "occurrence": 2,
+            "value": "Wieland, Andreas, vom Gallenhöfle, Knecht zu Ebersberg"
+        },
+        {
+            "facet_id": 580994,
+            "occurrence": 2,
+            "value": "Bühler, Limpurg-Gaildorf-Solms-Assenheimischer Kammerrat"
+        },
+        {
+            "facet_id": 613406,
+            "occurrence": 2,
+            "value": "Stein, vom, Carl, Freiherr"
+        },
+        {
+            "facet_id": 640697,
+            "occurrence": 2,
+            "value": "Dierold, Juliana, Magd zu Oberrot"
+        },
+        {
+            "facet_id": 714892,
+            "occurrence": 2,
+            "value": "Unger, Johann Friedrich, Schuladjunkt zu Oberrot"
+        },
+        {
+            "facet_id": 723810,
+            "occurrence": 2,
+            "value": "Schober, Johann Georg, Untertan zu Fichtenberg"
+        },
+        {
+            "facet_id": 747317,
+            "occurrence": 2,
+            "value": "Kolb, Johann Georg Michael, Filialschulmeister zu Marhördt, Schulmeister zu Hütten"
+        },
+        {
+            "facet_id": 769055,
+            "occurrence": 2,
+            "value": "Württemberg, Herzöge und Könige; Friedrich I."
+        },
+        {
+            "facet_id": 796812,
+            "occurrence": 2,
+            "value": "Sezer, Johannes, Einwohner zu Fichtenberg"
+        },
+        {
+            "facet_id": 797912,
+            "occurrence": 2,
+            "value": "Schließmann, Vollrath, Wirt zu Horlachen"
+        },
+        {
+            "facet_id": 842783,
+            "occurrence": 2,
+            "value": "Dieterich, Adam, Einwohner zu Fichtenberg"
+        },
+        {
+            "facet_id": 847536,
+            "occurrence": 2,
+            "value": "Gronsfeld; Maria Carolina Friderica Louise, geb. von Löwenstein-Wertheim-Freudenberg"
+        },
+        {
+            "facet_id": 856994,
+            "occurrence": 2,
+            "value": "Württemberg, Herzöge und Könige; Wilhelm I."
+        },
+        {
+            "facet_id": 979591,
+            "occurrence": 2,
+            "value": "Weiler, Anna Maria, Magd zu Oberrot"
+        },
+        {
+            "facet_id": 1092140,
+            "occurrence": 2,
+            "value": "Kiefer, Christoph, Wirt zu Horlachen"
+        },
+        {
+            "facet_id": 1745,
+            "occurrence": 1,
+            "value": "Schmelcher, Jacob, Schulmeister zu Mittelrot"
+        },
+        {
+            "facet_id": 11189,
+            "occurrence": 1,
+            "value": "Noller, Michael, Salinensieder zu Marbächle"
+        },
+        {
+            "facet_id": 21557,
+            "occurrence": 1,
+            "value": "Grau, Gottlieb, Einwohner zu Wolfenbrück"
+        },
+        {
+            "facet_id": 21558,
+            "occurrence": 1,
+            "value": "Noller, Friedrich, Einwohner zu Fichtenberg"
+        },
+        {
+            "facet_id": 28866,
+            "occurrence": 1,
+            "value": "Majer, Friedrich Christoph Heinrich, Kanzleisekretarius zu Gaildorf"
+        },
+        {
+            "facet_id": 31575,
+            "occurrence": 1,
+            "value": "Solms-Assenheim; Ludwig Heinrich"
+        },
+        {
+            "facet_id": 33845,
+            "occurrence": 1,
+            "value": "Marcadier, Joseph, ehemaliger amerikanischer Botschaftssekretär zu Paris"
+        },
+        {
+            "facet_id": 34239,
+            "occurrence": 1,
+            "value": "Löwenstein, Fürsten von"
+        },
+        {
+            "facet_id": 35357,
+            "occurrence": 1,
+            "value": "Beutinger, Anna Maria, vom Stiershof, Magd zu Hohenhardtsweiler"
+        },
+        {
+            "facet_id": 35358,
+            "occurrence": 1,
+            "value": "Wieland, Johann Michael, von Schönbronn, Knecht zu Hohenhardtsweiler"
+        },
+        {
+            "facet_id": 39823,
+            "occurrence": 1,
+            "value": "Bauer, Michael, Einwohner zu Oberrot"
+        },
+        {
+            "facet_id": 39824,
+            "occurrence": 1,
+            "value": "Lederer, Rosina, Einwohnerin zu Ebersberg"
+        },
+        {
+            "facet_id": 50826,
+            "occurrence": 1,
+            "value": "Cronmüller, Adam, Einwohner zu Dappach"
+        },
+        {
+            "facet_id": 61196,
+            "occurrence": 1,
+            "value": "Wahl, Christoph, Untertan zu Seelach"
+        },
+        {
+            "facet_id": 69539,
+            "occurrence": 1,
+            "value": "Massenbach, von, Christian"
+        },
+        {
+            "facet_id": 72994,
+            "occurrence": 1,
+            "value": "Pückler-Limpurg; Friedrich, Graf von"
+        },
+        {
+            "facet_id": 81119,
+            "occurrence": 1,
+            "value": "Mayer, Johann Christoph, Limpurg-Gaildorf-Solms-Assenheimischer Oberjäger"
+        },
+        {
+            "facet_id": 81521,
+            "occurrence": 1,
+            "value": "Hirzel, Schuhknecht von Fichtenberg"
+        },
+        {
+            "facet_id": 83288,
+            "occurrence": 1,
+            "value": "Waldeck-Pyrmont und Limpurg; Josias Wilhelm Friedrich"
+        },
+        {
+            "facet_id": 92064,
+            "occurrence": 1,
+            "value": "Salvelder, Archiv- und Kanzleiregistrator zu Gaildorf"
+        },
+        {
+            "facet_id": 97519,
+            "occurrence": 1,
+            "value": "Königsegg-Aulendorf, Grafen von"
+        },
+        {
+            "facet_id": 99266,
+            "occurrence": 1,
+            "value": "Stadion, Grafen von"
+        },
+        {
+            "facet_id": 105236,
+            "occurrence": 1,
+            "value": "Bareiß, Georg, Einwohner im Haghöfle"
+        },
+        {
+            "facet_id": 105402,
+            "occurrence": 1,
+            "value": "Conrad, Maria Agnes, von Täferrot, Magd zu Konhalden"
+        },
+        {
+            "facet_id": 105403,
+            "occurrence": 1,
+            "value": "Küstner, Georg Jacob, von der Marhördter Sägmühle, Knecht zu Kornberg"
+        },
+        {
+            "facet_id": 106740,
+            "occurrence": 1,
+            "value": "Fischer, von, Christian Hiskias Heinrich, reichsgräflicher Komitialgesandter"
+        },
+        {
+            "facet_id": 107908,
+            "occurrence": 1,
+            "value": "Schuster, Jacob, Einwohner zu Honkling"
+        },
+        {
+            "facet_id": 122182,
+            "occurrence": 1,
+            "value": "Raifeisen, David, von Mittelfischach, Chirurgielehrling zu Gschwend"
+        },
+        {
+            "facet_id": 128699,
+            "occurrence": 1,
+            "value": "Bühler, solms-assenheimischer Kammerrat"
+        },
+        {
+            "facet_id": 137803,
+            "occurrence": 1,
+            "value": "Limpurg-Speckfeld; Vollrat"
+        },
+        {
+            "facet_id": 143150,
+            "occurrence": 1,
+            "value": "Braun, Johann Georg, Einwohner zu Mittelrot"
+        },
+        {
+            "facet_id": 143151,
+            "occurrence": 1,
+            "value": "Fischer, Catharina, Einwohnerin auf der Kronmühle"
+        },
+        {
+            "facet_id": 154941,
+            "occurrence": 1,
+            "value": "Greiner, Anna Maria, Schuhmachersgattin zu Gaildorf"
+        },
+        {
+            "facet_id": 157960,
+            "occurrence": 1,
+            "value": "Noller, Adam, Untertan zu Wolfenbrück"
+        },
+        {
+            "facet_id": 157961,
+            "occurrence": 1,
+            "value": "Noller, Michael, Söldner zu Wolfenbrück"
+        },
+        {
+            "facet_id": 158282,
+            "occurrence": 1,
+            "value": "Salm-Reifferscheid-Krautheim, Fürsten von"
+        },
+        {
+            "facet_id": 158312,
+            "occurrence": 1,
+            "value": "Schwarz, Gottfried, Einwohner zu Fichtenberg"
+        }
+    ]
+}

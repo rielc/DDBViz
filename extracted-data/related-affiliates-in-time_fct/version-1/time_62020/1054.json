@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_facet_id": 1054,
+    "affiliate_facet": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+    "occurrence": 117,
+    "affiliates": [
+        {
+            "facet_id": 1054,
+            "occurrence": 121,
+            "value": "Hessisches Staatsarchiv (Marburg)"
+        },
+        {
+            "facet_id": 1053,
+            "occurrence": 91,
+            "value": "Rumpf, Karl"
+        },
+        {
+            "facet_id": 48218,
+            "occurrence": 15,
+            "value": "Dauber, August"
+        },
+        {
+            "facet_id": 11064,
+            "occurrence": 14,
+            "value": "Bantzer, Carl"
+        }
+    ]
+}

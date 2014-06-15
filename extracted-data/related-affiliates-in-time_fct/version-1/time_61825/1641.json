@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 23,
+    "time_fct": "time_61825",
+    "affiliate_facet_id": 1641,
+    "affiliate_facet": "Zimmermann, Johann Baptist",
+    "occurrence": 291,
+    "affiliates": [
+        {
+            "facet_id": 1641,
+            "occurrence": 297,
+            "value": "Alberti, Michael (1682-1757)"
+        },
+        {
+            "facet_id": 6752,
+            "occurrence": 71,
+            "value": "Hendelius"
+        },
+        {
+            "facet_id": 5686,
+            "occurrence": 63,
+            "value": "Hendel"
+        },
+        {
+            "facet_id": 4164,
+            "occurrence": 7,
+            "value": "Orphanotropheum"
+        },
+        {
+            "facet_id": 67459,
+            "occurrence": 5,
+            "value": "Grimmann, Johann Nicolaus (1707-)"
+        },
+        {
+            "facet_id": 318005,
+            "occurrence": 5,
+            "value": "Friebe, Samuel"
+        },
+        {
+            "facet_id": 3601,
+            "occurrence": 4,
+            "value": "Thomasius, Christian (1655-1728)"
+        },
+        {
+            "facet_id": 69134,
+            "occurrence": 4,
+            "value": "Maehrl, Jeremias"
+        },
+        {
+            "facet_id": 125265,
+            "occurrence": 4,
+            "value": "Salchow, Ulrich Christoph (1722-1787)"
+        },
+        {
+            "facet_id": 208970,
+            "occurrence": 4,
+            "value": "Schaarschmidt, Samuel (1709-1747)"
+        },
+        {
+            "facet_id": 217412,
+            "occurrence": 4,
+            "value": "Menntzel, Johannes Christian"
+        },
+        {
+            "facet_id": 252544,
+            "occurrence": 4,
+            "value": "Seibt, Joachim G."
+        },
+        {
+            "facet_id": 302730,
+            "occurrence": 4,
+            "value": "Cono, Christoph Ernst"
+        },
+        {
+            "facet_id": 417305,
+            "occurrence": 4,
+            "value": "Härtel, Johann Gottlob"
+        },
+        {
+            "facet_id": 585279,
+            "occurrence": 4,
+            "value": "Somm, Michael"
+        },
+        {
+            "facet_id": 2381,
+            "occurrence": 3,
+            "value": "Hendelius)"
+        },
+        {
+            "facet_id": 99636,
+            "occurrence": 3,
+            "value": "Teuber, Johann G."
+        },
+        {
+            "facet_id": 147858,
+            "occurrence": 3,
+            "value": "Grohmann, Theodor Ernst"
+        },
+        {
+            "facet_id": 231711,
+            "occurrence": 3,
+            "value": "Sailer, Carl W."
+        },
+        {
+            "facet_id": 276180,
+            "occurrence": 3,
+            "value": "Schüller, Johann Georg"
+        },
+        {
+            "facet_id": 283267,
+            "occurrence": 3,
+            "value": "Dürfeld, Ernst A."
+        },
+        {
+            "facet_id": 302562,
+            "occurrence": 3,
+            "value": "Becker, Johann F."
+        },
+        {
+            "facet_id": 312649,
+            "occurrence": 3,
+            "value": "Oelssner, Gottlieb"
+        },
+        {
+            "facet_id": 390697,
+            "occurrence": 3,
+            "value": "Volland, August Gottlieb Jonas"
+        },
+        {
+            "facet_id": 425121,
+            "occurrence": 3,
+            "value": "Ziegler, Johann Andreas (-1771)"
+        },
+        {
+            "facet_id": 479828,
+            "occurrence": 3,
+            "value": "Liebitsch, Rudolph G."
+        },
+        {
+            "facet_id": 488085,
+            "occurrence": 3,
+            "value": "Heinecke, Christian Ernst"
+        },
+        {
+            "facet_id": 521599,
+            "occurrence": 3,
+            "value": "Glaser, Johann Ernst"
+        },
+        {
+            "facet_id": 569785,
+            "occurrence": 3,
+            "value": "Schmid, Zacharias Gottfried (ca. 1728)"
+        },
+        {
+            "facet_id": 617787,
+            "occurrence": 3,
+            "value": "Brebisius, Johann Adam Hartmann"
+        },
+        {
+            "facet_id": 713406,
+            "occurrence": 3,
+            "value": "Trangus, Elias"
+        },
+        {
+            "facet_id": 923857,
+            "occurrence": 3,
+            "value": "Titius, Carl Gottlob"
+        },
+        {
+            "facet_id": 1704,
+            "occurrence": 2,
+            "value": "Schneider"
+        },
+        {
+            "facet_id": 2752,
+            "occurrence": 2,
+            "value": "Beck"
+        },
+        {
+            "facet_id": 4239,
+            "occurrence": 2,
+            "value": "Franck"
+        },
+        {
+            "facet_id": 22094,
+            "occurrence": 2,
+            "value": "Rotth, Johann Philipp"
+        },
+        {
+            "facet_id": 27439,
+            "occurrence": 2,
+            "value": "Alberti, Heinrich Christian"
+        },
+        {
+            "facet_id": 31760,
+            "occurrence": 2,
+            "value": "Göhrs, Johann Christian"
+        },
+        {
+            "facet_id": 54702,
+            "occurrence": 2,
+            "value": "Plaz, Anton Wilhelm (1708-1784)"
+        },
+        {
+            "facet_id": 67275,
+            "occurrence": 2,
+            "value": "Fabricius, Johann C."
+        },
+        {
+            "facet_id": 82979,
+            "occurrence": 2,
+            "value": "Gebauer, Christian Samuel (1716-1764)"
+        },
+        {
+            "facet_id": 89439,
+            "occurrence": 2,
+            "value": "Bodenburg, Johann Andreas"
+        },
+        {
+            "facet_id": 91933,
+            "occurrence": 2,
+            "value": "Cretlau, Anton C."
+        },
+        {
+            "facet_id": 106002,
+            "occurrence": 2,
+            "value": "Stoeller, Johann Augustin"
+        },
+        {
+            "facet_id": 108339,
+            "occurrence": 2,
+            "value": "Csernansky, Samuel"
+        },
+        {
+            "facet_id": 154202,
+            "occurrence": 2,
+            "value": "Mosengel, Heinrich Josua (1700-1737)"
+        },
+        {
+            "facet_id": 157159,
+            "occurrence": 2,
+            "value": "Geisel, Johann Daniel"
+        },
+        {
+            "facet_id": 158266,
+            "occurrence": 2,
+            "value": "Müller, Johann Friedrich"
+        },
+        {
+            "facet_id": 209920,
+            "occurrence": 2,
+            "value": "Petri, Johann G."
+        },
+        {
+            "facet_id": 224056,
+            "occurrence": 2,
+            "value": "Behr, Georg Heinrich (1708-1761)"
+        },
+        {
+            "facet_id": 233791,
+            "occurrence": 2,
+            "value": "Schwab, Ferdinand"
+        },
+        {
+            "facet_id": 242963,
+            "occurrence": 2,
+            "value": "Weltz, Johann Franz"
+        },
+        {
+            "facet_id": 248205,
+            "occurrence": 2,
+            "value": "Friderici, Johann"
+        },
+        {
+            "facet_id": 250861,
+            "occurrence": 2,
+            "value": "Teuber, Johann J."
+        },
+        {
+            "facet_id": 261463,
+            "occurrence": 2,
+            "value": "Daum, Johann Christian"
+        },
+        {
+            "facet_id": 279322,
+            "occurrence": 2,
+            "value": "Arnoldi, Johann Friedrich"
+        },
+        {
+            "facet_id": 296952,
+            "occurrence": 2,
+            "value": "Mann, Christoph David (1715-1787)"
+        },
+        {
+            "facet_id": 307039,
+            "occurrence": 2,
+            "value": "Rausch, Jacob Franz"
+        },
+        {
+            "facet_id": 360385,
+            "occurrence": 2,
+            "value": "Burghardt, Gottlob Ehrenholdt"
+        },
+        {
+            "facet_id": 390357,
+            "occurrence": 2,
+            "value": "Schmid, Johann G."
+        },
+        {
+            "facet_id": 405912,
+            "occurrence": 2,
+            "value": "Petsche, Johann Zacharias"
+        },
+        {
+            "facet_id": 435471,
+            "occurrence": 2,
+            "value": "Hübner, Alexander Johann August"
+        },
+        {
+            "facet_id": 439913,
+            "occurrence": 2,
+            "value": "Thebesius, Daniel Gottlob (1707-1757)"
+        },
+        {
+            "facet_id": 440695,
+            "occurrence": 2,
+            "value": "Richter, Carl G."
+        },
+        {
+            "facet_id": 506577,
+            "occurrence": 2,
+            "value": "Hoffmeyer, Johann J."
+        },
+        {
+            "facet_id": 538578,
+            "occurrence": 2,
+            "value": "Krusch, Carl C."
+        },
+        {
+            "facet_id": 555405,
+            "occurrence": 2,
+            "value": "Haferung, Paul Gottfried"
+        },
+        {
+            "facet_id": 582549,
+            "occurrence": 2,
+            "value": "Leutholf, Leonhard G."
+        },
+        {
+            "facet_id": 582767,
+            "occurrence": 2,
+            "value": "Keysler, Johann Friedrich"
+        },
+        {
+            "facet_id": 598694,
+            "occurrence": 2,
+            "value": "Lüders, Johann N."
+        },
+        {
+            "facet_id": 613736,
+            "occurrence": 2,
+            "value": "Schrimpff, Heinrich Adam"
+        },
+        {
+            "facet_id": 625335,
+            "occurrence": 2,
+            "value": "Wuttge, Sigismund G."
+        },
+        {
+            "facet_id": 625812,
+            "occurrence": 2,
+            "value": "Adami, Johann Daniel"
+        },
+        {
+            "facet_id": 647277,
+            "occurrence": 2,
+            "value": "Hehne, Fabian"
+        },
+        {
+            "facet_id": 708682,
+            "occurrence": 2,
+            "value": "Storch, Karl Ludwig (1705-1757)"
+        },
+        {
+            "facet_id": 782327,
+            "occurrence": 2,
+            "value": "Zuberbühler, Johann J. von"
+        },
+        {
+            "facet_id": 809855,
+            "occurrence": 2,
+            "value": "Dreisovius, Daniel"
+        },
+        {
+            "facet_id": 946120,
+            "occurrence": 2,
+            "value": "Christiani, Benjamin Gottlieb"
+        },
+        {
+            "facet_id": 967803,
+            "occurrence": 2,
+            "value": "Graebner, Gottfried L."
+        },
+        {
+            "facet_id": 1642,
+            "occurrence": 1,
+            "value": "Stantke, Johann Friedrich"
+        },
+        {
+            "facet_id": 4543,
+            "occurrence": 1,
+            "value": "Regenhertz, Adam B."
+        },
+        {
+            "facet_id": 4769,
+            "occurrence": 1,
+            "value": "Steinhäuser, Johann E."
+        },
+        {
+            "facet_id": 7618,
+            "occurrence": 1,
+            "value": "Francke, August Hermann (1663-1727)"
+        },
+        {
+            "facet_id": 8915,
+            "occurrence": 1,
+            "value": "Madai, David Samuel von (1709-1780)"
+        },
+        {
+            "facet_id": 10938,
+            "occurrence": 1,
+            "value": "Huber, Johann C."
+        },
+        {
+            "facet_id": 12388,
+            "occurrence": 1,
+            "value": "Grunert"
+        },
+        {
+            "facet_id": 27438,
+            "occurrence": 1,
+            "value": "J. G. F."
+        },
+        {
+            "facet_id": 27440,
+            "occurrence": 1,
+            "value": "Findeisen, Johann Christoph"
+        },
+        {
+            "facet_id": 27441,
+            "occurrence": 1,
+            "value": "Hoffmann, Arnold Otto"
+        },
+        {
+            "facet_id": 60192,
+            "occurrence": 1,
+            "value": "Centner, Johann"
+        },
+        {
+            "facet_id": 71637,
+            "occurrence": 1,
+            "value": "Hentschel, Johann Gottlob"
+        },
+        {
+            "facet_id": 87430,
+            "occurrence": 1,
+            "value": "Sommer, Gottlob I."
+        },
+        {
+            "facet_id": 106782,
+            "occurrence": 1,
+            "value": "Hase, Johann A."
+        },
+        {
+            "facet_id": 109048,
+            "occurrence": 1,
+            "value": "Fulde"
+        },
+        {
+            "facet_id": 123840,
+            "occurrence": 1,
+            "value": "Süssenbach, Christoph"
+        },
+        {
+            "facet_id": 141162,
+            "occurrence": 1,
+            "value": "Wendt, Georg Gottfried"
+        },
+        {
+            "facet_id": 141164,
+            "occurrence": 1,
+            "value": "Rennewald, Heinrich Conrad"
+        },
+        {
+            "facet_id": 169152,
+            "occurrence": 1,
+            "value": "Hohorst, Johann Ehrenfried (ca. 1728)"
+        },
+        {
+            "facet_id": 180226,
+            "occurrence": 1,
+            "value": "Hilscher, Johann S."
+        },
+        {
+            "facet_id": 181252,
+            "occurrence": 1,
+            "value": "Zimmermann, Johann C."
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_facet_id": 1416,
+    "affiliate_facet": "(Gefürstete) Grafschaft Sigmaringen bzw. Fürstentum Hohenzollern-Sigmaringen",
+    "occurrence": 658,
+    "affiliates": [
+        {
+            "facet_id": 1416,
+            "occurrence": 680,
+            "value": "Universitätsmuseum für Kunst und Kulturgeschichte (Marburg)"
+        },
+        {
+            "facet_id": 2452,
+            "occurrence": 13,
+            "value": "Tischbein, Johann Heinrich (der Ältere)"
+        },
+        {
+            "facet_id": 12783,
+            "occurrence": 12,
+            "value": "Meißener Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 35751,
+            "occurrence": 12,
+            "value": "Käppler, Burckhard"
+        },
+        {
+            "facet_id": 55749,
+            "occurrence": 11,
+            "value": "Müntz, Johann Heinrich"
+        },
+        {
+            "facet_id": 193399,
+            "occurrence": 9,
+            "value": "Manufaktur Hanau"
+        },
+        {
+            "facet_id": 216323,
+            "occurrence": 9,
+            "value": "Manufaktur Kassel"
+        },
+        {
+            "facet_id": 469018,
+            "occurrence": 6,
+            "value": "Hergenröder, Georg Heinrich"
+        },
+        {
+            "facet_id": 64780,
+            "occurrence": 5,
+            "value": "Ordmüller, Johann Debus"
+        },
+        {
+            "facet_id": 433033,
+            "occurrence": 5,
+            "value": "Hillebrecht, Friedrich Christian"
+        },
+        {
+            "facet_id": 35965,
+            "occurrence": 4,
+            "value": "Fayencemanufaktur Hannoversch-Münden"
+        },
+        {
+            "facet_id": 176141,
+            "occurrence": 4,
+            "value": "Manufaktur Fulda"
+        },
+        {
+            "facet_id": 697236,
+            "occurrence": 4,
+            "value": "Tischbein, Johann Heinrich (der Jüngere)"
+        },
+        {
+            "facet_id": 27787,
+            "occurrence": 3,
+            "value": "Ludwigsburger Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 30463,
+            "occurrence": 3,
+            "value": "Höchster Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 57551,
+            "occurrence": 3,
+            "value": "Soldan, Philipp"
+        },
+        {
+            "facet_id": 277211,
+            "occurrence": 3,
+            "value": "Erfurter Fayencemanufaktur"
+        },
+        {
+            "facet_id": 344480,
+            "occurrence": 3,
+            "value": "Fuldaer Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 440771,
+            "occurrence": 3,
+            "value": "Closter, Gerd Philipp von"
+        },
+        {
+            "facet_id": 464260,
+            "occurrence": 3,
+            "value": "Kelsterbacher Fayencemanufaktur"
+        },
+        {
+            "facet_id": 561530,
+            "occurrence": 3,
+            "value": "Hanauer Fayencemanufaktur"
+        },
+        {
+            "facet_id": 562327,
+            "occurrence": 3,
+            "value": "Keppler, Valentin"
+        },
+        {
+            "facet_id": 707310,
+            "occurrence": 3,
+            "value": "Porzellanmanufaktur Frankenthal"
+        },
+        {
+            "facet_id": 842737,
+            "occurrence": 3,
+            "value": "Leclerc, Isaac"
+        },
+        {
+            "facet_id": 10082,
+            "occurrence": 2,
+            "value": "Kördell, Adam Johannes"
+        },
+        {
+            "facet_id": 15110,
+            "occurrence": 2,
+            "value": "Geßner, Salomon"
+        },
+        {
+            "facet_id": 15209,
+            "occurrence": 2,
+            "value": "Chodowiecki, Daniel Nikolaus"
+        },
+        {
+            "facet_id": 28620,
+            "occurrence": 2,
+            "value": "Kändler, Johann Joachim"
+        },
+        {
+            "facet_id": 33225,
+            "occurrence": 2,
+            "value": "Werner, Johannes"
+        },
+        {
+            "facet_id": 115151,
+            "occurrence": 2,
+            "value": "Kleemann, Johann Jakob"
+        },
+        {
+            "facet_id": 128940,
+            "occurrence": 2,
+            "value": "Königliche Porzellanmanufaktur Berlin"
+        },
+        {
+            "facet_id": 226771,
+            "occurrence": 2,
+            "value": "Keppler, Borckhart"
+        },
+        {
+            "facet_id": 327199,
+            "occurrence": 2,
+            "value": "Reinhold, Johann Friedrich Leberecht"
+        },
+        {
+            "facet_id": 376195,
+            "occurrence": 2,
+            "value": "Reinermann, Friedrich Christian"
+        },
+        {
+            "facet_id": 433034,
+            "occurrence": 2,
+            "value": "Steitzsche Steingutfabrik Kassel"
+        },
+        {
+            "facet_id": 562175,
+            "occurrence": 2,
+            "value": "Beck, Tobias Gabriel"
+        },
+        {
+            "facet_id": 735882,
+            "occurrence": 2,
+            "value": "Fuldaer Fayencemanufaktur"
+        },
+        {
+            "facet_id": 782066,
+            "occurrence": 2,
+            "value": "Manufaktur Wedgwood"
+        },
+        {
+            "facet_id": 15307,
+            "occurrence": 1,
+            "value": "Schmidt, Johann Gottfried"
+        },
+        {
+            "facet_id": 19792,
+            "occurrence": 1,
+            "value": "Porzellanmanufaktur Sèvres"
+        },
+        {
+            "facet_id": 25894,
+            "occurrence": 1,
+            "value": "Lisiewska, Anna Rosina von"
+        },
+        {
+            "facet_id": 26087,
+            "occurrence": 1,
+            "value": "Frankenthaler Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 33001,
+            "occurrence": 1,
+            "value": "Dou, Gerrit"
+        },
+        {
+            "facet_id": 33170,
+            "occurrence": 1,
+            "value": "Meyer, Friedrich Elias (der Ältere)"
+        },
+        {
+            "facet_id": 42020,
+            "occurrence": 1,
+            "value": "Schleuen, Johann David (der Ältere)"
+        },
+        {
+            "facet_id": 49264,
+            "occurrence": 1,
+            "value": "Caffe, Daniel"
+        },
+        {
+            "facet_id": 61878,
+            "occurrence": 1,
+            "value": "Derck, Johann Melchior"
+        },
+        {
+            "facet_id": 68084,
+            "occurrence": 1,
+            "value": "Jäger, Georg Benedict"
+        },
+        {
+            "facet_id": 75197,
+            "occurrence": 1,
+            "value": "Hach, Ludwig"
+        },
+        {
+            "facet_id": 101655,
+            "occurrence": 1,
+            "value": "Sommer, Johann Friedrich (1705)"
+        },
+        {
+            "facet_id": 142073,
+            "occurrence": 1,
+            "value": "Mayr, Wolfgang Christoph"
+        },
+        {
+            "facet_id": 156570,
+            "occurrence": 1,
+            "value": "Ridinger, Martin Elias"
+        },
+        {
+            "facet_id": 162305,
+            "occurrence": 1,
+            "value": "Vogel, Friedrich Carl"
+        },
+        {
+            "facet_id": 171728,
+            "occurrence": 1,
+            "value": "Manufaktur Höchst"
+        },
+        {
+            "facet_id": 173878,
+            "occurrence": 1,
+            "value": "Fayencefabrik Zerbst"
+        },
+        {
+            "facet_id": 191087,
+            "occurrence": 1,
+            "value": "Bollinger, Friedrich Wilhelm"
+        },
+        {
+            "facet_id": 192282,
+            "occurrence": 1,
+            "value": "Bach, Johann Georg"
+        },
+        {
+            "facet_id": 228013,
+            "occurrence": 1,
+            "value": "Seiller, Johann Georg"
+        },
+        {
+            "facet_id": 243595,
+            "occurrence": 1,
+            "value": "Manufaktur Kelsterbach"
+        },
+        {
+            "facet_id": 251551,
+            "occurrence": 1,
+            "value": "Keßler, Johann Martin Benjamin"
+        },
+        {
+            "facet_id": 325407,
+            "occurrence": 1,
+            "value": "Dietmar, Johann Wilhelm"
+        },
+        {
+            "facet_id": 333541,
+            "occurrence": 1,
+            "value": "Strecker, Johann Ludwig"
+        },
+        {
+            "facet_id": 339938,
+            "occurrence": 1,
+            "value": "Böttner, Wilhelm"
+        },
+        {
+            "facet_id": 367499,
+            "occurrence": 1,
+            "value": "Eisenträger, Johann Heinrich"
+        },
+        {
+            "facet_id": 379442,
+            "occurrence": 1,
+            "value": "Bayreuther Fayencemanufaktur"
+        },
+        {
+            "facet_id": 383048,
+            "occurrence": 1,
+            "value": "Ansbacher Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 391124,
+            "occurrence": 1,
+            "value": "Offenbacher Fayencemanufaktur"
+        },
+        {
+            "facet_id": 413310,
+            "occurrence": 1,
+            "value": "Manufaktur Flörsheim"
+        },
+        {
+            "facet_id": 420341,
+            "occurrence": 1,
+            "value": "Fayencemanufaktur Dorotheenthal"
+        },
+        {
+            "facet_id": 430415,
+            "occurrence": 1,
+            "value": "Henschel, Johann Jacob"
+        },
+        {
+            "facet_id": 430643,
+            "occurrence": 1,
+            "value": "Porzellanmanufaktur Kassel"
+        },
+        {
+            "facet_id": 524332,
+            "occurrence": 1,
+            "value": "Schott, Philipp Jacob"
+        },
+        {
+            "facet_id": 533639,
+            "occurrence": 1,
+            "value": "Hauschka, Johann Sebastian"
+        },
+        {
+            "facet_id": 569258,
+            "occurrence": 1,
+            "value": "Magdeburger Fayencemanufaktur"
+        },
+        {
+            "facet_id": 592428,
+            "occurrence": 1,
+            "value": "Hofmann, Johann Heinrich"
+        },
+        {
+            "facet_id": 625073,
+            "occurrence": 1,
+            "value": "Hütte Rommershausen"
+        },
+        {
+            "facet_id": 627994,
+            "occurrence": 1,
+            "value": "Gundlach, Johannes"
+        },
+        {
+            "facet_id": 627995,
+            "occurrence": 1,
+            "value": "Halle, S."
+        },
+        {
+            "facet_id": 645400,
+            "occurrence": 1,
+            "value": "Baucaire, Pierre (senior)"
+        },
+        {
+            "facet_id": 663633,
+            "occurrence": 1,
+            "value": "Lauer, Johann Caspar"
+        },
+        {
+            "facet_id": 683298,
+            "occurrence": 1,
+            "value": "Höfling, Bernhard"
+        },
+        {
+            "facet_id": 740221,
+            "occurrence": 1,
+            "value": "Robba, Francesco"
+        },
+        {
+            "facet_id": 755879,
+            "occurrence": 1,
+            "value": "Fayencemanufaktur De Porceleyne Claeuw"
+        },
+        {
+            "facet_id": 767656,
+            "occurrence": 1,
+            "value": "Beaucaire, Pierre (der Ältere)"
+        },
+        {
+            "facet_id": 770703,
+            "occurrence": 1,
+            "value": "Hagenauer Fayencemanufaktur"
+        },
+        {
+            "facet_id": 770704,
+            "occurrence": 1,
+            "value": "Mittmann, Johann Nicolaus"
+        },
+        {
+            "facet_id": 786460,
+            "occurrence": 1,
+            "value": "Nürnberger Fayencemanufaktur"
+        },
+        {
+            "facet_id": 788895,
+            "occurrence": 1,
+            "value": "Steitzsche Vasenfabrik"
+        },
+        {
+            "facet_id": 796719,
+            "occurrence": 1,
+            "value": "Huber, Johann Rudolf (1668)"
+        },
+        {
+            "facet_id": 834400,
+            "occurrence": 1,
+            "value": "Engelschall, Joseph Friedrich"
+        },
+        {
+            "facet_id": 857793,
+            "occurrence": 1,
+            "value": "Schlesinger, Adam Johann"
+        },
+        {
+            "facet_id": 869586,
+            "occurrence": 1,
+            "value": "Blat, Johann"
+        },
+        {
+            "facet_id": 884622,
+            "occurrence": 1,
+            "value": "Reuling, Johann Nicolaus"
+        },
+        {
+            "facet_id": 967571,
+            "occurrence": 1,
+            "value": "Manufaktur Proskau"
+        },
+        {
+            "facet_id": 985385,
+            "occurrence": 1,
+            "value": "Hartmann, Johann Adam"
+        },
+        {
+            "facet_id": 1046254,
+            "occurrence": 1,
+            "value": "Steitz'sche Steingutfabrik, Kassel"
+        },
+        {
+            "facet_id": 1053641,
+            "occurrence": 1,
+            "value": "Ansbacher Fayencemanufaktur"
+        },
+        {
+            "facet_id": 1070807,
+            "occurrence": 1,
+            "value": "Wedekind, Wilhelm Christian"
+        },
+        {
+            "facet_id": 1070808,
+            "occurrence": 1,
+            "value": "Reinhardt, Andreas (der Jüngere)"
+        },
+        {
+            "facet_id": 1098767,
+            "occurrence": 1,
+            "value": "Benteli, Ludwig Rudolf"
+        }
+    ]
+}

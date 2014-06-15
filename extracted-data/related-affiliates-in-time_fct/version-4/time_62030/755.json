@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 29,
+    "time_fct": "time_62030",
+    "affiliate_fct_id": 755,
+    "affiliate_fct": "Technoseum",
+    "affiliate_fct_occurrence": 1098,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 755,
+            "affiliate_fct": "Technoseum",
+            "affiliate_fct_occurrence": 1098
+        },
+        {
+            "affiliate_fct_id": 12654,
+            "affiliate_fct": "Osram-Konzern &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 53
+        },
+        {
+            "affiliate_fct_id": 79191,
+            "affiliate_fct": "Aetz- und Emaillierwerk C. Robert Dold &lt;Offenburg&gt;",
+            "affiliate_fct_occurrence": 40
+        },
+        {
+            "affiliate_fct_id": 9651,
+            "affiliate_fct": "Boos und Hahn Emaillier- und Stanzwerk &lt;Ortenberg, Offenburg&gt;",
+            "affiliate_fct_occurrence": 36
+        },
+        {
+            "affiliate_fct_id": 4962,
+            "affiliate_fct": "Albert Nestler AG &lt;Lahr&gt;",
+            "affiliate_fct_occurrence": 32
+        },
+        {
+            "affiliate_fct_id": 18896,
+            "affiliate_fct": "unbekannt",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 7942,
+            "affiliate_fct": "Maschinenfabrik &lt;Esslingen&gt;",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 10180,
+            "affiliate_fct": "Henschel und Sohn &lt;Kassel&gt;",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 5500,
+            "affiliate_fct": "Felle, Eugen",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 18195,
+            "affiliate_fct": "Verkehrszentralamt &lt;Darmstadt&gt;",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 78156,
+            "affiliate_fct": "Bergmann-Elektricitätswerke &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 47742,
+            "affiliate_fct": "J. A. Maffei &lt;München&gt;",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 37207,
+            "affiliate_fct": "Verlag Johannes Leonhardt &lt;Dresden&gt;",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 154192,
+            "affiliate_fct": "Auergesellschaft/Osram-Werke",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 9251,
+            "affiliate_fct": "Hannoversche Maschinenbau-Aktien-Gesellschaft, Vormals Georg Egestorff",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 84674,
+            "affiliate_fct": "Allgemeine Elektricitäts-Gesellschaft &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 51774,
+            "affiliate_fct": "Siemens-und-Halske-Aktiengesellschaft &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 110072,
+            "affiliate_fct": "Maschinenbaugesellschaft &lt;Karlsruhe&gt;",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 201143,
+            "affiliate_fct": "G. A. Krauss KG &lt;Stuttgart&gt;",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 30498,
+            "affiliate_fct": "Zeiss-Ikon-AG &lt;Dresden&gt;",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 18196,
+            "affiliate_fct": "Berliner Maschinenbau-Aktiengesellschaft, Vormals Louis Schwartzkopff",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 36053,
+            "affiliate_fct": "Julius-Pintsch-Aktiengesellschaft &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 492424,
+            "affiliate_fct": "Auergesellschaft AG &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 6448,
+            "affiliate_fct": "Frankfurter Emaillier-Werke &lt;Neu-Isenburg&gt;",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 88313,
+            "affiliate_fct": "Württembergische Uhrenfabrik Bürk Söhne &lt;Schwenningen am Neckar&gt;",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 43167,
+            "affiliate_fct": "Frankfurter Emaillierwerke Otto Leroi GmbH &lt;Frankfurt, Main&gt;",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 82287,
+            "affiliate_fct": "E. Krauss &lt;Paris&gt;",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 167910,
+            "affiliate_fct": "Nürnberg-Schwabacher Nadelfabrik GmbH &lt;Nürnberg&gt;",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 215490,
+            "affiliate_fct": "Eigenbau",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 419409,
+            "affiliate_fct": "Württembergische Radiogesellschaft mbH &lt;Stuttgart&gt;",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 6842,
+            "affiliate_fct": "Heinrich Lanz AG &lt;Mannheim&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 28291,
+            "affiliate_fct": "Siemens-Schuckertwerke &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 57509,
+            "affiliate_fct": "Maschinenfabrik von Richard Hartmann &lt;Chemnitz&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 73124,
+            "affiliate_fct": "A. Borsig GmbH &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 195469,
+            "affiliate_fct": "Borsig-GmbH &lt;Berlin, West&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 215112,
+            "affiliate_fct": "Friedr. Krupp &lt;Essen&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 259625,
+            "affiliate_fct": "C. Wossidlo &amp; Co. Hamburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 263728,
+            "affiliate_fct": "Telefunken-Gesellschaft für Drahtlose Telegraphie m.b.H. &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 268367,
+            "affiliate_fct": "Hanomag GmbH &lt;Hannover&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 351943,
+            "affiliate_fct": "Münchner Emaillier- und Stanzwerk GmbH, München",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 404272,
+            "affiliate_fct": "Schlenker-Grusen, J., Uhren- und Apparatefabrik (Isgus) &lt;Schwenningen am Neckar&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 555772,
+            "affiliate_fct": "Leinbrock",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 732579,
+            "affiliate_fct": "Felix Krokert &amp; Co. &lt;Halle, Saale&gt;",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 1268,
+            "affiliate_fct": "Felix-Wankel-Stiftung &lt;Heidelberg&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 5501,
+            "affiliate_fct": "Kunstverlag Eugen Felle &lt;Isny&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 137880,
+            "affiliate_fct": "Krone-Mühlen- u. Gerätebau Schuchardt &amp; Beckmann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 139768,
+            "affiliate_fct": "Brown, Boveri und Cie. &lt;Mannheim&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 153029,
+            "affiliate_fct": "Anton Meyer - Stuttgarter Wächter-Control-Uhren-Fabrik",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 205989,
+            "affiliate_fct": "Deutsche Grammophon-Aktiengesellschaft &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 215113,
+            "affiliate_fct": "Windhager &lt;München&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 223087,
+            "affiliate_fct": "Deutsche Studentenschaft / Verkehrszentralamt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 244930,
+            "affiliate_fct": "Verlag K. Christl &lt;Aulendorf&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 253824,
+            "affiliate_fct": "Henkel und Cie. &lt;Düsseldorf&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 254908,
+            "affiliate_fct": "F. Schichau, Elbing",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 255906,
+            "affiliate_fct": "Kaffee Hag",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 312355,
+            "affiliate_fct": "Krauss &amp; Cie &lt;Paris&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 366107,
+            "affiliate_fct": "Union-Werke AG, Radebeul-Dresden",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 373658,
+            "affiliate_fct": "Emaillierwerk Schulze &amp; Wehrmann &lt;Wuppertal&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 429807,
+            "affiliate_fct": "Daimler-Benz-Aktiengesellschaft &lt;Stuttgart&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 439308,
+            "affiliate_fct": "Pilo-Fabrik Adolf Krebs",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 522158,
+            "affiliate_fct": "Krauss und Comp. &lt;München&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 605824,
+            "affiliate_fct": "Emaillier-Werk Hans Fink &lt;München-Pasing&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 617904,
+            "affiliate_fct": "Auergesellschaft AG &lt;Berlin&gt;; Auergesellschaft/Osram-Werke",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 708723,
+            "affiliate_fct": "Tungsram GmbH &lt;Frankfurt, Main&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 791573,
+            "affiliate_fct": "Rhenania-Ossag-Mineralölwerke &lt;Düsseldorf&gt;; Rhenania-Ossag-Mineralölwerke &lt;Hamburg&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 15362,
+            "affiliate_fct": "Voigtländer-Aktiengesellschaft &lt;Braunschweig&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 18130,
+            "affiliate_fct": "Sunlicht Gesellschaft A.G.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28823,
+            "affiliate_fct": "Eugen Bauer GmbH &lt;Stuttgart&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 36849,
+            "affiliate_fct": "Aetz- und Emaillierwerk C. Robert Dold &lt;Offenburg&gt;;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 50012,
+            "affiliate_fct": "Julius Maggi GmbH",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 57188,
+            "affiliate_fct": "Carbofil",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62690,
+            "affiliate_fct": "Blaupunkt-Werke GmbH &lt;Hildesheim&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 75719,
+            "affiliate_fct": "Osram",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 75826,
+            "affiliate_fct": "Hutschenreuther-Aktiengesellschaft &lt;Selb&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 84044,
+            "affiliate_fct": "Rückle &amp; Melber &lt;Eßlingen&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 97363,
+            "affiliate_fct": "Wiener Lokomotivfabrik Floridsdorf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 120306,
+            "affiliate_fct": "Medici Haus AG - Aesculap &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 123283,
+            "affiliate_fct": "NSU-Motorenwerke &lt;Neckarsulm&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 129361,
+            "affiliate_fct": "Eichbaum-Brauereien &lt;Mannheim&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 153912,
+            "affiliate_fct": "Radium",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 179967,
+            "affiliate_fct": "Hotel Maria Laach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 185683,
+            "affiliate_fct": "J. Windhager &lt;München&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 187214,
+            "affiliate_fct": "International Time Recording Co. (ITR) &lt;Binghamton, NY&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 213575,
+            "affiliate_fct": "IG-Farbenindustrie-AG Agfa &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 218385,
+            "affiliate_fct": "Siemens-und-Halske-Aktiengesellschaft &lt;Berlin, West; München&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 222317,
+            "affiliate_fct": "Elektrische Glühlampenfabrik \"Watt\" AG &lt;Wien&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 289999,
+            "affiliate_fct": "Tungsram-AG &lt;Budapest&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 312533,
+            "affiliate_fct": "Blechwarenfabrik &lt;Limburg, Lahn&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 313850,
+            "affiliate_fct": "Karl Bub &lt;Nürnberg&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 419734,
+            "affiliate_fct": "Emaillierwerk Haselbacher &amp; Co. &lt;Hannover&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 457521,
+            "affiliate_fct": "Fabr. O. Bengtson &lt;Berlin&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 458262,
+            "affiliate_fct": "BERU-Verkaufs-Gesellschaft Ruprecht &lt;Ludwigsburg&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 469492,
+            "affiliate_fct": "Solo-Schuhpflegemittel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 469493,
+            "affiliate_fct": "Emaillierwerk Hölzl &lt;Wien&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 475227,
+            "affiliate_fct": "Pope",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 500866,
+            "affiliate_fct": "Eco Magneto Clock Co &lt;Boston, Mass.&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 522734,
+            "affiliate_fct": "Maschinenbauanstalt Humboldt, Kalk",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 540717,
+            "affiliate_fct": "Hohenzollern Aktiengesellschaft für Lokomotivbau &lt;Düsseldorf&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 568535,
+            "affiliate_fct": "Ludwig-Hupfeld-Aktiengesellschaft &lt;Böhlitz-Ehrenberg&gt;",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 600407,
+            "affiliate_fct": "Richard Henning &amp; Co. &lt;Frankfurt am Main&gt;",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

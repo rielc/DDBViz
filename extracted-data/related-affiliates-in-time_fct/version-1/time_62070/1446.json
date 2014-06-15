@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 11,
+    "time_fct": "time_62070",
+    "affiliate_facet_id": 1446,
+    "affiliate_facet": "Domänenkanzlei",
+    "occurrence": 225,
+    "affiliates": [
+        {
+            "facet_id": 1446,
+            "occurrence": 231,
+            "value": "Forstamt Mosbach"
+        },
+        {
+            "facet_id": 33069,
+            "occurrence": 2,
+            "value": "keine Angaben"
+        },
+        {
+            "facet_id": 256418,
+            "occurrence": 2,
+            "value": "Steegmayer"
+        },
+        {
+            "facet_id": 264601,
+            "occurrence": 1,
+            "value": "Reister"
+        },
+        {
+            "facet_id": 618769,
+            "occurrence": 1,
+            "value": "Steegmayer und Trunk"
+        }
+    ]
+}

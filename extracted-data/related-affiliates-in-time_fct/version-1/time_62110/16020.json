@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 14,
+    "time_fct": "time_62110",
+    "affiliate_facet_id": 16020,
+    "affiliate_facet": "Bibliothek der Tierärztlichen Hochschule Hannover",
+    "occurrence": 199,
+    "affiliates": [
+        {
+            "facet_id": 16020,
+            "occurrence": 256,
+            "value": "[Univ.-Bibliothek]"
+        },
+        {
+            "facet_id": 31828,
+            "occurrence": 16,
+            "value": "Kurz, Sascha"
+        },
+        {
+            "facet_id": 25904,
+            "occurrence": 11,
+            "value": "Bellers, Jürgen (1951-)"
+        },
+        {
+            "facet_id": 156105,
+            "occurrence": 11,
+            "value": "Eymann, Torsten"
+        },
+        {
+            "facet_id": 216592,
+            "occurrence": 5,
+            "value": "Reinicke, Michael"
+        },
+        {
+            "facet_id": 59909,
+            "occurrence": 4,
+            "value": "Suchodoletz, Hans von (1975-)"
+        },
+        {
+            "facet_id": 216591,
+            "occurrence": 4,
+            "value": "Streitberger, Werner"
+        },
+        {
+            "facet_id": 233366,
+            "occurrence": 4,
+            "value": "Universität Kassel"
+        },
+        {
+            "facet_id": 318666,
+            "occurrence": 4,
+            "value": "Universität Bamberg <1979 -> / Fakultät Wirtschaftsinformatik und Angewandte Informatik"
+        },
+        {
+            "facet_id": 31829,
+            "occurrence": 3,
+            "value": "Rambau, Jörg (1966-)"
+        },
+        {
+            "facet_id": 59911,
+            "occurrence": 3,
+            "value": "Faust, Dominik"
+        },
+        {
+            "facet_id": 84984,
+            "occurrence": 3,
+            "value": "Loesing, Karsten"
+        },
+        {
+            "facet_id": 151487,
+            "occurrence": 3,
+            "value": "Kohnert, Axel"
+        },
+        {
+            "facet_id": 174311,
+            "occurrence": 3,
+            "value": "Zöller, Ludwig (1953-)"
+        },
+        {
+            "facet_id": 192437,
+            "occurrence": 3,
+            "value": "Schwimbersky, Sandra"
+        },
+        {
+            "facet_id": 216593,
+            "occurrence": 3,
+            "value": "Freitag, Felix"
+        },
+        {
+            "facet_id": 216594,
+            "occurrence": 3,
+            "value": "Chacin, Pablo"
+        },
+        {
+            "facet_id": 216595,
+            "occurrence": 3,
+            "value": "Chao, Isaac"
+        },
+        {
+            "facet_id": 216596,
+            "occurrence": 3,
+            "value": "Schnizler, Björn"
+        },
+        {
+            "facet_id": 398281,
+            "occurrence": 3,
+            "value": "Universitätsbibliothek Bamberg"
+        },
+        {
+            "facet_id": 422244,
+            "occurrence": 3,
+            "value": "König, Stefan (1981-)"
+        },
+        {
+            "facet_id": 611696,
+            "occurrence": 3,
+            "value": "Henrich, Károly"
+        },
+        {
+            "facet_id": 28898,
+            "occurrence": 2,
+            "value": "Kassel Univ. Press"
+        },
+        {
+            "facet_id": 59915,
+            "occurrence": 2,
+            "value": "Zöller, Ludwig"
+        },
+        {
+            "facet_id": 62052,
+            "occurrence": 2,
+            "value": "Zentrale Studienberatungsstelle"
+        },
+        {
+            "facet_id": 69171,
+            "occurrence": 2,
+            "value": "Simader, Christian G. (1943-)"
+        },
+        {
+            "facet_id": 156104,
+            "occurrence": 2,
+            "value": "Streitberger, Werner (1977-)"
+        },
+        {
+            "facet_id": 174314,
+            "occurrence": 2,
+            "value": "Hambach, Ulrich"
+        },
+        {
+            "facet_id": 216597,
+            "occurrence": 2,
+            "value": "Veit, Daniel"
+        },
+        {
+            "facet_id": 235797,
+            "occurrence": 2,
+            "value": "Meyfarth, Thorsten (1971-)"
+        },
+        {
+            "facet_id": 235972,
+            "occurrence": 2,
+            "value": "Neumann, Dirk"
+        },
+        {
+            "facet_id": 282170,
+            "occurrence": 2,
+            "value": "Derlien, Hans-Ulrich (1945-2010)"
+        },
+        {
+            "facet_id": 282171,
+            "occurrence": 2,
+            "value": "Frank, Stefan"
+        },
+        {
+            "facet_id": 282172,
+            "occurrence": 2,
+            "value": "Universität Bamberg / Lehrstuhl für Verwaltungswissenschaft"
+        },
+        {
+            "facet_id": 304858,
+            "occurrence": 2,
+            "value": "Kiermaier, Michael"
+        },
+        {
+            "facet_id": 318665,
+            "occurrence": 2,
+            "value": "Wirtz, Guido"
+        },
+        {
+            "facet_id": 323987,
+            "occurrence": 2,
+            "value": "Zini, Floriano (1969-)"
+        },
+        {
+            "facet_id": 323988,
+            "occurrence": 2,
+            "value": "Giulioni, Gianfranco"
+        },
+        {
+            "facet_id": 398280,
+            "occurrence": 2,
+            "value": "Steck, Eva-Christina"
+        },
+        {
+            "facet_id": 422245,
+            "occurrence": 2,
+            "value": "Matros, Raimund (1978-)"
+        },
+        {
+            "facet_id": 489845,
+            "occurrence": 2,
+            "value": "Wassermann, Alfred (1963-)"
+        },
+        {
+            "facet_id": 562305,
+            "occurrence": 2,
+            "value": "Hahne, Ulf (1956-)"
+        },
+        {
+            "facet_id": 620135,
+            "occurrence": 2,
+            "value": "Meyer, Harald"
+        },
+        {
+            "facet_id": 640897,
+            "occurrence": 2,
+            "value": "Balke, Tina"
+        },
+        {
+            "facet_id": 672782,
+            "occurrence": 2,
+            "value": "Universität Kassel / Fachbereich Architektur, Stadtplanung, Landschaftsplanung"
+        },
+        {
+            "facet_id": 678489,
+            "occurrence": 2,
+            "value": "Kaffille, Sven"
+        },
+        {
+            "facet_id": 983266,
+            "occurrence": 2,
+            "value": "Wassner, Christoph"
+        },
+        {
+            "facet_id": 5167,
+            "occurrence": 1,
+            "value": "Univ."
+        },
+        {
+            "facet_id": 7944,
+            "occurrence": 1,
+            "value": "Henrich, Dominik (1965-)"
+        },
+        {
+            "facet_id": 16019,
+            "occurrence": 1,
+            "value": "DLR, Bibliotheks- und Informationswesen"
+        },
+        {
+            "facet_id": 16021,
+            "occurrence": 1,
+            "value": "Mock, Peter (1981-)"
+        },
+        {
+            "facet_id": 40572,
+            "occurrence": 1,
+            "value": "Wickles, Christian"
+        },
+        {
+            "facet_id": 46271,
+            "occurrence": 1,
+            "value": "Holtz, Benjamin"
+        },
+        {
+            "facet_id": 47430,
+            "occurrence": 1,
+            "value": "Schwarz, Cornelius"
+        },
+        {
+            "facet_id": 59910,
+            "occurrence": 1,
+            "value": "Oberhänsli, Hedi"
+        },
+        {
+            "facet_id": 59912,
+            "occurrence": 1,
+            "value": "Fuchs, Markus"
+        },
+        {
+            "facet_id": 59913,
+            "occurrence": 1,
+            "value": "Blanchet, Cécile"
+        },
+        {
+            "facet_id": 59914,
+            "occurrence": 1,
+            "value": "Goldhammer, Tobias"
+        },
+        {
+            "facet_id": 62312,
+            "occurrence": 1,
+            "value": "Jung, Carl Christoph (1969-)"
+        },
+        {
+            "facet_id": 67059,
+            "occurrence": 1,
+            "value": "Siegert, Nadine"
+        },
+        {
+            "facet_id": 68619,
+            "occurrence": 1,
+            "value": "Hasenfuß, Alexander"
+        },
+        {
+            "facet_id": 76239,
+            "occurrence": 1,
+            "value": "Ponchio, Federico"
+        },
+        {
+            "facet_id": 77595,
+            "occurrence": 1,
+            "value": "Foken, Thomas"
+        },
+        {
+            "facet_id": 81708,
+            "occurrence": 1,
+            "value": "Berg, Detlef (1943-)"
+        },
+        {
+            "facet_id": 81709,
+            "occurrence": 1,
+            "value": "Tisdale, Tim"
+        },
+        {
+            "facet_id": 81710,
+            "occurrence": 1,
+            "value": "Universität Bamberg / Professur für Psychologie mit schulpsychologischem Schwerpunkt"
+        },
+        {
+            "facet_id": 95586,
+            "occurrence": 1,
+            "value": "Forst, Christian"
+        },
+        {
+            "facet_id": 99884,
+            "occurrence": 1,
+            "value": "Schulz, Frank"
+        },
+        {
+            "facet_id": 104965,
+            "occurrence": 1,
+            "value": "Eickels, Christine van"
+        },
+        {
+            "facet_id": 104966,
+            "occurrence": 1,
+            "value": "Eickels, Klaus van"
+        },
+        {
+            "facet_id": 104967,
+            "occurrence": 1,
+            "value": "Schneidmüller, Bernd"
+        },
+        {
+            "facet_id": 104968,
+            "occurrence": 1,
+            "value": "Zentrum für Mittelalterstudien <Bamberg>"
+        },
+        {
+            "facet_id": 111170,
+            "occurrence": 1,
+            "value": "Koch, Matthias"
+        },
+        {
+            "facet_id": 120237,
+            "occurrence": 1,
+            "value": "Drechsler, Andreas"
+        },
+        {
+            "facet_id": 120238,
+            "occurrence": 1,
+            "value": "Universität Bamberg <1979 ->"
+        },
+        {
+            "facet_id": 120582,
+            "occurrence": 1,
+            "value": "Hellstern, Gerd-Michael (1947-)"
+        },
+        {
+            "facet_id": 120583,
+            "occurrence": 1,
+            "value": "Oehmcke, Nora"
+        },
+        {
+            "facet_id": 120584,
+            "occurrence": 1,
+            "value": "Universität Kassel, Lehrstuhl für Verwaltungsökonomie und -Management"
+        },
+        {
+            "facet_id": 120585,
+            "occurrence": 1,
+            "value": "Documenta <9, 1992 - 12, 2007>"
+        },
+        {
+            "facet_id": 123569,
+            "occurrence": 1,
+            "value": "Schmid, Josef"
+        },
+        {
+            "facet_id": 125018,
+            "occurrence": 1,
+            "value": "Ludwig, Peter H. (1957-)"
+        },
+        {
+            "facet_id": 136973,
+            "occurrence": 1,
+            "value": "Gier, Nico"
+        },
+        {
+            "facet_id": 145398,
+            "occurrence": 1,
+            "value": "Universität Siegen"
+        },
+        {
+            "facet_id": 146363,
+            "occurrence": 1,
+            "value": "Plentz, Samuel"
+        },
+        {
+            "facet_id": 153338,
+            "occurrence": 1,
+            "value": "Ohme, Sebastian"
+        },
+        {
+            "facet_id": 154497,
+            "occurrence": 1,
+            "value": "Schneider, Frank"
+        },
+        {
+            "facet_id": 155910,
+            "occurrence": 1,
+            "value": "Probst, Peter"
+        },
+        {
+            "facet_id": 160183,
+            "occurrence": 1,
+            "value": "Kreisel, Tobias"
+        },
+        {
+            "facet_id": 162090,
+            "occurrence": 1,
+            "value": "Cecilia, Raúl (1977-)"
+        },
+        {
+            "facet_id": 174312,
+            "occurrence": 1,
+            "value": "Suchodoletz, Hans von"
+        },
+        {
+            "facet_id": 174313,
+            "occurrence": 1,
+            "value": "Blanchard, Henrik"
+        },
+        {
+            "facet_id": 174315,
+            "occurrence": 1,
+            "value": "Lehrstuhl für Geowissenschaften, Universität Bayreuth"
+        },
+        {
+            "facet_id": 174763,
+            "occurrence": 1,
+            "value": "Wenzel, Nadine"
+        },
+        {
+            "facet_id": 175200,
+            "occurrence": 1,
+            "value": "Grohmann, Marcus"
+        },
+        {
+            "facet_id": 175453,
+            "occurrence": 1,
+            "value": "Sauer, Christian (1976-)"
+        },
+        {
+            "facet_id": 176192,
+            "occurrence": 1,
+            "value": "Haltenhof, Helmut"
+        },
+        {
+            "facet_id": 179522,
+            "occurrence": 1,
+            "value": "Gilani, Mazhar Amjad (1979-)"
+        },
+        {
+            "facet_id": 191158,
+            "occurrence": 1,
+            "value": "Schulz, Michał (1979-)"
+        },
+        {
+            "facet_id": 194329,
+            "occurrence": 1,
+            "value": "Wied, Kristina (1976-)"
+        },
+        {
+            "facet_id": 194330,
+            "occurrence": 1,
+            "value": "Köppl, Manuel"
+        }
+    ]
+}

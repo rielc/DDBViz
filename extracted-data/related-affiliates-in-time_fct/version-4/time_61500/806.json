@@ -1,0 +1,379 @@
+{
+    "time_fct_id": 21,
+    "time_fct": "time_61500",
+    "affiliate_fct_id": 806,
+    "affiliate_fct": "Kupferstichkabinett, Staatliche Museen zu Berlin",
+    "affiliate_fct_occurrence": 147,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 806,
+            "affiliate_fct": "Kupferstichkabinett, Staatliche Museen zu Berlin",
+            "affiliate_fct_occurrence": 147
+        },
+        {
+            "affiliate_fct_id": 32564,
+            "affiliate_fct": "Sandro Botticelli",
+            "affiliate_fct_occurrence": 85
+        },
+        {
+            "affiliate_fct_id": 32565,
+            "affiliate_fct": "Botticelli, Sandro",
+            "affiliate_fct_occurrence": 85
+        },
+        {
+            "affiliate_fct_id": 2958,
+            "affiliate_fct": "Dürer, Albrecht",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 263979,
+            "affiliate_fct": "Albrecht Dürer",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 69564,
+            "affiliate_fct": "Holbein, Hans (der Ältere)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 12336,
+            "affiliate_fct": "Raffael",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 35645,
+            "affiliate_fct": "Signorelli, Luca",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 104924,
+            "affiliate_fct": "Lippi, Filippino",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 144054,
+            "affiliate_fct": "Bellini, Gentile",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 272050,
+            "affiliate_fct": "Luca Signorelli",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 337146,
+            "affiliate_fct": "Filippino Lippi",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 572472,
+            "affiliate_fct": "Gentile Bellini",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 577694,
+            "affiliate_fct": "Spinelli, Parri",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 836795,
+            "affiliate_fct": "Parri Spinelli",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 217,
+            "affiliate_fct": "Perugino, Pietro",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2043,
+            "affiliate_fct": "Pleydenwurff, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8661,
+            "affiliate_fct": "Kulmbach, Hans Suess von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10253,
+            "affiliate_fct": "Lochner, Stefan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13328,
+            "affiliate_fct": "Leonardo da Vinci",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16018,
+            "affiliate_fct": "Cranach, Lucas (der Ältere)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17703,
+            "affiliate_fct": "Schongauer, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19134,
+            "affiliate_fct": "Lorenzo Monaco",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23549,
+            "affiliate_fct": "Mantegna, Andrea",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24659,
+            "affiliate_fct": "Andrea Mantegna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26788,
+            "affiliate_fct": "Wolgemut, Michel (1434)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 32831,
+            "affiliate_fct": "Meister des Hausbuches",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 58943,
+            "affiliate_fct": "Sesto, Cesare da",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60663,
+            "affiliate_fct": "Meister E S",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68063,
+            "affiliate_fct": "Lorenzo di Credi",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70846,
+            "affiliate_fct": "Pisanello, Antonio di Puccio Pisano",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79009,
+            "affiliate_fct": "Tura, Cosimo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105559,
+            "affiliate_fct": "Pseudo-Cronaca",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 108887,
+            "affiliate_fct": "Martin Schongauer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 118406,
+            "affiliate_fct": "Meister von 1477",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 144491,
+            "affiliate_fct": "Katzheimer, Wolfgang",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164254,
+            "affiliate_fct": "Verrocchio, Andrea del",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185013,
+            "affiliate_fct": "Nicoletto da Modena",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 205611,
+            "affiliate_fct": "Marco da Oggiono",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 267280,
+            "affiliate_fct": "Pietro Perugino",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311005,
+            "affiliate_fct": "Lucas Cranach (der Ältere)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379671,
+            "affiliate_fct": "Michelangelo Buonarroti?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 447424,
+            "affiliate_fct": "Hans Suess von Kulmbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451444,
+            "affiliate_fct": "Michel Wolgemut",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 459064,
+            "affiliate_fct": "Lehrbücher-Meister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 541841,
+            "affiliate_fct": "Domenico Morone",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 541842,
+            "affiliate_fct": "Morone, Domenico",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 556636,
+            "affiliate_fct": "Alvise Vivarini?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 556637,
+            "affiliate_fct": "Vivarini?, Alvise",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 693476,
+            "affiliate_fct": "Raffael?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 705466,
+            "affiliate_fct": "Francesco di Bosio Zaganelli",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 705467,
+            "affiliate_fct": "Zaganelli, Francesco di Bosio",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 722494,
+            "affiliate_fct": "Hans Burgkmair",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 722495,
+            "affiliate_fct": "Burgkmair, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730518,
+            "affiliate_fct": "Lucantonio degli Uberti?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730519,
+            "affiliate_fct": "Uberti?, Lucantonio degli",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730520,
+            "affiliate_fct": "Francesco di Lorenzo Rosselli",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730521,
+            "affiliate_fct": "Rosselli, Francesco di Lorenzo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763718,
+            "affiliate_fct": "Stefan Lochner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 799371,
+            "affiliate_fct": "Cosmè Tura",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 817945,
+            "affiliate_fct": "Domenico Ghirlandaio?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 817946,
+            "affiliate_fct": "Ghirlandaio?, Domenico",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 876791,
+            "affiliate_fct": "Andrea del Verrocchio",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 943196,
+            "affiliate_fct": "Giovanni Agostino da Lodi",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 997319,
+            "affiliate_fct": "Meister Casper",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 997320,
+            "affiliate_fct": "Casper (1495)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1039887,
+            "affiliate_fct": "Antonio da Monza (1492)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1046209,
+            "affiliate_fct": "Wolfgang Katzheimer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1070320,
+            "affiliate_fct": "Cesare da Sesto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1111212,
+            "affiliate_fct": "Bartolomeo Montagna?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1111213,
+            "affiliate_fct": "Montagna?, Bartolomeo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1134276,
+            "affiliate_fct": "Antonio di Puccio Pisano Pisanello",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1167286,
+            "affiliate_fct": "Wilhelm Pleydenwurff",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1167287,
+            "affiliate_fct": "Meister des Stötteritzer Altars",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

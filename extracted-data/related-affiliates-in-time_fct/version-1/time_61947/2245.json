@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 2,
+    "time_fct": "time_61947",
+    "affiliate_facet_id": 2245,
+    "affiliate_facet": "Ministerium des Innern",
+    "occurrence": 517,
+    "affiliates": [
+        {
+            "facet_id": 2245,
+            "occurrence": 553,
+            "value": "Hofgericht Seekreis"
+        },
+        {
+            "facet_id": 14002,
+            "occurrence": 67,
+            "value": "Fürstenberg, Standesherrschaft"
+        },
+        {
+            "facet_id": 301470,
+            "occurrence": 10,
+            "value": "Bodman, Carl v., Möggingen"
+        },
+        {
+            "facet_id": 154075,
+            "occurrence": 5,
+            "value": "Langenstein, v., Grundherrschaft"
+        },
+        {
+            "facet_id": 149109,
+            "occurrence": 4,
+            "value": "Enzberg, v., Mühlheim"
+        },
+        {
+            "facet_id": 7383,
+            "occurrence": 3,
+            "value": "Stotzingen, v., Grundherrschaft, Steißlingen"
+        },
+        {
+            "facet_id": 456042,
+            "occurrence": 3,
+            "value": "Biller, Joseph, Schmied, Ebratsweiler"
+        },
+        {
+            "facet_id": 863279,
+            "occurrence": 3,
+            "value": "Frick, Benedikt, Kleinstadelhofen"
+        },
+        {
+            "facet_id": 37608,
+            "occurrence": 2,
+            "value": "Fröhlich, Georg, Müllermeister, Bächen"
+        },
+        {
+            "facet_id": 50721,
+            "occurrence": 2,
+            "value": "Dreher, Ignaz, Oberboshasel"
+        },
+        {
+            "facet_id": 57465,
+            "occurrence": 2,
+            "value": "Allweyer, Johann, Tobelhof"
+        },
+        {
+            "facet_id": 57466,
+            "occurrence": 2,
+            "value": "Mauch, Matthäus, Großschönach"
+        },
+        {
+            "facet_id": 109457,
+            "occurrence": 2,
+            "value": "Kramer, Georg, Unadingen"
+        },
+        {
+            "facet_id": 136367,
+            "occurrence": 2,
+            "value": "Freiheit, Johann, Billafingen"
+        },
+        {
+            "facet_id": 136368,
+            "occurrence": 2,
+            "value": "Schreckenstein, v., Grundherrschaft, Billafingen"
+        },
+        {
+            "facet_id": 141266,
+            "occurrence": 2,
+            "value": "Bikart, Michael, Wangen"
+        },
+        {
+            "facet_id": 141267,
+            "occurrence": 2,
+            "value": "Näf, Salomon, Wangen"
+        },
+        {
+            "facet_id": 203829,
+            "occurrence": 2,
+            "value": "Zembrodt, Johann, Pfullendorf"
+        },
+        {
+            "facet_id": 210611,
+            "occurrence": 2,
+            "value": "Heer, Johann, Kronenwirt, Wiechs"
+        },
+        {
+            "facet_id": 223337,
+            "occurrence": 2,
+            "value": "Weiß, Heinrich, Büsingen"
+        },
+        {
+            "facet_id": 223338,
+            "occurrence": 2,
+            "value": "Wüger, Andreas, Büsingen"
+        },
+        {
+            "facet_id": 241754,
+            "occurrence": 2,
+            "value": "Haubert, Joseph v., Überlingen"
+        },
+        {
+            "facet_id": 290040,
+            "occurrence": 2,
+            "value": "Hoffmeyer, Martin, Schwärzenbach"
+        },
+        {
+            "facet_id": 293994,
+            "occurrence": 2,
+            "value": "Hupfer, Thomas, Immenstaad"
+        },
+        {
+            "facet_id": 293995,
+            "occurrence": 2,
+            "value": "Knoblauch, Friedrich, Immenstaad"
+        },
+        {
+            "facet_id": 294609,
+            "occurrence": 2,
+            "value": "Ulm, Ferdinand v., Überlingen"
+        },
+        {
+            "facet_id": 309520,
+            "occurrence": 2,
+            "value": "Bernhard, Martin, Müller, Langenbach"
+        },
+        {
+            "facet_id": 309521,
+            "occurrence": 2,
+            "value": "Scherzinger, Augustin, Hirschwirt, Langenbach"
+        },
+        {
+            "facet_id": 353024,
+            "occurrence": 2,
+            "value": "Vogt, Demeter, Seppenhofen"
+        },
+        {
+            "facet_id": 353025,
+            "occurrence": 2,
+            "value": "Vogt, Johann, Seppenhofen"
+        },
+        {
+            "facet_id": 353026,
+            "occurrence": 2,
+            "value": "Vogt, Mathäus, Seppenhofen"
+        },
+        {
+            "facet_id": 365101,
+            "occurrence": 2,
+            "value": "Böll, Mathäus, Obersiggingen"
+        },
+        {
+            "facet_id": 380152,
+            "occurrence": 2,
+            "value": "Nusser, Conrad, Sylvenstal"
+        },
+        {
+            "facet_id": 398415,
+            "occurrence": 2,
+            "value": "Hogg, Josef, Löffingen"
+        },
+        {
+            "facet_id": 411639,
+            "occurrence": 2,
+            "value": "Engesser, Franz Joseph, Hochemmingen"
+        },
+        {
+            "facet_id": 411640,
+            "occurrence": 2,
+            "value": "Hall, Karl, Hochemmingen"
+        },
+        {
+            "facet_id": 422468,
+            "occurrence": 2,
+            "value": "Erne, Pankraz, Frohnschwand"
+        },
+        {
+            "facet_id": 475214,
+            "occurrence": 2,
+            "value": "Allgaier, Nemesius, Ruschweiler"
+        },
+        {
+            "facet_id": 507223,
+            "occurrence": 2,
+            "value": "Kraft, v., Grundherrschaft, Zizenhausen"
+        },
+        {
+            "facet_id": 512911,
+            "occurrence": 2,
+            "value": "Hohenadel, A., Kaufmann, Rottweil"
+        },
+        {
+            "facet_id": 604413,
+            "occurrence": 2,
+            "value": "Wölfle, Matthias, Öfingen"
+        },
+        {
+            "facet_id": 703852,
+            "occurrence": 2,
+            "value": "Reiser, Mathäus, Obersiggingen"
+        },
+        {
+            "facet_id": 732574,
+            "occurrence": 2,
+            "value": "Ehren, Anton, Bäckermeister, Konstanz"
+        },
+        {
+            "facet_id": 746108,
+            "occurrence": 2,
+            "value": "Groß, Jakob, Villingen"
+        },
+        {
+            "facet_id": 746109,
+            "occurrence": 2,
+            "value": "Hässler, Michael, Villingen"
+        },
+        {
+            "facet_id": 791596,
+            "occurrence": 2,
+            "value": "Mäder, Jakob, Aasen"
+        },
+        {
+            "facet_id": 791597,
+            "occurrence": 2,
+            "value": "Rothweiler, Maria Agatha, Aasen"
+        },
+        {
+            "facet_id": 798080,
+            "occurrence": 2,
+            "value": "Hund, Joseph; Obersiggingen"
+        },
+        {
+            "facet_id": 807905,
+            "occurrence": 2,
+            "value": "Sonntag, Müllermeister, Worblingen"
+        },
+        {
+            "facet_id": 951561,
+            "occurrence": 2,
+            "value": "Widder, Joseph, Wiechs"
+        },
+        {
+            "facet_id": 19769,
+            "occurrence": 1,
+            "value": "Klotz, Wilhelm, Schlossermeister, Stetten am kalten Markt"
+        },
+        {
+            "facet_id": 19770,
+            "occurrence": 1,
+            "value": "Löffler, Wendelin, Landwirt, Stetten am kalten Markt"
+        },
+        {
+            "facet_id": 37505,
+            "occurrence": 1,
+            "value": "Auer, Mathias, Hödingen"
+        },
+        {
+            "facet_id": 37609,
+            "occurrence": 1,
+            "value": "Jäger, Joseph, Bächen"
+        },
+        {
+            "facet_id": 41175,
+            "occurrence": 1,
+            "value": "Epple, Baptist, Markdorf"
+        },
+        {
+            "facet_id": 50722,
+            "occurrence": 1,
+            "value": "Schorer, Vinzenz, Oberboshasel"
+        },
+        {
+            "facet_id": 60559,
+            "occurrence": 1,
+            "value": "Heilig, Thomas, Pfullendorf"
+        },
+        {
+            "facet_id": 60560,
+            "occurrence": 1,
+            "value": "Neser, Josef, Linz"
+        },
+        {
+            "facet_id": 62688,
+            "occurrence": 1,
+            "value": "Geng, Rupert, Sinnenberg"
+        },
+        {
+            "facet_id": 62689,
+            "occurrence": 1,
+            "value": "Rösler, Lorenz, Sinnenberg"
+        },
+        {
+            "facet_id": 63307,
+            "occurrence": 1,
+            "value": "Ammann, Joseph, Pfaffenweiler"
+        },
+        {
+            "facet_id": 63308,
+            "occurrence": 1,
+            "value": "Mahler, Franz, Pfaffenweiler"
+        },
+        {
+            "facet_id": 63309,
+            "occurrence": 1,
+            "value": "Neugart, Ambros, Pfaffenweiler"
+        },
+        {
+            "facet_id": 67237,
+            "occurrence": 1,
+            "value": "Neser, Agnes, Aach"
+        },
+        {
+            "facet_id": 67238,
+            "occurrence": 1,
+            "value": "Rettich, Rupert, Aach"
+        },
+        {
+            "facet_id": 74198,
+            "occurrence": 1,
+            "value": "Engesser, Agatha, Hondingen"
+        },
+        {
+            "facet_id": 74199,
+            "occurrence": 1,
+            "value": "Engesser, Johann, Hondingen"
+        },
+        {
+            "facet_id": 79603,
+            "occurrence": 1,
+            "value": "Althaus, Franz Hermann v., Bad Dürrheim"
+        },
+        {
+            "facet_id": 79604,
+            "occurrence": 1,
+            "value": "Reischach, Leopold v., Hohenkrähen"
+        },
+        {
+            "facet_id": 85818,
+            "occurrence": 1,
+            "value": "Obergfäll, Andreas, Villingen"
+        },
+        {
+            "facet_id": 85819,
+            "occurrence": 1,
+            "value": "Oberle, Joseph, Villingen"
+        },
+        {
+            "facet_id": 96227,
+            "occurrence": 1,
+            "value": "Möhrle, Joseph, Großschönach"
+        },
+        {
+            "facet_id": 100863,
+            "occurrence": 1,
+            "value": "Schorer, Anton, Wintersulgen"
+        },
+        {
+            "facet_id": 100864,
+            "occurrence": 1,
+            "value": "Schorer, Vinzenz, Wintersulgen"
+        },
+        {
+            "facet_id": 101582,
+            "occurrence": 1,
+            "value": "Forster, David, Konstanz"
+        },
+        {
+            "facet_id": 101583,
+            "occurrence": 1,
+            "value": "Stich, Jakob, Konstanz"
+        },
+        {
+            "facet_id": 105693,
+            "occurrence": 1,
+            "value": "Lingg, Senes, Böhringen"
+        },
+        {
+            "facet_id": 105694,
+            "occurrence": 1,
+            "value": "Winter, Balthasar, Böhringen"
+        },
+        {
+            "facet_id": 108709,
+            "occurrence": 1,
+            "value": "Reichle, Johann, Zoznegg"
+        },
+        {
+            "facet_id": 109455,
+            "occurrence": 1,
+            "value": "Gail, Josef, Dittishausen"
+        },
+        {
+            "facet_id": 109456,
+            "occurrence": 1,
+            "value": "Gail, Xaver, Dittishausen"
+        },
+        {
+            "facet_id": 113323,
+            "occurrence": 1,
+            "value": "Lutz, Matthäus, Seelfingen"
+        },
+        {
+            "facet_id": 113324,
+            "occurrence": 1,
+            "value": "Schreiber, Johann, Mainwangen"
+        },
+        {
+            "facet_id": 127123,
+            "occurrence": 1,
+            "value": "Meister, Joseph, Bäcker, Allensbach"
+        },
+        {
+            "facet_id": 132630,
+            "occurrence": 1,
+            "value": "Baumgärtner, Alois, Göschweiler"
+        },
+        {
+            "facet_id": 132631,
+            "occurrence": 1,
+            "value": "Zimmermann, Anton, Hauptlehrer, Oppenau"
+        },
+        {
+            "facet_id": 139043,
+            "occurrence": 1,
+            "value": "Rogg, Andreas, Unterlenzkirch, Lenzkirch"
+        },
+        {
+            "facet_id": 139044,
+            "occurrence": 1,
+            "value": "Wehrle, Augustin, Unterlenzkirch, Lenzkirch"
+        },
+        {
+            "facet_id": 141268,
+            "occurrence": 1,
+            "value": "Singer, Johann, Wangen"
+        },
+        {
+            "facet_id": 143394,
+            "occurrence": 1,
+            "value": "Böhler, Konrad, Grünwald"
+        },
+        {
+            "facet_id": 143395,
+            "occurrence": 1,
+            "value": "Kleiser, Konrad, Grünwald"
+        },
+        {
+            "facet_id": 147319,
+            "occurrence": 1,
+            "value": "Leopold, Großherzog von Baden"
+        },
+        {
+            "facet_id": 149108,
+            "occurrence": 1,
+            "value": "Bertsche, Carl, Buchheim"
+        },
+        {
+            "facet_id": 150871,
+            "occurrence": 1,
+            "value": "Neukum, Altbürgermeister, Hüfingen"
+        },
+        {
+            "facet_id": 151224,
+            "occurrence": 1,
+            "value": "Frank, Max, Worblingen"
+        },
+        {
+            "facet_id": 151225,
+            "occurrence": 1,
+            "value": "Levi, Elias, Worblingen"
+        },
+        {
+            "facet_id": 159256,
+            "occurrence": 1,
+            "value": "Duffner, Mathias, Vöhrenbach"
+        },
+        {
+            "facet_id": 159257,
+            "occurrence": 1,
+            "value": "Ketter, Mathias, Vöhrenbach"
+        },
+        {
+            "facet_id": 160394,
+            "occurrence": 1,
+            "value": "Frank, Anton, Zimmermeister, Meßkirch"
+        },
+        {
+            "facet_id": 160395,
+            "occurrence": 1,
+            "value": "Füssinger, Georg, Meßkirch"
+        }
+    ]
+}

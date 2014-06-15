@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 16,
+    "time_fct": "time_62080",
+    "affiliate_facet_id": 44,
+    "affiliate_facet": "Nosko, Eugen (Fotograf)",
+    "occurrence": 8092,
+    "affiliates": [
+        {
+            "facet_id": 44,
+            "occurrence": 8100,
+            "value": "Weimer, Friedrich (Fotograf)"
+        },
+        {
+            "facet_id": 3431,
+            "occurrence": 467,
+            "value": "Hochschule für Kunst und Design Halle <Burg Giebichenstein>"
+        },
+        {
+            "facet_id": 8750,
+            "occurrence": 447,
+            "value": "Hochschule für Kunst und Design Halle (Burg Giebichenstein)"
+        },
+        {
+            "facet_id": 20812,
+            "occurrence": 382,
+            "value": "VEB Möbelkombinat Wi-We-Na"
+        },
+        {
+            "facet_id": 1563,
+            "occurrence": 294,
+            "value": "Möbelkombinat Erfurt <MKE>"
+        },
+        {
+            "facet_id": 2792,
+            "occurrence": 234,
+            "value": "VEB Möbelkombinat Hellerau"
+        },
+        {
+            "facet_id": 1769,
+            "occurrence": 222,
+            "value": "VEB Möbelkombinat \"neuzera\" Rathenow"
+        },
+        {
+            "facet_id": 14780,
+            "occurrence": 222,
+            "value": "VEB Möbelkombinat Eisenberg"
+        },
+        {
+            "facet_id": 165,
+            "occurrence": 216,
+            "value": "VEB Möbelkombinat Dresden-Hellerau"
+        },
+        {
+            "facet_id": 16187,
+            "occurrence": 200,
+            "value": "VEB Märkische Möbelwerke Trebbin"
+        },
+        {
+            "facet_id": 1849,
+            "occurrence": 165,
+            "value": "VEB Polstermöbel Güstrow"
+        },
+        {
+            "facet_id": 8273,
+            "occurrence": 149,
+            "value": "VEB Möbelkombinat Zeulenroda-Triebes <ZEUTRIE>"
+        },
+        {
+            "facet_id": 3968,
+            "occurrence": 146,
+            "value": "VEB Möbelkombinat Zeulenroda-Triebes (ZEUTRIE)"
+        },
+        {
+            "facet_id": 9893,
+            "occurrence": 140,
+            "value": "Polstermöbelkombinat Oelsa-Rabenau <PMK>"
+        },
+        {
+            "facet_id": 10721,
+            "occurrence": 128,
+            "value": "VEB Vereinigte Sitzmöbelindustrie Neuhausen"
+        },
+        {
+            "facet_id": 10757,
+            "occurrence": 124,
+            "value": "VEB Tischfabrik Finsterwalde"
+        },
+        {
+            "facet_id": 15193,
+            "occurrence": 111,
+            "value": "VEB Weißenfelser Kleinmöbel"
+        },
+        {
+            "facet_id": 65891,
+            "occurrence": 97,
+            "value": "VEB Möbelkombinat Nord <MKN>"
+        },
+        {
+            "facet_id": 13019,
+            "occurrence": 91,
+            "value": "VEB Küchenmöbel \"ratiomat\" Eppendorf"
+        },
+        {
+            "facet_id": 7907,
+            "occurrence": 81,
+            "value": "VEB Stilmöbel Barchfeld"
+        },
+        {
+            "facet_id": 1432,
+            "occurrence": 77,
+            "value": "Möbelkombinat Halle <MKH>"
+        },
+        {
+            "facet_id": 16092,
+            "occurrence": 74,
+            "value": "VEB Möbelindustrie Mühlberg"
+        },
+        {
+            "facet_id": 8749,
+            "occurrence": 73,
+            "value": "Buschmann, ?"
+        },
+        {
+            "facet_id": 23926,
+            "occurrence": 73,
+            "value": "VEB Jugendmöbel Döbeln"
+        },
+        {
+            "facet_id": 12494,
+            "occurrence": 72,
+            "value": "VEB Südthüringer Möbelwerke Themar"
+        },
+        {
+            "facet_id": 3033,
+            "occurrence": 68,
+            "value": "VEB Metallwaren Naumburg"
+        },
+        {
+            "facet_id": 17494,
+            "occurrence": 67,
+            "value": "VEB Küchenmöbel Radeberg"
+        },
+        {
+            "facet_id": 5552,
+            "occurrence": 66,
+            "value": "Sächsische Sitzmöbelwerkstätten Waldheim"
+        },
+        {
+            "facet_id": 9366,
+            "occurrence": 64,
+            "value": "VEB Holzkombinat \"Thüringer Wald\" Großbreitenbach"
+        },
+        {
+            "facet_id": 80699,
+            "occurrence": 61,
+            "value": "VEB Möbel und Plast Ohrdruf"
+        },
+        {
+            "facet_id": 38271,
+            "occurrence": 50,
+            "value": "VEB Möbelwerke Zernsdorf"
+        },
+        {
+            "facet_id": 14176,
+            "occurrence": 49,
+            "value": "VEB Deutsche Werkstätten Hellerau"
+        },
+        {
+            "facet_id": 62633,
+            "occurrence": 48,
+            "value": "VEB Möbelkombinat Erfurt (MKE)"
+        },
+        {
+            "facet_id": 4925,
+            "occurrence": 47,
+            "value": "VEB Möbelkombinat Berlin <MKB>"
+        },
+        {
+            "facet_id": 68113,
+            "occurrence": 47,
+            "value": "Geringswalder Sitzmöbelindustrie <JV>"
+        },
+        {
+            "facet_id": 9404,
+            "occurrence": 45,
+            "value": "Einkaufs- und Liefergenossenschaft des holzverarbeitenden Handwerks Dippoldiswalde"
+        },
+        {
+            "facet_id": 19424,
+            "occurrence": 45,
+            "value": "VEB Raumkunst Lauchhammer"
+        },
+        {
+            "facet_id": 75476,
+            "occurrence": 44,
+            "value": "Deutsche Werkstätten Hellerau"
+        },
+        {
+            "facet_id": 67156,
+            "occurrence": 41,
+            "value": "VEB Petrolchemisches Kombinat Schwedt"
+        },
+        {
+            "facet_id": 93166,
+            "occurrence": 41,
+            "value": "VEB Kleinmöbelwerke Karl-Marx-Stadt"
+        },
+        {
+            "facet_id": 26546,
+            "occurrence": 40,
+            "value": "VEB Möbelwerke Hainichen"
+        },
+        {
+            "facet_id": 9289,
+            "occurrence": 39,
+            "value": "VEB Holzverarbeitungswerk Burg"
+        },
+        {
+            "facet_id": 45017,
+            "occurrence": 39,
+            "value": "Entwurfsbüro Möbelkombinat Deutsche Werkstätten Dresden-Hellerau <MKD>"
+        },
+        {
+            "facet_id": 47348,
+            "occurrence": 39,
+            "value": "VEB \"Interform\" Greiz (Vogtländische Möbelfabrik \"Interform\")"
+        },
+        {
+            "facet_id": 20646,
+            "occurrence": 38,
+            "value": "VEB Oberlausitzer Möbelwerke Neugersdorf"
+        },
+        {
+            "facet_id": 60514,
+            "occurrence": 37,
+            "value": "Spezialgenossenschaft Freiberg"
+        },
+        {
+            "facet_id": 124003,
+            "occurrence": 37,
+            "value": "Mahn, ?"
+        },
+        {
+            "facet_id": 1491,
+            "occurrence": 36,
+            "value": "VEB Berliner Polstermöbel"
+        },
+        {
+            "facet_id": 6746,
+            "occurrence": 36,
+            "value": "Reimann, ?"
+        },
+        {
+            "facet_id": 32250,
+            "occurrence": 34,
+            "value": "VEB Inneneinrichtungskombinat \"intercor\" Berlin"
+        },
+        {
+            "facet_id": 107633,
+            "occurrence": 33,
+            "value": "VEB Möbelbau Friedrichroda"
+        },
+        {
+            "facet_id": 7056,
+            "occurrence": 31,
+            "value": "VEB Raumgestaltung Schwerin"
+        },
+        {
+            "facet_id": 8506,
+            "occurrence": 30,
+            "value": "VEB Möbelkombinat Berlin (MKB)"
+        },
+        {
+            "facet_id": 14173,
+            "occurrence": 28,
+            "value": "Schöne, Harry"
+        },
+        {
+            "facet_id": 14174,
+            "occurrence": 28,
+            "value": "Ehrlich, Eberhard"
+        },
+        {
+            "facet_id": 14175,
+            "occurrence": 28,
+            "value": "Nebelung, Joachim"
+        },
+        {
+            "facet_id": 27040,
+            "occurrence": 28,
+            "value": "VEB Meyenburger Möbelwerk"
+        },
+        {
+            "facet_id": 22639,
+            "occurrence": 27,
+            "value": "VEB Deutsche Piano-Union Leipzig <Gebr. Zimmermann>"
+        },
+        {
+            "facet_id": 111832,
+            "occurrence": 27,
+            "value": "VEB Polstermöbel Leipzig"
+        },
+        {
+            "facet_id": 5848,
+            "occurrence": 26,
+            "value": "VEB Möbelwerk \"Wilhelm Pieck\" Anklam"
+        },
+        {
+            "facet_id": 13024,
+            "occurrence": 26,
+            "value": "VEB Polsterwaren Gernrode"
+        },
+        {
+            "facet_id": 55052,
+            "occurrence": 26,
+            "value": "VEB Stil- und Polstermöbel Rabenau"
+        },
+        {
+            "facet_id": 135,
+            "occurrence": 25,
+            "value": "VEB Möbelkombinat Ribnitz-Damgarten"
+        },
+        {
+            "facet_id": 32878,
+            "occurrence": 25,
+            "value": "VEB Möbelwerke Schwerin"
+        },
+        {
+            "facet_id": 112474,
+            "occurrence": 25,
+            "value": "VEB Torgauer Möbelwerke"
+        },
+        {
+            "facet_id": 4901,
+            "occurrence": 24,
+            "value": "VEB Möbelwerk Quedlinburg"
+        },
+        {
+            "facet_id": 14423,
+            "occurrence": 24,
+            "value": "Frank, ?"
+        },
+        {
+            "facet_id": 76120,
+            "occurrence": 24,
+            "value": "VEB Vereinigte Möbelwerke \"RÖME\" Meiningen"
+        },
+        {
+            "facet_id": 2377,
+            "occurrence": 23,
+            "value": "VEB Raumgestaltung (Raumkunst) Cottbus"
+        },
+        {
+            "facet_id": 14804,
+            "occurrence": 23,
+            "value": "VEB Holzverarbeitungswerk Klosterfelde"
+        },
+        {
+            "facet_id": 50100,
+            "occurrence": 23,
+            "value": "VEB Mibella Böhlitz-Ehrenberg"
+        },
+        {
+            "facet_id": 67579,
+            "occurrence": 23,
+            "value": "Krone"
+        },
+        {
+            "facet_id": 67580,
+            "occurrence": 23,
+            "value": "Gabler"
+        },
+        {
+            "facet_id": 98304,
+            "occurrence": 23,
+            "value": "VEB Polstermöbel Schweikershain"
+        },
+        {
+            "facet_id": 44217,
+            "occurrence": 22,
+            "value": "Horn, Kollektiv Rudolf"
+        },
+        {
+            "facet_id": 53779,
+            "occurrence": 21,
+            "value": "VEB Polstermöbel Havelberg"
+        },
+        {
+            "facet_id": 224982,
+            "occurrence": 21,
+            "value": "Deutsche Bauakademie"
+        },
+        {
+            "facet_id": 10138,
+            "occurrence": 20,
+            "value": "Renoir, Auguste"
+        },
+        {
+            "facet_id": 44804,
+            "occurrence": 20,
+            "value": "Zentrales Entwicklungsbüro Schkeuditz"
+        },
+        {
+            "facet_id": 58853,
+            "occurrence": 20,
+            "value": "VEB Vereinigte Möbelwerke Magdeburg"
+        },
+        {
+            "facet_id": 67748,
+            "occurrence": 19,
+            "value": "VEB Ultra-Möbel Suhl"
+        },
+        {
+            "facet_id": 230742,
+            "occurrence": 19,
+            "value": "Muschter, ?"
+        },
+        {
+            "facet_id": 450578,
+            "occurrence": 19,
+            "value": "VEB Wohnraummöbelkombinat Anklam"
+        },
+        {
+            "facet_id": 38583,
+            "occurrence": 18,
+            "value": "VEB Polstermöbelkombinat Oelsa-Rabenau"
+        },
+        {
+            "facet_id": 201431,
+            "occurrence": 18,
+            "value": "Michailow, ?"
+        },
+        {
+            "facet_id": 234478,
+            "occurrence": 18,
+            "value": "Baasch, ?"
+        },
+        {
+            "facet_id": 10071,
+            "occurrence": 17,
+            "value": "VEB ESPA Kindermöbel Blankenburg"
+        },
+        {
+            "facet_id": 27435,
+            "occurrence": 17,
+            "value": "MKN Heringsdorf"
+        },
+        {
+            "facet_id": 32440,
+            "occurrence": 17,
+            "value": "VEB Polstermöbel Suhl"
+        },
+        {
+            "facet_id": 84775,
+            "occurrence": 17,
+            "value": "VEB Sitzmöbel Oelsa"
+        },
+        {
+            "facet_id": 105032,
+            "occurrence": 16,
+            "value": "VEB Möbelfabrik Salzwedel"
+        },
+        {
+            "facet_id": 219162,
+            "occurrence": 16,
+            "value": "VEB Möbelkombinat \"neuzera\""
+        },
+        {
+            "facet_id": 357,
+            "occurrence": 15,
+            "value": "Gogh, Vincent van"
+        },
+        {
+            "facet_id": 6299,
+            "occurrence": 15,
+            "value": "VEB Thüringer Möbelkombinat Suhl"
+        },
+        {
+            "facet_id": 21243,
+            "occurrence": 15,
+            "value": "VEB Möbelfabrik Radeberg"
+        },
+        {
+            "facet_id": 85332,
+            "occurrence": 15,
+            "value": "VEB Flügel- und Pianobau Löbau <August Förster>"
+        },
+        {
+            "facet_id": 195861,
+            "occurrence": 15,
+            "value": "VEB Rathenower Holzindustrie"
+        },
+        {
+            "facet_id": 8507,
+            "occurrence": 14,
+            "value": "VEB Polstermöbel Petershagen"
+        },
+        {
+            "facet_id": 76376,
+            "occurrence": 14,
+            "value": "VEB Wohnraummöbel Schleiz"
+        },
+        {
+            "facet_id": 189786,
+            "occurrence": 14,
+            "value": "VEB Polstermöbel Halle"
+        }
+    ]
+}

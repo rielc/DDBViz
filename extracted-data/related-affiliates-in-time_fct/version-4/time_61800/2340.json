@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 2340,
+    "affiliate_fct": "Kloster Bronnbach",
+    "affiliate_fct_occurrence": 1425,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2340,
+            "affiliate_fct": "Kloster Bronnbach",
+            "affiliate_fct_occurrence": 1425
+        },
+        {
+            "affiliate_fct_id": 18006,
+            "affiliate_fct": "Löwenstein-Wertheim, Fürsten und Grafen zu",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 379512,
+            "affiliate_fct": "Göbhardt, Heinrich, Abt zu Bronnbach",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 215181,
+            "affiliate_fct": "Schneid, Konsulent",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 221548,
+            "affiliate_fct": "Lohr, Jakob",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 272840,
+            "affiliate_fct": "Johann, Bischof zu Würzburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 379511,
+            "affiliate_fct": "Balbus, Ambrosius, Abt zu Bronnbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 407371,
+            "affiliate_fct": "Schäffner, Engelbert, Abt zu Bronnbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 714205,
+            "affiliate_fct": "Löhr, Anton, Reicholzheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 212,
+            "affiliate_fct": "Luther, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2468,
+            "affiliate_fct": "Schäfer, Barbara",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18005,
+            "affiliate_fct": "Hatzfeld, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29545,
+            "affiliate_fct": "Adam, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39719,
+            "affiliate_fct": "Feibel, Salomon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39720,
+            "affiliate_fct": "Gabriel Amschel, Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39721,
+            "affiliate_fct": "Stengel, Rentmeister und Kanzleisekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61306,
+            "affiliate_fct": "Galweg, Valentin, Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61307,
+            "affiliate_fct": "Kopp, Martin, Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73577,
+            "affiliate_fct": "Jakob Lohr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 81551,
+            "affiliate_fct": "Brandt, von; Johann Adolph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 114234,
+            "affiliate_fct": "Clemens XIII., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 121927,
+            "affiliate_fct": "Pius VI., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173091,
+            "affiliate_fct": "Villars, de, französischer Marschall",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 177675,
+            "affiliate_fct": "Albrecht, Erzbischof zu Mainz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 183321,
+            "affiliate_fct": "[Jakob Lohr]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194615,
+            "affiliate_fct": "Cavaletrini, Kardinal",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212825,
+            "affiliate_fct": "Benedikt XIV., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 235688,
+            "affiliate_fct": "Günzburg, Eberlin von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245296,
+            "affiliate_fct": "Jung, Franz Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254540,
+            "affiliate_fct": "Fischer, Hans Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255073,
+            "affiliate_fct": "Hoch, Hieronymus, Vikar zu Allersheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255200,
+            "affiliate_fct": "Lohr, Jakob, Geometer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259070,
+            "affiliate_fct": "Schulz, Burkhardt, Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 262280,
+            "affiliate_fct": "Rosenberg, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272839,
+            "affiliate_fct": "Hoffmann, Mönch zu Bronnbachß",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272841,
+            "affiliate_fct": "Magnesius, Arthur, Zisterzienser",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310141,
+            "affiliate_fct": "Fiederlein, Maria Eva, Gamburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310142,
+            "affiliate_fct": "Wittiber, Jörg, Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370285,
+            "affiliate_fct": "Amendt, Johannes, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370286,
+            "affiliate_fct": "Bicks, Clara, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370287,
+            "affiliate_fct": "Boller, Franziska, Dittwar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370288,
+            "affiliate_fct": "Dihm, Elisabeth, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370289,
+            "affiliate_fct": "Hermann, Margaretha, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379513,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten zu; Karl Thomas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379514,
+            "affiliate_fct": "Rigel, F. A.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379515,
+            "affiliate_fct": "Rigel, L. J.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 394052,
+            "affiliate_fct": "Maillebois, General",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 394053,
+            "affiliate_fct": "Rudolf, Amtsverweser",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 407372,
+            "affiliate_fct": "Werold, Joseph, Pfarrer zu Hochhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426048,
+            "affiliate_fct": "Weydner, Hans Adam, Hofbauer auf dem Meßhof",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451210,
+            "affiliate_fct": "Moises, Jude zu Freudenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451211,
+            "affiliate_fct": "Weydner, Sebastian, Beständer auf dem Dürrhof",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 460397,
+            "affiliate_fct": "Schneidt, J. M., Konsulent des Klosters Bronnbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471730,
+            "affiliate_fct": "Schultz, Burkhard, Beständer auf dem Breitenauer Hof",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 478052,
+            "affiliate_fct": "Leo, Hofrat zu Würzburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 494474,
+            "affiliate_fct": "Engert, Kilian, Euerhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 494475,
+            "affiliate_fct": "Wilhelm, Hans Jörg, Euerhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 504077,
+            "affiliate_fct": "Platz, Jörg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 504900,
+            "affiliate_fct": "Lohr, G. Jakob, bronnbachischer Amtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 509218,
+            "affiliate_fct": "Lohr, Jakob, Amtmann zu Bronnbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 542766,
+            "affiliate_fct": "Münch, Johann, Pächter des Dürrhofs",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 565748,
+            "affiliate_fct": "Bischof, Elias, Pächter des Wagenbucher Hofs",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 581372,
+            "affiliate_fct": "Dölfer, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 585548,
+            "affiliate_fct": "Baumann, Bastian, Spitalverwalter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 619926,
+            "affiliate_fct": "Kaufmann, Alexander, Archivrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 626992,
+            "affiliate_fct": "Amendt, Alexander",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 626993,
+            "affiliate_fct": "Dumor, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 626994,
+            "affiliate_fct": "Engelhardt, Aschaffenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 626995,
+            "affiliate_fct": "Gillig, Johann, Kammerdiener",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 626996,
+            "affiliate_fct": "Salm, Karl Graf zu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 658266,
+            "affiliate_fct": "Hotz, Balthasar, Külsheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 671272,
+            "affiliate_fct": "Kraft, Georg, Pfarrer zu Kupprichhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 672112,
+            "affiliate_fct": "Zobel von Giebelstadt; Friedrich Carl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 672806,
+            "affiliate_fct": "Schlepsmann, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 689681,
+            "affiliate_fct": "Bundschuh, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 692283,
+            "affiliate_fct": "Adelmann, Matthias, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 695136,
+            "affiliate_fct": "Kettner, Caspar, Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 699420,
+            "affiliate_fct": "Blos, Martin, Dürrhof",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 699421,
+            "affiliate_fct": "Schäfer, Martin, Schultheiß zu Stürzenhardt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 719020,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen zu; Ludwig Moritz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 720480,
+            "affiliate_fct": "Bundschuh, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 724696,
+            "affiliate_fct": "Michael, Amtskeller zu Boxberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 724697,
+            "affiliate_fct": "Volk, Johann Michael, Oberschultheiß zu Gerlachsheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730119,
+            "affiliate_fct": "Dorpert, Hans, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 730120,
+            "affiliate_fct": "Kuhn, Adam, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731632,
+            "affiliate_fct": "Busmann, Hans Adam",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731633,
+            "affiliate_fct": "Eitel, Hans, Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731634,
+            "affiliate_fct": "Herold, Lorenz, Müller zu Bronnbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731635,
+            "affiliate_fct": "Künzig, Lorenz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731636,
+            "affiliate_fct": "Plietsch, Burkhard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731637,
+            "affiliate_fct": "Rochti, Thomas, Wirt zu Dörlesberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731638,
+            "affiliate_fct": "Teufel, Bernhard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731639,
+            "affiliate_fct": "Weydinger, Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 732217,
+            "affiliate_fct": "Leusser, Clemens, Abt zu Bronnbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 754976,
+            "affiliate_fct": "Friedlein, Johann Gabriel; Reicholzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 755418,
+            "affiliate_fct": "Roppelt, Johann B., Konventuale zu Banz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 759322,
+            "affiliate_fct": "Callweg, Sebastian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 760524,
+            "affiliate_fct": "Wirt, Hans, Hundheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 771896,
+            "affiliate_fct": "Bettendorf, Freiherren von; Franz Philipp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 771897,
+            "affiliate_fct": "Stingelheim, Freiherren von; Karl",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

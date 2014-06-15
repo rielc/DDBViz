@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 4887,
+    "affiliate_facet": "Weber",
+    "occurrence": 561,
+    "affiliates": [
+        {
+            "facet_id": 4887,
+            "occurrence": 567,
+            "value": "Schleswig-Holsteinische Landesbibliothek"
+        },
+        {
+            "facet_id": 64745,
+            "occurrence": 84,
+            "value": "lith. Institut Charles Fuchs"
+        },
+        {
+            "facet_id": 81190,
+            "occurrence": 58,
+            "value": "Hornemann, Friedrich Adolf"
+        },
+        {
+            "facet_id": 34155,
+            "occurrence": 52,
+            "value": "Em. Bærentzen &amp; Co. lith. Inst."
+        },
+        {
+            "facet_id": 134840,
+            "occurrence": 29,
+            "value": "Fritz, Johann Friedrich"
+        },
+        {
+            "facet_id": 160222,
+            "occurrence": 22,
+            "value": "Graack, Johann Martin"
+        },
+        {
+            "facet_id": 241718,
+            "occurrence": 20,
+            "value": "Speckter &amp; Co."
+        },
+        {
+            "facet_id": 7561,
+            "occurrence": 13,
+            "value": "Unbekannt,"
+        },
+        {
+            "facet_id": 93106,
+            "occurrence": 11,
+            "value": "Fuchs, Charles"
+        },
+        {
+            "facet_id": 95718,
+            "occurrence": 11,
+            "value": "Hamburger Steindruck"
+        },
+        {
+            "facet_id": 134839,
+            "occurrence": 11,
+            "value": "Behrens und Fritz"
+        },
+        {
+            "facet_id": 341482,
+            "occurrence": 11,
+            "value": "Fortling, Christian Edvard"
+        },
+        {
+            "facet_id": 34157,
+            "occurrence": 10,
+            "value": "Em. Bærentzen &amp; Co Forlag"
+        },
+        {
+            "facet_id": 34158,
+            "occurrence": 10,
+            "value": "Nay, Friedrich Wilhelm Alexander"
+        },
+        {
+            "facet_id": 341483,
+            "occurrence": 10,
+            "value": "Flamand, L. J."
+        },
+        {
+            "facet_id": 62261,
+            "occurrence": 8,
+            "value": "Baerentzen, Emilius Ditlev"
+        },
+        {
+            "facet_id": 87920,
+            "occurrence": 8,
+            "value": "Lemercier,"
+        },
+        {
+            "facet_id": 115408,
+            "occurrence": 8,
+            "value": "Königl. Lith. Institut Berlin"
+        },
+        {
+            "facet_id": 211724,
+            "occurrence": 8,
+            "value": "Hanfstaengl, Franz Seraph"
+        },
+        {
+            "facet_id": 457309,
+            "occurrence": 8,
+            "value": "Suhr, Peter"
+        },
+        {
+            "facet_id": 48419,
+            "occurrence": 7,
+            "value": "Speckter, Otto"
+        },
+        {
+            "facet_id": 235236,
+            "occurrence": 7,
+            "value": "Winckelmann &amp; Söhne"
+        },
+        {
+            "facet_id": 63458,
+            "occurrence": 6,
+            "value": "Hartmann, Carl"
+        },
+        {
+            "facet_id": 219263,
+            "occurrence": 6,
+            "value": "Johannsen, Daniel"
+        },
+        {
+            "facet_id": 317872,
+            "occurrence": 6,
+            "value": "Ritter, Christian Eduard"
+        },
+        {
+            "facet_id": 24083,
+            "occurrence": 5,
+            "value": "Arldt, Carl Wilhelm"
+        },
+        {
+            "facet_id": 48350,
+            "occurrence": 5,
+            "value": "Jensen, Christian Albrecht"
+        },
+        {
+            "facet_id": 92220,
+            "occurrence": 5,
+            "value": "Baasch d.J., Johann Friedrich Theodor"
+        },
+        {
+            "facet_id": 151123,
+            "occurrence": 5,
+            "value": "Glaseck, L. P. J."
+        },
+        {
+            "facet_id": 163048,
+            "occurrence": 5,
+            "value": "Tegner, Isaac Wilhelm"
+        },
+        {
+            "facet_id": 381535,
+            "occurrence": 5,
+            "value": "Simonsen, Niels"
+        },
+        {
+            "facet_id": 422728,
+            "occurrence": 5,
+            "value": "Wilms, Timm Bernhard"
+        },
+        {
+            "facet_id": 515839,
+            "occurrence": 5,
+            "value": "Klinck, H."
+        },
+        {
+            "facet_id": 19468,
+            "occurrence": 4,
+            "value": "Bendixen, Siegfried Detlev"
+        },
+        {
+            "facet_id": 34156,
+            "occurrence": 4,
+            "value": "Kierschou, Frederik Christian"
+        },
+        {
+            "facet_id": 68203,
+            "occurrence": 4,
+            "value": "Eckener, Franz"
+        },
+        {
+            "facet_id": 93481,
+            "occurrence": 4,
+            "value": "Adler und Dietze"
+        },
+        {
+            "facet_id": 335173,
+            "occurrence": 4,
+            "value": "Allemand, Conrad Marc Christian L'"
+        },
+        {
+            "facet_id": 355707,
+            "occurrence": 4,
+            "value": "Gemzøe, Peter Hendrik"
+        },
+        {
+            "facet_id": 407217,
+            "occurrence": 4,
+            "value": "Brück, O. von"
+        },
+        {
+            "facet_id": 425646,
+            "occurrence": 4,
+            "value": "Meyn, Joh. Christian Carsten"
+        },
+        {
+            "facet_id": 489108,
+            "occurrence": 4,
+            "value": "Jentzen, Friedrich"
+        },
+        {
+            "facet_id": 527293,
+            "occurrence": 4,
+            "value": "lith. Institut Peter Suhr"
+        },
+        {
+            "facet_id": 603770,
+            "occurrence": 4,
+            "value": "Kaufmann, Asmus"
+        },
+        {
+            "facet_id": 732904,
+            "occurrence": 4,
+            "value": "Königl. Steindruckerei Kopenhagen"
+        },
+        {
+            "facet_id": 32813,
+            "occurrence": 3,
+            "value": "Zöllner, Ludwig Theodor"
+        },
+        {
+            "facet_id": 84854,
+            "occurrence": 3,
+            "value": "Goos, Berend"
+        },
+        {
+            "facet_id": 103208,
+            "occurrence": 3,
+            "value": "Heuer, Christian Ludwig Wilhelm"
+        },
+        {
+            "facet_id": 103211,
+            "occurrence": 3,
+            "value": "Gassmann, Carl"
+        },
+        {
+            "facet_id": 137138,
+            "occurrence": 3,
+            "value": "Krüger, Franz"
+        },
+        {
+            "facet_id": 146759,
+            "occurrence": 3,
+            "value": "Verlag des Lithographischen Instituts v. D. M. Kanning"
+        },
+        {
+            "facet_id": 197507,
+            "occurrence": 3,
+            "value": "Hegewisch, Charlotte Friederike Dorothea, gen. Lotte"
+        },
+        {
+            "facet_id": 209066,
+            "occurrence": 3,
+            "value": "F. Sala &amp; Co."
+        },
+        {
+            "facet_id": 257741,
+            "occurrence": 3,
+            "value": "Engelbach, Georg"
+        },
+        {
+            "facet_id": 270843,
+            "occurrence": 3,
+            "value": "L. Sachse &amp; Co."
+        },
+        {
+            "facet_id": 319222,
+            "occurrence": 3,
+            "value": "Feckert, Gustav Heinrich Gottlob"
+        },
+        {
+            "facet_id": 336207,
+            "occurrence": 3,
+            "value": "Lehmann, Otto Ludwig Edvard"
+        },
+        {
+            "facet_id": 336585,
+            "occurrence": 3,
+            "value": "Mertens, Christian Heinrich Ludwig"
+        },
+        {
+            "facet_id": 358110,
+            "occurrence": 3,
+            "value": "Hyol, G."
+        },
+        {
+            "facet_id": 363158,
+            "occurrence": 3,
+            "value": "lith. Institut I. W. Tegner u. J. A. Kittendorff"
+        },
+        {
+            "facet_id": 371808,
+            "occurrence": 3,
+            "value": "Schöner, Georg Friedrich Adolph"
+        },
+        {
+            "facet_id": 422729,
+            "occurrence": 3,
+            "value": "Becker, J. J."
+        },
+        {
+            "facet_id": 424702,
+            "occurrence": 3,
+            "value": "Trube, Johann Joseph"
+        },
+        {
+            "facet_id": 476043,
+            "occurrence": 3,
+            "value": "Brendstrup, Thorald"
+        },
+        {
+            "facet_id": 495981,
+            "occurrence": 3,
+            "value": "Smith, Ludvig August"
+        },
+        {
+            "facet_id": 650751,
+            "occurrence": 3,
+            "value": "Heuer, Vilhelm"
+        },
+        {
+            "facet_id": 668602,
+            "occurrence": 3,
+            "value": "Korn, W."
+        },
+        {
+            "facet_id": 705016,
+            "occurrence": 3,
+            "value": "D. Brocatto &amp; Co."
+        },
+        {
+            "facet_id": 706002,
+            "occurrence": 3,
+            "value": "Schultz, L."
+        },
+        {
+            "facet_id": 715918,
+            "occurrence": 3,
+            "value": "Tiedemann, J. G."
+        },
+        {
+            "facet_id": 732903,
+            "occurrence": 3,
+            "value": "Monies, David"
+        },
+        {
+            "facet_id": 798087,
+            "occurrence": 3,
+            "value": "Wassner, Valentin"
+        },
+        {
+            "facet_id": 839303,
+            "occurrence": 3,
+            "value": "Holbech, Niels Peter"
+        },
+        {
+            "facet_id": 5615,
+            "occurrence": 2,
+            "value": "Lill, Friedrich Carl Alexander"
+        },
+        {
+            "facet_id": 10308,
+            "occurrence": 2,
+            "value": "Gurlitt, Louis"
+        },
+        {
+            "facet_id": 49919,
+            "occurrence": 2,
+            "value": "Becker, Christian"
+        },
+        {
+            "facet_id": 63395,
+            "occurrence": 2,
+            "value": "Wittmaack, Johann Heinrich"
+        },
+        {
+            "facet_id": 63735,
+            "occurrence": 2,
+            "value": "Rohrbach, Paul"
+        },
+        {
+            "facet_id": 87919,
+            "occurrence": 2,
+            "value": "Grevedon, Henri"
+        },
+        {
+            "facet_id": 89876,
+            "occurrence": 2,
+            "value": "Giraud, Eugène"
+        },
+        {
+            "facet_id": 89877,
+            "occurrence": 2,
+            "value": "Llanta, Jacques Francois Gaudérique"
+        },
+        {
+            "facet_id": 90643,
+            "occurrence": 2,
+            "value": "Hellesen, Lars Julius August"
+        },
+        {
+            "facet_id": 92584,
+            "occurrence": 2,
+            "value": "Sander, Johann Heinrich"
+        },
+        {
+            "facet_id": 110590,
+            "occurrence": 2,
+            "value": "Fischer, Carl"
+        },
+        {
+            "facet_id": 115407,
+            "occurrence": 2,
+            "value": "von Salpius, Ulrich"
+        },
+        {
+            "facet_id": 119742,
+            "occurrence": 2,
+            "value": "Otte, Friedrich Wilhelm"
+        },
+        {
+            "facet_id": 134838,
+            "occurrence": 2,
+            "value": "Diederichsen, P. A."
+        },
+        {
+            "facet_id": 138876,
+            "occurrence": 2,
+            "value": "Stieler, Joseph Karl"
+        },
+        {
+            "facet_id": 143441,
+            "occurrence": 2,
+            "value": "Suhr, Cornelius"
+        },
+        {
+            "facet_id": 151122,
+            "occurrence": 2,
+            "value": "Cordts, H."
+        },
+        {
+            "facet_id": 175919,
+            "occurrence": 2,
+            "value": "Burmester, Adolf"
+        },
+        {
+            "facet_id": 177440,
+            "occurrence": 2,
+            "value": "Nielsen, J."
+        },
+        {
+            "facet_id": 179835,
+            "occurrence": 2,
+            "value": "Grosenich, P."
+        },
+        {
+            "facet_id": 189579,
+            "occurrence": 2,
+            "value": "Mayer, A."
+        },
+        {
+            "facet_id": 190509,
+            "occurrence": 2,
+            "value": "Lange, Adolph"
+        },
+        {
+            "facet_id": 191427,
+            "occurrence": 2,
+            "value": "Carl Krause &amp; Co. Verlag Berlin"
+        },
+        {
+            "facet_id": 204136,
+            "occurrence": 2,
+            "value": "Guiaud, Jacques"
+        },
+        {
+            "facet_id": 232341,
+            "occurrence": 2,
+            "value": "Böhndel, Conrad Christian August"
+        },
+        {
+            "facet_id": 237498,
+            "occurrence": 2,
+            "value": "Chavannes, Jacqueline Herminie"
+        },
+        {
+            "facet_id": 244146,
+            "occurrence": 2,
+            "value": "Semmler, August"
+        }
+    ]
+}

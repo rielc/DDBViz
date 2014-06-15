@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 23,
+    "time_fct": "time_61825",
+    "affiliate_facet_id": 784,
+    "affiliate_facet": "Hering",
+    "occurrence": 191,
+    "affiliates": [
+        {
+            "facet_id": 784,
+            "occurrence": 194,
+            "value": "Mayr"
+        },
+        {
+            "facet_id": 121909,
+            "occurrence": 17,
+            "value": "Peregrinus, Johannes Dominicus (1687-1764)"
+        },
+        {
+            "facet_id": 23008,
+            "occurrence": 15,
+            "value": "Scharz, Oddo (1691-1749)"
+        },
+        {
+            "facet_id": 2158,
+            "occurrence": 13,
+            "value": "Schmier, Franz (1679-1728)"
+        },
+        {
+            "facet_id": 12289,
+            "occurrence": 13,
+            "value": "Schmier, Benedict (1682-1744)"
+        },
+        {
+            "facet_id": 32883,
+            "occurrence": 12,
+            "value": "Boeckhn, Placidus (1690-1752)"
+        },
+        {
+            "facet_id": 30199,
+            "occurrence": 8,
+            "value": "Buecher, Benedikt (1706-1780)"
+        },
+        {
+            "facet_id": 124684,
+            "occurrence": 8,
+            "value": "Herz, Franz Josef (1681-1739)"
+        },
+        {
+            "facet_id": 153476,
+            "occurrence": 7,
+            "value": "Ritter, Alanus (1674-1737)"
+        },
+        {
+            "facet_id": 23009,
+            "occurrence": 6,
+            "value": "Tautphaeus, Heinrich Georg"
+        },
+        {
+            "facet_id": 253651,
+            "occurrence": 6,
+            "value": "Vogl, Berthold"
+        },
+        {
+            "facet_id": 75538,
+            "occurrence": 5,
+            "value": "Böhm, Thomas"
+        },
+        {
+            "facet_id": 303546,
+            "occurrence": 5,
+            "value": "Ruedorffer, Eberhard (1701-1765)"
+        },
+        {
+            "facet_id": 30200,
+            "occurrence": 4,
+            "value": "Peithersberg, Benno"
+        },
+        {
+            "facet_id": 40198,
+            "occurrence": 4,
+            "value": "Oberhauser, Bernhard (1694-1739)"
+        },
+        {
+            "facet_id": 43806,
+            "occurrence": 4,
+            "value": "Universität Salzburg"
+        },
+        {
+            "facet_id": 99654,
+            "occurrence": 4,
+            "value": "Huhndorff, Ulrich (-1760)"
+        },
+        {
+            "facet_id": 220447,
+            "occurrence": 4,
+            "value": "Beckh, Franz Carl Joseph"
+        },
+        {
+            "facet_id": 262846,
+            "occurrence": 4,
+            "value": "Pranck, Leopold F. von"
+        },
+        {
+            "facet_id": 284705,
+            "occurrence": 4,
+            "value": "Guetrath, Oddo (1705-1759)"
+        },
+        {
+            "facet_id": 355762,
+            "occurrence": 4,
+            "value": "Thomas, Corbinianus (1694-1767)"
+        },
+        {
+            "facet_id": 436552,
+            "occurrence": 4,
+            "value": "Deichstetter, Adamus C."
+        },
+        {
+            "facet_id": 735220,
+            "occurrence": 4,
+            "value": "Stainpeiss, Pius"
+        },
+        {
+            "facet_id": 35789,
+            "occurrence": 3,
+            "value": "Bergmüller, Johann Georg (1688-1762)"
+        },
+        {
+            "facet_id": 122886,
+            "occurrence": 3,
+            "value": "Mayer, Ferdinand"
+        },
+        {
+            "facet_id": 138117,
+            "occurrence": 3,
+            "value": "Fridrich, Jacob Andreas (1683-1751)"
+        },
+        {
+            "facet_id": 138189,
+            "occurrence": 3,
+            "value": "Joly, Raymund (1720-1792)"
+        },
+        {
+            "facet_id": 153477,
+            "occurrence": 3,
+            "value": "Göschl, Joseph C."
+        },
+        {
+            "facet_id": 153478,
+            "occurrence": 3,
+            "value": "Lambrecht, Leopold"
+        },
+        {
+            "facet_id": 188782,
+            "occurrence": 3,
+            "value": "Leopold Anton <Salzburg, Erzbischof> (1679-1744)"
+        },
+        {
+            "facet_id": 195067,
+            "occurrence": 3,
+            "value": "Reischl, Marcellinus (1697-1763)"
+        },
+        {
+            "facet_id": 287004,
+            "occurrence": 3,
+            "value": "Preschern, Franz Xaver von"
+        },
+        {
+            "facet_id": 289077,
+            "occurrence": 3,
+            "value": "Stegmayer, Franz Leopold"
+        },
+        {
+            "facet_id": 337339,
+            "occurrence": 3,
+            "value": "Knoll, Johann Peter"
+        },
+        {
+            "facet_id": 371329,
+            "occurrence": 3,
+            "value": "Fixlmillner, Placidus (1721-1791)"
+        },
+        {
+            "facet_id": 373446,
+            "occurrence": 3,
+            "value": "Schlosgangl von Edlenbach, Franz Joseph Carl (1698-1767)"
+        },
+        {
+            "facet_id": 507971,
+            "occurrence": 3,
+            "value": "Packenreit, Joseph"
+        },
+        {
+            "facet_id": 1027368,
+            "occurrence": 3,
+            "value": "Mayer, Joseph Christoph"
+        },
+        {
+            "facet_id": 4284,
+            "occurrence": 2,
+            "value": "Maximilian <III., Bayern, Kurfürst> (1727-1777)"
+        },
+        {
+            "facet_id": 19190,
+            "occurrence": 2,
+            "value": "Rothfischer, Franz Ignatius (1720-1755)"
+        },
+        {
+            "facet_id": 25541,
+            "occurrence": 2,
+            "value": "Mändl, Kaspar (1655-1728)"
+        },
+        {
+            "facet_id": 33884,
+            "occurrence": 2,
+            "value": "Erffa, Emmeram von"
+        },
+        {
+            "facet_id": 45064,
+            "occurrence": 2,
+            "value": "Kögl, Augustin"
+        },
+        {
+            "facet_id": 45065,
+            "occurrence": 2,
+            "value": "Zeller, Basil"
+        },
+        {
+            "facet_id": 75539,
+            "occurrence": 2,
+            "value": "Wazlavik, Paul"
+        },
+        {
+            "facet_id": 89422,
+            "occurrence": 2,
+            "value": "Moll, Casimirus"
+        },
+        {
+            "facet_id": 113665,
+            "occurrence": 2,
+            "value": "Rhaditsch, Leopold Christoph von"
+        },
+        {
+            "facet_id": 121165,
+            "occurrence": 2,
+            "value": "Langhayder, Sylvester (1717-1795)"
+        },
+        {
+            "facet_id": 139370,
+            "occurrence": 2,
+            "value": "Böcken, Johann Caspar von (-1733)"
+        },
+        {
+            "facet_id": 177559,
+            "occurrence": 2,
+            "value": "König, Karl I."
+        },
+        {
+            "facet_id": 208140,
+            "occurrence": 2,
+            "value": "Paurnfeind, Johann Joseph"
+        },
+        {
+            "facet_id": 217048,
+            "occurrence": 2,
+            "value": "Grimm, Georg"
+        },
+        {
+            "facet_id": 232945,
+            "occurrence": 2,
+            "value": "Schulz, Johannes (1690-1764)"
+        },
+        {
+            "facet_id": 248802,
+            "occurrence": 2,
+            "value": "Endel, Roman"
+        },
+        {
+            "facet_id": 248803,
+            "occurrence": 2,
+            "value": "Kettenacker, Paul"
+        },
+        {
+            "facet_id": 248804,
+            "occurrence": 2,
+            "value": "Winterhalder, Raymund"
+        },
+        {
+            "facet_id": 252076,
+            "occurrence": 2,
+            "value": "Antonio, Francisco"
+        },
+        {
+            "facet_id": 252077,
+            "occurrence": 2,
+            "value": "Prosperus, Josef"
+        },
+        {
+            "facet_id": 253652,
+            "occurrence": 2,
+            "value": "Wolf, Ildephonsus"
+        },
+        {
+            "facet_id": 254409,
+            "occurrence": 2,
+            "value": "Khröll, Gottfried (1682-1753)"
+        },
+        {
+            "facet_id": 289394,
+            "occurrence": 2,
+            "value": "Herz in Herzfeld, Franz Christoph von (1712-1752)"
+        },
+        {
+            "facet_id": 303545,
+            "occurrence": 2,
+            "value": "Berti, Jacob Wolfgang von"
+        },
+        {
+            "facet_id": 349510,
+            "occurrence": 2,
+            "value": "Nicollis, Laurentius Vigilius de (-1745)"
+        },
+        {
+            "facet_id": 357095,
+            "occurrence": 2,
+            "value": "Rosner, Ferdinand (1709-1778)"
+        },
+        {
+            "facet_id": 371372,
+            "occurrence": 2,
+            "value": "Maior Congregatio Academica Beatissimae Virginis in Caelos Assumptae (Salzburg)"
+        },
+        {
+            "facet_id": 416060,
+            "occurrence": 2,
+            "value": "Sondermayr, Matthäus"
+        },
+        {
+            "facet_id": 425038,
+            "occurrence": 2,
+            "value": "Starch, Martin"
+        },
+        {
+            "facet_id": 427452,
+            "occurrence": 2,
+            "value": "Fixlmillner, Joseph"
+        },
+        {
+            "facet_id": 450389,
+            "occurrence": 2,
+            "value": "Maria Anna <Bayern, Kurfürstin, 1728-1797> (1728-1797)"
+        },
+        {
+            "facet_id": 474249,
+            "occurrence": 2,
+            "value": "Paur, Martin"
+        },
+        {
+            "facet_id": 475234,
+            "occurrence": 2,
+            "value": "Neumann von Buchholz, Franz W."
+        },
+        {
+            "facet_id": 528991,
+            "occurrence": 2,
+            "value": "Jakob Ernst <Salzburg, Erzbischof> (1690-1747)"
+        },
+        {
+            "facet_id": 537339,
+            "occurrence": 2,
+            "value": "Weissenbacher, Wilhelm Christoph"
+        },
+        {
+            "facet_id": 584669,
+            "occurrence": 2,
+            "value": "Ness, Rupert (1670-1740)"
+        },
+        {
+            "facet_id": 673946,
+            "occurrence": 2,
+            "value": "Herwarth, Johann Georg von"
+        },
+        {
+            "facet_id": 752015,
+            "occurrence": 2,
+            "value": "Meichelbeck, Nicolaus"
+        },
+        {
+            "facet_id": 755642,
+            "occurrence": 2,
+            "value": "Engel von Wagrain, Franz Sigismund"
+        },
+        {
+            "facet_id": 793856,
+            "occurrence": 2,
+            "value": "Elixhauser, Franz Sylvester"
+        },
+        {
+            "facet_id": 916234,
+            "occurrence": 2,
+            "value": "Campi, Ludwig"
+        },
+        {
+            "facet_id": 1043353,
+            "occurrence": 2,
+            "value": "Merck, Aemilianus"
+        },
+        {
+            "facet_id": 29924,
+            "occurrence": 1,
+            "value": "Leuthner, Coelestin (1695-1759)"
+        },
+        {
+            "facet_id": 53412,
+            "occurrence": 1,
+            "value": "Brunnemann, Jakob (1674-1735)"
+        },
+        {
+            "facet_id": 55646,
+            "occurrence": 1,
+            "value": "Desing, Anselm (1699-1772)"
+        },
+        {
+            "facet_id": 69921,
+            "occurrence": 1,
+            "value": "Clauder, Gabriel (1633-1691)"
+        },
+        {
+            "facet_id": 74917,
+            "occurrence": 1,
+            "value": "Glettle, Joseph Bernhard (1654-1696)"
+        },
+        {
+            "facet_id": 75213,
+            "occurrence": 1,
+            "value": "Pistorius, Johann"
+        },
+        {
+            "facet_id": 76218,
+            "occurrence": 1,
+            "value": "König, Emanuel (1658-1731)"
+        },
+        {
+            "facet_id": 78152,
+            "occurrence": 1,
+            "value": "Edlweckh, Johann (1705-1773)"
+        },
+        {
+            "facet_id": 95061,
+            "occurrence": 1,
+            "value": "Troger, Meinrad"
+        },
+        {
+            "facet_id": 99537,
+            "occurrence": 1,
+            "value": "Muzner, Jucundin"
+        },
+        {
+            "facet_id": 108090,
+            "occurrence": 1,
+            "value": "Halden, Anton Eusebius von"
+        },
+        {
+            "facet_id": 145960,
+            "occurrence": 1,
+            "value": "Fabre, Pierre Jean (ca. ca.1588-1658)"
+        },
+        {
+            "facet_id": 178586,
+            "occurrence": 1,
+            "value": "Minderer, Sebald (1710-1784)"
+        },
+        {
+            "facet_id": 203552,
+            "occurrence": 1,
+            "value": "Eberlin, Johann Ernst (1702-1762)"
+        },
+        {
+            "facet_id": 209450,
+            "occurrence": 1,
+            "value": "Blumblacher, Christoph (1624-1674)"
+        },
+        {
+            "facet_id": 248680,
+            "occurrence": 1,
+            "value": "Reindl, Joseph (1721-1799)"
+        },
+        {
+            "facet_id": 254408,
+            "occurrence": 1,
+            "value": "Engigler, Raphael"
+        },
+        {
+            "facet_id": 261028,
+            "occurrence": 1,
+            "value": "Engel, Ludwig"
+        },
+        {
+            "facet_id": 270657,
+            "occurrence": 1,
+            "value": "Barth, Joseph"
+        },
+        {
+            "facet_id": 284706,
+            "occurrence": 1,
+            "value": "Tettenbacher, Maximilian"
+        }
+    ]
+}

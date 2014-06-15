@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 654,
+    "affiliate_fct": "Kanzlei",
+    "affiliate_fct_occurrence": 840,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 654,
+            "affiliate_fct": "Kanzlei",
+            "affiliate_fct_occurrence": 840
+        },
+        {
+            "affiliate_fct_id": 137070,
+            "affiliate_fct": "Assum, Ludwig Heinrich, Handelsmann in Wertheim",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 29241,
+            "affiliate_fct": "Hessen-Darmstadt, Landgrafen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 63766,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Dominik Marquard",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 657,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Heinrich Friedrich",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 29242,
+            "affiliate_fct": "Pfalz, Kurfürsten",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 95670,
+            "affiliate_fct": "Freudenberger, Joseph, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 145577,
+            "affiliate_fct": "Klein, Johann, Handelsmann in Wertheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 154806,
+            "affiliate_fct": "Conspruck, Catharina Theodora",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 154808,
+            "affiliate_fct": "Hollerbach, Johann Friedrich, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 207697,
+            "affiliate_fct": "Neubig, Johann Christoph, Physicus in Wertheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 658,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Ludwig Moritz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 33795,
+            "affiliate_fct": "Dickhaut, F. Jo. , kurpfälzischer Amtsverweser zu Groß-Umstadt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 40599,
+            "affiliate_fct": "Heidt, Johann Melchior, löwenstein-wertheim-rochefortscher Amtmann zu Habitzheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 80625,
+            "affiliate_fct": "Karl VI., Kaiser",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 116539,
+            "affiliate_fct": "Waraney, Johann Michael, Pfarrer in Niklashausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 128372,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Wilhelm Friedrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 142204,
+            "affiliate_fct": "Erbach, Grafen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 154804,
+            "affiliate_fct": "Baumann, Johann Wilhelm, Stadtschreiber in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 154807,
+            "affiliate_fct": "Firnhaber, Hermann Jacob, Bankier in Frankfurt am Main",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 174052,
+            "affiliate_fct": "Leckisch, Isaac, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 221445,
+            "affiliate_fct": "Uihlein, Heinrich, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 232628,
+            "affiliate_fct": "Köhler, Andreas, Pfarrer in Unteraltertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 325331,
+            "affiliate_fct": "Adelmann, Andreas, Dertingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 414340,
+            "affiliate_fct": "Erbach, Grafen; Friedrich Carl",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 435210,
+            "affiliate_fct": "Fleischmann, Philipp, Schreiner in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 514057,
+            "affiliate_fct": "Reuss, Johann Michael, Rentmeister in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 549825,
+            "affiliate_fct": "Allgeier, Johann Philipp, Apotheker in Wertheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 564255,
+            "affiliate_fct": "Sürsen, Johann Heinrich, gräflicher Geheimrat",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 737390,
+            "affiliate_fct": "Dressler, Anna Kunigunde, Sachsenhausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 848,
+            "affiliate_fct": "Alexander, Tobias, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 14082,
+            "affiliate_fct": "Löwenstein-Wertheim, Grafen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 27818,
+            "affiliate_fct": "Günther, Dietrich, Apotheker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 40598,
+            "affiliate_fct": "Haxthausen, von, Georgenhausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 45180,
+            "affiliate_fct": "Leutwein (III), Philipp, Stadtschultheiß in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 87506,
+            "affiliate_fct": "Württemberg, Herzöge",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 89842,
+            "affiliate_fct": "Löwenstein zu, Joseph, Prinz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 90041,
+            "affiliate_fct": "Wertheim, Zünfte; Schneider",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 95671,
+            "affiliate_fct": "Friedberger, Wolf, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 125910,
+            "affiliate_fct": "Endress, Georg Michael, Kettenwirt in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 136874,
+            "affiliate_fct": "Grabert, Heinrich, Garkoch in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 137865,
+            "affiliate_fct": "Egenberger, Johann, Wenkheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 142837,
+            "affiliate_fct": "Assum, Philipp Friedrich, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 146787,
+            "affiliate_fct": "Wolf, Johann Peter, Schultheiß in Altfeld",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154805,
+            "affiliate_fct": "Buch, Thomas, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154809,
+            "affiliate_fct": "Hollerbach, Philipp Friedrich, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154810,
+            "affiliate_fct": "Moses, Veitshöchheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154811,
+            "affiliate_fct": "Seckel, Isaac, Mainz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154812,
+            "affiliate_fct": "Seinsheim, Abraham, Mannheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154813,
+            "affiliate_fct": "Strack, Cornelius, Frankfurt am Main",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 159826,
+            "affiliate_fct": "Megerlein, Jacob, Metzger in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 174051,
+            "affiliate_fct": "Götzelmann, Johann, Müller in Niklashausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 175220,
+            "affiliate_fct": "Haas, Jacob Nikolaus, Pfarrer in Nassig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 186993,
+            "affiliate_fct": "Löwenstein zu, Philipp Ernst, Prinz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 196028,
+            "affiliate_fct": "Niemand, Johann Matthias, Pulvermüller in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 206792,
+            "affiliate_fct": "Sauer, Georg Wolf, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 221444,
+            "affiliate_fct": "Kranz, Nikolaus, Schuhmacher in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 230591,
+            "affiliate_fct": "Baumann, Christoph, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 233232,
+            "affiliate_fct": "Leineweber, Johann Georg, Chirurg und Bader in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 255746,
+            "affiliate_fct": "Dihm, Thomas, Bettingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 264325,
+            "affiliate_fct": "Leineweber, Johann Georg, Bader in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 303253,
+            "affiliate_fct": "Endress, Johann Caspar, Hospitalmeister in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 303555,
+            "affiliate_fct": "Eichhorn, Johannes, Weißgerber in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 319827,
+            "affiliate_fct": "Buchenröder, Carl Sittig, Pfarrer in Unteraltertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 319828,
+            "affiliate_fct": "Endress, Johann Peter, Schultheiß in Kredenbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 335613,
+            "affiliate_fct": "Isaac, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 342543,
+            "affiliate_fct": "Endress, Nikolaus, Kettenwirt in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 355143,
+            "affiliate_fct": "Ahres, Paul, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 382886,
+            "affiliate_fct": "Firnhaber, Philipp Christian, Ochsenwirt in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 384854,
+            "affiliate_fct": "Eysig, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 399126,
+            "affiliate_fct": "Lippmann, Schutzjude in Sachsenhausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 405324,
+            "affiliate_fct": "Jacob Isaac, Würzburger Hoffaktor, Heidingsfeld",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 428262,
+            "affiliate_fct": "Gropp, Franz, löwenstein-wertheim-rochefortscher Kammerrat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 435209,
+            "affiliate_fct": "Bauer, Adam, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 451045,
+            "affiliate_fct": "Sauer, Johann Jacob, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 470117,
+            "affiliate_fct": "Flegler, Andreas, Büttner in Bettingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 481290,
+            "affiliate_fct": "Adelmann, Johann Jacob, Oedengesäß",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 488007,
+            "affiliate_fct": "Neubig, Philipp Jacob, Apotheker in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 489726,
+            "affiliate_fct": "Flegler, Philipp, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 514042,
+            "affiliate_fct": "Neubig, Johanna Salome, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 514307,
+            "affiliate_fct": "Salvelder, Georg Caspar, Sekretär beim Kreistag",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 530980,
+            "affiliate_fct": "Assum, Maria Dorothea, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 544398,
+            "affiliate_fct": "Wertheim, Grafschaft; Landkommissariat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 555201,
+            "affiliate_fct": "Nehr, Johann Georg, Buchdrucker in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 565484,
+            "affiliate_fct": "Bauer, Christoph, Weißgerber in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 573908,
+            "affiliate_fct": "Müller, Georg, Pächter des Messeschiffs, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 582790,
+            "affiliate_fct": "Balles, Sebastian, Reichartshausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 595757,
+            "affiliate_fct": "Binger, Georg, Marktheidenfeld",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 599240,
+            "affiliate_fct": "Güntzer, Nikolaus, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 601485,
+            "affiliate_fct": "Stadecker, Abraham, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 607275,
+            "affiliate_fct": "Pfennig, Johann Ehrenfried, Buchbinder in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 657677,
+            "affiliate_fct": "Hoppe, Joachim, Proviantkommissar des Oberrheinischen Kreises",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 673976,
+            "affiliate_fct": "Lier, Rudolf, löwenstein-wertheim-rochefortscher Hofrat",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 703925,
+            "affiliate_fct": "Köhler, Johann Wilhelm, Posthalter in Remlingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 705652,
+            "affiliate_fct": "Flegler, Margaretha, Bettingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 710656,
+            "affiliate_fct": "Nübling, Thomas, Bäcker in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 736171,
+            "affiliate_fct": "Wettenburger Gesellschaft",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 737939,
+            "affiliate_fct": "Klein, Johann, Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 751889,
+            "affiliate_fct": "Kneffel, Johann Caspar, Weißgerber in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 773534,
+            "affiliate_fct": "Cronenbold, Hieronymus, Kannengießer in Wertheim",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 21,
+    "time_fct": "time_61500",
+    "affiliate_fct_id": 2410,
+    "affiliate_fct": "Universitäts- und Stadtbibliothek Köln",
+    "affiliate_fct_occurrence": 311,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2410,
+            "affiliate_fct": "Universitäts- und Stadtbibliothek Köln",
+            "affiliate_fct_occurrence": 311
+        },
+        {
+            "affiliate_fct_id": 2413,
+            "affiliate_fct": "Köln USB",
+            "affiliate_fct_occurrence": 251
+        },
+        {
+            "affiliate_fct_id": 26036,
+            "affiliate_fct": "Berlin SB",
+            "affiliate_fct_occurrence": 136
+        },
+        {
+            "affiliate_fct_id": 4401,
+            "affiliate_fct": "Trier StB",
+            "affiliate_fct_occurrence": 128
+        },
+        {
+            "affiliate_fct_id": 26034,
+            "affiliate_fct": "Darmstadt LHSB",
+            "affiliate_fct_occurrence": 122
+        },
+        {
+            "affiliate_fct_id": 2414,
+            "affiliate_fct": "Bonn ULB",
+            "affiliate_fct_occurrence": 93
+        },
+        {
+            "affiliate_fct_id": 4392,
+            "affiliate_fct": "München BSB",
+            "affiliate_fct_occurrence": 91
+        },
+        {
+            "affiliate_fct_id": 2415,
+            "affiliate_fct": "Düsseldorf ULB",
+            "affiliate_fct_occurrence": 87
+        },
+        {
+            "affiliate_fct_id": 4399,
+            "affiliate_fct": "Wolfenbüttel HAB",
+            "affiliate_fct_occurrence": 81
+        },
+        {
+            "affiliate_fct_id": 4396,
+            "affiliate_fct": "Stuttgart LB",
+            "affiliate_fct_occurrence": 69
+        },
+        {
+            "affiliate_fct_id": 26037,
+            "affiliate_fct": "Frankfurt(Main) StUB",
+            "affiliate_fct_occurrence": 60
+        },
+        {
+            "affiliate_fct_id": 46887,
+            "affiliate_fct": "Freiburg i.Br. UB",
+            "affiliate_fct_occurrence": 59
+        },
+        {
+            "affiliate_fct_id": 26038,
+            "affiliate_fct": "Bamberg SB",
+            "affiliate_fct_occurrence": 49
+        },
+        {
+            "affiliate_fct_id": 171400,
+            "affiliate_fct": "Würzburg UB ( )",
+            "affiliate_fct_occurrence": 47
+        },
+        {
+            "affiliate_fct_id": 63679,
+            "affiliate_fct": "Kiel UB",
+            "affiliate_fct_occurrence": 40
+        },
+        {
+            "affiliate_fct_id": 131775,
+            "affiliate_fct": "Mainz StB",
+            "affiliate_fct_occurrence": 40
+        },
+        {
+            "affiliate_fct_id": 4393,
+            "affiliate_fct": "Tübingen UB",
+            "affiliate_fct_occurrence": 39
+        },
+        {
+            "affiliate_fct_id": 26035,
+            "affiliate_fct": "Gotha ForschLB",
+            "affiliate_fct_occurrence": 38
+        },
+        {
+            "affiliate_fct_id": 86793,
+            "affiliate_fct": "Nürnberg StB",
+            "affiliate_fct_occurrence": 36
+        },
+        {
+            "affiliate_fct_id": 129866,
+            "affiliate_fct": "Augsburg SStB",
+            "affiliate_fct_occurrence": 36
+        },
+        {
+            "affiliate_fct_id": 136234,
+            "affiliate_fct": "Köln USB (2)",
+            "affiliate_fct_occurrence": 31
+        },
+        {
+            "affiliate_fct_id": 26027,
+            "affiliate_fct": "Giessen UB",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 109000,
+            "affiliate_fct": "Hildesheim DomB",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 26033,
+            "affiliate_fct": "Köln DiözesanB",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 26039,
+            "affiliate_fct": "Gerson, Johannes",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 86788,
+            "affiliate_fct": "München BSB (2)",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 67790,
+            "affiliate_fct": "Heidelberg UB",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 87954,
+            "affiliate_fct": "München UB",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 108991,
+            "affiliate_fct": "Mainz PriesterSem",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 46884,
+            "affiliate_fct": "Paderborn EAB",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 261347,
+            "affiliate_fct": "Freiberg Geschwister-SchollGym",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 127775,
+            "affiliate_fct": "München BSB ( )",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 127780,
+            "affiliate_fct": "Erfurt StuRB",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 127380,
+            "affiliate_fct": "Zwickau RatsSchB",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 131767,
+            "affiliate_fct": "Göttingen SUB",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 131790,
+            "affiliate_fct": "Lüneburg RatsB",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 131794,
+            "affiliate_fct": "Rostock UB",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 276857,
+            "affiliate_fct": "Aschaffenburg HB Dlg.StiftsB",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 127375,
+            "affiliate_fct": "München UB ( )",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 129868,
+            "affiliate_fct": "Karlsruhe BLB",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 197838,
+            "affiliate_fct": "Berlin SB (2)",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 7963,
+            "affiliate_fct": "Augustinus, Aurelius",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 127777,
+            "affiliate_fct": "Düsseldorf ULB (2)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 129867,
+            "affiliate_fct": "Schulpforte LandesSch",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 131801,
+            "affiliate_fct": "Nürnberg GermNM",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 158366,
+            "affiliate_fct": "Mainz StB (2)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 158367,
+            "affiliate_fct": "Koblenz StB",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 86780,
+            "affiliate_fct": "Xanten StiftsB ( )",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 108999,
+            "affiliate_fct": ": , [about 1470]",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 264856,
+            "affiliate_fct": "Frankfurt(Main) StUB (2)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 4390,
+            "affiliate_fct": "Bremen SUB",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 87950,
+            "affiliate_fct": "Braunschweig StB",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 134199,
+            "affiliate_fct": "Wolfenbüttel HAB (2)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 2416,
+            "affiliate_fct": "Ulm StB ( )",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 46886,
+            "affiliate_fct": "Nider, Johannes",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 108994,
+            "affiliate_fct": "Darmstadt LHSB (imperfect)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 234132,
+            "affiliate_fct": "Oldenburg LB",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 499024,
+            "affiliate_fct": "Köln DiözesanB (imperfect)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 2411,
+            "affiliate_fct": "Rolewinck, Werner",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 92696,
+            "affiliate_fct": "Mainz StB ( )",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 96151,
+            "affiliate_fct": "Annaberg-Buchholz St.AnnaK",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 127377,
+            "affiliate_fct": "Neuburg(Donau) SB",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 131776,
+            "affiliate_fct": "Amberg SB",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 135106,
+            "affiliate_fct": "Berlin SB ( )",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 171403,
+            "affiliate_fct": "[Cologne: Ulrich Zel, about 1470]",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 26030,
+            "affiliate_fct": "Würzburg UB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 96154,
+            "affiliate_fct": "Frankfurt(Main) StUB ( )",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 108993,
+            "affiliate_fct": "*Ehemals Donaueschingen FürstenbergHB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 131791,
+            "affiliate_fct": "Jena ULB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 197146,
+            "affiliate_fct": "Würzburg UB (2)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 221698,
+            "affiliate_fct": "Dresden SLUB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 221706,
+            "affiliate_fct": "Halle MarienB",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 276861,
+            "affiliate_fct": "Stuttgart LB (2)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 285520,
+            "affiliate_fct": "Thomas Aquinas",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 108997,
+            "affiliate_fct": "Trier DomB",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 136229,
+            "affiliate_fct": "Greifswald UB",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 136233,
+            "affiliate_fct": "Eichstätt UB",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 180043,
+            "affiliate_fct": "München ProvBFranzisk St.Anna",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 26028,
+            "affiliate_fct": "Lindau StB",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 197837,
+            "affiliate_fct": "Albertus Magnus",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 221701,
+            "affiliate_fct": "Bamberg SB (2)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 229023,
+            "affiliate_fct": "Goch GaesdonckB",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 67791,
+            "affiliate_fct": "Bonaventura, S",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 87951,
+            "affiliate_fct": "Greifswald GeistlMin",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 87953,
+            "affiliate_fct": "Giessen UB (imperfect)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 96152,
+            "affiliate_fct": "Bamberg PriesterSem",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 108992,
+            "affiliate_fct": "München BSB (3)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 129865,
+            "affiliate_fct": "Würzburg UB (imperfect)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 131770,
+            "affiliate_fct": "Tübingen Wilhelmsstift",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 136226,
+            "affiliate_fct": "Leipzig UB",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 162822,
+            "affiliate_fct": "Berlin SB (imperfect)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 174383,
+            "affiliate_fct": "Köln USB ( )",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 202375,
+            "affiliate_fct": "München BSB (2, 1 imperfect)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 246506,
+            "affiliate_fct": "München BSB (imperfect)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 306891,
+            "affiliate_fct": "Fulda LB",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 541067,
+            "affiliate_fct": "Antoninus Florentinus",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 615138,
+            "affiliate_fct": "Jacobus de Voragine",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 10134,
+            "affiliate_fct": "Hieronymus",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 26032,
+            "affiliate_fct": "Marburg UB",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 180037,
+            "affiliate_fct": "Schwabach KKapitelsB",
+            "affiliate_fct_occurrence": 7
+        }
+    ]
+}

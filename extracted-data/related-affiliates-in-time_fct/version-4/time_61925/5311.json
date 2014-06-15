@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_fct_id": 5311,
+    "affiliate_fct": "Gesamtarchiv der Schenken von Stauffenberg",
+    "affiliate_fct_occurrence": 1109,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5311,
+            "affiliate_fct": "Gesamtarchiv der Schenken von Stauffenberg",
+            "affiliate_fct_occurrence": 1109
+        },
+        {
+            "affiliate_fct_id": 58621,
+            "affiliate_fct": "Schenk von Stauffenberg; Klemens (1777-1833)",
+            "affiliate_fct_occurrence": 75
+        },
+        {
+            "affiliate_fct_id": 29412,
+            "affiliate_fct": "Schenk von Stauffenberg; Franz Ludwig Philipp (1801-1881)",
+            "affiliate_fct_occurrence": 59
+        },
+        {
+            "affiliate_fct_id": 29414,
+            "affiliate_fct": "Schenk von Stauffenberg; Friedrich (1806-1874)",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 29415,
+            "affiliate_fct": "Schenk von Stauffenberg; Philipp (1804-1850)",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 90477,
+            "affiliate_fct": "Hirsch; Jakob, Bankier",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 33729,
+            "affiliate_fct": "Schenk von Stauffenberg; Charlotte, geborene von Harff (1777-1853)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 33727,
+            "affiliate_fct": "Harff, von; Charlotte (1777-1853)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 33728,
+            "affiliate_fct": "Reding; Charlotte von (1777-1853)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 46354,
+            "affiliate_fct": "Schenk von Stauffenberg; Philipp (1773-1839)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 29413,
+            "affiliate_fct": "Schenk von Stauffenberg; Friedrich (1767-1808)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 139910,
+            "affiliate_fct": "Banchero; Franz, Patrimonialrichter",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 191748,
+            "affiliate_fct": "Sauer; Carl, Bierbrauer und Bauer",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 493063,
+            "affiliate_fct": "Einstein; Moses",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 266203,
+            "affiliate_fct": "Schenk von Stauffenberg; Elisabeth (1796-1871)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 335926,
+            "affiliate_fct": "Lottersberg; Elisabeth von (1796-1871)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 462076,
+            "affiliate_fct": "Gärth; Friedrich Wilhelm, Rentamtsverwalter",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 40667,
+            "affiliate_fct": "Ehrensberger; Hieronymus, Patrimonialrichter",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 213363,
+            "affiliate_fct": "Bürkle; Daniel, Geislingen BL",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 292010,
+            "affiliate_fct": "Vogler; Martin, Müller",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 527308,
+            "affiliate_fct": "Koch; Peter, Baisingen, Rottenburg am Neckar TÜ",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5312,
+            "affiliate_fct": "Schenk von Stauffenberg; Markwart Sebastian (1644-1693)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 120438,
+            "affiliate_fct": "Butler von Clonebough; Sigmund, zu Haimhausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 142867,
+            "affiliate_fct": "Schenk von Castell; Maria Josepha (-1850)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 229435,
+            "affiliate_fct": "Weishaupt; Anton, Oberwaldbach, Burtenbach GZ",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 232871,
+            "affiliate_fct": "Banchero; Franz, Oberamtmann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 259898,
+            "affiliate_fct": "Kropf; Franz Karl, Patrimonialrichter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 323683,
+            "affiliate_fct": "Gleitsmann; Jakob, Patrimonialrichter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 323723,
+            "affiliate_fct": "Lottersberg, Carl von; 1792-1866",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 380201,
+            "affiliate_fct": "Speidel; Anton, Rißtissen, Ehingen UL",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 505734,
+            "affiliate_fct": "Brobeil; Joseph, Geislingen BL",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 550646,
+            "affiliate_fct": "Renner; Daniel, Geislingen BL",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 29410,
+            "affiliate_fct": "Ludwig I.; König, Bayern, 1786-1868",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 37546,
+            "affiliate_fct": "Schenk von Stauffenberg; Anton (1735-1803)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 44093,
+            "affiliate_fct": "Schenk von Stauffenberg; Ignaz (1770-1807)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 46973,
+            "affiliate_fct": "Schenk von Stauffenberg; Franz Christof Wilhelm (1711-1749)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 57192,
+            "affiliate_fct": "Schaedle; Eugen, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 83806,
+            "affiliate_fct": "Stain, vom",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 84946,
+            "affiliate_fct": "Offenwanger; Anselm, Müller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 85137,
+            "affiliate_fct": "Wagner; Advokat, Dillingen DLG",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 96611,
+            "affiliate_fct": "Schenk von Stauffenberg; Clemens (1826-1886)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 111921,
+            "affiliate_fct": "Schenk von Stauffenberg; Hans Christof, zu Wilflingen und Rißtissen (1559-1638)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 122589,
+            "affiliate_fct": "Schairer; Franz, Magrethausen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 132334,
+            "affiliate_fct": "Stumpp; Franz, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 138867,
+            "affiliate_fct": "Leipold; Xaver, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 142869,
+            "affiliate_fct": "Schenk von Stauffenberg; Maria Josepha ( -1850)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 146235,
+            "affiliate_fct": "Schenk von Stauffenberg; Markward Gottfried (1692-1734)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 182970,
+            "affiliate_fct": "Vogler; Augustin, Müller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 221161,
+            "affiliate_fct": "Eith; Magnus, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 221162,
+            "affiliate_fct": "Eith; Mathäus, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 231248,
+            "affiliate_fct": "Maximilian Joseph I.; König, Bayern, 1756-1825",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 254217,
+            "affiliate_fct": "Schenk von Stauffenberg; Eleonore (1807-1861)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 265262,
+            "affiliate_fct": "Spohn; Athanasius, Magrethausen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 276120,
+            "affiliate_fct": "Leipold; Johannes, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 295694,
+            "affiliate_fct": "Gulde; Ambros, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 295695,
+            "affiliate_fct": "Schaedle; Augustin, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 296555,
+            "affiliate_fct": "Hellstern; Anton, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 296566,
+            "affiliate_fct": "Schurer; Stanislaus, Magrethausen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 297645,
+            "affiliate_fct": "Lang; Jacob, Jettingen GZ",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 331267,
+            "affiliate_fct": "Gulden; Ferdinand, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 335925,
+            "affiliate_fct": "Butler von Clonebough; Eleonore Gräfin von (1807-1861)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 335927,
+            "affiliate_fct": "Schenk von Stauffenberg; Anna Charlotte (1825-)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 335928,
+            "affiliate_fct": "Seinsheim; Anna Charlotte Gräfin von (1825- )",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 344337,
+            "affiliate_fct": "Strobel; Johann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 407741,
+            "affiliate_fct": "Schaible; Clemens, Patrimonialrichter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 426035,
+            "affiliate_fct": "Butler von Clonebough; Familie",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 447268,
+            "affiliate_fct": "Braun; Sebastian, Maurermeister",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 462946,
+            "affiliate_fct": "Ruf; Isidor, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 528795,
+            "affiliate_fct": "Schaedle; Dorothea, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 537713,
+            "affiliate_fct": "Gleitsmann; Jakob, Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550030,
+            "affiliate_fct": "Aldinger; Archivar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550031,
+            "affiliate_fct": "Aldinger; Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550637,
+            "affiliate_fct": "Haug; Oswald, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550648,
+            "affiliate_fct": "Renner; Joseph, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550650,
+            "affiliate_fct": "Schaedle; Arnold, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 550656,
+            "affiliate_fct": "Schlaich; Tobias, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 568071,
+            "affiliate_fct": "Schmid; Matheus, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 589191,
+            "affiliate_fct": "Butler von Clonebough; Kajetan Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 593782,
+            "affiliate_fct": "Wetzel; Ambros, Rohrdorf, Eutingen im Gäu FDS",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 637438,
+            "affiliate_fct": "Bucher; Andreas, Wirt, Rißtissen Ehingen UL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 640142,
+            "affiliate_fct": "Böck, von; Anton (Rißtissen, Ehingen UL)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 651120,
+            "affiliate_fct": "Braun; Bernhard, Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 746174,
+            "affiliate_fct": "Pfeffer; Joseph, Bildechingen, Horb am Neckar FDS",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 758624,
+            "affiliate_fct": "Öttingen-Wallerstein; Ludwig Fürst von, Belehnung mit Eberstall",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 758626,
+            "affiliate_fct": "Öttingen-Wallerstein; Ludwig Fürst von, Belehnung mit Unterwaldbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 761018,
+            "affiliate_fct": "Schenken von Stauffenberg; Kirchenpatronate",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 807989,
+            "affiliate_fct": "Flaig; Joseph, Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 824726,
+            "affiliate_fct": "Leipold; Johann, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 827026,
+            "affiliate_fct": "Maier; Sebastian (Lautlingen, Albstadt BL)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 827027,
+            "affiliate_fct": "Maier; Theodor (Lautlingen, Albstadt BL)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 827028,
+            "affiliate_fct": "Maute; Xaver, Lautlingen, Albstadt BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 828107,
+            "affiliate_fct": "Keller; Anselm, Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 844121,
+            "affiliate_fct": "Gerst; Johann Caspar, Rentbeamter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 934304,
+            "affiliate_fct": "Hefele; Anton, Schmied",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 946466,
+            "affiliate_fct": "Goetzel; Friedrich, Rentamtsverwalter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 956707,
+            "affiliate_fct": "Öttingen-Wallerstein; Familie von, Belehnung mit Eberstall",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 997251,
+            "affiliate_fct": "Staiger; Anton, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1028676,
+            "affiliate_fct": "Stehle; Roman, Geislingen BL",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1055120,
+            "affiliate_fct": "Steger; Joseph, Inhaber einer Sölde",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8585,
+            "affiliate_fct": "Edelmann; Anton, Dormettingen BL",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

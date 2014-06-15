@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_fct_id": 5190,
+    "affiliate_fct": "Lipsius, Justus (1547-1606)",
+    "affiliate_fct_occurrence": 312,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5190,
+            "affiliate_fct": "Lipsius, Justus (1547-1606)",
+            "affiliate_fct_occurrence": 312
+        },
+        {
+            "affiliate_fct_id": 7540,
+            "affiliate_fct": "Moretus",
+            "affiliate_fct_occurrence": 82
+        },
+        {
+            "affiliate_fct_id": 1481,
+            "affiliate_fct": "Plantin",
+            "affiliate_fct_occurrence": 33
+        },
+        {
+            "affiliate_fct_id": 20401,
+            "affiliate_fct": "Seneca, Lucius Annaeus <Philosophus> (v4-65)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 104549,
+            "affiliate_fct": "Bernegger, Matthias (1582-1640)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 2407,
+            "affiliate_fct": "Tacitus, Cornelius (55-116/120n.Chr.)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 58124,
+            "affiliate_fct": "Seneca, Lucius Annaeus <Rhetor> (v55-40)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 54326,
+            "affiliate_fct": "Hoogenhuysen",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 10958,
+            "affiliate_fct": "Valerius <Maximus> (ca. 1. Jh. v. Chr./1. Jh. n. Chr.)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 36504,
+            "affiliate_fct": "Velleius <Paterculus> (ca. 1. Jh. v. Chr.-1. Jh.)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 117796,
+            "affiliate_fct": "Ex Officina Plantiniana, Apud Ioannem Moretum",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 7541,
+            "affiliate_fct": "Schottus, Andreas (1552-1629)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 26920,
+            "affiliate_fct": "Elzevir",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 58656,
+            "affiliate_fct": "Gelder",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 63156,
+            "affiliate_fct": "Marnius",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 1778,
+            "affiliate_fct": "Elsevir",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 215080,
+            "affiliate_fct": "Nisaeus, Joachim (1574-1634)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 10050,
+            "affiliate_fct": "Maire",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 20501,
+            "affiliate_fct": "Froidmont, Libert (1587-1653)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 47183,
+            "affiliate_fct": "Budé, Guillaume (1468-1540)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 48083,
+            "affiliate_fct": "Puteanus, Erycius (1574-1646)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 78133,
+            "affiliate_fct": "Carolus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 194195,
+            "affiliate_fct": "Crusius, Thomas Theodor (1648-1728)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 264465,
+            "affiliate_fct": "(Wechel)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 749657,
+            "affiliate_fct": "Renger, Georg Sigismund",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 319,
+            "affiliate_fct": "Boeckler, Johann Heinrich (1611-1672)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1249,
+            "affiliate_fct": "Erasmus, Desiderius (1469-1536)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1857,
+            "affiliate_fct": "Calixt, Georg (1586-1656)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2109,
+            "affiliate_fct": "Hermann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8118,
+            "affiliate_fct": "Müllerus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 9986,
+            "affiliate_fct": "Plinius Caecilius Secundus, Gaius (61/62-ca. 114)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 12156,
+            "affiliate_fct": "Hertsroy",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 15051,
+            "affiliate_fct": "Fabricius, Georg (1516-1571)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16976,
+            "affiliate_fct": "Bertramus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28461,
+            "affiliate_fct": "Elsevirius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 44215,
+            "affiliate_fct": "Emmelius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 57028,
+            "affiliate_fct": "Aubrius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 58123,
+            "affiliate_fct": "Elzevirii",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63521,
+            "affiliate_fct": "Henningius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81185,
+            "affiliate_fct": "Blaeuw",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 102447,
+            "affiliate_fct": "Blaev",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126241,
+            "affiliate_fct": "Nebenius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 129118,
+            "affiliate_fct": "Verdussius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 130526,
+            "affiliate_fct": "Pighius, Stephanus Vinandus (1520-1604)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 139936,
+            "affiliate_fct": "Caesius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 140713,
+            "affiliate_fct": "Sweerts, Pierre François (1567-1629)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 152455,
+            "affiliate_fct": "Thysius, Antonius (1603-1665)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 192006,
+            "affiliate_fct": "Leernout, Jan (1545-1619)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259751,
+            "affiliate_fct": "Wowern, Johann von (1574-1612)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259864,
+            "affiliate_fct": "(Severinus)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 387057,
+            "affiliate_fct": "Kautz, Magnus Melchior",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 502971,
+            "affiliate_fct": "Lautter, Friedrich Ludwig von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 847843,
+            "affiliate_fct": "Apud Ioannem Moretum//Moretus//",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 847844,
+            "affiliate_fct": "(Ex Officina Plantiniana)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 106,
+            "affiliate_fct": "Hofmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1336,
+            "affiliate_fct": "Cardon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2409,
+            "affiliate_fct": "Suetonius Tranquillus, Gaius (70-150)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3313,
+            "affiliate_fct": "Marcus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3410,
+            "affiliate_fct": "Lancelot)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3604,
+            "affiliate_fct": "Pontanus, Jacobus (1542-1626)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4005,
+            "affiliate_fct": "Caesar, Gaius Iulius (v100-v44)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5845,
+            "affiliate_fct": "Bellerus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10377,
+            "affiliate_fct": "Bauhoferus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10502,
+            "affiliate_fct": "Scaliger, Joseph Juste (1540-1609)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13938,
+            "affiliate_fct": "Zetzner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16480,
+            "affiliate_fct": "Vinet, Elie (1509-1587)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20402,
+            "affiliate_fct": "Gronovius, Johann Friedrich (1611-1671)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21347,
+            "affiliate_fct": "Bertram",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27558,
+            "affiliate_fct": "Frisius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27652,
+            "affiliate_fct": "Cunaeus, Petrus (1586-1638)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29211,
+            "affiliate_fct": "Elzevier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29860,
+            "affiliate_fct": "Andreä, Johann Valentin (1586-1654)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31378,
+            "affiliate_fct": "Baudoin, Jean (1590-1650)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 34580,
+            "affiliate_fct": "Freinsheim, Johann (1608-1660)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 35141,
+            "affiliate_fct": "Aurelius Victor, Sextus (ca. um 360 n. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36860,
+            "affiliate_fct": "Jansson",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36947,
+            "affiliate_fct": "Gronovius, Johannes Fredericus (1686-1762)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41106,
+            "affiliate_fct": "Casaubon, Isaac (1559-1614)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41249,
+            "affiliate_fct": "Scaliger, Julius Caesar (1484-1558)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45205,
+            "affiliate_fct": "Pontano, Giovanni Giovano (1429-1503)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51802,
+            "affiliate_fct": "Does, Johan van der (1545-1604)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 63236,
+            "affiliate_fct": "Unckel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70631,
+            "affiliate_fct": "Sagittarius, Thomas (1577-1621)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73336,
+            "affiliate_fct": "Typis Berneggerianis",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73733,
+            "affiliate_fct": "Porsius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 75452,
+            "affiliate_fct": "Adam, Melchior (1575-1622)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78101,
+            "affiliate_fct": "Besongne",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99529,
+            "affiliate_fct": "Basson",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 104550,
+            "affiliate_fct": "Glaser, Philipp Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117904,
+            "affiliate_fct": "Gambs, Johann Jacob (1598-1646)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130029,
+            "affiliate_fct": "Porssius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 140159,
+            "affiliate_fct": "Alciati, Andrea (1492-1550)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164081,
+            "affiliate_fct": "vander Horst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 168444,
+            "affiliate_fct": "Ex Officina Plantiniana, Apud Viduam & Filios Io. Moreti",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 170832,
+            "affiliate_fct": "Sardi, Alessandro (1520-1588)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 190507,
+            "affiliate_fct": "Ellingerus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 196685,
+            "affiliate_fct": "Schrijver, Pieter (1576-1660)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224041,
+            "affiliate_fct": "Denaisius, Petrus (1560-1610)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 231831,
+            "affiliate_fct": "Lvcus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257122,
+            "affiliate_fct": "Demetrius <Phalereus> (350-283v.Chr.)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

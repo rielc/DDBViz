@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_facet_id": 253,
+    "affiliate_facet": "Großherzogliches Justizdepartement, Lehenhof",
+    "occurrence": 1661,
+    "affiliates": [
+        {
+            "facet_id": 253,
+            "occurrence": 6545,
+            "value": "MIK-Center Berlin GmbH (Fotograf)"
+        },
+        {
+            "facet_id": 9775,
+            "occurrence": 474,
+            "value": "Fürst, Paul & Gerhard, Christoph"
+        },
+        {
+            "facet_id": 3054,
+            "occurrence": 338,
+            "value": "Humm, Anton"
+        },
+        {
+            "facet_id": 8714,
+            "occurrence": 280,
+            "value": "Endter, Martin"
+        },
+        {
+            "facet_id": 9637,
+            "occurrence": 217,
+            "value": "Rötel, Kaspar"
+        },
+        {
+            "facet_id": 9638,
+            "occurrence": 217,
+            "value": "Bry"
+        },
+        {
+            "facet_id": 2244,
+            "occurrence": 197,
+            "value": "Weigel"
+        },
+        {
+            "facet_id": 39229,
+            "occurrence": 170,
+            "value": "Jansen, Jan"
+        },
+        {
+            "facet_id": 19838,
+            "occurrence": 152,
+            "value": "Bencard, Johann Kaspar"
+        },
+        {
+            "facet_id": 10195,
+            "occurrence": 141,
+            "value": "Endter, Wolfgang Moritz & Endter, Johann Andreas"
+        },
+        {
+            "facet_id": 21503,
+            "occurrence": 139,
+            "value": "Heil, Arnold"
+        },
+        {
+            "facet_id": 4548,
+            "occurrence": 131,
+            "value": "Endter, Johann Andreas & Endter, Wolfgang"
+        },
+        {
+            "facet_id": 8727,
+            "occurrence": 123,
+            "value": "Koppmayer, Jakob"
+        },
+        {
+            "facet_id": 5946,
+            "occurrence": 119,
+            "value": "Hoffmann"
+        },
+        {
+            "facet_id": 21483,
+            "occurrence": 105,
+            "value": "Danckerts"
+        },
+        {
+            "facet_id": 36735,
+            "occurrence": 105,
+            "value": "Saur, Jonas"
+        },
+        {
+            "facet_id": 5764,
+            "occurrence": 102,
+            "value": "Hulsius, Levinus"
+        },
+        {
+            "facet_id": 4094,
+            "occurrence": 99,
+            "value": "Merian, Matthäus & Hoffmann, Wolfgang"
+        },
+        {
+            "facet_id": 14270,
+            "occurrence": 92,
+            "value": "Fürst"
+        },
+        {
+            "facet_id": 105966,
+            "occurrence": 92,
+            "value": "Bertram, Anton"
+        },
+        {
+            "facet_id": 9807,
+            "occurrence": 89,
+            "value": "Endter"
+        },
+        {
+            "facet_id": 29257,
+            "occurrence": 87,
+            "value": "Schamberger, Simon"
+        },
+        {
+            "facet_id": 29321,
+            "occurrence": 87,
+            "value": "Widenmann"
+        },
+        {
+            "facet_id": 37412,
+            "occurrence": 82,
+            "value": "Rolck, Stephan"
+        },
+        {
+            "facet_id": 64231,
+            "occurrence": 82,
+            "value": "Janssonius"
+        },
+        {
+            "facet_id": 32019,
+            "occurrence": 81,
+            "value": "Huquenet, Andreas & Tschiffeli, Daniel & Tschiffeli, Gabriel"
+        },
+        {
+            "facet_id": 2560,
+            "occurrence": 79,
+            "value": "Bry, Johann Theodor de & Galler, Hieronymus"
+        },
+        {
+            "facet_id": 8316,
+            "occurrence": 79,
+            "value": "Grosse, Henning"
+        },
+        {
+            "facet_id": 21120,
+            "occurrence": 75,
+            "value": "Hoffmann, Johann"
+        },
+        {
+            "facet_id": 99370,
+            "occurrence": 74,
+            "value": "Hondius, Hendrik"
+        },
+        {
+            "facet_id": 32912,
+            "occurrence": 73,
+            "value": "Gerhard, Christoph"
+        },
+        {
+            "facet_id": 18432,
+            "occurrence": 67,
+            "value": "Dintzenhofer, Leonhard"
+        },
+        {
+            "facet_id": 93447,
+            "occurrence": 66,
+            "value": "Amelung, Johann Georg"
+        },
+        {
+            "facet_id": 93448,
+            "occurrence": 66,
+            "value": "Amelung"
+        },
+        {
+            "facet_id": 22697,
+            "occurrence": 64,
+            "value": "Fischer, Peter & Becker, Matthäus"
+        },
+        {
+            "facet_id": 81882,
+            "occurrence": 62,
+            "value": "Pacard, Abraham"
+        },
+        {
+            "facet_id": 44683,
+            "occurrence": 60,
+            "value": "Bry, Johann Theodor de & Kempfer, Erasmus"
+        },
+        {
+            "facet_id": 36750,
+            "occurrence": 57,
+            "value": "Furttenbach, Joseph (der Jüngere)"
+        },
+        {
+            "facet_id": 66710,
+            "occurrence": 54,
+            "value": "Schultes, Friedrich"
+        },
+        {
+            "facet_id": 66711,
+            "occurrence": 54,
+            "value": "Heil"
+        },
+        {
+            "facet_id": 14927,
+            "occurrence": 53,
+            "value": "Kauffmann, Paul"
+        },
+        {
+            "facet_id": 20111,
+            "occurrence": 53,
+            "value": "Strada, Octavius de & Jennis, Lukas & Jacobi, Paul"
+        },
+        {
+            "facet_id": 20904,
+            "occurrence": 52,
+            "value": "Grosse, Henning & Meuschke, Johann"
+        },
+        {
+            "facet_id": 41284,
+            "occurrence": 51,
+            "value": "Tambach, Gottfried"
+        },
+        {
+            "facet_id": 52521,
+            "occurrence": 51,
+            "value": "Riegel, Christoph & Knorz, Andreas"
+        },
+        {
+            "facet_id": 57327,
+            "occurrence": 50,
+            "value": "Seyffert, Johann"
+        },
+        {
+            "facet_id": 129508,
+            "occurrence": 50,
+            "value": "Strada, Octavius de & Grevenbroich, Gerhard"
+        },
+        {
+            "facet_id": 49675,
+            "occurrence": 49,
+            "value": "Oehrling, Georg Heinrich & Andreae, Johann Philipp"
+        },
+        {
+            "facet_id": 11874,
+            "occurrence": 48,
+            "value": "Steinmeyer"
+        },
+        {
+            "facet_id": 66877,
+            "occurrence": 47,
+            "value": "Endter, Wolfgang Moritz"
+        },
+        {
+            "facet_id": 15142,
+            "occurrence": 45,
+            "value": "Winter, Georg Simon"
+        },
+        {
+            "facet_id": 22677,
+            "occurrence": 45,
+            "value": "Dreherr, Rudolf"
+        },
+        {
+            "facet_id": 6099,
+            "occurrence": 43,
+            "value": "Sand, Hermann von"
+        },
+        {
+            "facet_id": 113846,
+            "occurrence": 43,
+            "value": "Blaeu, Joan & Blaeu, Cornelis"
+        },
+        {
+            "facet_id": 37364,
+            "occurrence": 42,
+            "value": "Schultes, Johann"
+        },
+        {
+            "facet_id": 47315,
+            "occurrence": 41,
+            "value": "Bry, Johann Theodor de & Jacobi, Paul"
+        },
+        {
+            "facet_id": 49850,
+            "occurrence": 40,
+            "value": "Fischer, Philipp Jakob"
+        },
+        {
+            "facet_id": 15733,
+            "occurrence": 39,
+            "value": "Schultes"
+        },
+        {
+            "facet_id": 29807,
+            "occurrence": 39,
+            "value": "Richter, Wolfgang"
+        },
+        {
+            "facet_id": 23474,
+            "occurrence": 38,
+            "value": "Fürst, Paul"
+        },
+        {
+            "facet_id": 71861,
+            "occurrence": 38,
+            "value": "Froberger, Christian Sigmund"
+        },
+        {
+            "facet_id": 3297,
+            "occurrence": 37,
+            "value": "König Ludwig I."
+        },
+        {
+            "facet_id": 199115,
+            "occurrence": 37,
+            "value": "Felsecker, Wolfgang Eberhard"
+        },
+        {
+            "facet_id": 95325,
+            "occurrence": 36,
+            "value": "Bourgeat, Ludwig"
+        },
+        {
+            "facet_id": 167386,
+            "occurrence": 36,
+            "value": "Stock, Johann Adolph & Stock, Philipp Wilhelm"
+        },
+        {
+            "facet_id": 104335,
+            "occurrence": 35,
+            "value": "Ad insigne Pinus"
+        },
+        {
+            "facet_id": 9682,
+            "occurrence": 34,
+            "value": "Bergen"
+        },
+        {
+            "facet_id": 42994,
+            "occurrence": 32,
+            "value": "Lanckisch, Friedrich"
+        },
+        {
+            "facet_id": 4427,
+            "occurrence": 31,
+            "value": "Polich, Johann Michael"
+        },
+        {
+            "facet_id": 102333,
+            "occurrence": 30,
+            "value": "Fievet, Philipp"
+        },
+        {
+            "facet_id": 32658,
+            "occurrence": 29,
+            "value": "Ketzel, Wolfgang"
+        },
+        {
+            "facet_id": 112624,
+            "occurrence": 29,
+            "value": "Halbmeyer, Simon"
+        },
+        {
+            "facet_id": 92002,
+            "occurrence": 26,
+            "value": "Cholin"
+        },
+        {
+            "facet_id": 2749,
+            "occurrence": 25,
+            "value": "Winckler"
+        },
+        {
+            "facet_id": 61054,
+            "occurrence": 25,
+            "value": "Götze, Thomas Matthias"
+        },
+        {
+            "facet_id": 89582,
+            "occurrence": 25,
+            "value": "Scamozzi, Vincenzo"
+        },
+        {
+            "facet_id": 187169,
+            "occurrence": 25,
+            "value": "Bodmer, Johann Jakob"
+        },
+        {
+            "facet_id": 49949,
+            "occurrence": 24,
+            "value": "Geßner, Jonas"
+        },
+        {
+            "facet_id": 132340,
+            "occurrence": 24,
+            "value": "Beckenstein, Simon & Stolle, Johann Zacharias"
+        },
+        {
+            "facet_id": 1236,
+            "occurrence": 23,
+            "value": "König"
+        },
+        {
+            "facet_id": 164098,
+            "occurrence": 23,
+            "value": "Heil, Quirin"
+        },
+        {
+            "facet_id": 51694,
+            "occurrence": 22,
+            "value": "Wallhausen, Johann Jacob von & Jacobi, Paul"
+        },
+        {
+            "facet_id": 22346,
+            "occurrence": 21,
+            "value": "Hartmann, Daniel"
+        },
+        {
+            "facet_id": 29046,
+            "occurrence": 21,
+            "value": "Genath"
+        },
+        {
+            "facet_id": 71862,
+            "occurrence": 21,
+            "value": "Pfann, Wilhelm"
+        },
+        {
+            "facet_id": 597,
+            "occurrence": 20,
+            "value": "Richter"
+        },
+        {
+            "facet_id": 9455,
+            "occurrence": 20,
+            "value": "Waldkirch, Konrad von"
+        },
+        {
+            "facet_id": 85150,
+            "occurrence": 20,
+            "value": "Fürst, Gerhard"
+        },
+        {
+            "facet_id": 175685,
+            "occurrence": 20,
+            "value": "Jacobi, Paul"
+        },
+        {
+            "facet_id": 229071,
+            "occurrence": 20,
+            "value": "Schönnerstädt, Johann Heinrich"
+        },
+        {
+            "facet_id": 24598,
+            "occurrence": 19,
+            "value": "Zieger"
+        },
+        {
+            "facet_id": 30733,
+            "occurrence": 19,
+            "value": "Heil, Quirin & Drullmann, Johann Georg"
+        },
+        {
+            "facet_id": 71863,
+            "occurrence": 19,
+            "value": "Funck"
+        },
+        {
+            "facet_id": 123227,
+            "occurrence": 19,
+            "value": "Völcker, Rupert"
+        },
+        {
+            "facet_id": 65729,
+            "occurrence": 18,
+            "value": "Knorz, Andreas"
+        },
+        {
+            "facet_id": 270388,
+            "occurrence": 18,
+            "value": "Klose, Johann Herbert"
+        },
+        {
+            "facet_id": 31534,
+            "occurrence": 17,
+            "value": "Apel, Jakob"
+        },
+        {
+            "facet_id": 150958,
+            "occurrence": 17,
+            "value": "Norton, John"
+        },
+        {
+            "facet_id": 601653,
+            "occurrence": 17,
+            "value": "Janssonius van Waesberge, Johannes"
+        },
+        {
+            "facet_id": 23766,
+            "occurrence": 16,
+            "value": "Jacobi, Paul & Jennis, Lukas"
+        }
+    ]
+}

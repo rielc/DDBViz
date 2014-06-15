@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_facet_id": 4003,
+    "affiliate_facet": "Innenministerium",
+    "occurrence": 111,
+    "affiliates": [
+        {
+            "facet_id": 4003,
+            "occurrence": 118,
+            "value": "Forstamt Ettlingen"
+        },
+        {
+            "facet_id": 4474,
+            "occurrence": 1,
+            "value": "Keine Angaben"
+        },
+        {
+            "facet_id": 33586,
+            "occurrence": 1,
+            "value": "Geometer J. Brugier"
+        },
+        {
+            "facet_id": 275831,
+            "occurrence": 1,
+            "value": "Geometer E. Bürgin"
+        }
+    ]
+}

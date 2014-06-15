@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 2157,
+    "affiliate_facet": "Reimer",
+    "occurrence": 1126,
+    "affiliates": [
+        {
+            "facet_id": 2157,
+            "occurrence": 1168,
+            "value": "Hofgericht Oberrheinkreis"
+        },
+        {
+            "facet_id": 24656,
+            "occurrence": 31,
+            "value": "Hecker, Friedrich, Mannheim"
+        },
+        {
+            "facet_id": 169067,
+            "occurrence": 19,
+            "value": "Struve, Gustav v., Mannheim"
+        },
+        {
+            "facet_id": 24657,
+            "occurrence": 15,
+            "value": "Hollinger, Fidel, Buchdrucker, Rheinfelden"
+        },
+        {
+            "facet_id": 76317,
+            "occurrence": 6,
+            "value": "Blind, Karl, Mannheim"
+        },
+        {
+            "facet_id": 311043,
+            "occurrence": 6,
+            "value": "Struve, Amalie, Mannheim"
+        },
+        {
+            "facet_id": 321042,
+            "occurrence": 5,
+            "value": "Wehrle, Joseph, Altsimonswald"
+        },
+        {
+            "facet_id": 321043,
+            "occurrence": 5,
+            "value": "Weiss, Johann, Altsimonswald"
+        },
+        {
+            "facet_id": 321045,
+            "occurrence": 5,
+            "value": "Winterhalter, Joseph, Altsimonswald"
+        },
+        {
+            "facet_id": 2581,
+            "occurrence": 4,
+            "value": "Baumann, Heinrich Wilhelm, Lahr"
+        },
+        {
+            "facet_id": 2582,
+            "occurrence": 4,
+            "value": "Langguth, Christian, Efringen"
+        },
+        {
+            "facet_id": 129955,
+            "occurrence": 4,
+            "value": "Ulm, v., Heimbach"
+        },
+        {
+            "facet_id": 145791,
+            "occurrence": 4,
+            "value": "Türckheim, Frhrn. v."
+        },
+        {
+            "facet_id": 311042,
+            "occurrence": 4,
+            "value": "Düsar, Peter, Mannheim"
+        },
+        {
+            "facet_id": 3288,
+            "occurrence": 3,
+            "value": "Berstett, v., Grundherrschaft, Buchholz"
+        },
+        {
+            "facet_id": 132550,
+            "occurrence": 3,
+            "value": "Henin, v., Grundherrschaft, Hecklingen"
+        },
+        {
+            "facet_id": 276341,
+            "occurrence": 3,
+            "value": "Wengen, Friedrich v."
+        },
+        {
+            "facet_id": 306368,
+            "occurrence": 3,
+            "value": "Haberstroh, Michael, Siegelau"
+        },
+        {
+            "facet_id": 306369,
+            "occurrence": 3,
+            "value": "Singler, Anton, Siegelau"
+        },
+        {
+            "facet_id": 321044,
+            "occurrence": 3,
+            "value": "Weiss, Martin, Altsimonswald"
+        },
+        {
+            "facet_id": 2583,
+            "occurrence": 2,
+            "value": "Lefevre, Johann Karl, Berlin"
+        },
+        {
+            "facet_id": 2584,
+            "occurrence": 2,
+            "value": "Mayer, Bonaventura, Rom"
+        },
+        {
+            "facet_id": 2585,
+            "occurrence": 2,
+            "value": "Schnepf, Cyriak; Sulzbach"
+        },
+        {
+            "facet_id": 6020,
+            "occurrence": 2,
+            "value": "Türkheim, Bruno Frhr. von, Freiburg"
+        },
+        {
+            "facet_id": 12038,
+            "occurrence": 2,
+            "value": "Kageneck, v., Grundherrschaft"
+        },
+        {
+            "facet_id": 50684,
+            "occurrence": 2,
+            "value": "Struve, Gustav v."
+        },
+        {
+            "facet_id": 56349,
+            "occurrence": 2,
+            "value": "Rotteck, Carl von; Historiker, Politiker, 1775-1840"
+        },
+        {
+            "facet_id": 101948,
+            "occurrence": 2,
+            "value": "Berstett, v., Grundherrschaft, Bollschweil"
+        },
+        {
+            "facet_id": 110345,
+            "occurrence": 2,
+            "value": "Saier, Augustin; Wagensteig"
+        },
+        {
+            "facet_id": 127844,
+            "occurrence": 2,
+            "value": "Burger, Georg, Katzenmoos"
+        },
+        {
+            "facet_id": 154642,
+            "occurrence": 2,
+            "value": "Türckheim v.; Grundherrschaft, Altdorf"
+        },
+        {
+            "facet_id": 172541,
+            "occurrence": 2,
+            "value": "Klausmann, Joseph, Yach"
+        },
+        {
+            "facet_id": 199411,
+            "occurrence": 2,
+            "value": "Likert, Thäddaus, Zastler"
+        },
+        {
+            "facet_id": 202407,
+            "occurrence": 2,
+            "value": "Dreher, Ferdinand, Tutschfelden"
+        },
+        {
+            "facet_id": 231182,
+            "occurrence": 2,
+            "value": "Kageneck, Philipp v."
+        },
+        {
+            "facet_id": 251867,
+            "occurrence": 2,
+            "value": "Nitz, Augustin, Haslachsimonswald"
+        },
+        {
+            "facet_id": 251868,
+            "occurrence": 2,
+            "value": "Weiss, Martin, Haslachsimonswald"
+        },
+        {
+            "facet_id": 259346,
+            "occurrence": 2,
+            "value": "Böcherer, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 259347,
+            "occurrence": 2,
+            "value": "Bona, Ludwig, Heitersheim"
+        },
+        {
+            "facet_id": 259348,
+            "occurrence": 2,
+            "value": "Eckerlin, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 259349,
+            "occurrence": 2,
+            "value": "Eitel, Johann, Müllheim"
+        },
+        {
+            "facet_id": 259350,
+            "occurrence": 2,
+            "value": "Erler, Johann M., Seefelden"
+        },
+        {
+            "facet_id": 259351,
+            "occurrence": 2,
+            "value": "Etter, Johann J., Müllheim"
+        },
+        {
+            "facet_id": 259352,
+            "occurrence": 2,
+            "value": "Etter, Nikolaus, Müllheim"
+        },
+        {
+            "facet_id": 259353,
+            "occurrence": 2,
+            "value": "Fromherz, Fridolin, Strittmatt"
+        },
+        {
+            "facet_id": 259354,
+            "occurrence": 2,
+            "value": "Kaiser, Bonifaz, Ibach"
+        },
+        {
+            "facet_id": 259355,
+            "occurrence": 2,
+            "value": "Mintsch, Trutpert, Schliengen"
+        },
+        {
+            "facet_id": 259356,
+            "occurrence": 2,
+            "value": "Muser, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 259357,
+            "occurrence": 2,
+            "value": "Strohmaier, Burkhard, Müllheim"
+        },
+        {
+            "facet_id": 259358,
+            "occurrence": 2,
+            "value": "Strohmaier, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 259359,
+            "occurrence": 2,
+            "value": "Strohmaier, Johann, Müllheim"
+        },
+        {
+            "facet_id": 259360,
+            "occurrence": 2,
+            "value": "Sutter, Christof, Müllheim"
+        },
+        {
+            "facet_id": 259361,
+            "occurrence": 2,
+            "value": "Sutter, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 259362,
+            "occurrence": 2,
+            "value": "Sutter, Johann, Müllheim"
+        },
+        {
+            "facet_id": 259363,
+            "occurrence": 2,
+            "value": "Walliser, Jakob F., Vögisheim"
+        },
+        {
+            "facet_id": 259364,
+            "occurrence": 2,
+            "value": "Werber, Josef, Heitersheim"
+        },
+        {
+            "facet_id": 259365,
+            "occurrence": 2,
+            "value": "Wiedmann, Johann, Bürchau"
+        },
+        {
+            "facet_id": 288262,
+            "occurrence": 2,
+            "value": "Rombach, Paul; Wagensteig"
+        },
+        {
+            "facet_id": 293837,
+            "occurrence": 2,
+            "value": "Bathiani, Witwe, Heitersheim"
+        },
+        {
+            "facet_id": 378050,
+            "occurrence": 2,
+            "value": "Thoma, Johann Martin, Kronenwirt, Kadelburg"
+        },
+        {
+            "facet_id": 421643,
+            "occurrence": 2,
+            "value": "Schätzle, Anton, Biederbach"
+        },
+        {
+            "facet_id": 421644,
+            "occurrence": 2,
+            "value": "Schätzle, Mathäus, Biederbach"
+        },
+        {
+            "facet_id": 482255,
+            "occurrence": 2,
+            "value": "Leimgruber, Martin, Ehrenstetten"
+        },
+        {
+            "facet_id": 529333,
+            "occurrence": 2,
+            "value": "Bühler, Joseph, Biederbach"
+        },
+        {
+            "facet_id": 535158,
+            "occurrence": 2,
+            "value": "Pfunder, Fridolin, Hach"
+        },
+        {
+            "facet_id": 582343,
+            "occurrence": 2,
+            "value": "Sumser, Mathias, Lehenbauer, Freiburg"
+        },
+        {
+            "facet_id": 621542,
+            "occurrence": 2,
+            "value": "Baier, Matthias, Siegelau"
+        },
+        {
+            "facet_id": 633822,
+            "occurrence": 2,
+            "value": "Rottberg, Adolf v., Forstmeister"
+        },
+        {
+            "facet_id": 640169,
+            "occurrence": 2,
+            "value": "Ulm, Max v., Heimbach"
+        },
+        {
+            "facet_id": 645711,
+            "occurrence": 2,
+            "value": "Rombach, Magdalena, Wagensteig"
+        },
+        {
+            "facet_id": 647318,
+            "occurrence": 2,
+            "value": "Mack, Leopold, Siegelau"
+        },
+        {
+            "facet_id": 713471,
+            "occurrence": 2,
+            "value": "Schmid, Friedrich, Kameralscribent, Hornberg"
+        },
+        {
+            "facet_id": 752446,
+            "occurrence": 2,
+            "value": "Schnepf, Cyriak, Sulzbach"
+        },
+        {
+            "facet_id": 769202,
+            "occurrence": 2,
+            "value": "Zipfel, Joseph, Wagensteig"
+        },
+        {
+            "facet_id": 830826,
+            "occurrence": 2,
+            "value": "Kageneck, Friedrich v."
+        },
+        {
+            "facet_id": 845845,
+            "occurrence": 2,
+            "value": "Baden, v., Staatsrat"
+        },
+        {
+            "facet_id": 873859,
+            "occurrence": 2,
+            "value": "Zimmermann, Mathias, Wittnau"
+        },
+        {
+            "facet_id": 907028,
+            "occurrence": 2,
+            "value": "Böcklin von Böcklinsau, Grundherrschaft, Rust"
+        },
+        {
+            "facet_id": 945960,
+            "occurrence": 2,
+            "value": "Gleichenstein, v., Freiburg"
+        },
+        {
+            "facet_id": 982737,
+            "occurrence": 2,
+            "value": "Gmelin, Friedrich, Müllheim"
+        },
+        {
+            "facet_id": 1026105,
+            "occurrence": 2,
+            "value": "Schum, Xaver, Siegelau"
+        },
+        {
+            "facet_id": 14002,
+            "occurrence": 1,
+            "value": "Fürstenberg, Standesherrschaft"
+        },
+        {
+            "facet_id": 21947,
+            "occurrence": 1,
+            "value": "Bihlmann, Joseph, Bad Krozingen"
+        },
+        {
+            "facet_id": 21948,
+            "occurrence": 1,
+            "value": "Bleile, Johann, Bad Krozingen"
+        },
+        {
+            "facet_id": 22366,
+            "occurrence": 1,
+            "value": "Brüstle, Simon, Reichenbach"
+        },
+        {
+            "facet_id": 23887,
+            "occurrence": 1,
+            "value": "Maier, Johann, Waffenschmied, Freiburg"
+        },
+        {
+            "facet_id": 35722,
+            "occurrence": 1,
+            "value": "Issel, Hofrat, Freiburg"
+        },
+        {
+            "facet_id": 43673,
+            "occurrence": 1,
+            "value": "Bartberger, Andreas, Freiburg"
+        },
+        {
+            "facet_id": 43674,
+            "occurrence": 1,
+            "value": "Weismann, Kreszenz, Freiburg"
+        },
+        {
+            "facet_id": 43935,
+            "occurrence": 1,
+            "value": "Andlau, Heinrich v."
+        },
+        {
+            "facet_id": 43936,
+            "occurrence": 1,
+            "value": "Harsch, v."
+        },
+        {
+            "facet_id": 43937,
+            "occurrence": 1,
+            "value": "Rink, Franz v."
+        },
+        {
+            "facet_id": 72548,
+            "occurrence": 1,
+            "value": "Nopper, Georg, Gutach"
+        },
+        {
+            "facet_id": 72549,
+            "occurrence": 1,
+            "value": "Wehrle, Georg, Altvogt, Gutach"
+        },
+        {
+            "facet_id": 74508,
+            "occurrence": 1,
+            "value": "Böhler, Josef, Brunnadern"
+        },
+        {
+            "facet_id": 74509,
+            "occurrence": 1,
+            "value": "Huber, Peter, Brunnadern"
+        },
+        {
+            "facet_id": 74510,
+            "occurrence": 1,
+            "value": "Kümmerle, Josef, Brunnadern"
+        },
+        {
+            "facet_id": 74511,
+            "occurrence": 1,
+            "value": "Obrist, Konrad, Brunnadern"
+        },
+        {
+            "facet_id": 74512,
+            "occurrence": 1,
+            "value": "Rudiger, Josef, Stabhalter, Brunnadern"
+        },
+        {
+            "facet_id": 74513,
+            "occurrence": 1,
+            "value": "Schmidt, Josef; Brunnadern"
+        }
+    ]
+}

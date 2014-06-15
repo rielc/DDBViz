@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_fct_id": 13,
+    "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+    "affiliate_fct_occurrence": 2644,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 2644
+        },
+        {
+            "affiliate_fct_id": 5306,
+            "affiliate_fct": "SLUB Dresden",
+            "affiliate_fct_occurrence": 454
+        },
+        {
+            "affiliate_fct_id": 16054,
+            "affiliate_fct": "Ritzsch",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 14994,
+            "affiliate_fct": "Röber, Paul",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 21344,
+            "affiliate_fct": "Röhner",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 1782,
+            "affiliate_fct": "Wendt",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 61918,
+            "affiliate_fct": "Wendeler, Michael",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 100246,
+            "affiliate_fct": "Neomenius, Johann",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 13178,
+            "affiliate_fct": "Grosse",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 107965,
+            "affiliate_fct": "Ebert, Theodor",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 41272,
+            "affiliate_fct": "Hülsemann, Johann",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 70230,
+            "affiliate_fct": "Hoepner, Johann",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 55696,
+            "affiliate_fct": "Schmuck, Vincentius",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 56445,
+            "affiliate_fct": "Gormann",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 79655,
+            "affiliate_fct": "Fludd, Robert",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 103164,
+            "affiliate_fct": "Thamm",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 107967,
+            "affiliate_fct": "Literis viduae Voltzianae exscripta per Michaelem Kochen",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 3794,
+            "affiliate_fct": "Birckner",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 9807,
+            "affiliate_fct": "Endter",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 16001,
+            "affiliate_fct": "Staatl. Kunstsammlungen Dresden, Mathematisch-Physikalischer Salon",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 35179,
+            "affiliate_fct": "Martini, Jacob",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 9682,
+            "affiliate_fct": "Bergen",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 10504,
+            "affiliate_fct": "Lanckisch",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 16951,
+            "affiliate_fct": "Hake",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 88351,
+            "affiliate_fct": "Lange, Christian",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 255778,
+            "affiliate_fct": "Wichelmann, Hartwig",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 13621,
+            "affiliate_fct": "Leyser, Polycarp",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 19810,
+            "affiliate_fct": "Halbmayer",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 21137,
+            "affiliate_fct": "Hartmann",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 28835,
+            "affiliate_fct": "Lamberg",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 40126,
+            "affiliate_fct": "Furttenbach, Joseph",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 64749,
+            "affiliate_fct": "Saur",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 75338,
+            "affiliate_fct": "Zamel, Friedrich",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 85575,
+            "affiliate_fct": "Eichstaedt, Lorenz",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 1236,
+            "affiliate_fct": "König",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 2858,
+            "affiliate_fct": "Autor",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 3795,
+            "affiliate_fct": "Hildebrand, Wolfgang",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 5186,
+            "affiliate_fct": "Hampel",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 5622,
+            "affiliate_fct": "Ledertz",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 14270,
+            "affiliate_fct": "Fürst",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 38829,
+            "affiliate_fct": "Bartholin, Caspar",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 52933,
+            "affiliate_fct": "Fitzerus",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 56443,
+            "affiliate_fct": "Schumann, Caspar",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 58535,
+            "affiliate_fct": "Kepler, Johannes",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 63775,
+            "affiliate_fct": "Götze",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 65466,
+            "affiliate_fct": "Rötelius",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 75339,
+            "affiliate_fct": "Bodenhausen",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 76900,
+            "affiliate_fct": "Scharf, Johann",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 130865,
+            "affiliate_fct": "Weber, L. Ananias",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 5179,
+            "affiliate_fct": "Jacobi",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 5946,
+            "affiliate_fct": "Hoffmann",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 13938,
+            "affiliate_fct": "Zetzner",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 15733,
+            "affiliate_fct": "Schultes",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 30078,
+            "affiliate_fct": "Balduin, Friedrich",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 37473,
+            "affiliate_fct": "Schürer",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 80266,
+            "affiliate_fct": "Schmuck",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 153858,
+            "affiliate_fct": "Norton",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 157691,
+            "affiliate_fct": "Herlitz, David",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 183110,
+            "affiliate_fct": "Hoe von Hoenegg, Matthias",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 220155,
+            "affiliate_fct": "Behm, Johann",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 467143,
+            "affiliate_fct": "Faulhaber, Johann",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 597,
+            "affiliate_fct": "Richter",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 1585,
+            "affiliate_fct": "Steinmann",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 9359,
+            "affiliate_fct": "Kilius",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 15766,
+            "affiliate_fct": "Palthenius",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 25931,
+            "affiliate_fct": "Sebisch, Melchior",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 34615,
+            "affiliate_fct": "Auerbach",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 65463,
+            "affiliate_fct": "Norton, Samuel",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 65465,
+            "affiliate_fct": "Deane, Edmund",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 92863,
+            "affiliate_fct": "Cober",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 112368,
+            "affiliate_fct": "Sennert, Daniel",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 121830,
+            "affiliate_fct": "De Bry",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 125565,
+            "affiliate_fct": "Thumm, Theodor",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 141424,
+            "affiliate_fct": "Henrici, Daniel",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 163987,
+            "affiliate_fct": "Caus, Salomon de",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 184893,
+            "affiliate_fct": "Ebert, Theophil",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 300430,
+            "affiliate_fct": "Zubler, Leonhard",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 840,
+            "affiliate_fct": "Apel",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 914,
+            "affiliate_fct": "Müller",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 3474,
+            "affiliate_fct": "Fincelius",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 5764,
+            "affiliate_fct": "Hulsius, Levinus",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 10105,
+            "affiliate_fct": "Ferdinand <Römisch-Deutsches Reich, Kaiser, II.>",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 10226,
+            "affiliate_fct": "Mentzer, Balthasar",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 11315,
+            "affiliate_fct": "Schmidt, Johann",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 15933,
+            "affiliate_fct": "Gerhard",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 34091,
+            "affiliate_fct": "Scultetus, Abraham",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 64442,
+            "affiliate_fct": "Leyser, Wilhelm",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 86391,
+            "affiliate_fct": "Wallhausen, Johann Jacob von",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 177358,
+            "affiliate_fct": "Lauterbach, Erhart",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 178783,
+            "affiliate_fct": "Johann Georg <Sachsen, Kurfürst, I.>",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 197804,
+            "affiliate_fct": "Gerhard, Johann",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 295136,
+            "affiliate_fct": "Sachsse",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 308951,
+            "affiliate_fct": "Bramer, Benjamin",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 338949,
+            "affiliate_fct": "Schwenter, Daniel",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 945,
+            "affiliate_fct": "Wittigau",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 3905,
+            "affiliate_fct": "Fischer",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 5139,
+            "affiliate_fct": "Chemlin",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 9593,
+            "affiliate_fct": "Lantzenberger",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 12251,
+            "affiliate_fct": "Schönwetterus",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 14551,
+            "affiliate_fct": "Werlin",
+            "affiliate_fct_occurrence": 5
+        }
+    ]
+}

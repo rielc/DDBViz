@@ -1,0 +1,39 @@
+{
+    "time_fct_id": 17,
+    "time_fct": "time_62090",
+    "affiliate_facet_id": 8750,
+    "affiliate_facet": "VEB Märkische Möbelwerke Trebbin",
+    "occurrence": 192,
+    "affiliates": [
+        {
+            "facet_id": 44,
+            "occurrence": 212,
+            "value": "Weimer, Friedrich (Fotograf)"
+        },
+        {
+            "facet_id": 8750,
+            "occurrence": 212,
+            "value": "Hochschule für Kunst und Design Halle (Burg Giebichenstein)"
+        },
+        {
+            "facet_id": 61312,
+            "occurrence": 52,
+            "value": "Körner, ?"
+        },
+        {
+            "facet_id": 68722,
+            "occurrence": 24,
+            "value": "Roder, ?"
+        },
+        {
+            "facet_id": 135115,
+            "occurrence": 19,
+            "value": "Fränkel, ?"
+        },
+        {
+            "facet_id": 139914,
+            "occurrence": 8,
+            "value": "Frenkel, ?"
+        }
+    ]
+}

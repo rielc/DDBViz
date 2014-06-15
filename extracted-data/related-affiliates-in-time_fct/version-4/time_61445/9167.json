@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 51,
+    "time_fct": "time_61445",
+    "affiliate_fct_id": 9167,
+    "affiliate_fct": "Speyer, Richter, Rat und Bürger",
+    "affiliate_fct_occurrence": 82,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 9167,
+            "affiliate_fct": "Speyer, Richter, Rat und Bürger",
+            "affiliate_fct_occurrence": 82
+        },
+        {
+            "affiliate_fct_id": 87928,
+            "affiliate_fct": "Speyer, Stadt",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 423054,
+            "affiliate_fct": "Pfrumbaum, Johann",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 50558,
+            "affiliate_fct": "Herxheim, Anselm von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 387256,
+            "affiliate_fct": "Holtmut, Heilmann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 950391,
+            "affiliate_fct": "Pfrumbaum, Albrecht",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 46892,
+            "affiliate_fct": "Reineck, Nicolaus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 47665,
+            "affiliate_fct": "Heym, Johann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 200565,
+            "affiliate_fct": "Östreicher, Claus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 248754,
+            "affiliate_fct": "Böbingen, Engelin von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 259059,
+            "affiliate_fct": "Reineck, Gezel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 305386,
+            "affiliate_fct": "Gerwin, der Kürschner",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 393076,
+            "affiliate_fct": "Mömpelgard, Jost von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 410116,
+            "affiliate_fct": "Schurheymer, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 561398,
+            "affiliate_fct": "Reineck, Margaretha",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 597200,
+            "affiliate_fct": "Kürsener, Fritz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 630133,
+            "affiliate_fct": "Rorbecher, Hennel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 634988,
+            "affiliate_fct": "Weil, Heinrich von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 664708,
+            "affiliate_fct": "Seiler, Hensel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 706211,
+            "affiliate_fct": "Fritz, Conz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 706212,
+            "affiliate_fct": "Fritz, Else",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 722848,
+            "affiliate_fct": "Kürsener, Conz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 734000,
+            "affiliate_fct": "Neckarau, Berthold von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 752706,
+            "affiliate_fct": "Hummel, Conz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24142,
+            "affiliate_fct": "Hörmich, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24143,
+            "affiliate_fct": "Mörlin, Jockel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31125,
+            "affiliate_fct": "Schwarz, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 34518,
+            "affiliate_fct": "Koch, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 50559,
+            "affiliate_fct": "Lustadt, Werner von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72993,
+            "affiliate_fct": "Heine, Peter von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 87927,
+            "affiliate_fct": "Hormich, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 98618,
+            "affiliate_fct": "Birkel, der Schwarzfärber",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 98619,
+            "affiliate_fct": "Schwigger, Demut",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115096,
+            "affiliate_fct": "Pfister, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129796,
+            "affiliate_fct": "Zimmermann, Heinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138686,
+            "affiliate_fct": "Hellwig, der Alte",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138687,
+            "affiliate_fct": "Rotenkolben, Conz Scharlaboße zum",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138688,
+            "affiliate_fct": "Rotenkolben, Jutta Scharlaboße zum",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 143520,
+            "affiliate_fct": "Crone, Hannemann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 143521,
+            "affiliate_fct": "Kirsegarten, Conz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 143522,
+            "affiliate_fct": "Weißenburg, Claus von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 143523,
+            "affiliate_fct": "Wilgemann, Conz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164080,
+            "affiliate_fct": "Neipperg, Heinrich von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 166360,
+            "affiliate_fct": "Forst, Elsa von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222173,
+            "affiliate_fct": "Andeler, Eberhard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222174,
+            "affiliate_fct": "Andeler, Hensel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222175,
+            "affiliate_fct": "Lenz, Ebelin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222176,
+            "affiliate_fct": "Lenz, Kunigunde",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 248755,
+            "affiliate_fct": "Böbingen, Metza von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 248756,
+            "affiliate_fct": "Landau, Hennel von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 248757,
+            "affiliate_fct": "Landau, Metza von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259058,
+            "affiliate_fct": "Haasen, Heinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 267571,
+            "affiliate_fct": "Fritzmann, Hensel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311366,
+            "affiliate_fct": "Frickel, Hannemann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311367,
+            "affiliate_fct": "Schopheim, Henel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318027,
+            "affiliate_fct": "Beschieden, Conrad",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 363160,
+            "affiliate_fct": "Freund, Burkhart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 363161,
+            "affiliate_fct": "Mömpelgard, Anselm von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370800,
+            "affiliate_fct": "Syde, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 387257,
+            "affiliate_fct": "Kirweiler, Demut",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 387258,
+            "affiliate_fct": "Kirweiler, Werner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 389401,
+            "affiliate_fct": "Sinsheim, Abt von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 393077,
+            "affiliate_fct": "Neckarau, Cleisel von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404095,
+            "affiliate_fct": "Reinbot, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404096,
+            "affiliate_fct": "Schurheimer, Doldemann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404097,
+            "affiliate_fct": "Schurheimer, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404098,
+            "affiliate_fct": "Sweiffen, Fritz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 410115,
+            "affiliate_fct": "Schurheymer, Dietz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 410117,
+            "affiliate_fct": "Schurheymer, Wilgemann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 421437,
+            "affiliate_fct": "Rübenschnitz, Else",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 421438,
+            "affiliate_fct": "Rübenschnitz, Hertel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423055,
+            "affiliate_fct": "Schenbel, Albrecht",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 425104,
+            "affiliate_fct": "Offenburg, Rudolf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 428565,
+            "affiliate_fct": "Leiningen, Claus von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 428566,
+            "affiliate_fct": "Rose, Heile",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 506585,
+            "affiliate_fct": "Melwer, Agnes, genannt Nese",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 544622,
+            "affiliate_fct": "Meyelan; Conzel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 559831,
+            "affiliate_fct": "Müller, Zimmermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 564116,
+            "affiliate_fct": "Guldenbronn, Hensel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 574494,
+            "affiliate_fct": "Berghausen, Conz von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 574495,
+            "affiliate_fct": "Kransberg, Conz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 581587,
+            "affiliate_fct": "Bilger, Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 581588,
+            "affiliate_fct": "Sassenecken, Demut",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 581589,
+            "affiliate_fct": "Sigelhuon, Gärtner in Speyer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593310,
+            "affiliate_fct": "Binzinger, Zarte",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593311,
+            "affiliate_fct": "Steinimsack, Werner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593312,
+            "affiliate_fct": "Wißrock, Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 594097,
+            "affiliate_fct": "Swicker, Werner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 612955,
+            "affiliate_fct": "Conrad, der Beschieder",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 612956,
+            "affiliate_fct": "Heinz, Zimmermann von Landau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629454,
+            "affiliate_fct": "Münch, Heinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629455,
+            "affiliate_fct": "Neckarau, Claus von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630132,
+            "affiliate_fct": "Magen, Heinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 634987,
+            "affiliate_fct": "Otmann, Sygesart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 637058,
+            "affiliate_fct": "Pfenner, Irmela",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 656375,
+            "affiliate_fct": "Snurrer, Bertha",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 656376,
+            "affiliate_fct": "Snurrer, Conrad",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 656377,
+            "affiliate_fct": "Syde, Dietrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 664707,
+            "affiliate_fct": "Guldenbronn, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 689672,
+            "affiliate_fct": "Dudenhofen, Hug von",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

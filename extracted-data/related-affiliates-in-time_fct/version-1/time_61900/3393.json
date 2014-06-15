@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 3393,
+    "affiliate_facet": "Cicero, Marcus Tullius (v106-v43)",
+    "occurrence": 758,
+    "affiliates": [
+        {
+            "facet_id": 3393,
+            "occurrence": 765,
+            "value": "Enke"
+        },
+        {
+            "facet_id": 99451,
+            "occurrence": 33,
+            "value": "Deutsche Strafrechtliche Gesellschaft"
+        },
+        {
+            "facet_id": 3394,
+            "occurrence": 25,
+            "value": "Maurer, Georg Ludwig von (1790-1872)"
+        },
+        {
+            "facet_id": 25608,
+            "occurrence": 18,
+            "value": "Canstatt, Carl Friedrich (1807-1850)"
+        },
+        {
+            "facet_id": 163871,
+            "occurrence": 13,
+            "value": "Anwaltverein für Bayern"
+        },
+        {
+            "facet_id": 67361,
+            "occurrence": 12,
+            "value": "Virchow, Rudolf (1821-1902)"
+        },
+        {
+            "facet_id": 213534,
+            "occurrence": 12,
+            "value": "Eichhorn, Heinrich"
+        },
+        {
+            "facet_id": 75934,
+            "occurrence": 10,
+            "value": "Eisenmann, Gottfried (1795-1867)"
+        },
+        {
+            "facet_id": 122576,
+            "occurrence": 10,
+            "value": "Bamberger, Heinrich von (1822-1888)"
+        },
+        {
+            "facet_id": 186601,
+            "occurrence": 10,
+            "value": "Frank, Martell (1810-1886)"
+        },
+        {
+            "facet_id": 16635,
+            "occurrence": 8,
+            "value": "Döderlein, Ludwig (1791-1863)"
+        },
+        {
+            "facet_id": 17206,
+            "occurrence": 8,
+            "value": "Krafft-Ebing, Richard von (1840-1902)"
+        },
+        {
+            "facet_id": 333330,
+            "occurrence": 8,
+            "value": "Meyer, J. G."
+        },
+        {
+            "facet_id": 74621,
+            "occurrence": 7,
+            "value": "Deutschland (Deutsches Reich) / Reichsoberhandelsgericht"
+        },
+        {
+            "facet_id": 370712,
+            "occurrence": 7,
+            "value": "Vogel, Alfred (1829-1890)"
+        },
+        {
+            "facet_id": 11862,
+            "occurrence": 6,
+            "value": "Mohl, Robert von (1799-1875)"
+        },
+        {
+            "facet_id": 34043,
+            "occurrence": 6,
+            "value": "Temme, Jodocus Dedatus Hubertus (1798-1881)"
+        },
+        {
+            "facet_id": 36670,
+            "occurrence": 6,
+            "value": "Knebusch, Theodor"
+        },
+        {
+            "facet_id": 78512,
+            "occurrence": 6,
+            "value": "Niemeyer, Paul (1832-1890)"
+        },
+        {
+            "facet_id": 389764,
+            "occurrence": 6,
+            "value": "Beigel, Hermann"
+        },
+        {
+            "facet_id": 45651,
+            "occurrence": 5,
+            "value": "Neumann, Karl Georg (1774-1850)"
+        },
+        {
+            "facet_id": 57064,
+            "occurrence": 5,
+            "value": "Göbel, Karl Christian Traugott Friedemann (1794-1851)"
+        },
+        {
+            "facet_id": 87826,
+            "occurrence": 5,
+            "value": "Mittermaier, Carl Joseph Anton (1787-1867)"
+        },
+        {
+            "facet_id": 163110,
+            "occurrence": 5,
+            "value": "Wundt, Wilhelm (1832-1920)"
+        },
+        {
+            "facet_id": 31901,
+            "occurrence": 4,
+            "value": "Lersch, Bernhard M. (1817-1902)"
+        },
+        {
+            "facet_id": 63408,
+            "occurrence": 4,
+            "value": "Schwarze, Friedrich Oskar von (1816-1886)"
+        },
+        {
+            "facet_id": 74514,
+            "occurrence": 4,
+            "value": "Kunze, Karl Ferdinand (1826-1889)"
+        },
+        {
+            "facet_id": 164177,
+            "occurrence": 4,
+            "value": "Schürmayer, Ignaz Heinrich (1802-1881)"
+        },
+        {
+            "facet_id": 166481,
+            "occurrence": 4,
+            "value": "Agatz, G. J."
+        },
+        {
+            "facet_id": 216158,
+            "occurrence": 4,
+            "value": "Schmidt, Franz X."
+        },
+        {
+            "facet_id": 252958,
+            "occurrence": 4,
+            "value": "Moleschott, Jacob (1822-1893)"
+        },
+        {
+            "facet_id": 259661,
+            "occurrence": 4,
+            "value": "Reich, Eduard (1836-1919)"
+        },
+        {
+            "facet_id": 298371,
+            "occurrence": 4,
+            "value": "Pitha, Franz von (1810-1875)"
+        },
+        {
+            "facet_id": 378760,
+            "occurrence": 4,
+            "value": "Heßler, Franz (1799-1890)"
+        },
+        {
+            "facet_id": 394752,
+            "occurrence": 4,
+            "value": "Deutschland (Norddeutscher Bund) / Bundesoberhandelsgericht"
+        },
+        {
+            "facet_id": 774190,
+            "occurrence": 4,
+            "value": "Kärcher, Karl Gustav"
+        },
+        {
+            "facet_id": 24050,
+            "occurrence": 3,
+            "value": "Friedreich, Johannes B. (1796-1862)"
+        },
+        {
+            "facet_id": 24524,
+            "occurrence": 3,
+            "value": "Kletke, Hermann (1813-1886)"
+        },
+        {
+            "facet_id": 28455,
+            "occurrence": 3,
+            "value": "Irmischer, Johann Konrad (1797-1857)"
+        },
+        {
+            "facet_id": 30294,
+            "occurrence": 3,
+            "value": "Döllinger, Georg Ferdinand (1771-1847)"
+        },
+        {
+            "facet_id": 53465,
+            "occurrence": 3,
+            "value": "Leutbecher, Johann (1801-1878)"
+        },
+        {
+            "facet_id": 58716,
+            "occurrence": 3,
+            "value": "Kraussold, Lorenz (1803-1881)"
+        },
+        {
+            "facet_id": 77811,
+            "occurrence": 3,
+            "value": "Warnkönig, Leopold August (1794-1866)"
+        },
+        {
+            "facet_id": 95233,
+            "occurrence": 3,
+            "value": "Zeissl, Hermann (1817-1884)"
+        },
+        {
+            "facet_id": 96601,
+            "occurrence": 3,
+            "value": "Regel, Eduard (1815-1892)"
+        },
+        {
+            "facet_id": 99489,
+            "occurrence": 3,
+            "value": "Henkel, ..."
+        },
+        {
+            "facet_id": 159031,
+            "occurrence": 3,
+            "value": "Seitz, Eugen (1817-1899)"
+        },
+        {
+            "facet_id": 170402,
+            "occurrence": 3,
+            "value": "Marquardsen, Heinrich (1826-1897)"
+        },
+        {
+            "facet_id": 182568,
+            "occurrence": 3,
+            "value": "Dresch, Johann Casimir (ca. 1. Hälfte 19. Jh.)"
+        },
+        {
+            "facet_id": 185671,
+            "occurrence": 3,
+            "value": "Brauer, Wilhelm"
+        },
+        {
+            "facet_id": 216828,
+            "occurrence": 3,
+            "value": "Falck, Karl Philipp (1816-1880)"
+        },
+        {
+            "facet_id": 243430,
+            "occurrence": 3,
+            "value": "Locher, Hans (1823-1873)"
+        },
+        {
+            "facet_id": 272812,
+            "occurrence": 3,
+            "value": "Höfle, Mark Aurel (1818-1855)"
+        },
+        {
+            "facet_id": 277591,
+            "occurrence": 3,
+            "value": "Angelstein, Karl (1799-1868)"
+        },
+        {
+            "facet_id": 283518,
+            "occurrence": 3,
+            "value": "Kiwisch von Rotterau, Franz (1814-1852)"
+        },
+        {
+            "facet_id": 375578,
+            "occurrence": 3,
+            "value": "Kissel, Carl"
+        },
+        {
+            "facet_id": 492623,
+            "occurrence": 3,
+            "value": "Suśruta (ca. 2.-7. Jh.)"
+        },
+        {
+            "facet_id": 570135,
+            "occurrence": 3,
+            "value": "Jacobson, J."
+        },
+        {
+            "facet_id": 670472,
+            "occurrence": 3,
+            "value": "Nar, Carl von"
+        },
+        {
+            "facet_id": 713935,
+            "occurrence": 3,
+            "value": "Buff, Heinrich Ludwig (1828-1872)"
+        },
+        {
+            "facet_id": 2407,
+            "occurrence": 2,
+            "value": "Tacitus, Cornelius (55-116/120n.Chr.)"
+        },
+        {
+            "facet_id": 3582,
+            "occurrence": 2,
+            "value": "Leupoldt, Johann Michael (1794-1874)"
+        },
+        {
+            "facet_id": 4545,
+            "occurrence": 2,
+            "value": "Thiersch, Heinrich Wilhelm Josias (1817-1885)"
+        },
+        {
+            "facet_id": 10911,
+            "occurrence": 2,
+            "value": "Simon, Friedrich Alexander <jun.> (1793-1869)"
+        },
+        {
+            "facet_id": 17503,
+            "occurrence": 2,
+            "value": "Seitz, Franz (1811-1892)"
+        },
+        {
+            "facet_id": 21453,
+            "occurrence": 2,
+            "value": "Schubert, Ferdinand"
+        },
+        {
+            "facet_id": 22724,
+            "occurrence": 2,
+            "value": "Kastner, Karl Wilhelm Gottlob (1783-1857)"
+        },
+        {
+            "facet_id": 37376,
+            "occurrence": 2,
+            "value": "(Kunstmann)"
+        },
+        {
+            "facet_id": 43596,
+            "occurrence": 2,
+            "value": "Heusde, Philipp Willem van (1778-1839)"
+        },
+        {
+            "facet_id": 45784,
+            "occurrence": 2,
+            "value": "Fischer, Hermann Eberhard (1831-1919)"
+        },
+        {
+            "facet_id": 48088,
+            "occurrence": 2,
+            "value": "Klüber, Johann Ludwig (1762-1837)"
+        },
+        {
+            "facet_id": 80576,
+            "occurrence": 2,
+            "value": "Umpfenbach, Karl Friedrich (1832-1907)"
+        },
+        {
+            "facet_id": 90885,
+            "occurrence": 2,
+            "value": "Lebert, Hermann (1813-1878)"
+        },
+        {
+            "facet_id": 99007,
+            "occurrence": 2,
+            "value": "Osenbrüggen, Eduard (1809-1879)"
+        },
+        {
+            "facet_id": 100274,
+            "occurrence": 2,
+            "value": "Vogel, Julius (1814-1880)"
+        },
+        {
+            "facet_id": 128764,
+            "occurrence": 2,
+            "value": "Kekulé, Aug."
+        },
+        {
+            "facet_id": 131438,
+            "occurrence": 2,
+            "value": "Wildberger, Johannes (1815-1879)"
+        },
+        {
+            "facet_id": 144943,
+            "occurrence": 2,
+            "value": "Griesinger, Wilhelm (1817-1868)"
+        },
+        {
+            "facet_id": 145970,
+            "occurrence": 2,
+            "value": "Gerber, Carl Friedrich Wilhelm von (1823-1891)"
+        },
+        {
+            "facet_id": 151028,
+            "occurrence": 2,
+            "value": "Noack, Ludwig (1819-1885)"
+        },
+        {
+            "facet_id": 152848,
+            "occurrence": 2,
+            "value": "Büttner, Christian"
+        },
+        {
+            "facet_id": 164283,
+            "occurrence": 2,
+            "value": "Aschenbrenner, Melchior"
+        },
+        {
+            "facet_id": 166092,
+            "occurrence": 2,
+            "value": "Schultheiss, Wolfgang Konrad (1785-1866)"
+        },
+        {
+            "facet_id": 191872,
+            "occurrence": 2,
+            "value": "Hebra, Ferdinand von (1816-1880)"
+        },
+        {
+            "facet_id": 206859,
+            "occurrence": 2,
+            "value": "Stiebel, Salomon Friedrich (1792-1868)"
+        },
+        {
+            "facet_id": 216098,
+            "occurrence": 2,
+            "value": "Siebert, August (1805-1855)"
+        },
+        {
+            "facet_id": 225549,
+            "occurrence": 2,
+            "value": "Staudinger, Julius von (1836-1902)"
+        },
+        {
+            "facet_id": 236118,
+            "occurrence": 2,
+            "value": "Hirschfeld, Josef"
+        },
+        {
+            "facet_id": 262995,
+            "occurrence": 2,
+            "value": "Jaeck, Michael (1783-1833)"
+        },
+        {
+            "facet_id": 283062,
+            "occurrence": 2,
+            "value": "Steffan, Ph."
+        },
+        {
+            "facet_id": 283434,
+            "occurrence": 2,
+            "value": "Schaden, Emil August von (1814-1852)"
+        },
+        {
+            "facet_id": 302448,
+            "occurrence": 2,
+            "value": "Baerensprung, Friedrich Wilhelm Felix von (1822-1864)"
+        },
+        {
+            "facet_id": 320274,
+            "occurrence": 2,
+            "value": "Levita, Julius (1826-)"
+        },
+        {
+            "facet_id": 328259,
+            "occurrence": 2,
+            "value": "Carl, Ferdinand"
+        },
+        {
+            "facet_id": 328260,
+            "occurrence": 2,
+            "value": "Reuss, Andreas"
+        },
+        {
+            "facet_id": 365212,
+            "occurrence": 2,
+            "value": "Hasse, Karl Ewald (1810-1902)"
+        },
+        {
+            "facet_id": 427278,
+            "occurrence": 2,
+            "value": "Fecht, H. A."
+        },
+        {
+            "facet_id": 443913,
+            "occurrence": 2,
+            "value": "Jochheim, Philipp"
+        },
+        {
+            "facet_id": 476312,
+            "occurrence": 2,
+            "value": "Neumann, Heinrich"
+        },
+        {
+            "facet_id": 549563,
+            "occurrence": 2,
+            "value": "Leidesdorf, Maximilian (1818-1889)"
+        }
+    ]
+}

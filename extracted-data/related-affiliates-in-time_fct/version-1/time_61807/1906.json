@@ -1,0 +1,404 @@
+{
+    "time_fct_id": 32,
+    "time_fct": "time_61807",
+    "affiliate_facet_id": 1906,
+    "affiliate_facet": "Pfaff, Christoph Matthaeus (1686-1760)",
+    "occurrence": 155,
+    "affiliates": [
+        {
+            "facet_id": 1906,
+            "occurrence": 159,
+            "value": "Amt Habitzheim"
+        },
+        {
+            "facet_id": 8302,
+            "occurrence": 5,
+            "value": "Haxthausen, Freiherren von"
+        },
+        {
+            "facet_id": 3239,
+            "occurrence": 2,
+            "value": "Kurpfalz"
+        },
+        {
+            "facet_id": 14082,
+            "occurrence": 2,
+            "value": "Löwenstein-Wertheim, Grafen"
+        },
+        {
+            "facet_id": 29241,
+            "occurrence": 2,
+            "value": "Hessen-Darmstadt, Landgrafen"
+        },
+        {
+            "facet_id": 89948,
+            "occurrence": 2,
+            "value": "Dickhaut, Amtmann zu Umstadt"
+        },
+        {
+            "facet_id": 457359,
+            "occurrence": 2,
+            "value": "Herbert, Georg, Schultheiß zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 656,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Rochefort, Fürsten; Maximilian Carl"
+        },
+        {
+            "facet_id": 53995,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Rochefort, Fürsten"
+        },
+        {
+            "facet_id": 63766,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Rochefort, Fürsten; Dominik Marquard"
+        },
+        {
+            "facet_id": 78809,
+            "occurrence": 1,
+            "value": "Ruprecht, König"
+        },
+        {
+            "facet_id": 85943,
+            "occurrence": 1,
+            "value": "Held, Johannes"
+        },
+        {
+            "facet_id": 135056,
+            "occurrence": 1,
+            "value": "Zöller, Johann Adolph, lutherischer Pfarrer in Spachbrücken"
+        },
+        {
+            "facet_id": 135057,
+            "occurrence": 1,
+            "value": "Zöller, Johann Jacob, Spachbrücken"
+        },
+        {
+            "facet_id": 181986,
+            "occurrence": 1,
+            "value": "Hessen-Kassel, Landgrafen"
+        },
+        {
+            "facet_id": 201920,
+            "occurrence": 1,
+            "value": "Freitag, Johann Jakob"
+        },
+        {
+            "facet_id": 201921,
+            "occurrence": 1,
+            "value": "Herbert, Georg Wolff, Groß-Zimmern"
+        },
+        {
+            "facet_id": 207710,
+            "occurrence": 1,
+            "value": "Hessen-Darmstadt, Landgrafen; Ludwig"
+        },
+        {
+            "facet_id": 223298,
+            "occurrence": 1,
+            "value": "Joseph, Schutzjude (zu Großzimmern)"
+        },
+        {
+            "facet_id": 262073,
+            "occurrence": 1,
+            "value": "Mosbach, Anna Sidonia, Heidelberg"
+        },
+        {
+            "facet_id": 262074,
+            "occurrence": 1,
+            "value": "Reinfort, Johann Friedrich, isenburgischer Förster in Büdingen"
+        },
+        {
+            "facet_id": 300730,
+            "occurrence": 1,
+            "value": "Reinhard, Burkhard, Groß-Zimmern"
+        },
+        {
+            "facet_id": 314451,
+            "occurrence": 1,
+            "value": "Affrom, Jude aus Spachbrücken"
+        },
+        {
+            "facet_id": 314452,
+            "occurrence": 1,
+            "value": "Göttmann, Konrad, Kirchbeerfurth"
+        },
+        {
+            "facet_id": 318148,
+            "occurrence": 1,
+            "value": "Chelius, Amtmann zu Umstadt"
+        },
+        {
+            "facet_id": 318149,
+            "occurrence": 1,
+            "value": "Reinfort, Herren von"
+        },
+        {
+            "facet_id": 375602,
+            "occurrence": 1,
+            "value": "Heidt, Johann Melchior, Amtsverweser zu Habitzheim"
+        },
+        {
+            "facet_id": 376168,
+            "occurrence": 1,
+            "value": "Werner, Caspar, Kirchen- und Schuldiener zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 395933,
+            "occurrence": 1,
+            "value": "Wolf, Johann Heinrich"
+        },
+        {
+            "facet_id": 413686,
+            "occurrence": 1,
+            "value": "Gans, Michel"
+        },
+        {
+            "facet_id": 445463,
+            "occurrence": 1,
+            "value": "Dickhaut, Franz Josef, Amtsverweser zu Umstadt"
+        },
+        {
+            "facet_id": 518175,
+            "occurrence": 1,
+            "value": "Löwenstein, Grafen; Friedrich"
+        },
+        {
+            "facet_id": 522829,
+            "occurrence": 1,
+            "value": "May, Peter"
+        },
+        {
+            "facet_id": 534687,
+            "occurrence": 1,
+            "value": "Löw, Jude aus Lengfeld"
+        },
+        {
+            "facet_id": 534688,
+            "occurrence": 1,
+            "value": "Moses, Jude aus Semd"
+        },
+        {
+            "facet_id": 542383,
+            "occurrence": 1,
+            "value": "Haxthausen, Freiherren von; Ulrich"
+        },
+        {
+            "facet_id": 551790,
+            "occurrence": 1,
+            "value": "Hessen-Darmstadt, Landgrafschafen"
+        },
+        {
+            "facet_id": 581540,
+            "occurrence": 1,
+            "value": "Wambold, von"
+        },
+        {
+            "facet_id": 590017,
+            "occurrence": 1,
+            "value": "Eichmüller, Johann Georg, Groß-Zimmern"
+        },
+        {
+            "facet_id": 639438,
+            "occurrence": 1,
+            "value": "Weber, Groß-Zimmern"
+        },
+        {
+            "facet_id": 646974,
+            "occurrence": 1,
+            "value": "Haas, Müller"
+        },
+        {
+            "facet_id": 686635,
+            "occurrence": 1,
+            "value": "Beisner, Caspar, Dieburg"
+        },
+        {
+            "facet_id": 686636,
+            "occurrence": 1,
+            "value": "Zodig, Jude in Groß-Zimmern"
+        },
+        {
+            "facet_id": 713266,
+            "occurrence": 1,
+            "value": "Faist, Matha, Breuberg"
+        },
+        {
+            "facet_id": 714869,
+            "occurrence": 1,
+            "value": "Haxthausen, Freiherren von; Albertina Charlotta"
+        },
+        {
+            "facet_id": 744596,
+            "occurrence": 1,
+            "value": "Gans, Heinrich, Müller"
+        },
+        {
+            "facet_id": 744597,
+            "occurrence": 1,
+            "value": "Haas, Heinrich, Müller"
+        },
+        {
+            "facet_id": 755219,
+            "occurrence": 1,
+            "value": "Gavirati, kurpfälzischer Amtsschultheiß"
+        },
+        {
+            "facet_id": 772562,
+            "occurrence": 1,
+            "value": "Held, Heinrich, Groß-Zimmern"
+        },
+        {
+            "facet_id": 781458,
+            "occurrence": 1,
+            "value": "Kunckelmann, Leonhard, Knecht in der Tannenmühle"
+        },
+        {
+            "facet_id": 786349,
+            "occurrence": 1,
+            "value": "Kaysersfeld, Baron von"
+        },
+        {
+            "facet_id": 789582,
+            "occurrence": 1,
+            "value": "Steck, Carl, Forstmeister"
+        },
+        {
+            "facet_id": 789583,
+            "occurrence": 1,
+            "value": "Strauwitz, Eustachius von"
+        },
+        {
+            "facet_id": 800470,
+            "occurrence": 1,
+            "value": "Curtius, Umstadt"
+        },
+        {
+            "facet_id": 809663,
+            "occurrence": 1,
+            "value": "D'Elsance, Bankier, Frankfurt"
+        },
+        {
+            "facet_id": 809664,
+            "occurrence": 1,
+            "value": "Jacob Walter, Lengfeld"
+        },
+        {
+            "facet_id": 809665,
+            "occurrence": 1,
+            "value": "Löw Baruch, Weinheim"
+        },
+        {
+            "facet_id": 902621,
+            "occurrence": 1,
+            "value": "Herbert, Schultheiß zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 934054,
+            "occurrence": 1,
+            "value": "Groß-Zimmern, DA"
+        },
+        {
+            "facet_id": 934055,
+            "occurrence": 1,
+            "value": "Raibach, DA"
+        },
+        {
+            "facet_id": 934056,
+            "occurrence": 1,
+            "value": "Walldürn, MOS"
+        },
+        {
+            "facet_id": 935934,
+            "occurrence": 1,
+            "value": "Rückert, Hans Heinrich, Hofmann zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 935935,
+            "occurrence": 1,
+            "value": "Wendel, Dieterich, Hofmann zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 967374,
+            "occurrence": 1,
+            "value": "Waldmann, Jakob"
+        },
+        {
+            "facet_id": 984149,
+            "occurrence": 1,
+            "value": "Mosche, Spachbrücken"
+        },
+        {
+            "facet_id": 984150,
+            "occurrence": 1,
+            "value": "Neuroth, Georg Friedrich, Spachbrücken"
+        },
+        {
+            "facet_id": 1031274,
+            "occurrence": 1,
+            "value": "Dörr, Katharina"
+        },
+        {
+            "facet_id": 1031275,
+            "occurrence": 1,
+            "value": "Dörr, Peter"
+        },
+        {
+            "facet_id": 1035615,
+            "occurrence": 1,
+            "value": "Nimpsch, von, Darmstadt"
+        },
+        {
+            "facet_id": 1043983,
+            "occurrence": 1,
+            "value": "Schenken von Erbach; Eberhard"
+        },
+        {
+            "facet_id": 1072886,
+            "occurrence": 1,
+            "value": "Schenken von Erbach; Hans"
+        },
+        {
+            "facet_id": 1072887,
+            "occurrence": 1,
+            "value": "Schenken von Erbach; Valentin"
+        },
+        {
+            "facet_id": 1111539,
+            "occurrence": 1,
+            "value": "Haxthausen, Freiherren von; Anna Elisabetha"
+        },
+        {
+            "facet_id": 1120237,
+            "occurrence": 1,
+            "value": "Herbert, Wolf, Centschultheiß zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 1120681,
+            "occurrence": 1,
+            "value": "Ullner, Freiherr von, Oberamtmann zu Umstadt"
+        },
+        {
+            "facet_id": 1154584,
+            "occurrence": 1,
+            "value": "Hosemann, Pfarrer zu Groß-Zimmern"
+        },
+        {
+            "facet_id": 1160913,
+            "occurrence": 1,
+            "value": "Moses, Spachbrücken"
+        },
+        {
+            "facet_id": 1160914,
+            "occurrence": 1,
+            "value": "Spengler, Johann, Brensbach"
+        },
+        {
+            "facet_id": 1162515,
+            "occurrence": 1,
+            "value": "Herbert, Georg, Tabakzollerheber zu Groß-Zimmern"
+        }
+    ]
+}

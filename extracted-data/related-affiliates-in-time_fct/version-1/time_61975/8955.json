@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_facet_id": 8955,
+    "affiliate_facet": "Forstamt Weinheim",
+    "occurrence": 302,
+    "affiliates": [
+        {
+            "facet_id": 8955,
+            "occurrence": 308,
+            "value": "Rentamt Wertheim"
+        },
+        {
+            "facet_id": 56016,
+            "occurrence": 5,
+            "value": "Herberich"
+        },
+        {
+            "facet_id": 8115,
+            "occurrence": 1,
+            "value": "?"
+        },
+        {
+            "facet_id": 957581,
+            "occurrence": 1,
+            "value": "Heberich"
+        }
+    ]
+}

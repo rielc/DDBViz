@@ -1,0 +1,509 @@
+{
+    "time_facet_id": 8,
+    "time_facet": "time_62100",
+    "affiliate_facet_id": 6655,
+    "affiliate_facet": "Bundesministerium für Verkehr, Bau und Stadtentwicklung",
+    "occurrence": 280,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 6655,
+            "affiliate_fct": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+            "affiliate_fct_occurrence": 291
+        },
+        {
+            "affiliate_fct_id": 6653,
+            "affiliate_fct": "BAuA",
+            "affiliate_fct_occurrence": 66
+        },
+        {
+            "affiliate_fct_id": 111779,
+            "affiliate_fct": "Beermann, Beate",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 111782,
+            "affiliate_fct": "Windel, Armin",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 170855,
+            "affiliate_fct": "Bundesanst. für Arbeitsschutz und Arbeitsmedizin",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 384889,
+            "affiliate_fct": "Steinberg, Ulf",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 111781,
+            "affiliate_fct": "Brenscheidt, Frank",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 6654,
+            "affiliate_fct": "Barth, Christof",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 74684,
+            "affiliate_fct": "Köper, Birgit",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 74685,
+            "affiliate_fct": "Dicke, Wolfgang",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 85970,
+            "affiliate_fct": "Schatte, Martin",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 111780,
+            "affiliate_fct": "Henke, Nathalie",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 165306,
+            "affiliate_fct": "Freude, Gabriele",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 293317,
+            "affiliate_fct": "Bleyer, Tobias",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 350034,
+            "affiliate_fct": "Ott, Günter",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 378323,
+            "affiliate_fct": "Richter, Gabriele",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 85967,
+            "affiliate_fct": "Kinne, Jens",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 114813,
+            "affiliate_fct": "Kersten, Norbert",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 164302,
+            "affiliate_fct": "Probst, Wolfgang",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 254316,
+            "affiliate_fct": "Müller-Arnecke, Heiner",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 337812,
+            "affiliate_fct": "Reyhl, Holger",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 350032,
+            "affiliate_fct": "Janßen, Marco",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 433564,
+            "affiliate_fct": "Kujath, Peter",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 470864,
+            "affiliate_fct": "Gebhardt, Hansjürgen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 489465,
+            "affiliate_fct": "Liebers, Falk",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 493041,
+            "affiliate_fct": "Pennig, Stefan",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 493042,
+            "affiliate_fct": "Vogt, Joachim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 613962,
+            "affiliate_fct": "Siefer, Anke",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 36224,
+            "affiliate_fct": "Sust, Charlotte A.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 147903,
+            "affiliate_fct": "Martin, Hans",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 165304,
+            "affiliate_fct": "Baethge, Anja",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 181145,
+            "affiliate_fct": "Müller-Arnecke, Heiner W.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 181146,
+            "affiliate_fct": "Hold, Ulrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 217135,
+            "affiliate_fct": "Initiative Neue Qualität der Arbeit (INQA) Geschäftsstelle c/o Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 245996,
+            "affiliate_fct": "Herbig, Britta",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 245997,
+            "affiliate_fct": "Glaser, Jürgen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 285405,
+            "affiliate_fct": "Weiß, Raimund",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 296898,
+            "affiliate_fct": "Schmauder, Martin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 299710,
+            "affiliate_fct": "Höhn, Katrin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 302827,
+            "affiliate_fct": "Hebisch, Ralph",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 335802,
+            "affiliate_fct": "Woelk, Susanne",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 338571,
+            "affiliate_fct": "Rieger, Monika A.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 350030,
+            "affiliate_fct": "Udovicic, Ljiljana",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 356413,
+            "affiliate_fct": "Freiling, Thomas",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 356648,
+            "affiliate_fct": "Nöllenheidt, Christoph",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 356649,
+            "affiliate_fct": "Brenscheidt, Simone",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 359208,
+            "affiliate_fct": "Lorenz, Dieter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 430786,
+            "affiliate_fct": "Richter, Götz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 458445,
+            "affiliate_fct": "Creutzenberg, Otto",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 458447,
+            "affiliate_fct": "Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 489466,
+            "affiliate_fct": "Behrendt, Sylvia",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 557199,
+            "affiliate_fct": "Nolting, Hans-Dieter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 589692,
+            "affiliate_fct": "Grzech-Šukalo, Hiltraud",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 589693,
+            "affiliate_fct": "Hänecke, Kerstin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 601684,
+            "affiliate_fct": "Lafrenz, Bettina",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 609659,
+            "affiliate_fct": "Völker, Katy",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 668415,
+            "affiliate_fct": "Romanus, Erik",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 683016,
+            "affiliate_fct": "Bundesministerium für Arbeit und Soziales",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 707761,
+            "affiliate_fct": "[Initiative Neue Qualität der Arbeit c/o Bundesanst. für Arbeitsschutz und Arbeitsmedizin] [Vertrieb]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 771491,
+            "affiliate_fct": "Kurtz, Patrick",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 966879,
+            "affiliate_fct": "Gabriel, Stephan",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 85968,
+            "affiliate_fct": "Latzel, Konrad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 114806,
+            "affiliate_fct": "Backé, Eva-Maria",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 114810,
+            "affiliate_fct": "Hentschel, Klaus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 114817,
+            "affiliate_fct": "Thim, Carmen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 115624,
+            "affiliate_fct": "Roßnagel, Alexander",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 141821,
+            "affiliate_fct": "Kuhn, Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 142640,
+            "affiliate_fct": "Brockt, Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 165305,
+            "affiliate_fct": "Rigotti, Thomas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 177404,
+            "affiliate_fct": "Püster, Thomas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 179659,
+            "affiliate_fct": "Wangler, Ortwin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 179661,
+            "affiliate_fct": "Hawer, Maria",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 182980,
+            "affiliate_fct": "Jochum, Christian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 182981,
+            "affiliate_fct": "Lange, Dietmar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 192701,
+            "affiliate_fct": "Bux, Kersten",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 192830,
+            "affiliate_fct": "Gartzke, Joachim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 194026,
+            "affiliate_fct": "Wittig, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 206999,
+            "affiliate_fct": "Tischer, Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 228733,
+            "affiliate_fct": "Berger, Judith",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 293318,
+            "affiliate_fct": "Rademacher, Udo",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 296897,
+            "affiliate_fct": "Joiko, Karin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 296899,
+            "affiliate_fct": "Wolff, Gertrud",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 299709,
+            "affiliate_fct": "Lehder, Günter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 307969,
+            "affiliate_fct": "Adolph, Lars",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 329058,
+            "affiliate_fct": "Berger-Preiß, Edith",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 329059,
+            "affiliate_fct": "Kock, Heiko",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 329063,
+            "affiliate_fct": "Linsel, Gunter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 333261,
+            "affiliate_fct": "Blochmann, Günter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 338574,
+            "affiliate_fct": "Institut für Arbeitsmedizin, Sozialmedizin und Versorgungsforschung Universitätsklinikum Tübingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 360238,
+            "affiliate_fct": "Gebhardt, Hansjürgen (1961-)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 360240,
+            "affiliate_fct": "Lang, Karl-Heinz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 379982,
+            "affiliate_fct": "Michaelis, Martina",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 379983,
+            "affiliate_fct": "Hermann, Stella",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 394769,
+            "affiliate_fct": "Hamacher, Werner",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 394774,
+            "affiliate_fct": "Gesellschaft für Systemforschung und Konzeptentwicklung mbH",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 410831,
+            "affiliate_fct": "Initiative Neue Qualität der Arbeit / Initiativkreis Neue Qualität der Büroarbeit",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 437796,
+            "affiliate_fct": "Hofert, Regine",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 443678,
+            "affiliate_fct": "Knietsch, Anja",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 449952,
+            "affiliate_fct": "Jandt, Silke",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 449953,
+            "affiliate_fct": "Skistims, Hendrik",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

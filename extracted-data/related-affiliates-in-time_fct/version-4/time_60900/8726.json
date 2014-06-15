@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 42,
+    "time_fct": "time_60900",
+    "affiliate_fct_id": 8726,
+    "affiliate_fct": "Bibliothèque Nationale (Paris)",
+    "affiliate_fct_occurrence": 64,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 8726,
+            "affiliate_fct": "Bibliothèque Nationale (Paris)",
+            "affiliate_fct_occurrence": 64
+        },
+        {
+            "affiliate_fct_id": 8725,
+            "affiliate_fct": "Hofschule Karls des Großen",
+            "affiliate_fct_occurrence": 49
+        },
+        {
+            "affiliate_fct_id": 834708,
+            "affiliate_fct": "Johannes (Damaskus, von)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

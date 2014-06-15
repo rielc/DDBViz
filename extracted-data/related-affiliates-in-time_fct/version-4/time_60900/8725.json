@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 42,
+    "time_fct": "time_60900",
+    "affiliate_fct_id": 8725,
+    "affiliate_fct": "Hofschule Karls des Großen",
+    "affiliate_fct_occurrence": 53,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 8725,
+            "affiliate_fct": "Hofschule Karls des Großen",
+            "affiliate_fct_occurrence": 53
+        },
+        {
+            "affiliate_fct_id": 8726,
+            "affiliate_fct": "Bibliothèque Nationale (Paris)",
+            "affiliate_fct_occurrence": 49
+        },
+        {
+            "affiliate_fct_id": 28465,
+            "affiliate_fct": "Domschatzkammer (Aachen)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4201,
+            "affiliate_fct": "Biblioteca Apostolica Vaticana (Vatikan)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

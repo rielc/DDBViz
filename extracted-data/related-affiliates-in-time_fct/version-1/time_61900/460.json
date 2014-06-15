@@ -1,0 +1,39 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 460,
+    "affiliate_facet": "Cotta",
+    "occurrence": 4701,
+    "affiliates": [
+        {
+            "facet_id": 460,
+            "occurrence": 11301,
+            "value": "Stoedtner, Franz (Lichtbildverlag) (Fotograf)"
+        },
+        {
+            "facet_id": 111753,
+            "occurrence": 2,
+            "value": "Behrens, Peter <1868>"
+        },
+        {
+            "facet_id": 143213,
+            "occurrence": 2,
+            "value": "Olbrich, Joseph Maria"
+        },
+        {
+            "facet_id": 468800,
+            "occurrence": 2,
+            "value": "Habich, Ludwig"
+        },
+        {
+            "facet_id": 38535,
+            "occurrence": 1,
+            "value": "Messel, Alfred"
+        },
+        {
+            "facet_id": 688616,
+            "occurrence": 1,
+            "value": "C. Lorenz AG <Berlin>"
+        }
+    ]
+}

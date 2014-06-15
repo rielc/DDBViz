@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 31,
+    "time_fct": "time_61605",
+    "affiliate_fct_id": 1097,
+    "affiliate_fct": "Aristoteles (v384-v322)",
+    "affiliate_fct_occurrence": 321,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1097,
+            "affiliate_fct": "Aristoteles (v384-v322)",
+            "affiliate_fct_occurrence": 321
+        },
+        {
+            "affiliate_fct_id": 2594,
+            "affiliate_fct": "Johannes <Argyropulus> (1415-1487)",
+            "affiliate_fct_occurrence": 53
+        },
+        {
+            "affiliate_fct_id": 47096,
+            "affiliate_fct": "Lefèvre d'Etaples, Jacques (1450-1536)",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 6349,
+            "affiliate_fct": "Eck, Johannes (1486-1543)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 26691,
+            "affiliate_fct": "Porphyrius (233-301)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 185513,
+            "affiliate_fct": "Grimm & Wirsung",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 1099,
+            "affiliate_fct": "Périon, Joachim (1499-1559)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 29409,
+            "affiliate_fct": "Nifo, Agostino (1470-1538)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 10384,
+            "affiliate_fct": "Bruni, Leonardo (1370-1444)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 11734,
+            "affiliate_fct": "Theodorus <Gaza> (1398-1476)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 2780,
+            "affiliate_fct": "Thomas <de Aquino> (1225-1274)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 89550,
+            "affiliate_fct": "Averroes (1126-1198)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 89551,
+            "affiliate_fct": "Bagolino, Girolamo (ca. 16.Jh.)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 126502,
+            "affiliate_fct": "Vatablus, Franciscus (1493-1547)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 67266,
+            "affiliate_fct": "Iuntas",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 849,
+            "affiliate_fct": "Oporinus",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 8514,
+            "affiliate_fct": "Alexander <Aphrodisiensis>",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 3291,
+            "affiliate_fct": "Vettori, Pietro (1499-1585)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 7603,
+            "affiliate_fct": "Stöckel",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 8618,
+            "affiliate_fct": "Boethius, Anicius Manlius Severinus (480-524)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 10340,
+            "affiliate_fct": "Lotter",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 27305,
+            "affiliate_fct": "Miller",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 166009,
+            "affiliate_fct": "Peyligk, Johannes (1474-1522)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 1838,
+            "affiliate_fct": "[Landsberg]",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 10467,
+            "affiliate_fct": "Plato (v427-v347)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 23557,
+            "affiliate_fct": "[Martin Landsberg]",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 297592,
+            "affiliate_fct": "Lorchner, Johann",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 306489,
+            "affiliate_fct": "Johannes <Parreudt> (ca. gest. 1495)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 326273,
+            "affiliate_fct": "Landsberg",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 1197,
+            "affiliate_fct": "Stayner",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 2570,
+            "affiliate_fct": "Winter",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 11108,
+            "affiliate_fct": "Zimara, Marco Antonio (1460-1532)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 47184,
+            "affiliate_fct": "Grynaeus, Simon",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 90701,
+            "affiliate_fct": "Petrus <de Abano> (1250-1315)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 107429,
+            "affiliate_fct": "Barbarus, Hermolaus <Iunior> (1454-1493)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 196560,
+            "affiliate_fct": "Johannes <Philoponus> (490-570)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 266792,
+            "affiliate_fct": "Barbaro, Daniele Matteo Alvise (1514-1570)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 298,
+            "affiliate_fct": "Cochlaeus, Johannes (1479-1552)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2258,
+            "affiliate_fct": "Stephanus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 5640,
+            "affiliate_fct": "Quentel",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 6348,
+            "affiliate_fct": "Weissenhorn",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 9350,
+            "affiliate_fct": "Faber",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 34231,
+            "affiliate_fct": "Sepúlveda, Juan Ginés de (1490-1573)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 37912,
+            "affiliate_fct": "Amerbach, Veit (1503-1557)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 40018,
+            "affiliate_fct": "Philo <Alexandrinus> (25/10 v. Chr.-40/50 n. Chr.)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 41246,
+            "affiliate_fct": "VVinter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 47181,
+            "affiliate_fct": "Valderus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 47182,
+            "affiliate_fct": "Cleomedes (ca. 2. Jh.)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 47183,
+            "affiliate_fct": "Budé, Guillaume (1468-1540)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 57666,
+            "affiliate_fct": "Valla, Giorgio (1447-1500)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 60290,
+            "affiliate_fct": "Clicthove, Josse (1472-1543)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 61460,
+            "affiliate_fct": "Lasius et Platterus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 61461,
+            "affiliate_fct": "Pazzi, Alessandro de'",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 62452,
+            "affiliate_fct": "Simplicius <Cilicius> (ca. 6.Jh.)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 65236,
+            "affiliate_fct": "Georgius <Trapezuntius> (1395-1484)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 86729,
+            "affiliate_fct": "Valgrisius",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 92455,
+            "affiliate_fct": "[Oporinus]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 136986,
+            "affiliate_fct": "Leonicus Thomaeus, Nicolaus (1456-1531)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 157387,
+            "affiliate_fct": "Grosseteste, Robertus (1168-1253)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 168768,
+            "affiliate_fct": "Aratus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 171533,
+            "affiliate_fct": "Laguna, Andrés de (1499-1560)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 240252,
+            "affiliate_fct": "Bessarion (1395-1472)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 278791,
+            "affiliate_fct": "Peypuß",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 399042,
+            "affiliate_fct": "Lombardus, Bartholomaeus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 507661,
+            "affiliate_fct": "Maggi, Vincenzo (1498-1564)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1249,
+            "affiliate_fct": "Erasmus, Desiderius (1469-1536)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1839,
+            "affiliate_fct": "Melanchthon, Philipp (1497-1560)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2237,
+            "affiliate_fct": "Aegidius <Romanus> (1245-1316)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5441,
+            "affiliate_fct": "Segni, Bernardo (1504-1558)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5485,
+            "affiliate_fct": "Philelphus, Franciscus (1398-1481)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5749,
+            "affiliate_fct": "Rynman",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5750,
+            "affiliate_fct": "Gran)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17516,
+            "affiliate_fct": "Vives, Juan Luis (1492-1540)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 19973,
+            "affiliate_fct": "Scotus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20985,
+            "affiliate_fct": "Hegendorph, Christoph (1500-1540)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23213,
+            "affiliate_fct": "Westhemerus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 30140,
+            "affiliate_fct": "Froschoverus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 31695,
+            "affiliate_fct": "Strebée, Jacques-Louis (1481-1550)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 32121,
+            "affiliate_fct": "Schumann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 51758,
+            "affiliate_fct": "Alexander, Andreas (1475-)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 55383,
+            "affiliate_fct": "Torrentino",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 58877,
+            "affiliate_fct": "Toxites, Michael (1515-1581)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 59882,
+            "affiliate_fct": "Alantsee",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 78381,
+            "affiliate_fct": "Sybold",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79381,
+            "affiliate_fct": "Vincentius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 80032,
+            "affiliate_fct": "Maggi, Lucilio (1510-1578)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 96254,
+            "affiliate_fct": "Mauricius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 120845,
+            "affiliate_fct": "Mosnauer, Wolfgang",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 188693,
+            "affiliate_fct": "Durandus <de Alvernia> (ca. um 1295/1329)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 205781,
+            "affiliate_fct": "Bricot, Thomas (ca. ca. 1460 - 1516)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 212470,
+            "affiliate_fct": "Vincentinus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 222702,
+            "affiliate_fct": "Bebel et Isengrin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 245775,
+            "affiliate_fct": "Donato, Bernardino (1483-1543)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 283385,
+            "affiliate_fct": "Eustratius <Nicaenus> (1050-1117)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 284897,
+            "affiliate_fct": "Crab, Gilbert (-1552)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 297703,
+            "affiliate_fct": "Felicianus, Johannes Bernardus (1490-1552)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 383801,
+            "affiliate_fct": "Gaetanus <de Thienis> (ca. 1387 - 1465)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 621892,
+            "affiliate_fct": "Pentius de Leuco)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 244,
+            "affiliate_fct": "Plutarchus (45-120)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

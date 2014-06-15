@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 8,
+    "time_fct": "time_62100",
+    "affiliate_facet_id": 75,
+    "affiliate_facet": "Ahlers, Henrik (Fotograf)",
+    "occurrence": 2315,
+    "affiliates": [
+        {
+            "facet_id": 75,
+            "occurrence": 23710,
+            "value": "Otto, Gerhard (Fotograf)"
+        },
+        {
+            "facet_id": 14564,
+            "occurrence": 40,
+            "value": "Luftbildvertrieb und Werbebüro Gerhard Otto (Fotograf)"
+        },
+        {
+            "facet_id": 18607,
+            "occurrence": 2,
+            "value": "Krohne, Gottfried Heinrich"
+        },
+        {
+            "facet_id": 9142,
+            "occurrence": 1,
+            "value": "Schreiber, Bernhard"
+        },
+        {
+            "facet_id": 9143,
+            "occurrence": 1,
+            "value": "Giese, Ernst"
+        }
+    ]
+}

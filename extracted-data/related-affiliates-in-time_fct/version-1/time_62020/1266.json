@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_facet_id": 1266,
+    "affiliate_facet": "Forstamt Heidelberg",
+    "occurrence": 111,
+    "affiliates": [
+        {
+            "facet_id": 1266,
+            "occurrence": 117,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 14133,
+            "occurrence": 3,
+            "value": "Neumeyer"
+        },
+        {
+            "facet_id": 21807,
+            "occurrence": 3,
+            "value": "Eulitz"
+        },
+        {
+            "facet_id": 4317,
+            "occurrence": 2,
+            "value": "Montanus"
+        },
+        {
+            "facet_id": 13594,
+            "occurrence": 2,
+            "value": "Reclam"
+        },
+        {
+            "facet_id": 14809,
+            "occurrence": 2,
+            "value": "Bachem"
+        },
+        {
+            "facet_id": 23196,
+            "occurrence": 2,
+            "value": "Flemming"
+        },
+        {
+            "facet_id": 92898,
+            "occurrence": 2,
+            "value": "Langen"
+        },
+        {
+            "facet_id": 147333,
+            "occurrence": 2,
+            "value": "Niederhausen, Ernst"
+        },
+        {
+            "facet_id": 188515,
+            "occurrence": 2,
+            "value": "Schnell"
+        },
+        {
+            "facet_id": 238784,
+            "occurrence": 2,
+            "value": "Walther, Wilhelm"
+        },
+        {
+            "facet_id": 271124,
+            "occurrence": 2,
+            "value": "Stein, Walther"
+        },
+        {
+            "facet_id": 286497,
+            "occurrence": 2,
+            "value": "Kaufungen-Verlag"
+        },
+        {
+            "facet_id": 120,
+            "occurrence": 1,
+            "value": "Manz"
+        },
+        {
+            "facet_id": 264,
+            "occurrence": 1,
+            "value": "Wagner"
+        },
+        {
+            "facet_id": 266,
+            "occurrence": 1,
+            "value": "Teubner"
+        },
+        {
+            "facet_id": 293,
+            "occurrence": 1,
+            "value": "Wiener-Braunsberg, Josef"
+        },
+        {
+            "facet_id": 294,
+            "occurrence": 1,
+            "value": "Bloch"
+        },
+        {
+            "facet_id": 381,
+            "occurrence": 1,
+            "value": "Vandenhoeck & Ruprecht"
+        },
+        {
+            "facet_id": 397,
+            "occurrence": 1,
+            "value": "Selbstverl."
+        },
+        {
+            "facet_id": 600,
+            "occurrence": 1,
+            "value": "Brockhaus"
+        },
+        {
+            "facet_id": 914,
+            "occurrence": 1,
+            "value": "Müller"
+        },
+        {
+            "facet_id": 1215,
+            "occurrence": 1,
+            "value": "Dürr"
+        },
+        {
+            "facet_id": 1813,
+            "occurrence": 1,
+            "value": "Hartung"
+        },
+        {
+            "facet_id": 1833,
+            "occurrence": 1,
+            "value": "Walden, Herwarth"
+        },
+        {
+            "facet_id": 3670,
+            "occurrence": 1,
+            "value": "Selbstverlag"
+        },
+        {
+            "facet_id": 4058,
+            "occurrence": 1,
+            "value": "Mittler"
+        },
+        {
+            "facet_id": 4513,
+            "occurrence": 1,
+            "value": "Breitkopf & Härtel"
+        },
+        {
+            "facet_id": 5674,
+            "occurrence": 1,
+            "value": "Loewe"
+        },
+        {
+            "facet_id": 6894,
+            "occurrence": 1,
+            "value": "Zille, Heinrich"
+        },
+        {
+            "facet_id": 8898,
+            "occurrence": 1,
+            "value": "Frahm, Ludwig"
+        },
+        {
+            "facet_id": 9605,
+            "occurrence": 1,
+            "value": "Kirchheim"
+        },
+        {
+            "facet_id": 9707,
+            "occurrence": 1,
+            "value": "Huber"
+        },
+        {
+            "facet_id": 10899,
+            "occurrence": 1,
+            "value": "Union Deutsche Verlagsgesellschaft"
+        },
+        {
+            "facet_id": 12983,
+            "occurrence": 1,
+            "value": "Völker, Karl"
+        },
+        {
+            "facet_id": 14132,
+            "occurrence": 1,
+            "value": "Eisenberg, Wilhelm"
+        },
+        {
+            "facet_id": 16454,
+            "occurrence": 1,
+            "value": "Meiner"
+        },
+        {
+            "facet_id": 17116,
+            "occurrence": 1,
+            "value": "Imprimerie de la Mission Catholique"
+        },
+        {
+            "facet_id": 19203,
+            "occurrence": 1,
+            "value": "Selbstverlag des Verfassers"
+        },
+        {
+            "facet_id": 19229,
+            "occurrence": 1,
+            "value": "Attinger"
+        },
+        {
+            "facet_id": 19489,
+            "occurrence": 1,
+            "value": "Haug"
+        },
+        {
+            "facet_id": 19580,
+            "occurrence": 1,
+            "value": "Elwert"
+        },
+        {
+            "facet_id": 19613,
+            "occurrence": 1,
+            "value": "Scholl"
+        },
+        {
+            "facet_id": 21745,
+            "occurrence": 1,
+            "value": "Mahlau & Waldschmidt"
+        },
+        {
+            "facet_id": 23116,
+            "occurrence": 1,
+            "value": "Bruckmann"
+        },
+        {
+            "facet_id": 24868,
+            "occurrence": 1,
+            "value": "Herold"
+        },
+        {
+            "facet_id": 28007,
+            "occurrence": 1,
+            "value": "Hirsch, Julius"
+        },
+        {
+            "facet_id": 29287,
+            "occurrence": 1,
+            "value": "Stämpfli"
+        },
+        {
+            "facet_id": 31028,
+            "occurrence": 1,
+            "value": "Fuchs, Eduard"
+        },
+        {
+            "facet_id": 35065,
+            "occurrence": 1,
+            "value": "Schultheß"
+        },
+        {
+            "facet_id": 35512,
+            "occurrence": 1,
+            "value": "Landsdrukkerij"
+        },
+        {
+            "facet_id": 36523,
+            "occurrence": 1,
+            "value": "Fuchs"
+        },
+        {
+            "facet_id": 36664,
+            "occurrence": 1,
+            "value": "Gesenius"
+        },
+        {
+            "facet_id": 36759,
+            "occurrence": 1,
+            "value": "Verlag der \"Lustigen Blätter\""
+        },
+        {
+            "facet_id": 43107,
+            "occurrence": 1,
+            "value": "Ott"
+        },
+        {
+            "facet_id": 44731,
+            "occurrence": 1,
+            "value": "Quelle & Meyer"
+        },
+        {
+            "facet_id": 49168,
+            "occurrence": 1,
+            "value": "Beyer"
+        },
+        {
+            "facet_id": 49197,
+            "occurrence": 1,
+            "value": "Bahn"
+        },
+        {
+            "facet_id": 49250,
+            "occurrence": 1,
+            "value": "Marval, Carle"
+        },
+        {
+            "facet_id": 52080,
+            "occurrence": 1,
+            "value": "Lissauer, Ernst"
+        },
+        {
+            "facet_id": 52081,
+            "occurrence": 1,
+            "value": "Hapke"
+        },
+        {
+            "facet_id": 58435,
+            "occurrence": 1,
+            "value": "Mühsam, Kurt"
+        },
+        {
+            "facet_id": 61154,
+            "occurrence": 1,
+            "value": "Schwabe, Johann Conrad"
+        },
+        {
+            "facet_id": 63736,
+            "occurrence": 1,
+            "value": "Paetel"
+        },
+        {
+            "facet_id": 67405,
+            "occurrence": 1,
+            "value": "Hermes"
+        },
+        {
+            "facet_id": 69582,
+            "occurrence": 1,
+            "value": "Horn, Karl"
+        },
+        {
+            "facet_id": 70200,
+            "occurrence": 1,
+            "value": "Rütten & Loening"
+        },
+        {
+            "facet_id": 75238,
+            "occurrence": 1,
+            "value": "Karras"
+        },
+        {
+            "facet_id": 77946,
+            "occurrence": 1,
+            "value": "Deutsche Verlags-Anstalt"
+        },
+        {
+            "facet_id": 80929,
+            "occurrence": 1,
+            "value": "Vaterländische Verlags- und Kunstanstalt"
+        },
+        {
+            "facet_id": 81091,
+            "occurrence": 1,
+            "value": "Hesse & Becker"
+        },
+        {
+            "facet_id": 85222,
+            "occurrence": 1,
+            "value": "Warneck"
+        },
+        {
+            "facet_id": 89619,
+            "occurrence": 1,
+            "value": "Lüpkes, ..."
+        },
+        {
+            "facet_id": 89620,
+            "occurrence": 1,
+            "value": "Meixner, Hugo Franz Alfred"
+        },
+        {
+            "facet_id": 89621,
+            "occurrence": 1,
+            "value": "Schmidt, ..."
+        },
+        {
+            "facet_id": 91668,
+            "occurrence": 1,
+            "value": "Dülfer"
+        },
+        {
+            "facet_id": 95914,
+            "occurrence": 1,
+            "value": "Kilian, Oskar"
+        },
+        {
+            "facet_id": 96312,
+            "occurrence": 1,
+            "value": "Gutsch"
+        },
+        {
+            "facet_id": 96562,
+            "occurrence": 1,
+            "value": "Wilisch"
+        },
+        {
+            "facet_id": 98027,
+            "occurrence": 1,
+            "value": "Haber"
+        },
+        {
+            "facet_id": 102699,
+            "occurrence": 1,
+            "value": "Baritsch, Karl"
+        },
+        {
+            "facet_id": 102700,
+            "occurrence": 1,
+            "value": "Boysen & Maasch"
+        },
+        {
+            "facet_id": 107572,
+            "occurrence": 1,
+            "value": "Barnewitz"
+        },
+        {
+            "facet_id": 114135,
+            "occurrence": 1,
+            "value": "Jänecke"
+        },
+        {
+            "facet_id": 115461,
+            "occurrence": 1,
+            "value": "Deutsche Verl. Ges. für Politik und Geschichte"
+        },
+        {
+            "facet_id": 116040,
+            "occurrence": 1,
+            "value": "Satyendrakumāra Basu"
+        },
+        {
+            "facet_id": 116041,
+            "occurrence": 1,
+            "value": "Baṅgabāsī Kāryālaẏa"
+        },
+        {
+            "facet_id": 122562,
+            "occurrence": 1,
+            "value": "Bandorf, Robert"
+        },
+        {
+            "facet_id": 124161,
+            "occurrence": 1,
+            "value": "Ritter, Hermann"
+        },
+        {
+            "facet_id": 124529,
+            "occurrence": 1,
+            "value": "Plessner"
+        },
+        {
+            "facet_id": 134652,
+            "occurrence": 1,
+            "value": "Conrad, Paul"
+        },
+        {
+            "facet_id": 137918,
+            "occurrence": 1,
+            "value": "Priebatsch"
+        },
+        {
+            "facet_id": 140185,
+            "occurrence": 1,
+            "value": "Seeger, Ernst"
+        },
+        {
+            "facet_id": 143238,
+            "occurrence": 1,
+            "value": "Hellermann, Fritz"
+        },
+        {
+            "facet_id": 146643,
+            "occurrence": 1,
+            "value": "Verl. Der Sturm"
+        },
+        {
+            "facet_id": 147001,
+            "occurrence": 1,
+            "value": "Weichert, Ludwig"
+        },
+        {
+            "facet_id": 148867,
+            "occurrence": 1,
+            "value": "Steinaecker, Heinrich"
+        },
+        {
+            "facet_id": 152363,
+            "occurrence": 1,
+            "value": "Wille, Siegfried"
+        },
+        {
+            "facet_id": 152364,
+            "occurrence": 1,
+            "value": "Bayer. Kommunalschriften-Verlag"
+        },
+        {
+            "facet_id": 159113,
+            "occurrence": 1,
+            "value": "Breslauer General-Anzeiger"
+        }
+    ]
+}

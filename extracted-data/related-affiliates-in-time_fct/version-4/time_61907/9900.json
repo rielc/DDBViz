@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 9900,
+    "affiliate_fct": "Studienfondsverwaltung Rastatt",
+    "affiliate_fct_occurrence": 383,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 9900,
+            "affiliate_fct": "Studienfondsverwaltung Rastatt",
+            "affiliate_fct_occurrence": 383
+        },
+        {
+            "affiliate_fct_id": 73305,
+            "affiliate_fct": "Köhler, Jakob, Prof.; Pfleger Bad. Hist. Kommission",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 281293,
+            "affiliate_fct": "Streile, Anton; Waldmatt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 839343,
+            "affiliate_fct": "Gutsch, Johann Jakob; Oberschaffner Baden-Baden",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 49063,
+            "affiliate_fct": "Huk, Gregor; Weitenung",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 124840,
+            "affiliate_fct": "Gschwender, von; Kantor",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 159626,
+            "affiliate_fct": "Baden, Elisabeth Prinzessin von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 231254,
+            "affiliate_fct": "Hoffmann, Benedikt; Propst Kollegiatstift Baden",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 268936,
+            "affiliate_fct": "Schleitheim, Reichsfreiherr von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 879035,
+            "affiliate_fct": "Schneider, Joseph; Kuppenheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 33953,
+            "affiliate_fct": "Kollmar, Georg; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33954,
+            "affiliate_fct": "Kollmar, Katharina; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33956,
+            "affiliate_fct": "Kollmar, Severin; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49058,
+            "affiliate_fct": "Eberle, Alois; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49059,
+            "affiliate_fct": "Friedmann, Lazarus; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49060,
+            "affiliate_fct": "Fritsch, Alois; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49061,
+            "affiliate_fct": "Fritsch, Anton; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49062,
+            "affiliate_fct": "Fritsch, Wenzeslaus; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49064,
+            "affiliate_fct": "Huk, Joseph; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49065,
+            "affiliate_fct": "Huk, Kaspar; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49066,
+            "affiliate_fct": "Huk, Konrad; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49067,
+            "affiliate_fct": "Ibach, Blasi; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49068,
+            "affiliate_fct": "Reck, Bruno; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49069,
+            "affiliate_fct": "Weber, Nikolaus; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70679,
+            "affiliate_fct": "Burgard, Johann; Kappelwindeck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 101011,
+            "affiliate_fct": "Schmidt; Vogt, Niederbühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113634,
+            "affiliate_fct": "Gloutz, Karl von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 124841,
+            "affiliate_fct": "Lahr; Kanonikus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 124842,
+            "affiliate_fct": "Lechleitner, Joseph; Stadtpfarrer zu Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139777,
+            "affiliate_fct": "Kegel, Max; Kappelwindeck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139778,
+            "affiliate_fct": "Kist, Clemens; Kappelwindeck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139779,
+            "affiliate_fct": "Kögel, Max; Kappelwindeck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139780,
+            "affiliate_fct": "Küst, Clemens; Kappelwindeck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153643,
+            "affiliate_fct": "Kollmer, Helena; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153645,
+            "affiliate_fct": "Kollmer, Leonard; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245373,
+            "affiliate_fct": "Degler, Ignaz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245374,
+            "affiliate_fct": "Maier, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245375,
+            "affiliate_fct": "Schindler, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258129,
+            "affiliate_fct": "Huck, Christostomus; Vormberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 258130,
+            "affiliate_fct": "Huck, Georg; Vormberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268937,
+            "affiliate_fct": "Schlott, Dr.; Prokurator",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 281292,
+            "affiliate_fct": "Hört, Lucas; Waldmatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 281294,
+            "affiliate_fct": "Streile, Leopold; Waldmatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310340,
+            "affiliate_fct": "Klump, Ignaz; Rebmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311115,
+            "affiliate_fct": "Veit, Lorenz; Neuweier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318851,
+            "affiliate_fct": "Huber, Johann Baptist; Altschweier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318852,
+            "affiliate_fct": "Kunz, Theodor; Bühlertal",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 332847,
+            "affiliate_fct": "Rüffel, Michael; Urloffen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 351304,
+            "affiliate_fct": "Jokers, Johann; Zierolshofen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 357873,
+            "affiliate_fct": "Hof, Peter; Renchen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 367206,
+            "affiliate_fct": "Lamprecht, Leopold; Neusatz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 367207,
+            "affiliate_fct": "Lamprecht, Simon; Neusatz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 375785,
+            "affiliate_fct": "Hund, Peter; Honau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 375786,
+            "affiliate_fct": "Seiler, Andreas; Honau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 387896,
+            "affiliate_fct": "Wenkert, Tusan; Windschläg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 390249,
+            "affiliate_fct": "Rüst, Andreas; Neusatz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 392599,
+            "affiliate_fct": "Lassolaye, Josef von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 395738,
+            "affiliate_fct": "Truchsess von Waldburg zu Wurzach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 407940,
+            "affiliate_fct": "Erhardt, Hans Jacob; Ratschreiber",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 407941,
+            "affiliate_fct": "Krieger, Johann Jakob; Kammersekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 407942,
+            "affiliate_fct": "Lindemann; Bergwerksfaktor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 408536,
+            "affiliate_fct": "Harrant, Ludwig von; Stiftspropst Kollegiatstift Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 412157,
+            "affiliate_fct": "Hillert; Stiftsmessner Baden-Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 422763,
+            "affiliate_fct": "Krämer, Johann Georg; Waldmatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 422764,
+            "affiliate_fct": "Ronecker, Lorenz; Waldmatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 425266,
+            "affiliate_fct": "Fleig, Christian; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 425267,
+            "affiliate_fct": "Geiger, Landolin; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 425268,
+            "affiliate_fct": "Wacker, Maria Anna; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 439474,
+            "affiliate_fct": "Schlaff, Gebrüder; Stahlfabrikanten Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 462008,
+            "affiliate_fct": "Heuel von Tiefenau und Helmberg, Carl Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 481581,
+            "affiliate_fct": "Eberle, Josef; Zehntknecht",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 496780,
+            "affiliate_fct": "Schuhe, Joseph, Renchen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 499364,
+            "affiliate_fct": "Knebel, Baron von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529698,
+            "affiliate_fct": "Bickel, Joseph; Schaffneiverweser",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529699,
+            "affiliate_fct": "Finck, Johann; Schaffner des Kollegiatstifts Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 529700,
+            "affiliate_fct": "Finck; geistlicher Verwalter Mahlberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 530219,
+            "affiliate_fct": "Becker, Ignatz; Reichenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 530220,
+            "affiliate_fct": "Mai, Joseph; Reichenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 530221,
+            "affiliate_fct": "Säuberlich, Anton, Reichenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 530222,
+            "affiliate_fct": "Schroth, Josef, Reichenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 530223,
+            "affiliate_fct": "Waibel, Georg Adam, Reichenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 536166,
+            "affiliate_fct": "Elgg; Revisor Studienfonds Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 538534,
+            "affiliate_fct": "Müller; Wirt, Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 541079,
+            "affiliate_fct": "Melling; Professor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 577956,
+            "affiliate_fct": "Becker, Mathäus; Stupferich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 577957,
+            "affiliate_fct": "Roth, Jung Joseph; Stupferich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 584832,
+            "affiliate_fct": "Sauer, Heinrich; Breithurst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 602245,
+            "affiliate_fct": "Kästner, Bonaventura; Oberweier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 614616,
+            "affiliate_fct": "Pflüger, Ignaz; Niederbühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 614617,
+            "affiliate_fct": "Schäfer, Konrad; Haueneberstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618176,
+            "affiliate_fct": "Himmel, Michael; Neuweier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618177,
+            "affiliate_fct": "Himmel, Stephan; Neuweier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618284,
+            "affiliate_fct": "Birnbreier, Bernhard; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618285,
+            "affiliate_fct": "Birnbreier, Jakob; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618286,
+            "affiliate_fct": "Birnbreier, Juliana; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618287,
+            "affiliate_fct": "Birnbreier, Lazarus; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 618288,
+            "affiliate_fct": "Birnbreier, Maria Anna; Weitenung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 623531,
+            "affiliate_fct": "Kalt, Felix; Sulz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 625694,
+            "affiliate_fct": "Schnurr, Egidius; Niederbühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 625695,
+            "affiliate_fct": "Schnurr, Michael; Niederbühl",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

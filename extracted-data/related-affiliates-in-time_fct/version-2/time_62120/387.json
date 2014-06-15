@@ -1,0 +1,39 @@
+{
+    "time_facet_id": 9,
+    "time_facet": "time_62120",
+    "affiliate_facet_id": 387,
+    "affiliate_facet": "Akademie für Raumforschung und Landesplanung",
+    "occurrence": 127,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 387,
+            "affiliate_fct": "Landesamt",
+            "affiliate_fct_occurrence": 144
+        },
+        {
+            "affiliate_fct_id": 388,
+            "affiliate_fct": "Bayern / Landesamt für Statistik und Datenverarbeitung",
+            "affiliate_fct_occurrence": 142
+        },
+        {
+            "affiliate_fct_id": 9819,
+            "affiliate_fct": "Bayern",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 118234,
+            "affiliate_fct": "Baden-Württemberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293799,
+            "affiliate_fct": "Baden-Württemberg / Statistisches Landesamt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 687718,
+            "affiliate_fct": "Baden-Württemberg / Landesdenkmalamt",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

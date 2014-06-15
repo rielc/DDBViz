@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 914,
+    "affiliate_fct": "Müller",
+    "affiliate_fct_occurrence": 900,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 914,
+            "affiliate_fct": "Müller",
+            "affiliate_fct_occurrence": 900
+        },
+        {
+            "affiliate_fct_id": 40362,
+            "affiliate_fct": "Räß, Andreas (1794-1887)",
+            "affiliate_fct_occurrence": 30
+        },
+        {
+            "affiliate_fct_id": 58492,
+            "affiliate_fct": "Butler, Alban (1711-1773)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 110051,
+            "affiliate_fct": "Godescard",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 171857,
+            "affiliate_fct": "Binterim, Anton Joseph (1779-1855)",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 24285,
+            "affiliate_fct": "Großherzoglich Badische Verkehrsanstalten (Karlsruhe)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 25573,
+            "affiliate_fct": "Baden",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 90134,
+            "affiliate_fct": "Pestalozzi, Johann Heinrich (1746-1827)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 90135,
+            "affiliate_fct": "Seyffarth, Ludwig Wilhelm (1829-1903)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 62861,
+            "affiliate_fct": "Koninklijke Akademie van Wetenschappen (Amsterdam) / Afdeling Letterkunde",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 126329,
+            "affiliate_fct": "Arnold, Ignaz Ferdinand (1774-1812)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 181819,
+            "affiliate_fct": "Großherzogliche Ober-Post-Direction (Karlsruhe)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 181820,
+            "affiliate_fct": "Großherzogliche Posten und Eisenbahnen (Karlsruhe)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 3421,
+            "affiliate_fct": "Schlesinger",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 13642,
+            "affiliate_fct": "Hebel, Johann Peter (1760-1826)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 78007,
+            "affiliate_fct": "Weidmann, Franz C. (1787-1867)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 7306,
+            "affiliate_fct": "Mylius, Otfrid (1819-1889)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 8349,
+            "affiliate_fct": "Seifart, Karl (1821-1885)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 92719,
+            "affiliate_fct": "Geßner, Georg (1765-1849)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 202157,
+            "affiliate_fct": "Pfenninger, Johann Konrad (1747-1792)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 15830,
+            "affiliate_fct": "Giel",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 64463,
+            "affiliate_fct": "Schwerdt, Heinrich (1810-1888)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 67322,
+            "affiliate_fct": "Leonhard, Gustav (1816-1878)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 82785,
+            "affiliate_fct": "Lenz, Johann Georg (1748-1832)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 108877,
+            "affiliate_fct": "Brandus",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 223782,
+            "affiliate_fct": "Brauer, Johann Nikolaus Friedrich (1754-1813)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 5133,
+            "affiliate_fct": "Meyerbeer, Giacomo",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 5458,
+            "affiliate_fct": "Münch, Ernst Hermann Joseph (1798-1841)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 15427,
+            "affiliate_fct": "Ernsdorfer, Bernhard von (1767-1836)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 40363,
+            "affiliate_fct": "Weis, Nikolaus von (1796-1869)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 57413,
+            "affiliate_fct": "Hunfalvy, Pál (1810-1891)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 57414,
+            "affiliate_fct": "Mueller, Gyula",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 97392,
+            "affiliate_fct": "Klein, Karl",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 302849,
+            "affiliate_fct": "Lisco, Friedrich Gustav (1791-1866)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 402489,
+            "affiliate_fct": "M. Schlesinger",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 245,
+            "affiliate_fct": "Bähr, Johann Christian Felix (1798-1872)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 1266,
+            "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 207167,
+            "affiliate_fct": "Schacht, Hermann (1814-1864)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 9197,
+            "affiliate_fct": "Kletke, G. M.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 21020,
+            "affiliate_fct": "Preußen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 71571,
+            "affiliate_fct": "Guerin",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 73361,
+            "affiliate_fct": "Müller, Friedrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 79185,
+            "affiliate_fct": "Meyer, J. R.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 79186,
+            "affiliate_fct": "Weiss, Johann Heinrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 86404,
+            "affiliate_fct": "Carron, Guy Toussaint Julien (1760-1821)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 145912,
+            "affiliate_fct": "Esquiros, Alphonse",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 171858,
+            "affiliate_fct": "Mooren, Joseph Hubert (1797-1887)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 182735,
+            "affiliate_fct": "Rixner, Thaddä Anselm (1766-1838)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 209329,
+            "affiliate_fct": "Rehbein, Hugo",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 291071,
+            "affiliate_fct": "Seubert, Moritz (1818-1878)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 307661,
+            "affiliate_fct": "Herman, H.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 327961,
+            "affiliate_fct": "Mehoffer, Józef (1869-1946)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 556457,
+            "affiliate_fct": "Reincke, Otto",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 566888,
+            "affiliate_fct": "Röder von Diersburg, Philipp (1801-1864)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4606,
+            "affiliate_fct": "Devilleneuve, L. M. (1790-1859)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4607,
+            "affiliate_fct": "Sirey, Jean B. (1762-1845)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 17468,
+            "affiliate_fct": "Cherubini, Luigi (1760-1842)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 26531,
+            "affiliate_fct": "Euler, Leonhard (1707-1783)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 29177,
+            "affiliate_fct": "Haffner, Carl (1804-1876)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 37573,
+            "affiliate_fct": "Spindler, Karl (1796-1855)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 41993,
+            "affiliate_fct": "Seyffert, Moritz (1809-1872)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 43509,
+            "affiliate_fct": "Müller, Johann Heinrich Jacob (1809-1875)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 48711,
+            "affiliate_fct": "Leonhard, Carl Cäsar von (1779-1862)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 73327,
+            "affiliate_fct": "Werner, Franz (1770-1845)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 87840,
+            "affiliate_fct": "Dove, Heinrich Wilhelm (1803-1879)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 99969,
+            "affiliate_fct": "Schneider, Johann Joseph (1777-1855)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 124727,
+            "affiliate_fct": "Thilo, Wilhelm",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 182519,
+            "affiliate_fct": "Rathgeber, Johann Georg Christian (1800-1875)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 219502,
+            "affiliate_fct": "Nebenius, Carl F.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 220748,
+            "affiliate_fct": "Weil, E.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 297247,
+            "affiliate_fct": "Adolph, J. G. B.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 297249,
+            "affiliate_fct": "Schacht, Hermann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 321965,
+            "affiliate_fct": "Nebenius, Carl Friedrich (1784-1857)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 339359,
+            "affiliate_fct": "Roorda, Taco (1801-1874)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 371309,
+            "affiliate_fct": "Bitter, Karl Hermann (1813-1885)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 402488,
+            "affiliate_fct": "Döhler, Théodore",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 402490,
+            "affiliate_fct": "Ad. Mt. Schlesinger",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 790399,
+            "affiliate_fct": "Braun, Johann Friedrich Philipp",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 351,
+            "affiliate_fct": "Großherzogliches Justizdepartement, Lehenhof",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 884,
+            "affiliate_fct": "Luther, Martin (1483-1546)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3287,
+            "affiliate_fct": "Blumhof, Johann Georg Ludolph (1774-1825)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3293,
+            "affiliate_fct": "Müller, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5061,
+            "affiliate_fct": "Wild, Michael Friedrich (1747-1832)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5782,
+            "affiliate_fct": "Lutz, Johann Evangelist Georg (1801-1882)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5890,
+            "affiliate_fct": "Millin, Aubin L. (1759-1818)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11780,
+            "affiliate_fct": "Bacherer, Gustav (1813-1850)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 12762,
+            "affiliate_fct": "Körner, Theodor (1791-1813)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21370,
+            "affiliate_fct": "Voß, Johann Heinrich (1751-1826)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22072,
+            "affiliate_fct": "Globig, Hans Ernst von (1755-1826)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 37958,
+            "affiliate_fct": "Hall, Maurits C. van",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 39896,
+            "affiliate_fct": "Entbindungsanstalt (Gießen)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 39897,
+            "affiliate_fct": "Ritgen, Ferdinand August Max Franz von (1787-1867)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 46162,
+            "affiliate_fct": "Bacon, Francis (1561-1626)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 54039,
+            "affiliate_fct": "Krafft, Albrecht",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 58387,
+            "affiliate_fct": "Feldbausch, Felix Sebastian (1795-1868)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62445,
+            "affiliate_fct": "Bergmann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79184,
+            "affiliate_fct": "Eichler, M. G.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 94102,
+            "affiliate_fct": "Elvers, Rudolf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 112444,
+            "affiliate_fct": "Königliche Hof-Buchhandlungen",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

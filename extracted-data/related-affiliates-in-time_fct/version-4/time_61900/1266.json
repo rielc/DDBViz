@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 1266,
+    "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+    "affiliate_fct_occurrence": 735,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1266,
+            "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "affiliate_fct_occurrence": 735
+        },
+        {
+            "affiliate_fct_id": 14932,
+            "affiliate_fct": "Heymann",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 4510,
+            "affiliate_fct": "Nauck",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 1265,
+            "affiliate_fct": "Reimer",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 7077,
+            "affiliate_fct": "Brill",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 113406,
+            "affiliate_fct": "Veth, Pieter Johannes",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 2275,
+            "affiliate_fct": "Heymanns",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 600,
+            "affiliate_fct": "Brockhaus",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 1559,
+            "affiliate_fct": "Murray",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 4142,
+            "affiliate_fct": "Bohn",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 14073,
+            "affiliate_fct": "Leroux",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 450,
+            "affiliate_fct": "Basse",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 914,
+            "affiliate_fct": "Müller",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 1768,
+            "affiliate_fct": "Decker",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 5900,
+            "affiliate_fct": "Ernst",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 11518,
+            "affiliate_fct": "Bentley",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 13955,
+            "affiliate_fct": "Guttentag",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 911,
+            "affiliate_fct": "Hachette",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 2319,
+            "affiliate_fct": "Verf.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3029,
+            "affiliate_fct": "Nicolai",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3052,
+            "affiliate_fct": "Dümmler",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3716,
+            "affiliate_fct": "Fleischer",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 4242,
+            "affiliate_fct": "Spamer",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 6300,
+            "affiliate_fct": "Hayn",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 6604,
+            "affiliate_fct": "Müller, Heinrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 10470,
+            "affiliate_fct": "Schöningh",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 11705,
+            "affiliate_fct": "Costenoble",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 13954,
+            "affiliate_fct": "Koch, Christian Friedrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 14809,
+            "affiliate_fct": "Bachem",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 23159,
+            "affiliate_fct": "Aderholz",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 35512,
+            "affiliate_fct": "Landsdrukkerij",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 48432,
+            "affiliate_fct": "Allen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 52046,
+            "affiliate_fct": "van Kampen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 129100,
+            "affiliate_fct": "van Dorp",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 289718,
+            "affiliate_fct": "Brooke, James",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 287,
+            "affiliate_fct": "Steinkopf",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4761,
+            "affiliate_fct": "Rubach",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 6436,
+            "affiliate_fct": "Bädeker",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 7734,
+            "affiliate_fct": "Nijhoff [u.a.]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 12628,
+            "affiliate_fct": "Baensch",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 13933,
+            "affiliate_fct": "Ritter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 23830,
+            "affiliate_fct": "Vollmer",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 30555,
+            "affiliate_fct": "Hennings",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 57811,
+            "affiliate_fct": "Chapman & Hall",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 69771,
+            "affiliate_fct": "Noman",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 71988,
+            "affiliate_fct": "Heine, Wilhelm",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 82857,
+            "affiliate_fct": "Schmidt, Joseph",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 99168,
+            "affiliate_fct": "Conradi, Th.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 124041,
+            "affiliate_fct": "Schmalz, Erdmann August Wilhelm",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 227086,
+            "affiliate_fct": "Davis, John Francis",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 230604,
+            "affiliate_fct": "Huc, Évariste Régis",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 397127,
+            "affiliate_fct": "Bengal Secretariat Office",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 301,
+            "affiliate_fct": "Cotta",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 482,
+            "affiliate_fct": "Hinrichs",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 533,
+            "affiliate_fct": "Macmillan",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 637,
+            "affiliate_fct": "Arnold",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 807,
+            "affiliate_fct": "Bertrand",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 895,
+            "affiliate_fct": "Elsevier",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1246,
+            "affiliate_fct": "Adler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1255,
+            "affiliate_fct": "Kollmann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1328,
+            "affiliate_fct": "Heinrichshofen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2428,
+            "affiliate_fct": "Schulze",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2459,
+            "affiliate_fct": "Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2713,
+            "affiliate_fct": "Burmester & Stempell",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2896,
+            "affiliate_fct": "Mayer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3235,
+            "affiliate_fct": "Barth",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3673,
+            "affiliate_fct": "Franckh",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3697,
+            "affiliate_fct": "Tauchnitz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4023,
+            "affiliate_fct": "Vliet, Leonard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4024,
+            "affiliate_fct": "Nijgh",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4513,
+            "affiliate_fct": "Breitkopf & Härtel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5662,
+            "affiliate_fct": "Dieterich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5709,
+            "affiliate_fct": "Leske",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5770,
+            "affiliate_fct": "Verlag der Königlichen Geheimen Ober-Hofbuchdruckerei",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5861,
+            "affiliate_fct": "Kolff",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6082,
+            "affiliate_fct": "Muller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 7293,
+            "affiliate_fct": "Krause",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 7627,
+            "affiliate_fct": "Susan",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8357,
+            "affiliate_fct": "Kummer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8468,
+            "affiliate_fct": "Ackermann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 9197,
+            "affiliate_fct": "Kletke, G. M.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10201,
+            "affiliate_fct": "Hunter, William Wilson",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11865,
+            "affiliate_fct": "Riegel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13594,
+            "affiliate_fct": "Reclam",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 14559,
+            "affiliate_fct": "Jonghaus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16176,
+            "affiliate_fct": "Lüderitz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17116,
+            "affiliate_fct": "Imprimerie de la Mission Catholique",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17517,
+            "affiliate_fct": "Thieme",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 17566,
+            "affiliate_fct": "Nietack",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 18074,
+            "affiliate_fct": "Herbig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 18330,
+            "affiliate_fct": "Maurer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 19203,
+            "affiliate_fct": "Selbstverlag des Verfassers",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21264,
+            "affiliate_fct": "Coppenrath",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21392,
+            "affiliate_fct": "Dietz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22010,
+            "affiliate_fct": "Blackwood",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24914,
+            "affiliate_fct": "Schmidt, O. K. F. G.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 25334,
+            "affiliate_fct": "Sander",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28617,
+            "affiliate_fct": "Leykam",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 29672,
+            "affiliate_fct": "Herausgeber",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 30771,
+            "affiliate_fct": "Wijt",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

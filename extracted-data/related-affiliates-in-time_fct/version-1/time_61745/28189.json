@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 28,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 28189,
+    "affiliate_facet": "Deutsche Forschungsgemeinschaft",
+    "occurrence": 2644,
+    "affiliates": [
+        {
+            "facet_id": 28189,
+            "occurrence": 174,
+            "value": "Rhetius"
+        },
+        {
+            "facet_id": 42082,
+            "occurrence": 11,
+            "value": "Schelwig, Samuel"
+        },
+        {
+            "facet_id": 8429,
+            "occurrence": 8,
+            "value": "Schelwig, Samuel (1643-1715)"
+        },
+        {
+            "facet_id": 48738,
+            "occurrence": 7,
+            "value": "Schultz, Johannes"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 6,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 3475,
+            "occurrence": 6,
+            "value": "Strauch, Aegidius (1632-1682)"
+        },
+        {
+            "facet_id": 43863,
+            "occurrence": 6,
+            "value": "Micraelius, Johann"
+        },
+        {
+            "facet_id": 64265,
+            "occurrence": 5,
+            "value": "Rosteuscher, Johann Christoph"
+        },
+        {
+            "facet_id": 146607,
+            "occurrence": 5,
+            "value": "Titz, Johann Peter"
+        },
+        {
+            "facet_id": 189375,
+            "occurrence": 5,
+            "value": "Behr, Christoph"
+        },
+        {
+            "facet_id": 271211,
+            "occurrence": 5,
+            "value": "Maukisch, Johann"
+        },
+        {
+            "facet_id": 2785,
+            "occurrence": 4,
+            "value": "Goetschius"
+        },
+        {
+            "facet_id": 244370,
+            "occurrence": 4,
+            "value": "Schelguigius, Samuel"
+        },
+        {
+            "facet_id": 28190,
+            "occurrence": 3,
+            "value": "Lüschner, Ernst Gottlieb"
+        },
+        {
+            "facet_id": 31043,
+            "occurrence": 3,
+            "value": "Hoppe, Joachim"
+        },
+        {
+            "facet_id": 33145,
+            "occurrence": 3,
+            "value": "Maukisch, Johann (1617-1669)"
+        },
+        {
+            "facet_id": 177972,
+            "occurrence": 3,
+            "value": "Behr, Christophorus"
+        },
+        {
+            "facet_id": 239872,
+            "occurrence": 3,
+            "value": "Schönwald, Samuel"
+        },
+        {
+            "facet_id": 265602,
+            "occurrence": 3,
+            "value": "Pastorius, Joachim"
+        },
+        {
+            "facet_id": 5306,
+            "occurrence": 2,
+            "value": "SLUB Dresden"
+        },
+        {
+            "facet_id": 11508,
+            "occurrence": 2,
+            "value": "Strauch, Aegidius"
+        },
+        {
+            "facet_id": 19622,
+            "occurrence": 2,
+            "value": "Auctor"
+        },
+        {
+            "facet_id": 33509,
+            "occurrence": 2,
+            "value": "Tscherning, Joannes"
+        },
+        {
+            "facet_id": 141016,
+            "occurrence": 2,
+            "value": "Falck, J."
+        },
+        {
+            "facet_id": 256987,
+            "occurrence": 2,
+            "value": "Rosteuscher, Johann Christoph (1651-1708)"
+        },
+        {
+            "facet_id": 256988,
+            "occurrence": 2,
+            "value": "Schelwig, Benjamin"
+        },
+        {
+            "facet_id": 312648,
+            "occurrence": 2,
+            "value": "Grischow, Nathanael"
+        },
+        {
+            "facet_id": 354447,
+            "occurrence": 2,
+            "value": "Hoppe, Joachim (1656-1712)"
+        },
+        {
+            "facet_id": 354448,
+            "occurrence": 2,
+            "value": "Schlieff, Johann Leo"
+        },
+        {
+            "facet_id": 481117,
+            "occurrence": 2,
+            "value": "Finken, Heinrich"
+        },
+        {
+            "facet_id": 712324,
+            "occurrence": 2,
+            "value": "Wahl, Salomon"
+        },
+        {
+            "facet_id": 1266,
+            "occurrence": 1,
+            "value": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany"
+        },
+        {
+            "facet_id": 2858,
+            "occurrence": 1,
+            "value": "Autor"
+        },
+        {
+            "facet_id": 8430,
+            "occurrence": 1,
+            "value": "Eckhardi, Adam"
+        },
+        {
+            "facet_id": 16456,
+            "occurrence": 1,
+            "value": "Livius, Titus (v59-17)"
+        },
+        {
+            "facet_id": 18539,
+            "occurrence": 1,
+            "value": "Spanheim, Friedrich"
+        },
+        {
+            "facet_id": 18733,
+            "occurrence": 1,
+            "value": "Fritz, Anton Gunther"
+        },
+        {
+            "facet_id": 23955,
+            "occurrence": 1,
+            "value": "Grotius, Hugo (1583-1645)"
+        },
+        {
+            "facet_id": 26397,
+            "occurrence": 1,
+            "value": "Desmarets, Samuel (1599-1673)"
+        },
+        {
+            "facet_id": 31897,
+            "occurrence": 1,
+            "value": "Seger, Georg"
+        },
+        {
+            "facet_id": 33510,
+            "occurrence": 1,
+            "value": "Garnier, Joannes Adamus"
+        },
+        {
+            "facet_id": 33511,
+            "occurrence": 1,
+            "value": "Ludwig, Petrus Ernestus"
+        },
+        {
+            "facet_id": 33512,
+            "occurrence": 1,
+            "value": "Horman, Matthaeus"
+        },
+        {
+            "facet_id": 39477,
+            "occurrence": 1,
+            "value": "Opitz, Martin (1597-1639)"
+        },
+        {
+            "facet_id": 50003,
+            "occurrence": 1,
+            "value": "Pfuel, Johann Ernst"
+        },
+        {
+            "facet_id": 71476,
+            "occurrence": 1,
+            "value": "Livius, Titus"
+        },
+        {
+            "facet_id": 81556,
+            "occurrence": 1,
+            "value": "Daillé, Jean (1594-1670)"
+        },
+        {
+            "facet_id": 92058,
+            "occurrence": 1,
+            "value": "Pauli, Michael (-1713)"
+        },
+        {
+            "facet_id": 126683,
+            "occurrence": 1,
+            "value": "Nicolai, Heinrich"
+        },
+        {
+            "facet_id": 149565,
+            "occurrence": 1,
+            "value": "Bahr, Thomas"
+        },
+        {
+            "facet_id": 173970,
+            "occurrence": 1,
+            "value": "Beier, Adrian"
+        },
+        {
+            "facet_id": 181059,
+            "occurrence": 1,
+            "value": "Heyse, Ernst Gottfried"
+        },
+        {
+            "facet_id": 190314,
+            "occurrence": 1,
+            "value": "Fromm, Andreas"
+        },
+        {
+            "facet_id": 244476,
+            "occurrence": 1,
+            "value": "Gebauer, Gottfried"
+        },
+        {
+            "facet_id": 246798,
+            "occurrence": 1,
+            "value": "Schultz, Daniel"
+        },
+        {
+            "facet_id": 268338,
+            "occurrence": 1,
+            "value": "Schroeder, Eljasz Konstanty (1625-1680)"
+        },
+        {
+            "facet_id": 293883,
+            "occurrence": 1,
+            "value": "Lang, Balthasar"
+        },
+        {
+            "facet_id": 300296,
+            "occurrence": 1,
+            "value": "Amyraut, Moïse (1596-1664)"
+        },
+        {
+            "facet_id": 301800,
+            "occurrence": 1,
+            "value": "Simon, Joachim"
+        },
+        {
+            "facet_id": 307064,
+            "occurrence": 1,
+            "value": "Zimmermann, Johann"
+        },
+        {
+            "facet_id": 317623,
+            "occurrence": 1,
+            "value": "Hamel, Daniel (um 1670)"
+        },
+        {
+            "facet_id": 318839,
+            "occurrence": 1,
+            "value": "Rosteuscher, Christian (1620-1681)"
+        },
+        {
+            "facet_id": 333871,
+            "occurrence": 1,
+            "value": "Moeresius, Johann Georg"
+        },
+        {
+            "facet_id": 335015,
+            "occurrence": 1,
+            "value": "Horniceus, David"
+        },
+        {
+            "facet_id": 339951,
+            "occurrence": 1,
+            "value": "Lokervitz, Christian"
+        },
+        {
+            "facet_id": 342948,
+            "occurrence": 1,
+            "value": "Schlieff, Daniel Albert"
+        },
+        {
+            "facet_id": 364165,
+            "occurrence": 1,
+            "value": "Laurentius, Johann Samuel"
+        },
+        {
+            "facet_id": 437019,
+            "occurrence": 1,
+            "value": "Schuetz, Constantinus (1646-1712)"
+        },
+        {
+            "facet_id": 438765,
+            "occurrence": 1,
+            "value": "Neufeld, Konrad"
+        },
+        {
+            "facet_id": 525027,
+            "occurrence": 1,
+            "value": "Sithmann, Johannes"
+        },
+        {
+            "facet_id": 525028,
+            "occurrence": 1,
+            "value": "Wangelin, Bernhard Christian"
+        },
+        {
+            "facet_id": 541739,
+            "occurrence": 1,
+            "value": "Schütte, Martinus"
+        },
+        {
+            "facet_id": 718005,
+            "occurrence": 1,
+            "value": "Palovius, Philipp"
+        },
+        {
+            "facet_id": 754747,
+            "occurrence": 1,
+            "value": "Schumann, Gabriel Friedrich"
+        },
+        {
+            "facet_id": 754748,
+            "occurrence": 1,
+            "value": "Rosteuscherus, Jo. Christoph."
+        },
+        {
+            "facet_id": 754749,
+            "occurrence": 1,
+            "value": "Schlodt, Nathanael"
+        },
+        {
+            "facet_id": 754750,
+            "occurrence": 1,
+            "value": "Schlieff, Joannes Daniel"
+        },
+        {
+            "facet_id": 754751,
+            "occurrence": 1,
+            "value": "Bobart, Arnhold"
+        },
+        {
+            "facet_id": 754752,
+            "occurrence": 1,
+            "value": "Kratzer, Godofredus"
+        },
+        {
+            "facet_id": 754753,
+            "occurrence": 1,
+            "value": "Schollen, J. D."
+        },
+        {
+            "facet_id": 777116,
+            "occurrence": 1,
+            "value": "Rosteuscher, Christian"
+        },
+        {
+            "facet_id": 778450,
+            "occurrence": 1,
+            "value": "Schultzius, Johannes"
+        },
+        {
+            "facet_id": 778451,
+            "occurrence": 1,
+            "value": "Groddeck, Abrahamus"
+        },
+        {
+            "facet_id": 797081,
+            "occurrence": 1,
+            "value": "Bünsow, Laurentius"
+        },
+        {
+            "facet_id": 819063,
+            "occurrence": 1,
+            "value": "Hevelius, Johannes"
+        },
+        {
+            "facet_id": 819064,
+            "occurrence": 1,
+            "value": "Krumhausen, Gabriel"
+        },
+        {
+            "facet_id": 849932,
+            "occurrence": 1,
+            "value": "Titius, Joh. Petr."
+        },
+        {
+            "facet_id": 849933,
+            "occurrence": 1,
+            "value": "Rosteuscherus, Christianus"
+        },
+        {
+            "facet_id": 891951,
+            "occurrence": 1,
+            "value": "Fehlau, Constantin"
+        },
+        {
+            "facet_id": 908291,
+            "occurrence": 1,
+            "value": "Wollin, Theophilus"
+        },
+        {
+            "facet_id": 925655,
+            "occurrence": 1,
+            "value": "Hellwig, Johann Otto von"
+        },
+        {
+            "facet_id": 929275,
+            "occurrence": 1,
+            "value": "Rosteuscherus, Jo. Christophorus"
+        },
+        {
+            "facet_id": 929276,
+            "occurrence": 1,
+            "value": "Engelcke, Joachimus Christianus"
+        },
+        {
+            "facet_id": 929277,
+            "occurrence": 1,
+            "value": "Humius, Steph."
+        },
+        {
+            "facet_id": 929278,
+            "occurrence": 1,
+            "value": "Döhring, George Friedrich"
+        },
+        {
+            "facet_id": 929279,
+            "occurrence": 1,
+            "value": "Massow, Antonius Christophorus"
+        },
+        {
+            "facet_id": 943119,
+            "occurrence": 1,
+            "value": "Schumann, Heinrich Ehrenfried"
+        },
+        {
+            "facet_id": 944636,
+            "occurrence": 1,
+            "value": "Weyß"
+        },
+        {
+            "facet_id": 994779,
+            "occurrence": 1,
+            "value": "Hammen, Ludwig"
+        },
+        {
+            "facet_id": 1003576,
+            "occurrence": 1,
+            "value": "Bobart, A. von"
+        }
+    ]
+}

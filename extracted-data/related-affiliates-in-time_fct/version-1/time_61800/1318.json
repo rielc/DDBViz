@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_facet_id": 1318,
+    "affiliate_facet": "Amt Habitzheim",
+    "occurrence": 879,
+    "affiliates": [
+        {
+            "facet_id": 1318,
+            "occurrence": 894,
+            "value": "Friedberg-Scheer"
+        },
+        {
+            "facet_id": 34652,
+            "occurrence": 33,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Josef Wilhelm"
+        },
+        {
+            "facet_id": 73046,
+            "occurrence": 24,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Christoph Franz"
+        },
+        {
+            "facet_id": 81347,
+            "occurrence": 17,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Wilhelm d.Ä."
+        },
+        {
+            "facet_id": 73049,
+            "occurrence": 15,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Maximilian Wunibald"
+        },
+        {
+            "facet_id": 9600,
+            "occurrence": 13,
+            "value": "Österreich, Hge u. Ehge von"
+        },
+        {
+            "facet_id": 73045,
+            "occurrence": 11,
+            "value": "Waldburg-Sonnenberg, T.en u. Gfen von; Eberhard I."
+        },
+        {
+            "facet_id": 152987,
+            "occurrence": 11,
+            "value": "Waldburg-Sonnenberg, T.en u. Gfen von; Andreas"
+        },
+        {
+            "facet_id": 15911,
+            "occurrence": 10,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Christoph"
+        },
+        {
+            "facet_id": 1941,
+            "occurrence": 9,
+            "value": "Königsegg, Frhen u. Gfen von"
+        },
+        {
+            "facet_id": 175303,
+            "occurrence": 9,
+            "value": "Waldburg-Trauchburg, (jüng. Linie), T.en u. Gfen von; Leopold August"
+        },
+        {
+            "facet_id": 163207,
+            "occurrence": 8,
+            "value": "Questenberg; Grafen von, Johann Adam"
+        },
+        {
+            "facet_id": 235837,
+            "occurrence": 7,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Familienkonferenz"
+        },
+        {
+            "facet_id": 8300,
+            "occurrence": 6,
+            "value": "Hohenzollern-Sigmaringen, von; Familie"
+        },
+        {
+            "facet_id": 14789,
+            "occurrence": 6,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Wilhelm d.J."
+        },
+        {
+            "facet_id": 73047,
+            "occurrence": 6,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Johann Ernst"
+        },
+        {
+            "facet_id": 271154,
+            "occurrence": 6,
+            "value": "Massler, Rat u. Oberamtmann, Scheer"
+        },
+        {
+            "facet_id": 9943,
+            "occurrence": 5,
+            "value": "Leopold I.; Kaiser, Römisch-Deusches Reich, 1640-1705"
+        },
+        {
+            "facet_id": 58991,
+            "occurrence": 5,
+            "value": "Hohenzollern, Karl I. von; Graf, 1516-1576"
+        },
+        {
+            "facet_id": 73050,
+            "occurrence": 5,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Otto"
+        },
+        {
+            "facet_id": 180175,
+            "occurrence": 5,
+            "value": "Ege, Christoph; Riedlingen"
+        },
+        {
+            "facet_id": 237783,
+            "occurrence": 5,
+            "value": "Reichle, Franz Anton von, Pfarrer; Scheer"
+        },
+        {
+            "facet_id": 419494,
+            "occurrence": 5,
+            "value": "Dent, Franz Maria, Advokat, Scheer"
+        },
+        {
+            "facet_id": 619349,
+            "occurrence": 5,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; M. Anna, geb. von Fugger-Kirchberg"
+        },
+        {
+            "facet_id": 23726,
+            "occurrence": 4,
+            "value": "Maximilian I.; Kaiser, Römisch-Deutsches Reich, 1459-1519"
+        },
+        {
+            "facet_id": 31588,
+            "occurrence": 4,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Christoph Karl"
+        },
+        {
+            "facet_id": 73035,
+            "occurrence": 4,
+            "value": "Klein, Konrad, Vogt; Sigmaringen"
+        },
+        {
+            "facet_id": 73042,
+            "occurrence": 4,
+            "value": "Sälzlin, Kaspar; Ravensburg"
+        },
+        {
+            "facet_id": 73043,
+            "occurrence": 4,
+            "value": "Stein zu Ronsberg, Herren von; Konrad"
+        },
+        {
+            "facet_id": 73052,
+            "occurrence": 4,
+            "value": "Waldburg-Zeil, T.en u. Gfen von; Georg II."
+        },
+        {
+            "facet_id": 112274,
+            "occurrence": 4,
+            "value": "Wild, Hildebrand, Stadtschreiber; Saulgau"
+        },
+        {
+            "facet_id": 127956,
+            "occurrence": 4,
+            "value": "Waldburg-Wolfegg, T.en u. Gfen von; Ferdinand Ludwig"
+        },
+        {
+            "facet_id": 180174,
+            "occurrence": 4,
+            "value": "Anna Gremlich, Äbtissin; Kloster Heiligkreuztal"
+        },
+        {
+            "facet_id": 215400,
+            "occurrence": 4,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Franz Karl, Bf zu Chiemsee"
+        },
+        {
+            "facet_id": 289145,
+            "occurrence": 4,
+            "value": "Fürstenberg, Gfen u. Fsten von (Gesamthaus)"
+        },
+        {
+            "facet_id": 322058,
+            "occurrence": 4,
+            "value": "Breinl, Johann Balthasar, Rentmeister und Kanzleiverwalter, Scheer"
+        },
+        {
+            "facet_id": 364961,
+            "occurrence": 4,
+            "value": "Stotzingen, von, zu Heudorf"
+        },
+        {
+            "facet_id": 608322,
+            "occurrence": 4,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Johann Ernst zu Kisslegg"
+        },
+        {
+            "facet_id": 689632,
+            "occurrence": 4,
+            "value": "Fugger-Kirchberg, Gfen von; Maria Anna Monika, geb. von Waldburg-Trauchburg (jüng. Linie)"
+        },
+        {
+            "facet_id": 712339,
+            "occurrence": 4,
+            "value": "Ferrara, Gfen von; Leopold Ignaz"
+        },
+        {
+            "facet_id": 712340,
+            "occurrence": 4,
+            "value": "Ferrara, Gfen von; M. Franziska, geb. von Waldburg-Trauchburg (jüng. Linie)"
+        },
+        {
+            "facet_id": 712341,
+            "occurrence": 4,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; M. Franziska, verh. Gfin von Ferrara"
+        },
+        {
+            "facet_id": 741,
+            "occurrence": 3,
+            "value": "Ferdinand I.; Kaiser, 1503-1564"
+        },
+        {
+            "facet_id": 41579,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Friedrich"
+        },
+        {
+            "facet_id": 41581,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Wilhelm Heinrich"
+        },
+        {
+            "facet_id": 50662,
+            "occurrence": 3,
+            "value": "Johannes, Abt, Kloster Salem"
+        },
+        {
+            "facet_id": 71352,
+            "occurrence": 3,
+            "value": "Hornstein, von; Sigmund"
+        },
+        {
+            "facet_id": 73034,
+            "occurrence": 3,
+            "value": "Jungnau, Herren von"
+        },
+        {
+            "facet_id": 73036,
+            "occurrence": 3,
+            "value": "Montfort, Gfen von; Wilhelm II."
+        },
+        {
+            "facet_id": 73048,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Jakob I."
+        },
+        {
+            "facet_id": 95582,
+            "occurrence": 3,
+            "value": "Friedrich III.; Kaiser, Römisch-Deutsches Reich, 1415-1493"
+        },
+        {
+            "facet_id": 99143,
+            "occurrence": 3,
+            "value": "Österreich, Hge u. Ehge von; Friedrich II."
+        },
+        {
+            "facet_id": 111514,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Leopold August"
+        },
+        {
+            "facet_id": 127957,
+            "occurrence": 3,
+            "value": "Waldburg-Wolfegg-Waldsee, T.en u. Gfen von; Johann Maria"
+        },
+        {
+            "facet_id": 127958,
+            "occurrence": 3,
+            "value": "Waldburg-Zeil, T.en u. Gfen von; Georg III."
+        },
+        {
+            "facet_id": 128649,
+            "occurrence": 3,
+            "value": "Ungedult, Franz Christoph, Benefiziat; Ennetach"
+        },
+        {
+            "facet_id": 150288,
+            "occurrence": 3,
+            "value": "Meris von Hausen, Ignatius, Oberamtmann, Scheer"
+        },
+        {
+            "facet_id": 299444,
+            "occurrence": 3,
+            "value": "Österreich, Hge u. Ehge von; Rudolf III."
+        },
+        {
+            "facet_id": 299446,
+            "occurrence": 3,
+            "value": "Waldburg-Warthausen, T.en von; Walter"
+        },
+        {
+            "facet_id": 299785,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; M. Sophia, geb. von Öttingen-Wallerstein"
+        },
+        {
+            "facet_id": 303358,
+            "occurrence": 3,
+            "value": "Franz Konrad, Bf von Konstanz"
+        },
+        {
+            "facet_id": 308314,
+            "occurrence": 3,
+            "value": "Mouchet, Lorenz; Ennetach"
+        },
+        {
+            "facet_id": 350404,
+            "occurrence": 3,
+            "value": "Waldburg-Trauchburg T.en u. Gfen von"
+        },
+        {
+            "facet_id": 422964,
+            "occurrence": 3,
+            "value": "Elsasser von Grünenwald, Frhen von; Ferdinand Franz"
+        },
+        {
+            "facet_id": 429719,
+            "occurrence": 3,
+            "value": "Wittenbach, Frhen von"
+        },
+        {
+            "facet_id": 527304,
+            "occurrence": 3,
+            "value": "Dent, Franz Maria, Renitent"
+        },
+        {
+            "facet_id": 591211,
+            "occurrence": 3,
+            "value": "Miller, Johann Michael; Repperweiler: Völlkofen"
+        },
+        {
+            "facet_id": 770626,
+            "occurrence": 3,
+            "value": "Jakob von Jungnau; Mengen"
+        },
+        {
+            "facet_id": 883524,
+            "occurrence": 3,
+            "value": "Waldburg-Zeil-Wurzach, T.en u. Gfen von; Ernst Jakob"
+        },
+        {
+            "facet_id": 1515,
+            "occurrence": 2,
+            "value": "Karl VI.; Kaiser, 1685-1740"
+        },
+        {
+            "facet_id": 30304,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von"
+        },
+        {
+            "facet_id": 41580,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Max Wunibald"
+        },
+        {
+            "facet_id": 45137,
+            "occurrence": 2,
+            "value": "Joseph II.; Kaiser, Römisch-Deutsches Reich, 1741-1790"
+        },
+        {
+            "facet_id": 66571,
+            "occurrence": 2,
+            "value": "Hohenzollern-Sigmaringen, Joseph von; Fürst, 1702-1769"
+        },
+        {
+            "facet_id": 73037,
+            "occurrence": 2,
+            "value": "Montfort-Tettnang, Gfen von; Heinrich VI."
+        },
+        {
+            "facet_id": 73038,
+            "occurrence": 2,
+            "value": "Österreich, Hge u. Ehge von; Leopold IV."
+        },
+        {
+            "facet_id": 73039,
+            "occurrence": 2,
+            "value": "Österreich, Hge u. Ehge von; Sigmund"
+        },
+        {
+            "facet_id": 73053,
+            "occurrence": 2,
+            "value": "Waldburg-Zeil-Wurzach, T.en u. Gfen von; Sebastian Wunibald"
+        },
+        {
+            "facet_id": 81370,
+            "occurrence": 2,
+            "value": "Fürstenberg, Gfen von; Anna Maria, verh. von Waldburg-Trauchburg"
+        },
+        {
+            "facet_id": 81378,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg, T.en u. Gfen von; Anna Maria, geb. Gfin von Fürstenberg"
+        },
+        {
+            "facet_id": 93579,
+            "occurrence": 2,
+            "value": "Clavel, Oberamtmann, Scheer"
+        },
+        {
+            "facet_id": 101278,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Christoph"
+        },
+        {
+            "facet_id": 127955,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Friedrich Marquard"
+        },
+        {
+            "facet_id": 132861,
+            "occurrence": 2,
+            "value": "Kugler, Sebastian; Jettkofen"
+        },
+        {
+            "facet_id": 132862,
+            "occurrence": 2,
+            "value": "Leberer, Andreas; Jettkofen"
+        },
+        {
+            "facet_id": 132863,
+            "occurrence": 2,
+            "value": "Schlegel, Johann; Jettkofen"
+        },
+        {
+            "facet_id": 173796,
+            "occurrence": 2,
+            "value": "Knoll, Christoph, Wirt u. Unterammann; Friedberg, Saulgau"
+        },
+        {
+            "facet_id": 175304,
+            "occurrence": 2,
+            "value": "Waldburg-Zeil-Wurzach, T.en u. Gfen von; Franz Ernst"
+        },
+        {
+            "facet_id": 196116,
+            "occurrence": 2,
+            "value": "Barbara, Äbtissin, Stift Buchau"
+        },
+        {
+            "facet_id": 217165,
+            "occurrence": 2,
+            "value": "Müller, Johann, Feldmesser"
+        },
+        {
+            "facet_id": 229313,
+            "occurrence": 2,
+            "value": "Rohm, Johann Wilhelm, Pfarrer; Arnach"
+        },
+        {
+            "facet_id": 244985,
+            "occurrence": 2,
+            "value": "Müller, Johann Michel; Repperweiler: Völlkofen"
+        },
+        {
+            "facet_id": 290865,
+            "occurrence": 2,
+            "value": "Österreich, Hge u. Ehge von; Ferdinand"
+        },
+        {
+            "facet_id": 297897,
+            "occurrence": 2,
+            "value": "Karl IV.; Kaiser, Römisch-Deutsches Reich, 1316-1378"
+        },
+        {
+            "facet_id": 299784,
+            "occurrence": 2,
+            "value": "Öttingen-Wallerstein, Gfen von; M. Sophia, verh. von Waldburg-Trauchburg (jüng. Linie)"
+        },
+        {
+            "facet_id": 307595,
+            "occurrence": 2,
+            "value": "Fugger-Kirchberg, Gfen von; Maria Anna Monika, verh. von Waldburg-Trauchburg (jüng. Linie)"
+        },
+        {
+            "facet_id": 307596,
+            "occurrence": 2,
+            "value": "Waldburg-Trauchburg (jüng. Linie), T.en u. Gfen von; Maria Anna Monika, geb. von Fugger-Kirchberg"
+        },
+        {
+            "facet_id": 308313,
+            "occurrence": 2,
+            "value": "Linthi, Sebastian, Kaufmann; Wangen"
+        },
+        {
+            "facet_id": 308315,
+            "occurrence": 2,
+            "value": "Mouchet, Michael; Ennetach"
+        },
+        {
+            "facet_id": 372294,
+            "occurrence": 2,
+            "value": "Müller, Johann, Feldmesser; Hohentengen"
+        }
+    ]
+}

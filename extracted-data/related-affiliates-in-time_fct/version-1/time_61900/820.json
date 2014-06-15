@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 820,
+    "affiliate_facet": "Karl Weysser",
+    "occurrence": 1000,
+    "affiliates": [
+        {
+            "facet_id": 820,
+            "occurrence": 1045,
+            "value": "Dumas, Alexandre (1802-1870)"
+        },
+        {
+            "facet_id": 3441,
+            "occurrence": 114,
+            "value": "Muquardt"
+        },
+        {
+            "facet_id": 2242,
+            "occurrence": 102,
+            "value": "Lévy"
+        },
+        {
+            "facet_id": 3673,
+            "occurrence": 97,
+            "value": "Franckh"
+        },
+        {
+            "facet_id": 4159,
+            "occurrence": 61,
+            "value": "Zoller, Karl August Christoph Friedrich (1773-1858)"
+        },
+        {
+            "facet_id": 572,
+            "occurrence": 47,
+            "value": "Hartleben"
+        },
+        {
+            "facet_id": 6193,
+            "occurrence": 43,
+            "value": "Christian Ernst Kollmann, Wittenbecher, Siegel und Kollmann"
+        },
+        {
+            "facet_id": 11830,
+            "occurrence": 43,
+            "value": "Bruckbräu, Friedrich Wilhelm (1792-1874)"
+        },
+        {
+            "facet_id": 6414,
+            "occurrence": 37,
+            "value": "Christian Ernst Kollmann"
+        },
+        {
+            "facet_id": 1215,
+            "occurrence": 33,
+            "value": "Dürr"
+        },
+        {
+            "facet_id": 40262,
+            "occurrence": 33,
+            "value": "Lebègue"
+        },
+        {
+            "facet_id": 48859,
+            "occurrence": 32,
+            "value": "Société Belge de Librairie"
+        },
+        {
+            "facet_id": 8418,
+            "occurrence": 28,
+            "value": "Jenisch und Stage"
+        },
+        {
+            "facet_id": 1124,
+            "occurrence": 23,
+            "value": "Kiessling"
+        },
+        {
+            "facet_id": 5194,
+            "occurrence": 23,
+            "value": "Hauman"
+        },
+        {
+            "facet_id": 29968,
+            "occurrence": 20,
+            "value": "Soc. Belge de Librairie"
+        },
+        {
+            "facet_id": 1986,
+            "occurrence": 16,
+            "value": "G. Paetz"
+        },
+        {
+            "facet_id": 19502,
+            "occurrence": 16,
+            "value": "Jenisch & Stage"
+        },
+        {
+            "facet_id": 1255,
+            "occurrence": 14,
+            "value": "Kollmann"
+        },
+        {
+            "facet_id": 471143,
+            "occurrence": 13,
+            "value": "Durr"
+        },
+        {
+            "facet_id": 29481,
+            "occurrence": 12,
+            "value": "A. Hartleben"
+        },
+        {
+            "facet_id": 147149,
+            "occurrence": 12,
+            "value": "Kiessling, Schnée et Comp."
+        },
+        {
+            "facet_id": 209991,
+            "occurrence": 12,
+            "value": "Société Typographique Belge"
+        },
+        {
+            "facet_id": 55123,
+            "occurrence": 11,
+            "value": "Meline, Cans [u.a.]"
+        },
+        {
+            "facet_id": 159021,
+            "occurrence": 11,
+            "value": "Ch. E. Kollmann, Wittenbecher, Siegel & Kollmann"
+        },
+        {
+            "facet_id": 15508,
+            "occurrence": 10,
+            "value": "Michel Lévy frères"
+        },
+        {
+            "facet_id": 140709,
+            "occurrence": 10,
+            "value": "Hauman et Cie"
+        },
+        {
+            "facet_id": 113167,
+            "occurrence": 9,
+            "value": "Rödiger, G. F. W."
+        },
+        {
+            "facet_id": 460145,
+            "occurrence": 9,
+            "value": "Verlags - Comptoir"
+        },
+        {
+            "facet_id": 12104,
+            "occurrence": 8,
+            "value": "Cadot"
+        },
+        {
+            "facet_id": 277798,
+            "occurrence": 8,
+            "value": "Lažečnikov, Ivan I. (1792-1869)"
+        },
+        {
+            "facet_id": 51499,
+            "occurrence": 7,
+            "value": "Louis, Jean (1787-1823)"
+        },
+        {
+            "facet_id": 65616,
+            "occurrence": 7,
+            "value": "Dufour et Mulat"
+        },
+        {
+            "facet_id": 85505,
+            "occurrence": 7,
+            "value": "Wolfgang Gerhard"
+        },
+        {
+            "facet_id": 90863,
+            "occurrence": 7,
+            "value": "Soc. Belge de Libr."
+        },
+        {
+            "facet_id": 107087,
+            "occurrence": 7,
+            "value": "Meline, Cans"
+        },
+        {
+            "facet_id": 173252,
+            "occurrence": 7,
+            "value": "Kiessling [u.a.]"
+        },
+        {
+            "facet_id": 455438,
+            "occurrence": 7,
+            "value": "Lébegue"
+        },
+        {
+            "facet_id": 819,
+            "occurrence": 6,
+            "value": "Meline [u.a.]"
+        },
+        {
+            "facet_id": 15812,
+            "occurrence": 6,
+            "value": "Alph. Lebègue et Sacré fils"
+        },
+        {
+            "facet_id": 20379,
+            "occurrence": 6,
+            "value": "Jenisch u. Stage"
+        },
+        {
+            "facet_id": 222447,
+            "occurrence": 6,
+            "value": "Société belge de librairie Hauman et Cie"
+        },
+        {
+            "facet_id": 294152,
+            "occurrence": 6,
+            "value": "Christian Ernst Kollmann, Wittenbecher, Siegel u. Kollmann"
+        },
+        {
+            "facet_id": 502278,
+            "occurrence": 6,
+            "value": "Calmann-Levy"
+        },
+        {
+            "facet_id": 4224,
+            "occurrence": 5,
+            "value": "Meline"
+        },
+        {
+            "facet_id": 8468,
+            "occurrence": 5,
+            "value": "Ackermann"
+        },
+        {
+            "facet_id": 43950,
+            "occurrence": 5,
+            "value": "Schnée"
+        },
+        {
+            "facet_id": 45965,
+            "occurrence": 5,
+            "value": "Levy"
+        },
+        {
+            "facet_id": 59853,
+            "occurrence": 5,
+            "value": "C. Muquardt"
+        },
+        {
+            "facet_id": 127183,
+            "occurrence": 5,
+            "value": "Melines, Cans et Comp."
+        },
+        {
+            "facet_id": 313485,
+            "occurrence": 5,
+            "value": "Alphonse Dürr"
+        },
+        {
+            "facet_id": 580792,
+            "occurrence": 5,
+            "value": "Kiessling, Schnee"
+        },
+        {
+            "facet_id": 728762,
+            "occurrence": 5,
+            "value": "Blanquet, Albert"
+        },
+        {
+            "facet_id": 17996,
+            "occurrence": 4,
+            "value": "Ch. E. Kollmann"
+        },
+        {
+            "facet_id": 25280,
+            "occurrence": 4,
+            "value": "Jung-Treuttel"
+        },
+        {
+            "facet_id": 40859,
+            "occurrence": 4,
+            "value": "Michel Levy Frères"
+        },
+        {
+            "facet_id": 49397,
+            "occurrence": 4,
+            "value": "Jenisch"
+        },
+        {
+            "facet_id": 212666,
+            "occurrence": 4,
+            "value": "Verl. - Comptoir"
+        },
+        {
+            "facet_id": 258625,
+            "occurrence": 4,
+            "value": "George Westmann"
+        },
+        {
+            "facet_id": 320673,
+            "occurrence": 4,
+            "value": "Manche"
+        },
+        {
+            "facet_id": 458911,
+            "occurrence": 4,
+            "value": "Kissling, Schnée"
+        },
+        {
+            "facet_id": 483437,
+            "occurrence": 4,
+            "value": "Heine, Ferdinand"
+        },
+        {
+            "facet_id": 4536,
+            "occurrence": 3,
+            "value": "Alph. Durr"
+        },
+        {
+            "facet_id": 6300,
+            "occurrence": 3,
+            "value": "Hayn"
+        },
+        {
+            "facet_id": 51497,
+            "occurrence": 3,
+            "value": "Impr. de la Cour"
+        },
+        {
+            "facet_id": 61524,
+            "occurrence": 3,
+            "value": "Zoller, Edmund von (1822-1902)"
+        },
+        {
+            "facet_id": 63926,
+            "occurrence": 3,
+            "value": "Susemihl, Ernst"
+        },
+        {
+            "facet_id": 93049,
+            "occurrence": 3,
+            "value": "A. W. Hayn"
+        },
+        {
+            "facet_id": 120192,
+            "occurrence": 3,
+            "value": "[Marchant]"
+        },
+        {
+            "facet_id": 132509,
+            "occurrence": 3,
+            "value": "Libr. théatrale"
+        },
+        {
+            "facet_id": 150028,
+            "occurrence": 3,
+            "value": "Franz Karafiat"
+        },
+        {
+            "facet_id": 246729,
+            "occurrence": 3,
+            "value": "Christian Ernst Kollmann - Wittenbecher, Siegel und Kollmann"
+        },
+        {
+            "facet_id": 396962,
+            "occurrence": 3,
+            "value": "Imprimierie du Politique"
+        },
+        {
+            "facet_id": 857399,
+            "occurrence": 3,
+            "value": "Aug. Schnée et Cie"
+        },
+        {
+            "facet_id": 548,
+            "occurrence": 2,
+            "value": "Velhagen & Klasing"
+        },
+        {
+            "facet_id": 11478,
+            "occurrence": 2,
+            "value": "Berger"
+        },
+        {
+            "facet_id": 22329,
+            "occurrence": 2,
+            "value": "Meline, Cans et Co."
+        },
+        {
+            "facet_id": 23767,
+            "occurrence": 2,
+            "value": "Hetzel"
+        },
+        {
+            "facet_id": 40091,
+            "occurrence": 2,
+            "value": "Kiessling, Schnée"
+        },
+        {
+            "facet_id": 62460,
+            "occurrence": 2,
+            "value": "Maquet, Auguste (1813-1888)"
+        },
+        {
+            "facet_id": 88703,
+            "occurrence": 2,
+            "value": "Librairie théatrale"
+        },
+        {
+            "facet_id": 95059,
+            "occurrence": 2,
+            "value": "Paetz"
+        },
+        {
+            "facet_id": 145997,
+            "occurrence": 2,
+            "value": "Naumbourg"
+        },
+        {
+            "facet_id": 147809,
+            "occurrence": 2,
+            "value": "Michel Lévy"
+        },
+        {
+            "facet_id": 226657,
+            "occurrence": 2,
+            "value": "Meline u.a."
+        },
+        {
+            "facet_id": 268317,
+            "occurrence": 2,
+            "value": "M. Lévy"
+        },
+        {
+            "facet_id": 401494,
+            "occurrence": 2,
+            "value": "Melines, Cans et Cie."
+        },
+        {
+            "facet_id": 500142,
+            "occurrence": 2,
+            "value": "Mu1uardt"
+        },
+        {
+            "facet_id": 644043,
+            "occurrence": 2,
+            "value": "Dolin"
+        },
+        {
+            "facet_id": 658979,
+            "occurrence": 2,
+            "value": "Soc. Belge de Librairie, Hauman"
+        },
+        {
+            "facet_id": 1013369,
+            "occurrence": 2,
+            "value": "Allgemeine Niederlandische Buchhandlung"
+        },
+        {
+            "facet_id": 422,
+            "occurrence": 1,
+            "value": "Ries & Erler"
+        },
+        {
+            "facet_id": 1272,
+            "occurrence": 1,
+            "value": "Wallishausser"
+        },
+        {
+            "facet_id": 1645,
+            "occurrence": 1,
+            "value": "Barba"
+        },
+        {
+            "facet_id": 1681,
+            "occurrence": 1,
+            "value": "Smidt, Heinrich (1798-1867)"
+        },
+        {
+            "facet_id": 2752,
+            "occurrence": 1,
+            "value": "Beck"
+        },
+        {
+            "facet_id": 4239,
+            "occurrence": 1,
+            "value": "Franck"
+        },
+        {
+            "facet_id": 11479,
+            "occurrence": 1,
+            "value": "Hallberger"
+        },
+        {
+            "facet_id": 12528,
+            "occurrence": 1,
+            "value": "Rehbaum, Theobald"
+        },
+        {
+            "facet_id": 16777,
+            "occurrence": 1,
+            "value": "Flotow, Friedrich von (1812-1883)"
+        }
+    ]
+}

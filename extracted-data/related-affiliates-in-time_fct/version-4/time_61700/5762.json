@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_fct_id": 5762,
+    "affiliate_fct": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek",
+    "affiliate_fct_occurrence": 323,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5762,
+            "affiliate_fct": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek",
+            "affiliate_fct_occurrence": 323
+        },
+        {
+            "affiliate_fct_id": 4951,
+            "affiliate_fct": "Paris",
+            "affiliate_fct_occurrence": 33
+        },
+        {
+            "affiliate_fct_id": 10345,
+            "affiliate_fct": "Kircher, Athanasius",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 331186,
+            "affiliate_fct": "Roma",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 10386,
+            "affiliate_fct": "Bologna",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 157947,
+            "affiliate_fct": "Amstelodami",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 356900,
+            "affiliate_fct": "Schott, Kaspar",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 62656,
+            "affiliate_fct": "London",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 128,
+            "affiliate_fct": "Amsterdam",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 30470,
+            "affiliate_fct": "Nürnberg",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 129890,
+            "affiliate_fct": "Romae",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 6362,
+            "affiliate_fct": "Ozanam, Jacques",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 9807,
+            "affiliate_fct": "Endter",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 6363,
+            "affiliate_fct": "Jombert",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 85029,
+            "affiliate_fct": "Bononiae",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 147084,
+            "affiliate_fct": "Firenze",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 6289,
+            "affiliate_fct": "Schönwetter",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 16760,
+            "affiliate_fct": "Venetia",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 21871,
+            "affiliate_fct": "Galilei, Galileo",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 100303,
+            "affiliate_fct": "Angeli, Stefano degli",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 166378,
+            "affiliate_fct": "Padova",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 321988,
+            "affiliate_fct": "Descartes, René",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 19446,
+            "affiliate_fct": "Basel",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 32631,
+            "affiliate_fct": "Michallet",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 59571,
+            "affiliate_fct": "Euclides",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 63263,
+            "affiliate_fct": "Würzburg",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 127757,
+            "affiliate_fct": "Ōsaka",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 127758,
+            "affiliate_fct": "Iguchi, Jōhan; 井口常範",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 127759,
+            "affiliate_fct": "Ikeuchi Hachibee &amp; Kawachiya Kihei",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 155978,
+            "affiliate_fct": "DellaPorta, Giovanni B.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 258089,
+            "affiliate_fct": "Franckfurt am Mayn",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 6768,
+            "affiliate_fct": "Zannetti",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 25349,
+            "affiliate_fct": "Mascardi",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 49351,
+            "affiliate_fct": "Longhi",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 61089,
+            "affiliate_fct": "Londini",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 79655,
+            "affiliate_fct": "Fludd, Robert",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 80867,
+            "affiliate_fct": "Venetiis",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 110555,
+            "affiliate_fct": "Lugduni Batavorum",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 121830,
+            "affiliate_fct": "De Bry",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 123027,
+            "affiliate_fct": "Oppenheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 152383,
+            "affiliate_fct": "Dozza",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 200608,
+            "affiliate_fct": "Francofurti",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 383359,
+            "affiliate_fct": "Leiden",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 465850,
+            "affiliate_fct": "Blaviana",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3554,
+            "affiliate_fct": "Chirol",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 9491,
+            "affiliate_fct": "Bernabò",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 11865,
+            "affiliate_fct": "Riegel",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 14270,
+            "affiliate_fct": "Fürst",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 29046,
+            "affiliate_fct": "Genath",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 29771,
+            "affiliate_fct": "Franckfurt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 64749,
+            "affiliate_fct": "Saur",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 85431,
+            "affiliate_fct": "Stahl, Georg Conrad",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 104671,
+            "affiliate_fct": "Borelli, Giovanni Alfonso",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 146658,
+            "affiliate_fct": "Marchetti, Alessandro",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 178079,
+            "affiliate_fct": "Clavius, Christoph",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 302746,
+            "affiliate_fct": "Fabri, Honoré",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 318157,
+            "affiliate_fct": "Genève",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 318158,
+            "affiliate_fct": "Senebier, Jean",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 322751,
+            "affiliate_fct": "LaHire, Philippe de",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 336377,
+            "affiliate_fct": "Ghetaldi, Marino",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 373488,
+            "affiliate_fct": "Rom",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 383358,
+            "affiliate_fct": "Stevin, Simon",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 415516,
+            "affiliate_fct": "Norimbergae",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 509147,
+            "affiliate_fct": "Heron &lt;Alexandrinus&gt;",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 642985,
+            "affiliate_fct": "Casati, Paolo",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2182,
+            "affiliate_fct": "Becker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3653,
+            "affiliate_fct": "München",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5266,
+            "affiliate_fct": "Leipzig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8793,
+            "affiliate_fct": "Ferroni",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 9759,
+            "affiliate_fct": "Jansson-Waesberg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10344,
+            "affiliate_fct": "Janssonio-Waesbergiana",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13635,
+            "affiliate_fct": "Jäcklin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 18501,
+            "affiliate_fct": "Augsburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 19810,
+            "affiliate_fct": "Halbmayer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21916,
+            "affiliate_fct": "Frankfurt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22191,
+            "affiliate_fct": "s. n.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 26920,
+            "affiliate_fct": "Elzevir",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 32136,
+            "affiliate_fct": "Ulm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 34554,
+            "affiliate_fct": "Venedig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 37954,
+            "affiliate_fct": "Madrid",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 44961,
+            "affiliate_fct": "Libavius, Andreas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 58807,
+            "affiliate_fct": "Parisiis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 61301,
+            "affiliate_fct": "Sturm, Johann Christoph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 75936,
+            "affiliate_fct": "Lyon",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 77732,
+            "affiliate_fct": "Gilbert, William",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 79325,
+            "affiliate_fct": "Stelluti, Francesco",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 81256,
+            "affiliate_fct": "Combi",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 83355,
+            "affiliate_fct": "Scott",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 93237,
+            "affiliate_fct": "Scheus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 104669,
+            "affiliate_fct": "Lugduni in Batavis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 104670,
+            "affiliate_fct": "Boutesteyn [u.a.]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 105959,
+            "affiliate_fct": "Valerio, Luca",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 108096,
+            "affiliate_fct": "Berthelin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 109479,
+            "affiliate_fct": "Cocchini",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 116638,
+            "affiliate_fct": "Boyle, Robert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 124550,
+            "affiliate_fct": "Rossetti, Donato",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 124551,
+            "affiliate_fct": "Bonfigli",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 125623,
+            "affiliate_fct": "Romanus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 155979,
+            "affiliate_fct": "Neapoli",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 170458,
+            "affiliate_fct": "Viviani, Vincenzo",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

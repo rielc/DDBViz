@@ -1,0 +1,39 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 1876,
+    "affiliate_facet": "Forstamt Eberbach",
+    "occurrence": 221,
+    "affiliates": [
+        {
+            "facet_id": 1876,
+            "occurrence": 228,
+            "value": "Museumshof Lensahn"
+        },
+        {
+            "facet_id": 332892,
+            "occurrence": 1,
+            "value": "Kroewa,"
+        },
+        {
+            "facet_id": 333700,
+            "occurrence": 1,
+            "value": "Hako,"
+        },
+        {
+            "facet_id": 608249,
+            "occurrence": 1,
+            "value": "Hecktor,"
+        },
+        {
+            "facet_id": 650489,
+            "occurrence": 1,
+            "value": "Marschal"
+        },
+        {
+            "facet_id": 1004882,
+            "occurrence": 1,
+            "value": "Tröster,"
+        }
+    ]
+}

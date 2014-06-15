@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "affiliate_facet_id": 70,
+    "affiliate_facet": "Universitätsbibliothek der Universität Potsdam",
+    "occurrence": 271,
+    "affiliates": [
+        {
+            "facet_id": 70,
+            "occurrence": 373,
+            "value": "Universitätsbibliothek der Universität Heidelberg,"
+        },
+        {
+            "facet_id": 376,
+            "occurrence": 39,
+            "value": "Universitätsbibliothek Heidelberg"
+        },
+        {
+            "facet_id": 7208,
+            "occurrence": 13,
+            "value": "Campus-TV"
+        },
+        {
+            "facet_id": 9968,
+            "occurrence": 12,
+            "value": "Dörflinger, Gabriele (1949-)"
+        },
+        {
+            "facet_id": 75477,
+            "occurrence": 9,
+            "value": "Universität Heidelberg"
+        },
+        {
+            "facet_id": 13573,
+            "occurrence": 8,
+            "value": "Büttner, Nils (1967-)"
+        },
+        {
+            "facet_id": 103652,
+            "occurrence": 7,
+            "value": "Davis, Charles (1956-)"
+        },
+        {
+            "facet_id": 37313,
+            "occurrence": 6,
+            "value": "Schredl, Michael"
+        },
+        {
+            "facet_id": 116920,
+            "occurrence": 6,
+            "value": "Eitel, Bernhard (1959-)"
+        },
+        {
+            "facet_id": 126308,
+            "occurrence": 6,
+            "value": "Gross, Uwe (1955-)"
+        },
+        {
+            "facet_id": 358136,
+            "occurrence": 6,
+            "value": "Oechssler, Jörg"
+        },
+        {
+            "facet_id": 198003,
+            "occurrence": 5,
+            "value": "Davis, Margaret Daly"
+        },
+        {
+            "facet_id": 5807,
+            "occurrence": 4,
+            "value": "Kohle, Hubertus (1959-)"
+        },
+        {
+            "facet_id": 9343,
+            "occurrence": 4,
+            "value": "Apel, Jochen"
+        },
+        {
+            "facet_id": 9572,
+            "occurrence": 4,
+            "value": "Gross, Uwe"
+        },
+        {
+            "facet_id": 15809,
+            "occurrence": 4,
+            "value": "Müller, Jürgen (1961-)"
+        },
+        {
+            "facet_id": 36629,
+            "occurrence": 4,
+            "value": "Sprigath, Gabriele"
+        },
+        {
+            "facet_id": 48299,
+            "occurrence": 4,
+            "value": "Ganz, David (1970-)"
+        },
+        {
+            "facet_id": 142527,
+            "occurrence": 4,
+            "value": "Blümle, Claudia"
+        },
+        {
+            "facet_id": 275024,
+            "occurrence": 4,
+            "value": "Bielitz, Mathias"
+        },
+        {
+            "facet_id": 342715,
+            "occurrence": 4,
+            "value": "Miethke, Jürgen (1938-)"
+        },
+        {
+            "facet_id": 583904,
+            "occurrence": 4,
+            "value": "Conrad, Christian (1977-)"
+        },
+        {
+            "facet_id": 6713,
+            "occurrence": 3,
+            "value": "Funke, Joachim (1953-)"
+        },
+        {
+            "facet_id": 14042,
+            "occurrence": 3,
+            "value": "Altenmüller, Hartwig (1938-)"
+        },
+        {
+            "facet_id": 28845,
+            "occurrence": 3,
+            "value": "Günther, Hubertus (1943-)"
+        },
+        {
+            "facet_id": 45600,
+            "occurrence": 3,
+            "value": "Vasari, Giorgio"
+        },
+        {
+            "facet_id": 75884,
+            "occurrence": 3,
+            "value": "Jung, Dinah"
+        },
+        {
+            "facet_id": 94513,
+            "occurrence": 3,
+            "value": "Richter, Thomas"
+        },
+        {
+            "facet_id": 97565,
+            "occurrence": 3,
+            "value": "Wielen, Roland (1938-)"
+        },
+        {
+            "facet_id": 97566,
+            "occurrence": 3,
+            "value": "Wielen, Ute"
+        },
+        {
+            "facet_id": 137318,
+            "occurrence": 3,
+            "value": "Tripps, Johannes (1962-)"
+        },
+        {
+            "facet_id": 279643,
+            "occurrence": 3,
+            "value": "Weyand, Rainer"
+        },
+        {
+            "facet_id": 293469,
+            "occurrence": 3,
+            "value": "Schwieren, Christiane (1972-)"
+        },
+        {
+            "facet_id": 303534,
+            "occurrence": 3,
+            "value": "Hermann, Dieter (1951-)"
+        },
+        {
+            "facet_id": 432224,
+            "occurrence": 3,
+            "value": "Sauer, Martina (1962-)"
+        },
+        {
+            "facet_id": 447105,
+            "occurrence": 3,
+            "value": "Krcal, Hans-Christian (1964-)"
+        },
+        {
+            "facet_id": 566550,
+            "occurrence": 3,
+            "value": "Institut für Kriminologie"
+        },
+        {
+            "facet_id": 595446,
+            "occurrence": 3,
+            "value": "Hartmann, Andreas (1977-)"
+        },
+        {
+            "facet_id": 600233,
+            "occurrence": 3,
+            "value": "Weber, Gregor (1961-)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 2,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 1183,
+            "occurrence": 2,
+            "value": "Rubens, Peter Paul"
+        },
+        {
+            "facet_id": 2958,
+            "occurrence": 2,
+            "value": "Dürer, Albrecht"
+        },
+        {
+            "facet_id": 4387,
+            "occurrence": 2,
+            "value": "Andreae, Bernard (1930-)"
+        },
+        {
+            "facet_id": 8910,
+            "occurrence": 2,
+            "value": "Müller-Römer, Frank (1936-)"
+        },
+        {
+            "facet_id": 20351,
+            "occurrence": 2,
+            "value": "Krauskopf, Ingrid (1944-)"
+        },
+        {
+            "facet_id": 21136,
+            "occurrence": 2,
+            "value": "Sprigath, Gabriele (1940-)"
+        },
+        {
+            "facet_id": 34485,
+            "occurrence": 2,
+            "value": "Römer, Daniel"
+        },
+        {
+            "facet_id": 34486,
+            "occurrence": 2,
+            "value": "Roth, Benjamin"
+        },
+        {
+            "facet_id": 34642,
+            "occurrence": 2,
+            "value": "Karolinger"
+        },
+        {
+            "facet_id": 37312,
+            "occurrence": 2,
+            "value": "Erlacher, Daniel"
+        },
+        {
+            "facet_id": 54330,
+            "occurrence": 2,
+            "value": "Yule, Paul (1947-)"
+        },
+        {
+            "facet_id": 54627,
+            "occurrence": 2,
+            "value": "Weiand, Christof (1954-)"
+        },
+        {
+            "facet_id": 62615,
+            "occurrence": 2,
+            "value": "Berschin, Walter (1937-)"
+        },
+        {
+            "facet_id": 72431,
+            "occurrence": 2,
+            "value": "Helmholtz, Hermann von"
+        },
+        {
+            "facet_id": 75733,
+            "occurrence": 2,
+            "value": "Wick, Thomas"
+        },
+        {
+            "facet_id": 75933,
+            "occurrence": 2,
+            "value": "Panagiotopoulos, Diamantis (1957-)"
+        },
+        {
+            "facet_id": 77226,
+            "occurrence": 2,
+            "value": "Eife, Thomas A. (1971-)"
+        },
+        {
+            "facet_id": 113384,
+            "occurrence": 2,
+            "value": "Pietschmann, Dieter-Robert (1959-)"
+        },
+        {
+            "facet_id": 133179,
+            "occurrence": 2,
+            "value": "Hermann, Martin"
+        },
+        {
+            "facet_id": 190132,
+            "occurrence": 2,
+            "value": "Radtke, Oliver Lutz (1977-)"
+        },
+        {
+            "facet_id": 191918,
+            "occurrence": 2,
+            "value": "Rausch, Thomas"
+        },
+        {
+            "facet_id": 194612,
+            "occurrence": 2,
+            "value": "Lautenschläger, Manfred (1938-)"
+        },
+        {
+            "facet_id": 207675,
+            "occurrence": 2,
+            "value": "Goeschl, Timo"
+        },
+        {
+            "facet_id": 211780,
+            "occurrence": 2,
+            "value": "Zentrale Universitätsverwaltung"
+        },
+        {
+            "facet_id": 211781,
+            "occurrence": 2,
+            "value": "Kraus, Jörg"
+        },
+        {
+            "facet_id": 217948,
+            "occurrence": 2,
+            "value": "Merten, Julian"
+        },
+        {
+            "facet_id": 243081,
+            "occurrence": 2,
+            "value": "Maurach, Gregor (1932-)"
+        },
+        {
+            "facet_id": 243082,
+            "occurrence": 2,
+            "value": "Echinger-Maurach, Claudia"
+        },
+        {
+            "facet_id": 278660,
+            "occurrence": 2,
+            "value": "Taruashvili, Leonid Iosifovich"
+        },
+        {
+            "facet_id": 281134,
+            "occurrence": 2,
+            "value": "Nicolaus <de Cusa>"
+        },
+        {
+            "facet_id": 282568,
+            "occurrence": 2,
+            "value": "Jolly, Philipp Johann Gustav von"
+        },
+        {
+            "facet_id": 291546,
+            "occurrence": 2,
+            "value": "Nissen, Martin (1977-)"
+        },
+        {
+            "facet_id": 306389,
+            "occurrence": 2,
+            "value": "Della Valle, Pietro (1586 - 1652)"
+        },
+        {
+            "facet_id": 326771,
+            "occurrence": 2,
+            "value": "Trieloff, Mario"
+        },
+        {
+            "facet_id": 330993,
+            "occurrence": 2,
+            "value": "Merowinger"
+        },
+        {
+            "facet_id": 338047,
+            "occurrence": 2,
+            "value": "Enss, Christian"
+        },
+        {
+            "facet_id": 340388,
+            "occurrence": 2,
+            "value": "Tiedemann, Anja"
+        },
+        {
+            "facet_id": 340683,
+            "occurrence": 2,
+            "value": "Petersen, Thomas (1953-)"
+        },
+        {
+            "facet_id": 340684,
+            "occurrence": 2,
+            "value": "Faber, Malte (1938-)"
+        },
+        {
+            "facet_id": 432225,
+            "occurrence": 2,
+            "value": "Rist, Pipilotti"
+        },
+        {
+            "facet_id": 442456,
+            "occurrence": 2,
+            "value": "Institut für Pflanzenwissenschaften"
+        },
+        {
+            "facet_id": 454900,
+            "occurrence": 2,
+            "value": "Zweig, Katharina A."
+        },
+        {
+            "facet_id": 457244,
+            "occurrence": 2,
+            "value": "Leuermann, Andrea"
+        },
+        {
+            "facet_id": 468992,
+            "occurrence": 2,
+            "value": "Plessner, Henning (1965-)"
+        },
+        {
+            "facet_id": 482477,
+            "occurrence": 2,
+            "value": "Straehle, Gerhard (1950-)"
+        },
+        {
+            "facet_id": 489569,
+            "occurrence": 2,
+            "value": "Studentenwerk"
+        },
+        {
+            "facet_id": 519917,
+            "occurrence": 2,
+            "value": "Gallenkamp, Marian"
+        },
+        {
+            "facet_id": 534504,
+            "occurrence": 2,
+            "value": "Wenzel, Claudia"
+        },
+        {
+            "facet_id": 536140,
+            "occurrence": 2,
+            "value": "Hilgert, Markus (1969-)"
+        },
+        {
+            "facet_id": 539216,
+            "occurrence": 2,
+            "value": "Exzellenzcluster Asien und Europa im Globalen Kontext"
+        },
+        {
+            "facet_id": 571831,
+            "occurrence": 2,
+            "value": "Lamers, Oliver"
+        },
+        {
+            "facet_id": 583905,
+            "occurrence": 2,
+            "value": "Loch, Karin"
+        },
+        {
+            "facet_id": 719001,
+            "occurrence": 2,
+            "value": "Institut für Angewandte Mathematik"
+        },
+        {
+            "facet_id": 756866,
+            "occurrence": 2,
+            "value": "Malitz, Jürgen"
+        },
+        {
+            "facet_id": 790795,
+            "occurrence": 2,
+            "value": "Tröger, Jochen"
+        },
+        {
+            "facet_id": 844612,
+            "occurrence": 2,
+            "value": "Diederich, Johannes"
+        },
+        {
+            "facet_id": 873449,
+            "occurrence": 2,
+            "value": "Physikalisches Institut"
+        },
+        {
+            "facet_id": 915856,
+            "occurrence": 2,
+            "value": "Botanischer Garten"
+        },
+        {
+            "facet_id": 939038,
+            "occurrence": 2,
+            "value": "Alexandrou, Maria"
+        },
+        {
+            "facet_id": 71,
+            "occurrence": 1,
+            "value": "Kölling, Max"
+        }
+    ]
+}

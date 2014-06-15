@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_fct_id": 3715,
+    "affiliate_fct": "Bezirksamt Eberbach",
+    "affiliate_fct_occurrence": 1066,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 3715,
+            "affiliate_fct": "Bezirksamt Eberbach",
+            "affiliate_fct_occurrence": 1066
+        },
+        {
+            "affiliate_fct_id": 29308,
+            "affiliate_fct": "Leiningen, Fürsten von",
+            "affiliate_fct_occurrence": 54
+        },
+        {
+            "affiliate_fct_id": 28367,
+            "affiliate_fct": "Zwingenberg, Standesherrschaft",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 95512,
+            "affiliate_fct": "Stift Mosbach",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 24033,
+            "affiliate_fct": "Baden, Markgrafen von",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 90567,
+            "affiliate_fct": "Zwingenberg; Standesherrschaft",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 154128,
+            "affiliate_fct": "Hübsch, Wilhelm Christian; Amtmann zu Eberbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1191,
+            "affiliate_fct": "Baden, Friedrich I. Großherzog von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5808,
+            "affiliate_fct": "Deutscher Orden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26994,
+            "affiliate_fct": "Stumpf, Jacob; Bäcker zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33889,
+            "affiliate_fct": "Baden, Ludwig Großherzog von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41801,
+            "affiliate_fct": "Schmitt, Anna Maria; Weisbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41802,
+            "affiliate_fct": "Schmitt, Georg; Weisbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 58318,
+            "affiliate_fct": "Leiningen; Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72349,
+            "affiliate_fct": "Ebert, Alois; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79176,
+            "affiliate_fct": "Casira, Themistokles; Kairo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79177,
+            "affiliate_fct": "Georgeadis, Demeter; Kairo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113173,
+            "affiliate_fct": "Baldauf, Heinrich; Stockhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 171838,
+            "affiliate_fct": "Gutsch, L.; Autor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222871,
+            "affiliate_fct": "Mühlmaier, Johannes; Vagant zu Mühlbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 239334,
+            "affiliate_fct": "Baden; Leopold Großherzog von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 249730,
+            "affiliate_fct": "Stierle; evangelischer Pfarrer zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 264037,
+            "affiliate_fct": "Bachmann, Georg; Müller zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 279216,
+            "affiliate_fct": "Ebert; evangelischer Pfarrer zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288002,
+            "affiliate_fct": "Eppe, Franz Joseph, Amtspostbote",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288003,
+            "affiliate_fct": "Hänig, Johannes, Amtspostbote",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288317,
+            "affiliate_fct": "Rupp, Johann Peter; Pleutersbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288318,
+            "affiliate_fct": "Rupp, Johann Philipp; Pleutersbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 295754,
+            "affiliate_fct": "Rain, Franz jun.; Erbpächter zu Strümpfelbrunn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 295755,
+            "affiliate_fct": "Rain, Franz sen.; Erbpächter zu Strümpfelbrunn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 297118,
+            "affiliate_fct": "Schneider, Valentin; Mülben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 300911,
+            "affiliate_fct": "Kadel, Daniel Heinrich; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318890,
+            "affiliate_fct": "Buchner, Adam Friedrich; Bamberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 319396,
+            "affiliate_fct": "Hofmann, Mainrad; Müller zu Igelsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365640,
+            "affiliate_fct": "Riedinger, Gustav; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 418808,
+            "affiliate_fct": "Wilhelm, Christian; Schreiner zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 431712,
+            "affiliate_fct": "Leutz, Hermann; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 456133,
+            "affiliate_fct": "Hoffmann von Fallersleben; Dichter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 459605,
+            "affiliate_fct": "Hodge, Thomas; Attentäter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 459606,
+            "affiliate_fct": "Napoleon III.; Kaiser von Frankreich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463236,
+            "affiliate_fct": "Beuchert, Franz; Müller zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 465062,
+            "affiliate_fct": "Baden; Friedrich I. Großherzog von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 466356,
+            "affiliate_fct": "Kieser, Christina; Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 466357,
+            "affiliate_fct": "Veith, Christina; Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470521,
+            "affiliate_fct": "Kaiser, Ignaz; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487788,
+            "affiliate_fct": "Schmidt, Julius; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 490988,
+            "affiliate_fct": "Schreiber, Christian; Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 519164,
+            "affiliate_fct": "Ehrismann, Peter; Schullehrer zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 543776,
+            "affiliate_fct": "Brentano, Lorenz; Rechtsanwalt in Mannheim, Revolutionsteilnehmer 1848/49",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 544792,
+            "affiliate_fct": "Wahl, Goswin, Förster zu Schwarzach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 567894,
+            "affiliate_fct": "Haas, Josef; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 571258,
+            "affiliate_fct": "Zimmermann, Johann; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 577603,
+            "affiliate_fct": "Münch, Adam; Bürgermeister zu Friedrichsdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 579993,
+            "affiliate_fct": "Senftleben, Peter; Fischer zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 583333,
+            "affiliate_fct": "Veith, Philipp Jakob; Müller zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 584476,
+            "affiliate_fct": "Kraus, Carl; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 589120,
+            "affiliate_fct": "Schindler, Michael; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 590787,
+            "affiliate_fct": "Böhle, Karl; Reisenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 596829,
+            "affiliate_fct": "Bell, Johann; Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 598436,
+            "affiliate_fct": "Epp, Martin; Bauaufseher",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 603417,
+            "affiliate_fct": "Blum, Georg, Kriegsfuhrmann zu Neunkirchen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 603418,
+            "affiliate_fct": "Reibold, Philipp, Kriegsfuhrmann zu Neunkirchen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 627713,
+            "affiliate_fct": "Eiermann, Friedrich, Müller zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 627714,
+            "affiliate_fct": "Eiermann, Peter, Müller zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 646547,
+            "affiliate_fct": "Wiesmann, Joseph; Greußenheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 648113,
+            "affiliate_fct": "Baden, Leopold; Großherzog, 1790 - 1852",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 653018,
+            "affiliate_fct": "Schork, Andreas; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 672731,
+            "affiliate_fct": "Rothengass, Karl; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 706355,
+            "affiliate_fct": "Philipps, Anna Rebecca; Beerfelden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 750100,
+            "affiliate_fct": "Bechtold, Johannes; Weisbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 754275,
+            "affiliate_fct": "Hartig; katholischer Pfarrer zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763422,
+            "affiliate_fct": "Winter, Theodor; Bäcker zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 770826,
+            "affiliate_fct": "Gaimann, Georg; Müller zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 772380,
+            "affiliate_fct": "Baden, Karl Friedrich Großherzog von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 779101,
+            "affiliate_fct": "Kunz, Karl; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 796828,
+            "affiliate_fct": "Sonntag, Libertus; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 813733,
+            "affiliate_fct": "Scholl, Joseph; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 858287,
+            "affiliate_fct": "Leininger, Michael; Erbpächter zu Strümpfelbrunn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 859492,
+            "affiliate_fct": "Illich, Johann Georg; Obernbreit",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 859493,
+            "affiliate_fct": "Illich, Michael; Obernbreit",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 864235,
+            "affiliate_fct": "Weiß, Michael; Strümpfelbrunn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 881371,
+            "affiliate_fct": "Fritz, Valentin; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 919499,
+            "affiliate_fct": "Sevin, Pfarrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 928806,
+            "affiliate_fct": "Krauth, Jakob; Müller zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 931745,
+            "affiliate_fct": "Niebergall, Friedrich Adam, Müller zu Neckargerach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 934399,
+            "affiliate_fct": "Hafner; Autor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 934400,
+            "affiliate_fct": "Krauth; Autor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 950110,
+            "affiliate_fct": "Helm, Friedrich; Novalzehntpächter zu Pleutersbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 951109,
+            "affiliate_fct": "Schmitt, Jacob; Färber zu Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 955615,
+            "affiliate_fct": "Eiermann, Karl Friedrich Wilhelm; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 968600,
+            "affiliate_fct": "Eberle, Albert; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 982649,
+            "affiliate_fct": "Schork, Simon; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 986741,
+            "affiliate_fct": "Gährig, Heinrich; Müller zu Pleutersbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 988066,
+            "affiliate_fct": "Heck, Johann Joseph; Balsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1002490,
+            "affiliate_fct": "Höflich, Ludwig; Soldat zu Hebstahl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1009889,
+            "affiliate_fct": "Ebbe, Johann; Eberbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1018693,
+            "affiliate_fct": "Link, Wilhelm; Wagenschwend",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1019361,
+            "affiliate_fct": "Vicari, Hermann von; Erzbischof zu Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1024761,
+            "affiliate_fct": "Adler, Eva; Waldkatzenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1024762,
+            "affiliate_fct": "Herrmann, Eva; Waldkatzenbach",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

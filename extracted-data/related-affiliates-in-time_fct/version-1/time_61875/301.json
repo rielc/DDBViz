@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 13,
+    "time_fct": "time_61875",
+    "affiliate_facet_id": 301,
+    "affiliate_facet": "Frankreich / Assemblée Nationale Constituante (1789 - 1791)",
+    "occurrence": 273,
+    "affiliates": [
+        {
+            "facet_id": 301,
+            "occurrence": 278,
+            "value": "Cotta"
+        },
+        {
+            "facet_id": 19401,
+            "occurrence": 33,
+            "value": "Posselt, Ernst Ludwig (1763-1804)"
+        },
+        {
+            "facet_id": 6660,
+            "occurrence": 18,
+            "value": "Archenholz, Johann Wilhelm von (1743-1812)"
+        },
+        {
+            "facet_id": 33901,
+            "occurrence": 18,
+            "value": "Hoffmann [teils]"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 16,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 244,
+            "occurrence": 12,
+            "value": "Plutarchus (45-120)"
+        },
+        {
+            "facet_id": 58745,
+            "occurrence": 12,
+            "value": "Hutten, Johann G."
+        },
+        {
+            "facet_id": 6807,
+            "occurrence": 11,
+            "value": "Ploucquet, Wilhelm Gottfried (1744-1814)"
+        },
+        {
+            "facet_id": 879,
+            "occurrence": 8,
+            "value": "Schiller, Friedrich (1759-1805)"
+        },
+        {
+            "facet_id": 166239,
+            "occurrence": 7,
+            "value": "Reuß, Christian Friedrich von (1745-1813)"
+        },
+        {
+            "facet_id": 158780,
+            "occurrence": 6,
+            "value": "Hofacker, Karl Christoph (1749-1793)"
+        },
+        {
+            "facet_id": 16514,
+            "occurrence": 5,
+            "value": "Fichte, Johann Gottlieb (1762-1814)"
+        },
+        {
+            "facet_id": 266839,
+            "occurrence": 5,
+            "value": "Gmelin, Christian von (1750-1823)"
+        },
+        {
+            "facet_id": 72553,
+            "occurrence": 4,
+            "value": "Storr, Gottlob Christian (1746-1805)"
+        },
+        {
+            "facet_id": 1349,
+            "occurrence": 3,
+            "value": "Rousseau, Jean-Jacques (1712-1778)"
+        },
+        {
+            "facet_id": 4580,
+            "occurrence": 3,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 211531,
+            "occurrence": 3,
+            "value": "Mauchart, Burchard David (1696-1751)"
+        },
+        {
+            "facet_id": 318373,
+            "occurrence": 3,
+            "value": "Göz, Christian G."
+        },
+        {
+            "facet_id": 379335,
+            "occurrence": 3,
+            "value": "Löffler, Gustav (1758-1823)"
+        },
+        {
+            "facet_id": 408449,
+            "occurrence": 3,
+            "value": "Roesler, Gottlieb Friedrich (1740-1790)"
+        },
+        {
+            "facet_id": 575219,
+            "occurrence": 3,
+            "value": "Hopf, Philipp Heinrich (1747-1804)"
+        },
+        {
+            "facet_id": 4843,
+            "occurrence": 2,
+            "value": "Niedersächsische Staats- und Universitätsbibliothek Göttingen"
+        },
+        {
+            "facet_id": 9957,
+            "occurrence": 2,
+            "value": "Autenrieth, Johann Heinrich Ferdinand von (1772-1835)"
+        },
+        {
+            "facet_id": 18854,
+            "occurrence": 2,
+            "value": "Rush, Benjamin (1746-1813)"
+        },
+        {
+            "facet_id": 20906,
+            "occurrence": 2,
+            "value": "Mohl, Benjamin Ferdinand (1766-1845)"
+        },
+        {
+            "facet_id": 38985,
+            "occurrence": 2,
+            "value": "Galvani, Marcaurelio"
+        },
+        {
+            "facet_id": 40808,
+            "occurrence": 2,
+            "value": "Kant, Immanuel (1724-1804)"
+        },
+        {
+            "facet_id": 43652,
+            "occurrence": 2,
+            "value": "Steuart, James"
+        },
+        {
+            "facet_id": 44379,
+            "occurrence": 2,
+            "value": "Jeitter, Johann Melchior (1757-1842)"
+        },
+        {
+            "facet_id": 49232,
+            "occurrence": 2,
+            "value": "Consbruch, Johann Friedrich"
+        },
+        {
+            "facet_id": 57100,
+            "occurrence": 2,
+            "value": "Pinel, Philippe (1745-1826)"
+        },
+        {
+            "facet_id": 76920,
+            "occurrence": 2,
+            "value": "Nast, Johann Jakob Heinrich"
+        },
+        {
+            "facet_id": 83911,
+            "occurrence": 2,
+            "value": "Huber, Ludwig Ferdinand (1764-1804)"
+        },
+        {
+            "facet_id": 106094,
+            "occurrence": 2,
+            "value": "Hopfengärtner, Philipp Friedrich (1771-1807)"
+        },
+        {
+            "facet_id": 134504,
+            "occurrence": 2,
+            "value": "Pictet, Marc-Auguste (1752-1825)"
+        },
+        {
+            "facet_id": 142267,
+            "occurrence": 2,
+            "value": "Ecker, Johann Matthias Alexander (1766-1829)"
+        },
+        {
+            "facet_id": 202648,
+            "occurrence": 2,
+            "value": "L'Huilier, Simon Antoine Jean (1750-1840)"
+        },
+        {
+            "facet_id": 222725,
+            "occurrence": 2,
+            "value": "Schott, Andreas Heinrich (1758-1831)"
+        },
+        {
+            "facet_id": 228290,
+            "occurrence": 2,
+            "value": "Bernhard, Johann E."
+        },
+        {
+            "facet_id": 302781,
+            "occurrence": 2,
+            "value": "Tafinger, Wilhelm Gottlieb (1760-1813)"
+        },
+        {
+            "facet_id": 363676,
+            "occurrence": 2,
+            "value": "Gmelin, Christian Gottlieb (1749-1818)"
+        },
+        {
+            "facet_id": 367356,
+            "occurrence": 2,
+            "value": "Gosse, Joseph"
+        },
+        {
+            "facet_id": 447615,
+            "occurrence": 2,
+            "value": "Rappolt, Wilhelm Gottlieb"
+        },
+        {
+            "facet_id": 454964,
+            "occurrence": 2,
+            "value": "Gmelin, Eberhard (1751-1809)"
+        },
+        {
+            "facet_id": 568212,
+            "occurrence": 2,
+            "value": "Schoder, Friedrich Jacob (1752-1785)"
+        },
+        {
+            "facet_id": 602880,
+            "occurrence": 2,
+            "value": "Marschall von Biberstein, Karl Wilhelm von (1763-1817)"
+        },
+        {
+            "facet_id": 1174,
+            "occurrence": 1,
+            "value": "Schore, Antonius van (1525-1552)"
+        },
+        {
+            "facet_id": 2494,
+            "occurrence": 1,
+            "value": "Hertzberg, Ewald Friedrich von (1725-1795)"
+        },
+        {
+            "facet_id": 2609,
+            "occurrence": 1,
+            "value": "Abel, Jakob Friedrich (1751-1829)"
+        },
+        {
+            "facet_id": 3025,
+            "occurrence": 1,
+            "value": "Württemberg, Friedrich I.; König, 1754-1816"
+        },
+        {
+            "facet_id": 3955,
+            "occurrence": 1,
+            "value": "Crusius, Martin"
+        },
+        {
+            "facet_id": 5762,
+            "occurrence": 1,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 8579,
+            "occurrence": 1,
+            "value": "Archimedes (v287-v212)"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 1,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 10042,
+            "occurrence": 1,
+            "value": "Hegelmaier, Tobias Gottfried (1730-1786)"
+        },
+        {
+            "facet_id": 12955,
+            "occurrence": 1,
+            "value": "Widenmann, Eduard"
+        },
+        {
+            "facet_id": 13789,
+            "occurrence": 1,
+            "value": "Schnurrer, Christian Friedrich von (1742-1822)"
+        },
+        {
+            "facet_id": 18278,
+            "occurrence": 1,
+            "value": "Bengel, Johann Albrecht (1687-1752)"
+        },
+        {
+            "facet_id": 18712,
+            "occurrence": 1,
+            "value": "Schlözer, August Ludwig von (1735-1809)"
+        },
+        {
+            "facet_id": 20345,
+            "occurrence": 1,
+            "value": "Vergilius Maro, Publius"
+        },
+        {
+            "facet_id": 20361,
+            "occurrence": 1,
+            "value": "Paulus, Heinrich Eberhard Gottlob (1761-1851)"
+        },
+        {
+            "facet_id": 21919,
+            "occurrence": 1,
+            "value": "Hufeland, Christoph Wilhelm von (1762-1836)"
+        },
+        {
+            "facet_id": 31607,
+            "occurrence": 1,
+            "value": "Matthisson, Friedrich von (1761-1831)"
+        },
+        {
+            "facet_id": 33216,
+            "occurrence": 1,
+            "value": "Kapff, Sixt Jacob von (1735-1821)"
+        },
+        {
+            "facet_id": 33391,
+            "occurrence": 1,
+            "value": "Württemberg"
+        },
+        {
+            "facet_id": 36465,
+            "occurrence": 1,
+            "value": "Schelling, Friedrich Wilhelm Joseph von (1775-1854)"
+        },
+        {
+            "facet_id": 37671,
+            "occurrence": 1,
+            "value": "Reuß, Johann August"
+        },
+        {
+            "facet_id": 38202,
+            "occurrence": 1,
+            "value": "Bodmer, Johann Jacob (1698-1783)"
+        },
+        {
+            "facet_id": 40967,
+            "occurrence": 1,
+            "value": "Württemberg, Charlotte Auguste Mathilde Herzogin von, geb. Prinzessin von Großbritannien, 1766-1828"
+        },
+        {
+            "facet_id": 42920,
+            "occurrence": 1,
+            "value": "Pomponazzi, Pietro (1462-1525)"
+        },
+        {
+            "facet_id": 43265,
+            "occurrence": 1,
+            "value": "Hüttner, Johann Christian (1766-1847)"
+        },
+        {
+            "facet_id": 44581,
+            "occurrence": 1,
+            "value": "Köln, Clemens August I. von Bayern; Erzbischof, Kurfürst, 1700-1761"
+        },
+        {
+            "facet_id": 46881,
+            "occurrence": 1,
+            "value": "Scherer, Alexander Nicolaus (1771-1824)"
+        },
+        {
+            "facet_id": 49235,
+            "occurrence": 1,
+            "value": "Heyd, Johann Georg Friedrich"
+        },
+        {
+            "facet_id": 51606,
+            "occurrence": 1,
+            "value": "Schwab, Johann Christoph"
+        },
+        {
+            "facet_id": 53439,
+            "occurrence": 1,
+            "value": "Imhof"
+        },
+        {
+            "facet_id": 61161,
+            "occurrence": 1,
+            "value": "Condorcet, Jean Antoine Nicolas de Caritat de (1743-1794)"
+        },
+        {
+            "facet_id": 64825,
+            "occurrence": 1,
+            "value": "White, Joseph (1745-1814)"
+        },
+        {
+            "facet_id": 67580,
+            "occurrence": 1,
+            "value": "Gabler"
+        },
+        {
+            "facet_id": 69494,
+            "occurrence": 1,
+            "value": "Scheffer, Johann Theodor von; Jurist, Staatsmann, 1687-1745"
+        },
+        {
+            "facet_id": 74042,
+            "occurrence": 1,
+            "value": "Sartorius, Christoph Friedrich (1701-1785)"
+        },
+        {
+            "facet_id": 82956,
+            "occurrence": 1,
+            "value": "Tübingen"
+        },
+        {
+            "facet_id": 82957,
+            "occurrence": 1,
+            "value": "Archimedes; Hauber, Karl Friedrich [Hrsg.]"
+        },
+        {
+            "facet_id": 98020,
+            "occurrence": 1,
+            "value": "Weisser, Johann Friedrich Christoph"
+        },
+        {
+            "facet_id": 103597,
+            "occurrence": 1,
+            "value": "Hartig, Georg Ludwig"
+        },
+        {
+            "facet_id": 103598,
+            "occurrence": 1,
+            "value": "Hartig, Theodor"
+        },
+        {
+            "facet_id": 103599,
+            "occurrence": 1,
+            "value": "Hartig, Robert"
+        },
+        {
+            "facet_id": 109911,
+            "occurrence": 1,
+            "value": "Schäffer, Georg Jakob (1745-)"
+        },
+        {
+            "facet_id": 109912,
+            "occurrence": 1,
+            "value": "Sulz, Neckar / Oberamt"
+        },
+        {
+            "facet_id": 111440,
+            "occurrence": 1,
+            "value": "Stäudlin, Gotthold Friedrich (1758-1796)"
+        },
+        {
+            "facet_id": 115968,
+            "occurrence": 1,
+            "value": "Flatt, Johann Friedrich (1759-1821)"
+        },
+        {
+            "facet_id": 118007,
+            "occurrence": 1,
+            "value": "Bardili, Christoph Gottfried (1761-1808)"
+        },
+        {
+            "facet_id": 119485,
+            "occurrence": 1,
+            "value": "Hoffmann, Gottfried Daniel; Jurist, 1719-1780"
+        },
+        {
+            "facet_id": 120442,
+            "occurrence": 1,
+            "value": "Bengel, Ernst (1735-1793)"
+        },
+        {
+            "facet_id": 122937,
+            "occurrence": 1,
+            "value": "Helfferich, Johann Friedrich; Jurist, 1719-1769"
+        },
+        {
+            "facet_id": 122990,
+            "occurrence": 1,
+            "value": "Penn, William (1644-1718)"
+        },
+        {
+            "facet_id": 124951,
+            "occurrence": 1,
+            "value": "Lentner,"
+        },
+        {
+            "facet_id": 133356,
+            "occurrence": 1,
+            "value": "Drück, Friedrich Ferdinand"
+        },
+        {
+            "facet_id": 156097,
+            "occurrence": 1,
+            "value": "(Cotta)"
+        },
+        {
+            "facet_id": 156098,
+            "occurrence": 1,
+            "value": "Sacchini, Antonio (1730-1786)"
+        }
+    ]
+}

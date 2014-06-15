@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_facet_id": 10210,
+    "affiliate_facet": "Forstamt Tauberbischofsheim",
+    "occurrence": 197,
+    "affiliates": [
+        {
+            "facet_id": 10210,
+            "occurrence": 206,
+            "value": "Landgericht Konstanz"
+        },
+        {
+            "facet_id": 335141,
+            "occurrence": 5,
+            "value": "Armbruster, Wilhelm, Biberach"
+        },
+        {
+            "facet_id": 277909,
+            "occurrence": 2,
+            "value": "Zimmermann, Albert, Redakteur, Meßkirch"
+        },
+        {
+            "facet_id": 419436,
+            "occurrence": 2,
+            "value": "Brändlin, Luise, Büglerin, Freiburg"
+        },
+        {
+            "facet_id": 526180,
+            "occurrence": 2,
+            "value": "Hofmeister, Friedrich Christoph, Kaufmann, Göggingen"
+        },
+        {
+            "facet_id": 972347,
+            "occurrence": 2,
+            "value": "Merikofer, Anna, Arlen"
+        },
+        {
+            "facet_id": 34855,
+            "occurrence": 1,
+            "value": "Heberle, Wilhelm, Kanzleiassistent, Überlingen"
+        },
+        {
+            "facet_id": 54650,
+            "occurrence": 1,
+            "value": "Schwenk, Oskar Josef, Privatdetektiv, Konstanz"
+        },
+        {
+            "facet_id": 70419,
+            "occurrence": 1,
+            "value": "Hirth, Anna, Villingen"
+        },
+        {
+            "facet_id": 70420,
+            "occurrence": 1,
+            "value": "Pilsack, Viktor, Villingen"
+        },
+        {
+            "facet_id": 74236,
+            "occurrence": 1,
+            "value": "Brückel, Joseph, Hausbursche, Baden-Baden"
+        },
+        {
+            "facet_id": 79229,
+            "occurrence": 1,
+            "value": "Männle, Johann, Hilfsmonteur, München"
+        },
+        {
+            "facet_id": 118594,
+            "occurrence": 1,
+            "value": "Döbele, Simon, Hufschmied, Murg"
+        },
+        {
+            "facet_id": 125625,
+            "occurrence": 1,
+            "value": "Lang, Bernhard, Bäckermeister, Konstanz"
+        },
+        {
+            "facet_id": 125626,
+            "occurrence": 1,
+            "value": "Lang, Pauline, Esenhausen"
+        },
+        {
+            "facet_id": 125627,
+            "occurrence": 1,
+            "value": "Staimer, Josef, Bäckergeselle, Kay"
+        },
+        {
+            "facet_id": 126450,
+            "occurrence": 1,
+            "value": "Lützelberger, Barbara, Brunn"
+        },
+        {
+            "facet_id": 145929,
+            "occurrence": 1,
+            "value": "Seiferling, Josef, Monteur, Konstanz"
+        },
+        {
+            "facet_id": 147319,
+            "occurrence": 1,
+            "value": "Leopold, Großherzog von Baden"
+        },
+        {
+            "facet_id": 147320,
+            "occurrence": 1,
+            "value": "Ullmann, Dr. C., Dekan, theolog. Fakultät Universität Heidelberg"
+        },
+        {
+            "facet_id": 161541,
+            "occurrence": 1,
+            "value": "Ratzer, Bartholomäus, Reiselfingen"
+        },
+        {
+            "facet_id": 181365,
+            "occurrence": 1,
+            "value": "Eipper, Anna, Zell im Wiesental"
+        },
+        {
+            "facet_id": 183383,
+            "occurrence": 1,
+            "value": "Merkt, Ludwig, Landsturmmann, Kollnau"
+        },
+        {
+            "facet_id": 187559,
+            "occurrence": 1,
+            "value": "Brenner, Fridolin, Schuhmacherlehrling, Rippolingen"
+        },
+        {
+            "facet_id": 187560,
+            "occurrence": 1,
+            "value": "Brenner, Gottfried, Seidenbandweber, Rippolingen"
+        },
+        {
+            "facet_id": 189414,
+            "occurrence": 1,
+            "value": "Geyer, Franz, Schuhmacher, Dausenberg"
+        },
+        {
+            "facet_id": 203925,
+            "occurrence": 1,
+            "value": "Isele, Josef, Bad Dürrheim"
+        },
+        {
+            "facet_id": 203926,
+            "occurrence": 1,
+            "value": "Leute, Albert, Tübingen"
+        },
+        {
+            "facet_id": 211304,
+            "occurrence": 1,
+            "value": "Avogadro, Francesco, Hilfsarbeiter, Mühlhausen"
+        },
+        {
+            "facet_id": 217098,
+            "occurrence": 1,
+            "value": "Ritzi, Klemens, Dienstmann, Konstanz"
+        },
+        {
+            "facet_id": 217099,
+            "occurrence": 1,
+            "value": "Ritzi, Rosa, Konstanz"
+        },
+        {
+            "facet_id": 236347,
+            "occurrence": 1,
+            "value": "Weiss, Josef, Dienstknecht, Baden-Oos"
+        },
+        {
+            "facet_id": 236607,
+            "occurrence": 1,
+            "value": "Berthold, Otto, Schreiner, Ruhland"
+        },
+        {
+            "facet_id": 240476,
+            "occurrence": 1,
+            "value": "Baumgartner, Anton, Metzger, Harpolingen"
+        },
+        {
+            "facet_id": 240477,
+            "occurrence": 1,
+            "value": "Baumgartner, Otto, Fabrikarbeiter, Murg"
+        },
+        {
+            "facet_id": 240478,
+            "occurrence": 1,
+            "value": "Bäumle, Hilda, Murg"
+        },
+        {
+            "facet_id": 240479,
+            "occurrence": 1,
+            "value": "Bäumle, Oskar, Fabrikarbeiter, Murg"
+        },
+        {
+            "facet_id": 254342,
+            "occurrence": 1,
+            "value": "Rösch, August, Kirchen-Hausen"
+        },
+        {
+            "facet_id": 254343,
+            "occurrence": 1,
+            "value": "Vogler, Josef, Allmannsdorf"
+        },
+        {
+            "facet_id": 260177,
+            "occurrence": 1,
+            "value": "Stark, Alfred, Polizeidiener, Weisweil"
+        },
+        {
+            "facet_id": 260289,
+            "occurrence": 1,
+            "value": "Hof, Anton, Maurer, Zizenhausen"
+        },
+        {
+            "facet_id": 264577,
+            "occurrence": 1,
+            "value": "Ebner, Karl, Hausierer, Unterlauchringen"
+        },
+        {
+            "facet_id": 271442,
+            "occurrence": 1,
+            "value": "Sieber, Viktor, Bürgermeister, Stetten am kalten Markt"
+        },
+        {
+            "facet_id": 282394,
+            "occurrence": 1,
+            "value": "Diez, Gustav, Maurer, Neuffen"
+        },
+        {
+            "facet_id": 284923,
+            "occurrence": 1,
+            "value": "Jetschmanegg, Josef, Arbeiter, Konstanz"
+        },
+        {
+            "facet_id": 284924,
+            "occurrence": 1,
+            "value": "Scheuring, Karl, Fabrikarbeiter, Radolfzell"
+        },
+        {
+            "facet_id": 284925,
+            "occurrence": 1,
+            "value": "Wunder, Johann, Fabrikarbeiter, Nürnberg"
+        },
+        {
+            "facet_id": 287000,
+            "occurrence": 1,
+            "value": "Freudigmann, Anton, Ochsenbach"
+        },
+        {
+            "facet_id": 299898,
+            "occurrence": 1,
+            "value": "Schiele, Karl Hermann, Neuhaus"
+        },
+        {
+            "facet_id": 306634,
+            "occurrence": 1,
+            "value": "Haag, Rupert, Viehhändler, Markdorf"
+        },
+        {
+            "facet_id": 306635,
+            "occurrence": 1,
+            "value": "Schneckenbühl, Leopold, Bauunternehmer, Markdorf"
+        },
+        {
+            "facet_id": 307368,
+            "occurrence": 1,
+            "value": "Schmidt, Georg, Expeditor, Konstanz"
+        },
+        {
+            "facet_id": 308033,
+            "occurrence": 1,
+            "value": "Heckendorn, Dagobert, Taglöhner, Schopfheim"
+        },
+        {
+            "facet_id": 351154,
+            "occurrence": 1,
+            "value": "Ruh, Norbert, Dentist, Villingen"
+        },
+        {
+            "facet_id": 351155,
+            "occurrence": 1,
+            "value": "Überschlag, Henriette, Dentistin, Villingen"
+        },
+        {
+            "facet_id": 354522,
+            "occurrence": 1,
+            "value": "Bauer, Friedrich, Kaufmann, Gelnhausen"
+        },
+        {
+            "facet_id": 377641,
+            "occurrence": 1,
+            "value": "Bickel, Hermann, Pfarrer, Schienen"
+        },
+        {
+            "facet_id": 394466,
+            "occurrence": 1,
+            "value": "Jetschmanegg, Paula, Schülerin, Konstanz"
+        },
+        {
+            "facet_id": 412812,
+            "occurrence": 1,
+            "value": "Müller, Berta, Dienstmagd, Wellendingen"
+        },
+        {
+            "facet_id": 415065,
+            "occurrence": 1,
+            "value": "Güttinger, Emil, Schuhmacher, Duchtlingen"
+        },
+        {
+            "facet_id": 420927,
+            "occurrence": 1,
+            "value": "Kaufmann, Eugen, Fabrikarbeiter, Hilzingen"
+        },
+        {
+            "facet_id": 427173,
+            "occurrence": 1,
+            "value": "Braun, Jakob, Zimmermann, Allmannsdorf"
+        },
+        {
+            "facet_id": 438772,
+            "occurrence": 1,
+            "value": "Hoffmann, Rudolf, Uhrmacher, Fischbach"
+        },
+        {
+            "facet_id": 446029,
+            "occurrence": 1,
+            "value": "Kuss, Theophil, Hoteldiener, Konstanz"
+        },
+        {
+            "facet_id": 459588,
+            "occurrence": 1,
+            "value": "Hanrath, Johann, Eisendreher, Singen"
+        },
+        {
+            "facet_id": 460856,
+            "occurrence": 1,
+            "value": "Neidhart, Konrad, Bietingen"
+        },
+        {
+            "facet_id": 468786,
+            "occurrence": 1,
+            "value": "Rein, Karl, Maurer, Gönnern"
+        },
+        {
+            "facet_id": 485021,
+            "occurrence": 1,
+            "value": "Keller, Adolf, Obermatrose, Bad Wyl"
+        },
+        {
+            "facet_id": 487347,
+            "occurrence": 1,
+            "value": "Leist, Wilhelm, Notar a.D., Stockach"
+        },
+        {
+            "facet_id": 491939,
+            "occurrence": 1,
+            "value": "Stromeyer, Ludwig, Firma, Konstanz"
+        },
+        {
+            "facet_id": 491940,
+            "occurrence": 1,
+            "value": "Thanhauser, H., Firma, Konstanz"
+        },
+        {
+            "facet_id": 494927,
+            "occurrence": 1,
+            "value": "Ramsperger, Karl, Konstanz"
+        },
+        {
+            "facet_id": 498007,
+            "occurrence": 1,
+            "value": "Holzendorff, K."
+        },
+        {
+            "facet_id": 498008,
+            "occurrence": 1,
+            "value": "Raabe, Hermann"
+        },
+        {
+            "facet_id": 498581,
+            "occurrence": 1,
+            "value": "Arigoni, Luigi, Erdarbeiter, Wollmatingen"
+        },
+        {
+            "facet_id": 524596,
+            "occurrence": 1,
+            "value": "Creutz, Frieda, Freiburg"
+        },
+        {
+            "facet_id": 524597,
+            "occurrence": 1,
+            "value": "Creutz, Ludwig, Fabrikarbeiter, Rheinfelden"
+        },
+        {
+            "facet_id": 524598,
+            "occurrence": 1,
+            "value": "Senger, Emilia, Lörrach"
+        },
+        {
+            "facet_id": 524599,
+            "occurrence": 1,
+            "value": "Weber, Erhard, Fabrikarbeiter, Zell im Wiesental"
+        },
+        {
+            "facet_id": 524600,
+            "occurrence": 1,
+            "value": "Weber, Otto, Fabrikarbeiter, Zell im Wiesental"
+        },
+        {
+            "facet_id": 529596,
+            "occurrence": 1,
+            "value": "Fassbender, Karl Georg, Kaufmann, Düsseldorf"
+        },
+        {
+            "facet_id": 554156,
+            "occurrence": 1,
+            "value": "Metzger, Ernst, Taglöhner, Schopfheim"
+        },
+        {
+            "facet_id": 554157,
+            "occurrence": 1,
+            "value": "Schuler, Wilhelm, Taglöhner, Schopfheim"
+        },
+        {
+            "facet_id": 561990,
+            "occurrence": 1,
+            "value": "Haas, Eugen, Landwirt, Schramberg"
+        },
+        {
+            "facet_id": 563557,
+            "occurrence": 1,
+            "value": "Brodmann, Anton, Holzhauer, Beuren"
+        },
+        {
+            "facet_id": 563558,
+            "occurrence": 1,
+            "value": "Paul, Dr. Heinrich, Arzt, Heiligenberg"
+        },
+        {
+            "facet_id": 564302,
+            "occurrence": 1,
+            "value": "Oschmann, Richard, Kaufmann, Konstanz"
+        },
+        {
+            "facet_id": 566793,
+            "occurrence": 1,
+            "value": "Müller, Hermann, Schindelmacher, Zizenhausen"
+        },
+        {
+            "facet_id": 579896,
+            "occurrence": 1,
+            "value": "Meisel, Dr. Paul, Chefarzt, Konstanz"
+        },
+        {
+            "facet_id": 579897,
+            "occurrence": 1,
+            "value": "Stadelhofer, Josef, Kaufmann, Wollmatingen"
+        },
+        {
+            "facet_id": 581743,
+            "occurrence": 1,
+            "value": "Maier, Valentin, Büchsenmacher, Allmendshofen"
+        },
+        {
+            "facet_id": 589536,
+            "occurrence": 1,
+            "value": "Pfeiffer, August, Oberachern"
+        },
+        {
+            "facet_id": 602126,
+            "occurrence": 1,
+            "value": "Hilbold, Ernst, Fabrikarbeiter, Schopfheim"
+        },
+        {
+            "facet_id": 605438,
+            "occurrence": 1,
+            "value": "Beha, Johann, Taglöhner, Rudenberg"
+        },
+        {
+            "facet_id": 629938,
+            "occurrence": 1,
+            "value": "Winterhalter, Hermann, Dreher, St. Georgen"
+        },
+        {
+            "facet_id": 638091,
+            "occurrence": 1,
+            "value": "Serazio, Johann, Dienstknecht, Bad Säckingen"
+        },
+        {
+            "facet_id": 638536,
+            "occurrence": 1,
+            "value": "Messmer, Adolf, Menzenschwand"
+        },
+        {
+            "facet_id": 639856,
+            "occurrence": 1,
+            "value": "Probst, Stephan, Wallbach"
+        },
+        {
+            "facet_id": 639857,
+            "occurrence": 1,
+            "value": "Wunderle, Edwin, Wallbach"
+        },
+        {
+            "facet_id": 654347,
+            "occurrence": 1,
+            "value": "Kempf, Adolf, Soldat, Basel"
+        }
+    ]
+}

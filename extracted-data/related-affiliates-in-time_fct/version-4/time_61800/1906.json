@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 1906,
+    "affiliate_fct": "Amt Habitzheim",
+    "affiliate_fct_occurrence": 879,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1906,
+            "affiliate_fct": "Amt Habitzheim",
+            "affiliate_fct_occurrence": 879
+        },
+        {
+            "affiliate_fct_id": 8302,
+            "affiliate_fct": "Haxthausen, Freiherren von",
+            "affiliate_fct_occurrence": 38
+        },
+        {
+            "affiliate_fct_id": 12947,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Carl Thomas",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 29241,
+            "affiliate_fct": "Hessen-Darmstadt, Landgrafen",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 61582,
+            "affiliate_fct": "Dietrich, Centschultheiß zu Groß-Zimmern",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 3239,
+            "affiliate_fct": "Kurpfalz",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 392876,
+            "affiliate_fct": "Camesasca, Franz Xaver, Amtmann",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 165587,
+            "affiliate_fct": "Haas, Johann Wilhelm, Müller",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 53995,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 215000,
+            "affiliate_fct": "Illert, Johann Georg, Spachbrücken",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 233700,
+            "affiliate_fct": "Haas, Valentin, Müller",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 375602,
+            "affiliate_fct": "Heidt, Johann Melchior, Amtsverweser zu Habitzheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 506853,
+            "affiliate_fct": "Dickhaut, Paul, Amtsverweser zu Habitzheim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 228811,
+            "affiliate_fct": "Jacob, Johann Georg, Habitzheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 238313,
+            "affiliate_fct": "Crahmer, Lorenz, Müller zu Habitzheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 344585,
+            "affiliate_fct": "Zöller, Pfarrer zu Spachbrücken",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 434090,
+            "affiliate_fct": "May, Regierungsrat zu Darmstadt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 476020,
+            "affiliate_fct": "Held, Peter, Groß-Zimmern",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 542303,
+            "affiliate_fct": "Rapp, Johannes, Habitzheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 714869,
+            "affiliate_fct": "Haxthausen, Freiherren von; Albertina Charlotta",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 14082,
+            "affiliate_fct": "Löwenstein-Wertheim, Grafen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 26537,
+            "affiliate_fct": "Held, Schultheiß zu Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63766,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Dominik Marquard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70549,
+            "affiliate_fct": "Joseph II., Kaiser",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 89948,
+            "affiliate_fct": "Dickhaut, Amtmann zu Umstadt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 232721,
+            "affiliate_fct": "Krafft, Johann Peter, Müller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 346614,
+            "affiliate_fct": "Gans, Johann Adam, Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 346615,
+            "affiliate_fct": "Hirsch Loeser, Lengfeld",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 359494,
+            "affiliate_fct": "Spieß, Jörg Adam, Schultheiß zu Habitzheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 385366,
+            "affiliate_fct": "Hornung, Schultheiß zu Spachbrücken",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 445463,
+            "affiliate_fct": "Dickhaut, Franz Josef, Amtsverweser zu Umstadt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 457359,
+            "affiliate_fct": "Herbert, Georg, Schultheiß zu Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 478941,
+            "affiliate_fct": "Büchler, Heinrich, Umstadt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 488689,
+            "affiliate_fct": "Wambold von Umstadt, Freiherren",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 506854,
+            "affiliate_fct": "Reinhardt, Wendel, Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 516423,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Leopoldine",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 538299,
+            "affiliate_fct": "Frölich, Johannes, Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 573115,
+            "affiliate_fct": "Poth, Johannes, Müller in Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 581540,
+            "affiliate_fct": "Wambold, von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 646974,
+            "affiliate_fct": "Haas, Müller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 664649,
+            "affiliate_fct": "Haxthausen zu Georgenhausen, Freiherren zu",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 786349,
+            "affiliate_fct": "Kaysersfeld, Baron von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 805747,
+            "affiliate_fct": "Gans, Heinrich, Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 831114,
+            "affiliate_fct": "Seyfried, Johann Adam, lutherischer Schulmeister in Groß-Zimmern",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1085703,
+            "affiliate_fct": "Treffz, Rentmeister zu Habitzheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1112264,
+            "affiliate_fct": "Olnhausen, Amtsschreiber",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 656,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Maximilian Carl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6492,
+            "affiliate_fct": "Geismar, Friedrich Wilhelm von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6493,
+            "affiliate_fct": "Woyt, Anna Magdalena von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15522,
+            "affiliate_fct": "Hessen-Darmstadt, Landgraf zu",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15523,
+            "affiliate_fct": "Löwenstein-Wertheim-Rosenberg, Fürsten zu; Constantin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15524,
+            "affiliate_fct": "Sickingen, Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25681,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Joseph Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33276,
+            "affiliate_fct": "Pfalzgrafen bei Rhein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36257,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Dominik Constantin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46527,
+            "affiliate_fct": "Groschlag, Freiherren",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56454,
+            "affiliate_fct": "Maquinet, Handelsmann, Hanau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 65724,
+            "affiliate_fct": "Haller, Johann Georg, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78809,
+            "affiliate_fct": "Ruprecht, König",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80803,
+            "affiliate_fct": "Meyer, Heinrich, Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80804,
+            "affiliate_fct": "Meyer, Johann Peter, Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84767,
+            "affiliate_fct": "Franz II., Kaiser",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85943,
+            "affiliate_fct": "Held, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88014,
+            "affiliate_fct": "Janson, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88015,
+            "affiliate_fct": "Spieß, Jörg Adam",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89187,
+            "affiliate_fct": "Dörr, Valentin, Schöffe zu Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89188,
+            "affiliate_fct": "Klein, Jakob, Schöffe zu Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89189,
+            "affiliate_fct": "Schröhn, Nikolaus, Schultheiß zu Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89575,
+            "affiliate_fct": "Hennemann, kurpfälzischer Regierungsrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 92160,
+            "affiliate_fct": "Hinckeldey, Hieronymus Heinrich von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96520,
+            "affiliate_fct": "Liebmann, Jude zu Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 98947,
+            "affiliate_fct": "Wetterhahn, Hans Jörg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 102718,
+            "affiliate_fct": "Hechler, Johann, Georgenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 104997,
+            "affiliate_fct": "Bach, Adam Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112477,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Leopold",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 114215,
+            "affiliate_fct": "Poth, Johannes, Kirchenbaumeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 122331,
+            "affiliate_fct": "Löwenstein-Wertheim-Rochefort, Fürsten; Dorothea Theresia geb. Hausen-Gleichenstorff",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 122373,
+            "affiliate_fct": "Brix, Michael, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 122374,
+            "affiliate_fct": "Fries, Balthasar, Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123215,
+            "affiliate_fct": "Held, Johann Georg, Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 123216,
+            "affiliate_fct": "Rückert, Johannes, Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135056,
+            "affiliate_fct": "Zöller, Johann Adolph, lutherischer Pfarrer in Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135057,
+            "affiliate_fct": "Zöller, Johann Jacob, Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135074,
+            "affiliate_fct": "Hornung, Franz, Gerichtsschöffe zu Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135075,
+            "affiliate_fct": "Ramge, Wendel, Gerichtsschöffe zu Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153360,
+            "affiliate_fct": "Jorcki, Georg, Obermüller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156654,
+            "affiliate_fct": "Hornung, Johann Georg, Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156655,
+            "affiliate_fct": "Justus, Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156656,
+            "affiliate_fct": "Petri, Georg Philipp, Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160943,
+            "affiliate_fct": "Mayer, Johann Dieter, Centschultheiß zu Spachbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 161442,
+            "affiliate_fct": "Kurpfalz, Kurfürsten; Karl Theodor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 161558,
+            "affiliate_fct": "Breidenbach, Justus, Zinsschultheiß zu Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 165741,
+            "affiliate_fct": "Storch, Jakob, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169471,
+            "affiliate_fct": "Haas, Heinrich, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169472,
+            "affiliate_fct": "Lang, Catharina, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181986,
+            "affiliate_fct": "Hessen-Kassel, Landgrafen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189401,
+            "affiliate_fct": "Haas, Peter, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189408,
+            "affiliate_fct": "Rapp, Wilhelm, Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 201920,
+            "affiliate_fct": "Freitag, Johann Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 201921,
+            "affiliate_fct": "Herbert, Georg Wolff, Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

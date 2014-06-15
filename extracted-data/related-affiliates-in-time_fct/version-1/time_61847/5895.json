@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 26,
+    "time_fct": "time_61847",
+    "affiliate_facet_id": 5895,
+    "affiliate_facet": "Rentkammer",
+    "occurrence": 336,
+    "affiliates": [
+        {
+            "facet_id": 5895,
+            "occurrence": 343,
+            "value": "Herrschaft Trochtelfingen"
+        },
+        {
+            "facet_id": 347932,
+            "occurrence": 4,
+            "value": "Württemberg, Herzöge von; Karl"
+        },
+        {
+            "facet_id": 57057,
+            "occurrence": 3,
+            "value": "Fattlin, Melchior, Stipendiatsstifter"
+        },
+        {
+            "facet_id": 583540,
+            "occurrence": 3,
+            "value": "Bender, von"
+        },
+        {
+            "facet_id": 124572,
+            "occurrence": 2,
+            "value": "Franz I.; Kaiser, 1708-1765"
+        },
+        {
+            "facet_id": 312014,
+            "occurrence": 2,
+            "value": "Leederer, Narciss, Krumbach"
+        },
+        {
+            "facet_id": 1029528,
+            "occurrence": 2,
+            "value": "Rodt, Franz Konrad von, Fürstbischof des Hochstifts Konstanz (1750-1775)"
+        },
+        {
+            "facet_id": 6820,
+            "occurrence": 1,
+            "value": "Speth, von"
+        },
+        {
+            "facet_id": 41438,
+            "occurrence": 1,
+            "value": "Fürstenberg, Fürsten von, Karl Joachim"
+        },
+        {
+            "facet_id": 45138,
+            "occurrence": 1,
+            "value": "Maria Theresia; [Kaiserin] Erzherzogin, 1717-1780"
+        },
+        {
+            "facet_id": 49697,
+            "occurrence": 1,
+            "value": "Reitz, Joseph, Wachtmeister"
+        },
+        {
+            "facet_id": 56315,
+            "occurrence": 1,
+            "value": "Uhl"
+        },
+        {
+            "facet_id": 59549,
+            "occurrence": 1,
+            "value": "Eisele, Lorenz, Hafnergeselle, Trochtelfingen"
+        },
+        {
+            "facet_id": 59550,
+            "occurrence": 1,
+            "value": "Eysele, Mathäus, Schreinergeselle, Melchingen"
+        },
+        {
+            "facet_id": 59551,
+            "occurrence": 1,
+            "value": "Reyn, Johann Georg, Schlossergeselle"
+        },
+        {
+            "facet_id": 59552,
+            "occurrence": 1,
+            "value": "Schosser, Pius, Schreinergeselle, Melchingen"
+        },
+        {
+            "facet_id": 69085,
+            "occurrence": 1,
+            "value": "Henkel, Edmund, Ringingen"
+        },
+        {
+            "facet_id": 69086,
+            "occurrence": 1,
+            "value": "Nadler, Nikolaus"
+        },
+        {
+            "facet_id": 77878,
+            "occurrence": 1,
+            "value": "Württemberg, Herzöge von"
+        },
+        {
+            "facet_id": 89660,
+            "occurrence": 1,
+            "value": "Lenz, Carl von, Leutnant"
+        },
+        {
+            "facet_id": 113781,
+            "occurrence": 1,
+            "value": "Mack, Jakob"
+        },
+        {
+            "facet_id": 114234,
+            "occurrence": 1,
+            "value": "Clemens XIII., Papst"
+        },
+        {
+            "facet_id": 119802,
+            "occurrence": 1,
+            "value": "Barth, Joseph, Schneider, Trochtelfingen"
+        },
+        {
+            "facet_id": 119803,
+            "occurrence": 1,
+            "value": "Freudenmann, Caspar, Trochtelfingen"
+        },
+        {
+            "facet_id": 119804,
+            "occurrence": 1,
+            "value": "Heinzelmann, Katharina, Steinhilben"
+        },
+        {
+            "facet_id": 127010,
+            "occurrence": 1,
+            "value": "Hack, Johannes, Taglöhner, Trochtelfingen"
+        },
+        {
+            "facet_id": 127011,
+            "occurrence": 1,
+            "value": "Wahlberg, Brix von, Medicus"
+        },
+        {
+            "facet_id": 132053,
+            "occurrence": 1,
+            "value": "Bausch, Michael, Steinhilben"
+        },
+        {
+            "facet_id": 132054,
+            "occurrence": 1,
+            "value": "Bausch, Ursula, Steinhilben"
+        },
+        {
+            "facet_id": 180250,
+            "occurrence": 1,
+            "value": "Beck, Kaspar"
+        },
+        {
+            "facet_id": 181164,
+            "occurrence": 1,
+            "value": "Tröster, Jakob"
+        },
+        {
+            "facet_id": 194910,
+            "occurrence": 1,
+            "value": "Bayer, Matheis, Steinhilben"
+        },
+        {
+            "facet_id": 194911,
+            "occurrence": 1,
+            "value": "Locher, Sebastian, Großengstingen"
+        },
+        {
+            "facet_id": 219273,
+            "occurrence": 1,
+            "value": "Eisele, Anton"
+        },
+        {
+            "facet_id": 256080,
+            "occurrence": 1,
+            "value": "Clemens XIV., Papst"
+        },
+        {
+            "facet_id": 265412,
+            "occurrence": 1,
+            "value": "Ehrhart, Forstkommissar"
+        },
+        {
+            "facet_id": 277255,
+            "occurrence": 1,
+            "value": "Schwenk, Kaspar, Trochtelfingen"
+        },
+        {
+            "facet_id": 280694,
+            "occurrence": 1,
+            "value": "Biehler, Franz Xaver, Hofbildhauer, Donaueschingen"
+        },
+        {
+            "facet_id": 285019,
+            "occurrence": 1,
+            "value": "Schmid, Anna Maria, Steinhilben"
+        },
+        {
+            "facet_id": 295203,
+            "occurrence": 1,
+            "value": "Mayer, Alexi, Kronenwirt, Trochtelfingen"
+        },
+        {
+            "facet_id": 295204,
+            "occurrence": 1,
+            "value": "Würth, Amtsschreiber, Trochtelfingen"
+        },
+        {
+            "facet_id": 312647,
+            "occurrence": 1,
+            "value": "Hirlinger, Peter, Melchingen"
+        },
+        {
+            "facet_id": 315374,
+            "occurrence": 1,
+            "value": "Eißelin, Engelbert, Trochtelfingen"
+        },
+        {
+            "facet_id": 318178,
+            "occurrence": 1,
+            "value": "Bevel, Baltas, Kontigentsreiter"
+        },
+        {
+            "facet_id": 318179,
+            "occurrence": 1,
+            "value": "Götz, Joachim, Kontigentsreiter"
+        },
+        {
+            "facet_id": 318180,
+            "occurrence": 1,
+            "value": "Obergfell, Mattheus, Kontigentsreiter"
+        },
+        {
+            "facet_id": 319722,
+            "occurrence": 1,
+            "value": "Weiß, Xaver, Steinhilben"
+        },
+        {
+            "facet_id": 346057,
+            "occurrence": 1,
+            "value": "Buckenmayer, Bernhard, Hechingen"
+        },
+        {
+            "facet_id": 346058,
+            "occurrence": 1,
+            "value": "Stölzle, Benedikt, Ringingen"
+        },
+        {
+            "facet_id": 347956,
+            "occurrence": 1,
+            "value": "Bailer, Anton, Zeugmacher, Ringingen"
+        },
+        {
+            "facet_id": 347957,
+            "occurrence": 1,
+            "value": "Klotz, Johann, Wilflingen"
+        },
+        {
+            "facet_id": 408018,
+            "occurrence": 1,
+            "value": "Neuenstein, von"
+        },
+        {
+            "facet_id": 434299,
+            "occurrence": 1,
+            "value": "Württemberg, Herzöge von; Karl Friedrich"
+        },
+        {
+            "facet_id": 450334,
+            "occurrence": 1,
+            "value": "Volande, Johann Jacob, Chirurg, Neustadt"
+        },
+        {
+            "facet_id": 450698,
+            "occurrence": 1,
+            "value": "Fürstenberg, Fürsten von; Josef Wilhelm Ernst"
+        },
+        {
+            "facet_id": 452584,
+            "occurrence": 1,
+            "value": "Wetzel, Leopold, Trochtelfingen"
+        },
+        {
+            "facet_id": 461063,
+            "occurrence": 1,
+            "value": "Lenz, Felix Karl von, Oberleutnant, Trochtelfingen"
+        },
+        {
+            "facet_id": 469297,
+            "occurrence": 1,
+            "value": "Nicoletti, Rittmeister"
+        },
+        {
+            "facet_id": 491713,
+            "occurrence": 1,
+            "value": "Heinzelmann, Michael"
+        },
+        {
+            "facet_id": 492068,
+            "occurrence": 1,
+            "value": "Weigle, Mathias, Maurergeselle, Melchingen"
+        },
+        {
+            "facet_id": 505518,
+            "occurrence": 1,
+            "value": "Bart, Johann"
+        },
+        {
+            "facet_id": 505519,
+            "occurrence": 1,
+            "value": "Fleisch, Amtsdiener, Polizeidiener, Achberg"
+        },
+        {
+            "facet_id": 505520,
+            "occurrence": 1,
+            "value": "Fleisch, Martin, Maurermeister, Meßkirch"
+        },
+        {
+            "facet_id": 537383,
+            "occurrence": 1,
+            "value": "Gerber, August, Hirschwirt, Rottenburg"
+        },
+        {
+            "facet_id": 537384,
+            "occurrence": 1,
+            "value": "Unmuth, Matthäus, Ringingen"
+        },
+        {
+            "facet_id": 584169,
+            "occurrence": 1,
+            "value": "Glattes, Fidel, Trochtelfingen"
+        },
+        {
+            "facet_id": 584170,
+            "occurrence": 1,
+            "value": "Kohler, Matthä, Trochtelfingen"
+        },
+        {
+            "facet_id": 585518,
+            "occurrence": 1,
+            "value": "Dietrich, Sulpitz, Bäckergeselle, Ringingen"
+        },
+        {
+            "facet_id": 589595,
+            "occurrence": 1,
+            "value": "Jung, Johann Nepomuk, Mengen"
+        },
+        {
+            "facet_id": 598260,
+            "occurrence": 1,
+            "value": "Maichle, Aurel, Salmendingen"
+        },
+        {
+            "facet_id": 600220,
+            "occurrence": 1,
+            "value": "Klingenstein"
+        },
+        {
+            "facet_id": 630463,
+            "occurrence": 1,
+            "value": "Gutbrod, Johann Georg"
+        },
+        {
+            "facet_id": 630464,
+            "occurrence": 1,
+            "value": "Henni, Franz, Papiermacher, Gönningen"
+        },
+        {
+            "facet_id": 651882,
+            "occurrence": 1,
+            "value": "Ertisch, Andreas"
+        },
+        {
+            "facet_id": 684014,
+            "occurrence": 1,
+            "value": "Heinzelmann, Johann Baptist, Steinhilben"
+        },
+        {
+            "facet_id": 689964,
+            "occurrence": 1,
+            "value": "Claus, Andreas, Pfarrer, Melchingen"
+        },
+        {
+            "facet_id": 695276,
+            "occurrence": 1,
+            "value": "Griener, Anna Maria"
+        },
+        {
+            "facet_id": 695277,
+            "occurrence": 1,
+            "value": "Griener, Ignatz, Hirschwirt, Trochtelfingen"
+        },
+        {
+            "facet_id": 721826,
+            "occurrence": 1,
+            "value": "Bausch, Max, Schneidergeselle, Salmendingen"
+        },
+        {
+            "facet_id": 721827,
+            "occurrence": 1,
+            "value": "Wetzel, Stephan, Schneidermeister, Trochtelfingen"
+        },
+        {
+            "facet_id": 734375,
+            "occurrence": 1,
+            "value": "Fischer, Johann Georg, Operateur, Inneringen"
+        },
+        {
+            "facet_id": 734568,
+            "occurrence": 1,
+            "value": "Faigle, Willibald, Wagner, Trochtelfingen"
+        },
+        {
+            "facet_id": 734569,
+            "occurrence": 1,
+            "value": "Gulde, Cathrina"
+        },
+        {
+            "facet_id": 734570,
+            "occurrence": 1,
+            "value": "Schmidt, Agatha"
+        },
+        {
+            "facet_id": 750733,
+            "occurrence": 1,
+            "value": "Hagenloch, Martin, Hanau"
+        },
+        {
+            "facet_id": 751433,
+            "occurrence": 1,
+            "value": "Jehle"
+        },
+        {
+            "facet_id": 753066,
+            "occurrence": 1,
+            "value": "Faigle, Alexius, Wagnergeselle, Melchingen"
+        },
+        {
+            "facet_id": 753067,
+            "occurrence": 1,
+            "value": "Fischer, Johannes, Maurergeselle, Oberstetten"
+        },
+        {
+            "facet_id": 754369,
+            "occurrence": 1,
+            "value": "Bommer, Baptist, Maler, Trochtelfingen"
+        },
+        {
+            "facet_id": 754370,
+            "occurrence": 1,
+            "value": "Bommer, Ludwig, Malergeselle, Trochtelfingen"
+        },
+        {
+            "facet_id": 761404,
+            "occurrence": 1,
+            "value": "Keuffel von Uhlberg, Franz Joseph, Geheimrat"
+        },
+        {
+            "facet_id": 761405,
+            "occurrence": 1,
+            "value": "Keuffel von Uhlberg, Franz Joseph, Mutter des"
+        },
+        {
+            "facet_id": 763595,
+            "occurrence": 1,
+            "value": "Dietmann, Michael, Trochtelfingen"
+        },
+        {
+            "facet_id": 763596,
+            "occurrence": 1,
+            "value": "Eckhart, Wolfgang, Mengen"
+        },
+        {
+            "facet_id": 763597,
+            "occurrence": 1,
+            "value": "Kessler, Hugo, Mengen"
+        },
+        {
+            "facet_id": 763598,
+            "occurrence": 1,
+            "value": "Partlin, Jacob"
+        },
+        {
+            "facet_id": 763599,
+            "occurrence": 1,
+            "value": "Sickh, Johann, Horb"
+        },
+        {
+            "facet_id": 788434,
+            "occurrence": 1,
+            "value": "Neser, Carolus, Salmendingen"
+        },
+        {
+            "facet_id": 788435,
+            "occurrence": 1,
+            "value": "Neser, Franz, Salmendingen"
+        },
+        {
+            "facet_id": 788436,
+            "occurrence": 1,
+            "value": "Neser, Makarius, Salmendingen"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_fct_id": 6412,
+    "affiliate_fct": "Kloster St. Georgen",
+    "affiliate_fct_occurrence": 269,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 6412,
+            "affiliate_fct": "Kloster St. Georgen",
+            "affiliate_fct_occurrence": 269
+        },
+        {
+            "affiliate_fct_id": 429920,
+            "affiliate_fct": "Ferdinand II.,Kaiser(1630)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 750167,
+            "affiliate_fct": "Gaisser,Georg II,Abt des Kl.St.Georgen(1631-1632)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 47261,
+            "affiliate_fct": "Stark,Martin,Abt des Kl.St.Georgen(1606-1615)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149346,
+            "affiliate_fct": "Silbermann,Andreas,Orgelbauer,Straßburg(1751)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149347,
+            "affiliate_fct": "Silbermann,Johann Daniel,Orgelbauer,Straßburg(1751)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285956,
+            "affiliate_fct": "Horn,Gustav,schwedischer Feldmarschall(1633)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285957,
+            "affiliate_fct": "Kaul,Hans,zu Gerlingen(1648)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289701,
+            "affiliate_fct": "Reichlin v.Meldegg,Maria Hildegard,Äbtissin zu Urspring(18.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 336470,
+            "affiliate_fct": "Benedikt,Heiliger(1689-1699)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 336471,
+            "affiliate_fct": "Modestus,Heiliger(1689-1699)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 336472,
+            "affiliate_fct": "Reperata,Heilige(1689-1699)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370490,
+            "affiliate_fct": "Gaisser,Georg II.,Abt von Kl.St.Georgen(1629-1637)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 376000,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1645)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 397562,
+            "affiliate_fct": "Hetzel,Ludwig(1698-1732)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399219,
+            "affiliate_fct": "Falkenstein,v.(1444-1449)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399220,
+            "affiliate_fct": "Ferdinand I.,Kaiser(1532-1533)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399221,
+            "affiliate_fct": "Landenberg,Gf.v.,Hans(1526)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399222,
+            "affiliate_fct": "Rechberg,Gf.v.(1526)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 399223,
+            "affiliate_fct": "Rechberg,Gf.v.,Elisabeth(1462)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 416179,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1641-1647)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423182,
+            "affiliate_fct": "Ferdinand I.,Kaiser(1535)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423183,
+            "affiliate_fct": "Österreich,Ehz.v.,Leopold(1629)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423184,
+            "affiliate_fct": "Württemberg,Hz.v.,Ulrich(1535)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 431688,
+            "affiliate_fct": "Alexander VII.,Papst(1659)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 447607,
+            "affiliate_fct": "Gaisser,Georg II,Abt des Kl.St.Georgen(1631)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 449148,
+            "affiliate_fct": "Gaisser,Georg II.,Abt des Kl.St.Georgen(1648)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 449149,
+            "affiliate_fct": "Wolfsfurt,Johann Abraham,Schiltach(1648)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471834,
+            "affiliate_fct": "Falkenstein,v.(1444,1449)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471835,
+            "affiliate_fct": "Kern,Johann,Abt des Kl.St.Georgen(1534-1543)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471836,
+            "affiliate_fct": "Leutpoldt,Nikodemus,Abt des Kl.St.Georgen(1570)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471837,
+            "affiliate_fct": "Newin,Johann,Dr.(1590)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471838,
+            "affiliate_fct": "Württemberg,Gf.v.,Ludwig(1444,1449)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491678,
+            "affiliate_fct": "Gaisser,Georg III,Abt des Kl.St.Georgen(1661-1680)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491679,
+            "affiliate_fct": "Gobat,Georg,SJ,Konstanz(1661-1680)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491680,
+            "affiliate_fct": "Scherer,Johann Franz,Abt des Kl.St.Georgen(1661-1680)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 496014,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1645-1647)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531477,
+            "affiliate_fct": "Fugger,Gf.v.(1684)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 549369,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1640-1645)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 592087,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1641)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 598931,
+            "affiliate_fct": "Leutpoldt,Nikodemus,Abt des Kl.St.Georgen(1567)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 598932,
+            "affiliate_fct": "Marquart,Jakob,zu Ingoldingen(1567)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 601681,
+            "affiliate_fct": "Fleus,Kaspar,aus Weilersbach(16.Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 601682,
+            "affiliate_fct": "Heinnolt,Johann(1631)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 601683,
+            "affiliate_fct": "Maurer,Hans,aus Colmar(1543)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 604246,
+            "affiliate_fct": "Kobolt,Placidus,Amt des Kl.Ochsenhausen(1687-1700)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 627021,
+            "affiliate_fct": "Lenz,Bernhard(1786)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629745,
+            "affiliate_fct": "Kern,Johann,Abt des Kl.St.Georgen(1566-1619)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629746,
+            "affiliate_fct": "Württemberg,Hz.v.,Christoph(1566-1619)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 645190,
+            "affiliate_fct": "Escher v.Binningen,Hans Werner,Oberst(1637-1640)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 650723,
+            "affiliate_fct": "Leutpoldt,Nikodemus,Abt des Kl.St.Georgen(1572)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 650724,
+            "affiliate_fct": "Österreich,Ehz.v.,Ferdinand(1566)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 650725,
+            "affiliate_fct": "Württemberg,Hz.v.,Christoph(1566)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 657759,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1641-1643)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 691548,
+            "affiliate_fct": "Fugger v.Weißenhorn(1639-1752)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731482,
+            "affiliate_fct": "Boldt,Hieronymus,Klosteramtmann(1586)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 731483,
+            "affiliate_fct": "Rinker,Ludwig,Klosterschreiber(1522)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 784606,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1644)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 815994,
+            "affiliate_fct": "Österreich,Ehz.v.,Ferdinand Karl(1653)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 846357,
+            "affiliate_fct": "Glückherr,Michael III.,Abt des Kl.St.Georgen(1690-1733)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 851948,
+            "affiliate_fct": "Pfister,Magnus,Pater in Wiblingen(1633-1646)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 851949,
+            "affiliate_fct": "Rauh,Benedikt,Abt des Kl.Wiblingen(1633-1646)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 856584,
+            "affiliate_fct": "Haug,Melchior,Abt des Kl.St.Georgen(1627)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 856585,
+            "affiliate_fct": "Schue,Hieronymus,Abt des Kl.St.Georgen(1757)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 871315,
+            "affiliate_fct": "Innozenz X.,Papst(1644)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 882720,
+            "affiliate_fct": "Ummenhofer,Feldmedikus(1633-1767)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 884671,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1636-1639)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 918924,
+            "affiliate_fct": "Speth v.Schulzburg,Adam(1692-1714)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 918925,
+            "affiliate_fct": "Wittweiler,Dr.(1659-1689)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 936707,
+            "affiliate_fct": "Stark,Martin,Abt des Kl.St.Georgen(1606-1624)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 963018,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1640-1648)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 981977,
+            "affiliate_fct": "Fugger,v.,Jakob,Bischof von Konstanz(1594-1627)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 981978,
+            "affiliate_fct": "Österreich,Ehz.v.,Andreas,Kardinal von Konstanz(1594-1627)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 983669,
+            "affiliate_fct": "Ferdinand III.,Kaiser(1640)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987514,
+            "affiliate_fct": "Beroldingen,v.(1746)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987515,
+            "affiliate_fct": "Dorn zu Schömberg,v.(1761)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987516,
+            "affiliate_fct": "Enzberg,v.(1637-1638)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987517,
+            "affiliate_fct": "Ifflinger v.Graneck(1747)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987518,
+            "affiliate_fct": "Späth v.Zwiefalten siehe Speth v....!",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987519,
+            "affiliate_fct": "Speth v.Zwiefalten(1533-1675)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 987520,
+            "affiliate_fct": "Sulz,Gf.v.(1631)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1010628,
+            "affiliate_fct": "Theodegar,Bischof(1652-1778)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1012023,
+            "affiliate_fct": "Gaisser,Georg III.,Abt des Kl.St.Georgen(1685)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1020626,
+            "affiliate_fct": "Zimmern,Gf.v.; Korrespondenz(1510-1796)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1025554,
+            "affiliate_fct": "Kederer,Michael II.,Abt des Kl.St.Georgen(1655)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1039047,
+            "affiliate_fct": "Österreich,Ehz.v.,Leopold(1621)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1040077,
+            "affiliate_fct": "Württemberg,Hz.v.,Eberhard(1637-1646)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1077979,
+            "affiliate_fct": "Haug,Melchior,Abt des Kl.St.Georgen(1615-1617)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1080562,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1643)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1097976,
+            "affiliate_fct": "Rechberg,Gf.v.,Ludwig(1492-1504)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1120393,
+            "affiliate_fct": "Rodt zu Busmanshausen,Franz Konrad,Kardinal(1775)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1120394,
+            "affiliate_fct": "Schenk v.Staufenberg,Johann Franz,Bischof von Konstanz(1740",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1120395,
+            "affiliate_fct": "Schönborn-Buchheim,Damian Hugo,Kardinal(1743)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1120396,
+            "affiliate_fct": "Vogt v.Altensumerau,Franz Johann,Bischof von Konstanz(1689)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1122625,
+            "affiliate_fct": "Gaisser,Georg II,Abt des Kl.St.Georgen(1629-1651)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1123378,
+            "affiliate_fct": "Gaisser,Georg II.,Abt des Kl.St.Georgen(1627-1655)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1125879,
+            "affiliate_fct": "Scherer,Johann Franz,Abt des Kl.St.Georgen(1661)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1154190,
+            "affiliate_fct": "Peyer im Hof,Johann Konrad,Schaffhausen(1575-1635)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1159244,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1392-1695)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1178407,
+            "affiliate_fct": "Schlick,Gf.v.,Heinrich(1640-1641)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

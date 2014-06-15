@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 3697,
+    "affiliate_facet": "Metzler",
+    "occurrence": 1699,
+    "affiliates": [
+        {
+            "facet_id": 3697,
+            "occurrence": 1750,
+            "value": "Tauchnitz"
+        },
+        {
+            "facet_id": 6925,
+            "occurrence": 81,
+            "value": "Dickens, Charles (1812-1870)"
+        },
+        {
+            "facet_id": 18995,
+            "occurrence": 52,
+            "value": "Lever, Charles James (1806-1872)"
+        },
+        {
+            "facet_id": 332,
+            "occurrence": 46,
+            "value": "Wood, Ellen (1814-1887)"
+        },
+        {
+            "facet_id": 2086,
+            "occurrence": 46,
+            "value": "Lytton, Edward Bulwer Lytton (1803-1873)"
+        },
+        {
+            "facet_id": 19258,
+            "occurrence": 44,
+            "value": "Trollope, Anthony (1815-1882)"
+        },
+        {
+            "facet_id": 5255,
+            "occurrence": 43,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 13251,
+            "occurrence": 37,
+            "value": "Ainsworth, William Harrison (1805-1882)"
+        },
+        {
+            "facet_id": 48095,
+            "occurrence": 33,
+            "value": "Thackeray, William Makepeace (1811-1863)"
+        },
+        {
+            "facet_id": 11312,
+            "occurrence": 30,
+            "value": "Kavanagh, Julia (1824-1877)"
+        },
+        {
+            "facet_id": 4884,
+            "occurrence": 28,
+            "value": "Braddon, Mary Elizabeth (1835-1915)"
+        },
+        {
+            "facet_id": 109640,
+            "occurrence": 28,
+            "value": "Yonge, Charlotte Mary (1823-1901)"
+        },
+        {
+            "facet_id": 244,
+            "occurrence": 27,
+            "value": "Plutarchus (45-120)"
+        },
+        {
+            "facet_id": 9445,
+            "occurrence": 27,
+            "value": "Richter, Aemilius Ludwig (1808-1864)"
+        },
+        {
+            "facet_id": 6415,
+            "occurrence": 21,
+            "value": "James, George Payne Rainsford (1799-1860)"
+        },
+        {
+            "facet_id": 13195,
+            "occurrence": 21,
+            "value": "Weise, Carl Hermann (1787-ca. 1840)"
+        },
+        {
+            "facet_id": 15939,
+            "occurrence": 21,
+            "value": "Collins, Wilkie (1824-1889)"
+        },
+        {
+            "facet_id": 90752,
+            "occurrence": 21,
+            "value": "Piper, Ferdinand (1811-1889)"
+        },
+        {
+            "facet_id": 29193,
+            "occurrence": 18,
+            "value": "Carlyle, Thomas (1795-1881)"
+        },
+        {
+            "facet_id": 219990,
+            "occurrence": 18,
+            "value": "Yates, Edmund Hodgson (1831-1894)"
+        },
+        {
+            "facet_id": 107344,
+            "occurrence": 17,
+            "value": "Gaskell, Elizabeth Cleghorn (1810-1865)"
+        },
+        {
+            "facet_id": 121383,
+            "occurrence": 17,
+            "value": "Craik, Dinah Maria Mulock (1826-1887)"
+        },
+        {
+            "facet_id": 35185,
+            "occurrence": 15,
+            "value": "Ouida (1839-1908)"
+        },
+        {
+            "facet_id": 276,
+            "occurrence": 14,
+            "value": "Cicero, Marcus Tullius (v106-v43)"
+        },
+        {
+            "facet_id": 79080,
+            "occurrence": 14,
+            "value": "Weber, Karl von (1806-1879)"
+        },
+        {
+            "facet_id": 80529,
+            "occurrence": 14,
+            "value": "Fullerton, Georgiana (1812-1885)"
+        },
+        {
+            "facet_id": 132274,
+            "occurrence": 14,
+            "value": "Marryat, Florence (1837-1899)"
+        },
+        {
+            "facet_id": 15730,
+            "occurrence": 13,
+            "value": "Scott, Walter (1771-1832)"
+        },
+        {
+            "facet_id": 124240,
+            "occurrence": 13,
+            "value": "Disraeli, Benjamin (1804-1881)"
+        },
+        {
+            "facet_id": 147867,
+            "occurrence": 13,
+            "value": "Gore, Catherine Grace Frances (1799-1861)"
+        },
+        {
+            "facet_id": 1932,
+            "occurrence": 12,
+            "value": "Herodotus (v485-v425)"
+        },
+        {
+            "facet_id": 13474,
+            "occurrence": 12,
+            "value": "Oliphant, Margaret (1828-1897)"
+        },
+        {
+            "facet_id": 24448,
+            "occurrence": 12,
+            "value": "Thomas, Annie (1838-1918)"
+        },
+        {
+            "facet_id": 89037,
+            "occurrence": 12,
+            "value": "Kingsley, Charles (1819-1875)"
+        },
+        {
+            "facet_id": 107910,
+            "occurrence": 12,
+            "value": "Tennyson, Alfred (1809-1892)"
+        },
+        {
+            "facet_id": 313356,
+            "occurrence": 12,
+            "value": "Nobbe, Karl Friedrich August (1791-1878)"
+        },
+        {
+            "facet_id": 9446,
+            "occurrence": 11,
+            "value": "Schneider, Robert"
+        },
+        {
+            "facet_id": 10331,
+            "occurrence": 11,
+            "value": "Eliot, George (1819-1880)"
+        },
+        {
+            "facet_id": 49761,
+            "occurrence": 11,
+            "value": "Bronte͏̈, Charlotte (1816-1855)"
+        },
+        {
+            "facet_id": 85269,
+            "occurrence": 11,
+            "value": "Schäfer, Gottfried Heinrich (1764-1840)"
+        },
+        {
+            "facet_id": 25771,
+            "occurrence": 10,
+            "value": "Marryat, Frederick (1792-1848)"
+        },
+        {
+            "facet_id": 46233,
+            "occurrence": 10,
+            "value": "Rudorff, Adolf Friedrich August (1803-1873)"
+        },
+        {
+            "facet_id": 62147,
+            "occurrence": 10,
+            "value": "Sewell, Elizabeth Missing (1815-1906)"
+        },
+        {
+            "facet_id": 82939,
+            "occurrence": 10,
+            "value": "Mai, Angelo (1782-1854)"
+        },
+        {
+            "facet_id": 213829,
+            "occurrence": 10,
+            "value": "Marsh-Caldwell, Anne (1791-1874)"
+        },
+        {
+            "facet_id": 3698,
+            "occurrence": 9,
+            "value": "Ruffini, Giovanni (1807-1881)"
+        },
+        {
+            "facet_id": 5753,
+            "occurrence": 9,
+            "value": "Lucianus <Samosatensis> (120-180)"
+        },
+        {
+            "facet_id": 33249,
+            "occurrence": 9,
+            "value": "Irving, Washington (1783-1859)"
+        },
+        {
+            "facet_id": 33748,
+            "occurrence": 9,
+            "value": "Macaulay, Thomas Babington"
+        },
+        {
+            "facet_id": 70085,
+            "occurrence": 9,
+            "value": "Whyte-Melville, George J. (1821-1878)"
+        },
+        {
+            "facet_id": 79081,
+            "occurrence": 9,
+            "value": "Königlich Sächsischer Altertumsverein"
+        },
+        {
+            "facet_id": 90137,
+            "occurrence": 9,
+            "value": "Kingsley, Henry (1830-1876)"
+        },
+        {
+            "facet_id": 100710,
+            "occurrence": 9,
+            "value": "Payn, James (1830-1898)"
+        },
+        {
+            "facet_id": 113226,
+            "occurrence": 9,
+            "value": "Edwards, Amelia Ann Blanford (1831-1892)"
+        },
+        {
+            "facet_id": 121008,
+            "occurrence": 9,
+            "value": "Baiter, Johann Georg (1801-1877)"
+        },
+        {
+            "facet_id": 123823,
+            "occurrence": 9,
+            "value": "Warner, Susan (1819-1885)"
+        },
+        {
+            "facet_id": 134259,
+            "occurrence": 9,
+            "value": "Lemon, Mark (1809-1870)"
+        },
+        {
+            "facet_id": 275686,
+            "occurrence": 9,
+            "value": "Kayser, Karl Ludwig (1808-1872)"
+        },
+        {
+            "facet_id": 10863,
+            "occurrence": 8,
+            "value": "Lawrence, George A."
+        },
+        {
+            "facet_id": 14777,
+            "occurrence": 8,
+            "value": "Demosthenes (v384-v322)"
+        },
+        {
+            "facet_id": 40018,
+            "occurrence": 8,
+            "value": "Philo <Alexandrinus> (25/10 v. Chr.-40/50 n. Chr.)"
+        },
+        {
+            "facet_id": 71627,
+            "occurrence": 8,
+            "value": "Blessington, Marguerite (1789-1849)"
+        },
+        {
+            "facet_id": 96367,
+            "occurrence": 8,
+            "value": "Polybius (v200-v120)"
+        },
+        {
+            "facet_id": 165238,
+            "occurrence": 8,
+            "value": "Osterloh, Robert"
+        },
+        {
+            "facet_id": 185224,
+            "occurrence": 8,
+            "value": "Puchta, Georg Friedrich (1798-1846)"
+        },
+        {
+            "facet_id": 283556,
+            "occurrence": 8,
+            "value": "Dixon, William Hepworth (1821-1879)"
+        },
+        {
+            "facet_id": 2546,
+            "occurrence": 7,
+            "value": "Homerus (ca. 8. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 10315,
+            "occurrence": 7,
+            "value": "Xenophon (v. 430-v. 355)"
+        },
+        {
+            "facet_id": 23343,
+            "occurrence": 7,
+            "value": "Berner, Albert Friedrich (1818-1907)"
+        },
+        {
+            "facet_id": 37790,
+            "occurrence": 7,
+            "value": "Jenkin, Henrietta Camilla (1807-1885)"
+        },
+        {
+            "facet_id": 47928,
+            "occurrence": 7,
+            "value": "Warren, Samuel (1807-1877)"
+        },
+        {
+            "facet_id": 87148,
+            "occurrence": 7,
+            "value": "Reade, Charles (1814-1884)"
+        },
+        {
+            "facet_id": 182193,
+            "occurrence": 7,
+            "value": "Craik, Georgiana M. (1831-1895)"
+        },
+        {
+            "facet_id": 285853,
+            "occurrence": 7,
+            "value": "Richter, Wilhelm Theodor"
+        },
+        {
+            "facet_id": 447174,
+            "occurrence": 7,
+            "value": "Aïdé, Hamilton (1826-1906)"
+        },
+        {
+            "facet_id": 1983,
+            "occurrence": 6,
+            "value": "Dionysius <Halicarnassensis> (ca. 1.Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 11543,
+            "occurrence": 6,
+            "value": "Edwards, Annie (1830-1896)"
+        },
+        {
+            "facet_id": 18594,
+            "occurrence": 6,
+            "value": "Diodorus <Siculus> (ca. 60 v. Chr.-ca. 30 v. Chr.)"
+        },
+        {
+            "facet_id": 25096,
+            "occurrence": 6,
+            "value": "Byron, George Gordon Byron (1788-1824)"
+        },
+        {
+            "facet_id": 51732,
+            "occurrence": 6,
+            "value": "Biener, Friedrich August (1787-1861)"
+        },
+        {
+            "facet_id": 54050,
+            "occurrence": 6,
+            "value": "Stowe, Harriet Beecher (1811-1896)"
+        },
+        {
+            "facet_id": 71748,
+            "occurrence": 6,
+            "value": "Ptolemaeus, Claudius (ca. 100-178)"
+        },
+        {
+            "facet_id": 108284,
+            "occurrence": 6,
+            "value": "Wyttenbach, Daniel Albert (1746-1820)"
+        },
+        {
+            "facet_id": 115762,
+            "occurrence": 6,
+            "value": "Tautphoeus, Jemima Montgomery (1807-1893)"
+        },
+        {
+            "facet_id": 160586,
+            "occurrence": 6,
+            "value": "Richter, Wilhelm Theodor (1806-)"
+        },
+        {
+            "facet_id": 194605,
+            "occurrence": 6,
+            "value": "Brooks, Shirley"
+        },
+        {
+            "facet_id": 197940,
+            "occurrence": 6,
+            "value": "Friedberg, Emil (1837-1910)"
+        },
+        {
+            "facet_id": 223593,
+            "occurrence": 6,
+            "value": "Palm, Johann Friedrich (1813-1871)"
+        },
+        {
+            "facet_id": 719,
+            "occurrence": 5,
+            "value": "Ovidius Naso, Publius (ca. 43 v. Chr.-ca. 18)"
+        },
+        {
+            "facet_id": 5505,
+            "occurrence": 5,
+            "value": "Horatius Flaccus, Quintus (v65-v8)"
+        },
+        {
+            "facet_id": 6096,
+            "occurrence": 5,
+            "value": "Aristophanes (ca. v445-v385)"
+        },
+        {
+            "facet_id": 16456,
+            "occurrence": 5,
+            "value": "Livius, Titus (v59-17)"
+        },
+        {
+            "facet_id": 24456,
+            "occurrence": 5,
+            "value": "Cummins, Maria S. (1827-1866)"
+        },
+        {
+            "facet_id": 32132,
+            "occurrence": 5,
+            "value": "Gossner, Johannes (1773-1858)"
+        },
+        {
+            "facet_id": 33803,
+            "occurrence": 5,
+            "value": "Schmidt, Johann Adolph Erdmann (1769-1851)"
+        },
+        {
+            "facet_id": 49043,
+            "occurrence": 5,
+            "value": "Longfellow, Henry Wadsworth (1807-1882)"
+        },
+        {
+            "facet_id": 49623,
+            "occurrence": 5,
+            "value": "Moore, Thomas (1779-1852)"
+        },
+        {
+            "facet_id": 77501,
+            "occurrence": 5,
+            "value": "Macaulay, Thomas Babington (1800-1859)"
+        },
+        {
+            "facet_id": 85401,
+            "occurrence": 5,
+            "value": "Scott, Walter"
+        },
+        {
+            "facet_id": 90798,
+            "occurrence": 5,
+            "value": "Fürst, Julius (1805-1873)"
+        }
+    ]
+}

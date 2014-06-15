@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_facet_id": 3905,
+    "affiliate_facet": "Röhnerus",
+    "occurrence": 250,
+    "affiliates": [
+        {
+            "facet_id": 3905,
+            "occurrence": 253,
+            "value": "Fischer"
+        },
+        {
+            "facet_id": 17995,
+            "occurrence": 24,
+            "value": "Ferdinand <III., Heiliges Römisches Reich, Kaiser> (1608-1657)"
+        },
+        {
+            "facet_id": 6388,
+            "occurrence": 23,
+            "value": "Dietl, Gregor"
+        },
+        {
+            "facet_id": 42940,
+            "occurrence": 23,
+            "value": "Heyll"
+        },
+        {
+            "facet_id": 11417,
+            "occurrence": 17,
+            "value": "Heyll)"
+        },
+        {
+            "facet_id": 79879,
+            "occurrence": 15,
+            "value": "Lenz, Salomon (1584-1647)"
+        },
+        {
+            "facet_id": 62576,
+            "occurrence": 14,
+            "value": "Christine <Schweden, Königin> (1626-1689)"
+        },
+        {
+            "facet_id": 39484,
+            "occurrence": 12,
+            "value": "Heiliges Römisches Reich"
+        },
+        {
+            "facet_id": 16852,
+            "occurrence": 8,
+            "value": "Ursin, Johann Heinrich (1608-1667)"
+        },
+        {
+            "facet_id": 80478,
+            "occurrence": 8,
+            "value": "Gruber, Erasmus (1609-1684)"
+        },
+        {
+            "facet_id": 26814,
+            "occurrence": 7,
+            "value": "Kirchhof, Hans Wilhelm (ca. um 1525-1605)"
+        },
+        {
+            "facet_id": 36987,
+            "occurrence": 7,
+            "value": "Schweden"
+        },
+        {
+            "facet_id": 17994,
+            "occurrence": 6,
+            "value": "Ferdinand <II., Heiliges Römisches Reich, Kaiser> (1578-1637)"
+        },
+        {
+            "facet_id": 48972,
+            "occurrence": 6,
+            "value": "Khevenhüller, Franz Christoph (1588-1650)"
+        },
+        {
+            "facet_id": 377805,
+            "occurrence": 6,
+            "value": "Balduin, Balthasar (1605-1652)"
+        },
+        {
+            "facet_id": 382474,
+            "occurrence": 6,
+            "value": "Heil)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 5,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 277,
+            "occurrence": 5,
+            "value": "Gruterus, Janus (1560-1627)"
+        },
+        {
+            "facet_id": 4026,
+            "occurrence": 5,
+            "value": "Ludwig <XIV., Frankreich, König> (1638-1715)"
+        },
+        {
+            "facet_id": 5306,
+            "occurrence": 5,
+            "value": "SLUB Dresden"
+        },
+        {
+            "facet_id": 14697,
+            "occurrence": 5,
+            "value": "Frankreich"
+        },
+        {
+            "facet_id": 25617,
+            "occurrence": 5,
+            "value": "Ehinger, Elias (1573-1653)"
+        },
+        {
+            "facet_id": 120688,
+            "occurrence": 5,
+            "value": "Kornmann, Heinrich (1579-1628)"
+        },
+        {
+            "facet_id": 184722,
+            "occurrence": 5,
+            "value": "Thilli, Adalbert"
+        },
+        {
+            "facet_id": 329455,
+            "occurrence": 5,
+            "value": "Peilnsteiner, Aquilin (-1678)"
+        },
+        {
+            "facet_id": 93868,
+            "occurrence": 4,
+            "value": "Tanner, Daniel (1581-1646)"
+        },
+        {
+            "facet_id": 2182,
+            "occurrence": 3,
+            "value": "Becker"
+        },
+        {
+            "facet_id": 38457,
+            "occurrence": 3,
+            "value": "Pareus, Johann Philipp (1576-1648)"
+        },
+        {
+            "facet_id": 39486,
+            "occurrence": 3,
+            "value": "Steiner, Johann"
+        },
+        {
+            "facet_id": 118230,
+            "occurrence": 3,
+            "value": "Bachmeyr, Georg"
+        },
+        {
+            "facet_id": 118231,
+            "occurrence": 3,
+            "value": "Dollinger, Peter"
+        },
+        {
+            "facet_id": 141232,
+            "occurrence": 3,
+            "value": "Minzner, Ignaz"
+        },
+        {
+            "facet_id": 141233,
+            "occurrence": 3,
+            "value": "Wernz, Paul"
+        },
+        {
+            "facet_id": 285301,
+            "occurrence": 3,
+            "value": "Jahn, Andreas"
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 2,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 7963,
+            "occurrence": 2,
+            "value": "Augustinus, Aurelius"
+        },
+        {
+            "facet_id": 9805,
+            "occurrence": 2,
+            "value": "Dorsche, Johann Georg (1597-1659)"
+        },
+        {
+            "facet_id": 12252,
+            "occurrence": 2,
+            "value": "Boutrays, Raoul (1552-1630)"
+        },
+        {
+            "facet_id": 32406,
+            "occurrence": 2,
+            "value": "Rabus, Ludwig (1524-1592)"
+        },
+        {
+            "facet_id": 39694,
+            "occurrence": 2,
+            "value": "Stauffenberg, Johann von"
+        },
+        {
+            "facet_id": 44688,
+            "occurrence": 2,
+            "value": "Beyer, Johann Hartmann"
+        },
+        {
+            "facet_id": 47174,
+            "occurrence": 2,
+            "value": "Neander, Michael (1525-1595)"
+        },
+        {
+            "facet_id": 105808,
+            "occurrence": 2,
+            "value": "Regensburg"
+        },
+        {
+            "facet_id": 127222,
+            "occurrence": 2,
+            "value": "Grégoire, Pierre"
+        },
+        {
+            "facet_id": 169070,
+            "occurrence": 2,
+            "value": "Ruini, Carlo"
+        },
+        {
+            "facet_id": 203809,
+            "occurrence": 2,
+            "value": "Heydon, Johann Ludwig von"
+        },
+        {
+            "facet_id": 209194,
+            "occurrence": 2,
+            "value": "Reischl, Meinrad"
+        },
+        {
+            "facet_id": 217975,
+            "occurrence": 2,
+            "value": "Beck, Dominicus (um 1671)"
+        },
+        {
+            "facet_id": 218192,
+            "occurrence": 2,
+            "value": "Hunterus, Jacobus Petrus"
+        },
+        {
+            "facet_id": 218193,
+            "occurrence": 2,
+            "value": "Fabius, Amandus"
+        },
+        {
+            "facet_id": 365458,
+            "occurrence": 2,
+            "value": "Franz Wilhelm <Osnabrück, Bischof> (1593-1661)"
+        },
+        {
+            "facet_id": 434547,
+            "occurrence": 2,
+            "value": "Steiner, Andreas"
+        },
+        {
+            "facet_id": 466359,
+            "occurrence": 2,
+            "value": "Donauer, Christoph Sigmund (1593-1655)"
+        },
+        {
+            "facet_id": 509818,
+            "occurrence": 2,
+            "value": "Lang, Johann Georg (1614-1677)"
+        },
+        {
+            "facet_id": 709072,
+            "occurrence": 2,
+            "value": "Donauer, Christoph S."
+        },
+        {
+            "facet_id": 859400,
+            "occurrence": 2,
+            "value": "Schmoll, Matthäus (1610-1675)"
+        },
+        {
+            "facet_id": 862186,
+            "occurrence": 2,
+            "value": "Wendler, Georg (1619-1688)"
+        },
+        {
+            "facet_id": 785,
+            "occurrence": 1,
+            "value": "Beck, Dominikus (1732-1791)"
+        },
+        {
+            "facet_id": 3273,
+            "occurrence": 1,
+            "value": "Habermann, Johann (1516-1590)"
+        },
+        {
+            "facet_id": 4138,
+            "occurrence": 1,
+            "value": "Terentius Afer, Publius (v195-v159)"
+        },
+        {
+            "facet_id": 5946,
+            "occurrence": 1,
+            "value": "Hoffmann"
+        },
+        {
+            "facet_id": 13566,
+            "occurrence": 1,
+            "value": "Lundorp, Michael Caspar (1580-1629)"
+        },
+        {
+            "facet_id": 15909,
+            "occurrence": 1,
+            "value": "Heyl"
+        },
+        {
+            "facet_id": 19345,
+            "occurrence": 1,
+            "value": "Thomae, Johannes"
+        },
+        {
+            "facet_id": 19524,
+            "occurrence": 1,
+            "value": "Plautus, Titus Maccius (ca. 254 v. Chr.-184 v. Chr.)"
+        },
+        {
+            "facet_id": 24408,
+            "occurrence": 1,
+            "value": "(Hoffmann)"
+        },
+        {
+            "facet_id": 25215,
+            "occurrence": 1,
+            "value": "Masen, Jacob (1606-1681)"
+        },
+        {
+            "facet_id": 25232,
+            "occurrence": 1,
+            "value": "Merian, Matthaeus <der Ältere> (1593-1650)"
+        },
+        {
+            "facet_id": 27533,
+            "occurrence": 1,
+            "value": "Gumpelzhaimer, Esaias (1604-1660)"
+        },
+        {
+            "facet_id": 29969,
+            "occurrence": 1,
+            "value": "Leopold <I., Heiliges Römisches Reich, Kaiser> (1640-1705)"
+        },
+        {
+            "facet_id": 37651,
+            "occurrence": 1,
+            "value": "Mattioli, Pietro Andrea (1500-1577)"
+        },
+        {
+            "facet_id": 37919,
+            "occurrence": 1,
+            "value": "Camerarius, Joachim <1534-1598> (1534-1598)"
+        },
+        {
+            "facet_id": 38647,
+            "occurrence": 1,
+            "value": "Brisson, Barnabé (1531-1591)"
+        },
+        {
+            "facet_id": 39381,
+            "occurrence": 1,
+            "value": "Reißner, Adam (1500-1572)"
+        },
+        {
+            "facet_id": 42662,
+            "occurrence": 1,
+            "value": "Cujas, Jacques (1522-1590)"
+        },
+        {
+            "facet_id": 58354,
+            "occurrence": 1,
+            "value": "Halbritter, Johann Georg (1591-1649)"
+        },
+        {
+            "facet_id": 67374,
+            "occurrence": 1,
+            "value": "Tesauro, Gaspare Antonio (1563-1628)"
+        },
+        {
+            "facet_id": 68980,
+            "occurrence": 1,
+            "value": "Lemnius, Levinus (1505-1568)"
+        },
+        {
+            "facet_id": 69775,
+            "occurrence": 1,
+            "value": "Du Bellay, Guillaume (1491-1543)"
+        },
+        {
+            "facet_id": 80479,
+            "occurrence": 1,
+            "value": "Freyberg, Eva Benigna von"
+        },
+        {
+            "facet_id": 99135,
+            "occurrence": 1,
+            "value": "Lehner, Johann"
+        },
+        {
+            "facet_id": 119973,
+            "occurrence": 1,
+            "value": "Schenthel, Andreas Aegidius"
+        },
+        {
+            "facet_id": 125442,
+            "occurrence": 1,
+            "value": "Starhemberg, Erasmus von (1595-1664)"
+        },
+        {
+            "facet_id": 177105,
+            "occurrence": 1,
+            "value": "Rüd, Christoph Adam (1626-1675)"
+        },
+        {
+            "facet_id": 181299,
+            "occurrence": 1,
+            "value": "Wassenberg, Eberhard (1610-nach 1680)"
+        },
+        {
+            "facet_id": 186894,
+            "occurrence": 1,
+            "value": "(Lipp)"
+        },
+        {
+            "facet_id": 230445,
+            "occurrence": 1,
+            "value": "Peermaier, Elisabeth"
+        },
+        {
+            "facet_id": 230446,
+            "occurrence": 1,
+            "value": "Peermaier, Sigmund"
+        },
+        {
+            "facet_id": 237452,
+            "occurrence": 1,
+            "value": "Ritter, Johann Leonhard (1592-1641)"
+        },
+        {
+            "facet_id": 237453,
+            "occurrence": 1,
+            "value": "Stäntzkhi, Anna Dorothea von"
+        },
+        {
+            "facet_id": 239996,
+            "occurrence": 1,
+            "value": "Kahl, Johann (1550-1614)"
+        },
+        {
+            "facet_id": 269725,
+            "occurrence": 1,
+            "value": "(Hofmann)"
+        },
+        {
+            "facet_id": 275877,
+            "occurrence": 1,
+            "value": "Balduin, Friedrich Philipp (1630-1669)"
+        },
+        {
+            "facet_id": 281927,
+            "occurrence": 1,
+            "value": "(Heyll)"
+        },
+        {
+            "facet_id": 291330,
+            "occurrence": 1,
+            "value": "Guidobald <Salzburg, Erzbischof> (1616-1668)"
+        },
+        {
+            "facet_id": 291331,
+            "occurrence": 1,
+            "value": "Collegium Ratisbonense"
+        },
+        {
+            "facet_id": 296035,
+            "occurrence": 1,
+            "value": "Wider, Philipp Ehrenreich (1623-1684)"
+        },
+        {
+            "facet_id": 296036,
+            "occurrence": 1,
+            "value": "Wolff von Todtenwarth, Barbara"
+        },
+        {
+            "facet_id": 341116,
+            "occurrence": 1,
+            "value": "Ferdinand <IV., Heiliges Römisches Reich, König> (1633-1654)"
+        },
+        {
+            "facet_id": 346720,
+            "occurrence": 1,
+            "value": "Elsenheimer, Barbara"
+        }
+    ]
+}

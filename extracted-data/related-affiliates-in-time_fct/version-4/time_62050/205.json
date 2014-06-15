@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 7,
+    "time_fct": "time_62050",
+    "affiliate_fct_id": 205,
+    "affiliate_fct": "Bundesbahndirektion Karlsruhe",
+    "affiliate_fct_occurrence": 2445,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 205,
+            "affiliate_fct": "Bundesbahndirektion Karlsruhe",
+            "affiliate_fct_occurrence": 2445
+        },
+        {
+            "affiliate_fct_id": 199925,
+            "affiliate_fct": "Deutscher Eisenbahn-Verkehrs-Verband (DEVV)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 545350,
+            "affiliate_fct": "Bauverein Neustadt im Schwarzwald",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 576422,
+            "affiliate_fct": "Basler Lagerhausgesellschaft; Basel (Schweiz)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 588522,
+            "affiliate_fct": "Bauverein Singen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 317393,
+            "affiliate_fct": "Eckert & Co.; Firma, Stuttgart",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 481572,
+            "affiliate_fct": "Katz & Klumpp; Firma, Gernsbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 861278,
+            "affiliate_fct": "Schenk, F; Firma, Maximiliansau (Pfalz)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70034,
+            "affiliate_fct": "Kalkfabrik Thayngen (Schweiz)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 73853,
+            "affiliate_fct": "Trick-Zellstoff GmbH; Firma, Kehl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 111449,
+            "affiliate_fct": "Himmelsbach, Gebrüder; Firma Neuenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 111450,
+            "affiliate_fct": "Impreva Holzimprägnierung und Holzverwertung AG; Gleisanschluss Neuenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 111451,
+            "affiliate_fct": "Richtberg, Karl; Firma Neuenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113447,
+            "affiliate_fct": "Baugesellschaft für Kleinwohnungen GmbH Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 125469,
+            "affiliate_fct": "Gepäckträger; Kehl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132081,
+            "affiliate_fct": "Gemeinnütziger Bauverein Radolfzell",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 140822,
+            "affiliate_fct": "Geigy, J. R.; Firma, Basel (Schweiz)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 151121,
+            "affiliate_fct": "Gepäckträger; Offenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160463,
+            "affiliate_fct": "Gemeinnützige Bezirksbaugenossenschaft Heidelberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163549,
+            "affiliate_fct": "Ciba AG; Firma, Basel (Schweiz)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 225614,
+            "affiliate_fct": "Hartmann, Otto; Ziegelwerke Eschelbronn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 225615,
+            "affiliate_fct": "Rösch, Joseph; Steinbruch Eschelbronn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242809,
+            "affiliate_fct": "Hoffmann La Roche AG; Gleisanschluss Grenzach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243226,
+            "affiliate_fct": "Deutscher Eisenbahnverkehrsverband (DEVV)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 253271,
+            "affiliate_fct": "Nassi; Firma, Offenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273565,
+            "affiliate_fct": "Gartenstadt-Genossenschaft Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 283157,
+            "affiliate_fct": "Gepäckträger; Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 291089,
+            "affiliate_fct": "Gemeinnütziger Bauverein Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296331,
+            "affiliate_fct": "Beinert, Fritz; Palmose-Röstwerk Kehl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296332,
+            "affiliate_fct": "Elsässische Palmosenwerke AG Kehl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296333,
+            "affiliate_fct": "Lactina Panchaud AG Kehl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296334,
+            "affiliate_fct": "Pichler & Schraishuon, Pflanzenspeisefettfabrik",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296335,
+            "affiliate_fct": "Vorschussbank Bühl (Kehl)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 341071,
+            "affiliate_fct": "Deutsche Shell AG; Gleisanschluss Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 341072,
+            "affiliate_fct": "Rhenania Ossag Mineralölwerke Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 341073,
+            "affiliate_fct": "Shell AG; Gleisanschluss Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 352838,
+            "affiliate_fct": "Badische Maschinenfabrik; Gleisanschluss Durlach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379600,
+            "affiliate_fct": "Löffler, J.F.; Furniersägerei Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379601,
+            "affiliate_fct": "Probst & Class GmbH; Gleisanschluss Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379602,
+            "affiliate_fct": "Schneider, Rudolf; Firma Rastatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381334,
+            "affiliate_fct": "Freudenberg, Carl; Firma Weinheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 382631,
+            "affiliate_fct": "König; Firma, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 393222,
+            "affiliate_fct": "Süddeutsche Eisenbahngesellschaft AG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 405532,
+            "affiliate_fct": "Schmitt, Karl; Bahnhofsbuchhandlungen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 408457,
+            "affiliate_fct": "Gebhardt-Hildenbrand; Firma, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 409208,
+            "affiliate_fct": "Siegrist, Leopold; Firma Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 450940,
+            "affiliate_fct": "Gepäckträger; Baden-Oos",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 477269,
+            "affiliate_fct": "Lanz; Firma, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 482481,
+            "affiliate_fct": "Steffelin; Firma, Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 490460,
+            "affiliate_fct": "Übele; Firma, Neckargemünd",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 502496,
+            "affiliate_fct": "Mack, Heinrich; Wagenfabrik Waldkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 502497,
+            "affiliate_fct": "Mack, Max; Sägewerk Waldkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 528316,
+            "affiliate_fct": "Hilkert, Johann; Granitwerke Bühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 528317,
+            "affiliate_fct": "Schütz, Adam; Granitwerke Bühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 532851,
+            "affiliate_fct": "Solvay-Werke AG; Gleisanschluss Wyhlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 545531,
+            "affiliate_fct": "Gemeinnütziger Bauverein Singen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 561672,
+            "affiliate_fct": "Französische Streitkräfte; Gleisanschlüsse",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 563382,
+            "affiliate_fct": "Gartenvorstadt-Genossenschaft Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 563589,
+            "affiliate_fct": "Mayer; Firma, Offenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 567486,
+            "affiliate_fct": "Bunner; Friseurstube, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 581431,
+            "affiliate_fct": "Gepäckträger; Radolfzell",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593348,
+            "affiliate_fct": "Gehring, Hermann; BP-Vertretung Lörrach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593349,
+            "affiliate_fct": "Oestreicher, Philipp; Kohlenhandelsgesellschaft Lörrach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 593350,
+            "affiliate_fct": "Oestreicher-Schlageter GmbH Lörrach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 595006,
+            "affiliate_fct": "Stahlbau-Eisen-Kolb; Karlsruhe-Rheinhafen, Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 608965,
+            "affiliate_fct": "Daimler Benz AG; Privatgleisanschluss Gaggenau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 616622,
+            "affiliate_fct": "Fuchs, Jakob; Firma Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 616623,
+            "affiliate_fct": "Pinus GmbH Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 616624,
+            "affiliate_fct": "Schenck & Schnitzler; Firma Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 616625,
+            "affiliate_fct": "Schenck, Ferdinand; Firma Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 619078,
+            "affiliate_fct": "Geigy AG; Gleisanschluss Grenzach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647891,
+            "affiliate_fct": "Reichert & Söhne; Firma, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 649285,
+            "affiliate_fct": "Röckel, Emil; Firma, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 668688,
+            "affiliate_fct": "Degussa; Gleisanschluss Wyhlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 668689,
+            "affiliate_fct": "Kraftübertragungswerke Rheinfelden; Gleisanschluss Wyhlen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 673376,
+            "affiliate_fct": "Bähr; Friseurstube, Heidelberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 690264,
+            "affiliate_fct": "Conzen; Firma, Freiburg im Breisgau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 691547,
+            "affiliate_fct": "Gemeinnütziger Bauverein Waldshut",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 692383,
+            "affiliate_fct": "Harwig, Dr.; Firma Berlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 712271,
+            "affiliate_fct": "Kast, Casimir; Firma, Gernsbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 723206,
+            "affiliate_fct": "Oberrheinische Eisenbahngesellschaft, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 752815,
+            "affiliate_fct": "Heimbau Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 753616,
+            "affiliate_fct": "Mittelbadische Eisenbahnen AG Lahr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 765740,
+            "affiliate_fct": "Müller; Friseurstube, Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 771278,
+            "affiliate_fct": "Gepäckträger; Müllheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 772298,
+            "affiliate_fct": "Welter, Peter; Firma",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790488,
+            "affiliate_fct": "Eisenbahner-Baugenossenschaft Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790626,
+            "affiliate_fct": "Gebhard, Albert; Firma Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790627,
+            "affiliate_fct": "Weiler, Karl; Firma Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 790942,
+            "affiliate_fct": "Südzucker AG; Gleisanschluss Waghäusel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 804088,
+            "affiliate_fct": "Schreiber; Firma, Mannheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 810018,
+            "affiliate_fct": "Mieter- und Bauverein Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 812408,
+            "affiliate_fct": "Krüger, Kurt, Dr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 814021,
+            "affiliate_fct": "Glashütte; Firma, Achern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 822336,
+            "affiliate_fct": "Klybeckmatten; Firma, Basel (Schweiz)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 828587,
+            "affiliate_fct": "Altenburg; Brauerei Sinzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 828588,
+            "affiliate_fct": "Rauch, Hermann; Firma Sinzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 828589,
+            "affiliate_fct": "Sinner AG; Firma Sinzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 866922,
+            "affiliate_fct": "Siedlungsgesellschaft für das Verkehrspersonal Mainz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 882476,
+            "affiliate_fct": "Gemeinnützige Baugenossenschaft Haltingen-Weil",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

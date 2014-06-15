@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 15,
+    "time_fct": "time_62060",
+    "affiliate_facet_id": 755,
+    "affiliate_facet": "Finanzministerium Freiburg",
+    "occurrence": 1062,
+    "affiliates": [
+        {
+            "facet_id": 755,
+            "occurrence": 1136,
+            "value": "Technoseum"
+        },
+        {
+            "facet_id": 4962,
+            "occurrence": 175,
+            "value": "Albert Nestler AG &lt;Lahr&gt;"
+        },
+        {
+            "facet_id": 42947,
+            "occurrence": 34,
+            "value": "Robert Bosch GmbH &lt;Stuttgart&gt; / Geschäftsbereich Photokino"
+        },
+        {
+            "facet_id": 39782,
+            "occurrence": 27,
+            "value": "Zeiss-Ikon-AG &lt;Stuttgart&gt;"
+        },
+        {
+            "facet_id": 23449,
+            "occurrence": 20,
+            "value": "Grundig-Werke GmbH &lt;Fürth&gt;"
+        },
+        {
+            "facet_id": 43468,
+            "occurrence": 20,
+            "value": "Tefi-Apparatebau Dr. Daniel K.G. &lt;Porz&gt;"
+        },
+        {
+            "facet_id": 18896,
+            "occurrence": 19,
+            "value": "unbekannt"
+        },
+        {
+            "facet_id": 9651,
+            "occurrence": 18,
+            "value": "Boos und Hahn Emaillier- und Stanzwerk &lt;Ortenberg, Offenburg&gt;"
+        },
+        {
+            "facet_id": 1268,
+            "occurrence": 15,
+            "value": "Felix-Wankel-Stiftung &lt;Heidelberg&gt;"
+        },
+        {
+            "facet_id": 42188,
+            "occurrence": 14,
+            "value": "Schwarzwälder-Apparate-Bau-Anstalt, August Schwer Söhne GmbH &lt;Villingen&gt;"
+        },
+        {
+            "facet_id": 251582,
+            "occurrence": 14,
+            "value": "C.-Lorenz-Aktiengesellschaft &lt;Stuttgart&gt;"
+        },
+        {
+            "facet_id": 35438,
+            "occurrence": 13,
+            "value": "Melitta-Werke Bentz und Sohn &lt;Minden&gt;"
+        },
+        {
+            "facet_id": 2192,
+            "occurrence": 12,
+            "value": "Philips' Gloeilampenfabrieken NV &lt;Eindhoven&gt;"
+        },
+        {
+            "facet_id": 124160,
+            "occurrence": 11,
+            "value": "Bell and Howell &lt;Chicago, Ill.&gt;"
+        },
+        {
+            "facet_id": 177949,
+            "occurrence": 11,
+            "value": "Max Braun OHG &lt;Frankfurt, Main&gt;"
+        },
+        {
+            "facet_id": 57410,
+            "occurrence": 9,
+            "value": "Perpetuum Ebner - Fabrik für Feinmechanik und Elektrotechnik, Steidinger &amp; Co., KG &lt;Sankt Georgen&gt;"
+        },
+        {
+            "facet_id": 2736,
+            "occurrence": 8,
+            "value": "WEGA-Radio GmbH &lt;Fellbach&gt;"
+        },
+        {
+            "facet_id": 62690,
+            "occurrence": 8,
+            "value": "Blaupunkt-Werke GmbH &lt;Hildesheim&gt;"
+        },
+        {
+            "facet_id": 79191,
+            "occurrence": 8,
+            "value": "Aetz- und Emaillierwerk C. Robert Dold &lt;Offenburg&gt;"
+        },
+        {
+            "facet_id": 218385,
+            "occurrence": 8,
+            "value": "Siemens-und-Halske-Aktiengesellschaft &lt;Berlin, West; München&gt;"
+        },
+        {
+            "facet_id": 390343,
+            "occurrence": 8,
+            "value": "Hotel Lochmühle a. d. Ahr"
+        },
+        {
+            "facet_id": 54130,
+            "occurrence": 7,
+            "value": "Büsing GmbH &lt;Reutlingen&gt;"
+        },
+        {
+            "facet_id": 134350,
+            "occurrence": 7,
+            "value": "Loewe Opta AG &lt;Kronach&gt;"
+        },
+        {
+            "facet_id": 15882,
+            "occurrence": 6,
+            "value": "Ernst Leitz GmbH &lt;Wetzlar&gt;"
+        },
+        {
+            "facet_id": 157673,
+            "occurrence": 6,
+            "value": "Paillard S. A. &lt;Yverdon&gt;"
+        },
+        {
+            "facet_id": 532761,
+            "occurrence": 6,
+            "value": "Telefunken-Gesellschaft für Drahtlose Telegraphie m.b.H. &lt;Berlin, West&gt;"
+        },
+        {
+            "facet_id": 51774,
+            "occurrence": 5,
+            "value": "Siemens-und-Halske-Aktiengesellschaft &lt;Berlin&gt;"
+        },
+        {
+            "facet_id": 88313,
+            "occurrence": 5,
+            "value": "Württembergische Uhrenfabrik Bürk Söhne &lt;Schwenningen am Neckar&gt;"
+        },
+        {
+            "facet_id": 153245,
+            "occurrence": 5,
+            "value": "Telefunken-GmbH &lt;Berlin, West&gt;"
+        },
+        {
+            "facet_id": 255868,
+            "occurrence": 5,
+            "value": "Joh. Jacobs und Co. &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 426576,
+            "occurrence": 5,
+            "value": "Rowenta-Werke GmbH &lt;Offenbach&gt;"
+        },
+        {
+            "facet_id": 27260,
+            "occurrence": 4,
+            "value": "Elektro-Apparate-Fabrik J. Hüngerle KG &lt;Königsfeld&gt;"
+        },
+        {
+            "facet_id": 79916,
+            "occurrence": 4,
+            "value": "Eduscho GmbH und Co. KG &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 99669,
+            "occurrence": 4,
+            "value": "DUAL Gebrüder Steidinger KG &lt;Sankt Georgen&gt;"
+        },
+        {
+            "facet_id": 111605,
+            "occurrence": 4,
+            "value": "Allgemeine Elektricitäts-Gesellschaft &lt;Berlin, West; Frankfurt, Main&gt;"
+        },
+        {
+            "facet_id": 153880,
+            "occurrence": 4,
+            "value": "AEG"
+        },
+        {
+            "facet_id": 213676,
+            "occurrence": 4,
+            "value": "Robert Bosch GmbH &lt;Stuttgart&gt;"
+        },
+        {
+            "facet_id": 235716,
+            "occurrence": 4,
+            "value": "Eduscho-Kaffee-Grossrösterei &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 303902,
+            "occurrence": 4,
+            "value": "G.-Schaub-Apparatebaugesellschaft m.b.H. &lt;Pforzheim&gt;"
+        },
+        {
+            "facet_id": 318651,
+            "occurrence": 4,
+            "value": "Tonfunk GmbH &lt;Karlsruhe&gt;"
+        },
+        {
+            "facet_id": 351943,
+            "occurrence": 4,
+            "value": "Münchner Emaillier- und Stanzwerk GmbH, München"
+        },
+        {
+            "facet_id": 561616,
+            "occurrence": 4,
+            "value": "Wandel-und-Goltermann-KG &lt;Reutlingen&gt;"
+        },
+        {
+            "facet_id": 24699,
+            "occurrence": 3,
+            "value": "Becker Autoradiowerk GmbH &lt;Ittersbach&gt;"
+        },
+        {
+            "facet_id": 49172,
+            "occurrence": 3,
+            "value": "Eastman Kodak Company &lt;Rochester, NY&gt;"
+        },
+        {
+            "facet_id": 123283,
+            "occurrence": 3,
+            "value": "NSU-Motorenwerke &lt;Neckarsulm&gt;"
+        },
+        {
+            "facet_id": 140862,
+            "occurrence": 3,
+            "value": "Agfa-Aktiengesellschaft &lt;Leverkusen&gt;"
+        },
+        {
+            "facet_id": 154989,
+            "occurrence": 3,
+            "value": "Rosenthal"
+        },
+        {
+            "facet_id": 162863,
+            "occurrence": 3,
+            "value": "Foton &lt;München&gt;"
+        },
+        {
+            "facet_id": 184067,
+            "occurrence": 3,
+            "value": "Standard-Elektrik-Lorenz-Aktiengesellschaft &lt;Stuttgart&gt;"
+        },
+        {
+            "facet_id": 201442,
+            "occurrence": 3,
+            "value": "Wilhelm Kaiser KG &lt;Kenzingen&gt;"
+        },
+        {
+            "facet_id": 255905,
+            "occurrence": 3,
+            "value": "Porzellanfabrik Schönwald"
+        },
+        {
+            "facet_id": 259367,
+            "occurrence": 3,
+            "value": "Schildkröt-Kunststoffwerke AG &lt;Mannheim&gt;"
+        },
+        {
+            "facet_id": 335510,
+            "occurrence": 3,
+            "value": "Tchibo, Frisch-Röst-Kaffee AG &lt;Hamburg&gt;"
+        },
+        {
+            "facet_id": 441868,
+            "occurrence": 3,
+            "value": "Leonberger Bausparkasse"
+        },
+        {
+            "facet_id": 449142,
+            "occurrence": 3,
+            "value": "Neckermann-Versand Aktiengesellschaft &lt;Frankfurt, Main&gt;"
+        },
+        {
+            "facet_id": 451003,
+            "occurrence": 3,
+            "value": "Zassenhaus"
+        },
+        {
+            "facet_id": 514542,
+            "occurrence": 3,
+            "value": "Ernst &amp; Wilhelm Bertram &lt;München&gt;"
+        },
+        {
+            "facet_id": 551967,
+            "occurrence": 3,
+            "value": "Revere Camera Co. &lt;Chicago, IL&gt;"
+        },
+        {
+            "facet_id": 572224,
+            "occurrence": 3,
+            "value": "Nescafé"
+        },
+        {
+            "facet_id": 581895,
+            "occurrence": 3,
+            "value": "Original-Hanau-Quarzlampen-GmbH"
+        },
+        {
+            "facet_id": 633247,
+            "occurrence": 3,
+            "value": "Miele &amp; Cie."
+        },
+        {
+            "facet_id": 703065,
+            "occurrence": 3,
+            "value": "Akkord-Radio - Gerätebau A. Jäger &amp; Söhne OHG &lt;Offenbach, Main&gt;"
+        },
+        {
+            "facet_id": 792294,
+            "occurrence": 3,
+            "value": "STAR"
+        },
+        {
+            "facet_id": 1269,
+            "occurrence": 2,
+            "value": "A. W. Faber-Castell &lt;Stein, Nürnberg&gt;"
+        },
+        {
+            "facet_id": 12992,
+            "occurrence": 2,
+            "value": "Schwarzwälder Apparatebauanstalt August Schwer Söhne &lt;Villingen&gt;"
+        },
+        {
+            "facet_id": 28823,
+            "occurrence": 2,
+            "value": "Eugen Bauer GmbH &lt;Stuttgart&gt;"
+        },
+        {
+            "facet_id": 52260,
+            "occurrence": 2,
+            "value": "Dangelmaier &amp; Co. &lt;Reutlingen&gt;"
+        },
+        {
+            "facet_id": 58528,
+            "occurrence": 2,
+            "value": "Agfa-Gevaert-Aktiengesellschaft &lt;Leverkusen&gt; / Camera-Werk &lt;München&gt;"
+        },
+        {
+            "facet_id": 65224,
+            "occurrence": 2,
+            "value": "Sachsenwerk &lt;Niedersedlitz&gt;"
+        },
+        {
+            "facet_id": 78248,
+            "occurrence": 2,
+            "value": "Kuba-Tonmöbel- und Apparatebau &lt;Wolfenbüttel&gt;"
+        },
+        {
+            "facet_id": 84283,
+            "occurrence": 2,
+            "value": "Kunststoff-Museums-Verein e.V. &lt;Düsseldorf&gt;"
+        },
+        {
+            "facet_id": 120107,
+            "occurrence": 2,
+            "value": "Polydor International GmbH &lt;Hamburg&gt;"
+        },
+        {
+            "facet_id": 138892,
+            "occurrence": 2,
+            "value": "Perrot Bremsen GmbH &lt;Mannheim&gt;"
+        },
+        {
+            "facet_id": 167910,
+            "occurrence": 2,
+            "value": "Nürnberg-Schwabacher Nadelfabrik GmbH &lt;Nürnberg&gt;"
+        },
+        {
+            "facet_id": 173725,
+            "occurrence": 2,
+            "value": "Lifa Lichtfilterfabrik &lt;Augsburg&gt;"
+        },
+        {
+            "facet_id": 174947,
+            "occurrence": 2,
+            "value": "Badisches Blechpackungswerk GmbH, Karlsruhe-Knielingen"
+        },
+        {
+            "facet_id": 180795,
+            "occurrence": 2,
+            "value": "Valvo GmbH &lt;Hamburg&gt;"
+        },
+        {
+            "facet_id": 192321,
+            "occurrence": 2,
+            "value": "Eduscho-Kaffee-Tee-Kakao-Import &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 200868,
+            "occurrence": 2,
+            "value": "Osram-Gesellschaft &lt;München; Berlin, West&gt;; Osram-Gesellschaft"
+        },
+        {
+            "facet_id": 208811,
+            "occurrence": 2,
+            "value": "Badenia Bausparkasse &lt;Karlsruhe&gt;"
+        },
+        {
+            "facet_id": 236863,
+            "occurrence": 2,
+            "value": "Porzellanmanufaktur Fürstenberg"
+        },
+        {
+            "facet_id": 248188,
+            "occurrence": 2,
+            "value": "Braunschweiger Belchwarenfabrik"
+        },
+        {
+            "facet_id": 255906,
+            "occurrence": 2,
+            "value": "Kaffee Hag"
+        },
+        {
+            "facet_id": 264699,
+            "occurrence": 2,
+            "value": "Société Anonyme d'Appareillage Radio-Electronique &lt;Paris&gt;"
+        },
+        {
+            "facet_id": 285080,
+            "occurrence": 2,
+            "value": "Josef Six Handschuherzeugung &lt;Plüderhausen&gt;"
+        },
+        {
+            "facet_id": 287233,
+            "occurrence": 2,
+            "value": "Metz-Apparatewerke &lt;Fürth, Bayern&gt;"
+        },
+        {
+            "facet_id": 312533,
+            "occurrence": 2,
+            "value": "Blechwarenfabrik &lt;Limburg, Lahn&gt;"
+        },
+        {
+            "facet_id": 366250,
+            "occurrence": 2,
+            "value": "Gossen GmbH Meß- und Regeltechnik &lt;Erlangen&gt;"
+        },
+        {
+            "facet_id": 370512,
+            "occurrence": 2,
+            "value": "Bausparkasse Gemeinschaft der Freunde Wüstenrot &lt;Ludwigsburg&gt;"
+        },
+        {
+            "facet_id": 383114,
+            "occurrence": 2,
+            "value": "Tchibo, Frisch-Röst-Kaffee Max Herz &lt;Hamburg&gt;"
+        },
+        {
+            "facet_id": 390344,
+            "occurrence": 2,
+            "value": "Württembergische Metallwarenfabrik &lt;Geislingen, Steige&gt;"
+        },
+        {
+            "facet_id": 402971,
+            "occurrence": 2,
+            "value": "VEB Feingerätewerk &lt;Weimar&gt;"
+        },
+        {
+            "facet_id": 413269,
+            "occurrence": 2,
+            "value": "Geska"
+        },
+        {
+            "facet_id": 416267,
+            "occurrence": 2,
+            "value": "Max Ihle Büromaschinen-Apparatebau &lt;Kulmbach&gt;"
+        },
+        {
+            "facet_id": 419734,
+            "occurrence": 2,
+            "value": "Emaillierwerk Haselbacher &amp; Co. &lt;Hannover&gt;"
+        },
+        {
+            "facet_id": 455328,
+            "occurrence": 2,
+            "value": "Deutsche Veedol &lt;Hamburg&gt;"
+        },
+        {
+            "facet_id": 490640,
+            "occurrence": 2,
+            "value": "Körting Radio Werke Oswald Ritter GmbH &lt;Grassau&gt;"
+        },
+        {
+            "facet_id": 493208,
+            "occurrence": 2,
+            "value": "Norddeutsche Mende-Rundfunk GmbH &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 510563,
+            "occurrence": 2,
+            "value": "Jacobs Kaffee &lt;Bremen&gt;"
+        },
+        {
+            "facet_id": 519248,
+            "occurrence": 2,
+            "value": "Porzellanfabrik Neuerer KG"
+        }
+    ]
+}

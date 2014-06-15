@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61907",
+    "affiliate_facet_id": 16573,
+    "affiliate_facet": "Großherzogliches Justizdepartement, Lehenhof",
+    "occurrence": 1891,
+    "affiliates": [
+        {
+            "facet_id": 16573,
+            "occurrence": 258,
+            "value": "Rösl"
+        },
+        {
+            "facet_id": 14251,
+            "occurrence": 31,
+            "value": "Buchner, Johann Andreas (1783-1852)"
+        },
+        {
+            "facet_id": 6943,
+            "occurrence": 30,
+            "value": "Weißbrod, Johann Baptist von (1778-1865)"
+        },
+        {
+            "facet_id": 10629,
+            "occurrence": 18,
+            "value": "Röschlaub, Andreas (1768-1835)"
+        },
+        {
+            "facet_id": 39930,
+            "occurrence": 10,
+            "value": "Ringseis, Johann Nepomuk von (1785-1880)"
+        },
+        {
+            "facet_id": 22044,
+            "occurrence": 9,
+            "value": "Döllinger, Ignaz (1770-1841)"
+        },
+        {
+            "facet_id": 446910,
+            "occurrence": 9,
+            "value": "Privat-Heil-Anstalt für Augenkranke (München)"
+        },
+        {
+            "facet_id": 7366,
+            "occurrence": 4,
+            "value": "Hauber, Johann Michael (1778-1843)"
+        },
+        {
+            "facet_id": 16074,
+            "occurrence": 4,
+            "value": "Bayern / Ständeversammlung"
+        },
+        {
+            "facet_id": 36767,
+            "occurrence": 3,
+            "value": "Ellmenreich, Friederike (1775-1845)"
+        },
+        {
+            "facet_id": 51081,
+            "occurrence": 3,
+            "value": "Schultz-Schultzenstein, Karl Heinrich (1798-1871)"
+        },
+        {
+            "facet_id": 66872,
+            "occurrence": 3,
+            "value": "Halévy, Fromental (1799-1862)"
+        },
+        {
+            "facet_id": 231096,
+            "occurrence": 3,
+            "value": "Hornstein, Johann David"
+        },
+        {
+            "facet_id": 287775,
+            "occurrence": 3,
+            "value": "Jall, Eugen"
+        },
+        {
+            "facet_id": 561096,
+            "occurrence": 3,
+            "value": "Petz, Jacob"
+        },
+        {
+            "facet_id": 779199,
+            "occurrence": 3,
+            "value": "Lutz, Emanuel"
+        },
+        {
+            "facet_id": 1676,
+            "occurrence": 2,
+            "value": "Lamartine, Alphonse de (1790-1869)"
+        },
+        {
+            "facet_id": 4629,
+            "occurrence": 2,
+            "value": "Liguori, Alfonso Maria de' (1696-1787)"
+        },
+        {
+            "facet_id": 9631,
+            "occurrence": 2,
+            "value": "Bellini, Vincenzo (1801-1835)"
+        },
+        {
+            "facet_id": 9632,
+            "occurrence": 2,
+            "value": "Romani, Felice (1788-1865)"
+        },
+        {
+            "facet_id": 13299,
+            "occurrence": 2,
+            "value": "Schafhäutl, Karl Emil von (1803-1890)"
+        },
+        {
+            "facet_id": 22828,
+            "occurrence": 2,
+            "value": "Poißl, Johann Nepomuk von (1783-1865)"
+        },
+        {
+            "facet_id": 24618,
+            "occurrence": 2,
+            "value": "Utzschneider, Joseph von (1763-1840)"
+        },
+        {
+            "facet_id": 31970,
+            "occurrence": 2,
+            "value": "Ferchl, Franz Maria (1792-1862)"
+        },
+        {
+            "facet_id": 42913,
+            "occurrence": 2,
+            "value": "Söltl, Johann Michael von (1797-1888)"
+        },
+        {
+            "facet_id": 52187,
+            "occurrence": 2,
+            "value": "Lautenschlager, Ottmar"
+        },
+        {
+            "facet_id": 52990,
+            "occurrence": 2,
+            "value": "Gistel, Johannes (1809-1873)"
+        },
+        {
+            "facet_id": 61384,
+            "occurrence": 2,
+            "value": "Loé, Carl von"
+        },
+        {
+            "facet_id": 110335,
+            "occurrence": 2,
+            "value": "Cornelius, Peter von (1783-1867)"
+        },
+        {
+            "facet_id": 173413,
+            "occurrence": 2,
+            "value": "Ott, ..."
+        },
+        {
+            "facet_id": 187603,
+            "occurrence": 2,
+            "value": "Horn, Maximilian Joseph (um 1838)"
+        },
+        {
+            "facet_id": 206130,
+            "occurrence": 2,
+            "value": "Brulliot, Franz (1780-1836)"
+        },
+        {
+            "facet_id": 239881,
+            "occurrence": 2,
+            "value": "Schoop, Augustin"
+        },
+        {
+            "facet_id": 245660,
+            "occurrence": 2,
+            "value": "Stockhammern, Karl M. von"
+        },
+        {
+            "facet_id": 281654,
+            "occurrence": 2,
+            "value": "Schiblsberger, Martin"
+        },
+        {
+            "facet_id": 332969,
+            "occurrence": 2,
+            "value": "Gundermann, Joseph Ignaz"
+        },
+        {
+            "facet_id": 390015,
+            "occurrence": 2,
+            "value": "Schmidt, Johann Baptist (um 1847)"
+        },
+        {
+            "facet_id": 402965,
+            "occurrence": 2,
+            "value": "Perner, Ignaz (1796-1867)"
+        },
+        {
+            "facet_id": 433548,
+            "occurrence": 2,
+            "value": "Industrie-Ausstellung <1834, München>"
+        },
+        {
+            "facet_id": 453595,
+            "occurrence": 2,
+            "value": "Herold, Hieronymus (um 1836)"
+        },
+        {
+            "facet_id": 455654,
+            "occurrence": 2,
+            "value": "Meinel, Carl August"
+        },
+        {
+            "facet_id": 479349,
+            "occurrence": 2,
+            "value": "Brunner, Heinrich"
+        },
+        {
+            "facet_id": 484904,
+            "occurrence": 2,
+            "value": "Dorfmeister, Franz Xaver"
+        },
+        {
+            "facet_id": 599525,
+            "occurrence": 2,
+            "value": "Keim, Joseph Wilhelm August"
+        },
+        {
+            "facet_id": 614464,
+            "occurrence": 2,
+            "value": "Summer, Stephan"
+        },
+        {
+            "facet_id": 653122,
+            "occurrence": 2,
+            "value": "Sigmund, Joseph Hugo (1820-1901)"
+        },
+        {
+            "facet_id": 872261,
+            "occurrence": 2,
+            "value": "Schönhueb, Carl von (um 1847)"
+        },
+        {
+            "facet_id": 877514,
+            "occurrence": 2,
+            "value": "Zimmermann, Clemens von (1788-1869)"
+        },
+        {
+            "facet_id": 1087,
+            "occurrence": 1,
+            "value": "Beethoven, Ludwig van (1770-1827)"
+        },
+        {
+            "facet_id": 4005,
+            "occurrence": 1,
+            "value": "Caesar, Gaius Iulius (v100-v44)"
+        },
+        {
+            "facet_id": 7447,
+            "occurrence": 1,
+            "value": "Marschner, Heinrich (1795-1861)"
+        },
+        {
+            "facet_id": 8222,
+            "occurrence": 1,
+            "value": "Martius, Carl Friedrich Philipp von (1794-1868)"
+        },
+        {
+            "facet_id": 9843,
+            "occurrence": 1,
+            "value": "Tauscheck, Andreas"
+        },
+        {
+            "facet_id": 15831,
+            "occurrence": 1,
+            "value": "Winkelhofer, Sebastian (1743-1806)"
+        },
+        {
+            "facet_id": 25024,
+            "occurrence": 1,
+            "value": "Musikalische Akademie (München)"
+        },
+        {
+            "facet_id": 28711,
+            "occurrence": 1,
+            "value": "Wohlbrück, Wilhelm August (1796-1861)"
+        },
+        {
+            "facet_id": 37773,
+            "occurrence": 1,
+            "value": "Schmid, Georg"
+        },
+        {
+            "facet_id": 40975,
+            "occurrence": 1,
+            "value": "Payr, Ludwig"
+        },
+        {
+            "facet_id": 43345,
+            "occurrence": 1,
+            "value": "Teichlein, Maximilian"
+        },
+        {
+            "facet_id": 48270,
+            "occurrence": 1,
+            "value": "Reubel, Joseph (1780-1852)"
+        },
+        {
+            "facet_id": 52735,
+            "occurrence": 1,
+            "value": "Gehe, Eduard Heinrich (1793-1850)"
+        },
+        {
+            "facet_id": 68845,
+            "occurrence": 1,
+            "value": "Hefner, Joseph von (1799-1862)"
+        },
+        {
+            "facet_id": 84612,
+            "occurrence": 1,
+            "value": "Müllbaur, August"
+        },
+        {
+            "facet_id": 87218,
+            "occurrence": 1,
+            "value": "Strauß, Bernhard"
+        },
+        {
+            "facet_id": 87826,
+            "occurrence": 1,
+            "value": "Mittermaier, Carl Joseph Anton (1787-1867)"
+        },
+        {
+            "facet_id": 93324,
+            "occurrence": 1,
+            "value": "Pechmann, Heinrich von (1774-1861)"
+        },
+        {
+            "facet_id": 103858,
+            "occurrence": 1,
+            "value": "Schlagintweit, Eduard Michael"
+        },
+        {
+            "facet_id": 107961,
+            "occurrence": 1,
+            "value": "Schlichtegroll, Nathanael von (1794-1859)"
+        },
+        {
+            "facet_id": 114271,
+            "occurrence": 1,
+            "value": "Schwäbl, Franz Xaver (1778-1841)"
+        },
+        {
+            "facet_id": 141595,
+            "occurrence": 1,
+            "value": "Görres, Guido (1805-1852)"
+        },
+        {
+            "facet_id": 157481,
+            "occurrence": 1,
+            "value": "Beyschlag, Friedrich (1872-1928)"
+        },
+        {
+            "facet_id": 159871,
+            "occurrence": 1,
+            "value": "Schubert, Heinrich"
+        },
+        {
+            "facet_id": 163298,
+            "occurrence": 1,
+            "value": "Huber, Franz Xaver (1755-1814)"
+        },
+        {
+            "facet_id": 166726,
+            "occurrence": 1,
+            "value": "Chelard, Hippolyte-André-Jean-Baptiste (1789-1861)"
+        },
+        {
+            "facet_id": 196611,
+            "occurrence": 1,
+            "value": "Schlagintweit, Adolf (1829-1857)"
+        },
+        {
+            "facet_id": 197752,
+            "occurrence": 1,
+            "value": "Rosenkrantz, Wilhelm Martin Joachim (1821-1874)"
+        },
+        {
+            "facet_id": 202693,
+            "occurrence": 1,
+            "value": "Frey, Martin"
+        },
+        {
+            "facet_id": 203920,
+            "occurrence": 1,
+            "value": "Erhard, Franz Xaver"
+        },
+        {
+            "facet_id": 204507,
+            "occurrence": 1,
+            "value": "Schallhammer, Friedrich"
+        },
+        {
+            "facet_id": 207861,
+            "occurrence": 1,
+            "value": "Gesellschaft des Frohsinns (München)"
+        },
+        {
+            "facet_id": 209524,
+            "occurrence": 1,
+            "value": "Schlagintweit, Hermann von (1826-1882)"
+        },
+        {
+            "facet_id": 224222,
+            "occurrence": 1,
+            "value": "Paur, Franz Seraph"
+        },
+        {
+            "facet_id": 243573,
+            "occurrence": 1,
+            "value": "Stürzer, Joseph (1776-1837)"
+        },
+        {
+            "facet_id": 280746,
+            "occurrence": 1,
+            "value": "Mayer, Max Theodor (1817-1886)"
+        },
+        {
+            "facet_id": 283645,
+            "occurrence": 1,
+            "value": "Trättenbacher, Matthäus"
+        },
+        {
+            "facet_id": 289091,
+            "occurrence": 1,
+            "value": "Plank, Joseph"
+        },
+        {
+            "facet_id": 313245,
+            "occurrence": 1,
+            "value": "Wenzl, Johann Baptist"
+        },
+        {
+            "facet_id": 369173,
+            "occurrence": 1,
+            "value": "Grandaur, Franz (1822-1896)"
+        },
+        {
+            "facet_id": 400261,
+            "occurrence": 1,
+            "value": "Haltmeyer, Benedikt"
+        },
+        {
+            "facet_id": 403800,
+            "occurrence": 1,
+            "value": "Di Ferrer, Giuseppe"
+        },
+        {
+            "facet_id": 405903,
+            "occurrence": 1,
+            "value": "Mannheimer, Moritz"
+        },
+        {
+            "facet_id": 410623,
+            "occurrence": 1,
+            "value": "Zech, Johann Nepomuck"
+        },
+        {
+            "facet_id": 415718,
+            "occurrence": 1,
+            "value": "Brennhofer, Ignaz"
+        },
+        {
+            "facet_id": 439838,
+            "occurrence": 1,
+            "value": "Widtmann, Joseph"
+        },
+        {
+            "facet_id": 455068,
+            "occurrence": 1,
+            "value": "Wertheimer, Leopold"
+        },
+        {
+            "facet_id": 455073,
+            "occurrence": 1,
+            "value": "Acher, Anton (um 1837)"
+        },
+        {
+            "facet_id": 481472,
+            "occurrence": 1,
+            "value": "Rädlinger, Johann M."
+        },
+        {
+            "facet_id": 502743,
+            "occurrence": 1,
+            "value": "Obermüller, Joseph E."
+        },
+        {
+            "facet_id": 509010,
+            "occurrence": 1,
+            "value": "Reder, Anton"
+        },
+        {
+            "facet_id": 523433,
+            "occurrence": 1,
+            "value": "Leibl, Karl"
+        }
+    ]
+}

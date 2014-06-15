@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 17,
+    "time_fct": "time_62090",
+    "affiliate_fct_id": 4314,
+    "affiliate_fct": "Frisörmuseum",
+    "affiliate_fct_occurrence": 234,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 4314,
+            "affiliate_fct": "Frisörmuseum",
+            "affiliate_fct_occurrence": 234
+        },
+        {
+            "affiliate_fct_id": 7886,
+            "affiliate_fct": "Unbekannt",
+            "affiliate_fct_occurrence": 43
+        },
+        {
+            "affiliate_fct_id": 15380,
+            "affiliate_fct": "Wella AG",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 174732,
+            "affiliate_fct": "Wella AG, Darmstadt",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 156324,
+            "affiliate_fct": "L´Oreal",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 35324,
+            "affiliate_fct": "Beiersdorf AG, Hamburg",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 115410,
+            "affiliate_fct": "Tondeo Werke, Solingen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 67901,
+            "affiliate_fct": "HANS SCHWARZKOPF GMBH; HAMBURG",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 215319,
+            "affiliate_fct": "Internationale Frisörvereinigung",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 253548,
+            "affiliate_fct": "HANS SCHWARZKOPF GmbH Hamburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 13322,
+            "affiliate_fct": "Mülhens, Ferdinand",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 37754,
+            "affiliate_fct": "Zopf, Heinz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 127567,
+            "affiliate_fct": "New-York Hamburger Gummi-Waaren Compagnie...",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 362056,
+            "affiliate_fct": "Friseur-Innung Eckernförde",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 662898,
+            "affiliate_fct": "Museum für Kunst und Gewerbe Hamburg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 37557,
+            "affiliate_fct": "Dovo-Stahlwaren Bracht GmbH &amp; Co. KG,",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 132155,
+            "affiliate_fct": "Frisörinnung Eckernförde,",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 188144,
+            "affiliate_fct": "Johnson + Johnson",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 260781,
+            "affiliate_fct": "Braun GmbH, Kronberg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 266351,
+            "affiliate_fct": "New-York Hamburger Gummi-Waren Compagnie...",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 293118,
+            "affiliate_fct": "Joop",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 320906,
+            "affiliate_fct": "Lorenzen, Walter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 432669,
+            "affiliate_fct": "Handwerk und Technik",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 744502,
+            "affiliate_fct": "Deutsches Historisches Museum",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4313,
+            "affiliate_fct": "Zentralverband des Deutschen Frisörhandwerks",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26219,
+            "affiliate_fct": "Schwarzkopf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27860,
+            "affiliate_fct": "Henkel Düsseldorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 55179,
+            "affiliate_fct": "Schwarzkopf &amp; Henkel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68525,
+            "affiliate_fct": "CARTOONVERLAG Hösbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70921,
+            "affiliate_fct": "Städelsches Kunstinstitut Frankfurt/M.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115372,
+            "affiliate_fct": "Babyliss",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 118802,
+            "affiliate_fct": "div. Druckereien",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130385,
+            "affiliate_fct": "Mäurer+ Wirtz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132270,
+            "affiliate_fct": "Eulenspiegel Verlag Berlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 134536,
+            "affiliate_fct": "Postens Tryckeri 1985",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 154917,
+            "affiliate_fct": "Coco Chanel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187528,
+            "affiliate_fct": "Alcina Cosmetic, Dr. K. Wolff",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 190348,
+            "affiliate_fct": "AVON Cosmetics",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 202103,
+            "affiliate_fct": "Deutsche PHILIPS GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 206916,
+            "affiliate_fct": "AZUSA, Denver, Col.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 226325,
+            "affiliate_fct": "LAB. R.P.L.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 233323,
+            "affiliate_fct": "Staatliche Kunstmuseen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257924,
+            "affiliate_fct": "KAIN KARAWAHN",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272201,
+            "affiliate_fct": "CHICOGO GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278938,
+            "affiliate_fct": "Goldwell AG, Darmstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 282105,
+            "affiliate_fct": "Colgate Palmolive Peet AB",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 287317,
+            "affiliate_fct": "Handwerkskammer Potsdam",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289115,
+            "affiliate_fct": "Statens konstmuseer©",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 305727,
+            "affiliate_fct": "Beecham Cazé, Paris",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 312781,
+            "affiliate_fct": "JADE",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 315840,
+            "affiliate_fct": "Noname, NN",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 337771,
+            "affiliate_fct": "Rossmann KG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 340075,
+            "affiliate_fct": "Liela",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 371542,
+            "affiliate_fct": "GAVEL, Köln",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 372104,
+            "affiliate_fct": "NN, Solingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 373547,
+            "affiliate_fct": "Remington",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379440,
+            "affiliate_fct": "Frisörinnung Hamburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 387518,
+            "affiliate_fct": "SINCAL",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 414351,
+            "affiliate_fct": "Eicker &amp; Söhne, H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 418663,
+            "affiliate_fct": "AB C O Ekblad &amp; Co",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 427941,
+            "affiliate_fct": "TOGAL-Werk München",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 430334,
+            "affiliate_fct": "Triumph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 430493,
+            "affiliate_fct": "Friseurinnung Hamburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 433788,
+            "affiliate_fct": "EDITION SCHANGRILA",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 446058,
+            "affiliate_fct": "Verlag B.G. Teubner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 455854,
+            "affiliate_fct": "Lionesse collection",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 462724,
+            "affiliate_fct": "Berliner Museen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471403,
+            "affiliate_fct": "FO Marketing GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487663,
+            "affiliate_fct": "© Flashcards printing",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 511182,
+            "affiliate_fct": "Braun GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 521074,
+            "affiliate_fct": "WORCESTER REAGING CO., AUBURN/MA",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 560982,
+            "affiliate_fct": "Lady Manhattan Cosmetics GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 561953,
+            "affiliate_fct": "Wilkinson,",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 595203,
+            "affiliate_fct": "British Airways",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 677158,
+            "affiliate_fct": "KMG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 686390,
+            "affiliate_fct": "WYNDHAM",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 695409,
+            "affiliate_fct": "Matador",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 711734,
+            "affiliate_fct": "Schwartz, Daniel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 728507,
+            "affiliate_fct": "Sachse, Klaus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 745748,
+            "affiliate_fct": "von Zabern, Philipp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 753746,
+            "affiliate_fct": "Delfts Blauw",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 766972,
+            "affiliate_fct": "Anastasiadis, J.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 800582,
+            "affiliate_fct": "Emotifs, Utrecht",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 807190,
+            "affiliate_fct": "This Erdition © IRIS Publishing Ltd.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 828492,
+            "affiliate_fct": "M.W. CARMICHAEL; London, M. W.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 872656,
+            "affiliate_fct": "LOHMANN GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 873112,
+            "affiliate_fct": "Ultraförlaget AB, Stockholm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 876198,
+            "affiliate_fct": "Lingner + Fischer, 758o Bühl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 884537,
+            "affiliate_fct": "DDR Modekommission für Friseure u. Kosmetiker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 894442,
+            "affiliate_fct": "CLIPS Verlag (Wella)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 907014,
+            "affiliate_fct": "Michel + Co.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 910070,
+            "affiliate_fct": "henkel kosmetik",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 917699,
+            "affiliate_fct": "Goldwell GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 918276,
+            "affiliate_fct": "© Staatliche Sammlung ?„gyptischer Kunst München",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 921073,
+            "affiliate_fct": "Verlagsgesellschaft Rudolf MÜLLER",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 922851,
+            "affiliate_fct": "PGH EMVT",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 935968,
+            "affiliate_fct": "Gigli, Romeo",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 937901,
+            "affiliate_fct": "Henschel Verlag Berlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 947632,
+            "affiliate_fct": "NIVEA AKTIEBOLAG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 960175,
+            "affiliate_fct": "Dr. Alfred Hüthig Verlag Heidelberg",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

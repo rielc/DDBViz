@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 2831,
+    "affiliate_facet": "Forstamt Eppingen",
+    "occurrence": 268,
+    "affiliates": [
+        {
+            "facet_id": 2831,
+            "occurrence": 272,
+            "value": "Zentralstelle für Gewerbe und Handel in Stuttgart (1848-1920)"
+        },
+        {
+            "facet_id": 159704,
+            "occurrence": 4,
+            "value": "Liebheit"
+        },
+        {
+            "facet_id": 159706,
+            "occurrence": 4,
+            "value": "Thiessen"
+        },
+        {
+            "facet_id": 27490,
+            "occurrence": 3,
+            "value": "Schönberg; von"
+        },
+        {
+            "facet_id": 36523,
+            "occurrence": 2,
+            "value": "Fuchs"
+        },
+        {
+            "facet_id": 148533,
+            "occurrence": 2,
+            "value": "Kohlhammer; W."
+        },
+        {
+            "facet_id": 537397,
+            "occurrence": 2,
+            "value": "Pecoroni; Karl Eugen"
+        },
+        {
+            "facet_id": 537399,
+            "occurrence": 2,
+            "value": "Seifriz; Franz"
+        },
+        {
+            "facet_id": 537400,
+            "occurrence": 2,
+            "value": "Soden; Theodor von"
+        },
+        {
+            "facet_id": 5396,
+            "occurrence": 1,
+            "value": "Schmidt"
+        },
+        {
+            "facet_id": 7254,
+            "occurrence": 1,
+            "value": "Hauser"
+        },
+        {
+            "facet_id": 9557,
+            "occurrence": 1,
+            "value": "Bauer"
+        },
+        {
+            "facet_id": 9707,
+            "occurrence": 1,
+            "value": "Huber"
+        },
+        {
+            "facet_id": 15770,
+            "occurrence": 1,
+            "value": "Klemm"
+        },
+        {
+            "facet_id": 21462,
+            "occurrence": 1,
+            "value": "Wirth"
+        },
+        {
+            "facet_id": 29287,
+            "occurrence": 1,
+            "value": "Stämpfli"
+        },
+        {
+            "facet_id": 31501,
+            "occurrence": 1,
+            "value": "Karow"
+        },
+        {
+            "facet_id": 35963,
+            "occurrence": 1,
+            "value": "Nebel"
+        },
+        {
+            "facet_id": 41937,
+            "occurrence": 1,
+            "value": "Falter"
+        },
+        {
+            "facet_id": 43107,
+            "occurrence": 1,
+            "value": "Ott"
+        },
+        {
+            "facet_id": 45966,
+            "occurrence": 1,
+            "value": "Cailloud; A."
+        },
+        {
+            "facet_id": 45967,
+            "occurrence": 1,
+            "value": "Kubina; J."
+        },
+        {
+            "facet_id": 45968,
+            "occurrence": 1,
+            "value": "Lempp; F."
+        },
+        {
+            "facet_id": 45969,
+            "occurrence": 1,
+            "value": "Rudolph; B."
+        },
+        {
+            "facet_id": 45970,
+            "occurrence": 1,
+            "value": "Schardin; G."
+        },
+        {
+            "facet_id": 45971,
+            "occurrence": 1,
+            "value": "Schmidt; K."
+        },
+        {
+            "facet_id": 45972,
+            "occurrence": 1,
+            "value": "Senfft; K."
+        },
+        {
+            "facet_id": 57549,
+            "occurrence": 1,
+            "value": "Behrend"
+        },
+        {
+            "facet_id": 66866,
+            "occurrence": 1,
+            "value": "Ostertag"
+        },
+        {
+            "facet_id": 73828,
+            "occurrence": 1,
+            "value": "Singer"
+        },
+        {
+            "facet_id": 78458,
+            "occurrence": 1,
+            "value": "Schirmer"
+        },
+        {
+            "facet_id": 86427,
+            "occurrence": 1,
+            "value": "Gaupp"
+        },
+        {
+            "facet_id": 92024,
+            "occurrence": 1,
+            "value": "Vetter"
+        },
+        {
+            "facet_id": 140071,
+            "occurrence": 1,
+            "value": "Schienle"
+        },
+        {
+            "facet_id": 140072,
+            "occurrence": 1,
+            "value": "Schumm"
+        },
+        {
+            "facet_id": 159703,
+            "occurrence": 1,
+            "value": "Hermann; H.S."
+        },
+        {
+            "facet_id": 159705,
+            "occurrence": 1,
+            "value": "Springer; Julius"
+        },
+        {
+            "facet_id": 184861,
+            "occurrence": 1,
+            "value": "Krimmel"
+        },
+        {
+            "facet_id": 195353,
+            "occurrence": 1,
+            "value": "Wiedemann (Wiedmann); von"
+        },
+        {
+            "facet_id": 242747,
+            "occurrence": 1,
+            "value": "Lang; Eduard"
+        },
+        {
+            "facet_id": 282636,
+            "occurrence": 1,
+            "value": "Bofinger"
+        },
+        {
+            "facet_id": 349172,
+            "occurrence": 1,
+            "value": "Steinbeis; Ferdinand von"
+        },
+        {
+            "facet_id": 350596,
+            "occurrence": 1,
+            "value": "Fehling; von"
+        },
+        {
+            "facet_id": 350597,
+            "occurrence": 1,
+            "value": "Häußermann; C. von"
+        },
+        {
+            "facet_id": 350598,
+            "occurrence": 1,
+            "value": "Hell"
+        },
+        {
+            "facet_id": 350599,
+            "occurrence": 1,
+            "value": "Marx; von"
+        },
+        {
+            "facet_id": 386375,
+            "occurrence": 1,
+            "value": "Junghans"
+        },
+        {
+            "facet_id": 434428,
+            "occurrence": 1,
+            "value": "Kress; F."
+        },
+        {
+            "facet_id": 438794,
+            "occurrence": 1,
+            "value": "Wittwer; Konrad"
+        },
+        {
+            "facet_id": 462696,
+            "occurrence": 1,
+            "value": "Preiser"
+        },
+        {
+            "facet_id": 484114,
+            "occurrence": 1,
+            "value": "Pazaurek"
+        },
+        {
+            "facet_id": 490254,
+            "occurrence": 1,
+            "value": "Jobst; Julius von"
+        },
+        {
+            "facet_id": 493787,
+            "occurrence": 1,
+            "value": "Halbach; Louis"
+        },
+        {
+            "facet_id": 493788,
+            "occurrence": 1,
+            "value": "Heyde; von der"
+        },
+        {
+            "facet_id": 493789,
+            "occurrence": 1,
+            "value": "Soeding; Julius"
+        },
+        {
+            "facet_id": 523255,
+            "occurrence": 1,
+            "value": "Magirus; C.D."
+        },
+        {
+            "facet_id": 524083,
+            "occurrence": 1,
+            "value": "Vischer; Ludwig"
+        },
+        {
+            "facet_id": 537398,
+            "occurrence": 1,
+            "value": "Rößler; Max"
+        },
+        {
+            "facet_id": 579217,
+            "occurrence": 1,
+            "value": "Abel; Gustav"
+        },
+        {
+            "facet_id": 611497,
+            "occurrence": 1,
+            "value": "Klodt"
+        },
+        {
+            "facet_id": 680238,
+            "occurrence": 1,
+            "value": "Bresamer; A."
+        },
+        {
+            "facet_id": 680239,
+            "occurrence": 1,
+            "value": "Veigele; P."
+        },
+        {
+            "facet_id": 729052,
+            "occurrence": 1,
+            "value": "Grüninger; Carl"
+        },
+        {
+            "facet_id": 811201,
+            "occurrence": 1,
+            "value": "Lanz; Heinrich"
+        },
+        {
+            "facet_id": 817908,
+            "occurrence": 1,
+            "value": "Bätzner; Wilhelm"
+        },
+        {
+            "facet_id": 817909,
+            "occurrence": 1,
+            "value": "Baur; Karl Wilhelm"
+        },
+        {
+            "facet_id": 817910,
+            "occurrence": 1,
+            "value": "Behrend; Gerhard"
+        },
+        {
+            "facet_id": 817911,
+            "occurrence": 1,
+            "value": "Bockshammer; Otto"
+        },
+        {
+            "facet_id": 817912,
+            "occurrence": 1,
+            "value": "Cranz; Carl"
+        },
+        {
+            "facet_id": 817913,
+            "occurrence": 1,
+            "value": "Diefenbach; Julius"
+        },
+        {
+            "facet_id": 817914,
+            "occurrence": 1,
+            "value": "Dolmetsch"
+        },
+        {
+            "facet_id": 817915,
+            "occurrence": 1,
+            "value": "Gärttner; Oskar Wilhelm"
+        },
+        {
+            "facet_id": 817916,
+            "occurrence": 1,
+            "value": "Gaupp; Robert von"
+        },
+        {
+            "facet_id": 817917,
+            "occurrence": 1,
+            "value": "Luz; Karl"
+        },
+        {
+            "facet_id": 817918,
+            "occurrence": 1,
+            "value": "Oettinger; Adolf Ludwig"
+        },
+        {
+            "facet_id": 817919,
+            "occurrence": 1,
+            "value": "Pfleiderer; Paul Adolph"
+        },
+        {
+            "facet_id": 817920,
+            "occurrence": 1,
+            "value": "Sautter; Johann von"
+        },
+        {
+            "facet_id": 817921,
+            "occurrence": 1,
+            "value": "Schuster; Felix"
+        },
+        {
+            "facet_id": 818414,
+            "occurrence": 1,
+            "value": "Oetinger"
+        },
+        {
+            "facet_id": 830510,
+            "occurrence": 1,
+            "value": "Deuble"
+        },
+        {
+            "facet_id": 830511,
+            "occurrence": 1,
+            "value": "Lüttgering"
+        },
+        {
+            "facet_id": 830512,
+            "occurrence": 1,
+            "value": "Oetinger; A.G."
+        },
+        {
+            "facet_id": 830513,
+            "occurrence": 1,
+            "value": "Oetinger; G.F."
+        },
+        {
+            "facet_id": 852416,
+            "occurrence": 1,
+            "value": "Duttenhofer; M."
+        },
+        {
+            "facet_id": 858017,
+            "occurrence": 1,
+            "value": "Lautenschlager; Karl"
+        },
+        {
+            "facet_id": 858018,
+            "occurrence": 1,
+            "value": "Nick; Max"
+        },
+        {
+            "facet_id": 858019,
+            "occurrence": 1,
+            "value": "Schmucker; Karl"
+        },
+        {
+            "facet_id": 858020,
+            "occurrence": 1,
+            "value": "Seitz; Friedrich Hugo"
+        },
+        {
+            "facet_id": 858021,
+            "occurrence": 1,
+            "value": "Steiff; Albert"
+        },
+        {
+            "facet_id": 858022,
+            "occurrence": 1,
+            "value": "Stier; Julius"
+        },
+        {
+            "facet_id": 858023,
+            "occurrence": 1,
+            "value": "Vöhringer; Eduard"
+        },
+        {
+            "facet_id": 858024,
+            "occurrence": 1,
+            "value": "Zimmermann; Eugen"
+        },
+        {
+            "facet_id": 884573,
+            "occurrence": 1,
+            "value": "Meuth; Hermann"
+        },
+        {
+            "facet_id": 902846,
+            "occurrence": 1,
+            "value": "Stehle; Ottmar"
+        },
+        {
+            "facet_id": 911260,
+            "occurrence": 1,
+            "value": "Abt; Lorenz"
+        },
+        {
+            "facet_id": 911261,
+            "occurrence": 1,
+            "value": "Baer; Louis"
+        },
+        {
+            "facet_id": 911262,
+            "occurrence": 1,
+            "value": "Dinkelacker; Christian Friedrich"
+        },
+        {
+            "facet_id": 911263,
+            "occurrence": 1,
+            "value": "Grauer; Moritz"
+        },
+        {
+            "facet_id": 911264,
+            "occurrence": 1,
+            "value": "Höhn; Friedrich"
+        },
+        {
+            "facet_id": 917422,
+            "occurrence": 1,
+            "value": "Heffter; Hugo O."
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 22,
+    "time_fct": "time_61545",
+    "affiliate_fct_id": 276,
+    "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+    "affiliate_fct_occurrence": 158,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 158
+        },
+        {
+            "affiliate_fct_id": 27492,
+            "affiliate_fct": "Cicero, Quintus Tullius (102-43 v. Chr.)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 25320,
+            "affiliate_fct": "Marso, Pietro (1442-1510)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 25897,
+            "affiliate_fct": "Bonus <Accursius> (ca. gest. 1485)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 25899,
+            "affiliate_fct": "Hubertinus <Crescentinas> (1405-1500)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 202141,
+            "affiliate_fct": "Gonzaga, Francesco",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 2794,
+            "affiliate_fct": "Sallustius Crispus, Gaius (v86-v34)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 22362,
+            "affiliate_fct": "Baptista de Tortis",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 7815,
+            "affiliate_fct": "Pomponius Laetus, Iulius (1428-1497)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 68774,
+            "affiliate_fct": "Platinus, Petrus Antonius (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 25900,
+            "affiliate_fct": "Filetico, Martino (1430-1490)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 46745,
+            "affiliate_fct": "Turrianus, Johannes Franciscus (ca. 15./16. Jh.)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 23557,
+            "affiliate_fct": "[Martin Landsberg]",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 37229,
+            "affiliate_fct": "Omnibonus <Leonicenus> (1412-1474)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 25898,
+            "affiliate_fct": "Georgius <Merula> (-1494)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 63595,
+            "affiliate_fct": "Bazalerius de Bazaleriis",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 72488,
+            "affiliate_fct": "Simon Bevilaqua",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 92067,
+            "affiliate_fct": "[Philippus Pincius]",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 92068,
+            "affiliate_fct": "Maffeius, Augustinus (1431-1496)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 113102,
+            "affiliate_fct": "Trivulzio, Gian Giacomo <il Magno> (1441-1518)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 113896,
+            "affiliate_fct": "Bartholomaeus de Zanis",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 10384,
+            "affiliate_fct": "Bruni, Leonardo (1370-1444)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 14777,
+            "affiliate_fct": "Demosthenes (v384-v322)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 25901,
+            "affiliate_fct": "Politianus, Angelus (1454-1494)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 34869,
+            "affiliate_fct": "Philippus Pincius",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 43186,
+            "affiliate_fct": "Aeschines <Socraticus> (v430-v375)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 70224,
+            "affiliate_fct": "Konrad Sweynheym und Arnold Pannartz",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 84285,
+            "affiliate_fct": "Christophorus de Pensis [und 1-2: Philippus Pincius]",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 147549,
+            "affiliate_fct": "Maturanzio, Francesco (1443-1518)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 158221,
+            "affiliate_fct": "Porcius Latro, Marcus (ca. ca. 55 v. Chr.-4 v. Chr.)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 199846,
+            "affiliate_fct": "Filippo di Pietro",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 211514,
+            "affiliate_fct": "Riario, Raffaelo (1451-1521)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5505,
+            "affiliate_fct": "Horatius Flaccus, Quintus (v65-v8)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 16794,
+            "affiliate_fct": "Antonius de Strata",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 18593,
+            "affiliate_fct": "Johannes Tacuinus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 35142,
+            "affiliate_fct": "Beroaldo, Filippo (1453-1505)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 36217,
+            "affiliate_fct": "Philippus de Lavagna",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 57666,
+            "affiliate_fct": "Valla, Giorgio (1447-1500)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 94610,
+            "affiliate_fct": "Nicolaus Jenson",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 107166,
+            "affiliate_fct": "Marius Victorinus, Gaius (281-362)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 113100,
+            "affiliate_fct": "Guillaume LeSignerre für Alexander Minutianus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 113101,
+            "affiliate_fct": "Minutianus, Alexander",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 184590,
+            "affiliate_fct": "Benedictus Hectoris Faelli",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 287492,
+            "affiliate_fct": "Jugurtha <Numidien, König> (v160-v104)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 321191,
+            "affiliate_fct": "Johannes de Gregoriis und Jacobus Britannicus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 452105,
+            "affiliate_fct": "[Richardus Pafraet]",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 10957,
+            "affiliate_fct": "Honorius, Johannes (1450-1504)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 15179,
+            "affiliate_fct": "Gellius, Aulus (ca. 2. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 15239,
+            "affiliate_fct": "Mancinelli, Antonio (1452-1505)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 36997,
+            "affiliate_fct": "Facius, Bartholomaeus (-1457)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 47042,
+            "affiliate_fct": "[Wendelin von Speyer]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 55354,
+            "affiliate_fct": "Pisani, Vittore",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70303,
+            "affiliate_fct": "[Filippo di Pietro]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70513,
+            "affiliate_fct": "Andreas de Paltasichis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70896,
+            "affiliate_fct": "Macrobius, Ambrosius Theodosius (385-430)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 89049,
+            "affiliate_fct": "[Wolfgang Stöckel]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 99258,
+            "affiliate_fct": "Antonius <Moretus> (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 101318,
+            "affiliate_fct": "Squarciafico, Girolamo (ca. 15./16. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 102356,
+            "affiliate_fct": "Johann Fust und Peter Schöffer",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 108909,
+            "affiliate_fct": "Andreas Torresanus und Bartholomaeus de Blavis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 145353,
+            "affiliate_fct": "[Peter Drach der Mittlere]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 190159,
+            "affiliate_fct": "Bernardinus Benalius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 210489,
+            "affiliate_fct": "Bernardinus de Choris",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 227981,
+            "affiliate_fct": "Salvaticus, Bernardus (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 245595,
+            "affiliate_fct": "Aureolus, Johannes Maria (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 337745,
+            "affiliate_fct": "Jacobus de Paganinis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 440674,
+            "affiliate_fct": "Martin Landsberg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 472735,
+            "affiliate_fct": "Mora, Philippus (ca. 15./16. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 538433,
+            "affiliate_fct": "Iustinianus, Hieronymus Omphredus (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 549209,
+            "affiliate_fct": "Johannes Rubeus Vercellensis für Franciscus de Madiis",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 549210,
+            "affiliate_fct": "Iustinianus <Romanus> (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 618031,
+            "affiliate_fct": "[Drucker der Albanuslegende, d.i. Konrad Winters]",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 704133,
+            "affiliate_fct": "Marinus Saracenus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 981,
+            "affiliate_fct": "[Peter Schöffer]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4598,
+            "affiliate_fct": "Locher, Jakob (1471-1528)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4800,
+            "affiliate_fct": "Bonetus Locatellus für Octavianus Scotus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8617,
+            "affiliate_fct": "Anton Koberger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11251,
+            "affiliate_fct": "Wendelin von Speyer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11551,
+            "affiliate_fct": "Petrarca, Francesco (1304-1374)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 12865,
+            "affiliate_fct": "Johann von Köln und Johann Manthen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14119,
+            "affiliate_fct": "[Conrad Hist]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18222,
+            "affiliate_fct": "Anton Sorg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18839,
+            "affiliate_fct": "[Stephan Plannck]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25896,
+            "affiliate_fct": "[Bonetus Locatellus und Christophorus de Pensis für] Octavianus Scotus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 34419,
+            "affiliate_fct": "Landsberger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36637,
+            "affiliate_fct": "Eucharius Silber",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40697,
+            "affiliate_fct": "[Eucharius Silber]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41532,
+            "affiliate_fct": "Leonhard Pachel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44541,
+            "affiliate_fct": "Nicolaus Girardengus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59485,
+            "affiliate_fct": "Ulrich Scinzenzeler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62200,
+            "affiliate_fct": "Johannes <Andreas> (1417-1475)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62665,
+            "affiliate_fct": "Maximus <Planudes> (1260-1310)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 63920,
+            "affiliate_fct": "Johannes und Gregorius de Gregoriis",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68773,
+            "affiliate_fct": "[Drucker des Martialis, H 10814]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69933,
+            "affiliate_fct": "Gabriel, Johannes (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69934,
+            "affiliate_fct": "Kitscher, Friedrich von (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 70225,
+            "affiliate_fct": "Paulus <II., Papa> (1417-1471)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85734,
+            "affiliate_fct": "Grünpeck, Joseph (1473-1532)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 86452,
+            "affiliate_fct": "Christoph <von Schachner> (1447-1500)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 92069,
+            "affiliate_fct": "Regius, Ludovicus (ca. 15. Jh.)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

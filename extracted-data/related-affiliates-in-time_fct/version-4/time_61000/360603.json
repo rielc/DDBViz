@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 43,
+    "time_fct": "time_61000",
+    "affiliate_fct_id": 360603,
+    "affiliate_fct": "Gregormeister",
+    "affiliate_fct_occurrence": 9,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 360603,
+            "affiliate_fct": "Gregormeister",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 16700,
+            "affiliate_fct": "Stadtbibliothek (Trier)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 16701,
+            "affiliate_fct": "Egbert (Trier, Erzbischof)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 119326,
+            "affiliate_fct": "Universitätsbibliothek (Würzburg)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

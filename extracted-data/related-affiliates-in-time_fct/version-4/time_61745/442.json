@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 28,
+    "time_fct": "time_61745",
+    "affiliate_fct_id": 442,
+    "affiliate_fct": "Regierung",
+    "affiliate_fct_occurrence": 273,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 442,
+            "affiliate_fct": "Regierung",
+            "affiliate_fct_occurrence": 273
+        },
+        {
+            "affiliate_fct_id": 204980,
+            "affiliate_fct": "Müssig, Johannes, löwenstein-wertheim-rochefortscher Amtskeller zu Habitzheim",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 29241,
+            "affiliate_fct": "Hessen-Darmstadt, Landgrafen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 193105,
+            "affiliate_fct": "Mark, von der",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 402952,
+            "affiliate_fct": "Hautsch, Johann, Bader in Wertheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 676276,
+            "affiliate_fct": "Herberich, Nikolaus, Schultheiß in Hasloch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 3239,
+            "affiliate_fct": "Kurpfalz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29242,
+            "affiliate_fct": "Pfalz, Kurfürsten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33795,
+            "affiliate_fct": "Dickhaut, F. Jo. , kurpfälzischer Amtsverweser zu Groß-Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40588,
+            "affiliate_fct": "Scheerbaum, Johannes, Kanzleidirektor in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43097,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Friedrich Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57322,
+            "affiliate_fct": "Bessel, Hieronymus, gemeinschaftlicher Forstmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57959,
+            "affiliate_fct": "Isaac, Michael, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100012,
+            "affiliate_fct": "Schenk, Johann Friedrich, löwenstein-wertheim-rochefortscher Amtmann zu Abstatt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 104667,
+            "affiliate_fct": "Hünefeld von, Nikolaus Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 110150,
+            "affiliate_fct": "Semmler, Christoph, Forstmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 125910,
+            "affiliate_fct": "Endress, Georg Michael, Kettenwirt in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 135686,
+            "affiliate_fct": "Buch, Philipp, Schiffer in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 159826,
+            "affiliate_fct": "Megerlein, Jacob, Metzger in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167868,
+            "affiliate_fct": "Löwenstein-Wertheim-Virneburg, Grafen; Johann Carl Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173046,
+            "affiliate_fct": "Hermann, Hans, Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 173047,
+            "affiliate_fct": "Hermann, Valentin, Schultheiß in Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193103,
+            "affiliate_fct": "Eulenburg von, Elisabeth, Gräfin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 193104,
+            "affiliate_fct": "Hohensachsen von, Johann Ludwig, Freiherr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204067,
+            "affiliate_fct": "Knoll, Anton, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204068,
+            "affiliate_fct": "Lang, Gottfried, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204069,
+            "affiliate_fct": "Reitz, Georg Lorenz, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204070,
+            "affiliate_fct": "Sanner, Johann David, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204071,
+            "affiliate_fct": "Schröder, Hartwig, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204072,
+            "affiliate_fct": "Stephani, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204073,
+            "affiliate_fct": "Willius, Johann Friedrich, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 204074,
+            "affiliate_fct": "Zeuner, David, Rektor an der Lateinschule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 205348,
+            "affiliate_fct": "Praun, Tobias Sebastian, Agent beim Reichshofrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211410,
+            "affiliate_fct": "Motz Dr. jur., Franz Christoph, Rat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213818,
+            "affiliate_fct": "Abraham, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213819,
+            "affiliate_fct": "Fälklein, David, Schutzjude in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213820,
+            "affiliate_fct": "Hirsch, Ephraim, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213821,
+            "affiliate_fct": "Hirsch, Samuel, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213822,
+            "affiliate_fct": "Isaac Moses, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213823,
+            "affiliate_fct": "Leibneck, Moses, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213824,
+            "affiliate_fct": "Moses, Rabbiner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245607,
+            "affiliate_fct": "Stierlein, Nikolaus, Lehrer in Nassig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257202,
+            "affiliate_fct": "Schletz, Georg, Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257203,
+            "affiliate_fct": "Seitz, Burkhard, Gerichtstetten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257204,
+            "affiliate_fct": "Wehrlein, Georg, Buch am Ahorn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268365,
+            "affiliate_fct": "Berlichingen, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 301959,
+            "affiliate_fct": "Turenne, Henri de, französischer Marschall",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 305328,
+            "affiliate_fct": "Berlichingen von, Freiherr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310543,
+            "affiliate_fct": "Reinhard, Johann Jacob, Hofrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 328568,
+            "affiliate_fct": "Arnd, Johann Adam, Major",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 340757,
+            "affiliate_fct": "Reuss, Johann Michael, Rentmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 359814,
+            "affiliate_fct": "Artzen Rutger, Advocat, Anstellung",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 362088,
+            "affiliate_fct": "Göler, Engelbert, Rat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 373775,
+            "affiliate_fct": "Göler, Engelbert, Rat des Grafen Friedrich Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 398695,
+            "affiliate_fct": "Collin, Johann, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 400386,
+            "affiliate_fct": "Reinhard Philipp, Pension",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404334,
+            "affiliate_fct": "Assum, Heinrich Ludwig, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404335,
+            "affiliate_fct": "Bach, Michael, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404336,
+            "affiliate_fct": "Bach, Nikolaus, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404337,
+            "affiliate_fct": "Bauriedel, Philipp Christoph, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404338,
+            "affiliate_fct": "Sauer, Johann Jacob, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404339,
+            "affiliate_fct": "Weimer, Philipp Jacob, Bürgermeister in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 404340,
+            "affiliate_fct": "Wertheim, Stadt; Bürgermeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 406961,
+            "affiliate_fct": "Zell, Abraham, Jude in Dertingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 410830,
+            "affiliate_fct": "Wiesenfelder, Johann, löwenstein-wertheim-rochefortscher Rat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 414341,
+            "affiliate_fct": "Erbach, Grafen; Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 434485,
+            "affiliate_fct": "Western von, Johann Albert, Advokat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443151,
+            "affiliate_fct": "Bühner, Johann Nikolaus, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443152,
+            "affiliate_fct": "Drescher, Tobias, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443153,
+            "affiliate_fct": "Kuhn, Johann David, Rechenmeister an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443154,
+            "affiliate_fct": "Netzer, Johann Peter, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443155,
+            "affiliate_fct": "Roth, Johann, Präzeptor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443156,
+            "affiliate_fct": "Scharmann, Johann Nikolaus, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443157,
+            "affiliate_fct": "Schiller, Johann Georg, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443158,
+            "affiliate_fct": "Stolzenberger, Andreas, Lehrer an der deutschen Schule",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 461056,
+            "affiliate_fct": "Heidt, Augustin Franz, löwenstein-wertheim-rochefortscher Rat und Amtmann zu Habitzheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 461057,
+            "affiliate_fct": "Sell, hessen-darmstädtischer Amtmann zu Groß-Umstadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470116,
+            "affiliate_fct": "Fahm, Georg Caspar, Büttner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470117,
+            "affiliate_fct": "Flegler, Andreas, Büttner in Bettingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470118,
+            "affiliate_fct": "Flegler, Hans Bernhard, Büttner in Niklashausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470119,
+            "affiliate_fct": "Kaufmann, Johann Michael, Büttner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470120,
+            "affiliate_fct": "Schäfer, Johann Friedrich, Büttner in Wertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470121,
+            "affiliate_fct": "Schultheiß, Hans Michael, Büttner in Dertingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 470122,
+            "affiliate_fct": "Schulz, Nikolaus, Büttner in Kreuzwertheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475076,
+            "affiliate_fct": "Simon, Hans Leonhard, Haidhofbauer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475077,
+            "affiliate_fct": "Wohlfahrt, Jacob, Haidhofbauer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 476020,
+            "affiliate_fct": "Held, Peter, Groß-Zimmern",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487162,
+            "affiliate_fct": "Reinhard, Witwe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 493996,
+            "affiliate_fct": "Carl, Michael, Zöllner in Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 493997,
+            "affiliate_fct": "Leuchtlein, Michael, Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 493998,
+            "affiliate_fct": "Schätzlein, Hans, Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 507814,
+            "affiliate_fct": "Württemberg, Herzöge; Eberhard Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 508137,
+            "affiliate_fct": "Oettinger, Joseph, löwensteinischer Rat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531580,
+            "affiliate_fct": "Levi, Rebbe, von Dertingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531581,
+            "affiliate_fct": "Vaith, Hans Georg, von Arnstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537754,
+            "affiliate_fct": "Handel, Keller, Caution",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 549702,
+            "affiliate_fct": "Friedrich, Johann Georg, Schultheiß in Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 549703,
+            "affiliate_fct": "Seubert, Nikolaus, Schultheiß in Remlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 561970,
+            "affiliate_fct": "Mark von der",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 563161,
+            "affiliate_fct": "Müller, Johann Peter, Forstmeister",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

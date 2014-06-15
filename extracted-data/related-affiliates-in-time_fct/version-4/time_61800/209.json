@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 209,
+    "affiliate_fct": "Titius",
+    "affiliate_fct_occurrence": 560,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 209,
+            "affiliate_fct": "Titius",
+            "affiliate_fct_occurrence": 560
+        },
+        {
+            "affiliate_fct_id": 16202,
+            "affiliate_fct": "Mencke, Lüder (1658-1726)",
+            "affiliate_fct_occurrence": 31
+        },
+        {
+            "affiliate_fct_id": 11911,
+            "affiliate_fct": "Mascov, Johann Jakob (1689-1761)",
+            "affiliate_fct_occurrence": 28
+        },
+        {
+            "affiliate_fct_id": 4972,
+            "affiliate_fct": "Universität Leipzig",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 27293,
+            "affiliate_fct": "Gribner, Michael Heinrich (1682-1734)",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 80727,
+            "affiliate_fct": "Ortlob, Johann Christoph (1675-1751)",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 21330,
+            "affiliate_fct": "Gebauer, Georg Christian (1690-1773)",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 55782,
+            "affiliate_fct": "Klausing, Heinrich (1675-1745)",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 3940,
+            "affiliate_fct": "Abicht, Johann Georg (1672-1740)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 48018,
+            "affiliate_fct": "Rivinus, Johann Florens (1681-1755)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 16591,
+            "affiliate_fct": "Bauer, Johann G.",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 30444,
+            "affiliate_fct": "Rechenberg, Karl Otto (1689-1751)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 64828,
+            "affiliate_fct": "Deyling, Salomon (1677-1755)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 89440,
+            "affiliate_fct": "Hopffgarten, Friedrich Abraham von",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 90580,
+            "affiliate_fct": "Olearius, Georg Philipp (1681-1741)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 41207,
+            "affiliate_fct": "Schmid, Johann",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 26874,
+            "affiliate_fct": "Olearius, Johann Friedrich (1679-1726)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 79053,
+            "affiliate_fct": "Olearius, Gottfried (1672-1715)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 317069,
+            "affiliate_fct": "Drewer, Christian Heinrich",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 40,
+            "affiliate_fct": "Jenichen, Gottlob August (1709-1759)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 11370,
+            "affiliate_fct": "Crell, Christoph Ludwig (1703-1758)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 39685,
+            "affiliate_fct": "Plaz, Georg Christoph (1705-1787)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 74296,
+            "affiliate_fct": "Dondorff, Christoph (1667-1737)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 75492,
+            "affiliate_fct": "Volckmar, Caspar (1697-1751)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 79925,
+            "affiliate_fct": "Hecker, Heinrich Cornelius (1699-1743)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 9746,
+            "affiliate_fct": "Crell, Ludwig Christian (1671-1733)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 26279,
+            "affiliate_fct": "Hilliger, Siegmund Gottlieb (1686-1743)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 67110,
+            "affiliate_fct": "Fuchs, Theodosius Gottfried",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 73520,
+            "affiliate_fct": "Hebenstreit, Johann Christian (1686-1756)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 96790,
+            "affiliate_fct": "Künhold, Friedrich Alexander (1693-1767)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 114326,
+            "affiliate_fct": "Ernesti, Johann Heinrich (1652-1729)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 211354,
+            "affiliate_fct": "Höckner, Johann Friedrich (-1745)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 277182,
+            "affiliate_fct": "Anckelmann, Johann Julius",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 3965,
+            "affiliate_fct": "Rivinus, Andreas Florens (1701-1762)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 68831,
+            "affiliate_fct": "Börner, Christian Friedrich (1683-1753)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 117321,
+            "affiliate_fct": "Hoffmann, Gottfried",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 215389,
+            "affiliate_fct": "Schuberth, Georg Adolph (1693-1724)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 239425,
+            "affiliate_fct": "Winckler, Jacob Benedict (1699-1780)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 277510,
+            "affiliate_fct": "Dornfeld, Johann Jacob (ca. 1718, 1742)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 3941,
+            "affiliate_fct": "Heerbeck, Johann G.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 9754,
+            "affiliate_fct": "Hartmann, Johann Zacharias (1695-1742)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 18041,
+            "affiliate_fct": "Rechenberg, Adam (1642-1721)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 23686,
+            "affiliate_fct": "Rivinus, August Florens (1707-1769)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 48814,
+            "affiliate_fct": "Gude, Gottlob Friedrich (1701-1756)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 58918,
+            "affiliate_fct": "Freitag, Friedrich Gotthilf (1723-1776)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 62949,
+            "affiliate_fct": "Krause, Johann Gottlieb (1684-1736)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 66770,
+            "affiliate_fct": "Wilisch, Christian F.",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 94279,
+            "affiliate_fct": "Crell, Heinrich Christian (1700-1736)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 97406,
+            "affiliate_fct": "Junius, Ulrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 123888,
+            "affiliate_fct": "Hardt, Johann Gottlieb (-1713)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 135471,
+            "affiliate_fct": "Steger, Adrian (1707-1765)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 176398,
+            "affiliate_fct": "Seyffertiz, Gottlieb Adolph von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 307080,
+            "affiliate_fct": "Philippi, Christian Gottfried",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 350812,
+            "affiliate_fct": "Worm, Johann Gottfried (1708-)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 482252,
+            "affiliate_fct": "Nizschwiz, Gottfried Heinrich von (1700-1753)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 491361,
+            "affiliate_fct": "Friedrich, Johann Christian (1698-)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 502115,
+            "affiliate_fct": "Gellius, Johann Constantin",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 546990,
+            "affiliate_fct": "Schultz, Paul Christian",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 4178,
+            "affiliate_fct": "Cyprian, Johann (1642-1723)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 11339,
+            "affiliate_fct": "Hebenstreit, Johann Friedrich (1691-)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 13015,
+            "affiliate_fct": "Crell, Johann Friedrich (1707-1747)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 13087,
+            "affiliate_fct": "Dathe, Gottlob Liborius",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 14554,
+            "affiliate_fct": "Mencke, Gottfried Ludwig",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 16246,
+            "affiliate_fct": "Schubert, Christian",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 30869,
+            "affiliate_fct": "Conradi, Franz Karl (1701-1748)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 40068,
+            "affiliate_fct": "Carpzov, Johann Gottlob (1679-1767)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 44023,
+            "affiliate_fct": "Kapp, Johann Erhard (1696-1756)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 51581,
+            "affiliate_fct": "Franckenstein, Jacob August (1689-1733)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 57407,
+            "affiliate_fct": "Adolphi, Christian Michael (1676-1753)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 91731,
+            "affiliate_fct": "Rassow, Julius Friedrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 103548,
+            "affiliate_fct": "Mylius, Johann H.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 103892,
+            "affiliate_fct": "Leuchter, Johann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 119140,
+            "affiliate_fct": "Graefe, Carl R.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 160993,
+            "affiliate_fct": "Bashuysen, Heinrich Jakob van",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 165824,
+            "affiliate_fct": "Ortlob, Carl Friedrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 171846,
+            "affiliate_fct": "Goetze, Gottfried Christian (1702-1736)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 200454,
+            "affiliate_fct": "Petzsch, Christian Gottlieb",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 204452,
+            "affiliate_fct": "Steuckard, Johannes David",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 209682,
+            "affiliate_fct": "Müller, Gottfried Polycarp",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 211384,
+            "affiliate_fct": "Konhard, Johann B.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 217834,
+            "affiliate_fct": "Nimptsch, Johann Gottlob (1697-1769)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 227590,
+            "affiliate_fct": "Bauer, Johann Gottfried (1695-1763)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 230052,
+            "affiliate_fct": "Ludwig, Gottfried Thomas",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 238871,
+            "affiliate_fct": "Bashuysen, Walter van",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 268842,
+            "affiliate_fct": "Einigk, Johann Christian",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 268843,
+            "affiliate_fct": "Schmer, Johann Christian",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 325030,
+            "affiliate_fct": "Bashuysen, Henricus Jacobus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 333942,
+            "affiliate_fct": "Jachmann, Gottlieb (-1758)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 393890,
+            "affiliate_fct": "Raschke, Johann David (1676-1760)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 412006,
+            "affiliate_fct": "Behr, Johann Heinrich (1647-1717)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 437783,
+            "affiliate_fct": "Richter, Georg Gottfried (1675-1742)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 530248,
+            "affiliate_fct": "Langguth, Johann Jacob",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 540378,
+            "affiliate_fct": "Dressler, Dietrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 548037,
+            "affiliate_fct": "Roscher, Gottfried",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 572443,
+            "affiliate_fct": "Pipping, Gottlob Heinrich (um 1720)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 697451,
+            "affiliate_fct": "Teubner, Johann C.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 888348,
+            "affiliate_fct": "Just, Karl August",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 172,
+            "affiliate_fct": "Stemler, Johann Christian (1701-1773)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1007,
+            "affiliate_fct": "Walch, Johann Georg (1693-1775)",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

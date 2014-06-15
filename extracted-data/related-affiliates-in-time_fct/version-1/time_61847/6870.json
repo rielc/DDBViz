@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 26,
+    "time_fct": "time_61847",
+    "affiliate_facet_id": 6870,
+    "affiliate_facet": "Gemeinschaftliches Kabinett",
+    "occurrence": 179,
+    "affiliates": [
+        {
+            "facet_id": 6870,
+            "occurrence": 185,
+            "value": "Linné, Carl von (1707-1778)"
+        },
+        {
+            "facet_id": 6909,
+            "occurrence": 16,
+            "value": "Höjer"
+        },
+        {
+            "facet_id": 112522,
+            "occurrence": 12,
+            "value": "Salvius"
+        },
+        {
+            "facet_id": 3862,
+            "occurrence": 4,
+            "value": "Trattner"
+        },
+        {
+            "facet_id": 16355,
+            "occurrence": 4,
+            "value": "Curt"
+        },
+        {
+            "facet_id": 24193,
+            "occurrence": 4,
+            "value": "Edman"
+        },
+        {
+            "facet_id": 86970,
+            "occurrence": 3,
+            "value": "Lange, Johann Joachim (1698-1765)"
+        },
+        {
+            "facet_id": 126538,
+            "occurrence": 3,
+            "value": "Schreber, Johann Christian Daniel (1739-1810)"
+        },
+        {
+            "facet_id": 5426,
+            "occurrence": 2,
+            "value": "Vandenhoeck"
+        },
+        {
+            "facet_id": 14073,
+            "occurrence": 2,
+            "value": "Leroux"
+        },
+        {
+            "facet_id": 14074,
+            "occurrence": 2,
+            "value": "Necker, Noël Joseph (1730-1793)"
+        },
+        {
+            "facet_id": 16973,
+            "occurrence": 2,
+            "value": "Beckmann, Johann (1739-1811)"
+        },
+        {
+            "facet_id": 37889,
+            "occurrence": 2,
+            "value": "Gr°aberg, Johan M."
+        },
+        {
+            "facet_id": 45285,
+            "occurrence": 2,
+            "value": "Hasselquist, Fredrik (1722-1752)"
+        },
+        {
+            "facet_id": 68893,
+            "occurrence": 2,
+            "value": "Torén, Olof (1718-1753)"
+        },
+        {
+            "facet_id": 69217,
+            "occurrence": 2,
+            "value": "Trattner)"
+        },
+        {
+            "facet_id": 131981,
+            "occurrence": 2,
+            "value": "Edmann"
+        },
+        {
+            "facet_id": 321705,
+            "occurrence": 2,
+            "value": "Edmannus"
+        },
+        {
+            "facet_id": 419838,
+            "occurrence": 2,
+            "value": "Hedin, Sven Anders (1750-1821)"
+        },
+        {
+            "facet_id": 493196,
+            "occurrence": 2,
+            "value": "Ullmark, Henrik"
+        },
+        {
+            "facet_id": 527222,
+            "occurrence": 2,
+            "value": "Avellan, Nicolaus"
+        },
+        {
+            "facet_id": 702356,
+            "occurrence": 2,
+            "value": "Dahlgren, Johan A."
+        },
+        {
+            "facet_id": 834255,
+            "occurrence": 2,
+            "value": "Hall, Birger M."
+        },
+        {
+            "facet_id": 8,
+            "occurrence": 1,
+            "value": "Junius"
+        },
+        {
+            "facet_id": 914,
+            "occurrence": 1,
+            "value": "Müller"
+        },
+        {
+            "facet_id": 1160,
+            "occurrence": 1,
+            "value": "Ettinger"
+        },
+        {
+            "facet_id": 3365,
+            "occurrence": 1,
+            "value": "Lechner"
+        },
+        {
+            "facet_id": 7270,
+            "occurrence": 1,
+            "value": "Kraus"
+        },
+        {
+            "facet_id": 8526,
+            "occurrence": 1,
+            "value": "Lange"
+        },
+        {
+            "facet_id": 10898,
+            "occurrence": 1,
+            "value": "Hoffmann, Anton"
+        },
+        {
+            "facet_id": 13846,
+            "occurrence": 1,
+            "value": "Krauss"
+        },
+        {
+            "facet_id": 17348,
+            "occurrence": 1,
+            "value": "Thunberg, Carl Peter (1743-1828)"
+        },
+        {
+            "facet_id": 19622,
+            "occurrence": 1,
+            "value": "Auctor"
+        },
+        {
+            "facet_id": 20286,
+            "occurrence": 1,
+            "value": "Koppe"
+        },
+        {
+            "facet_id": 21709,
+            "occurrence": 1,
+            "value": "Zetzell, Pehr"
+        },
+        {
+            "facet_id": 23002,
+            "occurrence": 1,
+            "value": "Grufberg, Isaac Olofsson (1736-1764)"
+        },
+        {
+            "facet_id": 23467,
+            "occurrence": 1,
+            "value": "Manetti, Saverio"
+        },
+        {
+            "facet_id": 29214,
+            "occurrence": 1,
+            "value": "Kümmel"
+        },
+        {
+            "facet_id": 44897,
+            "occurrence": 1,
+            "value": "Ribben, Carl (1734-1803)"
+        },
+        {
+            "facet_id": 47653,
+            "occurrence": 1,
+            "value": "Gadebusch, Thomas Heinrich (1736-1804)"
+        },
+        {
+            "facet_id": 61626,
+            "occurrence": 1,
+            "value": "Ferber, Johann Jacob (1743-1790)"
+        },
+        {
+            "facet_id": 69331,
+            "occurrence": 1,
+            "value": "Davis and Reymers"
+        },
+        {
+            "facet_id": 84843,
+            "occurrence": 1,
+            "value": "Dieterich, Karl Friedrich (1734-1805)"
+        },
+        {
+            "facet_id": 132405,
+            "occurrence": 1,
+            "value": "Berger, Alexander Mal."
+        },
+        {
+            "facet_id": 155436,
+            "occurrence": 1,
+            "value": "Sparrman, Anders (1748-1820)"
+        },
+        {
+            "facet_id": 158357,
+            "occurrence": 1,
+            "value": "Avelin, Gabriel Emanuel"
+        },
+        {
+            "facet_id": 163208,
+            "occurrence": 1,
+            "value": "Forssk°ahl, Jonas Gustav"
+        },
+        {
+            "facet_id": 164749,
+            "occurrence": 1,
+            "value": "Lindecrantz, Erik M."
+        },
+        {
+            "facet_id": 166239,
+            "occurrence": 1,
+            "value": "Reuß, Christian Friedrich von (1745-1813)"
+        },
+        {
+            "facet_id": 175433,
+            "occurrence": 1,
+            "value": "Jacquin, Nikolaus Joseph von (1727-1817)"
+        },
+        {
+            "facet_id": 182192,
+            "occurrence": 1,
+            "value": "Meidinger, Karl von (1750-1820)"
+        },
+        {
+            "facet_id": 198938,
+            "occurrence": 1,
+            "value": "Flygare, Johan"
+        },
+        {
+            "facet_id": 202421,
+            "occurrence": 1,
+            "value": "Heroldus"
+        },
+        {
+            "facet_id": 206592,
+            "occurrence": 1,
+            "value": "Koelpin, Alexander Bernhard (1739-1801)"
+        },
+        {
+            "facet_id": 207206,
+            "occurrence": 1,
+            "value": "Kiesewetter"
+        },
+        {
+            "facet_id": 220724,
+            "occurrence": 1,
+            "value": "Hornborg, Bogislaus"
+        },
+        {
+            "facet_id": 221213,
+            "occurrence": 1,
+            "value": "Kerstens, Johann Christian (1713-1801)"
+        },
+        {
+            "facet_id": 225031,
+            "occurrence": 1,
+            "value": "Sumtu Stettiniano"
+        },
+        {
+            "facet_id": 225988,
+            "occurrence": 1,
+            "value": "Murray, Adolph (1751-1803)"
+        },
+        {
+            "facet_id": 259020,
+            "occurrence": 1,
+            "value": "Roos, Johan C."
+        },
+        {
+            "facet_id": 272753,
+            "occurrence": 1,
+            "value": "Waltherus"
+        },
+        {
+            "facet_id": 286646,
+            "occurrence": 1,
+            "value": "Planer, Johann Jacob (1743-1789)"
+        },
+        {
+            "facet_id": 293772,
+            "occurrence": 1,
+            "value": "Österman, Magnus G."
+        },
+        {
+            "facet_id": 297599,
+            "occurrence": 1,
+            "value": "Biwald, Leopold (1731-1805)"
+        },
+        {
+            "facet_id": 321706,
+            "occurrence": 1,
+            "value": "Boecler, Christian E."
+        },
+        {
+            "facet_id": 340603,
+            "occurrence": 1,
+            "value": "Johansson, Boas"
+        },
+        {
+            "facet_id": 351163,
+            "occurrence": 1,
+            "value": "Widmanstadius)"
+        },
+        {
+            "facet_id": 365195,
+            "occurrence": 1,
+            "value": "Siefvert, Johan V."
+        },
+        {
+            "facet_id": 375979,
+            "occurrence": 1,
+            "value": "Fagraeus, Jonas Theodor"
+        },
+        {
+            "facet_id": 389512,
+            "occurrence": 1,
+            "value": "Martin, Anton Rolandsson (1729-1785)"
+        },
+        {
+            "facet_id": 398956,
+            "occurrence": 1,
+            "value": "Bolten, Joachim Friedrich (1718-1796)"
+        },
+        {
+            "facet_id": 403123,
+            "occurrence": 1,
+            "value": "Hedenberg, Anders"
+        },
+        {
+            "facet_id": 414030,
+            "occurrence": 1,
+            "value": "Bäckman, Andreas P."
+        },
+        {
+            "facet_id": 414105,
+            "occurrence": 1,
+            "value": "Strumpff, Christoph Carl (1712-1754)"
+        },
+        {
+            "facet_id": 417934,
+            "occurrence": 1,
+            "value": "Jörlin, Engelbrecht (1733-1810)"
+        },
+        {
+            "facet_id": 421771,
+            "occurrence": 1,
+            "value": "Holm, Jørgen Tyge (1726-1759)"
+        },
+        {
+            "facet_id": 434405,
+            "occurrence": 1,
+            "value": "Öhrquist, Daniel J."
+        },
+        {
+            "facet_id": 457589,
+            "occurrence": 1,
+            "value": "Pfeiffer, Johan"
+        },
+        {
+            "facet_id": 460912,
+            "occurrence": 1,
+            "value": "Blom, Carl Magnus"
+        },
+        {
+            "facet_id": 486870,
+            "occurrence": 1,
+            "value": "Rydbaeck, Eric (1732-1795)"
+        },
+        {
+            "facet_id": 487542,
+            "occurrence": 1,
+            "value": "Tengborg, Jonas C."
+        },
+        {
+            "facet_id": 514242,
+            "occurrence": 1,
+            "value": "Haartman, Johan Johansson (1725-1787)"
+        },
+        {
+            "facet_id": 522839,
+            "occurrence": 1,
+            "value": "Österdam, Abraham"
+        },
+        {
+            "facet_id": 528037,
+            "occurrence": 1,
+            "value": "Wilcke, Henrik C. (1739-1788)"
+        },
+        {
+            "facet_id": 528279,
+            "occurrence": 1,
+            "value": "Hager, Johan H."
+        },
+        {
+            "facet_id": 534798,
+            "occurrence": 1,
+            "value": "Gedner, Christoph"
+        },
+        {
+            "facet_id": 540379,
+            "occurrence": 1,
+            "value": "Ramström, Christian L."
+        },
+        {
+            "facet_id": 542277,
+            "occurrence": 1,
+            "value": "Wollrath, Johan Gust."
+        },
+        {
+            "facet_id": 542679,
+            "occurrence": 1,
+            "value": "Juslenius, Abraham"
+        },
+        {
+            "facet_id": 546693,
+            "occurrence": 1,
+            "value": "Bjuur, Jacob (1732-1774)"
+        },
+        {
+            "facet_id": 554375,
+            "occurrence": 1,
+            "value": "Bladh, Anders J."
+        },
+        {
+            "facet_id": 559694,
+            "occurrence": 1,
+            "value": "Hiortzberg, Laurentius"
+        },
+        {
+            "facet_id": 559731,
+            "occurrence": 1,
+            "value": "Ziervogel, Samuel"
+        },
+        {
+            "facet_id": 560220,
+            "occurrence": 1,
+            "value": "Elmgren, Johan"
+        },
+        {
+            "facet_id": 579764,
+            "occurrence": 1,
+            "value": "Rotheram, John"
+        },
+        {
+            "facet_id": 588155,
+            "occurrence": 1,
+            "value": "Leers, Johann Daniel (1727-1774)"
+        },
+        {
+            "facet_id": 588156,
+            "occurrence": 1,
+            "value": "Leers, Henricus Paulus"
+        },
+        {
+            "facet_id": 593392,
+            "occurrence": 1,
+            "value": "Bäck, Albert"
+        },
+        {
+            "facet_id": 625421,
+            "occurrence": 1,
+            "value": "Elmgren, Gabriel"
+        },
+        {
+            "facet_id": 639207,
+            "occurrence": 1,
+            "value": "Uddman, Isaac"
+        }
+    ]
+}

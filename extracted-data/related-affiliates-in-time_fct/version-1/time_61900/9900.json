@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 9900,
+    "affiliate_facet": "Museumsberg Flensburg",
+    "occurrence": 773,
+    "affiliates": [
+        {
+            "facet_id": 9900,
+            "occurrence": 781,
+            "value": "Studienfondsverwaltung Rastatt"
+        },
+        {
+            "facet_id": 259194,
+            "occurrence": 10,
+            "value": "Kessel, Hilar; Pfarrer"
+        },
+        {
+            "facet_id": 839343,
+            "occurrence": 6,
+            "value": "Gutsch, Johann Jakob; Oberschaffner Baden-Baden"
+        },
+        {
+            "facet_id": 73305,
+            "occurrence": 4,
+            "value": "Köhler, Jakob, Prof.; Pfleger Bad. Hist. Kommission"
+        },
+        {
+            "facet_id": 281293,
+            "occurrence": 3,
+            "value": "Streile, Anton; Waldmatt"
+        },
+        {
+            "facet_id": 49063,
+            "occurrence": 2,
+            "value": "Huk, Gregor; Weitenung"
+        },
+        {
+            "facet_id": 124840,
+            "occurrence": 2,
+            "value": "Gschwender, von; Kantor"
+        },
+        {
+            "facet_id": 159626,
+            "occurrence": 2,
+            "value": "Baden, Elisabeth Prinzessin von"
+        },
+        {
+            "facet_id": 231254,
+            "occurrence": 2,
+            "value": "Hoffmann, Benedikt; Propst Kollegiatstift Baden"
+        },
+        {
+            "facet_id": 258129,
+            "occurrence": 2,
+            "value": "Huck, Christostomus; Vormberg"
+        },
+        {
+            "facet_id": 258130,
+            "occurrence": 2,
+            "value": "Huck, Georg; Vormberg"
+        },
+        {
+            "facet_id": 268936,
+            "occurrence": 2,
+            "value": "Schleitheim, Reichsfreiherr von"
+        },
+        {
+            "facet_id": 287287,
+            "occurrence": 2,
+            "value": "Röck, Alois; Lauf"
+        },
+        {
+            "facet_id": 321348,
+            "occurrence": 2,
+            "value": "Schrägle, Michael; Langenalb"
+        },
+        {
+            "facet_id": 321349,
+            "occurrence": 2,
+            "value": "Schreiber, Friedrich; Langenalb"
+        },
+        {
+            "facet_id": 419316,
+            "occurrence": 2,
+            "value": "Doll, Bernhard; Sasbachwalden"
+        },
+        {
+            "facet_id": 748378,
+            "occurrence": 2,
+            "value": "Maurer, Diebold; Ottenheim"
+        },
+        {
+            "facet_id": 851603,
+            "occurrence": 2,
+            "value": "Schmelzer, Karl; Rastatt"
+        },
+        {
+            "facet_id": 879035,
+            "occurrence": 2,
+            "value": "Schneider, Joseph; Kuppenheim"
+        },
+        {
+            "facet_id": 898406,
+            "occurrence": 2,
+            "value": "Kreiser, Josef; Rastatt"
+        },
+        {
+            "facet_id": 15618,
+            "occurrence": 1,
+            "value": "Martin, Bernhard"
+        },
+        {
+            "facet_id": 33950,
+            "occurrence": 1,
+            "value": "Kollmar, Blasius; Sulz"
+        },
+        {
+            "facet_id": 33953,
+            "occurrence": 1,
+            "value": "Kollmar, Georg; Sulz"
+        },
+        {
+            "facet_id": 33954,
+            "occurrence": 1,
+            "value": "Kollmar, Katharina; Sulz"
+        },
+        {
+            "facet_id": 33956,
+            "occurrence": 1,
+            "value": "Kollmar, Severin; Sulz"
+        },
+        {
+            "facet_id": 44440,
+            "occurrence": 1,
+            "value": "Burst, Leopold; Lauf"
+        },
+        {
+            "facet_id": 47118,
+            "occurrence": 1,
+            "value": "Vogel, Kasian, Sinzheim"
+        },
+        {
+            "facet_id": 47119,
+            "occurrence": 1,
+            "value": "Walter, Bonifaz, Sinzheim"
+        },
+        {
+            "facet_id": 47120,
+            "occurrence": 1,
+            "value": "Walter, Franz, Sinzheim"
+        },
+        {
+            "facet_id": 47121,
+            "occurrence": 1,
+            "value": "Weis, Johannes, Vormberg"
+        },
+        {
+            "facet_id": 49058,
+            "occurrence": 1,
+            "value": "Eberle, Alois; Weitenung"
+        },
+        {
+            "facet_id": 49059,
+            "occurrence": 1,
+            "value": "Friedmann, Lazarus; Weitenung"
+        },
+        {
+            "facet_id": 49060,
+            "occurrence": 1,
+            "value": "Fritsch, Alois; Weitenung"
+        },
+        {
+            "facet_id": 49061,
+            "occurrence": 1,
+            "value": "Fritsch, Anton; Weitenung"
+        },
+        {
+            "facet_id": 49062,
+            "occurrence": 1,
+            "value": "Fritsch, Wenzeslaus; Weitenung"
+        },
+        {
+            "facet_id": 49064,
+            "occurrence": 1,
+            "value": "Huk, Joseph; Weitenung"
+        },
+        {
+            "facet_id": 49065,
+            "occurrence": 1,
+            "value": "Huk, Kaspar; Weitenung"
+        },
+        {
+            "facet_id": 49066,
+            "occurrence": 1,
+            "value": "Huk, Konrad; Weitenung"
+        },
+        {
+            "facet_id": 49067,
+            "occurrence": 1,
+            "value": "Ibach, Blasi; Weitenung"
+        },
+        {
+            "facet_id": 49068,
+            "occurrence": 1,
+            "value": "Reck, Bruno; Weitenung"
+        },
+        {
+            "facet_id": 49069,
+            "occurrence": 1,
+            "value": "Weber, Nikolaus; Weitenung"
+        },
+        {
+            "facet_id": 55147,
+            "occurrence": 1,
+            "value": "Bacher, Heinrich; Forst"
+        },
+        {
+            "facet_id": 55148,
+            "occurrence": 1,
+            "value": "Schneider, Anton; Forst"
+        },
+        {
+            "facet_id": 64225,
+            "occurrence": 1,
+            "value": "Lang, Vital; Kappelwindeck"
+        },
+        {
+            "facet_id": 64226,
+            "occurrence": 1,
+            "value": "Vetter, Ignaz; Kappelwindeck"
+        },
+        {
+            "facet_id": 70679,
+            "occurrence": 1,
+            "value": "Burgard, Johann; Kappelwindeck"
+        },
+        {
+            "facet_id": 74247,
+            "occurrence": 1,
+            "value": "Drapp, Sigmund; Vormberg"
+        },
+        {
+            "facet_id": 79570,
+            "occurrence": 1,
+            "value": "Schultz, Karl Ernst; Rastatt"
+        },
+        {
+            "facet_id": 80874,
+            "occurrence": 1,
+            "value": "Götz, Gabriel; Gallenbach"
+        },
+        {
+            "facet_id": 80875,
+            "occurrence": 1,
+            "value": "Hochstuhl, Joseph; Gallenbach"
+        },
+        {
+            "facet_id": 80876,
+            "occurrence": 1,
+            "value": "Mattes, Eduard; Gallenbach"
+        },
+        {
+            "facet_id": 93499,
+            "occurrence": 1,
+            "value": "Gromer, Christian; Karlsruhe"
+        },
+        {
+            "facet_id": 99498,
+            "occurrence": 1,
+            "value": "Rauch, Blasius; Sinzheim"
+        },
+        {
+            "facet_id": 99499,
+            "occurrence": 1,
+            "value": "Rauch, Lorenz; Sinzheim"
+        },
+        {
+            "facet_id": 101011,
+            "occurrence": 1,
+            "value": "Schmidt; Vogt, Niederbühl"
+        },
+        {
+            "facet_id": 113634,
+            "occurrence": 1,
+            "value": "Gloutz, Karl von"
+        },
+        {
+            "facet_id": 119627,
+            "occurrence": 1,
+            "value": "Zoller, Gottfried; Landwirt"
+        },
+        {
+            "facet_id": 124841,
+            "occurrence": 1,
+            "value": "Lahr; Kanonikus"
+        },
+        {
+            "facet_id": 124842,
+            "occurrence": 1,
+            "value": "Lechleitner, Joseph; Stadtpfarrer zu Baden"
+        },
+        {
+            "facet_id": 126090,
+            "occurrence": 1,
+            "value": "Armbruster, Joseph; Haueneberstein"
+        },
+        {
+            "facet_id": 126091,
+            "occurrence": 1,
+            "value": "Frank, Ferdinand; Haueneberstein"
+        },
+        {
+            "facet_id": 126092,
+            "occurrence": 1,
+            "value": "Hirth, Dionis; Haueneberstein"
+        },
+        {
+            "facet_id": 126093,
+            "occurrence": 1,
+            "value": "Jung, Alexander; Haueneberstein"
+        },
+        {
+            "facet_id": 126094,
+            "occurrence": 1,
+            "value": "Jung, Lazarus; Haueneberstein"
+        },
+        {
+            "facet_id": 126095,
+            "occurrence": 1,
+            "value": "Reiß, Josef; Haueneberstein"
+        },
+        {
+            "facet_id": 126096,
+            "occurrence": 1,
+            "value": "Reiß, Rudolf; Haueneberstein"
+        },
+        {
+            "facet_id": 126097,
+            "occurrence": 1,
+            "value": "Reiß, Valentin; Haueneberstein"
+        },
+        {
+            "facet_id": 126098,
+            "occurrence": 1,
+            "value": "Zaum, Egidius; Haueneberstein"
+        },
+        {
+            "facet_id": 130206,
+            "occurrence": 1,
+            "value": "Herr, Vinzenz; Landwirt"
+        },
+        {
+            "facet_id": 133060,
+            "occurrence": 1,
+            "value": "Grimmig, Georg; Stadelhofen"
+        },
+        {
+            "facet_id": 133061,
+            "occurrence": 1,
+            "value": "Kupferer, Anton; Stadelhofen"
+        },
+        {
+            "facet_id": 136268,
+            "occurrence": 1,
+            "value": "Maier, Juliana; Müllenbach"
+        },
+        {
+            "facet_id": 136269,
+            "occurrence": 1,
+            "value": "Maier, Konrad; Müllenbach"
+        },
+        {
+            "facet_id": 136270,
+            "occurrence": 1,
+            "value": "Maier, Maria Anna; Müllenbach"
+        },
+        {
+            "facet_id": 136271,
+            "occurrence": 1,
+            "value": "Maier, Stefan; Eisental"
+        },
+        {
+            "facet_id": 136272,
+            "occurrence": 1,
+            "value": "Maier, Theresa; Bühlertal"
+        },
+        {
+            "facet_id": 136273,
+            "occurrence": 1,
+            "value": "Schütt, Ferdinand; Affental"
+        },
+        {
+            "facet_id": 139777,
+            "occurrence": 1,
+            "value": "Kegel, Max; Kappelwindeck"
+        },
+        {
+            "facet_id": 139778,
+            "occurrence": 1,
+            "value": "Kist, Clemens; Kappelwindeck"
+        },
+        {
+            "facet_id": 139779,
+            "occurrence": 1,
+            "value": "Kögel, Max; Kappelwindeck"
+        },
+        {
+            "facet_id": 139780,
+            "occurrence": 1,
+            "value": "Küst, Clemens; Kappelwindeck"
+        },
+        {
+            "facet_id": 140307,
+            "occurrence": 1,
+            "value": "Maushard, Kolumban; Sinzheim"
+        },
+        {
+            "facet_id": 143624,
+            "occurrence": 1,
+            "value": "Steurer, Andreas; Neumühl"
+        },
+        {
+            "facet_id": 153643,
+            "occurrence": 1,
+            "value": "Kollmer, Helena; Sulz"
+        },
+        {
+            "facet_id": 153645,
+            "occurrence": 1,
+            "value": "Kollmer, Leonard; Sulz"
+        },
+        {
+            "facet_id": 182685,
+            "occurrence": 1,
+            "value": "Faller, Anton; Rebmann"
+        },
+        {
+            "facet_id": 185128,
+            "occurrence": 1,
+            "value": "Seitz, Michael; Oberbeuern"
+        },
+        {
+            "facet_id": 191128,
+            "occurrence": 1,
+            "value": "Kollmer, Wilhelm; Sulz"
+        },
+        {
+            "facet_id": 204785,
+            "occurrence": 1,
+            "value": "Scheidel, Ludwig; Schuster"
+        },
+        {
+            "facet_id": 205144,
+            "occurrence": 1,
+            "value": "Schoch, Kornel, Selbach"
+        },
+        {
+            "facet_id": 205145,
+            "occurrence": 1,
+            "value": "Stahlberger, Anton, Selbach"
+        },
+        {
+            "facet_id": 205314,
+            "occurrence": 1,
+            "value": "Gartner, Ambros; Schwarzach"
+        },
+        {
+            "facet_id": 205315,
+            "occurrence": 1,
+            "value": "Gartner, Joseph; Schwarzach"
+        },
+        {
+            "facet_id": 205316,
+            "occurrence": 1,
+            "value": "Koch, Jacob, Schwarzach"
+        },
+        {
+            "facet_id": 207212,
+            "occurrence": 1,
+            "value": "Gerstner, Andreas; Rastatt"
+        },
+        {
+            "facet_id": 207213,
+            "occurrence": 1,
+            "value": "Gerstner, Joseph; Rastatt"
+        },
+        {
+            "facet_id": 207214,
+            "occurrence": 1,
+            "value": "Hemmerle, Franz; Rastatt"
+        },
+        {
+            "facet_id": 207215,
+            "occurrence": 1,
+            "value": "Hemmerle, Hermann; Rastatt"
+        },
+        {
+            "facet_id": 207216,
+            "occurrence": 1,
+            "value": "Hof, Martin; Rastatt"
+        },
+        {
+            "facet_id": 207217,
+            "occurrence": 1,
+            "value": "Holzer, Josef; Rastatt"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 958,
+    "affiliate_fct": "Wolff",
+    "affiliate_fct_occurrence": 1902,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 958,
+            "affiliate_fct": "Wolff",
+            "affiliate_fct_occurrence": 1902
+        },
+        {
+            "affiliate_fct_id": 17551,
+            "affiliate_fct": "Merz, Aloys (1727-1792)",
+            "affiliate_fct_occurrence": 266
+        },
+        {
+            "affiliate_fct_id": 1103,
+            "affiliate_fct": "Fleury, Claude (1640-1723)",
+            "affiliate_fct_occurrence": 180
+        },
+        {
+            "affiliate_fct_id": 1104,
+            "affiliate_fct": "Parode, Bruno (1710-1763)",
+            "affiliate_fct_occurrence": 180
+        },
+        {
+            "affiliate_fct_id": 1105,
+            "affiliate_fct": "Ziegler, Dominicus (1710-1791)",
+            "affiliate_fct_occurrence": 178
+        },
+        {
+            "affiliate_fct_id": 1575,
+            "affiliate_fct": "Dufrène, Maximilian (1688-1768)",
+            "affiliate_fct_occurrence": 90
+        },
+        {
+            "affiliate_fct_id": 53574,
+            "affiliate_fct": "Lindemayr, Maurus (1723-1783)",
+            "affiliate_fct_occurrence": 82
+        },
+        {
+            "affiliate_fct_id": 53575,
+            "affiliate_fct": "Winterl, Joseph (1728-1790)",
+            "affiliate_fct_occurrence": 73
+        },
+        {
+            "affiliate_fct_id": 53573,
+            "affiliate_fct": "Bordoni, Giuseppe Antonio (1682-1742)",
+            "affiliate_fct_occurrence": 55
+        },
+        {
+            "affiliate_fct_id": 31163,
+            "affiliate_fct": "Elbel, Benjamin (1690-1756)",
+            "affiliate_fct_occurrence": 45
+        },
+        {
+            "affiliate_fct_id": 20211,
+            "affiliate_fct": "Sturm, Leonhard Christoph (1669-1719)",
+            "affiliate_fct_occurrence": 41
+        },
+        {
+            "affiliate_fct_id": 3444,
+            "affiliate_fct": "Calino, Cesare (1670-1749)",
+            "affiliate_fct_occurrence": 39
+        },
+        {
+            "affiliate_fct_id": 27833,
+            "affiliate_fct": "Pfyffer, Franz Xaver Christoph (1680-1750)",
+            "affiliate_fct_occurrence": 39
+        },
+        {
+            "affiliate_fct_id": 70942,
+            "affiliate_fct": "Klauber, Joseph Sebastian (1700-1768)",
+            "affiliate_fct_occurrence": 36
+        },
+        {
+            "affiliate_fct_id": 14312,
+            "affiliate_fct": "Mösl, Vital (1735-1809)",
+            "affiliate_fct_occurrence": 31
+        },
+        {
+            "affiliate_fct_id": 22522,
+            "affiliate_fct": "Calmet, Augustin (1672-1757)",
+            "affiliate_fct_occurrence": 27
+        },
+        {
+            "affiliate_fct_id": 27976,
+            "affiliate_fct": "Houdry, Vincent (1631-1729)",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 11509,
+            "affiliate_fct": "Sturm, Leonhard Christoph",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 47084,
+            "affiliate_fct": "Goldmann, Nikolaus (1611-1665)",
+            "affiliate_fct_occurrence": 25
+        },
+        {
+            "affiliate_fct_id": 112985,
+            "affiliate_fct": "Vollert, Burchard (1741-1808)",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 234460,
+            "affiliate_fct": "Fischer, G. August",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 234461,
+            "affiliate_fct": "Socher, G.",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 9785,
+            "affiliate_fct": "Scholliner, Hermann (1722-1795)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 84135,
+            "affiliate_fct": "Le Maistre de Sacy, Isaac-Louis (1613-1684)",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 112984,
+            "affiliate_fct": "Schad, Roman",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 30091,
+            "affiliate_fct": "Huth, Adam (1696-1770)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 10495,
+            "affiliate_fct": "Neumayr, Franz (1697-1765)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 167929,
+            "affiliate_fct": "Claus, Joseph Ignaz (1691-1775)",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 25541,
+            "affiliate_fct": "Mändl, Kaspar (1655-1728)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 35423,
+            "affiliate_fct": "Kazenberger, Kilian (1671-1750)",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 9560,
+            "affiliate_fct": "Bourdaloue, Louis (1632-1704)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 14311,
+            "affiliate_fct": "Mangin, ... de (-1780)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 28029,
+            "affiliate_fct": "Nouet, Jacques (1605-1680)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 36281,
+            "affiliate_fct": "Goldmann, Nikolaus",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 46028,
+            "affiliate_fct": "Biner, Joseph (1697-1766)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 134337,
+            "affiliate_fct": "Grill, Georg (1704-1757)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 17156,
+            "affiliate_fct": "Fléchier, Esprit (1632-1710)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 102151,
+            "affiliate_fct": "Seeauer, Beda (1716-1785)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 27055,
+            "affiliate_fct": "Bellecius, Aloysius (1704-1757)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 34025,
+            "affiliate_fct": "Binner, Thomas",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 57720,
+            "affiliate_fct": "Masotti, Francesco",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 99537,
+            "affiliate_fct": "Muzner, Jucundin",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 130320,
+            "affiliate_fct": "Kleiner, Salomon (1700-1761)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 144615,
+            "affiliate_fct": "Campadelli, Giovanni Battista",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 106845,
+            "affiliate_fct": "Trautwein, Gregor (1711-1785)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 274480,
+            "affiliate_fct": "Detleffsen)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 325318,
+            "affiliate_fct": "Besombes, Jacques (ca. 18. Jh.)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 20205,
+            "affiliate_fct": "Johannes <Chrysostomus> (344-407)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 54215,
+            "affiliate_fct": "Cramer, Johann Andreas (1723-1788)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 121617,
+            "affiliate_fct": "Bierling, Friedrich Immanuel",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 130321,
+            "affiliate_fct": "Savoyen-Carignan, Eugène-François von (1663-1736)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 132181,
+            "affiliate_fct": "Richtenburg, Joachim von (1736-1806)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 152579,
+            "affiliate_fct": "Flottwell, Cölestin Christian (1711-1759)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 152580,
+            "affiliate_fct": "Königliche Deutsche Gesellschaft (Königsberg)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 157626,
+            "affiliate_fct": "Mayr, Cherubinus (1694-)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 185487,
+            "affiliate_fct": "Sappel, Ladislaus (1721-1796)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 230226,
+            "affiliate_fct": "Clément, Denis Xavier (1706-1771)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 472639,
+            "affiliate_fct": "Wolff, Matthias",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 2881,
+            "affiliate_fct": "François <de Sales> (1567-1622)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 16457,
+            "affiliate_fct": "Benedikt <XIV., Papst> (1675-1758)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 35631,
+            "affiliate_fct": "Zallwein, Gregor (1712-1766)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 37457,
+            "affiliate_fct": "(Labhart)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 52044,
+            "affiliate_fct": "Widmann, Franz",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 56012,
+            "affiliate_fct": "La Rue, Charles de (1643-1725)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 138588,
+            "affiliate_fct": "Fraydt, Leopold (1706-1769)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 166502,
+            "affiliate_fct": "Dubois, Étienne (1650-1688)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 283497,
+            "affiliate_fct": "Schübler, Johann Jacob (1689-1741)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 654607,
+            "affiliate_fct": "Wagemann, Ludwig (1713-1792)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 61535,
+            "affiliate_fct": "Leopold",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 65009,
+            "affiliate_fct": "Lechner, Johann Baptist",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 87965,
+            "affiliate_fct": "Kick, Dalmatius (-1769)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 91426,
+            "affiliate_fct": "Bingham, Joseph (1668-1723)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 93584,
+            "affiliate_fct": "(Detleffsen)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 151542,
+            "affiliate_fct": "Le Chapelain, Charles-Jean-Baptiste (1710-1779)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 255805,
+            "affiliate_fct": "Schmid, Jacob (1689-1740)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 261550,
+            "affiliate_fct": "Burkhart, Prokop",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 352784,
+            "affiliate_fct": "Hauser, Berthold (1713-1762)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 414872,
+            "affiliate_fct": "Höllerer, Lambert",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 959,
+            "affiliate_fct": "Pock, Edmund (1691-1737)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 4629,
+            "affiliate_fct": "Liguori, Alfonso Maria de' (1696-1787)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 60351,
+            "affiliate_fct": "Schwarzhueber, Simpert (1727-1795)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 80421,
+            "affiliate_fct": "Götzenberger, Franz Borgia (1709-1753)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 89072,
+            "affiliate_fct": "Gassner, Johann Joseph (1727-1779)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 116247,
+            "affiliate_fct": "Kolb, Michael",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 176866,
+            "affiliate_fct": "Heissig, Franz Carl",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 204097,
+            "affiliate_fct": "Stribel, Anton",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 230655,
+            "affiliate_fct": "Schmidt, Aurel",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 414259,
+            "affiliate_fct": "Sartori, Anselm",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 436810,
+            "affiliate_fct": "Krisper, Crescentius (1679-1749)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 2880,
+            "affiliate_fct": "Camus, Jean Pierre (1584-1652)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 23026,
+            "affiliate_fct": "Hiller, Blasius C.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 81523,
+            "affiliate_fct": "Nieberlein, Johann Adam (1662-1748)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 82177,
+            "affiliate_fct": "Pacaud, Pierre (-1760)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 86150,
+            "affiliate_fct": "Kuttge, Johann D.",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 140827,
+            "affiliate_fct": "Gutwein, Johann Balthasar (1702-1785)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 207615,
+            "affiliate_fct": "Leonardo <da Porto Maurizio> (1676-1751)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 373796,
+            "affiliate_fct": "Corella, Jaime de (1657-1699)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 647118,
+            "affiliate_fct": "Franciscus Maria <Gradiscanus>",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 810616,
+            "affiliate_fct": "Pietro Francesco <da Como> (-1735)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 960,
+            "affiliate_fct": "Edmundus, ...",
+            "affiliate_fct_occurrence": 5
+        }
+    ]
+}

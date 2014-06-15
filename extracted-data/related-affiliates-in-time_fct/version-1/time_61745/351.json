@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 28,
+    "time_fct": "time_61745",
+    "affiliate_facet_id": 351,
+    "affiliate_facet": "Müller",
+    "occurrence": 732,
+    "affiliates": [
+        {
+            "facet_id": 351,
+            "occurrence": 1197,
+            "value": "Großherzogliches Justizdepartement, Lehenhof"
+        },
+        {
+            "facet_id": 7310,
+            "occurrence": 40,
+            "value": "Venningen, von"
+        },
+        {
+            "facet_id": 727,
+            "occurrence": 18,
+            "value": "Schauenburg; von"
+        },
+        {
+            "facet_id": 82502,
+            "occurrence": 17,
+            "value": "Rüdt; Johann Ernst"
+        },
+        {
+            "facet_id": 14116,
+            "occurrence": 16,
+            "value": "Gemmingen; von"
+        },
+        {
+            "facet_id": 99502,
+            "occurrence": 16,
+            "value": "Schönau; von"
+        },
+        {
+            "facet_id": 23377,
+            "occurrence": 14,
+            "value": "Rüdt; Familie"
+        },
+        {
+            "facet_id": 424829,
+            "occurrence": 13,
+            "value": "Eberstein; Maria Eleonora von, geb. Gräfin von Nassau-Saarbrücken"
+        },
+        {
+            "facet_id": 987,
+            "occurrence": 12,
+            "value": "Fürstenberg; Familie von"
+        },
+        {
+            "facet_id": 4881,
+            "occurrence": 12,
+            "value": "Sickingen; von"
+        },
+        {
+            "facet_id": 14134,
+            "occurrence": 12,
+            "value": "Gemmingen; Familie von"
+        },
+        {
+            "facet_id": 804,
+            "occurrence": 11,
+            "value": "Röder von Diersburg; Familie"
+        },
+        {
+            "facet_id": 27854,
+            "occurrence": 11,
+            "value": "Adelsheim, Familie von"
+        },
+        {
+            "facet_id": 156446,
+            "occurrence": 11,
+            "value": "Gemmingen; Johann Reinhard von"
+        },
+        {
+            "facet_id": 165005,
+            "occurrence": 11,
+            "value": "Eberstein; Kasimir von"
+        },
+        {
+            "facet_id": 39675,
+            "occurrence": 10,
+            "value": "Wurmser von Vendenheim"
+        },
+        {
+            "facet_id": 83405,
+            "occurrence": 10,
+            "value": "Neuenstein; von"
+        },
+        {
+            "facet_id": 169136,
+            "occurrence": 9,
+            "value": "Eberstein; Familie von"
+        },
+        {
+            "facet_id": 208361,
+            "occurrence": 9,
+            "value": "Stürzel von Buchheim"
+        },
+        {
+            "facet_id": 346483,
+            "occurrence": 9,
+            "value": "Eberstein; Albertina Sophia Esther von"
+        },
+        {
+            "facet_id": 63892,
+            "occurrence": 8,
+            "value": "Schellenberg; von"
+        },
+        {
+            "facet_id": 126074,
+            "occurrence": 8,
+            "value": "Böcklin von Böcklinsau, Familie"
+        },
+        {
+            "facet_id": 330743,
+            "occurrence": 8,
+            "value": "Rüdt; Johann Heinrich"
+        },
+        {
+            "facet_id": 20183,
+            "occurrence": 7,
+            "value": "Helmstatt; von"
+        },
+        {
+            "facet_id": 21289,
+            "occurrence": 7,
+            "value": "Ulm, von"
+        },
+        {
+            "facet_id": 8827,
+            "occurrence": 6,
+            "value": "Berlichingen, Familie von"
+        },
+        {
+            "facet_id": 24052,
+            "occurrence": 6,
+            "value": "Isenburg-Büdingen; von"
+        },
+        {
+            "facet_id": 31676,
+            "occurrence": 6,
+            "value": "Ingold"
+        },
+        {
+            "facet_id": 32668,
+            "occurrence": 6,
+            "value": "Kämmerer von Worms gen. von Dalberg; Familie"
+        },
+        {
+            "facet_id": 67814,
+            "occurrence": 6,
+            "value": "Wiser; von"
+        },
+        {
+            "facet_id": 74017,
+            "occurrence": 6,
+            "value": "Cronberg; Familie von"
+        },
+        {
+            "facet_id": 127118,
+            "occurrence": 6,
+            "value": "Bettendorf, Familie von"
+        },
+        {
+            "facet_id": 144241,
+            "occurrence": 6,
+            "value": "Schönau; Franz Joseph von"
+        },
+        {
+            "facet_id": 5808,
+            "occurrence": 5,
+            "value": "Deutscher Orden"
+        },
+        {
+            "facet_id": 6625,
+            "occurrence": 5,
+            "value": "Vinther"
+        },
+        {
+            "facet_id": 8829,
+            "occurrence": 5,
+            "value": "Helmstatt, Familie von"
+        },
+        {
+            "facet_id": 10076,
+            "occurrence": 5,
+            "value": "Stürzel von Buchheim; Familie"
+        },
+        {
+            "facet_id": 20964,
+            "occurrence": 5,
+            "value": "Botzheim; Familie von"
+        },
+        {
+            "facet_id": 33250,
+            "occurrence": 5,
+            "value": "Neuenstein; Familie von"
+        },
+        {
+            "facet_id": 33908,
+            "occurrence": 5,
+            "value": "Österreich, Haus"
+        },
+        {
+            "facet_id": 71912,
+            "occurrence": 5,
+            "value": "Rotberg; Familie von"
+        },
+        {
+            "facet_id": 77532,
+            "occurrence": 5,
+            "value": "Hornstein; von"
+        },
+        {
+            "facet_id": 100867,
+            "occurrence": 5,
+            "value": "Wittenbach; von"
+        },
+        {
+            "facet_id": 104322,
+            "occurrence": 5,
+            "value": "Gemmingen; Weiprecht von"
+        },
+        {
+            "facet_id": 144240,
+            "occurrence": 5,
+            "value": "Schönau; Dietrich von"
+        },
+        {
+            "facet_id": 156447,
+            "occurrence": 5,
+            "value": "Sander; Heinrich"
+        },
+        {
+            "facet_id": 200053,
+            "occurrence": 5,
+            "value": "Wambolt von Umstadt"
+        },
+        {
+            "facet_id": 219891,
+            "occurrence": 5,
+            "value": "Prömbser von Rüdesheim; Familie"
+        },
+        {
+            "facet_id": 415873,
+            "occurrence": 5,
+            "value": "Stein von Reichenstein; von"
+        },
+        {
+            "facet_id": 431654,
+            "occurrence": 5,
+            "value": "Streiff von Lauenstein, Heinrich Ernst"
+        },
+        {
+            "facet_id": 6997,
+            "occurrence": 4,
+            "value": "Gemmingen, Familie von"
+        },
+        {
+            "facet_id": 12985,
+            "occurrence": 4,
+            "value": "Gemmingen; Johann Christoph von"
+        },
+        {
+            "facet_id": 16625,
+            "occurrence": 4,
+            "value": "Remchingen; von"
+        },
+        {
+            "facet_id": 21506,
+            "occurrence": 4,
+            "value": "Reischach; von"
+        },
+        {
+            "facet_id": 39154,
+            "occurrence": 4,
+            "value": "Welsperg; von"
+        },
+        {
+            "facet_id": 40738,
+            "occurrence": 4,
+            "value": "Schellenberg; Wolfgang Ferdinand von"
+        },
+        {
+            "facet_id": 80256,
+            "occurrence": 4,
+            "value": "Hinderer; Johann Christoph"
+        },
+        {
+            "facet_id": 88695,
+            "occurrence": 4,
+            "value": "Zorn von Bulach"
+        },
+        {
+            "facet_id": 143883,
+            "occurrence": 4,
+            "value": "Cronberg; von"
+        },
+        {
+            "facet_id": 157013,
+            "occurrence": 4,
+            "value": "Saint André; Daniel von"
+        },
+        {
+            "facet_id": 196046,
+            "occurrence": 4,
+            "value": "Löwenstein; Grafen von"
+        },
+        {
+            "facet_id": 216911,
+            "occurrence": 4,
+            "value": "Degenfeld; Familie von"
+        },
+        {
+            "facet_id": 223946,
+            "occurrence": 4,
+            "value": "Hirschhorn, von"
+        },
+        {
+            "facet_id": 248308,
+            "occurrence": 4,
+            "value": "Massenbach; Georg Bernhard von"
+        },
+        {
+            "facet_id": 284178,
+            "occurrence": 4,
+            "value": "Cronberg, Kraft Adolf Otto von"
+        },
+        {
+            "facet_id": 287019,
+            "occurrence": 4,
+            "value": "Zuckmantel von Brumath"
+        },
+        {
+            "facet_id": 333379,
+            "occurrence": 4,
+            "value": "Rüdt; Johann Reinhard"
+        },
+        {
+            "facet_id": 406025,
+            "occurrence": 4,
+            "value": "Cronberg, von"
+        },
+        {
+            "facet_id": 449715,
+            "occurrence": 4,
+            "value": "Greuth; Ägidius von"
+        },
+        {
+            "facet_id": 499042,
+            "occurrence": 4,
+            "value": "Gronsfeld; Familie von"
+        },
+        {
+            "facet_id": 499043,
+            "occurrence": 4,
+            "value": "Wolkenstein; Familie von"
+        },
+        {
+            "facet_id": 517193,
+            "occurrence": 4,
+            "value": "Gemmingen; Wolf Ludwig von"
+        },
+        {
+            "facet_id": 5066,
+            "occurrence": 3,
+            "value": "Bodman; Familie von"
+        },
+        {
+            "facet_id": 6998,
+            "occurrence": 3,
+            "value": "Hoheneck, Familie von"
+        },
+        {
+            "facet_id": 12346,
+            "occurrence": 3,
+            "value": "Stetten, Familie von"
+        },
+        {
+            "facet_id": 21451,
+            "occurrence": 3,
+            "value": "Helmstatt; Familie von"
+        },
+        {
+            "facet_id": 30455,
+            "occurrence": 3,
+            "value": "Brombach; von"
+        },
+        {
+            "facet_id": 40737,
+            "occurrence": 3,
+            "value": "Gump; Elias"
+        },
+        {
+            "facet_id": 44954,
+            "occurrence": 3,
+            "value": "Streiff von Lauenstein, Familie"
+        },
+        {
+            "facet_id": 45437,
+            "occurrence": 3,
+            "value": "Cronberg, Crafft Adolf Otto von"
+        },
+        {
+            "facet_id": 45803,
+            "occurrence": 3,
+            "value": "Göler von Ravensburg"
+        },
+        {
+            "facet_id": 56227,
+            "occurrence": 3,
+            "value": "Rottorf; von"
+        },
+        {
+            "facet_id": 57779,
+            "occurrence": 3,
+            "value": "Reich von Reichenstein"
+        },
+        {
+            "facet_id": 58319,
+            "occurrence": 3,
+            "value": "Leiningen; Grafen von"
+        },
+        {
+            "facet_id": 60243,
+            "occurrence": 3,
+            "value": "Göler von Ravensburg; Familie"
+        },
+        {
+            "facet_id": 86050,
+            "occurrence": 3,
+            "value": "Streiff von Lauenstein"
+        },
+        {
+            "facet_id": 104432,
+            "occurrence": 3,
+            "value": "Pfau von Rüppurr; Familie"
+        },
+        {
+            "facet_id": 107583,
+            "occurrence": 3,
+            "value": "Mollinger; Familie"
+        },
+        {
+            "facet_id": 110686,
+            "occurrence": 3,
+            "value": "Kageneck; Johann Friedrich von"
+        },
+        {
+            "facet_id": 114013,
+            "occurrence": 3,
+            "value": "Fels, von der"
+        },
+        {
+            "facet_id": 115505,
+            "occurrence": 3,
+            "value": "Varnbüler"
+        },
+        {
+            "facet_id": 117763,
+            "occurrence": 3,
+            "value": "Wolf gen. von Metternich"
+        },
+        {
+            "facet_id": 120279,
+            "occurrence": 3,
+            "value": "Veus, Familie"
+        },
+        {
+            "facet_id": 124104,
+            "occurrence": 3,
+            "value": "Gemmingen; Uriel von"
+        },
+        {
+            "facet_id": 147710,
+            "occurrence": 3,
+            "value": "Ullner von Dieburg; Familie"
+        },
+        {
+            "facet_id": 156124,
+            "occurrence": 3,
+            "value": "Waldenburg gen. Schenker; von"
+        },
+        {
+            "facet_id": 165006,
+            "occurrence": 3,
+            "value": "Nassau-Saarbrücken, Maria Eleonora von"
+        },
+        {
+            "facet_id": 166672,
+            "occurrence": 3,
+            "value": "Zorn von Plobsheim"
+        },
+        {
+            "facet_id": 167321,
+            "occurrence": 3,
+            "value": "Varnbüler, Familie"
+        },
+        {
+            "facet_id": 172519,
+            "occurrence": 3,
+            "value": "Zuckmantel; von"
+        }
+    ]
+}

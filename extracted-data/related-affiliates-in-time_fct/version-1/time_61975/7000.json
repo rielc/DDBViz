@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_facet_id": 7000,
+    "affiliate_facet": "Kreis- und Hofgericht Freiburg",
+    "occurrence": 339,
+    "affiliates": [
+        {
+            "facet_id": 7000,
+            "occurrence": 368,
+            "value": "Statistisches Landesamt"
+        },
+        {
+            "facet_id": 13897,
+            "occurrence": 75,
+            "value": "Hartmann; Julius, im STB/SLA"
+        },
+        {
+            "facet_id": 61206,
+            "occurrence": 30,
+            "value": "Jäger; Finanzreferendär im STB"
+        },
+        {
+            "facet_id": 32750,
+            "occurrence": 28,
+            "value": "Scheffer; Wilhelm Ferdinand Ludwig, Archivar, A"
+        },
+        {
+            "facet_id": 60209,
+            "occurrence": 15,
+            "value": "Lang; OAmann in Rottenburg, A"
+        },
+        {
+            "facet_id": 13880,
+            "occurrence": 11,
+            "value": "Bossert; Gustav, Pfarrer in Bächlingen, A"
+        },
+        {
+            "facet_id": 60208,
+            "occurrence": 11,
+            "value": "Bauer; Dekan in Wurmlingen, A"
+        },
+        {
+            "facet_id": 212611,
+            "occurrence": 9,
+            "value": "Schön; Theodor, Privatgelehrter in Stuttgart, A"
+        },
+        {
+            "facet_id": 214206,
+            "occurrence": 5,
+            "value": "Paulus; Eduard, Landeskonservator, im STB"
+        },
+        {
+            "facet_id": 64919,
+            "occurrence": 4,
+            "value": "Stälin; Paul, Archivrat, im STB"
+        },
+        {
+            "facet_id": 279302,
+            "occurrence": 4,
+            "value": "Elsässer; Dekan in Tübingen, A"
+        },
+        {
+            "facet_id": 22243,
+            "occurrence": 3,
+            "value": "Rechberg; Herren und Grafen von"
+        },
+        {
+            "facet_id": 138676,
+            "occurrence": 3,
+            "value": "Thurn und Taxis; Fürsten von"
+        },
+        {
+            "facet_id": 8218,
+            "occurrence": 2,
+            "value": "Köhler; Pfarrer in Marschalkenzimmern, A"
+        },
+        {
+            "facet_id": 46062,
+            "occurrence": 2,
+            "value": "Memminger; Johann Daniel Georg, STB"
+        },
+        {
+            "facet_id": 46949,
+            "occurrence": 2,
+            "value": "Gemmingen; Freiherren von"
+        },
+        {
+            "facet_id": 97804,
+            "occurrence": 2,
+            "value": "Degenfeld; Freiherren und Grafen von"
+        },
+        {
+            "facet_id": 192491,
+            "occurrence": 2,
+            "value": "Ney; Michel, französischer Marschall"
+        },
+        {
+            "facet_id": 212613,
+            "occurrence": 2,
+            "value": "Weller; Karl, A"
+        },
+        {
+            "facet_id": 237531,
+            "occurrence": 2,
+            "value": "Büttner; Heinrich Christoph, Regierungsrat, A"
+        },
+        {
+            "facet_id": 259204,
+            "occurrence": 2,
+            "value": "Pyrker; Anna Maria, Sängerin"
+        },
+        {
+            "facet_id": 270473,
+            "occurrence": 2,
+            "value": "Erhard; Julius, Kommerzienrat in Gmünd, A"
+        },
+        {
+            "facet_id": 270477,
+            "occurrence": 2,
+            "value": "Woellwarth; Freiherren von"
+        },
+        {
+            "facet_id": 316982,
+            "occurrence": 2,
+            "value": "Ströhmfeld; Gustav, Oberrechnungsrat, A"
+        },
+        {
+            "facet_id": 316984,
+            "occurrence": 2,
+            "value": "Württemberg; Eberhard V. von, Graf"
+        },
+        {
+            "facet_id": 342577,
+            "occurrence": 2,
+            "value": "Rümelin; Gustav, im STB"
+        },
+        {
+            "facet_id": 358732,
+            "occurrence": 2,
+            "value": "Barth; Gustav, A"
+        },
+        {
+            "facet_id": 368023,
+            "occurrence": 2,
+            "value": "Schumann; Pfarrer in Bonfeld, A"
+        },
+        {
+            "facet_id": 401473,
+            "occurrence": 2,
+            "value": "Hettich; Hermann, Arzt in Besigheim"
+        },
+        {
+            "facet_id": 402551,
+            "occurrence": 2,
+            "value": "Gaisberg-Schöckingen; Friedrich von, Freiherr, A"
+        },
+        {
+            "facet_id": 402552,
+            "occurrence": 2,
+            "value": "Gaisberg; Freiherren von"
+        },
+        {
+            "facet_id": 428939,
+            "occurrence": 2,
+            "value": "Kohlhammer; Verlag in Stuttgart"
+        },
+        {
+            "facet_id": 475478,
+            "occurrence": 2,
+            "value": "Neumann; Balthasar, Baumeister"
+        },
+        {
+            "facet_id": 614354,
+            "occurrence": 2,
+            "value": "Holtz; Freiherren vom"
+        },
+        {
+            "facet_id": 668242,
+            "occurrence": 2,
+            "value": "Maier; Pfarrer in Pfullingen, A"
+        },
+        {
+            "facet_id": 761558,
+            "occurrence": 2,
+            "value": "Klemm; Diakon in Geislingen, A"
+        },
+        {
+            "facet_id": 865322,
+            "occurrence": 2,
+            "value": "Mettler; Adolf, A"
+        },
+        {
+            "facet_id": 881804,
+            "occurrence": 2,
+            "value": "Mettenleiter; Johann Jakob"
+        },
+        {
+            "facet_id": 881805,
+            "occurrence": 2,
+            "value": "Mettenleiter; Johann Michael"
+        },
+        {
+            "facet_id": 956767,
+            "occurrence": 2,
+            "value": "Nübling; Eugen, Verleger in Ulm, A"
+        },
+        {
+            "facet_id": 962018,
+            "occurrence": 2,
+            "value": "Holder; August, Lehrer in Erligheim, A"
+        },
+        {
+            "facet_id": 1013106,
+            "occurrence": 2,
+            "value": "Groß; Christoph Friedrich"
+        },
+        {
+            "facet_id": 13879,
+            "occurrence": 1,
+            "value": "Bauer; Hermann, Dekan in Weinsberg, A"
+        },
+        {
+            "facet_id": 66619,
+            "occurrence": 1,
+            "value": "Kull; Finanzrat im STB"
+        },
+        {
+            "facet_id": 70515,
+            "occurrence": 1,
+            "value": "Ow-Wachendorf; Hans Freiherr von, A"
+        },
+        {
+            "facet_id": 74248,
+            "occurrence": 1,
+            "value": "Groß; Medizinalrat in Ellwangen, A"
+        },
+        {
+            "facet_id": 74249,
+            "occurrence": 1,
+            "value": "Oettingen; Grafen und Fürsten von"
+        },
+        {
+            "facet_id": 79493,
+            "occurrence": 1,
+            "value": "Wagner; Oberbürgermeister in Ulm"
+        },
+        {
+            "facet_id": 79558,
+            "occurrence": 1,
+            "value": "Mittnacht; Franz Jakob, Geograph im STB"
+        },
+        {
+            "facet_id": 102689,
+            "occurrence": 1,
+            "value": "Rueß; B., Stadtpfarrer a.D. in Aulendorf, A"
+        },
+        {
+            "facet_id": 110512,
+            "occurrence": 1,
+            "value": "Maucher; Pfarrer in Neckarsulm, A"
+        },
+        {
+            "facet_id": 112885,
+            "occurrence": 1,
+            "value": "Greeff; J.H., aus Höfen, A"
+        },
+        {
+            "facet_id": 112886,
+            "occurrence": 1,
+            "value": "Moltke; Helmuth von"
+        },
+        {
+            "facet_id": 112887,
+            "occurrence": 1,
+            "value": "Müller; Rudolf, A"
+        },
+        {
+            "facet_id": 112888,
+            "occurrence": 1,
+            "value": "Schuon; Immanuel Friedrich, Schultheiß in Dobel"
+        },
+        {
+            "facet_id": 138673,
+            "occurrence": 1,
+            "value": "Klaiber; Pfarrer in Mengen, A"
+        },
+        {
+            "facet_id": 138674,
+            "occurrence": 1,
+            "value": "Peter; Lehrer in Mengen, A"
+        },
+        {
+            "facet_id": 138675,
+            "occurrence": 1,
+            "value": "Schmid; Alois Leopold, in Scheer"
+        },
+        {
+            "facet_id": 138677,
+            "occurrence": 1,
+            "value": "Vollmer; Jakel, Maler"
+        },
+        {
+            "facet_id": 138678,
+            "occurrence": 1,
+            "value": "Wolf; Theodor"
+        },
+        {
+            "facet_id": 138730,
+            "occurrence": 1,
+            "value": "Württemberg; Ulrich von, Herzog"
+        },
+        {
+            "facet_id": 171422,
+            "occurrence": 1,
+            "value": "Limpurg Schenken von"
+        },
+        {
+            "facet_id": 185245,
+            "occurrence": 1,
+            "value": "Helfenstein; Grafen von"
+        },
+        {
+            "facet_id": 187395,
+            "occurrence": 1,
+            "value": "Arnaud; Henri, Waldenser"
+        },
+        {
+            "facet_id": 200881,
+            "occurrence": 1,
+            "value": "Oettingen-Wallerstein; Fürsten von"
+        },
+        {
+            "facet_id": 206017,
+            "occurrence": 1,
+            "value": "Walcker; Orgelbaubetrieb in Ludwigsburg"
+        },
+        {
+            "facet_id": 223077,
+            "occurrence": 1,
+            "value": "Feil; Pfarrer in Grundsheim, A"
+        },
+        {
+            "facet_id": 223078,
+            "occurrence": 1,
+            "value": "Längst; Pfarrer in Kirchbierlingen, A"
+        },
+        {
+            "facet_id": 223079,
+            "occurrence": 1,
+            "value": "Lauter; Pfarrer in Oggelsbeuren, A"
+        },
+        {
+            "facet_id": 223080,
+            "occurrence": 1,
+            "value": "Müller; Schultheiß in Ehingen, A"
+        },
+        {
+            "facet_id": 223081,
+            "occurrence": 1,
+            "value": "Wörrle; Pfarrer in Unterwachingen, A"
+        },
+        {
+            "facet_id": 269941,
+            "occurrence": 1,
+            "value": "Lessing; Pfarrer in Heimsheim, A"
+        },
+        {
+            "facet_id": 270471,
+            "occurrence": 1,
+            "value": "Baumeister; Johann Sebaldus"
+        },
+        {
+            "facet_id": 270472,
+            "occurrence": 1,
+            "value": "Beroldingen; Graf von"
+        },
+        {
+            "facet_id": 270474,
+            "occurrence": 1,
+            "value": "Laichinger; Wilhelm Friedrich, Schulmeister"
+        },
+        {
+            "facet_id": 270475,
+            "occurrence": 1,
+            "value": "Scherr; Johannes Hieronymus"
+        },
+        {
+            "facet_id": 270476,
+            "occurrence": 1,
+            "value": "Scherr; Thomas Ignatius"
+        },
+        {
+            "facet_id": 278313,
+            "occurrence": 1,
+            "value": "Hornberger; G., A"
+        },
+        {
+            "facet_id": 278314,
+            "occurrence": 1,
+            "value": "Müller; Karl Otto, A"
+        },
+        {
+            "facet_id": 278315,
+            "occurrence": 1,
+            "value": "Ritter; Wilhelm, Regierungsbaumeister, A"
+        },
+        {
+            "facet_id": 278316,
+            "occurrence": 1,
+            "value": "Zeppelin; Graf"
+        },
+        {
+            "facet_id": 296346,
+            "occurrence": 1,
+            "value": "Schmid; Pfarrer in Ringingen, A"
+        },
+        {
+            "facet_id": 316979,
+            "occurrence": 1,
+            "value": "Goethe; Johann Wolfgang"
+        },
+        {
+            "facet_id": 316980,
+            "occurrence": 1,
+            "value": "Neurath; Freiherren von"
+        },
+        {
+            "facet_id": 316981,
+            "occurrence": 1,
+            "value": "Schwab; Gustav, A"
+        },
+        {
+            "facet_id": 316983,
+            "occurrence": 1,
+            "value": "Uhland; Ludwig"
+        },
+        {
+            "facet_id": 324338,
+            "occurrence": 1,
+            "value": "Speth; Herren von"
+        },
+        {
+            "facet_id": 329572,
+            "occurrence": 1,
+            "value": "Buck; OAsarzt in Ehingen, A"
+        },
+        {
+            "facet_id": 329573,
+            "occurrence": 1,
+            "value": "Camerer; OAsarzt in Riedlingen, A"
+        },
+        {
+            "facet_id": 329574,
+            "occurrence": 1,
+            "value": "Fleck von Neufra; Herren"
+        },
+        {
+            "facet_id": 329575,
+            "occurrence": 1,
+            "value": "Reich; Pfarrer in Heiligkreuztal, A"
+        },
+        {
+            "facet_id": 329576,
+            "occurrence": 1,
+            "value": "Schöttle; Pfarrer in Seekirch, A"
+        },
+        {
+            "facet_id": 329577,
+            "occurrence": 1,
+            "value": "Siebenrogg; J.B., Tierarzt in Ertingen, A"
+        },
+        {
+            "facet_id": 353435,
+            "occurrence": 1,
+            "value": "Waldburg Truchsessen von; Freiherren und Grafen"
+        },
+        {
+            "facet_id": 354523,
+            "occurrence": 1,
+            "value": "Lehr; von, Hofrat, A"
+        },
+        {
+            "facet_id": 358733,
+            "occurrence": 1,
+            "value": "Gutmann; Leopold A., in Göppingen, A"
+        },
+        {
+            "facet_id": 358734,
+            "occurrence": 1,
+            "value": "Klaiber; H., Professor, A"
+        },
+        {
+            "facet_id": 358735,
+            "occurrence": 1,
+            "value": "Landerer; Dr., in Göppingen, A"
+        },
+        {
+            "facet_id": 358736,
+            "occurrence": 1,
+            "value": "Werner; Paul, aus Gruibingen"
+        },
+        {
+            "facet_id": 361424,
+            "occurrence": 1,
+            "value": "Sturmfeder; Freiherren von"
+        }
+    ]
+}

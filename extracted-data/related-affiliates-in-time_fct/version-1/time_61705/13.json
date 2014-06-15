@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 13,
+    "affiliate_facet": "Bayerisches Nationalmuseum (München)",
+    "occurrence": 664,
+    "affiliates": [
+        {
+            "facet_id": 13,
+            "occurrence": 2644,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 5306,
+            "occurrence": 454,
+            "value": "SLUB Dresden"
+        },
+        {
+            "facet_id": 16054,
+            "occurrence": 28,
+            "value": "Ritzsch"
+        },
+        {
+            "facet_id": 14994,
+            "occurrence": 23,
+            "value": "Röber, Paul"
+        },
+        {
+            "facet_id": 21344,
+            "occurrence": 23,
+            "value": "Röhner"
+        },
+        {
+            "facet_id": 1782,
+            "occurrence": 22,
+            "value": "Wendt"
+        },
+        {
+            "facet_id": 61918,
+            "occurrence": 18,
+            "value": "Wendeler, Michael"
+        },
+        {
+            "facet_id": 100246,
+            "occurrence": 18,
+            "value": "Neomenius, Johann"
+        },
+        {
+            "facet_id": 13178,
+            "occurrence": 16,
+            "value": "Grosse"
+        },
+        {
+            "facet_id": 107965,
+            "occurrence": 15,
+            "value": "Ebert, Theodor"
+        },
+        {
+            "facet_id": 41272,
+            "occurrence": 14,
+            "value": "Hülsemann, Johann"
+        },
+        {
+            "facet_id": 70230,
+            "occurrence": 14,
+            "value": "Hoepner, Johann"
+        },
+        {
+            "facet_id": 55696,
+            "occurrence": 13,
+            "value": "Schmuck, Vincentius"
+        },
+        {
+            "facet_id": 56445,
+            "occurrence": 13,
+            "value": "Gormann"
+        },
+        {
+            "facet_id": 79655,
+            "occurrence": 13,
+            "value": "Fludd, Robert"
+        },
+        {
+            "facet_id": 103164,
+            "occurrence": 13,
+            "value": "Thamm"
+        },
+        {
+            "facet_id": 107967,
+            "occurrence": 13,
+            "value": "Literis viduae Voltzianae exscripta per Michaelem Kochen"
+        },
+        {
+            "facet_id": 3794,
+            "occurrence": 12,
+            "value": "Birckner"
+        },
+        {
+            "facet_id": 9807,
+            "occurrence": 12,
+            "value": "Endter"
+        },
+        {
+            "facet_id": 16001,
+            "occurrence": 12,
+            "value": "Staatl. Kunstsammlungen Dresden, Mathematisch-Physikalischer Salon"
+        },
+        {
+            "facet_id": 35179,
+            "occurrence": 12,
+            "value": "Martini, Jacob"
+        },
+        {
+            "facet_id": 9682,
+            "occurrence": 11,
+            "value": "Bergen"
+        },
+        {
+            "facet_id": 10504,
+            "occurrence": 11,
+            "value": "Lanckisch"
+        },
+        {
+            "facet_id": 16951,
+            "occurrence": 11,
+            "value": "Hake"
+        },
+        {
+            "facet_id": 88351,
+            "occurrence": 11,
+            "value": "Lange, Christian"
+        },
+        {
+            "facet_id": 255778,
+            "occurrence": 11,
+            "value": "Wichelmann, Hartwig"
+        },
+        {
+            "facet_id": 13621,
+            "occurrence": 10,
+            "value": "Leyser, Polycarp"
+        },
+        {
+            "facet_id": 19810,
+            "occurrence": 10,
+            "value": "Halbmayer"
+        },
+        {
+            "facet_id": 21137,
+            "occurrence": 10,
+            "value": "Hartmann"
+        },
+        {
+            "facet_id": 28835,
+            "occurrence": 10,
+            "value": "Lamberg"
+        },
+        {
+            "facet_id": 40126,
+            "occurrence": 10,
+            "value": "Furttenbach, Joseph"
+        },
+        {
+            "facet_id": 64749,
+            "occurrence": 10,
+            "value": "Saur"
+        },
+        {
+            "facet_id": 75338,
+            "occurrence": 10,
+            "value": "Zamel, Friedrich"
+        },
+        {
+            "facet_id": 85575,
+            "occurrence": 10,
+            "value": "Eichstaedt, Lorenz"
+        },
+        {
+            "facet_id": 1236,
+            "occurrence": 9,
+            "value": "König"
+        },
+        {
+            "facet_id": 2858,
+            "occurrence": 9,
+            "value": "Autor"
+        },
+        {
+            "facet_id": 3795,
+            "occurrence": 9,
+            "value": "Hildebrand, Wolfgang"
+        },
+        {
+            "facet_id": 5186,
+            "occurrence": 9,
+            "value": "Hampel"
+        },
+        {
+            "facet_id": 5622,
+            "occurrence": 9,
+            "value": "Ledertz"
+        },
+        {
+            "facet_id": 14270,
+            "occurrence": 9,
+            "value": "Fürst"
+        },
+        {
+            "facet_id": 38829,
+            "occurrence": 9,
+            "value": "Bartholin, Caspar"
+        },
+        {
+            "facet_id": 52933,
+            "occurrence": 9,
+            "value": "Fitzerus"
+        },
+        {
+            "facet_id": 56443,
+            "occurrence": 9,
+            "value": "Schumann, Caspar"
+        },
+        {
+            "facet_id": 58535,
+            "occurrence": 9,
+            "value": "Kepler, Johannes"
+        },
+        {
+            "facet_id": 63775,
+            "occurrence": 9,
+            "value": "Götze"
+        },
+        {
+            "facet_id": 65466,
+            "occurrence": 9,
+            "value": "Rötelius"
+        },
+        {
+            "facet_id": 75339,
+            "occurrence": 9,
+            "value": "Bodenhausen"
+        },
+        {
+            "facet_id": 76900,
+            "occurrence": 9,
+            "value": "Scharf, Johann"
+        },
+        {
+            "facet_id": 130865,
+            "occurrence": 9,
+            "value": "Weber, L. Ananias"
+        },
+        {
+            "facet_id": 5179,
+            "occurrence": 8,
+            "value": "Jacobi"
+        },
+        {
+            "facet_id": 5946,
+            "occurrence": 8,
+            "value": "Hoffmann"
+        },
+        {
+            "facet_id": 13938,
+            "occurrence": 8,
+            "value": "Zetzner"
+        },
+        {
+            "facet_id": 15733,
+            "occurrence": 8,
+            "value": "Schultes"
+        },
+        {
+            "facet_id": 30078,
+            "occurrence": 8,
+            "value": "Balduin, Friedrich"
+        },
+        {
+            "facet_id": 37473,
+            "occurrence": 8,
+            "value": "Schürer"
+        },
+        {
+            "facet_id": 80266,
+            "occurrence": 8,
+            "value": "Schmuck"
+        },
+        {
+            "facet_id": 153858,
+            "occurrence": 8,
+            "value": "Norton"
+        },
+        {
+            "facet_id": 157691,
+            "occurrence": 8,
+            "value": "Herlitz, David"
+        },
+        {
+            "facet_id": 183110,
+            "occurrence": 8,
+            "value": "Hoe von Hoenegg, Matthias"
+        },
+        {
+            "facet_id": 220155,
+            "occurrence": 8,
+            "value": "Behm, Johann"
+        },
+        {
+            "facet_id": 467143,
+            "occurrence": 8,
+            "value": "Faulhaber, Johann"
+        },
+        {
+            "facet_id": 597,
+            "occurrence": 7,
+            "value": "Richter"
+        },
+        {
+            "facet_id": 1585,
+            "occurrence": 7,
+            "value": "Steinmann"
+        },
+        {
+            "facet_id": 9359,
+            "occurrence": 7,
+            "value": "Kilius"
+        },
+        {
+            "facet_id": 15766,
+            "occurrence": 7,
+            "value": "Palthenius"
+        },
+        {
+            "facet_id": 25931,
+            "occurrence": 7,
+            "value": "Sebisch, Melchior"
+        },
+        {
+            "facet_id": 34615,
+            "occurrence": 7,
+            "value": "Auerbach"
+        },
+        {
+            "facet_id": 65463,
+            "occurrence": 7,
+            "value": "Norton, Samuel"
+        },
+        {
+            "facet_id": 65465,
+            "occurrence": 7,
+            "value": "Deane, Edmund"
+        },
+        {
+            "facet_id": 92863,
+            "occurrence": 7,
+            "value": "Cober"
+        },
+        {
+            "facet_id": 112368,
+            "occurrence": 7,
+            "value": "Sennert, Daniel"
+        },
+        {
+            "facet_id": 121830,
+            "occurrence": 7,
+            "value": "De Bry"
+        },
+        {
+            "facet_id": 125565,
+            "occurrence": 7,
+            "value": "Thumm, Theodor"
+        },
+        {
+            "facet_id": 141424,
+            "occurrence": 7,
+            "value": "Henrici, Daniel"
+        },
+        {
+            "facet_id": 163987,
+            "occurrence": 7,
+            "value": "Caus, Salomon de"
+        },
+        {
+            "facet_id": 184893,
+            "occurrence": 7,
+            "value": "Ebert, Theophil"
+        },
+        {
+            "facet_id": 300430,
+            "occurrence": 7,
+            "value": "Zubler, Leonhard"
+        },
+        {
+            "facet_id": 840,
+            "occurrence": 6,
+            "value": "Apel"
+        },
+        {
+            "facet_id": 914,
+            "occurrence": 6,
+            "value": "Müller"
+        },
+        {
+            "facet_id": 3474,
+            "occurrence": 6,
+            "value": "Fincelius"
+        },
+        {
+            "facet_id": 5764,
+            "occurrence": 6,
+            "value": "Hulsius, Levinus"
+        },
+        {
+            "facet_id": 10105,
+            "occurrence": 6,
+            "value": "Ferdinand <Römisch-Deutsches Reich, Kaiser, II.>"
+        },
+        {
+            "facet_id": 10226,
+            "occurrence": 6,
+            "value": "Mentzer, Balthasar"
+        },
+        {
+            "facet_id": 11315,
+            "occurrence": 6,
+            "value": "Schmidt, Johann"
+        },
+        {
+            "facet_id": 15933,
+            "occurrence": 6,
+            "value": "Gerhard"
+        },
+        {
+            "facet_id": 34091,
+            "occurrence": 6,
+            "value": "Scultetus, Abraham"
+        },
+        {
+            "facet_id": 64442,
+            "occurrence": 6,
+            "value": "Leyser, Wilhelm"
+        },
+        {
+            "facet_id": 86391,
+            "occurrence": 6,
+            "value": "Wallhausen, Johann Jacob von"
+        },
+        {
+            "facet_id": 177358,
+            "occurrence": 6,
+            "value": "Lauterbach, Erhart"
+        },
+        {
+            "facet_id": 178783,
+            "occurrence": 6,
+            "value": "Johann Georg <Sachsen, Kurfürst, I.>"
+        },
+        {
+            "facet_id": 197804,
+            "occurrence": 6,
+            "value": "Gerhard, Johann"
+        },
+        {
+            "facet_id": 295136,
+            "occurrence": 6,
+            "value": "Sachsse"
+        },
+        {
+            "facet_id": 308951,
+            "occurrence": 6,
+            "value": "Bramer, Benjamin"
+        },
+        {
+            "facet_id": 338949,
+            "occurrence": 6,
+            "value": "Schwenter, Daniel"
+        },
+        {
+            "facet_id": 945,
+            "occurrence": 5,
+            "value": "Wittigau"
+        },
+        {
+            "facet_id": 3905,
+            "occurrence": 5,
+            "value": "Fischer"
+        },
+        {
+            "facet_id": 5139,
+            "occurrence": 5,
+            "value": "Chemlin"
+        },
+        {
+            "facet_id": 9593,
+            "occurrence": 5,
+            "value": "Lantzenberger"
+        },
+        {
+            "facet_id": 12251,
+            "occurrence": 5,
+            "value": "Schönwetterus"
+        },
+        {
+            "facet_id": 14551,
+            "occurrence": 5,
+            "value": "Werlin"
+        }
+    ]
+}

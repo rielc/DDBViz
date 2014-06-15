@@ -1,0 +1,374 @@
+{
+    "time_fct_id": 26,
+    "time_fct": "time_61825",
+    "affiliate_facet_id": 10317,
+    "affiliate_facet": "Großherzogliches Justizdepartement, Lehenhof",
+    "occurrence": 1423,
+    "affiliates": [
+        {
+            "facet_id": 10317,
+            "occurrence": 166,
+            "value": "Kammer"
+        },
+        {
+            "facet_id": 147723,
+            "occurrence": 3,
+            "value": "Reuss, Johann Georg, Kammerrat"
+        },
+        {
+            "facet_id": 442,
+            "occurrence": 1,
+            "value": "Regierung"
+        },
+        {
+            "facet_id": 10318,
+            "occurrence": 1,
+            "value": "Knauer, Andreas, Glaser in Wertheim"
+        },
+        {
+            "facet_id": 13612,
+            "occurrence": 1,
+            "value": "Hörner, Johann Konrad, Kammersekretär"
+        },
+        {
+            "facet_id": 23679,
+            "occurrence": 1,
+            "value": "Fischer, Georg Friedrich, Forstmeister in Löwenstein"
+        },
+        {
+            "facet_id": 36643,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen; Johann Philipp"
+        },
+        {
+            "facet_id": 40780,
+            "occurrence": 1,
+            "value": "Schwarz, Thomas, Nachrichter in Kreuzwertheim"
+        },
+        {
+            "facet_id": 61884,
+            "occurrence": 1,
+            "value": "Ott, Martin, Stadtmüller in Wertheim"
+        },
+        {
+            "facet_id": 144794,
+            "occurrence": 1,
+            "value": "Deutscher Orden, Bad Mergentheim"
+        },
+        {
+            "facet_id": 153578,
+            "occurrence": 1,
+            "value": "Birkenstock, Rentmeister"
+        },
+        {
+            "facet_id": 224939,
+            "occurrence": 1,
+            "value": "Wabel, Schneider in Wertheim"
+        },
+        {
+            "facet_id": 246025,
+            "occurrence": 1,
+            "value": "Schick, Jacob, Billensbach"
+        },
+        {
+            "facet_id": 246026,
+            "occurrence": 1,
+            "value": "Seitz, Georg, Billensbach"
+        },
+        {
+            "facet_id": 292528,
+            "occurrence": 1,
+            "value": "Hofmann, Burkhard Matthäus"
+        },
+        {
+            "facet_id": 292529,
+            "occurrence": 1,
+            "value": "Kappes, Christoph, Wertheim"
+        },
+        {
+            "facet_id": 292937,
+            "occurrence": 1,
+            "value": "Kraus, Hans Georg, Hasenwirt in Remlingen"
+        },
+        {
+            "facet_id": 301233,
+            "occurrence": 1,
+            "value": "Mayer, Johann Franz, Jäger auf dem Stocksberg"
+        },
+        {
+            "facet_id": 301234,
+            "occurrence": 1,
+            "value": "Mayer, Sophie Friederike, Jägerswitwe"
+        },
+        {
+            "facet_id": 327289,
+            "occurrence": 1,
+            "value": "Dürr, Johann Georg, Posthalter in Esselbach"
+        },
+        {
+            "facet_id": 337748,
+            "occurrence": 1,
+            "value": "Schröder, Johann Heinrich, Kammerdirektor"
+        },
+        {
+            "facet_id": 348920,
+            "occurrence": 1,
+            "value": "Henning, Ludwig Konrad, Kellereiverwalter in Löwenstein"
+        },
+        {
+            "facet_id": 377962,
+            "occurrence": 1,
+            "value": "Wertheim, Grafschaft; gemeinschaftliches Archiv"
+        },
+        {
+            "facet_id": 378977,
+            "occurrence": 1,
+            "value": "Reuss, Johann Michael, gemeinschaftlicher Rentmeister"
+        },
+        {
+            "facet_id": 382747,
+            "occurrence": 1,
+            "value": "Eichelbauer, Johann Georg, Hofbäcker in Wertheim"
+        },
+        {
+            "facet_id": 393008,
+            "occurrence": 1,
+            "value": "Müller, Hans Georg, Erlach"
+        },
+        {
+            "facet_id": 394686,
+            "occurrence": 1,
+            "value": "Lösch, Balthasar, Schiffer in Wertheim"
+        },
+        {
+            "facet_id": 401346,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen; Johann Ludwig Vollrath"
+        },
+        {
+            "facet_id": 455425,
+            "occurrence": 1,
+            "value": "Pistorius, Wilhelm Friedrich, Gesandter der fränkischen Reichsgrafen in Regensburg"
+        },
+        {
+            "facet_id": 483152,
+            "occurrence": 1,
+            "value": "Setz, Johann Adam, Büttner in Wertheim"
+        },
+        {
+            "facet_id": 504954,
+            "occurrence": 1,
+            "value": "Eichhorn, Rechnungsrevisor in Wertheim"
+        },
+        {
+            "facet_id": 530752,
+            "occurrence": 1,
+            "value": "Kress, Johann Michael, Schiffer in Wertheim"
+        },
+        {
+            "facet_id": 546747,
+            "occurrence": 1,
+            "value": "Jung, Michael, Schultheiß auf dem Schwammhof"
+        },
+        {
+            "facet_id": 546748,
+            "occurrence": 1,
+            "value": "Schilling, Johann Christoph, Amtmann in Sulzbach"
+        },
+        {
+            "facet_id": 587026,
+            "occurrence": 1,
+            "value": "Bauernkeller, Johann, Büttner in Wertheim"
+        },
+        {
+            "facet_id": 608656,
+            "occurrence": 1,
+            "value": "Köhler, Johann Paul, Remlingen"
+        },
+        {
+            "facet_id": 614142,
+            "occurrence": 1,
+            "value": "Brümmer, Christoph, Stadtmüller in Wertheim"
+        },
+        {
+            "facet_id": 614143,
+            "occurrence": 1,
+            "value": "Schöffer, Hans, Müller in Wertheim"
+        },
+        {
+            "facet_id": 614144,
+            "occurrence": 1,
+            "value": "Weymann, Carl, Stadtmüller in Wertheim"
+        },
+        {
+            "facet_id": 639425,
+            "occurrence": 1,
+            "value": "Knapp, Alexander, Hirrweiler"
+        },
+        {
+            "facet_id": 666201,
+            "occurrence": 1,
+            "value": "Horn, Hans Georg, Glasofen"
+        },
+        {
+            "facet_id": 684168,
+            "occurrence": 1,
+            "value": "Seitz, Samuel, Zehntsammler in Schmidhausen"
+        },
+        {
+            "facet_id": 688373,
+            "occurrence": 1,
+            "value": "Ortlepp, Kaminfeger in Wertheim"
+        },
+        {
+            "facet_id": 716969,
+            "occurrence": 1,
+            "value": "Heller, Johannes, Schreinermeister in Wertheim"
+        },
+        {
+            "facet_id": 743507,
+            "occurrence": 1,
+            "value": "Wertheim, Grafschaft; Zollamt"
+        },
+        {
+            "facet_id": 748675,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen; Dorothea Sybilla Florentina"
+        },
+        {
+            "facet_id": 748676,
+            "occurrence": 1,
+            "value": "Lutz, Georg Christoph, Kellerei-Verwalter in Löwenstein"
+        },
+        {
+            "facet_id": 768713,
+            "occurrence": 1,
+            "value": "Ziegler, Johann Heinrich, Prokurator beim Reichskammergericht"
+        },
+        {
+            "facet_id": 833032,
+            "occurrence": 1,
+            "value": "Wieland, Johann Ludwig, Pächter der Ziegelhütte in Sulzbach"
+        },
+        {
+            "facet_id": 898534,
+            "occurrence": 1,
+            "value": "Sinzig, Michael, Waldknecht in Löwenstein"
+        },
+        {
+            "facet_id": 915007,
+            "occurrence": 1,
+            "value": "Müssig, Johann Adam, Pächter des Tremhofs"
+        },
+        {
+            "facet_id": 917952,
+            "occurrence": 1,
+            "value": "Gärtner, Sebastian, Pächter der Barthelsmühle"
+        },
+        {
+            "facet_id": 923574,
+            "occurrence": 1,
+            "value": "Zwierlein, Johann Jacob, Prokurator beim Reichskammergericht"
+        },
+        {
+            "facet_id": 955746,
+            "occurrence": 1,
+            "value": "Wollmershäuser, Christoph, Maurer in Wertheim"
+        },
+        {
+            "facet_id": 971533,
+            "occurrence": 1,
+            "value": "Bechtold, Paul, Pächter des Tremhofs"
+        },
+        {
+            "facet_id": 971534,
+            "occurrence": 1,
+            "value": "Hohe, Johannes, Pächter des Tremhofs"
+        },
+        {
+            "facet_id": 971535,
+            "occurrence": 1,
+            "value": "Klein, Leonhard, Pächter des Tremhofs"
+        },
+        {
+            "facet_id": 971536,
+            "occurrence": 1,
+            "value": "Mayer, Hans Jacob, Bauer auf dem Tremhof"
+        },
+        {
+            "facet_id": 971537,
+            "occurrence": 1,
+            "value": "Rotenfels, Lorenz, Pächter des Tremhofs"
+        },
+        {
+            "facet_id": 973353,
+            "occurrence": 1,
+            "value": "Müller, Hans Jacob, Erlach"
+        },
+        {
+            "facet_id": 976177,
+            "occurrence": 1,
+            "value": "Frischmut, Johann Michael, Bürgermeister in Wertheim"
+        },
+        {
+            "facet_id": 999715,
+            "occurrence": 1,
+            "value": "Haderbeck, Albrecht, Löwenstein"
+        },
+        {
+            "facet_id": 1012083,
+            "occurrence": 1,
+            "value": "Löw, Jude in Wertheim"
+        },
+        {
+            "facet_id": 1027022,
+            "occurrence": 1,
+            "value": "Föll, Gottlieb, Ochsenwirt in Löwenstein"
+        },
+        {
+            "facet_id": 1046403,
+            "occurrence": 1,
+            "value": "Unger, Eberhard, Schreiner in Wertheim"
+        },
+        {
+            "facet_id": 1060953,
+            "occurrence": 1,
+            "value": "Seidner, Peter, Kreuzwertheim"
+        },
+        {
+            "facet_id": 1061974,
+            "occurrence": 1,
+            "value": "Reichard, Johann Jacob, Nagelschmied in Wertheim"
+        },
+        {
+            "facet_id": 1065351,
+            "occurrence": 1,
+            "value": "Anwalt, Johann, Schultheiß in Dainbach"
+        },
+        {
+            "facet_id": 1065352,
+            "occurrence": 1,
+            "value": "Beck, Leonhard, Jäger in Michelrieth"
+        },
+        {
+            "facet_id": 1065353,
+            "occurrence": 1,
+            "value": "Misback, Nicolaus, Jäger in Steinbach"
+        },
+        {
+            "facet_id": 1065354,
+            "occurrence": 1,
+            "value": "Zeiler, Jäger in Remlingen"
+        },
+        {
+            "facet_id": 1090076,
+            "occurrence": 1,
+            "value": "Hörner, Johann Conrad, Rechnungsrevisor"
+        },
+        {
+            "facet_id": 1167656,
+            "occurrence": 1,
+            "value": "Fastnacht, Dorothea Margaretha, Löwenstein"
+        }
+    ]
+}

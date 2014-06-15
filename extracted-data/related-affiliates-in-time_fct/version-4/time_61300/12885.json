@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 35,
+    "time_fct": "time_61300",
+    "affiliate_fct_id": 12885,
+    "affiliate_fct": "Benediktinerinnenorden",
+    "affiliate_fct_occurrence": 20,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 12885,
+            "affiliate_fct": "Benediktinerinnenorden",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 685,
+            "affiliate_fct": "Bayerische Staatsbibliothek (München)",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 393,
+            "affiliate_fct": "Württembergische Landesbibliothek (Stuttgart)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

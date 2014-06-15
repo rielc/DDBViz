@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 11,
+    "time_fct": "time_62070",
+    "affiliate_fct_id": 835,
+    "affiliate_fct": "Saarländisches Schulmuseum Ottweiler",
+    "affiliate_fct_occurrence": 812,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 835,
+            "affiliate_fct": "Saarländisches Schulmuseum Ottweiler",
+            "affiliate_fct_occurrence": 812
+        },
+        {
+            "affiliate_fct_id": 58803,
+            "affiliate_fct": "Offsetdruckerei Fricke &amp; Co., Stuttgart",
+            "affiliate_fct_occurrence": 55
+        },
+        {
+            "affiliate_fct_id": 6474,
+            "affiliate_fct": "Lehrmittelanstalt Köster &amp; Co., München",
+            "affiliate_fct_occurrence": 47
+        },
+        {
+            "affiliate_fct_id": 76579,
+            "affiliate_fct": "Fricke u. Co., Offsetdruckerei, Stuttgart",
+            "affiliate_fct_occurrence": 43
+        },
+        {
+            "affiliate_fct_id": 20740,
+            "affiliate_fct": "Erlanger Lehrmittelverlag G. Schmidt-Kaler",
+            "affiliate_fct_occurrence": 26
+        },
+        {
+            "affiliate_fct_id": 40895,
+            "affiliate_fct": "Lehrmittelverlag Wilhelm Hagemann, Düsseldorf",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 80709,
+            "affiliate_fct": "depo-Verlag De Ponte-Lehrmittel, Laupheim",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 16849,
+            "affiliate_fct": "Drei Brunnen Verlag Stuttgart",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 62491,
+            "affiliate_fct": "Patmos-Verlag Düsseldorf",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 210101,
+            "affiliate_fct": "Éditions MDI St. Germain-en-Laye (S. &amp; O.)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 164210,
+            "affiliate_fct": "Ehrenwirth Verlag München",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 9423,
+            "affiliate_fct": "Verlag Paul Stockmann, Bochum",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 45076,
+            "affiliate_fct": "Rotaprint-Druck: Hildebrand, Berlin",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 210100,
+            "affiliate_fct": "Lordey, D.",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 70638,
+            "affiliate_fct": "Grüger",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 28984,
+            "affiliate_fct": "Ernst Klett Verlag Stuttgart",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 71395,
+            "affiliate_fct": "Verlag Ch. Jaeger &amp; Co. Hannover",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 144266,
+            "affiliate_fct": "Verlag Dr. te Neues &amp; Co GmbH, Kempen",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 239848,
+            "affiliate_fct": "Tellus Verlag, Essen",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 4985,
+            "affiliate_fct": "Westermann Verlag, Braunschweig, Georg",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 43788,
+            "affiliate_fct": "Industrie Druck AG, Essen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 226926,
+            "affiliate_fct": "Druck und Verlag von J. F. Schreiber, Eßlingen und München",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 503381,
+            "affiliate_fct": "Störmer-Verlag KG, Vlotho",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 50109,
+            "affiliate_fct": "Werner Jünger Bild- und Filmverlag Frankfurt/M.",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 93534,
+            "affiliate_fct": "Fa. Pelikan, Hannover, Berlin",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 151194,
+            "affiliate_fct": "Verlag Dr. Ellen Nadolny Düsseldorf",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 260613,
+            "affiliate_fct": "Schramm, Ulrik",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 310657,
+            "affiliate_fct": "Flemmings Verlag Hamburg",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 71031,
+            "affiliate_fct": "Verlag Röhr, Bad Münster am Stein",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 79418,
+            "affiliate_fct": "Hohrath, Eva",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 194848,
+            "affiliate_fct": "Zentralinstitut für Gesundheitserziehung, Köln",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 364852,
+            "affiliate_fct": "JRO Landkartendruck von Joh. Roth sel. Wwe., München 12",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 370275,
+            "affiliate_fct": "Hérouard",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 429037,
+            "affiliate_fct": "Justus Perthes Darmstadt",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 451620,
+            "affiliate_fct": "Ferd. Dümmlers Verlag Bonn",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 1530,
+            "affiliate_fct": "MEZ AG, Kenzingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 25760,
+            "affiliate_fct": "Verlag Gerhard Gambke Berlin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 57097,
+            "affiliate_fct": "Koekkoek, M. A.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 388913,
+            "affiliate_fct": "Philips, Amsterdam, Berlin, Aachen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 420940,
+            "affiliate_fct": "Scheel, M.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 423237,
+            "affiliate_fct": "Verlag Neuzeitlicher Arbeitsmittel Gelsenkirchen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 489698,
+            "affiliate_fct": "Deutscher Sparkassen Verlag GmbH, Stuttgart",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 508950,
+            "affiliate_fct": "Prof. Bopps Verlag, Stuttgart",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 615237,
+            "affiliate_fct": "W. Holzkamp, Lehrmittelherstellung, Lemgo - Neuenkamp",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 659771,
+            "affiliate_fct": "Der Bundesminister für Atomkernenergie und Wasserwirtschaft",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 763261,
+            "affiliate_fct": "Editions Rico",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 776912,
+            "affiliate_fct": "Kügler, J.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 842973,
+            "affiliate_fct": "Hainard, Robert",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 5239,
+            "affiliate_fct": "Agfa-Gevaert AG Leverkusen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 68150,
+            "affiliate_fct": "Phywe, Physikalische Werkstätten AG, Göttingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 82040,
+            "affiliate_fct": "Theofried Kratschmer Verlag, Bad Homburg v.d.H.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 119772,
+            "affiliate_fct": "Hagdahl, Olle",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 144657,
+            "affiliate_fct": "Verlag Herder Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 175246,
+            "affiliate_fct": "Busche, Dortmund",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 184995,
+            "affiliate_fct": "Leitz, Wetzlar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 281452,
+            "affiliate_fct": "Faber Castell",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 332195,
+            "affiliate_fct": "Otto Maier Verlag Ravensburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 502549,
+            "affiliate_fct": "Bechtle, Marianne",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 513411,
+            "affiliate_fct": "Herder-Verlag, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 528283,
+            "affiliate_fct": "Paul List Verlag München, Frankfurt, Berlin, Hamburg, Essen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 597965,
+            "affiliate_fct": "Schättel, Willi",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 597966,
+            "affiliate_fct": "List Verlag, München",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 597967,
+            "affiliate_fct": "Strommenger, Helga",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 609105,
+            "affiliate_fct": "E. Kuhlemann, Lernmittelverlag, 732 Göppingen/Württ.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 718794,
+            "affiliate_fct": "Gebr. Höpfel, Berlin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 721196,
+            "affiliate_fct": "WOFE-Verlagsgesellschaft mbH. Frankfurt a. M. - Hamburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 726184,
+            "affiliate_fct": "Paul Lippa Verlag, Berlin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 865973,
+            "affiliate_fct": "Geoplastischer Verlag Ernst Knoll, Vlotho a. d. Weser",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 959081,
+            "affiliate_fct": "J. Herbin, Paris",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1053166,
+            "affiliate_fct": "Kalimar Inc. USA",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1071123,
+            "affiliate_fct": "Art Institut Orell Füssli A.G. Zürich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1999,
+            "affiliate_fct": "Franckh'sche Verlagshandlung, Stuttgart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6463,
+            "affiliate_fct": "F. Widmann, Gerätebau, Schussenried",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24550,
+            "affiliate_fct": "Waterman, Frankreich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28836,
+            "affiliate_fct": "Kunstdruckerei Künstlerbund Karlsruhe GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29383,
+            "affiliate_fct": "Koch, Adolf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41995,
+            "affiliate_fct": "Spiele Schmidt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43787,
+            "affiliate_fct": "Rösel, Bernt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 75892,
+            "affiliate_fct": "A. Trub &amp; Co., Aarau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 75893,
+            "affiliate_fct": "Eichenberger, P.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 87194,
+            "affiliate_fct": "Georg Kallmeyer Verlag, Wolfenbüttel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 114346,
+            "affiliate_fct": "V-Dia Verlag Heidelberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130636,
+            "affiliate_fct": "Klinke &amp; Co. GmbH Scheidt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131132,
+            "affiliate_fct": "Rot, Gelb, Grün, Fachverlag für Verkehrserziehung, Braunschweig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 150262,
+            "affiliate_fct": "Kündig, Reinold",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 150263,
+            "affiliate_fct": "Offsetdruck E. Löpfe-Benz AG, Rorschach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152195,
+            "affiliate_fct": "A. Sonnenburg, Saarbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152977,
+            "affiliate_fct": "Isings, W.J.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 180370,
+            "affiliate_fct": "Julius Schürer AG, Augsburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 206257,
+            "affiliate_fct": "Druck und Verlag von A. Sonnenburg, Buchdruckerei und Verlagshandlung, Trier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 217487,
+            "affiliate_fct": "Hermann Wolf GmbH, Wuppertal",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 232313,
+            "affiliate_fct": "Robert Zeise &amp; Co. Verlag, Regensburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 232314,
+            "affiliate_fct": "Brückner, Erna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 237610,
+            "affiliate_fct": "Bell &amp; Howell, Chicago, USA",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 237629,
+            "affiliate_fct": "Lazi, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243741,
+            "affiliate_fct": "Stuttgarter Druckerei GmbH",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 244091,
+            "affiliate_fct": "Allgäuer Alpenmilch AG München",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 251450,
+            "affiliate_fct": "West-Ost-Verlag, Saarbrücken",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289286,
+            "affiliate_fct": "IBM Deutschland, Ehningen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308228,
+            "affiliate_fct": "Großdruckerei Gerstung KG Offenbach (Main)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

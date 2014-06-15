@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_fct_id": 266,
+    "affiliate_fct": "Teubner",
+    "affiliate_fct_occurrence": 246,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 266,
+            "affiliate_fct": "Teubner",
+            "affiliate_fct_occurrence": 246
+        },
+        {
+            "affiliate_fct_id": 3643,
+            "affiliate_fct": "Sächsisches Staatsministerium für Wissenschaft und Kunst",
+            "affiliate_fct_occurrence": 32
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 109373,
+            "affiliate_fct": "Schenk, Karl",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 338905,
+            "affiliate_fct": "Lie, Sophus",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 412463,
+            "affiliate_fct": "Stoll, Heinrich Wilhelm",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 2548,
+            "affiliate_fct": "Hentze, Carl",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 6494,
+            "affiliate_fct": "Salmon, George",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 20447,
+            "affiliate_fct": "Klein, Felix",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 63509,
+            "affiliate_fct": "Schlesinger, Ludwig",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 146772,
+            "affiliate_fct": "Iamblichus <Chalcidensis> (250-325)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 190681,
+            "affiliate_fct": "Schröder, Ernst",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 400674,
+            "affiliate_fct": "Holzmüller, Gustav",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 836827,
+            "affiliate_fct": "Pistelli, Ermenegildo",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 16436,
+            "affiliate_fct": "Hensel, Kurt",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 40165,
+            "affiliate_fct": "Richter, Gustav",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 62539,
+            "affiliate_fct": "Fricke, Robert",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 77147,
+            "affiliate_fct": "Schmarsow, August",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 82986,
+            "affiliate_fct": "Herz, Norbert",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 129054,
+            "affiliate_fct": "Neumann, Carl",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 163554,
+            "affiliate_fct": "Czuber, Emanuel",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 201822,
+            "affiliate_fct": "Kronecker, Leopold (1823-1891)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 219510,
+            "affiliate_fct": "Krause, Martin",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 229434,
+            "affiliate_fct": "Gordan, Paul Albert",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 299993,
+            "affiliate_fct": "Durège, Heinrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 477688,
+            "affiliate_fct": "Serret, Joseph-Alfred",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2547,
+            "affiliate_fct": "Ameis, Karl Friedrich (1811-1870)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4335,
+            "affiliate_fct": "Schlömilch, Oskar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10315,
+            "affiliate_fct": "Xenophon (v. 430-v. 355)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16622,
+            "affiliate_fct": "Dindorf, Wilhelm (1802-1883)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20007,
+            "affiliate_fct": "Dindorf, Ludwig August (1805-1871)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 27665,
+            "affiliate_fct": "Heron <Alexandrinus> (ca. 1./2. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 34686,
+            "affiliate_fct": "Veronese, Giuseppe",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 40166,
+            "affiliate_fct": "Dietsch, Rudolf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 94552,
+            "affiliate_fct": "Scheibner, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 96419,
+            "affiliate_fct": "His, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 124914,
+            "affiliate_fct": "Nix, Ludwig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 124915,
+            "affiliate_fct": "Schmidt, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 160341,
+            "affiliate_fct": "Garten, Siegfried",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 197484,
+            "affiliate_fct": "Fort, Osmar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 320684,
+            "affiliate_fct": "Wiener, Christian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 321609,
+            "affiliate_fct": "Autolykos <von Pytane> (ca. um 300 v.Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 452939,
+            "affiliate_fct": "Fiedler, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 458853,
+            "affiliate_fct": "Serret, Joseph Albert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 609648,
+            "affiliate_fct": "Bardey, Ernst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 803538,
+            "affiliate_fct": "Gemoll, Albert (1847-)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 831971,
+            "affiliate_fct": "Hildebrand, Rudolf (1824-1894)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2117,
+            "affiliate_fct": "Bianchi, Luigi",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3899,
+            "affiliate_fct": "Galenus (129-199)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 8867,
+            "affiliate_fct": "Weise, Oskar (1851-1933)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 9020,
+            "affiliate_fct": "Credner, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14777,
+            "affiliate_fct": "Demosthenes (v384-v322)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19089,
+            "affiliate_fct": "Boll, Franz (1867-1924)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21566,
+            "affiliate_fct": "Hantzsch, Viktor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23495,
+            "affiliate_fct": "Colluthus <Lycopolitanus> (ca. 5./6. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25875,
+            "affiliate_fct": "Knoblauch, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28675,
+            "affiliate_fct": "Clebsch, Alfred",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29908,
+            "affiliate_fct": "Rudio, Ferdinand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31838,
+            "affiliate_fct": "Reye, Theodor (1838-1919)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42823,
+            "affiliate_fct": "Barocci, Federico",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51426,
+            "affiliate_fct": "Ostwald, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59594,
+            "affiliate_fct": "Müller, Felix",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64102,
+            "affiliate_fct": "Gelzer, Heinrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 67848,
+            "affiliate_fct": "Joachimsthal, Ferdinand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68098,
+            "affiliate_fct": "Hölder, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68298,
+            "affiliate_fct": "Ruge, Sophus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 87645,
+            "affiliate_fct": "Serret, Joseph Alfred",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88450,
+            "affiliate_fct": "Günther, Siegmund",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 91347,
+            "affiliate_fct": "Dini, Ulisse",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94158,
+            "affiliate_fct": "Kraepelin, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94159,
+            "affiliate_fct": "Schwindrazheim, O.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99117,
+            "affiliate_fct": "Aristophanes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99144,
+            "affiliate_fct": "Richter, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99458,
+            "affiliate_fct": "Tryphiodorus (ca. 3./4. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100339,
+            "affiliate_fct": "Martini, Edgar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 108898,
+            "affiliate_fct": "Diophantus <Alexandrinus> (ca. 3. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113676,
+            "affiliate_fct": "Fügner, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128899,
+            "affiliate_fct": "Sievers, Eduard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132396,
+            "affiliate_fct": "Cantor, Moritz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 154950,
+            "affiliate_fct": "Germanicus <Caesar> (v15-19)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 154951,
+            "affiliate_fct": "Breysig, Alfred",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 156058,
+            "affiliate_fct": "Scribonius <Largus>",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 161097,
+            "affiliate_fct": "Westphal, Rudolf (1826-1892)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 162056,
+            "affiliate_fct": "Scheffers, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 165954,
+            "affiliate_fct": "Hultsch, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 171051,
+            "affiliate_fct": "Apelt, Otto (1845-1932)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185799,
+            "affiliate_fct": "Günther, Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187784,
+            "affiliate_fct": "Bachmann, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 203808,
+            "affiliate_fct": "Meyer, Antoine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211947,
+            "affiliate_fct": "Rossbach, August (1823-1898)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213472,
+            "affiliate_fct": "Büttner, Richard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213993,
+            "affiliate_fct": "Peano, Giuseppe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222274,
+            "affiliate_fct": "Gelzer, Johann Heinrich (1813-1889)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224611,
+            "affiliate_fct": "Cantor, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 227669,
+            "affiliate_fct": "Huebner, L.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 237466,
+            "affiliate_fct": "Biermann, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242509,
+            "affiliate_fct": "Leskien, August",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 264998,
+            "affiliate_fct": "Meyer, Richard M. (1860-1914)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265823,
+            "affiliate_fct": "Steiner, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270137,
+            "affiliate_fct": "Blass, Friedrich (1843-1907)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

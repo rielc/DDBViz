@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 42,
+    "time_fct": "time_60900",
+    "affiliate_fct_id": 4201,
+    "affiliate_fct": "Biblioteca Apostolica Vaticana (Vatikan)",
+    "affiliate_fct_occurrence": 8,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 4201,
+            "affiliate_fct": "Biblioteca Apostolica Vaticana (Vatikan)",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 8725,
+            "affiliate_fct": "Hofschule Karls des Großen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 101786,
+            "affiliate_fct": "Ada-Gruppe",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

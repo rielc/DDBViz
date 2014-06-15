@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 32,
+    "time_fct": "time_61807",
+    "affiliate_fct_id": 1527,
+    "affiliate_fct": "Reichsabtei Obermarchtal",
+    "affiliate_fct_occurrence": 397,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 1527,
+            "affiliate_fct": "Reichsabtei Obermarchtal",
+            "affiliate_fct_occurrence": 397
+        },
+        {
+            "affiliate_fct_id": 29084,
+            "affiliate_fct": "Glänzing; Nicolaus",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 50494,
+            "affiliate_fct": "Österreich, Erzherzöge von; Ferdinand",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 542402,
+            "affiliate_fct": "Gemmingen, Herren von",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 15495,
+            "affiliate_fct": "Fürstenberg, Grafen und Fürsten von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 171200,
+            "affiliate_fct": "Cacheè; Maria Theresia von, geb. von Pflummern",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 171201,
+            "affiliate_fct": "Pflummern, Herren von; Maria Theresia s. Cachée",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 185695,
+            "affiliate_fct": "Rieger; Barbara s. Wanner",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 383948,
+            "affiliate_fct": "Schelkle; Andreas",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 392295,
+            "affiliate_fct": "Sultzer; Johann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 549942,
+            "affiliate_fct": "Münst; Jacob",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 572444,
+            "affiliate_fct": "Bader; Hans",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 66577,
+            "affiliate_fct": "Holder; Susanna",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 67152,
+            "affiliate_fct": "Munding; Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 120334,
+            "affiliate_fct": "Kneisle; Conrad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 120337,
+            "affiliate_fct": "Sonntag; Christian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 123607,
+            "affiliate_fct": "Obermarchtal UL, Äbte von; Ulrich Blank",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 131235,
+            "affiliate_fct": "Rueß; Franz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 131237,
+            "affiliate_fct": "Stör; Maria s. Leibrandt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 131238,
+            "affiliate_fct": "Stromb; Augustin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 136637,
+            "affiliate_fct": "Vicari, Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 156897,
+            "affiliate_fct": "Deber; Ernst Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 351580,
+            "affiliate_fct": "Obermarchtal UL, Äbte von; Adalbert Rieger",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 366315,
+            "affiliate_fct": "Popp; Maria Anna",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 383946,
+            "affiliate_fct": "Martini; Gabriel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 453096,
+            "affiliate_fct": "Aßfalg; Sebastian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 467260,
+            "affiliate_fct": "Muggenthal, Grafen von; Anna Eleonora",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 475783,
+            "affiliate_fct": "Steinmann; Franz Joseph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 475784,
+            "affiliate_fct": "Übelacker; Johann Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 482417,
+            "affiliate_fct": "Schraudolf; Anna Maria",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 502813,
+            "affiliate_fct": "Deber; Susanna Barbara",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 533564,
+            "affiliate_fct": "Deber; Franciscus Joseph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 545490,
+            "affiliate_fct": "Burgmayer; Anton",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 545491,
+            "affiliate_fct": "Eisenreich; Franz Anton",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 602309,
+            "affiliate_fct": "Storz; Conrad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 630412,
+            "affiliate_fct": "Speth, von; Ulrich, von Zwiefalten",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 666906,
+            "affiliate_fct": "Burgmayer; Niclaus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 777672,
+            "affiliate_fct": "Steinbock, Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 889790,
+            "affiliate_fct": "Kunz; Hans Ulrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 894885,
+            "affiliate_fct": "Fugger, Grafen von; Maximilian Constantin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 894886,
+            "affiliate_fct": "Fugger, Grafen von; Sigmund Joseph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1071977,
+            "affiliate_fct": "Lame; Jacob de",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2304,
+            "affiliate_fct": "Waldburg, Reichserbtruchsessen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2896,
+            "affiliate_fct": "Mayer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3695,
+            "affiliate_fct": "Fischer, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6820,
+            "affiliate_fct": "Speth, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 7748,
+            "affiliate_fct": "Lutz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17656,
+            "affiliate_fct": "Keller",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24081,
+            "affiliate_fct": "Fischer, Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29085,
+            "affiliate_fct": "Herb; Hans Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 29086,
+            "affiliate_fct": "Huber; Oberamtmann zu Zwiefalten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37706,
+            "affiliate_fct": "Schmidt, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 38655,
+            "affiliate_fct": "Reutlinger; Caspar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 47832,
+            "affiliate_fct": "Huber, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53913,
+            "affiliate_fct": "Westernach, von; Johann Carl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53914,
+            "affiliate_fct": "Westernach, von; Johann Eustach Egolf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 66578,
+            "affiliate_fct": "Huber; Johann Melchior",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 67151,
+            "affiliate_fct": "Braunegger; Franz Carl Ignatius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68937,
+            "affiliate_fct": "Mayer, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80696,
+            "affiliate_fct": "Mayer, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80920,
+            "affiliate_fct": "Mayer, Johann Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 111300,
+            "affiliate_fct": "Kohler, Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120332,
+            "affiliate_fct": "Frey; Franz Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120333,
+            "affiliate_fct": "Geiger, Anna Theresia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120335,
+            "affiliate_fct": "Sauter; Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120336,
+            "affiliate_fct": "Seitz; Urban",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120338,
+            "affiliate_fct": "Steinmann; Benjamin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120339,
+            "affiliate_fct": "Widmann; Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120340,
+            "affiliate_fct": "Wiser; Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129942,
+            "affiliate_fct": "Fischer, Anna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131230,
+            "affiliate_fct": "Braun; Cornelius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131231,
+            "affiliate_fct": "Holl; Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131232,
+            "affiliate_fct": "Huber, Rudolph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131233,
+            "affiliate_fct": "Kopp; Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131234,
+            "affiliate_fct": "Munding; Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131236,
+            "affiliate_fct": "Stör Jung; Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131239,
+            "affiliate_fct": "Traub; Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131240,
+            "affiliate_fct": "Weggenmann; Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131241,
+            "affiliate_fct": "Werz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 136019,
+            "affiliate_fct": "Württemberg, Herzöge von; Eberhard Ludwig [1677-1733]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139696,
+            "affiliate_fct": "Steiner; Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 141155,
+            "affiliate_fct": "Fischer, Jörg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 166842,
+            "affiliate_fct": "Hafner; Dominicus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174783,
+            "affiliate_fct": "Österreich, Erzherzöge von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176776,
+            "affiliate_fct": "Ulm, von; Johann Ludwig Konstantin, auf Erbach und zu Rotenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 184049,
+            "affiliate_fct": "Obermarchtal UL, Äbte; Nikolaus Wierith",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185696,
+            "affiliate_fct": "Wanner; Barbara, geb. Rieger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192720,
+            "affiliate_fct": "Harrach, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192721,
+            "affiliate_fct": "Württemberg, Herzöge von; Karl Alexander [1733-1737]",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197096,
+            "affiliate_fct": "Rölß; Johann Casimir",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209546,
+            "affiliate_fct": "Schenzle; Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 230611,
+            "affiliate_fct": "Dorilliac von Münch; Jeanne",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243743,
+            "affiliate_fct": "Werner, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 246201,
+            "affiliate_fct": "Huber, Melchior",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259343,
+            "affiliate_fct": "Moll; Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259344,
+            "affiliate_fct": "Moll; Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259345,
+            "affiliate_fct": "Pappelaur; Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274253,
+            "affiliate_fct": "Heberlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 281369,
+            "affiliate_fct": "Landherr; Anna Maria Magdalena",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 281370,
+            "affiliate_fct": "Rueff; Johann Michael",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

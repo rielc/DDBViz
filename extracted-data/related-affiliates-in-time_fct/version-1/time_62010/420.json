@@ -1,0 +1,34 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 420,
+    "affiliate_facet": "Museen im Kulturzentrum",
+    "occurrence": 212,
+    "affiliates": [
+        {
+            "facet_id": 420,
+            "occurrence": 215,
+            "value": "Bildarchiv Foto Marburg (Marburg)"
+        },
+        {
+            "facet_id": 14931,
+            "occurrence": 1,
+            "value": "Teufel, Carl"
+        },
+        {
+            "facet_id": 154545,
+            "occurrence": 1,
+            "value": "Osthaus, Gertrud"
+        },
+        {
+            "facet_id": 288386,
+            "occurrence": 1,
+            "value": "Busse, Georg (1902)"
+        },
+        {
+            "facet_id": 1005019,
+            "occurrence": 1,
+            "value": "Friis, Achton (1906)"
+        }
+    ]
+}

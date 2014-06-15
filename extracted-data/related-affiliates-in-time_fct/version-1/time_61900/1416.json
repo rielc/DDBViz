@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 1416,
+    "affiliate_facet": "Becker",
+    "occurrence": 753,
+    "affiliates": [
+        {
+            "facet_id": 1416,
+            "occurrence": 764,
+            "value": "Universitätsmuseum für Kunst und Kulturgeschichte (Marburg)"
+        },
+        {
+            "facet_id": 4834,
+            "occurrence": 32,
+            "value": "Ubbelohde, Otto"
+        },
+        {
+            "facet_id": 10565,
+            "occurrence": 27,
+            "value": "Grimm, Ludwig Emil"
+        },
+        {
+            "facet_id": 75197,
+            "occurrence": 21,
+            "value": "Hach, Ludwig"
+        },
+        {
+            "facet_id": 11064,
+            "occurrence": 15,
+            "value": "Bantzer, Carl"
+        },
+        {
+            "facet_id": 63894,
+            "occurrence": 11,
+            "value": "Giebel, Heinrich"
+        },
+        {
+            "facet_id": 115748,
+            "occurrence": 8,
+            "value": "Werner, Nikolaus"
+        },
+        {
+            "facet_id": 282783,
+            "occurrence": 8,
+            "value": "Mades, Georg Michael"
+        },
+        {
+            "facet_id": 39780,
+            "occurrence": 6,
+            "value": "Baum, Paul"
+        },
+        {
+            "facet_id": 78539,
+            "occurrence": 6,
+            "value": "Rugendas, Philipp Sebastian"
+        },
+        {
+            "facet_id": 78540,
+            "occurrence": 6,
+            "value": "Rugendas, Christian"
+        },
+        {
+            "facet_id": 78541,
+            "occurrence": 6,
+            "value": "Hartmann, Joseph (1747)"
+        },
+        {
+            "facet_id": 28062,
+            "occurrence": 5,
+            "value": "Klingelhöfer, Fritz"
+        },
+        {
+            "facet_id": 128940,
+            "occurrence": 5,
+            "value": "Königliche Porzellanmanufaktur Berlin"
+        },
+        {
+            "facet_id": 153330,
+            "occurrence": 5,
+            "value": "Hoffmeister, Philipp"
+        },
+        {
+            "facet_id": 115329,
+            "occurrence": 4,
+            "value": "Laeuger, Max"
+        },
+        {
+            "facet_id": 244618,
+            "occurrence": 4,
+            "value": "Bauer, Wilhelm"
+        },
+        {
+            "facet_id": 225,
+            "occurrence": 3,
+            "value": "Hildebrand, Adolf von"
+        },
+        {
+            "facet_id": 42941,
+            "occurrence": 3,
+            "value": "Creutzer, Gustav"
+        },
+        {
+            "facet_id": 46678,
+            "occurrence": 3,
+            "value": "Knaus, Ludwig"
+        },
+        {
+            "facet_id": 74469,
+            "occurrence": 3,
+            "value": "Felsing, Otto"
+        },
+        {
+            "facet_id": 182164,
+            "occurrence": 3,
+            "value": "Dielmann, Jakob Fürchtegott"
+        },
+        {
+            "facet_id": 286260,
+            "occurrence": 3,
+            "value": "Porzellanmanufaktur Berlin"
+        },
+        {
+            "facet_id": 294013,
+            "occurrence": 3,
+            "value": "Hasselhorst, Heinrich"
+        },
+        {
+            "facet_id": 296780,
+            "occurrence": 3,
+            "value": "Schadow, Wilhelm"
+        },
+        {
+            "facet_id": 642485,
+            "occurrence": 3,
+            "value": "Eckel, Franz"
+        },
+        {
+            "facet_id": 2063,
+            "occurrence": 2,
+            "value": "Thoma, Hans"
+        },
+        {
+            "facet_id": 22188,
+            "occurrence": 2,
+            "value": "Beckers, J. H."
+        },
+        {
+            "facet_id": 28188,
+            "occurrence": 2,
+            "value": "Rohlfs, Christian"
+        },
+        {
+            "facet_id": 75180,
+            "occurrence": 2,
+            "value": "Groeber, Hermann"
+        },
+        {
+            "facet_id": 75828,
+            "occurrence": 2,
+            "value": "Schaper, Fritz"
+        },
+        {
+            "facet_id": 82339,
+            "occurrence": 2,
+            "value": "Schirmer, Johann Wilhelm"
+        },
+        {
+            "facet_id": 88874,
+            "occurrence": 2,
+            "value": "Schertle, Valentin"
+        },
+        {
+            "facet_id": 126970,
+            "occurrence": 2,
+            "value": "Matthei, Theodor"
+        },
+        {
+            "facet_id": 153331,
+            "occurrence": 2,
+            "value": "Könnecke, G."
+        },
+        {
+            "facet_id": 249606,
+            "occurrence": 2,
+            "value": "Hauer, H."
+        },
+        {
+            "facet_id": 251551,
+            "occurrence": 2,
+            "value": "Keßler, Johann Martin Benjamin"
+        },
+        {
+            "facet_id": 257342,
+            "occurrence": 2,
+            "value": "Küsthardt, Friedrich"
+        },
+        {
+            "facet_id": 275288,
+            "occurrence": 2,
+            "value": "Suerland, Gottfried"
+        },
+        {
+            "facet_id": 423105,
+            "occurrence": 2,
+            "value": "Koch, Johann August"
+        },
+        {
+            "facet_id": 476435,
+            "occurrence": 2,
+            "value": "Devrient, Wilhelm"
+        },
+        {
+            "facet_id": 509006,
+            "occurrence": 2,
+            "value": "Stedefeld, Bernhard"
+        },
+        {
+            "facet_id": 589164,
+            "occurrence": 2,
+            "value": "Stiegel, Eduard"
+        },
+        {
+            "facet_id": 637198,
+            "occurrence": 2,
+            "value": "Keppler, Borckart"
+        },
+        {
+            "facet_id": 648018,
+            "occurrence": 2,
+            "value": "Kralik, Wilhelm? (Sohn)"
+        },
+        {
+            "facet_id": 3931,
+            "occurrence": 1,
+            "value": "Meunier, Constantin Émile"
+        },
+        {
+            "facet_id": 5054,
+            "occurrence": 1,
+            "value": "Vogel von Vogelstein, Carl Christian"
+        },
+        {
+            "facet_id": 10082,
+            "occurrence": 1,
+            "value": "Kördell, Adam Johannes"
+        },
+        {
+            "facet_id": 12783,
+            "occurrence": 1,
+            "value": "Meißener Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 31392,
+            "occurrence": 1,
+            "value": "Trübner, Wilhelm"
+        },
+        {
+            "facet_id": 32346,
+            "occurrence": 1,
+            "value": "Doerbecker, Karl"
+        },
+        {
+            "facet_id": 33170,
+            "occurrence": 1,
+            "value": "Meyer, Friedrich Elias (der Ältere)"
+        },
+        {
+            "facet_id": 35751,
+            "occurrence": 1,
+            "value": "Käppler, Burckhard"
+        },
+        {
+            "facet_id": 53614,
+            "occurrence": 1,
+            "value": "Wintergerst, Joseph"
+        },
+        {
+            "facet_id": 54216,
+            "occurrence": 1,
+            "value": "Justi, Ferdinand"
+        },
+        {
+            "facet_id": 55026,
+            "occurrence": 1,
+            "value": "Menzel, Adolf Friedrich Erdmann"
+        },
+        {
+            "facet_id": 59315,
+            "occurrence": 1,
+            "value": "Kalckreuth, Stanislaus von"
+        },
+        {
+            "facet_id": 70056,
+            "occurrence": 1,
+            "value": "Engel, Carl"
+        },
+        {
+            "facet_id": 74468,
+            "occurrence": 1,
+            "value": "Mannfeld, Bernhard"
+        },
+        {
+            "facet_id": 75198,
+            "occurrence": 1,
+            "value": "Velten, J. (1825)"
+        },
+        {
+            "facet_id": 75990,
+            "occurrence": 1,
+            "value": "Vogeler, Heinrich"
+        },
+        {
+            "facet_id": 79232,
+            "occurrence": 1,
+            "value": "Becker, Peter (1828)"
+        },
+        {
+            "facet_id": 87250,
+            "occurrence": 1,
+            "value": "Stern, P. C."
+        },
+        {
+            "facet_id": 90404,
+            "occurrence": 1,
+            "value": "Kätelhön, Hermann"
+        },
+        {
+            "facet_id": 104036,
+            "occurrence": 1,
+            "value": "Meyerheim, Eduard"
+        },
+        {
+            "facet_id": 105398,
+            "occurrence": 1,
+            "value": "Klimt, Gustav"
+        },
+        {
+            "facet_id": 114755,
+            "occurrence": 1,
+            "value": "Fritz, Johann Georg"
+        },
+        {
+            "facet_id": 115508,
+            "occurrence": 1,
+            "value": "Tübbecke, Paul Wilhelm"
+        },
+        {
+            "facet_id": 132444,
+            "occurrence": 1,
+            "value": "Kopf, Joseph von"
+        },
+        {
+            "facet_id": 135224,
+            "occurrence": 1,
+            "value": "Schultz, Christian"
+        },
+        {
+            "facet_id": 141187,
+            "occurrence": 1,
+            "value": "Achenbach, Andreas"
+        },
+        {
+            "facet_id": 145279,
+            "occurrence": 1,
+            "value": "Sankt Petersburger Porzellanmanufaktur"
+        },
+        {
+            "facet_id": 154166,
+            "occurrence": 1,
+            "value": "Bagge, Magnus Thulstrup"
+        },
+        {
+            "facet_id": 160905,
+            "occurrence": 1,
+            "value": "Troschel, Peter"
+        },
+        {
+            "facet_id": 165577,
+            "occurrence": 1,
+            "value": "Preller, Friedrich (der Jüngere)"
+        },
+        {
+            "facet_id": 168562,
+            "occurrence": 1,
+            "value": "Rueff, A."
+        },
+        {
+            "facet_id": 173088,
+            "occurrence": 1,
+            "value": "Posch, Leonhard"
+        },
+        {
+            "facet_id": 178477,
+            "occurrence": 1,
+            "value": "Bolt, Johann Friedrich"
+        },
+        {
+            "facet_id": 181530,
+            "occurrence": 1,
+            "value": "Bodenstein, Conrad"
+        },
+        {
+            "facet_id": 182805,
+            "occurrence": 1,
+            "value": "Meyerheim, Paul"
+        },
+        {
+            "facet_id": 187993,
+            "occurrence": 1,
+            "value": "Boissard, Robert"
+        },
+        {
+            "facet_id": 189358,
+            "occurrence": 1,
+            "value": "Lips, Johann Heinrich"
+        },
+        {
+            "facet_id": 212247,
+            "occurrence": 1,
+            "value": "Volkmann, Hans Richard von"
+        },
+        {
+            "facet_id": 215137,
+            "occurrence": 1,
+            "value": "Bracque, Charles"
+        },
+        {
+            "facet_id": 217452,
+            "occurrence": 1,
+            "value": "Theuerkauf, Gottlob"
+        },
+        {
+            "facet_id": 217817,
+            "occurrence": 1,
+            "value": "Koch, Friedrich Ferdinand"
+        },
+        {
+            "facet_id": 219271,
+            "occurrence": 1,
+            "value": "Nerenz, Wilhelm"
+        },
+        {
+            "facet_id": 247256,
+            "occurrence": 1,
+            "value": "Pelouse, Léon Germain"
+        },
+        {
+            "facet_id": 249367,
+            "occurrence": 1,
+            "value": "Rumpf, Philipp"
+        },
+        {
+            "facet_id": 257063,
+            "occurrence": 1,
+            "value": "Sprick, Johann"
+        },
+        {
+            "facet_id": 263840,
+            "occurrence": 1,
+            "value": "Bosio, Giuseppe-Francesco"
+        },
+        {
+            "facet_id": 274184,
+            "occurrence": 1,
+            "value": "Noack, August"
+        },
+        {
+            "facet_id": 297759,
+            "occurrence": 1,
+            "value": "Buderus"
+        },
+        {
+            "facet_id": 299312,
+            "occurrence": 1,
+            "value": "Embde, August von der"
+        },
+        {
+            "facet_id": 301114,
+            "occurrence": 1,
+            "value": "Oër, Theobald Reinhold von (Freiherr)"
+        },
+        {
+            "facet_id": 310248,
+            "occurrence": 1,
+            "value": "Creuzer, Gustav"
+        },
+        {
+            "facet_id": 312302,
+            "occurrence": 1,
+            "value": "Porzellanmanufaktur Nymphenburg"
+        },
+        {
+            "facet_id": 325868,
+            "occurrence": 1,
+            "value": "Hegi, Franz"
+        },
+        {
+            "facet_id": 327526,
+            "occurrence": 1,
+            "value": "Bülow, Paul"
+        },
+        {
+            "facet_id": 337361,
+            "occurrence": 1,
+            "value": "Hasenpflug, Carl Georg Adolph"
+        }
+    ]
+}

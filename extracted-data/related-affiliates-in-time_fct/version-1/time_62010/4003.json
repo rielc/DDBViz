@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 4003,
+    "affiliate_facet": "Justizministerium und Nebenstelle Justizministerium Württemberg-Baden",
+    "occurrence": 146,
+    "affiliates": [
+        {
+            "facet_id": 4003,
+            "occurrence": 148,
+            "value": "Forstamt Ettlingen"
+        },
+        {
+            "facet_id": 275831,
+            "occurrence": 1,
+            "value": "Geometer E. Bürgin"
+        },
+        {
+            "facet_id": 814967,
+            "occurrence": 1,
+            "value": "Forsttaxator Dr. Pfefferkorn"
+        }
+    ]
+}

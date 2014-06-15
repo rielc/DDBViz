@@ -1,0 +1,369 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61645",
+    "affiliate_facet_id": 917,
+    "affiliate_facet": "Leopold Adler",
+    "occurrence": 571,
+    "affiliates": [
+        {
+            "facet_id": 917,
+            "occurrence": 701,
+            "value": "Bayerisches Nationalmuseum (München)"
+        },
+        {
+            "facet_id": 26917,
+            "occurrence": 25,
+            "value": "Bry, Johann Theodor de"
+        },
+        {
+            "facet_id": 4337,
+            "occurrence": 14,
+            "value": "Candid, Peter"
+        },
+        {
+            "facet_id": 32122,
+            "occurrence": 14,
+            "value": "Marelli, Andrea"
+        },
+        {
+            "facet_id": 32123,
+            "occurrence": 14,
+            "value": "Cresci, Giovanni Francesco"
+        },
+        {
+            "facet_id": 76517,
+            "occurrence": 12,
+            "value": "Reymond, Pierre (1513)"
+        },
+        {
+            "facet_id": 161468,
+            "occurrence": 11,
+            "value": "Schrader, Osias"
+        },
+        {
+            "facet_id": 66424,
+            "occurrence": 7,
+            "value": "Coecke van Aelst, Pieter (1)"
+        },
+        {
+            "facet_id": 347962,
+            "occurrence": 5,
+            "value": "Pannemaker, Wilhelm de"
+        },
+        {
+            "facet_id": 347963,
+            "occurrence": 5,
+            "value": "Romano, Giulio"
+        },
+        {
+            "facet_id": 72222,
+            "occurrence": 4,
+            "value": "Peisser, Hans"
+        },
+        {
+            "facet_id": 181766,
+            "occurrence": 4,
+            "value": "Preissensin, Albrecht"
+        },
+        {
+            "facet_id": 81495,
+            "occurrence": 3,
+            "value": "Meister F. W. (1550)"
+        },
+        {
+            "facet_id": 82285,
+            "occurrence": 3,
+            "value": "Horchaimer, Nikolaus"
+        },
+        {
+            "facet_id": 112039,
+            "occurrence": 3,
+            "value": "Gerhard, Hubert"
+        },
+        {
+            "facet_id": 233095,
+            "occurrence": 3,
+            "value": "Delaune, Etienne"
+        },
+        {
+            "facet_id": 846912,
+            "occurrence": 3,
+            "value": "Guebels, Jacques (1580)"
+        },
+        {
+            "facet_id": 5052,
+            "occurrence": 2,
+            "value": "Ammann, Jost"
+        },
+        {
+            "facet_id": 7554,
+            "occurrence": 2,
+            "value": "Jamnitzer, Wenzel (1)"
+        },
+        {
+            "facet_id": 12384,
+            "occurrence": 2,
+            "value": "Giambologna"
+        },
+        {
+            "facet_id": 16942,
+            "occurrence": 2,
+            "value": "Flötner, Peter (1485)"
+        },
+        {
+            "facet_id": 89739,
+            "occurrence": 2,
+            "value": "Kellner, Hans (1553)"
+        },
+        {
+            "facet_id": 119532,
+            "occurrence": 2,
+            "value": "Kran, Engel"
+        },
+        {
+            "facet_id": 290906,
+            "occurrence": 2,
+            "value": "Briot, François"
+        },
+        {
+            "facet_id": 476151,
+            "occurrence": 2,
+            "value": "Zipfel, Veit"
+        },
+        {
+            "facet_id": 482001,
+            "occurrence": 2,
+            "value": "Gar, Hans (?)"
+        },
+        {
+            "facet_id": 667737,
+            "occurrence": 2,
+            "value": "Hirsvogel, ?"
+        },
+        {
+            "facet_id": 674599,
+            "occurrence": 2,
+            "value": "Monogrammist H. R. (1567-1570)"
+        },
+        {
+            "facet_id": 10867,
+            "occurrence": 1,
+            "value": "Silber, Jonas"
+        },
+        {
+            "facet_id": 21437,
+            "occurrence": 1,
+            "value": "Solis, Virgilius (der Ältere)"
+        },
+        {
+            "facet_id": 33529,
+            "occurrence": 1,
+            "value": "Schaper, Johann"
+        },
+        {
+            "facet_id": 51103,
+            "occurrence": 1,
+            "value": "Spatz, Hans (2)"
+        },
+        {
+            "facet_id": 55473,
+            "occurrence": 1,
+            "value": "Vos, Marten de"
+        },
+        {
+            "facet_id": 56006,
+            "occurrence": 1,
+            "value": "Angermair, Christof (der Ältere)"
+        },
+        {
+            "facet_id": 69878,
+            "occurrence": 1,
+            "value": "Maler, Valentin"
+        },
+        {
+            "facet_id": 76516,
+            "occurrence": 1,
+            "value": "Courteys, Pierre (1)"
+        },
+        {
+            "facet_id": 82286,
+            "occurrence": 1,
+            "value": "Preißensin, Albrecht"
+        },
+        {
+            "facet_id": 85606,
+            "occurrence": 1,
+            "value": "Colin, Alexander"
+        },
+        {
+            "facet_id": 100735,
+            "occurrence": 1,
+            "value": "Rumpler, Hans"
+        },
+        {
+            "facet_id": 152834,
+            "occurrence": 1,
+            "value": "Hirschvogel, Augustin"
+        },
+        {
+            "facet_id": 157057,
+            "occurrence": 1,
+            "value": "Belli, Valerio"
+        },
+        {
+            "facet_id": 191203,
+            "occurrence": 1,
+            "value": "Sandtner, Jakob"
+        },
+        {
+            "facet_id": 194336,
+            "occurrence": 1,
+            "value": "Mennicken, Jan Emens"
+        },
+        {
+            "facet_id": 240491,
+            "occurrence": 1,
+            "value": "Enderlein, Caspar"
+        },
+        {
+            "facet_id": 304219,
+            "occurrence": 1,
+            "value": "Wilhelm (Bayern, Herzog, 4)"
+        },
+        {
+            "facet_id": 319416,
+            "occurrence": 1,
+            "value": "Riccio, Andrea"
+        },
+        {
+            "facet_id": 370315,
+            "occurrence": 1,
+            "value": "Treutmüller, Hans"
+        },
+        {
+            "facet_id": 384142,
+            "occurrence": 1,
+            "value": "Enderlein, Nik."
+        },
+        {
+            "facet_id": 386594,
+            "occurrence": 1,
+            "value": "Breuning, ? (1550)"
+        },
+        {
+            "facet_id": 425642,
+            "occurrence": 1,
+            "value": "Enderlei, ?"
+        },
+        {
+            "facet_id": 476152,
+            "occurrence": 1,
+            "value": "Appel, Hans"
+        },
+        {
+            "facet_id": 521299,
+            "occurrence": 1,
+            "value": "Eham, Paulus"
+        },
+        {
+            "facet_id": 521300,
+            "occurrence": 1,
+            "value": "Meister mit dem Ring"
+        },
+        {
+            "facet_id": 529082,
+            "occurrence": 1,
+            "value": "Sibmacher, Johann"
+        },
+        {
+            "facet_id": 564382,
+            "occurrence": 1,
+            "value": "Frey, Martin (1584)"
+        },
+        {
+            "facet_id": 564383,
+            "occurrence": 1,
+            "value": "Fugger, Hans (Graf)"
+        },
+        {
+            "facet_id": 604499,
+            "occurrence": 1,
+            "value": "Meister von 1561"
+        },
+        {
+            "facet_id": 667738,
+            "occurrence": 1,
+            "value": "Brenning, Paulus"
+        },
+        {
+            "facet_id": 787877,
+            "occurrence": 1,
+            "value": "Meister A. Z."
+        },
+        {
+            "facet_id": 818930,
+            "occurrence": 1,
+            "value": "Monogrammist R. G. (1589)"
+        },
+        {
+            "facet_id": 869827,
+            "occurrence": 1,
+            "value": "Baldems, Jan"
+        },
+        {
+            "facet_id": 869828,
+            "occurrence": 1,
+            "value": "Aldegrever, Albert"
+        },
+        {
+            "facet_id": 924411,
+            "occurrence": 1,
+            "value": "Bockschütz, Georg"
+        },
+        {
+            "facet_id": 931025,
+            "occurrence": 1,
+            "value": "Hirschvogelsche Werkstatt / Brenningsche Werkstatt"
+        },
+        {
+            "facet_id": 1000800,
+            "occurrence": 1,
+            "value": "Meister H. S. (1669)"
+        },
+        {
+            "facet_id": 1017429,
+            "occurrence": 1,
+            "value": "Appel, Lorentz"
+        },
+        {
+            "facet_id": 1017430,
+            "occurrence": 1,
+            "value": "Meister mit der Lilie"
+        },
+        {
+            "facet_id": 1057230,
+            "occurrence": 1,
+            "value": "Monogrammist H. G. (1551-1600)"
+        },
+        {
+            "facet_id": 1075609,
+            "occurrence": 1,
+            "value": "Schmauss, Georg"
+        },
+        {
+            "facet_id": 1107362,
+            "occurrence": 1,
+            "value": "Monogrammist W. P. (1599)"
+        },
+        {
+            "facet_id": 1107951,
+            "occurrence": 1,
+            "value": "Ritter, Christoph (1548)"
+        },
+        {
+            "facet_id": 1145880,
+            "occurrence": 1,
+            "value": "Pynacker, Jacobus"
+        }
+    ]
+}

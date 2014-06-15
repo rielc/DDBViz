@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 32,
+    "time_fct": "time_61807",
+    "affiliate_facet_id": 442,
+    "affiliate_facet": "Reichsabtei Obermarchtal",
+    "occurrence": 397,
+    "affiliates": [
+        {
+            "facet_id": 442,
+            "occurrence": 414,
+            "value": "Regierung"
+        },
+        {
+            "facet_id": 125910,
+            "occurrence": 4,
+            "value": "Endress, Georg Michael, Kettenwirt in Wertheim"
+        },
+        {
+            "facet_id": 29241,
+            "occurrence": 3,
+            "value": "Hessen-Darmstadt, Landgrafen"
+        },
+        {
+            "facet_id": 174052,
+            "occurrence": 3,
+            "value": "Leckisch, Isaac, Schutzjude in Wertheim"
+        },
+        {
+            "facet_id": 601485,
+            "occurrence": 3,
+            "value": "Stadecker, Abraham, Schutzjude in Wertheim"
+        },
+        {
+            "facet_id": 29242,
+            "occurrence": 2,
+            "value": "Pfalz, Kurfürsten"
+        },
+        {
+            "facet_id": 95670,
+            "occurrence": 2,
+            "value": "Freudenberger, Joseph, Schutzjude in Wertheim"
+        },
+        {
+            "facet_id": 95671,
+            "occurrence": 2,
+            "value": "Friedberger, Wolf, Schutzjude in Wertheim"
+        },
+        {
+            "facet_id": 133988,
+            "occurrence": 2,
+            "value": "Greineisen, Georg Philipp, Stadtpfarrer in Löwenstein"
+        },
+        {
+            "facet_id": 204980,
+            "occurrence": 2,
+            "value": "Müssig, Johannes, löwenstein-wertheim-rochefortscher Amtskeller zu Habitzheim"
+        },
+        {
+            "facet_id": 213820,
+            "occurrence": 2,
+            "value": "Hirsch, Ephraim, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 239935,
+            "occurrence": 2,
+            "value": "Endress, Lorenz, Hospitalsverwalter in Wertheim"
+        },
+        {
+            "facet_id": 345244,
+            "occurrence": 2,
+            "value": "Buch, Christoph Michael, Apotheker in Wertheim"
+        },
+        {
+            "facet_id": 476301,
+            "occurrence": 2,
+            "value": "Würzburg, Hochstift"
+        },
+        {
+            "facet_id": 505027,
+            "occurrence": 2,
+            "value": "Schreck, Peter, Haßmersheim"
+        },
+        {
+            "facet_id": 569816,
+            "occurrence": 2,
+            "value": "Arenberg, Herzog"
+        },
+        {
+            "facet_id": 1002381,
+            "occurrence": 2,
+            "value": "Nimpsch, Friedrich Gottlieb von, Hauptmann des Kreiskontingents"
+        },
+        {
+            "facet_id": 656,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Rochefort, Fürsten; Maximilian Carl"
+        },
+        {
+            "facet_id": 657,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen; Heinrich Friedrich"
+        },
+        {
+            "facet_id": 848,
+            "occurrence": 1,
+            "value": "Alexander, Tobias, Wertheim"
+        },
+        {
+            "facet_id": 7407,
+            "occurrence": 1,
+            "value": "Lederer, Balthasar, Obermüller in Löwenstein"
+        },
+        {
+            "facet_id": 11216,
+            "occurrence": 1,
+            "value": "Mohr, Hans Adam, Urphar"
+        },
+        {
+            "facet_id": 23556,
+            "occurrence": 1,
+            "value": "Setz, Christoph, gemeinschaftlicher Hofbüttner"
+        },
+        {
+            "facet_id": 31169,
+            "occurrence": 1,
+            "value": "Weber, Andreas"
+        },
+        {
+            "facet_id": 33795,
+            "occurrence": 1,
+            "value": "Dickhaut, F. Jo. , kurpfälzischer Amtsverweser zu Groß-Umstadt"
+        },
+        {
+            "facet_id": 40588,
+            "occurrence": 1,
+            "value": "Scheerbaum, Johannes, Kanzleidirektor in Wertheim"
+        },
+        {
+            "facet_id": 40598,
+            "occurrence": 1,
+            "value": "Haxthausen, von, Georgenhausen"
+        },
+        {
+            "facet_id": 47100,
+            "occurrence": 1,
+            "value": "Müller, Jörg, Lautern"
+        },
+        {
+            "facet_id": 52075,
+            "occurrence": 1,
+            "value": "Brand, Franz Heinrich, Büttnerlehrling aus Lübeck"
+        },
+        {
+            "facet_id": 52076,
+            "occurrence": 1,
+            "value": "Weidung, Adam, Büttner in Wertheim"
+        },
+        {
+            "facet_id": 57322,
+            "occurrence": 1,
+            "value": "Bessel, Hieronymus, gemeinschaftlicher Forstmeister"
+        },
+        {
+            "facet_id": 57959,
+            "occurrence": 1,
+            "value": "Isaac, Michael, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 58288,
+            "occurrence": 1,
+            "value": "Stuirbrinck, Johann Baptist, Amtsverweser zu Gerichtstetten"
+        },
+        {
+            "facet_id": 63767,
+            "occurrence": 1,
+            "value": "Maul, Georg Ferdinand von, löwenstein-wertheim-rochefortscher Reichshofratagent"
+        },
+        {
+            "facet_id": 63997,
+            "occurrence": 1,
+            "value": "Betz, Hans Adam, Löwenstein"
+        },
+        {
+            "facet_id": 104667,
+            "occurrence": 1,
+            "value": "Hünefeld von, Nikolaus Christoph"
+        },
+        {
+            "facet_id": 110150,
+            "occurrence": 1,
+            "value": "Semmler, Christoph, Forstmeister"
+        },
+        {
+            "facet_id": 113132,
+            "occurrence": 1,
+            "value": "Endress, Johann Michael, Wollweber in Wertheim"
+        },
+        {
+            "facet_id": 113133,
+            "occurrence": 1,
+            "value": "Fischer, Anna Catharina, Wertheim"
+        },
+        {
+            "facet_id": 135686,
+            "occurrence": 1,
+            "value": "Buch, Philipp, Schiffer in Wertheim"
+        },
+        {
+            "facet_id": 137070,
+            "occurrence": 1,
+            "value": "Assum, Ludwig Heinrich, Handelsmann in Wertheim"
+        },
+        {
+            "facet_id": 154806,
+            "occurrence": 1,
+            "value": "Conspruck, Catharina Theodora"
+        },
+        {
+            "facet_id": 159826,
+            "occurrence": 1,
+            "value": "Megerlein, Jacob, Metzger in Wertheim"
+        },
+        {
+            "facet_id": 160927,
+            "occurrence": 1,
+            "value": "Heid, Andreas, Bäcker in Wertheim"
+        },
+        {
+            "facet_id": 167868,
+            "occurrence": 1,
+            "value": "Löwenstein-Wertheim-Virneburg, Grafen; Johann Carl Ludwig"
+        },
+        {
+            "facet_id": 174050,
+            "occurrence": 1,
+            "value": "Götzelmann, Jacob, Müller"
+        },
+        {
+            "facet_id": 174051,
+            "occurrence": 1,
+            "value": "Götzelmann, Johann, Müller in Niklashausen"
+        },
+        {
+            "facet_id": 180576,
+            "occurrence": 1,
+            "value": "Keller, Michael, Schwarzenbrunn"
+        },
+        {
+            "facet_id": 200676,
+            "occurrence": 1,
+            "value": "Flegler, Hans, Schultheiß in Bettingen"
+        },
+        {
+            "facet_id": 204067,
+            "occurrence": 1,
+            "value": "Knoll, Anton, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204068,
+            "occurrence": 1,
+            "value": "Lang, Gottfried, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204069,
+            "occurrence": 1,
+            "value": "Reitz, Georg Lorenz, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204070,
+            "occurrence": 1,
+            "value": "Sanner, Johann David, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204071,
+            "occurrence": 1,
+            "value": "Schröder, Hartwig, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204072,
+            "occurrence": 1,
+            "value": "Stephani, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204073,
+            "occurrence": 1,
+            "value": "Willius, Johann Friedrich, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 204074,
+            "occurrence": 1,
+            "value": "Zeuner, David, Rektor an der Lateinschule"
+        },
+        {
+            "facet_id": 205348,
+            "occurrence": 1,
+            "value": "Praun, Tobias Sebastian, Agent beim Reichshofrat"
+        },
+        {
+            "facet_id": 213818,
+            "occurrence": 1,
+            "value": "Abraham, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 213819,
+            "occurrence": 1,
+            "value": "Fälklein, David, Schutzjude in Wertheim"
+        },
+        {
+            "facet_id": 213821,
+            "occurrence": 1,
+            "value": "Hirsch, Samuel, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 213822,
+            "occurrence": 1,
+            "value": "Isaac Moses, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 213823,
+            "occurrence": 1,
+            "value": "Leibneck, Moses, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 213824,
+            "occurrence": 1,
+            "value": "Moses, Rabbiner in Wertheim"
+        },
+        {
+            "facet_id": 222976,
+            "occurrence": 1,
+            "value": "Kurmainz"
+        },
+        {
+            "facet_id": 245607,
+            "occurrence": 1,
+            "value": "Stierlein, Nikolaus, Lehrer in Nassig"
+        },
+        {
+            "facet_id": 247202,
+            "occurrence": 1,
+            "value": "Nees, Johann Andreas, Caution"
+        },
+        {
+            "facet_id": 256344,
+            "occurrence": 1,
+            "value": "Brümmer, Peter, Waldenhausen"
+        },
+        {
+            "facet_id": 256345,
+            "occurrence": 1,
+            "value": "Horn, Nikolas, Eichel"
+        },
+        {
+            "facet_id": 257202,
+            "occurrence": 1,
+            "value": "Schletz, Georg, Buch am Ahorn"
+        },
+        {
+            "facet_id": 257203,
+            "occurrence": 1,
+            "value": "Seitz, Burkhard, Gerichtstetten"
+        },
+        {
+            "facet_id": 257204,
+            "occurrence": 1,
+            "value": "Wehrlein, Georg, Buch am Ahorn"
+        },
+        {
+            "facet_id": 257236,
+            "occurrence": 1,
+            "value": "Baumann, Johann Georg, Bäcker"
+        },
+        {
+            "facet_id": 257237,
+            "occurrence": 1,
+            "value": "Brümmer, Johann Paul, Bäcker in Waldenhausen"
+        },
+        {
+            "facet_id": 257238,
+            "occurrence": 1,
+            "value": "Götzelmann, Johannes, Bäcker in Dertingen"
+        },
+        {
+            "facet_id": 257239,
+            "occurrence": 1,
+            "value": "Johann Georg Schwab, Bäcker in Remlingen"
+        },
+        {
+            "facet_id": 257240,
+            "occurrence": 1,
+            "value": "Mader, Andreas, Bäcker"
+        },
+        {
+            "facet_id": 257241,
+            "occurrence": 1,
+            "value": "Metzler, Johann Thomas, Bäcker"
+        },
+        {
+            "facet_id": 257242,
+            "occurrence": 1,
+            "value": "Sührer, Hans Adam, Höhefeld"
+        },
+        {
+            "facet_id": 258478,
+            "occurrence": 1,
+            "value": "Birkenstock, Johann Christoph, Rentmeister"
+        },
+        {
+            "facet_id": 261967,
+            "occurrence": 1,
+            "value": "Thorwesten, Kaspar Ludwig, Kanzler"
+        },
+        {
+            "facet_id": 264325,
+            "occurrence": 1,
+            "value": "Leineweber, Johann Georg, Bader in Wertheim"
+        },
+        {
+            "facet_id": 277539,
+            "occurrence": 1,
+            "value": "Busch, Hans Caspar, Schwarzenbrunn"
+        },
+        {
+            "facet_id": 288251,
+            "occurrence": 1,
+            "value": "Rodenhausen, Johann Michael"
+        },
+        {
+            "facet_id": 301959,
+            "occurrence": 1,
+            "value": "Turenne, Henri de, französischer Marschall"
+        },
+        {
+            "facet_id": 305328,
+            "occurrence": 1,
+            "value": "Berlichingen von, Freiherr"
+        },
+        {
+            "facet_id": 310543,
+            "occurrence": 1,
+            "value": "Reinhard, Johann Jacob, Hofrat"
+        },
+        {
+            "facet_id": 312310,
+            "occurrence": 1,
+            "value": "Castell, Grafen von"
+        },
+        {
+            "facet_id": 328568,
+            "occurrence": 1,
+            "value": "Arnd, Johann Adam, Major"
+        },
+        {
+            "facet_id": 332954,
+            "occurrence": 1,
+            "value": "Albert, Valentin, Michelrieth"
+        },
+        {
+            "facet_id": 332955,
+            "occurrence": 1,
+            "value": "Schäfer, Catharina, Michelrieth"
+        },
+        {
+            "facet_id": 333632,
+            "occurrence": 1,
+            "value": "Löwenstein von, Maximilian Carl, Fürst"
+        },
+        {
+            "facet_id": 339458,
+            "occurrence": 1,
+            "value": "Springs, Dittlofsroda"
+        },
+        {
+            "facet_id": 339459,
+            "occurrence": 1,
+            "value": "Wolf Hirsch, Jude in Wertheim"
+        },
+        {
+            "facet_id": 339622,
+            "occurrence": 1,
+            "value": "Stuirbrink, Amtsverweser"
+        },
+        {
+            "facet_id": 340757,
+            "occurrence": 1,
+            "value": "Reuss, Johann Michael, Rentmeister"
+        },
+        {
+            "facet_id": 343398,
+            "occurrence": 1,
+            "value": "LÖwenstein zu, Maximilian Carl"
+        },
+        {
+            "facet_id": 354732,
+            "occurrence": 1,
+            "value": "Kaufmann, Jörg Valentin, Schwarzenbrunn"
+        },
+        {
+            "facet_id": 362088,
+            "occurrence": 1,
+            "value": "Göler, Engelbert, Rat"
+        },
+        {
+            "facet_id": 374908,
+            "occurrence": 1,
+            "value": "Artz, Franz, Amtsverweser zu Gerichtstetten"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 49,
+    "time_fct": "time_61400",
+    "affiliate_fct_id": 13711,
+    "affiliate_fct": "Wenzel, König, 1361-1419",
+    "affiliate_fct_occurrence": 255,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 13711,
+            "affiliate_fct": "Wenzel, König, 1361-1419",
+            "affiliate_fct_occurrence": 255
+        },
+        {
+            "affiliate_fct_id": 536,
+            "affiliate_fct": "Karl IV.; Kaiser, 1316-1378",
+            "affiliate_fct_occurrence": 24
+        },
+        {
+            "affiliate_fct_id": 35415,
+            "affiliate_fct": "Reichsstadt Reutlingen",
+            "affiliate_fct_occurrence": 23
+        },
+        {
+            "affiliate_fct_id": 29289,
+            "affiliate_fct": "Reichsstadt Ravensburg",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 40664,
+            "affiliate_fct": "Städtebündnisse",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 68750,
+            "affiliate_fct": "Swinar, Borzywoy von",
+            "affiliate_fct_occurrence": 15
+        },
+        {
+            "affiliate_fct_id": 150380,
+            "affiliate_fct": "Reichsstadt Schwäbisch Gmünd",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 37158,
+            "affiliate_fct": "Reichsstadt Esslingen",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 38823,
+            "affiliate_fct": "Reichsstadt Ulm",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 3919,
+            "affiliate_fct": "Württemberg, Eberhard II. (der Greiner); Graf, nach 1315-1392",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 70749,
+            "affiliate_fct": "Österreich, Leopold III.; Herzog, 1351-1386",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 31986,
+            "affiliate_fct": "Reichsstadt Rottweil",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 45668,
+            "affiliate_fct": "Reichsstadt Leutkirch",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 102630,
+            "affiliate_fct": "Reichsstadt Schwäbisch Hall",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 380206,
+            "affiliate_fct": "Frauenberger, Wilhelm",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 11915,
+            "affiliate_fct": "Württemberg, Eberhard III. (der Milde); Graf, nach 1362-1417",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 12153,
+            "affiliate_fct": "Stift Ellwangen",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 49575,
+            "affiliate_fct": "Deutschordenskommende Mergentheim",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 8101,
+            "affiliate_fct": "Neuwürttembergische Reichslehen I",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 45670,
+            "affiliate_fct": "Nürnberg; Niclaus Muffel",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 277369,
+            "affiliate_fct": "Reichsstadt Bopfingen",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 13710,
+            "affiliate_fct": "Römische Kaiser und Könige",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 45669,
+            "affiliate_fct": "Nürnberg; Heinrich Eisvogel",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 84526,
+            "affiliate_fct": "Leuchtenberg, Johann I. Landgraf von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 106118,
+            "affiliate_fct": "Bayern, Friedrich der Weise; Herzog, um 1339-1393",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 175881,
+            "affiliate_fct": "Wolfsberg, Ulrich von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 35416,
+            "affiliate_fct": "Öttingen, Friedrich III. Graf von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 39635,
+            "affiliate_fct": "Haus Württemberg (Privilegien und Freiheiten)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 47858,
+            "affiliate_fct": "Württemberg, Ulrich von; Graf, 1343-1388",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 55994,
+            "affiliate_fct": "Kloster Schöntal",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 65798,
+            "affiliate_fct": "Grafen von Helfenstein",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 99218,
+            "affiliate_fct": "Haus Württemberg (Juden)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 118771,
+            "affiliate_fct": "Reichsstadt Biberach",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 118807,
+            "affiliate_fct": "Münzsachen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 125035,
+            "affiliate_fct": "Reichsstadt Giengen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 357033,
+            "affiliate_fct": "Reichsstadt Wangen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 373561,
+            "affiliate_fct": "Bayern, Stephan III.; Herzog, um 1337-1413",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 468606,
+            "affiliate_fct": "Leuchtenberg, Sigiost Landgraf von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 10776,
+            "affiliate_fct": "Kloster Weingarten",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28236,
+            "affiliate_fct": "Hohenlohe, Kraft von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 43059,
+            "affiliate_fct": "Reichsstadt Heilbronn",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 109265,
+            "affiliate_fct": "Öttingen, Friedrich Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 128269,
+            "affiliate_fct": "Hohenberg, Rudolf III. Graf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 154246,
+            "affiliate_fct": "Leuchtenberg, Albrecht Landgraf von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 287521,
+            "affiliate_fct": "Bayern-München, Ernst; Herzog, 1373-1438",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 317068,
+            "affiliate_fct": "Stift Comburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 370329,
+            "affiliate_fct": "Wangen, Dietrich Wermeister, Stadtamman",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 653515,
+            "affiliate_fct": "Lawarn, Hadmar von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 826937,
+            "affiliate_fct": "Randeck, Konrad von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 966410,
+            "affiliate_fct": "Tollinger, Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1079804,
+            "affiliate_fct": "Vraunhofer, Jürgen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 744,
+            "affiliate_fct": "Österreich, Albrecht VI.; Erzherzog; 1418-1463",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3115,
+            "affiliate_fct": "Sigmund",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4446,
+            "affiliate_fct": "Friedrich III.; Kaiser, 1415-1493",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13807,
+            "affiliate_fct": "Österreich, Sigismund (der Münzreiche); Erzherzog, 1427-1496",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 18906,
+            "affiliate_fct": "Böhmen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33276,
+            "affiliate_fct": "Pfalzgrafen bei Rhein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 65799,
+            "affiliate_fct": "Helfenstein; Johann II. Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 66386,
+            "affiliate_fct": "Kloster Söflingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96538,
+            "affiliate_fct": "Schatzarchiv Innsbruck",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 109264,
+            "affiliate_fct": "Helfenstein, Anna Gräfin von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128268,
+            "affiliate_fct": "Vormals österreichische Landesteile I",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 134678,
+            "affiliate_fct": "Bayern, Herzöge von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 144781,
+            "affiliate_fct": "Waldburg, Johann(es) Truchsess von; Reichslandvogt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152637,
+            "affiliate_fct": "Clemens (VIII.) (Gil Sánchez Muñoz y Carbón); Gegenpapst, 1369-1447",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152638,
+            "affiliate_fct": "Urban VI. (Bartolomeo Prignano); Papst, um 1318-1389",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 158963,
+            "affiliate_fct": "Kloster Maulbronn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167086,
+            "affiliate_fct": "Waldburg, Eberhard Freiherr Truchsess von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167681,
+            "affiliate_fct": "Kloster Zwiefalten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167861,
+            "affiliate_fct": "Herrenberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167862,
+            "affiliate_fct": "Ochsenstein, Hans von; 1331-1386",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167863,
+            "affiliate_fct": "Ochsenstein; Rudolf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174251,
+            "affiliate_fct": "Kloster Lorch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174757,
+            "affiliate_fct": "Habsburg, Rudolf, Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174758,
+            "affiliate_fct": "Karl [IV.], Ks.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176281,
+            "affiliate_fct": "Waldburg, Jakob Truchsess von; Landvogt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 189235,
+            "affiliate_fct": "Hohenlohe, Gerlach von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 203464,
+            "affiliate_fct": "Waldburg, Jörg Truchsess von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 220285,
+            "affiliate_fct": "Rhein; Friedrich Pfalzgraf bei",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 230201,
+            "affiliate_fct": "Esslingen, Marquard im Kirchhof",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245885,
+            "affiliate_fct": "Ravensburg, Claus Richlisreute",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245886,
+            "affiliate_fct": "Ravensburg, Hans Engler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 274093,
+            "affiliate_fct": "Kloster Ochsenhausen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 279221,
+            "affiliate_fct": "Reichtsstadt Leutkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 279222,
+            "affiliate_fct": "Schellenberg, Herren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 299168,
+            "affiliate_fct": "Kloster Schussenried",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 317751,
+            "affiliate_fct": "Waldburg, Hans Truchsess von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 349730,
+            "affiliate_fct": "Oettingen, Ludwig XI.; Graf, Hofmeister, 1350-1440",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381586,
+            "affiliate_fct": "Reichsstadz Reutlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381890,
+            "affiliate_fct": "Freyberg, Wilhelm von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 392792,
+            "affiliate_fct": "Vormals österreischische Landesteile I",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 413304,
+            "affiliate_fct": "Reichsstadz Ravensburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 420246,
+            "affiliate_fct": "1976 aus Warthausen erworben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471097,
+            "affiliate_fct": "Haus Württemberg (Pfandschaften)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 503895,
+            "affiliate_fct": "Reichsstädte",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 515894,
+            "affiliate_fct": "Deutscher Orden (Oberamt Neckar)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 564060,
+            "affiliate_fct": "Lemblin, Volmar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 570690,
+            "affiliate_fct": "Kommende Kapsenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 720997,
+            "affiliate_fct": "Bayern, Albrecht IV. der Weise; Herzog, 1447-1508",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 737380,
+            "affiliate_fct": "Sturmfeder, Burkard",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

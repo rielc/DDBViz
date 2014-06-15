@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 835,
+    "affiliate_facet": "Bundesbahndirektion Karlsruhe",
+    "occurrence": 562,
+    "affiliates": [
+        {
+            "facet_id": 835,
+            "occurrence": 636,
+            "value": "Saarländisches Schulmuseum Ottweiler"
+        },
+        {
+            "facet_id": 6459,
+            "occurrence": 102,
+            "value": "Leipziger Schulbilderverlag von F. E. Wachsmuth, Leipzig"
+        },
+        {
+            "facet_id": 21771,
+            "occurrence": 21,
+            "value": "Claudius, Wilhelm Ludwig Heinrich"
+        },
+        {
+            "facet_id": 81518,
+            "occurrence": 21,
+            "value": "Druck und Verlag von W. Crüwell, Dortmund"
+        },
+        {
+            "facet_id": 27834,
+            "occurrence": 16,
+            "value": "Offsetdruck von J. F. Schreiber, Graphische Kunstanstalt, Esslingen"
+        },
+        {
+            "facet_id": 150512,
+            "occurrence": 16,
+            "value": "Neue Photographische Gesellschaft, Berlin-Steglitz"
+        },
+        {
+            "facet_id": 107170,
+            "occurrence": 12,
+            "value": "Offsetdruck J. F. Schreiber, Graphische Kunstanstalt, Eßlingen"
+        },
+        {
+            "facet_id": 237376,
+            "occurrence": 11,
+            "value": "Regel &amp; Krug, Leipzig"
+        },
+        {
+            "facet_id": 171406,
+            "occurrence": 10,
+            "value": "Dresdner Schulverlag Leutert &amp; Schneidewind"
+        },
+        {
+            "facet_id": 320994,
+            "occurrence": 10,
+            "value": "Druck und Verlag von Friedrich Andreas Perthes, Gotha"
+        },
+        {
+            "facet_id": 64632,
+            "occurrence": 9,
+            "value": "Pestalozzi-Fröbel-Verlag, Leipzig"
+        },
+        {
+            "facet_id": 244585,
+            "occurrence": 9,
+            "value": "Hey, Paul"
+        },
+        {
+            "facet_id": 320995,
+            "occurrence": 9,
+            "value": "Pfeiffer, Wilhelm"
+        },
+        {
+            "facet_id": 244584,
+            "occurrence": 8,
+            "value": "Gustav A. Rietzschel Lehrmittel Leipzig"
+        },
+        {
+            "facet_id": 301120,
+            "occurrence": 7,
+            "value": "Bukacz, F."
+        },
+        {
+            "facet_id": 27808,
+            "occurrence": 5,
+            "value": "Kunstverlag E. A. Schwerdtfeger &amp; Co. AG, Berlin"
+        },
+        {
+            "facet_id": 135258,
+            "occurrence": 5,
+            "value": "Meinhold Verlagsgesellschaft, Dresden"
+        },
+        {
+            "facet_id": 226926,
+            "occurrence": 5,
+            "value": "Druck und Verlag von J. F. Schreiber, Eßlingen und München"
+        },
+        {
+            "facet_id": 413015,
+            "occurrence": 5,
+            "value": "Klemm, Josef"
+        },
+        {
+            "facet_id": 14681,
+            "occurrence": 4,
+            "value": "Verlag von Paul Parey in Berlin"
+        },
+        {
+            "facet_id": 64633,
+            "occurrence": 4,
+            "value": "Brösel, Max"
+        },
+        {
+            "facet_id": 129935,
+            "occurrence": 4,
+            "value": "Meinhold und Söhne, C. C."
+        },
+        {
+            "facet_id": 202444,
+            "occurrence": 4,
+            "value": "Rotophot, Berlin"
+        },
+        {
+            "facet_id": 231633,
+            "occurrence": 4,
+            "value": "Verlag von A. W. Kofemann, Danzig"
+        },
+        {
+            "facet_id": 248792,
+            "occurrence": 4,
+            "value": "Fa. Adt, Ensheim, Forbach"
+        },
+        {
+            "facet_id": 352298,
+            "occurrence": 4,
+            "value": "F. Soennecken, Schreibwarenfabrik"
+        },
+        {
+            "facet_id": 617656,
+            "occurrence": 4,
+            "value": "Schöneberger Luxuspapier-Industrie Felix Freund, Berlin"
+        },
+        {
+            "facet_id": 14680,
+            "occurrence": 3,
+            "value": "Kull, A."
+        },
+        {
+            "facet_id": 31268,
+            "occurrence": 3,
+            "value": "Schmidt, Hans"
+        },
+        {
+            "facet_id": 57072,
+            "occurrence": 3,
+            "value": "Müller Wachsmuth, M."
+        },
+        {
+            "facet_id": 142108,
+            "occurrence": 3,
+            "value": "Verlag Friedrich Vieweg &amp; Sohn, Braunschweig"
+        },
+        {
+            "facet_id": 142109,
+            "occurrence": 3,
+            "value": "Bollmann, Carl"
+        },
+        {
+            "facet_id": 204368,
+            "occurrence": 3,
+            "value": "Kartogr. Verlagsanstalt von Georg Lang in Leipzig"
+        },
+        {
+            "facet_id": 259763,
+            "occurrence": 3,
+            "value": "I. Lapina, Paris"
+        },
+        {
+            "facet_id": 271389,
+            "occurrence": 3,
+            "value": "\"Graphik\" Leipziger Schulbilderverlag GmbH Leipzig C1"
+        },
+        {
+            "facet_id": 299319,
+            "occurrence": 3,
+            "value": "Jung-Ilsenheim, Fr."
+        },
+        {
+            "facet_id": 346699,
+            "occurrence": 3,
+            "value": "Gustav Liersch &amp; Co., Berlin"
+        },
+        {
+            "facet_id": 43788,
+            "occurrence": 2,
+            "value": "Industrie Druck AG, Essen"
+        },
+        {
+            "facet_id": 102531,
+            "occurrence": 2,
+            "value": "Grimm, Arno"
+        },
+        {
+            "facet_id": 103543,
+            "occurrence": 2,
+            "value": "Verlag von Winckelmann &amp; Söhne in Berlin"
+        },
+        {
+            "facet_id": 113120,
+            "occurrence": 2,
+            "value": "Ed. Hölzel Verlag, Wien"
+        },
+        {
+            "facet_id": 117182,
+            "occurrence": 2,
+            "value": "Verlagshaus Salis, München"
+        },
+        {
+            "facet_id": 173774,
+            "occurrence": 2,
+            "value": "Arthur Rehn &amp; Co. Berlin"
+        },
+        {
+            "facet_id": 183292,
+            "occurrence": 2,
+            "value": "Brause &amp; Co. Iserlohn"
+        },
+        {
+            "facet_id": 248976,
+            "occurrence": 2,
+            "value": "Stereoindupor GmbH Frankfurt/M. D.R.G.M."
+        },
+        {
+            "facet_id": 268071,
+            "occurrence": 2,
+            "value": "Prentzel, Hans"
+        },
+        {
+            "facet_id": 470683,
+            "occurrence": 2,
+            "value": "Lith. Anstalt von Müller und Eismann, Leipzig"
+        },
+        {
+            "facet_id": 589791,
+            "occurrence": 2,
+            "value": "Verlag Walter Schmidt, Halle/S."
+        },
+        {
+            "facet_id": 641484,
+            "occurrence": 2,
+            "value": "Printz, Hans"
+        },
+        {
+            "facet_id": 659975,
+            "occurrence": 2,
+            "value": "Claudius, W."
+        },
+        {
+            "facet_id": 726992,
+            "occurrence": 2,
+            "value": "Sonnengold-Atelier, Chemnitz, Turnstraße 5"
+        },
+        {
+            "facet_id": 743391,
+            "occurrence": 2,
+            "value": "J. Bargou Söhne, Dresden, Chemnitz, Görlitz"
+        },
+        {
+            "facet_id": 745923,
+            "occurrence": 2,
+            "value": "Josef Gerstmayer, Wien XIV"
+        },
+        {
+            "facet_id": 773363,
+            "occurrence": 2,
+            "value": "Goering, A."
+        },
+        {
+            "facet_id": 807180,
+            "occurrence": 2,
+            "value": "Verlag Deutsch-österreichischer Lehrerbund, Wien"
+        },
+        {
+            "facet_id": 810779,
+            "occurrence": 2,
+            "value": "Kultur Verlag für Lehrmittel, Leipzig"
+        },
+        {
+            "facet_id": 911856,
+            "occurrence": 2,
+            "value": "Druck und Verlag von C. C. Meinhold &amp; Söhne in Dresden"
+        },
+        {
+            "facet_id": 923099,
+            "occurrence": 2,
+            "value": "Schmidt, Hans W."
+        },
+        {
+            "facet_id": 947513,
+            "occurrence": 2,
+            "value": "Teutonia"
+        },
+        {
+            "facet_id": 3526,
+            "occurrence": 1,
+            "value": "Camphausen, Wilhelm"
+        },
+        {
+            "facet_id": 43228,
+            "occurrence": 1,
+            "value": "Frey, Karl"
+        },
+        {
+            "facet_id": 43787,
+            "occurrence": 1,
+            "value": "Rösel, Bernt"
+        },
+        {
+            "facet_id": 57669,
+            "occurrence": 1,
+            "value": "Hermann Wolff, Berlin"
+        },
+        {
+            "facet_id": 72771,
+            "occurrence": 1,
+            "value": "Rulemann, Theodor"
+        },
+        {
+            "facet_id": 72772,
+            "occurrence": 1,
+            "value": "Verlag W. Herlet, Berlin"
+        },
+        {
+            "facet_id": 93589,
+            "occurrence": 1,
+            "value": "Hans J. Jensen, Hamburg, Verlag und Lehrmittelanstalt"
+        },
+        {
+            "facet_id": 108551,
+            "occurrence": 1,
+            "value": "Verlag des Mathilde Zimmer-Haus, Berlin-Zehlendorf"
+        },
+        {
+            "facet_id": 109593,
+            "occurrence": 1,
+            "value": "Knötel, R."
+        },
+        {
+            "facet_id": 125802,
+            "occurrence": 1,
+            "value": "Berlin-Neuroder Kunstanstalten"
+        },
+        {
+            "facet_id": 135257,
+            "occurrence": 1,
+            "value": "Wagner, K."
+        },
+        {
+            "facet_id": 137417,
+            "occurrence": 1,
+            "value": "Müller, Bernhard"
+        },
+        {
+            "facet_id": 140255,
+            "occurrence": 1,
+            "value": "Arriens, C."
+        },
+        {
+            "facet_id": 173773,
+            "occurrence": 1,
+            "value": "Graf-Weimar, Hermann"
+        },
+        {
+            "facet_id": 185526,
+            "occurrence": 1,
+            "value": "Hertel, Carl"
+        },
+        {
+            "facet_id": 190723,
+            "occurrence": 1,
+            "value": "J. F. Schreiber Verlag, Esslingen"
+        },
+        {
+            "facet_id": 190828,
+            "occurrence": 1,
+            "value": "Seestern-Lichtbilder, E. A. Seemann, Leipzig"
+        },
+        {
+            "facet_id": 192105,
+            "occurrence": 1,
+            "value": "Columbus Verlag Paul Oestergaard KG Berlin"
+        },
+        {
+            "facet_id": 198892,
+            "occurrence": 1,
+            "value": "Kampf, Arthur"
+        },
+        {
+            "facet_id": 199682,
+            "occurrence": 1,
+            "value": "A.W.Faber"
+        },
+        {
+            "facet_id": 206947,
+            "occurrence": 1,
+            "value": "Neumann, Fritz"
+        },
+        {
+            "facet_id": 211167,
+            "occurrence": 1,
+            "value": "Neukomm, J."
+        },
+        {
+            "facet_id": 211599,
+            "occurrence": 1,
+            "value": "Verlag von A. Pichlers Wwe. &amp; Sohn Wien V"
+        },
+        {
+            "facet_id": 211600,
+            "occurrence": 1,
+            "value": "Pendl, Erwin"
+        },
+        {
+            "facet_id": 252599,
+            "occurrence": 1,
+            "value": "Geertz, Julius"
+        },
+        {
+            "facet_id": 254405,
+            "occurrence": 1,
+            "value": "Zick, Alex"
+        },
+        {
+            "facet_id": 259762,
+            "occurrence": 1,
+            "value": "Barthalot, Marius"
+        },
+        {
+            "facet_id": 262897,
+            "occurrence": 1,
+            "value": "Lyra-Bleistift-Fabrik Nürnberg"
+        },
+        {
+            "facet_id": 265482,
+            "occurrence": 1,
+            "value": "Arenz, Max"
+        },
+        {
+            "facet_id": 291229,
+            "occurrence": 1,
+            "value": "Spaethe, Gera"
+        },
+        {
+            "facet_id": 292189,
+            "occurrence": 1,
+            "value": "Görlich, M. S."
+        },
+        {
+            "facet_id": 345471,
+            "occurrence": 1,
+            "value": "Formularverlag von M. Steimer, Germersheim"
+        },
+        {
+            "facet_id": 353866,
+            "occurrence": 1,
+            "value": "Underwood &amp; Underwood, New York"
+        },
+        {
+            "facet_id": 374785,
+            "occurrence": 1,
+            "value": "Kemper-Ebinghaus, U."
+        },
+        {
+            "facet_id": 379481,
+            "occurrence": 1,
+            "value": "Lehrmittelverlag F. Rausch, Nordhausen, Berlin, Nürnberg"
+        },
+        {
+            "facet_id": 406736,
+            "occurrence": 1,
+            "value": "Postkartenhaus J. Wollstein, Berlin"
+        },
+        {
+            "facet_id": 409145,
+            "occurrence": 1,
+            "value": "Verlag Schropp`sche Lehrmittelanstalt K. G., Berlin-Wiesbaden"
+        },
+        {
+            "facet_id": 418016,
+            "occurrence": 1,
+            "value": "Verlag von Baier &amp; Schneider, Heilbronn a. N."
+        },
+        {
+            "facet_id": 425783,
+            "occurrence": 1,
+            "value": "S. Roeder, Bremen"
+        },
+        {
+            "facet_id": 441827,
+            "occurrence": 1,
+            "value": "A/S L. Lange &amp; Co., Svendborg, Dänemark"
+        },
+        {
+            "facet_id": 444966,
+            "occurrence": 1,
+            "value": "Otto Germer, Photogr. Atelier, Ottweiler; Adolf Steinmetz, Photogr. Atelier, Neunkirchen, Bez. Trier; Atelier Germania, St. Johann, Saar"
+        }
+    ]
+}

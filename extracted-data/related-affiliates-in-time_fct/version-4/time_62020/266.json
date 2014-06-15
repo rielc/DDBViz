@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_fct_id": 266,
+    "affiliate_fct": "Teubner",
+    "affiliate_fct_occurrence": 240,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 266,
+            "affiliate_fct": "Teubner",
+            "affiliate_fct_occurrence": 240
+        },
+        {
+            "affiliate_fct_id": 3643,
+            "affiliate_fct": "Sächsisches Staatsministerium für Wissenschaft und Kunst",
+            "affiliate_fct_occurrence": 75
+        },
+        {
+            "affiliate_fct_id": 608,
+            "affiliate_fct": "Lambeck, Gustav",
+            "affiliate_fct_occurrence": 67
+        },
+        {
+            "affiliate_fct_id": 609,
+            "affiliate_fct": "Rühlmann, Paul",
+            "affiliate_fct_occurrence": 66
+        },
+        {
+            "affiliate_fct_id": 610,
+            "affiliate_fct": "Wilmanns, Ernst",
+            "affiliate_fct_occurrence": 51
+        },
+        {
+            "affiliate_fct_id": 77147,
+            "affiliate_fct": "Schmarsow, August",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 109373,
+            "affiliate_fct": "Schenk, Karl",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 311546,
+            "affiliate_fct": "Neustadt, Ernst",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 131250,
+            "affiliate_fct": "Schoenborn, Heinrich",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 607,
+            "affiliate_fct": "Kranz, Walther",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 129054,
+            "affiliate_fct": "Neumann, Carl",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 148437,
+            "affiliate_fct": "Roscher, Wilhelm Heinrich",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 303014,
+            "affiliate_fct": "Lehmann, Richard",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 374196,
+            "affiliate_fct": "Delbrück, Berthold",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 128899,
+            "affiliate_fct": "Sievers, Eduard",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 161207,
+            "affiliate_fct": "Müller-Freienfels, Richard",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 206424,
+            "affiliate_fct": "Koch, Julius",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 278668,
+            "affiliate_fct": "Anrich, Gustav",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 434984,
+            "affiliate_fct": "Kurze, Friedrich",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 649338,
+            "affiliate_fct": "Rappaport, Bruno",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 4367,
+            "affiliate_fct": "Günther, Felix",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6812,
+            "affiliate_fct": "Bauer, Karl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8867,
+            "affiliate_fct": "Weise, Oskar (1851-1933)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 51426,
+            "affiliate_fct": "Ostwald, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62860,
+            "affiliate_fct": "Brandenburg, Erich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 73381,
+            "affiliate_fct": "Prym, Friedrich (1841-1915)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 73382,
+            "affiliate_fct": "Rost, Georg (1870-1958)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 78081,
+            "affiliate_fct": "Sethe, Kurt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 100339,
+            "affiliate_fct": "Martini, Edgar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 160341,
+            "affiliate_fct": "Garten, Siegfried",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 180658,
+            "affiliate_fct": "Lüdtke, Franz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 206760,
+            "affiliate_fct": "Hoffmann, Ernst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 213583,
+            "affiliate_fct": "Pfeffer, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 255927,
+            "affiliate_fct": "Dietrich, Otto",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 285837,
+            "affiliate_fct": "Landwehr von Pragenau, M.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 311547,
+            "affiliate_fct": "Küchling, H.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 319490,
+            "affiliate_fct": "Oppenheim, Samuel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 334993,
+            "affiliate_fct": "Brandenburg, Erich (1868-1946)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 354934,
+            "affiliate_fct": "Pohle, Ludwig (1869-1926)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 372447,
+            "affiliate_fct": "Steinhauff, Arnold",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 372448,
+            "affiliate_fct": "Schmidt, Max Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 411626,
+            "affiliate_fct": "Gehmlich, Ernst",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 417289,
+            "affiliate_fct": "Tschirch, Otto",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 462935,
+            "affiliate_fct": "Bjerknes, Vilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 499407,
+            "affiliate_fct": "Steffens, W.",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 594247,
+            "affiliate_fct": "Wiener, Otto",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 609227,
+            "affiliate_fct": "Ede, Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 761226,
+            "affiliate_fct": "Joachimsen, Paul",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 885499,
+            "affiliate_fct": "Dinkler, Rudolf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 999697,
+            "affiliate_fct": "Dentzer, Bernhard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1068598,
+            "affiliate_fct": "Evers, Edwin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1266,
+            "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11353,
+            "affiliate_fct": "Bücher, Karl (1847-1930)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15494,
+            "affiliate_fct": "Lange, Helene (1848-1930)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19345,
+            "affiliate_fct": "Thomae, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20447,
+            "affiliate_fct": "Klein, Felix",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24454,
+            "affiliate_fct": "Mayer, Rudolf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26120,
+            "affiliate_fct": "Beck, Richard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30223,
+            "affiliate_fct": "Schippel, Max (1859-1928)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42823,
+            "affiliate_fct": "Barocci, Federico",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51427,
+            "affiliate_fct": "slubsmwksaw",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51619,
+            "affiliate_fct": "Hofstaetter, Walther",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56001,
+            "affiliate_fct": "Simon, Max",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62539,
+            "affiliate_fct": "Fricke, Robert",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68298,
+            "affiliate_fct": "Ruge, Sophus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 77843,
+            "affiliate_fct": "Fischer, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78080,
+            "affiliate_fct": "Partsch, Josef",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84939,
+            "affiliate_fct": "Haupt, Otto",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 88220,
+            "affiliate_fct": "Stieda, Wilhelm (1852-1933)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94552,
+            "affiliate_fct": "Scheibner, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 102823,
+            "affiliate_fct": "Fuchs, Carl Johannes (1865-1934)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 109344,
+            "affiliate_fct": "Weissbach, Franz H.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 121692,
+            "affiliate_fct": "Scheumann, Karl Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130668,
+            "affiliate_fct": "Bücher, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 130997,
+            "affiliate_fct": "Marx, Erich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132810,
+            "affiliate_fct": "Hampe, Karl (1869-1936)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 136588,
+            "affiliate_fct": "Binding, Karl (1841-1920)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 140460,
+            "affiliate_fct": "Sturm, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 144075,
+            "affiliate_fct": "Peper, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149723,
+            "affiliate_fct": "Meyer, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 164333,
+            "affiliate_fct": "Ilberg, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174578,
+            "affiliate_fct": "Günther, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176399,
+            "affiliate_fct": "Abel, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 177361,
+            "affiliate_fct": "Fleiner, Fritz (1867-1937)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207662,
+            "affiliate_fct": "Studniczka, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207663,
+            "affiliate_fct": "Callixenus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 215029,
+            "affiliate_fct": "Helfferich, Karl (1872-1924)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 221021,
+            "affiliate_fct": "Herkner, Heinrich (1863-1932)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 238349,
+            "affiliate_fct": "Stieda, Wilhelm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 242509,
+            "affiliate_fct": "Leskien, August",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 246074,
+            "affiliate_fct": "Wild, Karl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 253084,
+            "affiliate_fct": "Schwarz, Andreas Bertalan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254480,
+            "affiliate_fct": "Troeltsch, Ernst (1865-1923)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265191,
+            "affiliate_fct": "Schiebold, Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272710,
+            "affiliate_fct": "Polack, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 288860,
+            "affiliate_fct": "Allfeld, Philipp (1852-1940)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310931,
+            "affiliate_fct": "Blass, Margarete",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311392,
+            "affiliate_fct": "Rehm, Hermann (1862-1917)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 312461,
+            "affiliate_fct": "Palm, Rudolf",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

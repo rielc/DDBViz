@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 1,
+    "time_fct": "time_61900",
+    "affiliate_facet_id": 600,
+    "affiliate_facet": "Manz",
+    "occurrence": 2961,
+    "affiliates": [
+        {
+            "facet_id": 600,
+            "occurrence": 3459,
+            "value": "Brockhaus"
+        },
+        {
+            "facet_id": 17191,
+            "occurrence": 167,
+            "value": "Raumer, Friedrich von (1781-1873)"
+        },
+        {
+            "facet_id": 8111,
+            "occurrence": 113,
+            "value": "Gutzkow, Karl (1811-1878)"
+        },
+        {
+            "facet_id": 12750,
+            "occurrence": 96,
+            "value": "Alexis, Willibald (1798-1871)"
+        },
+        {
+            "facet_id": 12751,
+            "occurrence": 87,
+            "value": "Hitzig, Julius Eduard (1780-1849)"
+        },
+        {
+            "facet_id": 24529,
+            "occurrence": 79,
+            "value": "Maurenbrecher, Wilhelm (1838-1892)"
+        },
+        {
+            "facet_id": 5255,
+            "occurrence": 62,
+            "value": "Shakespeare, William (1564-1616)"
+        },
+        {
+            "facet_id": 22147,
+            "occurrence": 45,
+            "value": "Rellstab, Ludwig (1799-1860)"
+        },
+        {
+            "facet_id": 47273,
+            "occurrence": 41,
+            "value": "Bodenstedt, Friedrich (1819-1892)"
+        },
+        {
+            "facet_id": 47274,
+            "occurrence": 39,
+            "value": "Gildemeister, Otto (1823-1902)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 37,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 43698,
+            "occurrence": 36,
+            "value": "Bremer, Fredrika (1801-1865)"
+        },
+        {
+            "facet_id": 23297,
+            "occurrence": 34,
+            "value": "Bülau, Friedrich (1805-1859)"
+        },
+        {
+            "facet_id": 42230,
+            "occurrence": 32,
+            "value": "Oken, Lorenz (1779-1851)"
+        },
+        {
+            "facet_id": 83439,
+            "occurrence": 32,
+            "value": "Heck, Johann Georg"
+        },
+        {
+            "facet_id": 19458,
+            "occurrence": 31,
+            "value": "Schwartz, Marie Sophie (1819-1894)"
+        },
+        {
+            "facet_id": 19459,
+            "occurrence": 31,
+            "value": "Kretzschmar, August"
+        },
+        {
+            "facet_id": 11515,
+            "occurrence": 27,
+            "value": "Schücking, Levin (1814-1883)"
+        },
+        {
+            "facet_id": 4136,
+            "occurrence": 26,
+            "value": "Krug, Wilhelm Traugott (1770-1842)"
+        },
+        {
+            "facet_id": 137890,
+            "occurrence": 23,
+            "value": "König, Heinrich (1790-1869)"
+        },
+        {
+            "facet_id": 218631,
+            "occurrence": 23,
+            "value": "Oertel, Friedrich Maximilian (1796-1873)"
+        },
+        {
+            "facet_id": 30736,
+            "occurrence": 21,
+            "value": "Varnhagen von Ense, Karl August (1785-1858)"
+        },
+        {
+            "facet_id": 30963,
+            "occurrence": 20,
+            "value": "Lubojatzky, Franz Anton (1807-1887)"
+        },
+        {
+            "facet_id": 281,
+            "occurrence": 18,
+            "value": "Dante <Alighieri> (1265-1321)"
+        },
+        {
+            "facet_id": 32874,
+            "occurrence": 18,
+            "value": "Bunsen, Christian Karl Josias von (1791-1860)"
+        },
+        {
+            "facet_id": 40948,
+            "occurrence": 18,
+            "value": "Koethe, Friedrich August (1781-1850)"
+        },
+        {
+            "facet_id": 10832,
+            "occurrence": 17,
+            "value": "Pölitz, Karl Heinrich Ludwig (1772-1838)"
+        },
+        {
+            "facet_id": 16825,
+            "occurrence": 17,
+            "value": "Kannegießer, Karl Ludwig (1781-1864)"
+        },
+        {
+            "facet_id": 34753,
+            "occurrence": 17,
+            "value": "Gregorovius, Ferdinand (1821-1891)"
+        },
+        {
+            "facet_id": 278216,
+            "occurrence": 17,
+            "value": "Wachsmann, Karl Adolf von (1787-1862)"
+        },
+        {
+            "facet_id": 11380,
+            "occurrence": 15,
+            "value": "Rotteck, Carl von (1775-1840)"
+        },
+        {
+            "facet_id": 12487,
+            "occurrence": 14,
+            "value": "Welcker, Karl Theodor (1790-1869)"
+        },
+        {
+            "facet_id": 21370,
+            "occurrence": 14,
+            "value": "Voß, Johann Heinrich (1751-1826)"
+        },
+        {
+            "facet_id": 42729,
+            "occurrence": 14,
+            "value": "Forster, Georg (1754-1794)"
+        },
+        {
+            "facet_id": 64444,
+            "occurrence": 14,
+            "value": "Müller, Wilhelm (1794-1827)"
+        },
+        {
+            "facet_id": 183399,
+            "occurrence": 14,
+            "value": "Saalfeld, Friedrich (1785-1834)"
+        },
+        {
+            "facet_id": 2996,
+            "occurrence": 13,
+            "value": "Carrière, Moriz (1817-1895)"
+        },
+        {
+            "facet_id": 26217,
+            "occurrence": 13,
+            "value": "Tieck, Ludwig (1773-1853)"
+        },
+        {
+            "facet_id": 57497,
+            "occurrence": 13,
+            "value": "Weber, Albrecht (1825-1901)"
+        },
+        {
+            "facet_id": 140448,
+            "occurrence": 13,
+            "value": "Benfey, Theodor (1809-1881)"
+        },
+        {
+            "facet_id": 4580,
+            "occurrence": 12,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 26770,
+            "occurrence": 12,
+            "value": "Carus, Carl Gustav (1789-1869)"
+        },
+        {
+            "facet_id": 26850,
+            "occurrence": 12,
+            "value": "Schütz, Wilhelm von (1776-1847)"
+        },
+        {
+            "facet_id": 64860,
+            "occurrence": 12,
+            "value": "Zienkowicz, Leon"
+        },
+        {
+            "facet_id": 241195,
+            "occurrence": 12,
+            "value": "Verein für Geschichte der Deutschen in Böhmen"
+        },
+        {
+            "facet_id": 241525,
+            "occurrence": 12,
+            "value": "Brockhaus, Heinrich (1804-1874)"
+        },
+        {
+            "facet_id": 4539,
+            "occurrence": 11,
+            "value": "Sprengel, Kurt (1766-1833)"
+        },
+        {
+            "facet_id": 11567,
+            "occurrence": 11,
+            "value": "Ersch, Johann Samuel (1766-1828)"
+        },
+        {
+            "facet_id": 19125,
+            "occurrence": 11,
+            "value": "Prutz, Robert Eduard (1816-1872)"
+        },
+        {
+            "facet_id": 25593,
+            "occurrence": 11,
+            "value": "Schwab, Gustav (1792-1850)"
+        },
+        {
+            "facet_id": 34010,
+            "occurrence": 11,
+            "value": "Müller von Königswinter, Wolfgang (1816-1873)"
+        },
+        {
+            "facet_id": 83912,
+            "occurrence": 11,
+            "value": "Huber, Therese (1764-1829)"
+        },
+        {
+            "facet_id": 254710,
+            "occurrence": 11,
+            "value": "Tittmann, Julius"
+        },
+        {
+            "facet_id": 15213,
+            "occurrence": 10,
+            "value": "Schulze, Ernst (1789-1817)"
+        },
+        {
+            "facet_id": 22552,
+            "occurrence": 10,
+            "value": "Ungern-Sternberg, Alexander von (1806-1868)"
+        },
+        {
+            "facet_id": 43738,
+            "occurrence": 10,
+            "value": "Calderón de la Barca, Pedro (1600-1681)"
+        },
+        {
+            "facet_id": 65582,
+            "occurrence": 10,
+            "value": "Horn, Franz (1781-1837)"
+        },
+        {
+            "facet_id": 88465,
+            "occurrence": 10,
+            "value": "Brockhaus, Friedrich Arnold (1772-1823)"
+        },
+        {
+            "facet_id": 105224,
+            "occurrence": 10,
+            "value": "Vial y Gomez de La Torre, Ramon (1814-)"
+        },
+        {
+            "facet_id": 177718,
+            "occurrence": 10,
+            "value": "Noback, Friedrich"
+        },
+        {
+            "facet_id": 184603,
+            "occurrence": 10,
+            "value": "Czajkowski, Michał (1804-1886)"
+        },
+        {
+            "facet_id": 251409,
+            "occurrence": 10,
+            "value": "Müller, Wilhelm (1780-1862)"
+        },
+        {
+            "facet_id": 509947,
+            "occurrence": 10,
+            "value": "Noback, Christian (1777-1852)"
+        },
+        {
+            "facet_id": 4466,
+            "occurrence": 9,
+            "value": "Gabelentz, Hans Conon von der (1807-1874)"
+        },
+        {
+            "facet_id": 11391,
+            "occurrence": 9,
+            "value": "Mendelssohn, Moses (1729-1786)"
+        },
+        {
+            "facet_id": 12619,
+            "occurrence": 9,
+            "value": "Baggesen, Jens (1764-1826)"
+        },
+        {
+            "facet_id": 40060,
+            "occurrence": 9,
+            "value": "Ungern-Sternberg, Alexander von"
+        },
+        {
+            "facet_id": 65553,
+            "occurrence": 9,
+            "value": "Pfannenschmidt, Julie (1804-1868)"
+        },
+        {
+            "facet_id": 133462,
+            "occurrence": 9,
+            "value": "Casanova, Giacomo Girolamo (1725-1798)"
+        },
+        {
+            "facet_id": 140092,
+            "occurrence": 9,
+            "value": "Most, Georg Friedrich (1794-1845)"
+        },
+        {
+            "facet_id": 141134,
+            "occurrence": 9,
+            "value": "Oppermann, Heinrich Albert (1812-1870)"
+        },
+        {
+            "facet_id": 1839,
+            "occurrence": 8,
+            "value": "Melanchthon, Philipp (1497-1560)"
+        },
+        {
+            "facet_id": 20273,
+            "occurrence": 8,
+            "value": "Förster, Karl"
+        },
+        {
+            "facet_id": 24457,
+            "occurrence": 8,
+            "value": "Giseke, Robert (1827-1890)"
+        },
+        {
+            "facet_id": 27135,
+            "occurrence": 8,
+            "value": "Wüstenfeld, Ferdinand (1808-1899)"
+        },
+        {
+            "facet_id": 30397,
+            "occurrence": 8,
+            "value": "Féval, Paul"
+        },
+        {
+            "facet_id": 64449,
+            "occurrence": 8,
+            "value": "Rellstab, Ludwig"
+        },
+        {
+            "facet_id": 65444,
+            "occurrence": 8,
+            "value": "Julius, Nicolaus Heinrich (1783-1862)"
+        },
+        {
+            "facet_id": 68815,
+            "occurrence": 8,
+            "value": "Caballero, Fernán (1796-1877)"
+        },
+        {
+            "facet_id": 102336,
+            "occurrence": 8,
+            "value": "Funck, Karl Wilhelm Ferdinand von (1761-1828)"
+        },
+        {
+            "facet_id": 145820,
+            "occurrence": 8,
+            "value": "Pierer, Johann Friedrich (1767-1832)"
+        },
+        {
+            "facet_id": 330351,
+            "occurrence": 8,
+            "value": "Mendelssohn, Georg Benjamin (1794-1874)"
+        },
+        {
+            "facet_id": 375560,
+            "occurrence": 8,
+            "value": "Lindau, Ferdinand Leopold"
+        },
+        {
+            "facet_id": 375561,
+            "occurrence": 8,
+            "value": "Strombeck, Friedrich Heinrich von (1773-1832)"
+        },
+        {
+            "facet_id": 10467,
+            "occurrence": 7,
+            "value": "Plato (v427-v347)"
+        },
+        {
+            "facet_id": 21450,
+            "occurrence": 7,
+            "value": "Steinhart, Karl Heinrich August (1801-1872)"
+        },
+        {
+            "facet_id": 26044,
+            "occurrence": 7,
+            "value": "Strauß, David Friedrich (1808-1874)"
+        },
+        {
+            "facet_id": 30088,
+            "occurrence": 7,
+            "value": "Hormayr, Joseph von (1781-1848)"
+        },
+        {
+            "facet_id": 48125,
+            "occurrence": 7,
+            "value": "Avé-Lallemant, Robert (1812-1884)"
+        },
+        {
+            "facet_id": 55737,
+            "occurrence": 7,
+            "value": "Hahn-Hahn, Ida (1805-1880)"
+        },
+        {
+            "facet_id": 66193,
+            "occurrence": 7,
+            "value": "Ebert, Friedrich Adolf (1791-1834)"
+        },
+        {
+            "facet_id": 80824,
+            "occurrence": 7,
+            "value": "Musäus, Johann Karl August (1735-1787)"
+        },
+        {
+            "facet_id": 80825,
+            "occurrence": 7,
+            "value": "Müller, Moritz Wilhelm Gotthard (1806-1886)"
+        },
+        {
+            "facet_id": 90383,
+            "occurrence": 7,
+            "value": "Wagner, Adolf (1774-1835)"
+        },
+        {
+            "facet_id": 104665,
+            "occurrence": 7,
+            "value": "Heyden, Julius von der (1786-1867)"
+        },
+        {
+            "facet_id": 127497,
+            "occurrence": 7,
+            "value": "Assing, Ludmilla (1821-1880)"
+        },
+        {
+            "facet_id": 161224,
+            "occurrence": 7,
+            "value": "Müller, Hieronymus (1785-1861)"
+        },
+        {
+            "facet_id": 192952,
+            "occurrence": 7,
+            "value": "Fichte, Immanuel Hermann von (1796-1879)"
+        },
+        {
+            "facet_id": 214382,
+            "occurrence": 7,
+            "value": "Schwarz, Karl (1812-1885)"
+        },
+        {
+            "facet_id": 240372,
+            "occurrence": 7,
+            "value": "Frauenstädt, Julius (1813-1879)"
+        }
+    ]
+}

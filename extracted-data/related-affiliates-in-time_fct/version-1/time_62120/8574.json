@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "affiliate_facet_id": 8574,
+    "affiliate_facet": "KIT-Bibliothek",
+    "occurrence": 623,
+    "affiliates": [
+        {
+            "facet_id": 8574,
+            "occurrence": 849,
+            "value": "Universitätsbibliothek der Universität Würzburg"
+        },
+        {
+            "facet_id": 202713,
+            "occurrence": 11,
+            "value": "Holzgrabe, Ulrike"
+        },
+        {
+            "facet_id": 155799,
+            "occurrence": 10,
+            "value": "Braunschweig, Holger"
+        },
+        {
+            "facet_id": 178863,
+            "occurrence": 9,
+            "value": "Dyakonov, Vladimir"
+        },
+        {
+            "facet_id": 473258,
+            "occurrence": 9,
+            "value": "Würthner, Frank"
+        },
+        {
+            "facet_id": 29555,
+            "occurrence": 8,
+            "value": "Jakob, Peter"
+        },
+        {
+            "facet_id": 86053,
+            "occurrence": 8,
+            "value": "Bringmann, Gerhard"
+        },
+        {
+            "facet_id": 149772,
+            "occurrence": 8,
+            "value": "Schartl, Manfred"
+        },
+        {
+            "facet_id": 437637,
+            "occurrence": 8,
+            "value": "Dandekar, Thomas"
+        },
+        {
+            "facet_id": 477080,
+            "occurrence": 8,
+            "value": "Wanner, Christoph"
+        },
+        {
+            "facet_id": 113026,
+            "occurrence": 7,
+            "value": "Lesch, Klaus-Peter"
+        },
+        {
+            "facet_id": 136489,
+            "occurrence": 7,
+            "value": "Fallgatter, Andreas"
+        },
+        {
+            "facet_id": 314722,
+            "occurrence": 7,
+            "value": "Pauli, Paul"
+        },
+        {
+            "facet_id": 330715,
+            "occurrence": 7,
+            "value": "Faller, Hermann"
+        },
+        {
+            "facet_id": 31405,
+            "occurrence": 6,
+            "value": "Fallgatter, Andreas J."
+        },
+        {
+            "facet_id": 32803,
+            "occurrence": 6,
+            "value": "Braunschweig, Holger (1961-)"
+        },
+        {
+            "facet_id": 185851,
+            "occurrence": 6,
+            "value": "Hedrich, Rainer"
+        },
+        {
+            "facet_id": 194668,
+            "occurrence": 6,
+            "value": "Gerber, Bertram"
+        },
+        {
+            "facet_id": 341329,
+            "occurrence": 6,
+            "value": "Stellzig-Eisenhauer, Angelika"
+        },
+        {
+            "facet_id": 619397,
+            "occurrence": 6,
+            "value": "Stolberg, Michael"
+        },
+        {
+            "facet_id": 19218,
+            "occurrence": 5,
+            "value": "Otto, Christoph"
+        },
+        {
+            "facet_id": 36536,
+            "occurrence": 5,
+            "value": "Forchel, Alfred"
+        },
+        {
+            "facet_id": 152626,
+            "occurrence": 5,
+            "value": "Weidemann, Frank"
+        },
+        {
+            "facet_id": 224179,
+            "occurrence": 5,
+            "value": "Schneider-Schaulies, Sibylle"
+        },
+        {
+            "facet_id": 231931,
+            "occurrence": 5,
+            "value": "Rethwilm, Axel"
+        },
+        {
+            "facet_id": 237547,
+            "occurrence": 5,
+            "value": "Reuther, Tobias"
+        },
+        {
+            "facet_id": 248969,
+            "occurrence": 5,
+            "value": "Sendtner, Michael"
+        },
+        {
+            "facet_id": 251512,
+            "occurrence": 5,
+            "value": "Hagen, Rudolf"
+        },
+        {
+            "facet_id": 277192,
+            "occurrence": 5,
+            "value": "Schirmeister, Tanja"
+        },
+        {
+            "facet_id": 329462,
+            "occurrence": 5,
+            "value": "Stich, August"
+        },
+        {
+            "facet_id": 354249,
+            "occurrence": 5,
+            "value": "Mannheim, Karl"
+        },
+        {
+            "facet_id": 375141,
+            "occurrence": 5,
+            "value": "Radius, Udo"
+        },
+        {
+            "facet_id": 534124,
+            "occurrence": 5,
+            "value": "Stopper, Helga"
+        },
+        {
+            "facet_id": 582969,
+            "occurrence": 5,
+            "value": "Beer, Meinrad"
+        },
+        {
+            "facet_id": 11158,
+            "occurrence": 4,
+            "value": "Bauer, Wolfgang"
+        },
+        {
+            "facet_id": 73719,
+            "occurrence": 4,
+            "value": "Schmidt, Michael"
+        },
+        {
+            "facet_id": 89006,
+            "occurrence": 4,
+            "value": "Fischer, Utz"
+        },
+        {
+            "facet_id": 136724,
+            "occurrence": 4,
+            "value": "Krüger, Hans-Peter"
+        },
+        {
+            "facet_id": 142767,
+            "occurrence": 4,
+            "value": "Brixner, Tobias"
+        },
+        {
+            "facet_id": 183683,
+            "occurrence": 4,
+            "value": "Högger, Petra"
+        },
+        {
+            "facet_id": 197413,
+            "occurrence": 4,
+            "value": "Mally, Angela"
+        },
+        {
+            "facet_id": 241583,
+            "occurrence": 4,
+            "value": "Müller-Richter, Urs"
+        },
+        {
+            "facet_id": 243796,
+            "occurrence": 4,
+            "value": "Grimm, Tiemo (1944-)"
+        },
+        {
+            "facet_id": 307681,
+            "occurrence": 4,
+            "value": "Engels, Bernd"
+        },
+        {
+            "facet_id": 311890,
+            "occurrence": 4,
+            "value": "Reif, Andreas"
+        },
+        {
+            "facet_id": 357817,
+            "occurrence": 4,
+            "value": "Schreier, Peter (1942-)"
+        },
+        {
+            "facet_id": 379149,
+            "occurrence": 4,
+            "value": "Tran-Gia, Phuoc"
+        },
+        {
+            "facet_id": 425848,
+            "occurrence": 4,
+            "value": "Lange, Markus"
+        },
+        {
+            "facet_id": 454676,
+            "occurrence": 4,
+            "value": "Tautz, Jürgen"
+        },
+        {
+            "facet_id": 477063,
+            "occurrence": 4,
+            "value": "Fischer, Ingo"
+        },
+        {
+            "facet_id": 500959,
+            "occurrence": 4,
+            "value": "Sextl, Gerhard"
+        },
+        {
+            "facet_id": 532644,
+            "occurrence": 4,
+            "value": "Roewer, Norbert"
+        },
+        {
+            "facet_id": 555938,
+            "occurrence": 4,
+            "value": "Zimmermann, Ingfried"
+        },
+        {
+            "facet_id": 850930,
+            "occurrence": 4,
+            "value": "Flentje, Michael"
+        },
+        {
+            "facet_id": 14997,
+            "occurrence": 3,
+            "value": "Geerling, Gerd"
+        },
+        {
+            "facet_id": 19621,
+            "occurrence": 3,
+            "value": "Gbureck, Uwe"
+        },
+        {
+            "facet_id": 74656,
+            "occurrence": 3,
+            "value": "Wajant, Harald"
+        },
+        {
+            "facet_id": 75112,
+            "occurrence": 3,
+            "value": "Claessen, Ralph"
+        },
+        {
+            "facet_id": 102542,
+            "occurrence": 3,
+            "value": "Brunner, Karl"
+        },
+        {
+            "facet_id": 106369,
+            "occurrence": 3,
+            "value": "Lohse, Martin"
+        },
+        {
+            "facet_id": 109268,
+            "occurrence": 3,
+            "value": "Bauersachs, Johann"
+        },
+        {
+            "facet_id": 111960,
+            "occurrence": 3,
+            "value": "Melcher, Ralph"
+        },
+        {
+            "facet_id": 169288,
+            "occurrence": 3,
+            "value": "Angermann, Christiane"
+        },
+        {
+            "facet_id": 183715,
+            "occurrence": 3,
+            "value": "Bröcker, Eva-Bettina"
+        },
+        {
+            "facet_id": 199337,
+            "occurrence": 3,
+            "value": "Kinzel, Wolfgang"
+        },
+        {
+            "facet_id": 230213,
+            "occurrence": 3,
+            "value": "Helmke, Uwe"
+        },
+        {
+            "facet_id": 232517,
+            "occurrence": 3,
+            "value": "Kanzow, Christian"
+        },
+        {
+            "facet_id": 267480,
+            "occurrence": 3,
+            "value": "Ohl, Thorsten"
+        },
+        {
+            "facet_id": 278011,
+            "occurrence": 3,
+            "value": "Schrader, Wolfgang"
+        },
+        {
+            "facet_id": 289379,
+            "occurrence": 3,
+            "value": "Serfling, Edgar"
+        },
+        {
+            "facet_id": 291685,
+            "occurrence": 3,
+            "value": "Grünblatt, Edna"
+        },
+        {
+            "facet_id": 294710,
+            "occurrence": 3,
+            "value": "Wischmeyer, Erhard"
+        },
+        {
+            "facet_id": 302973,
+            "occurrence": 3,
+            "value": "Walter, Ulrich"
+        },
+        {
+            "facet_id": 303325,
+            "occurrence": 3,
+            "value": "Sommer, Claudia"
+        },
+        {
+            "facet_id": 339134,
+            "occurrence": 3,
+            "value": "Müller, Albrecht"
+        },
+        {
+            "facet_id": 341779,
+            "occurrence": 3,
+            "value": "Szalay, Aladar"
+        },
+        {
+            "facet_id": 349438,
+            "occurrence": 3,
+            "value": "Morschhäuser, Joachim"
+        },
+        {
+            "facet_id": 360443,
+            "occurrence": 3,
+            "value": "Iliev, Asparouh"
+        },
+        {
+            "facet_id": 364746,
+            "occurrence": 3,
+            "value": "Schneider-Schaulies, Jürgen"
+        },
+        {
+            "facet_id": 366894,
+            "occurrence": 3,
+            "value": "Pradel, Gabriele"
+        },
+        {
+            "facet_id": 371044,
+            "occurrence": 3,
+            "value": "Maier, Sebastian"
+        },
+        {
+            "facet_id": 378259,
+            "occurrence": 3,
+            "value": "Nieswandt, Bernhard"
+        },
+        {
+            "facet_id": 393937,
+            "occurrence": 3,
+            "value": "Engel, Volker"
+        },
+        {
+            "facet_id": 395072,
+            "occurrence": 3,
+            "value": "Koepsell, Hermann"
+        },
+        {
+            "facet_id": 413129,
+            "occurrence": 3,
+            "value": "Schuh, Kai"
+        },
+        {
+            "facet_id": 434154,
+            "occurrence": 3,
+            "value": "Vogel, Ulrich"
+        },
+        {
+            "facet_id": 488635,
+            "occurrence": 3,
+            "value": "Mühlberger, Andreas"
+        },
+        {
+            "facet_id": 500842,
+            "occurrence": 3,
+            "value": "Rosenwald, Andreas"
+        },
+        {
+            "facet_id": 510461,
+            "occurrence": 3,
+            "value": "Hentschel Humeida, Ute"
+        },
+        {
+            "facet_id": 557598,
+            "occurrence": 3,
+            "value": "Spanier, Felix"
+        },
+        {
+            "facet_id": 573824,
+            "occurrence": 3,
+            "value": "Molenkamp, Laurens W."
+        },
+        {
+            "facet_id": 598124,
+            "occurrence": 3,
+            "value": "Hertel, Tobias"
+        },
+        {
+            "facet_id": 632436,
+            "occurrence": 3,
+            "value": "Scheppach, Wolfgang"
+        },
+        {
+            "facet_id": 657893,
+            "occurrence": 3,
+            "value": "Wermke, Kathleen"
+        },
+        {
+            "facet_id": 709608,
+            "occurrence": 3,
+            "value": "Köstler, Herbert"
+        },
+        {
+            "facet_id": 713937,
+            "occurrence": 3,
+            "value": "Trauzettel, Björn"
+        },
+        {
+            "facet_id": 829384,
+            "occurrence": 3,
+            "value": "Kissler, Stephan"
+        },
+        {
+            "facet_id": 878021,
+            "occurrence": 3,
+            "value": "Umbach, Eberhard"
+        },
+        {
+            "facet_id": 888855,
+            "occurrence": 3,
+            "value": "Müller, Joachim"
+        },
+        {
+            "facet_id": 1076993,
+            "occurrence": 3,
+            "value": "Sotriffer, Christoph"
+        }
+    ]
+}

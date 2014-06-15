@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 4580,
+    "affiliate_facet": "Fleischer",
+    "occurrence": 361,
+    "affiliates": [
+        {
+            "facet_id": 4580,
+            "occurrence": 374,
+            "value": "Goethe, Johann Wolfgang von (1749-1832)"
+        },
+        {
+            "facet_id": 301,
+            "occurrence": 218,
+            "value": "Cotta"
+        },
+        {
+            "facet_id": 8276,
+            "occurrence": 34,
+            "value": "J. G. Cotta"
+        },
+        {
+            "facet_id": 32700,
+            "occurrence": 19,
+            "value": "Riemer, Friedrich Wilhelm (1774-1845)"
+        },
+        {
+            "facet_id": 16602,
+            "occurrence": 18,
+            "value": "Duncker und Humblot"
+        },
+        {
+            "facet_id": 32701,
+            "occurrence": 18,
+            "value": "Zelter, Carl Friedrich (1758-1832)"
+        },
+        {
+            "facet_id": 879,
+            "occurrence": 11,
+            "value": "Schiller, Friedrich (1759-1805)"
+        },
+        {
+            "facet_id": 7693,
+            "occurrence": 5,
+            "value": "Weidmann"
+        },
+        {
+            "facet_id": 32998,
+            "occurrence": 5,
+            "value": "Arnim, Bettina von (1785-1859)"
+        },
+        {
+            "facet_id": 285459,
+            "occurrence": 5,
+            "value": "Litteratur-Comptoir"
+        },
+        {
+            "facet_id": 600,
+            "occurrence": 4,
+            "value": "Brockhaus"
+        },
+        {
+            "facet_id": 36698,
+            "occurrence": 4,
+            "value": "Nestler"
+        },
+        {
+            "facet_id": 70840,
+            "occurrence": 4,
+            "value": "Schaefer, Johann Wilhelm (1809-1880)"
+        },
+        {
+            "facet_id": 70880,
+            "occurrence": 4,
+            "value": "Schütz, Friedrich Karl Julius (1779-1844)"
+        },
+        {
+            "facet_id": 2504,
+            "occurrence": 3,
+            "value": "Bibliogr. Inst."
+        },
+        {
+            "facet_id": 3052,
+            "occurrence": 3,
+            "value": "Dümmler"
+        },
+        {
+            "facet_id": 5817,
+            "occurrence": 3,
+            "value": "Mendelssohn Bartholdy, Felix (1809-1847)"
+        },
+        {
+            "facet_id": 12846,
+            "occurrence": 3,
+            "value": "Chapman and Hall"
+        },
+        {
+            "facet_id": 13026,
+            "occurrence": 3,
+            "value": "Landes-Industrie-Comptoir"
+        },
+        {
+            "facet_id": 29452,
+            "occurrence": 3,
+            "value": "Bösenberg"
+        },
+        {
+            "facet_id": 128270,
+            "occurrence": 3,
+            "value": "Rösl)"
+        },
+        {
+            "facet_id": 138403,
+            "occurrence": 3,
+            "value": "Boas, Eduard (1815-1853)"
+        },
+        {
+            "facet_id": 142557,
+            "occurrence": 3,
+            "value": "Eckermann, Johann Peter (1792-1854)"
+        },
+        {
+            "facet_id": 404,
+            "occurrence": 2,
+            "value": "Vieweg"
+        },
+        {
+            "facet_id": 427,
+            "occurrence": 2,
+            "value": "Rieger"
+        },
+        {
+            "facet_id": 970,
+            "occurrence": 2,
+            "value": "Charpentier"
+        },
+        {
+            "facet_id": 1278,
+            "occurrence": 2,
+            "value": "Duncker"
+        },
+        {
+            "facet_id": 2727,
+            "occurrence": 2,
+            "value": "Sauerländer"
+        },
+        {
+            "facet_id": 5946,
+            "occurrence": 2,
+            "value": "Hoffmann"
+        },
+        {
+            "facet_id": 14896,
+            "occurrence": 2,
+            "value": "Frommann"
+        },
+        {
+            "facet_id": 15691,
+            "occurrence": 2,
+            "value": "Döring, Heinrich"
+        },
+        {
+            "facet_id": 21476,
+            "occurrence": 2,
+            "value": "Merck, Johann Heinrich (1741-1791)"
+        },
+        {
+            "facet_id": 24725,
+            "occurrence": 2,
+            "value": "Klopstock, Friedrich Gottlieb (1724-1803)"
+        },
+        {
+            "facet_id": 33037,
+            "occurrence": 2,
+            "value": "Herder, Johann Gottfried von (1744-1803)"
+        },
+        {
+            "facet_id": 40813,
+            "occurrence": 2,
+            "value": "Ortlepp, Ernst (1800-1864)"
+        },
+        {
+            "facet_id": 104237,
+            "occurrence": 2,
+            "value": "Manzoni, Alessandro (1785-1873)"
+        },
+        {
+            "facet_id": 137464,
+            "occurrence": 2,
+            "value": "Döring, Heinrich (1789-1862)"
+        },
+        {
+            "facet_id": 206295,
+            "occurrence": 2,
+            "value": "Walthr"
+        },
+        {
+            "facet_id": 212523,
+            "occurrence": 2,
+            "value": "Viana, ..."
+        },
+        {
+            "facet_id": 220037,
+            "occurrence": 2,
+            "value": "Marmier, Xavier (1809-1892)"
+        },
+        {
+            "facet_id": 458259,
+            "occurrence": 2,
+            "value": "Radziwiłł, Antoni Henryk (1775-1833)"
+        },
+        {
+            "facet_id": 184,
+            "occurrence": 1,
+            "value": "Levrault"
+        },
+        {
+            "facet_id": 280,
+            "occurrence": 1,
+            "value": "Silvestri"
+        },
+        {
+            "facet_id": 954,
+            "occurrence": 1,
+            "value": "Duncker & Humblot"
+        },
+        {
+            "facet_id": 1086,
+            "occurrence": 1,
+            "value": "Breitkopf und Härtel"
+        },
+        {
+            "facet_id": 1087,
+            "occurrence": 1,
+            "value": "Beethoven, Ludwig van (1770-1827)"
+        },
+        {
+            "facet_id": 1559,
+            "occurrence": 1,
+            "value": "Murray"
+        },
+        {
+            "facet_id": 1800,
+            "occurrence": 1,
+            "value": "Wieland, Christoph Martin (1733-1813)"
+        },
+        {
+            "facet_id": 1813,
+            "occurrence": 1,
+            "value": "Hartung"
+        },
+        {
+            "facet_id": 2242,
+            "occurrence": 1,
+            "value": "Lévy"
+        },
+        {
+            "facet_id": 2428,
+            "occurrence": 1,
+            "value": "Schulze"
+        },
+        {
+            "facet_id": 3335,
+            "occurrence": 1,
+            "value": "Voigt"
+        },
+        {
+            "facet_id": 3365,
+            "occurrence": 1,
+            "value": "Lechner"
+        },
+        {
+            "facet_id": 3716,
+            "occurrence": 1,
+            "value": "Fleischer"
+        },
+        {
+            "facet_id": 4142,
+            "occurrence": 1,
+            "value": "Bohn"
+        },
+        {
+            "facet_id": 4853,
+            "occurrence": 1,
+            "value": "Gräfe"
+        },
+        {
+            "facet_id": 6903,
+            "occurrence": 1,
+            "value": "Longman"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 1,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 10152,
+            "occurrence": 1,
+            "value": "Jahn, Otto (1813-1869)"
+        },
+        {
+            "facet_id": 10518,
+            "occurrence": 1,
+            "value": "Engelmann"
+        },
+        {
+            "facet_id": 12643,
+            "occurrence": 1,
+            "value": "Schultze"
+        },
+        {
+            "facet_id": 13741,
+            "occurrence": 1,
+            "value": "Hofmeister"
+        },
+        {
+            "facet_id": 13790,
+            "occurrence": 1,
+            "value": "Reinhard, Karl Friedrich (1761-1837)"
+        },
+        {
+            "facet_id": 14568,
+            "occurrence": 1,
+            "value": "s.t."
+        },
+        {
+            "facet_id": 15082,
+            "occurrence": 1,
+            "value": "Longman u.a."
+        },
+        {
+            "facet_id": 15248,
+            "occurrence": 1,
+            "value": "Diehl"
+        },
+        {
+            "facet_id": 15690,
+            "occurrence": 1,
+            "value": "Pierer"
+        },
+        {
+            "facet_id": 15730,
+            "occurrence": 1,
+            "value": "Scott, Walter (1771-1832)"
+        },
+        {
+            "facet_id": 15977,
+            "occurrence": 1,
+            "value": "Stahr, Adolf (1805-1876)"
+        },
+        {
+            "facet_id": 16099,
+            "occurrence": 1,
+            "value": "Wagner, Carl"
+        },
+        {
+            "facet_id": 17125,
+            "occurrence": 1,
+            "value": "Hingray"
+        },
+        {
+            "facet_id": 19812,
+            "occurrence": 1,
+            "value": "Meißner"
+        },
+        {
+            "facet_id": 24390,
+            "occurrence": 1,
+            "value": "H. G. Bohn"
+        },
+        {
+            "facet_id": 25314,
+            "occurrence": 1,
+            "value": "Bornträger"
+        },
+        {
+            "facet_id": 25856,
+            "occurrence": 1,
+            "value": "Baedeker"
+        },
+        {
+            "facet_id": 26018,
+            "occurrence": 1,
+            "value": "Lavater, Johann Caspar (1741-1801)"
+        },
+        {
+            "facet_id": 26217,
+            "occurrence": 1,
+            "value": "Tieck, Ludwig (1773-1853)"
+        },
+        {
+            "facet_id": 26770,
+            "occurrence": 1,
+            "value": "Carus, Carl Gustav (1789-1869)"
+        },
+        {
+            "facet_id": 32363,
+            "occurrence": 1,
+            "value": "Hegel, Georg Wilhelm Friedrich (1770-1831)"
+        },
+        {
+            "facet_id": 38574,
+            "occurrence": 1,
+            "value": "Blaze de Bury, Henri"
+        },
+        {
+            "facet_id": 40809,
+            "occurrence": 1,
+            "value": "Rosenkranz, Karl (1805-1879)"
+        },
+        {
+            "facet_id": 42713,
+            "occurrence": 1,
+            "value": "Mosengeil, Friedrich (1773-1839)"
+        },
+        {
+            "facet_id": 46014,
+            "occurrence": 1,
+            "value": "Trautwein"
+        },
+        {
+            "facet_id": 47153,
+            "occurrence": 1,
+            "value": "Kistner"
+        },
+        {
+            "facet_id": 50742,
+            "occurrence": 1,
+            "value": "Zaunschliffer, Otto Philipp (1653-1729)"
+        },
+        {
+            "facet_id": 54208,
+            "occurrence": 1,
+            "value": "Schwenck, Johann Konrad (1793-1864)"
+        },
+        {
+            "facet_id": 56475,
+            "occurrence": 1,
+            "value": "Weismann, Heinrich"
+        },
+        {
+            "facet_id": 72765,
+            "occurrence": 1,
+            "value": "Struve, Karl Ludwig (1785-1838)"
+        },
+        {
+            "facet_id": 75599,
+            "occurrence": 1,
+            "value": "Henschke, E."
+        },
+        {
+            "facet_id": 82246,
+            "occurrence": 1,
+            "value": "Merz"
+        },
+        {
+            "facet_id": 89021,
+            "occurrence": 1,
+            "value": "J. Bry"
+        },
+        {
+            "facet_id": 93787,
+            "occurrence": 1,
+            "value": "Jacobi, Friedrich H."
+        },
+        {
+            "facet_id": 95443,
+            "occurrence": 1,
+            "value": "Schmidt, Johann P."
+        },
+        {
+            "facet_id": 114694,
+            "occurrence": 1,
+            "value": "Loewe, Carl (1796-1869)"
+        },
+        {
+            "facet_id": 125851,
+            "occurrence": 1,
+            "value": "Göschel, Carl Friedrich (1781-1861)"
+        },
+        {
+            "facet_id": 125906,
+            "occurrence": 1,
+            "value": "Jungius, Joachim (1587-1657)"
+        },
+        {
+            "facet_id": 127159,
+            "occurrence": 1,
+            "value": "Schröder u.a."
+        },
+        {
+            "facet_id": 127160,
+            "occurrence": 1,
+            "value": "Fischer, Benjamin G."
+        },
+        {
+            "facet_id": 139458,
+            "occurrence": 1,
+            "value": "Cabrerizo"
+        },
+        {
+            "facet_id": 163773,
+            "occurrence": 1,
+            "value": "Daumer, Georg Friedrich (1800-1875)"
+        }
+    ]
+}

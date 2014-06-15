@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_facet_id": 14138,
+    "affiliate_facet": "Keller",
+    "occurrence": 181,
+    "affiliates": [
+        {
+            "facet_id": 14138,
+            "occurrence": 184,
+            "value": "Musée National Auguste Rodin (Paris)"
+        },
+        {
+            "facet_id": 8028,
+            "occurrence": 181,
+            "value": "Rodin, Auguste"
+        },
+        {
+            "facet_id": 812099,
+            "occurrence": 2,
+            "value": "Claudel, Camille"
+        },
+        {
+            "facet_id": 10138,
+            "occurrence": 1,
+            "value": "Renoir, Auguste"
+        }
+    ]
+}

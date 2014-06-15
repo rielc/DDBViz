@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 6,
+    "time_fct": "time_62020",
+    "affiliate_fct_id": 7000,
+    "affiliate_fct": "Statistisches Landesamt",
+    "affiliate_fct_occurrence": 122,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 7000,
+            "affiliate_fct": "Statistisches Landesamt",
+            "affiliate_fct_occurrence": 122
+        },
+        {
+            "affiliate_fct_id": 13897,
+            "affiliate_fct": "Hartmann; Julius, im STB/SLA",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 13880,
+            "affiliate_fct": "Bossert; Gustav, Pfarrer in Bächlingen, A",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 214206,
+            "affiliate_fct": "Paulus; Eduard, Landeskonservator, im STB",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 22243,
+            "affiliate_fct": "Rechberg; Herren und Grafen von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 64919,
+            "affiliate_fct": "Stälin; Paul, Archivrat, im STB",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 138676,
+            "affiliate_fct": "Thurn und Taxis; Fürsten von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 212613,
+            "affiliate_fct": "Weller; Karl, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 270473,
+            "affiliate_fct": "Erhard; Julius, Kommerzienrat in Gmünd, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 316982,
+            "affiliate_fct": "Ströhmfeld; Gustav, Oberrechnungsrat, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 316984,
+            "affiliate_fct": "Württemberg; Eberhard V. von, Graf",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 324338,
+            "affiliate_fct": "Speth; Herren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 358732,
+            "affiliate_fct": "Barth; Gustav, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 402551,
+            "affiliate_fct": "Gaisberg-Schöckingen; Friedrich von, Freiherr, A",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 451050,
+            "affiliate_fct": "Pichler; Hermann, Weberei in Laichingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 475478,
+            "affiliate_fct": "Neumann; Balthasar, Baumeister",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 621802,
+            "affiliate_fct": "Normann-Ehrenfels; Freiherren von",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1013106,
+            "affiliate_fct": "Groß; Christoph Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 46062,
+            "affiliate_fct": "Memminger; Johann Daniel Georg, STB",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79493,
+            "affiliate_fct": "Wagner; Oberbürgermeister in Ulm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89017,
+            "affiliate_fct": "Semler; Christoph, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89018,
+            "affiliate_fct": "Wunderlich; Rudolf von, Geheimrat, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 97804,
+            "affiliate_fct": "Degenfeld; Freiherren und Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 102689,
+            "affiliate_fct": "Rueß; B., Stadtpfarrer a.D. in Aulendorf, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112885,
+            "affiliate_fct": "Greeff; J.H., aus Höfen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112886,
+            "affiliate_fct": "Moltke; Helmuth von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112887,
+            "affiliate_fct": "Müller; Rudolf, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 112888,
+            "affiliate_fct": "Schuon; Immanuel Friedrich, Schultheiß in Dobel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138673,
+            "affiliate_fct": "Klaiber; Pfarrer in Mengen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138674,
+            "affiliate_fct": "Peter; Lehrer in Mengen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138675,
+            "affiliate_fct": "Schmid; Alois Leopold, in Scheer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138677,
+            "affiliate_fct": "Vollmer; Jakel, Maler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 138678,
+            "affiliate_fct": "Wolf; Theodor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 163062,
+            "affiliate_fct": "Bodman; Herren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 171422,
+            "affiliate_fct": "Limpurg Schenken von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187395,
+            "affiliate_fct": "Arnaud; Henri, Waldenser",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212611,
+            "affiliate_fct": "Schön; Theodor, Privatgelehrter in Stuttgart, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259204,
+            "affiliate_fct": "Pyrker; Anna Maria, Sängerin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 269941,
+            "affiliate_fct": "Lessing; Pfarrer in Heimsheim, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270471,
+            "affiliate_fct": "Baumeister; Johann Sebaldus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270472,
+            "affiliate_fct": "Beroldingen; Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270474,
+            "affiliate_fct": "Laichinger; Wilhelm Friedrich, Schulmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270475,
+            "affiliate_fct": "Scherr; Johannes Hieronymus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270476,
+            "affiliate_fct": "Scherr; Thomas Ignatius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 270477,
+            "affiliate_fct": "Woellwarth; Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278313,
+            "affiliate_fct": "Hornberger; G., A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278314,
+            "affiliate_fct": "Müller; Karl Otto, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278315,
+            "affiliate_fct": "Ritter; Wilhelm, Regierungsbaumeister, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278316,
+            "affiliate_fct": "Zeppelin; Graf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313026,
+            "affiliate_fct": "Weidenbach; Herren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 316979,
+            "affiliate_fct": "Goethe; Johann Wolfgang",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 316980,
+            "affiliate_fct": "Neurath; Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 316981,
+            "affiliate_fct": "Schwab; Gustav, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 316983,
+            "affiliate_fct": "Uhland; Ludwig",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 342577,
+            "affiliate_fct": "Rümelin; Gustav, im STB",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358733,
+            "affiliate_fct": "Gutmann; Leopold A., in Göppingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358734,
+            "affiliate_fct": "Klaiber; H., Professor, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358735,
+            "affiliate_fct": "Landerer; Dr., in Göppingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358736,
+            "affiliate_fct": "Werner; Paul, aus Gruibingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365543,
+            "affiliate_fct": "Andler; Oberst a.D., A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365544,
+            "affiliate_fct": "Kapf; von, Familie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379153,
+            "affiliate_fct": "Freidank; Dichter, aus Plieningen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385709,
+            "affiliate_fct": "Bauer; Bergrat, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385710,
+            "affiliate_fct": "Buß; Pfarrer in Bichishausen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385711,
+            "affiliate_fct": "Haug; Ferdinand, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385712,
+            "affiliate_fct": "Heintzeler; Anstaltspfarrer in Zwiefalten, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385713,
+            "affiliate_fct": "Herter; Schultheiß in Gundelfingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385714,
+            "affiliate_fct": "Hörner; Schultheiß in Münsingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385715,
+            "affiliate_fct": "Kies; Pfarrer in Steingebronn, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385716,
+            "affiliate_fct": "Koch; J.L.A., Anstaltsdirektor in Zwiefalten, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385717,
+            "affiliate_fct": "Maier; Werner, aus Böttingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385718,
+            "affiliate_fct": "Niethammer; Dekan in Münsingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385719,
+            "affiliate_fct": "Nießer; Pfarrer in Tigerfeld, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385720,
+            "affiliate_fct": "Stotz; Pfarrer in Laichingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 385721,
+            "affiliate_fct": "Volz; Pfarrer in Hayingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 402552,
+            "affiliate_fct": "Gaisberg; Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 402553,
+            "affiliate_fct": "Raithelhuber; H., Pfarrer in Hohenacker, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 402554,
+            "affiliate_fct": "Schäfer; Marie, Diakonissin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 402555,
+            "affiliate_fct": "Sixt; Professor in Stuttgart, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 426942,
+            "affiliate_fct": "Dachenhausen; Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451047,
+            "affiliate_fct": "Leube; Stadtpfarrer in Münsingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451048,
+            "affiliate_fct": "Mach; Johannes, Kassier der Genossenschaft für Leinenweberei in Laichingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 451049,
+            "affiliate_fct": "Mayer; OAsarzt in Münsingen, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463062,
+            "affiliate_fct": "Burkert; Helmut, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463063,
+            "affiliate_fct": "Württemberg; Katharina von, Königin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463064,
+            "affiliate_fct": "Württemberg; Wilhelm I. von, König",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475475,
+            "affiliate_fct": "Bragança; Maria Anna von, Infantin von Portugal",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475476,
+            "affiliate_fct": "Dinger; Placidus, Abt von Mönchsdeggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475477,
+            "affiliate_fct": "Freytag; Archivar, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475479,
+            "affiliate_fct": "Portugal; Maria Anna von Bragança, Infantin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475480,
+            "affiliate_fct": "Römische Kaiserin; Maria Theresia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475481,
+            "affiliate_fct": "Silva Tarouca; Duc de",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475482,
+            "affiliate_fct": "Thurn und Taxis; Karl August von, Prinz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475483,
+            "affiliate_fct": "Will; Cornelius, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 475484,
+            "affiliate_fct": "Zimmermann; Bernhard, Pater im Kloster Deggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 481824,
+            "affiliate_fct": "Miller; Pfarrer in Murrhardt, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 481825,
+            "affiliate_fct": "Regelmann; Vermessungsoberinspektor, A",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 481826,
+            "affiliate_fct": "Walderich; Klostergründer in Murrhardt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 483183,
+            "affiliate_fct": "Stöffeln; Herren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 487811,
+            "affiliate_fct": "Mauser; Wilhelm, Waffenfabrikant in Oberndorf",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

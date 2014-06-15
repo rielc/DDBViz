@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 27,
+    "time_fct": "time_62040",
+    "affiliate_facet_id": 5594,
+    "affiliate_facet": "Forstamt Mosbach",
+    "occurrence": 416,
+    "affiliates": [
+        {
+            "facet_id": 5594,
+            "occurrence": 454,
+            "value": "Landgericht Freiburg"
+        },
+        {
+            "facet_id": 500932,
+            "occurrence": 14,
+            "value": "Müller, Friedrich, Verwaltungsassistent, Binzen"
+        },
+        {
+            "facet_id": 68541,
+            "occurrence": 11,
+            "value": "Jäger, Alois, Mauchen"
+        },
+        {
+            "facet_id": 68542,
+            "occurrence": 11,
+            "value": "Kölbl, Kurt, Chemnitz"
+        },
+        {
+            "facet_id": 68543,
+            "occurrence": 11,
+            "value": "Riemann, Heinrich, Obervellmar"
+        },
+        {
+            "facet_id": 68544,
+            "occurrence": 11,
+            "value": "Salomon, Hilde, Schmuckgeschäft, Badenweiler"
+        },
+        {
+            "facet_id": 352865,
+            "occurrence": 10,
+            "value": "Nordischer Kurier GmbH, Itzehoe"
+        },
+        {
+            "facet_id": 352866,
+            "occurrence": 10,
+            "value": "Speer, Eugen, Kaufmann, Freiburg"
+        },
+        {
+            "facet_id": 78961,
+            "occurrence": 8,
+            "value": "Neu, Josef, Rottenburg"
+        },
+        {
+            "facet_id": 78962,
+            "occurrence": 8,
+            "value": "Stahl, Erich, Flüchen"
+        },
+        {
+            "facet_id": 78963,
+            "occurrence": 8,
+            "value": "Steinhart, Oskar, Oberried"
+        },
+        {
+            "facet_id": 78964,
+            "occurrence": 8,
+            "value": "Ullmann, August, Zürich"
+        },
+        {
+            "facet_id": 51262,
+            "occurrence": 7,
+            "value": "Arnold, Richard, Kellner, Leipzig"
+        },
+        {
+            "facet_id": 51263,
+            "occurrence": 7,
+            "value": "Mutschler, Albert, Hausierer, Mülhausen"
+        },
+        {
+            "facet_id": 132311,
+            "occurrence": 7,
+            "value": "Lay, Adolf, Ihringen"
+        },
+        {
+            "facet_id": 368968,
+            "occurrence": 7,
+            "value": "Fehrenbach, Otto, Syndikus, Freiburg"
+        },
+        {
+            "facet_id": 608185,
+            "occurrence": 7,
+            "value": "Gühr, Wilhelm, Hausen"
+        },
+        {
+            "facet_id": 132310,
+            "occurrence": 6,
+            "value": "Karle, Karl Friedrich, Ihringen"
+        },
+        {
+            "facet_id": 197701,
+            "occurrence": 6,
+            "value": "Flink, Franz Robert, Würzburg"
+        },
+        {
+            "facet_id": 197702,
+            "occurrence": 6,
+            "value": "Wendler, Margarete, Freiburg"
+        },
+        {
+            "facet_id": 318701,
+            "occurrence": 5,
+            "value": "Bürgi, Richard, Kaufmann, Freiburg"
+        },
+        {
+            "facet_id": 322351,
+            "occurrence": 5,
+            "value": "Maier, Vinzenz, Verwaltungssekretär, Reute"
+        },
+        {
+            "facet_id": 559837,
+            "occurrence": 5,
+            "value": "Bloch, Otto Erich, Emmendingen"
+        },
+        {
+            "facet_id": 559838,
+            "occurrence": 5,
+            "value": "Bloch, Richard, Emmendingen"
+        },
+        {
+            "facet_id": 20179,
+            "occurrence": 4,
+            "value": "Jenne, Emil, Elektrotechnische Werkstätte, Königschaffhausen"
+        },
+        {
+            "facet_id": 132329,
+            "occurrence": 4,
+            "value": "Weil, Isaak Moses, Viehhändler, Eichstetten"
+        },
+        {
+            "facet_id": 206664,
+            "occurrence": 4,
+            "value": "Hornsteiner, Julius, Freiburg"
+        },
+        {
+            "facet_id": 226747,
+            "occurrence": 4,
+            "value": "Lange, Gebrüder, Ziegelwerke, Rümmingen"
+        },
+        {
+            "facet_id": 229724,
+            "occurrence": 4,
+            "value": "Faller, Josef, Holzhauer, Neusatz"
+        },
+        {
+            "facet_id": 274425,
+            "occurrence": 4,
+            "value": "Bruder, Rudolf, Freiburg"
+        },
+        {
+            "facet_id": 305377,
+            "occurrence": 4,
+            "value": "Booz, Albert, Postbetriebsassistent, Hauingen"
+        },
+        {
+            "facet_id": 332790,
+            "occurrence": 4,
+            "value": "Grab, Viktor, Oberrotweil"
+        },
+        {
+            "facet_id": 437264,
+            "occurrence": 4,
+            "value": "Reinhard, Oskar, Freiburg"
+        },
+        {
+            "facet_id": 437265,
+            "occurrence": 4,
+            "value": "Wachter, Anna Maria, Hofweier"
+        },
+        {
+            "facet_id": 437266,
+            "occurrence": 4,
+            "value": "Wachter, Karl Josef, Freiburg"
+        },
+        {
+            "facet_id": 517085,
+            "occurrence": 4,
+            "value": "Weidner, August, Neuenburg"
+        },
+        {
+            "facet_id": 31316,
+            "occurrence": 3,
+            "value": "Erat, Hans, Freiburg"
+        },
+        {
+            "facet_id": 217044,
+            "occurrence": 3,
+            "value": "Axmann, Frieda, Freiburg"
+        },
+        {
+            "facet_id": 217045,
+            "occurrence": 3,
+            "value": "Axmann, Karl Franz, Mübelhändler, Freiburg"
+        },
+        {
+            "facet_id": 238230,
+            "occurrence": 3,
+            "value": "Rombach, Marie, Freiburg-Kappel"
+        },
+        {
+            "facet_id": 253534,
+            "occurrence": 3,
+            "value": "Frey, Wilhelm August, Endingen"
+        },
+        {
+            "facet_id": 290785,
+            "occurrence": 3,
+            "value": "Schladale, Paul, Lörrach"
+        },
+        {
+            "facet_id": 314424,
+            "occurrence": 3,
+            "value": "Eichhorn, Karl Wilhelm, Kippenheim"
+        },
+        {
+            "facet_id": 415799,
+            "occurrence": 3,
+            "value": "Ganter, Brauerei, Freiburg"
+        },
+        {
+            "facet_id": 445022,
+            "occurrence": 3,
+            "value": "Fischer, Emil, Vörstetten"
+        },
+        {
+            "facet_id": 465996,
+            "occurrence": 3,
+            "value": "Schillinger, Emil, Landeck"
+        },
+        {
+            "facet_id": 599649,
+            "occurrence": 3,
+            "value": "Lang, Paul, Lörrach"
+        },
+        {
+            "facet_id": 30813,
+            "occurrence": 2,
+            "value": "Knöbel, Paul, Dittishausen"
+        },
+        {
+            "facet_id": 40485,
+            "occurrence": 2,
+            "value": "Löser, Karl, Freiburg"
+        },
+        {
+            "facet_id": 83060,
+            "occurrence": 2,
+            "value": "Hettinger, Friedrich, Süddeutsche Frachtenkontrolle, Freiburg"
+        },
+        {
+            "facet_id": 103452,
+            "occurrence": 2,
+            "value": "Lösch, Ludwig, Pferdehändler, Mannheim"
+        },
+        {
+            "facet_id": 103453,
+            "occurrence": 2,
+            "value": "Peter, Konrad, Metzger, Lenzkirch"
+        },
+        {
+            "facet_id": 140959,
+            "occurrence": 2,
+            "value": "Kiesel, Ludwig, Stegen"
+        },
+        {
+            "facet_id": 171293,
+            "occurrence": 2,
+            "value": "Back, Emil, Obereggenen"
+        },
+        {
+            "facet_id": 181518,
+            "occurrence": 2,
+            "value": "Wolf, Rosa, Buchenbach"
+        },
+        {
+            "facet_id": 198039,
+            "occurrence": 2,
+            "value": "Himmelsbach AG, Freiburg"
+        },
+        {
+            "facet_id": 198040,
+            "occurrence": 2,
+            "value": "Himmelsbach, Josef, Oberweier"
+        },
+        {
+            "facet_id": 213857,
+            "occurrence": 2,
+            "value": "Klingele, Leonhard, St. Wilhelm"
+        },
+        {
+            "facet_id": 217282,
+            "occurrence": 2,
+            "value": "Kohler, Richard, Freiburg"
+        },
+        {
+            "facet_id": 220489,
+            "occurrence": 2,
+            "value": "Gentner, Eugen, Hauingen"
+        },
+        {
+            "facet_id": 220490,
+            "occurrence": 2,
+            "value": "Keller, Otto, Unteralpfen"
+        },
+        {
+            "facet_id": 220491,
+            "occurrence": 2,
+            "value": "Osti, Mariangelo, Hauingen"
+        },
+        {
+            "facet_id": 237984,
+            "occurrence": 2,
+            "value": "Maier, Josef, Spediteur, Lörrach"
+        },
+        {
+            "facet_id": 239247,
+            "occurrence": 2,
+            "value": "Leonhardt, Josef, Forchheim"
+        },
+        {
+            "facet_id": 254094,
+            "occurrence": 2,
+            "value": "Wieber, Josef, Verwaltungsassistent, Herbolzheim"
+        },
+        {
+            "facet_id": 274683,
+            "occurrence": 2,
+            "value": "Britz, Hugo Helmut, Elzach"
+        },
+        {
+            "facet_id": 279383,
+            "occurrence": 2,
+            "value": "Schück, Heinrich Ludwig, Freiburg"
+        },
+        {
+            "facet_id": 290551,
+            "occurrence": 2,
+            "value": "Lederle, August Karl, Blaichach"
+        },
+        {
+            "facet_id": 315222,
+            "occurrence": 2,
+            "value": "Gruber, Ewald, Malterdingen"
+        },
+        {
+            "facet_id": 325056,
+            "occurrence": 2,
+            "value": "Erchinger, Josef, Singen"
+        },
+        {
+            "facet_id": 325057,
+            "occurrence": 2,
+            "value": "Maier, Irma, Lörrach"
+        },
+        {
+            "facet_id": 351413,
+            "occurrence": 2,
+            "value": "Heller, Karl, Gundelfingen"
+        },
+        {
+            "facet_id": 353766,
+            "occurrence": 2,
+            "value": "Fackelmann, Friedrich, Unterbalbach"
+        },
+        {
+            "facet_id": 360965,
+            "occurrence": 2,
+            "value": "Sauter, Leonhard, Eichholz"
+        },
+        {
+            "facet_id": 360966,
+            "occurrence": 2,
+            "value": "Schlumberger, Erich, Laufen"
+        },
+        {
+            "facet_id": 372061,
+            "occurrence": 2,
+            "value": "Schnaithmann, Gottlob, Triberg"
+        },
+        {
+            "facet_id": 376053,
+            "occurrence": 2,
+            "value": "Zapf, Anna, Wyhl"
+        },
+        {
+            "facet_id": 409663,
+            "occurrence": 2,
+            "value": "Berger, Karl, Freiburg"
+        },
+        {
+            "facet_id": 411106,
+            "occurrence": 2,
+            "value": "Sälzle, Helene, Weil am Rhein"
+        },
+        {
+            "facet_id": 415800,
+            "occurrence": 2,
+            "value": "Meckel, C.A., Architekt, Freiburg"
+        },
+        {
+            "facet_id": 428783,
+            "occurrence": 2,
+            "value": "Pfefferle, Franz, Ratschreiber, Staufen"
+        },
+        {
+            "facet_id": 447300,
+            "occurrence": 2,
+            "value": "Grether, Karl, Badenweiler"
+        },
+        {
+            "facet_id": 449072,
+            "occurrence": 2,
+            "value": "Hurter, Ludwig, Nimburg"
+        },
+        {
+            "facet_id": 470696,
+            "occurrence": 2,
+            "value": "Held, Otto, Freiburg"
+        },
+        {
+            "facet_id": 528657,
+            "occurrence": 2,
+            "value": "Schulz, Albert, Postassistent, Kenzingen"
+        },
+        {
+            "facet_id": 528934,
+            "occurrence": 2,
+            "value": "Höfle, Ludwig, Brombach"
+        },
+        {
+            "facet_id": 543180,
+            "occurrence": 2,
+            "value": "Wieber, Georg, Obereggenen"
+        },
+        {
+            "facet_id": 544523,
+            "occurrence": 2,
+            "value": "Dietsche, Emil, Untermünstertal"
+        },
+        {
+            "facet_id": 589967,
+            "occurrence": 2,
+            "value": "Hausotter, Erich, Freiburg"
+        },
+        {
+            "facet_id": 597189,
+            "occurrence": 2,
+            "value": "Hug, Otto, Freiburg"
+        },
+        {
+            "facet_id": 632334,
+            "occurrence": 2,
+            "value": "Dietsche, Johann, Freiburg"
+        },
+        {
+            "facet_id": 632335,
+            "occurrence": 2,
+            "value": "Lahann, Paul, Freiburg"
+        },
+        {
+            "facet_id": 633570,
+            "occurrence": 2,
+            "value": "Weisser, Leo, Urach"
+        },
+        {
+            "facet_id": 651636,
+            "occurrence": 2,
+            "value": "Wenz, Eduard, Hausen"
+        },
+        {
+            "facet_id": 654366,
+            "occurrence": 2,
+            "value": "Friedrich, Emil, Kiechlinsbergen"
+        },
+        {
+            "facet_id": 668657,
+            "occurrence": 2,
+            "value": "Gasser, Emil, Teningen"
+        },
+        {
+            "facet_id": 690026,
+            "occurrence": 2,
+            "value": "Männer, Gustav, Hauingen"
+        },
+        {
+            "facet_id": 697029,
+            "occurrence": 2,
+            "value": "Müller, Wilhelm Friedrich, Teningen"
+        },
+        {
+            "facet_id": 699461,
+            "occurrence": 2,
+            "value": "Bermannseder, Josef, Uhingen"
+        },
+        {
+            "facet_id": 706359,
+            "occurrence": 2,
+            "value": "Schweizer, Fritz, Oberweiler"
+        }
+    ]
+}

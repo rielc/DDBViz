@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 3,
+    "time_fct": "time_61975",
+    "affiliate_fct_id": 10210,
+    "affiliate_fct": "Landgericht Konstanz",
+    "affiliate_fct_occurrence": 331,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 10210,
+            "affiliate_fct": "Landgericht Konstanz",
+            "affiliate_fct_occurrence": 331
+        },
+        {
+            "affiliate_fct_id": 75745,
+            "affiliate_fct": "Stromeyer, Max, Oberbürgermeister, Konstanz",
+            "affiliate_fct_occurrence": 17
+        },
+        {
+            "affiliate_fct_id": 795986,
+            "affiliate_fct": "Ebner, Albert, Landwirt und Stabhalter, Steinbach",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 14002,
+            "affiliate_fct": "Fürstenberg, Standesherrschaft",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 87815,
+            "affiliate_fct": "Strobel, Hermann, Landwirt, Meersburg",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 96320,
+            "affiliate_fct": "Maier, Augusta, Uttenhofen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 96321,
+            "affiliate_fct": "Weber, Fridolin, Uttenhofen",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 161541,
+            "affiliate_fct": "Ratzer, Bartholomäus, Reiselfingen",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 19639,
+            "affiliate_fct": "Breinlinger, Sebastian, Liptingen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 169028,
+            "affiliate_fct": "Kopp, Anastasia, Dienstmagd, Weilersbach",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 967253,
+            "affiliate_fct": "Strobel, Monika, Meersburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 11638,
+            "affiliate_fct": "Allgeier, Nemesius, Ruschweiler",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 125625,
+            "affiliate_fct": "Lang, Bernhard, Bäckermeister, Konstanz",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 125626,
+            "affiliate_fct": "Lang, Pauline, Esenhausen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 125627,
+            "affiliate_fct": "Staimer, Josef, Bäckergeselle, Kay",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 207106,
+            "affiliate_fct": "Breinlinger, Xaver, Liptingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 613981,
+            "affiliate_fct": "Mayer, Friedrich, Glaser, Donaueschingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 72697,
+            "affiliate_fct": "Paganini, Maria, Bräunlingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126578,
+            "affiliate_fct": "Barho, Johann Martin, Sunthausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126579,
+            "affiliate_fct": "Lohrer, Christiana, Sunthausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 126580,
+            "affiliate_fct": "Lohrer, Thomas, Sunthausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 171025,
+            "affiliate_fct": "Beha, Pius, Gastwirt, Villingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 283793,
+            "affiliate_fct": "Weisser, Valentin, Unterkirnach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 287000,
+            "affiliate_fct": "Freudigmann, Anton, Ochsenbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 378846,
+            "affiliate_fct": "Weisser, Sebald, Unterkirnach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 468121,
+            "affiliate_fct": "Greiner, Karl, Metzger, Immendingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 531112,
+            "affiliate_fct": "Hof, Maximilian, Maurer, Zizenhausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 531113,
+            "affiliate_fct": "Trüb, Wunibald, Zizenhausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688206,
+            "affiliate_fct": "Belli, Josef, Rammersweier",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688207,
+            "affiliate_fct": "Mohr, Albert, Immenstaad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688208,
+            "affiliate_fct": "Mohr, Josefa, Immenstaad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688209,
+            "affiliate_fct": "Mohr, Paulina, Immenstaad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688210,
+            "affiliate_fct": "Mohr, Theodor, Immenstaad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 688211,
+            "affiliate_fct": "Rebstein, Johann, Immenstaad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 699224,
+            "affiliate_fct": "Kauth, Maria, Konstanz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 723704,
+            "affiliate_fct": "Guggenheim, Sigmund, Kaufmann, Konstanz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 771859,
+            "affiliate_fct": "Weh, Lorenz, Küfer, Donaueschingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 904224,
+            "affiliate_fct": "Bismarck, v., Reichskanzler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1034548,
+            "affiliate_fct": "Otto, Karl, Kaufmann, Villingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11639,
+            "affiliate_fct": "Fischer, Mathäus, Judentenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 32078,
+            "affiliate_fct": "Tritschler, Johann, Orchestrionfabrikant, Vöhrenbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 72696,
+            "affiliate_fct": "Costa, Giacomo, Bauunternehmer, Triberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85173,
+            "affiliate_fct": "Neugart, August, Unterkirnach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 85174,
+            "affiliate_fct": "Neugart, Emil, Unterkirnach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 107706,
+            "affiliate_fct": "Wohlgemuth, Philipp, Zentraldirektor, Karlsruhe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 147319,
+            "affiliate_fct": "Leopold, Großherzog von Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 147320,
+            "affiliate_fct": "Ullmann, Dr. C., Dekan, theolog. Fakultät Universität Heidelberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 153629,
+            "affiliate_fct": "Damm, Friedrich, Baden-Baden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 175857,
+            "affiliate_fct": "Galley, Lukas, Maurermeister, Allmannsdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 175858,
+            "affiliate_fct": "Hörnle, Elisabeth, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176640,
+            "affiliate_fct": "Lohr, Friedrich, Überlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 222123,
+            "affiliate_fct": "Schmeh, Konrad, Hofgutsbesitzer, Adelsreute",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 229932,
+            "affiliate_fct": "Siegwart, Adolf, Bierbrauer, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 229933,
+            "affiliate_fct": "Ummenhofer, Richard, Dreher, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 236607,
+            "affiliate_fct": "Berthold, Otto, Schreiner, Ruhland",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 307368,
+            "affiliate_fct": "Schmidt, Georg, Expeditor, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 317532,
+            "affiliate_fct": "Zwick, Johann, Leitishofen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 322755,
+            "affiliate_fct": "Weltin, Engelbert, Allensbach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 331649,
+            "affiliate_fct": "Müller, Karl, Registrator, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 342691,
+            "affiliate_fct": "Schwarz, Adolf, Notar, Hüfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 348878,
+            "affiliate_fct": "Honegger, Kaspar, Wollmatingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 357861,
+            "affiliate_fct": "Dietrich, Adolf, Notar, Tengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 373773,
+            "affiliate_fct": "Hilpert, Joseph, Müller, Gailingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 376526,
+            "affiliate_fct": "Müller, Cyprian, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 376527,
+            "affiliate_fct": "Singer, Joseph, Küfer, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 379975,
+            "affiliate_fct": "Brändle, Elisabeth, Riedöschingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401783,
+            "affiliate_fct": "Frey, Gregor, Holz- und Kohlenhändler, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401784,
+            "affiliate_fct": "Hains, Mathias, Schleppschiffführer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 403728,
+            "affiliate_fct": "Herrmann, Eduard, Berlin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 422559,
+            "affiliate_fct": "Krebs, Cyriak, Aktuar, Iffezheim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 431717,
+            "affiliate_fct": "Schatz, Benedikt, Handelsmann, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 432338,
+            "affiliate_fct": "Rid, Josef, Bürstenbinder, Markdorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 439887,
+            "affiliate_fct": "Singer, Theodor, Landgerichtsrat, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 443014,
+            "affiliate_fct": "Schwarz, Paul, Güterhändler, Bonndorf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 444908,
+            "affiliate_fct": "Müller, Georg Friedrich, Sonnenwirt, Blumenfeld",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 444909,
+            "affiliate_fct": "Rosenstiehl, Josef, Döggingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448866,
+            "affiliate_fct": "Guggenheim, Leopold, Güterhändler, Gailingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 448867,
+            "affiliate_fct": "Kummer, August, Wirt, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463696,
+            "affiliate_fct": "Schneckenburger, Christian, Vogt, Biesingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463697,
+            "affiliate_fct": "Schneckenburger, Johann, Lehrer, Biesingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 463698,
+            "affiliate_fct": "Strom, Matthias, Biesingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 472454,
+            "affiliate_fct": "Bloch, Elias, Freiburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 472455,
+            "affiliate_fct": "Götz, Johann, Donaueschingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 473659,
+            "affiliate_fct": "Blessing, Engelbert, Maschinenbauer, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 473660,
+            "affiliate_fct": "Bloch, Salomon, Kaufmann, Villingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 490441,
+            "affiliate_fct": "Haas, Andreas, Klostermüller, St. Georgen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 490442,
+            "affiliate_fct": "Rosenfelder, Andreas, Zimmermann, St. Georgen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491939,
+            "affiliate_fct": "Stromeyer, Ludwig, Firma, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491940,
+            "affiliate_fct": "Thanhauser, H., Firma, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 498007,
+            "affiliate_fct": "Holzendorff, K.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 498008,
+            "affiliate_fct": "Raabe, Hermann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 531739,
+            "affiliate_fct": "Reischach, v.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 542236,
+            "affiliate_fct": "Schreiber, Casimir, Unterkirnach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 542950,
+            "affiliate_fct": "Bauer, Hermann, Landgerichtsrat, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 544074,
+            "affiliate_fct": "Karrer, Ludwina, Konstanz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 544168,
+            "affiliate_fct": "Käfer, Johann, Donaueschingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 544169,
+            "affiliate_fct": "Müller, Johann, Stallegg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 545525,
+            "affiliate_fct": "Leuthner, Joseph, Kaufmann, Singen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 561458,
+            "affiliate_fct": "Greiner, Titus, Wolterdingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 561459,
+            "affiliate_fct": "Maier Weil, Heinrich, Handelsmann, Donaueschingen",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

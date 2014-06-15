@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 27,
+    "time_fct": "time_62040",
+    "affiliate_fct_id": 5594,
+    "affiliate_fct": "Landgericht Freiburg",
+    "affiliate_fct_occurrence": 454,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5594,
+            "affiliate_fct": "Landgericht Freiburg",
+            "affiliate_fct_occurrence": 454
+        },
+        {
+            "affiliate_fct_id": 500932,
+            "affiliate_fct": "Müller, Friedrich, Verwaltungsassistent, Binzen",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 68541,
+            "affiliate_fct": "Jäger, Alois, Mauchen",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 68542,
+            "affiliate_fct": "Kölbl, Kurt, Chemnitz",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 68543,
+            "affiliate_fct": "Riemann, Heinrich, Obervellmar",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 68544,
+            "affiliate_fct": "Salomon, Hilde, Schmuckgeschäft, Badenweiler",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 352865,
+            "affiliate_fct": "Nordischer Kurier GmbH, Itzehoe",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 352866,
+            "affiliate_fct": "Speer, Eugen, Kaufmann, Freiburg",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 78961,
+            "affiliate_fct": "Neu, Josef, Rottenburg",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 78962,
+            "affiliate_fct": "Stahl, Erich, Flüchen",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 78963,
+            "affiliate_fct": "Steinhart, Oskar, Oberried",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 78964,
+            "affiliate_fct": "Ullmann, August, Zürich",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 51262,
+            "affiliate_fct": "Arnold, Richard, Kellner, Leipzig",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 51263,
+            "affiliate_fct": "Mutschler, Albert, Hausierer, Mülhausen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 132311,
+            "affiliate_fct": "Lay, Adolf, Ihringen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 368968,
+            "affiliate_fct": "Fehrenbach, Otto, Syndikus, Freiburg",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 608185,
+            "affiliate_fct": "Gühr, Wilhelm, Hausen",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 132310,
+            "affiliate_fct": "Karle, Karl Friedrich, Ihringen",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 197701,
+            "affiliate_fct": "Flink, Franz Robert, Würzburg",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 197702,
+            "affiliate_fct": "Wendler, Margarete, Freiburg",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 318701,
+            "affiliate_fct": "Bürgi, Richard, Kaufmann, Freiburg",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 322351,
+            "affiliate_fct": "Maier, Vinzenz, Verwaltungssekretär, Reute",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 559837,
+            "affiliate_fct": "Bloch, Otto Erich, Emmendingen",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 559838,
+            "affiliate_fct": "Bloch, Richard, Emmendingen",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 20179,
+            "affiliate_fct": "Jenne, Emil, Elektrotechnische Werkstätte, Königschaffhausen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 132329,
+            "affiliate_fct": "Weil, Isaak Moses, Viehhändler, Eichstetten",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 206664,
+            "affiliate_fct": "Hornsteiner, Julius, Freiburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 226747,
+            "affiliate_fct": "Lange, Gebrüder, Ziegelwerke, Rümmingen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 229724,
+            "affiliate_fct": "Faller, Josef, Holzhauer, Neusatz",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 274425,
+            "affiliate_fct": "Bruder, Rudolf, Freiburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 305377,
+            "affiliate_fct": "Booz, Albert, Postbetriebsassistent, Hauingen",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 332790,
+            "affiliate_fct": "Grab, Viktor, Oberrotweil",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 437264,
+            "affiliate_fct": "Reinhard, Oskar, Freiburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 437265,
+            "affiliate_fct": "Wachter, Anna Maria, Hofweier",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 437266,
+            "affiliate_fct": "Wachter, Karl Josef, Freiburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 517085,
+            "affiliate_fct": "Weidner, August, Neuenburg",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 31316,
+            "affiliate_fct": "Erat, Hans, Freiburg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 217044,
+            "affiliate_fct": "Axmann, Frieda, Freiburg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 217045,
+            "affiliate_fct": "Axmann, Karl Franz, Mübelhändler, Freiburg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 238230,
+            "affiliate_fct": "Rombach, Marie, Freiburg-Kappel",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 253534,
+            "affiliate_fct": "Frey, Wilhelm August, Endingen",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 290785,
+            "affiliate_fct": "Schladale, Paul, Lörrach",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 314424,
+            "affiliate_fct": "Eichhorn, Karl Wilhelm, Kippenheim",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 415799,
+            "affiliate_fct": "Ganter, Brauerei, Freiburg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 445022,
+            "affiliate_fct": "Fischer, Emil, Vörstetten",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 465996,
+            "affiliate_fct": "Schillinger, Emil, Landeck",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 599649,
+            "affiliate_fct": "Lang, Paul, Lörrach",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 30813,
+            "affiliate_fct": "Knöbel, Paul, Dittishausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 40485,
+            "affiliate_fct": "Löser, Karl, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 83060,
+            "affiliate_fct": "Hettinger, Friedrich, Süddeutsche Frachtenkontrolle, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 103452,
+            "affiliate_fct": "Lösch, Ludwig, Pferdehändler, Mannheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 103453,
+            "affiliate_fct": "Peter, Konrad, Metzger, Lenzkirch",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 140959,
+            "affiliate_fct": "Kiesel, Ludwig, Stegen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 171293,
+            "affiliate_fct": "Back, Emil, Obereggenen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 181518,
+            "affiliate_fct": "Wolf, Rosa, Buchenbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 198039,
+            "affiliate_fct": "Himmelsbach AG, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 198040,
+            "affiliate_fct": "Himmelsbach, Josef, Oberweier",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 213857,
+            "affiliate_fct": "Klingele, Leonhard, St. Wilhelm",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 217282,
+            "affiliate_fct": "Kohler, Richard, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 220489,
+            "affiliate_fct": "Gentner, Eugen, Hauingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 220490,
+            "affiliate_fct": "Keller, Otto, Unteralpfen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 220491,
+            "affiliate_fct": "Osti, Mariangelo, Hauingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 237984,
+            "affiliate_fct": "Maier, Josef, Spediteur, Lörrach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 239247,
+            "affiliate_fct": "Leonhardt, Josef, Forchheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 254094,
+            "affiliate_fct": "Wieber, Josef, Verwaltungsassistent, Herbolzheim",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 274683,
+            "affiliate_fct": "Britz, Hugo Helmut, Elzach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 279383,
+            "affiliate_fct": "Schück, Heinrich Ludwig, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 290551,
+            "affiliate_fct": "Lederle, August Karl, Blaichach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 315222,
+            "affiliate_fct": "Gruber, Ewald, Malterdingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 325056,
+            "affiliate_fct": "Erchinger, Josef, Singen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 325057,
+            "affiliate_fct": "Maier, Irma, Lörrach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 351413,
+            "affiliate_fct": "Heller, Karl, Gundelfingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 353766,
+            "affiliate_fct": "Fackelmann, Friedrich, Unterbalbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 360965,
+            "affiliate_fct": "Sauter, Leonhard, Eichholz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 360966,
+            "affiliate_fct": "Schlumberger, Erich, Laufen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 372061,
+            "affiliate_fct": "Schnaithmann, Gottlob, Triberg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 376053,
+            "affiliate_fct": "Zapf, Anna, Wyhl",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 409663,
+            "affiliate_fct": "Berger, Karl, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 411106,
+            "affiliate_fct": "Sälzle, Helene, Weil am Rhein",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 415800,
+            "affiliate_fct": "Meckel, C.A., Architekt, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 428783,
+            "affiliate_fct": "Pfefferle, Franz, Ratschreiber, Staufen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 447300,
+            "affiliate_fct": "Grether, Karl, Badenweiler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 449072,
+            "affiliate_fct": "Hurter, Ludwig, Nimburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 470696,
+            "affiliate_fct": "Held, Otto, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 528657,
+            "affiliate_fct": "Schulz, Albert, Postassistent, Kenzingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 528934,
+            "affiliate_fct": "Höfle, Ludwig, Brombach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 543180,
+            "affiliate_fct": "Wieber, Georg, Obereggenen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 544523,
+            "affiliate_fct": "Dietsche, Emil, Untermünstertal",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 589967,
+            "affiliate_fct": "Hausotter, Erich, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 597189,
+            "affiliate_fct": "Hug, Otto, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 632334,
+            "affiliate_fct": "Dietsche, Johann, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 632335,
+            "affiliate_fct": "Lahann, Paul, Freiburg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 633570,
+            "affiliate_fct": "Weisser, Leo, Urach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 651636,
+            "affiliate_fct": "Wenz, Eduard, Hausen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 654366,
+            "affiliate_fct": "Friedrich, Emil, Kiechlinsbergen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 668657,
+            "affiliate_fct": "Gasser, Emil, Teningen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 690026,
+            "affiliate_fct": "Männer, Gustav, Hauingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 697029,
+            "affiliate_fct": "Müller, Wilhelm Friedrich, Teningen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 699461,
+            "affiliate_fct": "Bermannseder, Josef, Uhingen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 706359,
+            "affiliate_fct": "Schweizer, Fritz, Oberweiler",
+            "affiliate_fct_occurrence": 2
+        }
+    ]
+}

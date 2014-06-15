@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 18123,
+    "affiliate_fct": "Ministerium des Innern",
+    "affiliate_fct_occurrence": 442,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 18123,
+            "affiliate_fct": "Ministerium des Innern",
+            "affiliate_fct_occurrence": 442
+        },
+        {
+            "affiliate_fct_id": 3025,
+            "affiliate_fct": "Württemberg, Friedrich I.; König, 1754-1816",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 3090,
+            "affiliate_fct": "Württemberg, Wilhelm I.; König, 1781-1864",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 40498,
+            "affiliate_fct": "Württemberg, Katharina Pawlowna von; Königin, 1788-1819",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 60220,
+            "affiliate_fct": "Pergler von Perglas; Landjägerbezirkskommandant",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 60222,
+            "affiliate_fct": "Ziegesar, von; Major, Landjägerbezirkskommandant",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2173,
+            "affiliate_fct": "Württemberg, Wilhelm Friedrich Philipp; Herzog, Kriegsminister, 1761-1830",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2743,
+            "affiliate_fct": "Wartenberg-Roth, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3086,
+            "affiliate_fct": "Württemberg, Karl I.; König, 1823-1891",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4780,
+            "affiliate_fct": "Württemberg, Friedrich Eugen; Herzog, 1732-1797",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6265,
+            "affiliate_fct": "Württemberg, Ludwig (Louis) Herzog von, 1756-1817",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11354,
+            "affiliate_fct": "Württemberg, Olga; Königin, geb. Großfürstin von Russland, 1822-1892",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11481,
+            "affiliate_fct": "Solms-Braunfels, Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 22537,
+            "affiliate_fct": "Württemberg, Katharina Prinzessin von, 1845-1898",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 22632,
+            "affiliate_fct": "Hohenlohe-Kirchberg, Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 26831,
+            "affiliate_fct": "Württemberg, Paul Prinz von, 1785-1852",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30267,
+            "affiliate_fct": "Reischach, Joseph Freiherr von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 35550,
+            "affiliate_fct": "Blum, Jacob David",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 35551,
+            "affiliate_fct": "Böhm, Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 35552,
+            "affiliate_fct": "Löw, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 35553,
+            "affiliate_fct": "Schmid, Vinzenz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36756,
+            "affiliate_fct": "Jérôme Bonaparte; König von Westphalen, Fürst von Montfort, kaiserlicher Prinz von Frankreich, später Präsident des französischen Senats, 1784-1860",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40967,
+            "affiliate_fct": "Württemberg, Charlotte Auguste Mathilde Herzogin von, geb. Prinzessin von Großbritannien, 1766-1828",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42871,
+            "affiliate_fct": "Sturmfeder, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44616,
+            "affiliate_fct": "Russland, Nikolaus I. Pawlowitsch; Zar, 1796-1855",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 51387,
+            "affiliate_fct": "Hohenheim, Franziska Reichsgräfin von, verh. Herzogin von Württemberg, 1748-1811",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52441,
+            "affiliate_fct": "Schneider, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52932,
+            "affiliate_fct": "Batz, Friedrich von; Soldat, Übersetzer, Oberst, 1788-1856",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56168,
+            "affiliate_fct": "Speth-Schülzburg-Granheim, Freiherren von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 57050,
+            "affiliate_fct": "Württemberg, Paul Wilhelm Herzog von, 1797-1860",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60218,
+            "affiliate_fct": "Martens, von; Landjägerbezirkskommandant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60219,
+            "affiliate_fct": "Palm, von; Landjägerbezirkskommandant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60221,
+            "affiliate_fct": "Starkloff, von; Landjägerbezirkskommandant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62489,
+            "affiliate_fct": "Württemberg, Friedrich Prinz von; Generalleutnant, 1808-1870",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 67952,
+            "affiliate_fct": "Bächle, Michael; Bürgermeister und Weber",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 75129,
+            "affiliate_fct": "Dannecker, Johann Heinrich von; Bildhauer, 1758-1841",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 77387,
+            "affiliate_fct": "Müller, Jakob Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 86266,
+            "affiliate_fct": "Jobst, Friedrich (von); Kaufmann und Fabrikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 87833,
+            "affiliate_fct": "Schuler, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89585,
+            "affiliate_fct": "Lucas, Eduard",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89586,
+            "affiliate_fct": "Raumer, Carl von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90985,
+            "affiliate_fct": "Bürkle, Jacob Friedrich; Fabrikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93137,
+            "affiliate_fct": "Waldbott-Bassenheim, Friedrich Carl Rudolph Graf von; Reichsrat, Major, Ritter des deutschen Ordens, 1779-1830",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93138,
+            "affiliate_fct": "Zell, Joseph; Gastwirt, Bierbrauer und Metzger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 96270,
+            "affiliate_fct": "Württemberg, Charlotte Auguste Kronprinzessin von, 1792-1873",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 102607,
+            "affiliate_fct": "Katharina; Königin von Westphalen, Fürstin von Montfort, geb. Prinzessin von Württemberg, 1783-1835",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105822,
+            "affiliate_fct": "Thurn und Taxis, Karl Alexander; Fürst, 1770-1827",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105878,
+            "affiliate_fct": "Württemberg, Albertine von; Herzogin, geb. Fürstin von Schwarzburg-Sondershausen, 1771-1829",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 115988,
+            "affiliate_fct": "Sponeck, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 117130,
+            "affiliate_fct": "Württemberg, Henriette von; Herzogin, geb. Fürstin von Nassau-Weilburg, 1780-1857",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 124128,
+            "affiliate_fct": "Schenk von Castell, Graf",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131671,
+            "affiliate_fct": "Deeg, Rottenmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 131672,
+            "affiliate_fct": "Netling, Theresia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 154601,
+            "affiliate_fct": "Sternberg, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167390,
+            "affiliate_fct": "Schaaf, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 178557,
+            "affiliate_fct": "Gunzenhauser, Rabbiner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 183363,
+            "affiliate_fct": "Württemberg, Heinrich; Herzog, Statthalter, 1772-1838",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 184216,
+            "affiliate_fct": "Baden, Ludwig I.; Großherzog, 1763-1830",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 187541,
+            "affiliate_fct": "Geiger, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197270,
+            "affiliate_fct": "Württemberg, Sophie Dorothee Caroline; Herzogin, geb. Prinzessin von Thurn und Taxis, 1800-1870",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 202088,
+            "affiliate_fct": "Ackermann, Joseph; Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 202089,
+            "affiliate_fct": "Altmann, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 202090,
+            "affiliate_fct": "Bantlin, Sixt August",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 223564,
+            "affiliate_fct": "Bissingen, Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254065,
+            "affiliate_fct": "Kleiner, Rudolf; Hof- und Regierungsrat, Oberamtmann in Neckarsulm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254809,
+            "affiliate_fct": "Kaulla, Joseph Wolf von; Hofbankier",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254810,
+            "affiliate_fct": "Zwinger, Heinrich; jüdischer Kantor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 255605,
+            "affiliate_fct": "Seckendorf(f), von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271746,
+            "affiliate_fct": "Baumann, Hofmechanikus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271747,
+            "affiliate_fct": "Enslin, Carl Theodor; Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271748,
+            "affiliate_fct": "Frasch, Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271749,
+            "affiliate_fct": "Kinzelbach, Hofmechaniker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271750,
+            "affiliate_fct": "Lidl, Anton; Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271751,
+            "affiliate_fct": "Matthieu; Handlungsreisender",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271752,
+            "affiliate_fct": "Röhm, Heinrich; Knochenhändler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271753,
+            "affiliate_fct": "Schweickle; Sattler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271754,
+            "affiliate_fct": "Schworezky; Kanzleibote",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271832,
+            "affiliate_fct": "Bäuerle, Johannes; Weingärtner",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271833,
+            "affiliate_fct": "Gloker, Postmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271834,
+            "affiliate_fct": "Henne, Johann Georg; Ockerfabrikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 275460,
+            "affiliate_fct": "Jett, Carl August von; Freiherr, Generalmajor, 1779-1845",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278710,
+            "affiliate_fct": "Hohenlohe, Fürsten von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 286414,
+            "affiliate_fct": "Hauber, Anton; Barometerfabrikant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 286415,
+            "affiliate_fct": "Kuhn, Friedrich; Wegmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 286416,
+            "affiliate_fct": "Wünsch, Christoph; Eisenhändler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296353,
+            "affiliate_fct": "Eckhafer, Thomas; Konditor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 297025,
+            "affiliate_fct": "Speth-Untermarchtal, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 304126,
+            "affiliate_fct": "Stain, Franz Leopold von; Freiherr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308542,
+            "affiliate_fct": "Michel, Matthäus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308543,
+            "affiliate_fct": "Reinhart, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313268,
+            "affiliate_fct": "Adelung, von; Ehefrau des russischen Staatsrats",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313269,
+            "affiliate_fct": "George, Felix Carl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313270,
+            "affiliate_fct": "Groß, Wirt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313271,
+            "affiliate_fct": "Pfister, von; Kaufmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313829,
+            "affiliate_fct": "Quadt-Isny, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 320307,
+            "affiliate_fct": "Ulm-Erbach, Maximilian von; Freiherr",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 323113,
+            "affiliate_fct": "Löbe, William",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 329749,
+            "affiliate_fct": "Varnbüler von und zu Hemmingen, Familie",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 331122,
+            "affiliate_fct": "Rechberg und Rothenlöwen, Grafen von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 344865,
+            "affiliate_fct": "Schnitzer, Josef",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

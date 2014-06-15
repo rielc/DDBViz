@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 30,
+    "time_fct": "time_61907",
+    "affiliate_fct_id": 728,
+    "affiliate_fct": "Zensurkommission",
+    "affiliate_fct_occurrence": 190,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 728,
+            "affiliate_fct": "Zensurkommission",
+            "affiliate_fct_occurrence": 190
+        },
+        {
+            "affiliate_fct_id": 45522,
+            "affiliate_fct": "Cotta, Johann Georg; Buchhändler, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 54509,
+            "affiliate_fct": "Metzler, J. B.; Buchhändler, Buchdrucker und Verleger, 1696-1754",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 292551,
+            "affiliate_fct": "Gradmann, Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 94104,
+            "affiliate_fct": "Wächter, Freiherr von; Geheimer Legationsrat und Zensor",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 115930,
+            "affiliate_fct": "Reiss, E. G.; Buchdrucker",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 116422,
+            "affiliate_fct": "Bilfinger, Christian Ludwig von; württembergischer Diplomat und Ministerialbeamter, 1770-1850",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 165244,
+            "affiliate_fct": "Hoch, Rechtskonsulent und Druckereiinhaber",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 215604,
+            "affiliate_fct": "Stahl,-; Hofkanzlist",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 3766,
+            "affiliate_fct": "Franckh, Friedrich Gottlob; Verleger, 1802-1845",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 60045,
+            "affiliate_fct": "Fues, Ludwig Friedrich; Buchhändler, Verleger, 1787-1865",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 62887,
+            "affiliate_fct": "Feuerbach, Johann Peter von; Geheimer Legationsrat und Staatsrat, Bevollmächtigter beim Wiener Kongress, 1761-1825",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 68024,
+            "affiliate_fct": "Mäntler, Gebr.; Buchdrucker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 70639,
+            "affiliate_fct": "Kessler, Heinrich; Publizist, Abgeordneter, Politiker, 1783-1842",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 138960,
+            "affiliate_fct": "Mäcken, Johann Konrad; Buchhändler, Lithograph, 1791-1872",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 195809,
+            "affiliate_fct": "Osiander, Christian Friedrich; Buchhändler, Verleger, 1789-1839",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 228444,
+            "affiliate_fct": "Scheurlen, Carl Friedrich von; Jurist, Professor, 1798-1850 | 11566047X",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 229067,
+            "affiliate_fct": "Stahl, F. W. G.; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 253789,
+            "affiliate_fct": "Hasselbrink, Gottlieb; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 323650,
+            "affiliate_fct": "Ebner, Friedrich Wilhelm; Verleger, 1826-1895",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 352536,
+            "affiliate_fct": "Nast, C. F.; Buchhändler, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 352537,
+            "affiliate_fct": "Weitzmann, Karl Borromäus; Schriftsteller, 1767-1828",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 446676,
+            "affiliate_fct": "Hopfer de l'Orme; Carl; Buchdrucker",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 453182,
+            "affiliate_fct": "Kreyssing, Carl; Schriftsteller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 459510,
+            "affiliate_fct": "Elben, Karl; Verleger, 1790-1854",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 514200,
+            "affiliate_fct": "Eifert, Ernst Traugott; Buchhändler, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 527591,
+            "affiliate_fct": "Bossert, Dr.; Steuerkommissar",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 546303,
+            "affiliate_fct": "Sigwart, Heinrich Christoph Wilhelm; Philosoph, 1789- 1844",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2008,
+            "affiliate_fct": "Rapp, G. F.; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2600,
+            "affiliate_fct": "Harttmann, Gottfried Jonathan von; Staatsrat, 1775-1849",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11520,
+            "affiliate_fct": "Englert, E. B.; Buchdrucker, Lithograph und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14893,
+            "affiliate_fct": "Theobald, Joseph Apollinaris Honoratus von; Generalmajor, 1772-1837",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21135,
+            "affiliate_fct": "Laupp, Jakob Heinrich; Buchhändler, 1780-1836",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 22119,
+            "affiliate_fct": "Seyffer, Hofkupferstecher",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 36882,
+            "affiliate_fct": "Kölle, Amtsaktuar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 44106,
+            "affiliate_fct": "Schmidt, Joachim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49349,
+            "affiliate_fct": "Betz, Franz Joseph; Buchbinder, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64622,
+            "affiliate_fct": "Gmelin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90198,
+            "affiliate_fct": "Senner, Johann Georg; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 92076,
+            "affiliate_fct": "Kurtz, B. G.; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 146133,
+            "affiliate_fct": "Steinkopf, Johann Friedrich; Buchhändler und Buchdrucker, 1771-1852",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 146819,
+            "affiliate_fct": "Heinrich, Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 151262,
+            "affiliate_fct": "Herder, Andreas; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 151263,
+            "affiliate_fct": "Ritter, Johann Georg; Kanzleibuchdrucker und Buchhändler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 159595,
+            "affiliate_fct": "Schliz, Joseph Christian (von); Oberamtmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 165172,
+            "affiliate_fct": "Liesching, Samuel Gottlieb; Buchhändler, Verleger, Kunsthändler, 1786-1864",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174005,
+            "affiliate_fct": "Gratianus; Carl Christian, Pfarrer in Sondelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 179010,
+            "affiliate_fct": "Schoder, Adolf; Jurist, Politiker, Regierungsrat, 1817-1852",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194736,
+            "affiliate_fct": "Fischer; Professor an der Universität Würzburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212161,
+            "affiliate_fct": "Dorn, Gebr.; Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212162,
+            "affiliate_fct": "Heberle, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 213533,
+            "affiliate_fct": "Roth, Oberrevisor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 254686,
+            "affiliate_fct": "Breithaupt; Oberstlieutenant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256315,
+            "affiliate_fct": "Scheeler, Karl Friedrich von; Hauptmann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256316,
+            "affiliate_fct": "Scheer,-; Lehrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256317,
+            "affiliate_fct": "Schele, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256318,
+            "affiliate_fct": "Schloßmann K. J.; Pastor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256319,
+            "affiliate_fct": "Schmidt, Kanzlist",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257709,
+            "affiliate_fct": "Hauber, Karl; Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271464,
+            "affiliate_fct": "Klein, von; Obermedizinalrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273128,
+            "affiliate_fct": "Denzel; Oberpostsekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273129,
+            "affiliate_fct": "Dobelbauer,-; Sekretär",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273130,
+            "affiliate_fct": "Duttenhofer, Karl; Hauptmann, Geometer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 284428,
+            "affiliate_fct": "Phull-Rieppur, Ernst Freiherr von; württembergischer Staatsminister, 1768-1828",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 287268,
+            "affiliate_fct": "Reinhard, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 289499,
+            "affiliate_fct": "Erbe, Friedrich; Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 292855,
+            "affiliate_fct": "Thomm, W. F. J.; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 300222,
+            "affiliate_fct": "Grebner, von; Oberleutnant, Kreistierarzt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308872,
+            "affiliate_fct": "Offerdinger,-; Handlungsvorsteher in Stuttgart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 308873,
+            "affiliate_fct": "Offerdinger,-; Stadtarzt in Biberach",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 331924,
+            "affiliate_fct": "Wolters, Eberhard Friedrich; Buchhändler und Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 338442,
+            "affiliate_fct": "Richter, Christian; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 338443,
+            "affiliate_fct": "Schönhardt, Johann Jakob; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 341901,
+            "affiliate_fct": "Korsinsky; Theatersouffleur",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 350098,
+            "affiliate_fct": "Bofinger, Christoph Friedrich; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 358907,
+            "affiliate_fct": "Bames; Präzeptor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365310,
+            "affiliate_fct": "Reinfelder, Fr.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365311,
+            "affiliate_fct": "Riedel,-; Stadtpfarrer in Pfullingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365312,
+            "affiliate_fct": "Roesling,-; Professor in Ulm",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365313,
+            "affiliate_fct": "Rupp, Kanzleidiener",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 368349,
+            "affiliate_fct": "Georgii, Oberamtsrichter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 376778,
+            "affiliate_fct": "Seeger, Johann Martin; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 380136,
+            "affiliate_fct": "Eben; Aktuar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 380137,
+            "affiliate_fct": "Ebner, Carl; Lithograph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 380138,
+            "affiliate_fct": "Erb,-; Pfarrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 381688,
+            "affiliate_fct": "Geist, Kajetan; Theologe, Pfarrer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 388600,
+            "affiliate_fct": "Rauch, Joseph; Buchhändler, Buchdrucker und Verleger",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 393131,
+            "affiliate_fct": "Maurer, Buchhändler",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401385,
+            "affiliate_fct": "Maurer,-; Dekan und Stadtpfarrer in Wangen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401386,
+            "affiliate_fct": "Mayer; Oberamtspfleger in Wiblingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401387,
+            "affiliate_fct": "Mohl, Staatshauptkassenbuchhalter in Stuttgart",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401388,
+            "affiliate_fct": "Münch, Pfarrer in Unlingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 413177,
+            "affiliate_fct": "Rapp, Georg; Kandidat der Theologie in Tübingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 416812,
+            "affiliate_fct": "Zirkler; Oberjustizrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 419750,
+            "affiliate_fct": "Bismarck, Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 421897,
+            "affiliate_fct": "Kuen, Dionys; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 423727,
+            "affiliate_fct": "Helb, J. W.; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 430176,
+            "affiliate_fct": "Klein, Josef; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 432612,
+            "affiliate_fct": "Kalbfell, Jakob Friedrich; Buchdrucker",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 435328,
+            "affiliate_fct": "Ehrhard, Carl; Inhaber der Buchhandlung Macklot",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

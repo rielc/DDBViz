@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_fct_id": 757,
+    "affiliate_fct": "Gorman",
+    "affiliate_fct_occurrence": 195,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 757,
+            "affiliate_fct": "Gorman",
+            "affiliate_fct_occurrence": 195
+        },
+        {
+            "affiliate_fct_id": 758,
+            "affiliate_fct": "Typis Cratonianis",
+            "affiliate_fct_occurrence": 73
+        },
+        {
+            "affiliate_fct_id": 11033,
+            "affiliate_fct": "Meisner, Balthasar (1587-1626)",
+            "affiliate_fct_occurrence": 29
+        },
+        {
+            "affiliate_fct_id": 30078,
+            "affiliate_fct": "Balduin, Friedrich",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 15396,
+            "affiliate_fct": "Balduinus, Fridericus",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 2066,
+            "affiliate_fct": "David, Bartholomaeus",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 54763,
+            "affiliate_fct": "Gesner, Salomon (1559-1605)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2064,
+            "affiliate_fct": "Franz, Wolfgang",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 2065,
+            "affiliate_fct": "König, Immanuel",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 15238,
+            "affiliate_fct": "Schurer",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 24333,
+            "affiliate_fct": "Mylius, Georg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 35179,
+            "affiliate_fct": "Martini, Jacob",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1266,
+            "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13125,
+            "affiliate_fct": "Schultz, Balthasar (1569-1627)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 14673,
+            "affiliate_fct": "Beckmann, Lucas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 14676,
+            "affiliate_fct": "Rühel, Tiburt",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 22401,
+            "affiliate_fct": "Helwig",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 24409,
+            "affiliate_fct": "Balduin, Friedrich (1575-1627)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 38442,
+            "affiliate_fct": "Schurerus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 54762,
+            "affiliate_fct": "Nicolaus <Oresmius> (1320-1382)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 57843,
+            "affiliate_fct": "Mylius, Georg (1548-1607)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 96027,
+            "affiliate_fct": "Fabricius, Daniel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 105936,
+            "affiliate_fct": "Sebald, Heinrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 121789,
+            "affiliate_fct": "Kircher, Christoph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 121790,
+            "affiliate_fct": "Steinmüller, Johann Albert",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 135177,
+            "affiliate_fct": "Rotlöben, Johannes",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 149365,
+            "affiliate_fct": "Reusner, Bartholomäus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 151743,
+            "affiliate_fct": "Förster, Johann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 186178,
+            "affiliate_fct": "Herrenschmid, Andreas (1596-1628)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 238637,
+            "affiliate_fct": "Wigan, Lorenz",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 312216,
+            "affiliate_fct": "Clarus, Felicianus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 318096,
+            "affiliate_fct": "Hermann, Tobias",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 377906,
+            "affiliate_fct": "Crusius, Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 904551,
+            "affiliate_fct": "Hölzer, Johann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 884,
+            "affiliate_fct": "Luther, Martin (1483-1546)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2067,
+            "affiliate_fct": "Corvinus, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2068,
+            "affiliate_fct": "Marcus, Samuel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2069,
+            "affiliate_fct": "Bacmeisterus, Lucas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 2070,
+            "affiliate_fct": "Cramerus, Daniel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5306,
+            "affiliate_fct": "SLUB Dresden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10984,
+            "affiliate_fct": "Forster, Valentin Wilhelm (1574-1620)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10985,
+            "affiliate_fct": "Ummius, Ilico (1581-1643)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11034,
+            "affiliate_fct": "Ram, Petrus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11508,
+            "affiliate_fct": "Strauch, Aegidius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14994,
+            "affiliate_fct": "Röber, Paul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17406,
+            "affiliate_fct": "Olearius, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21568,
+            "affiliate_fct": "Franzius, Wolfgangus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24178,
+            "affiliate_fct": "Johann Georg <I., Sachsen, Kurfürst> (1585-1656)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25395,
+            "affiliate_fct": "Kesler, Andreas (1595-1643)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25477,
+            "affiliate_fct": "Bergerus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28104,
+            "affiliate_fct": "Hoffmann, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37473,
+            "affiliate_fct": "Schürer",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45624,
+            "affiliate_fct": "Helwigius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46117,
+            "affiliate_fct": "Haenichen, Daniel (1566-1619)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46118,
+            "affiliate_fct": "August <Sachsen, Herzog, 1589-1615> (1589-1615)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46119,
+            "affiliate_fct": "Christian <II., Sachsen, Kurfürst> (1583-1611)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46120,
+            "affiliate_fct": "Berbisdorff, Sigmund von (-1616)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61416,
+            "affiliate_fct": "Runge, David (1564-1604)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64603,
+            "affiliate_fct": "Strauchius, Aegidius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69386,
+            "affiliate_fct": "Meisner, Balthasar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 71205,
+            "affiliate_fct": "Richter, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76942,
+            "affiliate_fct": "Schülin, Johann Nicolaus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78106,
+            "affiliate_fct": "Blum, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 90632,
+            "affiliate_fct": "Velsten, Heinrich (1580-1611)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94059,
+            "affiliate_fct": "Schramm, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 94341,
+            "affiliate_fct": "Schmidt, Erasmus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 95526,
+            "affiliate_fct": "Förster, Johann (1576-1613)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105937,
+            "affiliate_fct": "Pistorius, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 105938,
+            "affiliate_fct": "Voldenscherius, Gerson",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 107835,
+            "affiliate_fct": "Cotta, Bonaventura",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 129548,
+            "affiliate_fct": "Martini, Jacobus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132523,
+            "affiliate_fct": "Schmidius, Erasmus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 137180,
+            "affiliate_fct": "Reichard, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 144643,
+            "affiliate_fct": "Raab",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 151736,
+            "affiliate_fct": "Praetorius, Kaspar (-1612)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 161641,
+            "affiliate_fct": "Lubath, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197382,
+            "affiliate_fct": "Hunnius, Nicolaus (1585-1643)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211320,
+            "affiliate_fct": "Seiler, Tobias",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 217613,
+            "affiliate_fct": "Michaelis, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218322,
+            "affiliate_fct": "Vilicius, Christianus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218323,
+            "affiliate_fct": "Lentz, David",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218324,
+            "affiliate_fct": "Blasius, Petrus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218325,
+            "affiliate_fct": "Radelanus, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218326,
+            "affiliate_fct": "Culmannus, Gallus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218327,
+            "affiliate_fct": "Jocardi, Burckardus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 218328,
+            "affiliate_fct": "Köppen, Johan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 224342,
+            "affiliate_fct": "Pouchen, Levinus (1594-1648)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 237057,
+            "affiliate_fct": "Anß, Johann Christoph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 278124,
+            "affiliate_fct": "Mylius, Georgius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 292711,
+            "affiliate_fct": "Wagner, Caspar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 300873,
+            "affiliate_fct": "Conring, Johann (1593-1647)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 305652,
+            "affiliate_fct": "Sperling, Paul (1595-1652)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 309943,
+            "affiliate_fct": "Mühlmann, Frantz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 323743,
+            "affiliate_fct": "Lang, Daniel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 328810,
+            "affiliate_fct": "Wegner, Ch.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 333857,
+            "affiliate_fct": "Seelfisch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 394627,
+            "affiliate_fct": "Zephyrius, Ernestus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 440090,
+            "affiliate_fct": "Schröter, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 441133,
+            "affiliate_fct": "Arnoldi, Philipp (1582-1642)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 7783,
+    "affiliate_facet": "Baumgärtner",
+    "occurrence": 323,
+    "affiliates": [
+        {
+            "facet_id": 7783,
+            "occurrence": 333,
+            "value": "Rentamt Beuron"
+        },
+        {
+            "facet_id": 65671,
+            "occurrence": 3,
+            "value": "Danöffel, Beuron"
+        },
+        {
+            "facet_id": 65672,
+            "occurrence": 3,
+            "value": "Seeburger, Simon, Beuron"
+        },
+        {
+            "facet_id": 132857,
+            "occurrence": 3,
+            "value": "Zudrelli, Franz Josef, Beuron"
+        },
+        {
+            "facet_id": 384793,
+            "occurrence": 3,
+            "value": "Sieber, Johann, Schwenningen"
+        },
+        {
+            "facet_id": 765410,
+            "occurrence": 3,
+            "value": "Schiele, Franz Josef, Buchheim"
+        },
+        {
+            "facet_id": 138290,
+            "occurrence": 2,
+            "value": "Müller, Thomas, Worndorf"
+        },
+        {
+            "facet_id": 359372,
+            "occurrence": 2,
+            "value": "Knobel, Sebastian, Hartheim"
+        },
+        {
+            "facet_id": 383863,
+            "occurrence": 2,
+            "value": "Beck, Johann, Ensisheim, Bärenthal"
+        },
+        {
+            "facet_id": 385219,
+            "occurrence": 2,
+            "value": "Stehle, Pfarrer, Bärenthal"
+        },
+        {
+            "facet_id": 386501,
+            "occurrence": 2,
+            "value": "Liehner, Xaver, Thalheim"
+        },
+        {
+            "facet_id": 479643,
+            "occurrence": 2,
+            "value": "Jäger, Georg, Buchheim"
+        },
+        {
+            "facet_id": 531007,
+            "occurrence": 2,
+            "value": "Koch, Romuald, Buchheim"
+        },
+        {
+            "facet_id": 585175,
+            "occurrence": 2,
+            "value": "Wezel, Karl, Buchheim"
+        },
+        {
+            "facet_id": 748112,
+            "occurrence": 2,
+            "value": "Knittel, Jakob, Buchheim"
+        },
+        {
+            "facet_id": 811199,
+            "occurrence": 2,
+            "value": "Wachter, Josef, Buchheim"
+        },
+        {
+            "facet_id": 959011,
+            "occurrence": 2,
+            "value": "Bertsche, Johann, Buchheim"
+        },
+        {
+            "facet_id": 959015,
+            "occurrence": 2,
+            "value": "Wachter, Mathe, Gründelbuch, Buchheim"
+        },
+        {
+            "facet_id": 7784,
+            "occurrence": 1,
+            "value": "Dreher, Alois, Egesheim"
+        },
+        {
+            "facet_id": 95611,
+            "occurrence": 1,
+            "value": "Biselli, Jakob, Ensisheim"
+        },
+        {
+            "facet_id": 117279,
+            "occurrence": 1,
+            "value": "Muri, Gregor, Bärenthal"
+        },
+        {
+            "facet_id": 128956,
+            "occurrence": 1,
+            "value": "Knittel, Jakob Senior, Buchheim"
+        },
+        {
+            "facet_id": 135488,
+            "occurrence": 1,
+            "value": "Ziegler, Rudolf, Beuron"
+        },
+        {
+            "facet_id": 186076,
+            "occurrence": 1,
+            "value": "Widmann, Friedrich, Achberg"
+        },
+        {
+            "facet_id": 209752,
+            "occurrence": 1,
+            "value": "Knittel, Jakob, Jr., Buchheim"
+        },
+        {
+            "facet_id": 248898,
+            "occurrence": 1,
+            "value": "Herzog, Anton, Thalheim"
+        },
+        {
+            "facet_id": 251199,
+            "occurrence": 1,
+            "value": "Braun, Konrad, Thalheim"
+        },
+        {
+            "facet_id": 335180,
+            "occurrence": 1,
+            "value": "Gitschier, Lehenhof, Leibertingen"
+        },
+        {
+            "facet_id": 348090,
+            "occurrence": 1,
+            "value": "Maier, Thomas, Buchheim"
+        },
+        {
+            "facet_id": 370464,
+            "occurrence": 1,
+            "value": "Beck, Ignaz, Oberhausen (St. Maurus im Feld), Beuron"
+        },
+        {
+            "facet_id": 383864,
+            "occurrence": 1,
+            "value": "Frank, Josef, Ensisheim, Bärenthal"
+        },
+        {
+            "facet_id": 383865,
+            "occurrence": 1,
+            "value": "Ziegler, Junker zu Engelberg, Schaffhausen, Schweiz"
+        },
+        {
+            "facet_id": 386500,
+            "occurrence": 1,
+            "value": "Hafner, Georg, Thalheim"
+        },
+        {
+            "facet_id": 399056,
+            "occurrence": 1,
+            "value": "Hermann, Fidel, Buchheim"
+        },
+        {
+            "facet_id": 436821,
+            "occurrence": 1,
+            "value": "Bücheler, Xaver, Thalheim"
+        },
+        {
+            "facet_id": 440893,
+            "occurrence": 1,
+            "value": "Schreiber, Johann, Tuttlingen"
+        },
+        {
+            "facet_id": 459806,
+            "occurrence": 1,
+            "value": "Werner, Katharina, Thalheim"
+        },
+        {
+            "facet_id": 465561,
+            "occurrence": 1,
+            "value": "Hemmerle, Philipp, Buchheim"
+        },
+        {
+            "facet_id": 465562,
+            "occurrence": 1,
+            "value": "Hermann, Johann, Buchheim"
+        },
+        {
+            "facet_id": 467292,
+            "occurrence": 1,
+            "value": "Stahl, Stadtschultheiß, Friedingen"
+        },
+        {
+            "facet_id": 479642,
+            "occurrence": 1,
+            "value": "Braun, Jakob, Witwe, Buchheim"
+        },
+        {
+            "facet_id": 480964,
+            "occurrence": 1,
+            "value": "Boos, Jakob, Thalheim"
+        },
+        {
+            "facet_id": 498865,
+            "occurrence": 1,
+            "value": "Spöri, Georg, Bärenthal"
+        },
+        {
+            "facet_id": 517385,
+            "occurrence": 1,
+            "value": "Münch, Franz Josef, Bärenthal"
+        },
+        {
+            "facet_id": 543807,
+            "occurrence": 1,
+            "value": "Grieble, Xaver, Beuron"
+        },
+        {
+            "facet_id": 544264,
+            "occurrence": 1,
+            "value": "Jäger, Konrad"
+        },
+        {
+            "facet_id": 641812,
+            "occurrence": 1,
+            "value": "Mägerle, Benedikt, Thalheim"
+        },
+        {
+            "facet_id": 642932,
+            "occurrence": 1,
+            "value": "Stett, Pfarrer, Buchheim"
+        },
+        {
+            "facet_id": 646529,
+            "occurrence": 1,
+            "value": "Knittel, Jakob, Senior, Buchheim"
+        },
+        {
+            "facet_id": 656853,
+            "occurrence": 1,
+            "value": "Sartori, Jakob, Exkapitular, Beuron"
+        },
+        {
+            "facet_id": 660761,
+            "occurrence": 1,
+            "value": "Müller, Maurer, Thalheim"
+        },
+        {
+            "facet_id": 673816,
+            "occurrence": 1,
+            "value": "Schießle, Regierungssekretär, Beuron"
+        },
+        {
+            "facet_id": 688909,
+            "occurrence": 1,
+            "value": "Jerg, Schaffner, Ebingen"
+        },
+        {
+            "facet_id": 688910,
+            "occurrence": 1,
+            "value": "Jerg; Schaffner; Ebingen, Albstadt BL"
+        },
+        {
+            "facet_id": 696444,
+            "occurrence": 1,
+            "value": "Häußler, Johann, Thalheim"
+        },
+        {
+            "facet_id": 723678,
+            "occurrence": 1,
+            "value": "Horne, Martin, Irndorf"
+        },
+        {
+            "facet_id": 740877,
+            "occurrence": 1,
+            "value": "Sigrist, Johann, Bärenthal"
+        },
+        {
+            "facet_id": 759622,
+            "occurrence": 1,
+            "value": "Maute, Johann, Beuron"
+        },
+        {
+            "facet_id": 765409,
+            "occurrence": 1,
+            "value": "Jäger, Konrad, Buchheim"
+        },
+        {
+            "facet_id": 766255,
+            "occurrence": 1,
+            "value": "Muri, Georg, Bärenthal"
+        },
+        {
+            "facet_id": 771439,
+            "occurrence": 1,
+            "value": "Bailer, Benedikt, Ensisheim TUT"
+        },
+        {
+            "facet_id": 785568,
+            "occurrence": 1,
+            "value": "Knittel, Josef, Anton, Karpfenwirt, Nusplingen"
+        },
+        {
+            "facet_id": 807255,
+            "occurrence": 1,
+            "value": "Huber, Friedrich, Aufseher, Beuron"
+        },
+        {
+            "facet_id": 811198,
+            "occurrence": 1,
+            "value": "Knittel, Gottlieb, Buchheim"
+        },
+        {
+            "facet_id": 816285,
+            "occurrence": 1,
+            "value": "Liehner, Lorenz, Thalheim"
+        },
+        {
+            "facet_id": 818022,
+            "occurrence": 1,
+            "value": "Hayer, Fidel, Buchheim"
+        },
+        {
+            "facet_id": 834505,
+            "occurrence": 1,
+            "value": "Schnell, Johann Nepomuk, Wald"
+        },
+        {
+            "facet_id": 846970,
+            "occurrence": 1,
+            "value": "Alber, Alois, Irndorf"
+        },
+        {
+            "facet_id": 846971,
+            "occurrence": 1,
+            "value": "Alber, Christian, Irndorf"
+        },
+        {
+            "facet_id": 846972,
+            "occurrence": 1,
+            "value": "Alber, Rudolf, Irndorf"
+        },
+        {
+            "facet_id": 846973,
+            "occurrence": 1,
+            "value": "Hermann, Konrad, Irndorf"
+        },
+        {
+            "facet_id": 846974,
+            "occurrence": 1,
+            "value": "Karl, Niklaus, Irndorf"
+        },
+        {
+            "facet_id": 846975,
+            "occurrence": 1,
+            "value": "Schnell, Peter, Irndorf"
+        },
+        {
+            "facet_id": 860558,
+            "occurrence": 1,
+            "value": "Harter, Renovator, Stockach"
+        },
+        {
+            "facet_id": 874284,
+            "occurrence": 1,
+            "value": "Ulen, von, Baron, Wald"
+        },
+        {
+            "facet_id": 877972,
+            "occurrence": 1,
+            "value": "Feiele, Sigmaringen"
+        },
+        {
+            "facet_id": 877973,
+            "occurrence": 1,
+            "value": "Kleiser, von, Sigmaringen"
+        },
+        {
+            "facet_id": 877974,
+            "occurrence": 1,
+            "value": "Knittel, Anton, Leibertingen"
+        },
+        {
+            "facet_id": 877975,
+            "occurrence": 1,
+            "value": "Sättelin, von, Sigmaringen"
+        },
+        {
+            "facet_id": 896865,
+            "occurrence": 1,
+            "value": "Maier, Wendelin, Hartheim"
+        },
+        {
+            "facet_id": 918808,
+            "occurrence": 1,
+            "value": "Alber, Josef, Buchheim"
+        },
+        {
+            "facet_id": 918809,
+            "occurrence": 1,
+            "value": "Wachter, Michael, Buchheim"
+        },
+        {
+            "facet_id": 923689,
+            "occurrence": 1,
+            "value": "Sieger, Matheus, Egesheim"
+        },
+        {
+            "facet_id": 923690,
+            "occurrence": 1,
+            "value": "Sieger, Paul, Egesheim"
+        },
+        {
+            "facet_id": 927537,
+            "occurrence": 1,
+            "value": "Öschle, Bernhard, Straßenwart, Bärenthal"
+        },
+        {
+            "facet_id": 933837,
+            "occurrence": 1,
+            "value": "Widemann, Obervogt, Rentmeister, Beuron"
+        },
+        {
+            "facet_id": 942295,
+            "occurrence": 1,
+            "value": "Anton, Alois, Fürst, Sigmaringen"
+        },
+        {
+            "facet_id": 959012,
+            "occurrence": 1,
+            "value": "Jäger, Franz, Buchheim"
+        },
+        {
+            "facet_id": 959013,
+            "occurrence": 1,
+            "value": "Schreiber, Xaver, Buchheim"
+        },
+        {
+            "facet_id": 959014,
+            "occurrence": 1,
+            "value": "Siebbard, Johann, Schwenningen"
+        },
+        {
+            "facet_id": 995647,
+            "occurrence": 1,
+            "value": "Knecht, Pfarrer, Leibertingen"
+        },
+        {
+            "facet_id": 1058838,
+            "occurrence": 1,
+            "value": "Steidle, Wolfgang, Unterdigisheim"
+        },
+        {
+            "facet_id": 1063350,
+            "occurrence": 1,
+            "value": "Jäger, Johann; Buchheim"
+        },
+        {
+            "facet_id": 1070419,
+            "occurrence": 1,
+            "value": "Teufel, Johann, Heinstetten"
+        },
+        {
+            "facet_id": 1077133,
+            "occurrence": 1,
+            "value": "Kramer, Anastasia, Beuron"
+        },
+        {
+            "facet_id": 1091204,
+            "occurrence": 1,
+            "value": "Hama, Fassmaler, Friedingen"
+        },
+        {
+            "facet_id": 1094645,
+            "occurrence": 1,
+            "value": "Gitschier, Maria-Anna, Leibertingen"
+        },
+        {
+            "facet_id": 1095816,
+            "occurrence": 1,
+            "value": "Knittel, Josef, Buchheim"
+        },
+        {
+            "facet_id": 1096125,
+            "occurrence": 1,
+            "value": "Frick, Franz, Thalheim"
+        },
+        {
+            "facet_id": 1164701,
+            "occurrence": 1,
+            "value": "Steidle, Forstbannwart, Hart"
+        }
+    ]
+}

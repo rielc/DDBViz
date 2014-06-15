@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 26,
+    "time_fct": "time_61847",
+    "affiliate_fct_id": 5895,
+    "affiliate_fct": "Herrschaft Trochtelfingen",
+    "affiliate_fct_occurrence": 343,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 5895,
+            "affiliate_fct": "Herrschaft Trochtelfingen",
+            "affiliate_fct_occurrence": 343
+        },
+        {
+            "affiliate_fct_id": 347932,
+            "affiliate_fct": "Württemberg, Herzöge von; Karl",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 57057,
+            "affiliate_fct": "Fattlin, Melchior, Stipendiatsstifter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 583540,
+            "affiliate_fct": "Bender, von",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 124572,
+            "affiliate_fct": "Franz I.; Kaiser, 1708-1765",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 312014,
+            "affiliate_fct": "Leederer, Narciss, Krumbach",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1029528,
+            "affiliate_fct": "Rodt, Franz Konrad von, Fürstbischof des Hochstifts Konstanz (1750-1775)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6820,
+            "affiliate_fct": "Speth, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41438,
+            "affiliate_fct": "Fürstenberg, Fürsten von, Karl Joachim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45138,
+            "affiliate_fct": "Maria Theresia; [Kaiserin] Erzherzogin, 1717-1780",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 49697,
+            "affiliate_fct": "Reitz, Joseph, Wachtmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56315,
+            "affiliate_fct": "Uhl",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59549,
+            "affiliate_fct": "Eisele, Lorenz, Hafnergeselle, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59550,
+            "affiliate_fct": "Eysele, Mathäus, Schreinergeselle, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59551,
+            "affiliate_fct": "Reyn, Johann Georg, Schlossergeselle",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59552,
+            "affiliate_fct": "Schosser, Pius, Schreinergeselle, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69085,
+            "affiliate_fct": "Henkel, Edmund, Ringingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69086,
+            "affiliate_fct": "Nadler, Nikolaus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 77878,
+            "affiliate_fct": "Württemberg, Herzöge von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89660,
+            "affiliate_fct": "Lenz, Carl von, Leutnant",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 113781,
+            "affiliate_fct": "Mack, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 114234,
+            "affiliate_fct": "Clemens XIII., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 119802,
+            "affiliate_fct": "Barth, Joseph, Schneider, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 119803,
+            "affiliate_fct": "Freudenmann, Caspar, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 119804,
+            "affiliate_fct": "Heinzelmann, Katharina, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127010,
+            "affiliate_fct": "Hack, Johannes, Taglöhner, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127011,
+            "affiliate_fct": "Wahlberg, Brix von, Medicus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132053,
+            "affiliate_fct": "Bausch, Michael, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 132054,
+            "affiliate_fct": "Bausch, Ursula, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 180250,
+            "affiliate_fct": "Beck, Kaspar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 181164,
+            "affiliate_fct": "Tröster, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194910,
+            "affiliate_fct": "Bayer, Matheis, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194911,
+            "affiliate_fct": "Locher, Sebastian, Großengstingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 219273,
+            "affiliate_fct": "Eisele, Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256080,
+            "affiliate_fct": "Clemens XIV., Papst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265412,
+            "affiliate_fct": "Ehrhart, Forstkommissar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 277255,
+            "affiliate_fct": "Schwenk, Kaspar, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 280694,
+            "affiliate_fct": "Biehler, Franz Xaver, Hofbildhauer, Donaueschingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 285019,
+            "affiliate_fct": "Schmid, Anna Maria, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 295203,
+            "affiliate_fct": "Mayer, Alexi, Kronenwirt, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 295204,
+            "affiliate_fct": "Würth, Amtsschreiber, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 312647,
+            "affiliate_fct": "Hirlinger, Peter, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 315374,
+            "affiliate_fct": "Eißelin, Engelbert, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318178,
+            "affiliate_fct": "Bevel, Baltas, Kontigentsreiter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318179,
+            "affiliate_fct": "Götz, Joachim, Kontigentsreiter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 318180,
+            "affiliate_fct": "Obergfell, Mattheus, Kontigentsreiter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 319722,
+            "affiliate_fct": "Weiß, Xaver, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 346057,
+            "affiliate_fct": "Buckenmayer, Bernhard, Hechingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 346058,
+            "affiliate_fct": "Stölzle, Benedikt, Ringingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 347956,
+            "affiliate_fct": "Bailer, Anton, Zeugmacher, Ringingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 347957,
+            "affiliate_fct": "Klotz, Johann, Wilflingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 408018,
+            "affiliate_fct": "Neuenstein, von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 434299,
+            "affiliate_fct": "Württemberg, Herzöge von; Karl Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 450334,
+            "affiliate_fct": "Volande, Johann Jacob, Chirurg, Neustadt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 450698,
+            "affiliate_fct": "Fürstenberg, Fürsten von; Josef Wilhelm Ernst",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 452584,
+            "affiliate_fct": "Wetzel, Leopold, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 461063,
+            "affiliate_fct": "Lenz, Felix Karl von, Oberleutnant, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 469297,
+            "affiliate_fct": "Nicoletti, Rittmeister",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 491713,
+            "affiliate_fct": "Heinzelmann, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 492068,
+            "affiliate_fct": "Weigle, Mathias, Maurergeselle, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 505518,
+            "affiliate_fct": "Bart, Johann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 505519,
+            "affiliate_fct": "Fleisch, Amtsdiener, Polizeidiener, Achberg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 505520,
+            "affiliate_fct": "Fleisch, Martin, Maurermeister, Meßkirch",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537383,
+            "affiliate_fct": "Gerber, August, Hirschwirt, Rottenburg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 537384,
+            "affiliate_fct": "Unmuth, Matthäus, Ringingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 584169,
+            "affiliate_fct": "Glattes, Fidel, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 584170,
+            "affiliate_fct": "Kohler, Matthä, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 585518,
+            "affiliate_fct": "Dietrich, Sulpitz, Bäckergeselle, Ringingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 589595,
+            "affiliate_fct": "Jung, Johann Nepomuk, Mengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 598260,
+            "affiliate_fct": "Maichle, Aurel, Salmendingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 600220,
+            "affiliate_fct": "Klingenstein",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630463,
+            "affiliate_fct": "Gutbrod, Johann Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 630464,
+            "affiliate_fct": "Henni, Franz, Papiermacher, Gönningen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 651882,
+            "affiliate_fct": "Ertisch, Andreas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 684014,
+            "affiliate_fct": "Heinzelmann, Johann Baptist, Steinhilben",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 689964,
+            "affiliate_fct": "Claus, Andreas, Pfarrer, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 695276,
+            "affiliate_fct": "Griener, Anna Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 695277,
+            "affiliate_fct": "Griener, Ignatz, Hirschwirt, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 721826,
+            "affiliate_fct": "Bausch, Max, Schneidergeselle, Salmendingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 721827,
+            "affiliate_fct": "Wetzel, Stephan, Schneidermeister, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 734375,
+            "affiliate_fct": "Fischer, Johann Georg, Operateur, Inneringen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 734568,
+            "affiliate_fct": "Faigle, Willibald, Wagner, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 734569,
+            "affiliate_fct": "Gulde, Cathrina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 734570,
+            "affiliate_fct": "Schmidt, Agatha",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 750733,
+            "affiliate_fct": "Hagenloch, Martin, Hanau",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 751433,
+            "affiliate_fct": "Jehle",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 753066,
+            "affiliate_fct": "Faigle, Alexius, Wagnergeselle, Melchingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 753067,
+            "affiliate_fct": "Fischer, Johannes, Maurergeselle, Oberstetten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 754369,
+            "affiliate_fct": "Bommer, Baptist, Maler, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 754370,
+            "affiliate_fct": "Bommer, Ludwig, Malergeselle, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 761404,
+            "affiliate_fct": "Keuffel von Uhlberg, Franz Joseph, Geheimrat",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 761405,
+            "affiliate_fct": "Keuffel von Uhlberg, Franz Joseph, Mutter des",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763595,
+            "affiliate_fct": "Dietmann, Michael, Trochtelfingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763596,
+            "affiliate_fct": "Eckhart, Wolfgang, Mengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763597,
+            "affiliate_fct": "Kessler, Hugo, Mengen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763598,
+            "affiliate_fct": "Partlin, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 763599,
+            "affiliate_fct": "Sickh, Johann, Horb",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 788434,
+            "affiliate_fct": "Neser, Carolus, Salmendingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 788435,
+            "affiliate_fct": "Neser, Franz, Salmendingen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 788436,
+            "affiliate_fct": "Neser, Makarius, Salmendingen",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

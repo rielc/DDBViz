@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 32,
+    "time_fct": "time_61807",
+    "affiliate_facet_id": 1527,
+    "affiliate_facet": "Fanti, Gaetano",
+    "occurrence": 383,
+    "affiliates": [
+        {
+            "facet_id": 1527,
+            "occurrence": 397,
+            "value": "Reichsabtei Obermarchtal"
+        },
+        {
+            "facet_id": 29084,
+            "occurrence": 6,
+            "value": "Glänzing; Nicolaus"
+        },
+        {
+            "facet_id": 50494,
+            "occurrence": 5,
+            "value": "Österreich, Erzherzöge von; Ferdinand"
+        },
+        {
+            "facet_id": 542402,
+            "occurrence": 5,
+            "value": "Gemmingen, Herren von"
+        },
+        {
+            "facet_id": 15495,
+            "occurrence": 4,
+            "value": "Fürstenberg, Grafen und Fürsten von"
+        },
+        {
+            "facet_id": 171200,
+            "occurrence": 3,
+            "value": "Cacheè; Maria Theresia von, geb. von Pflummern"
+        },
+        {
+            "facet_id": 171201,
+            "occurrence": 3,
+            "value": "Pflummern, Herren von; Maria Theresia s. Cachée"
+        },
+        {
+            "facet_id": 185695,
+            "occurrence": 3,
+            "value": "Rieger; Barbara s. Wanner"
+        },
+        {
+            "facet_id": 383948,
+            "occurrence": 3,
+            "value": "Schelkle; Andreas"
+        },
+        {
+            "facet_id": 392295,
+            "occurrence": 3,
+            "value": "Sultzer; Johann"
+        },
+        {
+            "facet_id": 549942,
+            "occurrence": 3,
+            "value": "Münst; Jacob"
+        },
+        {
+            "facet_id": 572444,
+            "occurrence": 3,
+            "value": "Bader; Hans"
+        },
+        {
+            "facet_id": 66577,
+            "occurrence": 2,
+            "value": "Holder; Susanna"
+        },
+        {
+            "facet_id": 67152,
+            "occurrence": 2,
+            "value": "Munding; Martin"
+        },
+        {
+            "facet_id": 120334,
+            "occurrence": 2,
+            "value": "Kneisle; Conrad"
+        },
+        {
+            "facet_id": 120337,
+            "occurrence": 2,
+            "value": "Sonntag; Christian"
+        },
+        {
+            "facet_id": 123607,
+            "occurrence": 2,
+            "value": "Obermarchtal UL, Äbte von; Ulrich Blank"
+        },
+        {
+            "facet_id": 131235,
+            "occurrence": 2,
+            "value": "Rueß; Franz"
+        },
+        {
+            "facet_id": 131237,
+            "occurrence": 2,
+            "value": "Stör; Maria s. Leibrandt"
+        },
+        {
+            "facet_id": 131238,
+            "occurrence": 2,
+            "value": "Stromb; Augustin"
+        },
+        {
+            "facet_id": 136637,
+            "occurrence": 2,
+            "value": "Vicari, Herren von"
+        },
+        {
+            "facet_id": 156897,
+            "occurrence": 2,
+            "value": "Deber; Ernst Friedrich"
+        },
+        {
+            "facet_id": 351580,
+            "occurrence": 2,
+            "value": "Obermarchtal UL, Äbte von; Adalbert Rieger"
+        },
+        {
+            "facet_id": 366315,
+            "occurrence": 2,
+            "value": "Popp; Maria Anna"
+        },
+        {
+            "facet_id": 383946,
+            "occurrence": 2,
+            "value": "Martini; Gabriel"
+        },
+        {
+            "facet_id": 453096,
+            "occurrence": 2,
+            "value": "Aßfalg; Sebastian"
+        },
+        {
+            "facet_id": 467260,
+            "occurrence": 2,
+            "value": "Muggenthal, Grafen von; Anna Eleonora"
+        },
+        {
+            "facet_id": 475783,
+            "occurrence": 2,
+            "value": "Steinmann; Franz Joseph"
+        },
+        {
+            "facet_id": 475784,
+            "occurrence": 2,
+            "value": "Übelacker; Johann Georg"
+        },
+        {
+            "facet_id": 482417,
+            "occurrence": 2,
+            "value": "Schraudolf; Anna Maria"
+        },
+        {
+            "facet_id": 502813,
+            "occurrence": 2,
+            "value": "Deber; Susanna Barbara"
+        },
+        {
+            "facet_id": 533564,
+            "occurrence": 2,
+            "value": "Deber; Franciscus Joseph"
+        },
+        {
+            "facet_id": 545490,
+            "occurrence": 2,
+            "value": "Burgmayer; Anton"
+        },
+        {
+            "facet_id": 545491,
+            "occurrence": 2,
+            "value": "Eisenreich; Franz Anton"
+        },
+        {
+            "facet_id": 602309,
+            "occurrence": 2,
+            "value": "Storz; Conrad"
+        },
+        {
+            "facet_id": 630412,
+            "occurrence": 2,
+            "value": "Speth, von; Ulrich, von Zwiefalten"
+        },
+        {
+            "facet_id": 666906,
+            "occurrence": 2,
+            "value": "Burgmayer; Niclaus"
+        },
+        {
+            "facet_id": 777672,
+            "occurrence": 2,
+            "value": "Steinbock, Herren von"
+        },
+        {
+            "facet_id": 889790,
+            "occurrence": 2,
+            "value": "Kunz; Hans Ulrich"
+        },
+        {
+            "facet_id": 894885,
+            "occurrence": 2,
+            "value": "Fugger, Grafen von; Maximilian Constantin"
+        },
+        {
+            "facet_id": 894886,
+            "occurrence": 2,
+            "value": "Fugger, Grafen von; Sigmund Joseph"
+        },
+        {
+            "facet_id": 1071977,
+            "occurrence": 2,
+            "value": "Lame; Jacob de"
+        },
+        {
+            "facet_id": 2304,
+            "occurrence": 1,
+            "value": "Waldburg, Reichserbtruchsessen von"
+        },
+        {
+            "facet_id": 2896,
+            "occurrence": 1,
+            "value": "Mayer"
+        },
+        {
+            "facet_id": 3695,
+            "occurrence": 1,
+            "value": "Fischer, Martin"
+        },
+        {
+            "facet_id": 6820,
+            "occurrence": 1,
+            "value": "Speth, von"
+        },
+        {
+            "facet_id": 7748,
+            "occurrence": 1,
+            "value": "Lutz"
+        },
+        {
+            "facet_id": 17656,
+            "occurrence": 1,
+            "value": "Keller"
+        },
+        {
+            "facet_id": 24081,
+            "occurrence": 1,
+            "value": "Fischer, Maria"
+        },
+        {
+            "facet_id": 29085,
+            "occurrence": 1,
+            "value": "Herb; Hans Martin"
+        },
+        {
+            "facet_id": 29086,
+            "occurrence": 1,
+            "value": "Huber; Oberamtmann zu Zwiefalten"
+        },
+        {
+            "facet_id": 37706,
+            "occurrence": 1,
+            "value": "Schmidt, Martin"
+        },
+        {
+            "facet_id": 38655,
+            "occurrence": 1,
+            "value": "Reutlinger; Caspar"
+        },
+        {
+            "facet_id": 47832,
+            "occurrence": 1,
+            "value": "Huber, Georg"
+        },
+        {
+            "facet_id": 53913,
+            "occurrence": 1,
+            "value": "Westernach, von; Johann Carl"
+        },
+        {
+            "facet_id": 53914,
+            "occurrence": 1,
+            "value": "Westernach, von; Johann Eustach Egolf"
+        },
+        {
+            "facet_id": 66578,
+            "occurrence": 1,
+            "value": "Huber; Johann Melchior"
+        },
+        {
+            "facet_id": 67151,
+            "occurrence": 1,
+            "value": "Braunegger; Franz Carl Ignatius"
+        },
+        {
+            "facet_id": 68937,
+            "occurrence": 1,
+            "value": "Mayer, Franz"
+        },
+        {
+            "facet_id": 80696,
+            "occurrence": 1,
+            "value": "Mayer, Joseph"
+        },
+        {
+            "facet_id": 80920,
+            "occurrence": 1,
+            "value": "Mayer, Johann Georg"
+        },
+        {
+            "facet_id": 111300,
+            "occurrence": 1,
+            "value": "Kohler, Anton"
+        },
+        {
+            "facet_id": 120332,
+            "occurrence": 1,
+            "value": "Frey; Franz Joseph"
+        },
+        {
+            "facet_id": 120333,
+            "occurrence": 1,
+            "value": "Geiger, Anna Theresia"
+        },
+        {
+            "facet_id": 120335,
+            "occurrence": 1,
+            "value": "Sauter; Jacob"
+        },
+        {
+            "facet_id": 120336,
+            "occurrence": 1,
+            "value": "Seitz; Urban"
+        },
+        {
+            "facet_id": 120338,
+            "occurrence": 1,
+            "value": "Steinmann; Benjamin"
+        },
+        {
+            "facet_id": 120339,
+            "occurrence": 1,
+            "value": "Widmann; Jacob"
+        },
+        {
+            "facet_id": 120340,
+            "occurrence": 1,
+            "value": "Wiser; Maria"
+        },
+        {
+            "facet_id": 129942,
+            "occurrence": 1,
+            "value": "Fischer, Anna"
+        },
+        {
+            "facet_id": 131230,
+            "occurrence": 1,
+            "value": "Braun; Cornelius"
+        },
+        {
+            "facet_id": 131231,
+            "occurrence": 1,
+            "value": "Holl; Georg"
+        },
+        {
+            "facet_id": 131232,
+            "occurrence": 1,
+            "value": "Huber, Rudolph"
+        },
+        {
+            "facet_id": 131233,
+            "occurrence": 1,
+            "value": "Kopp; Jacob"
+        },
+        {
+            "facet_id": 131234,
+            "occurrence": 1,
+            "value": "Munding; Franz"
+        },
+        {
+            "facet_id": 131236,
+            "occurrence": 1,
+            "value": "Stör Jung; Jacob"
+        },
+        {
+            "facet_id": 131239,
+            "occurrence": 1,
+            "value": "Traub; Michael"
+        },
+        {
+            "facet_id": 131240,
+            "occurrence": 1,
+            "value": "Weggenmann; Jacob"
+        },
+        {
+            "facet_id": 131241,
+            "occurrence": 1,
+            "value": "Werz"
+        },
+        {
+            "facet_id": 136019,
+            "occurrence": 1,
+            "value": "Württemberg, Herzöge von; Eberhard Ludwig [1677-1733]"
+        },
+        {
+            "facet_id": 139696,
+            "occurrence": 1,
+            "value": "Steiner; Joseph"
+        },
+        {
+            "facet_id": 141155,
+            "occurrence": 1,
+            "value": "Fischer, Jörg"
+        },
+        {
+            "facet_id": 166842,
+            "occurrence": 1,
+            "value": "Hafner; Dominicus"
+        },
+        {
+            "facet_id": 174783,
+            "occurrence": 1,
+            "value": "Österreich, Erzherzöge von"
+        },
+        {
+            "facet_id": 176776,
+            "occurrence": 1,
+            "value": "Ulm, von; Johann Ludwig Konstantin, auf Erbach und zu Rotenburg"
+        },
+        {
+            "facet_id": 184049,
+            "occurrence": 1,
+            "value": "Obermarchtal UL, Äbte; Nikolaus Wierith"
+        },
+        {
+            "facet_id": 185696,
+            "occurrence": 1,
+            "value": "Wanner; Barbara, geb. Rieger"
+        },
+        {
+            "facet_id": 192720,
+            "occurrence": 1,
+            "value": "Harrach, Grafen von"
+        },
+        {
+            "facet_id": 192721,
+            "occurrence": 1,
+            "value": "Württemberg, Herzöge von; Karl Alexander [1733-1737]"
+        },
+        {
+            "facet_id": 197096,
+            "occurrence": 1,
+            "value": "Rölß; Johann Casimir"
+        },
+        {
+            "facet_id": 209546,
+            "occurrence": 1,
+            "value": "Schenzle; Joseph"
+        },
+        {
+            "facet_id": 230611,
+            "occurrence": 1,
+            "value": "Dorilliac von Münch; Jeanne"
+        },
+        {
+            "facet_id": 243743,
+            "occurrence": 1,
+            "value": "Werner, Martin"
+        },
+        {
+            "facet_id": 246201,
+            "occurrence": 1,
+            "value": "Huber, Melchior"
+        },
+        {
+            "facet_id": 259343,
+            "occurrence": 1,
+            "value": "Moll; Andreas"
+        },
+        {
+            "facet_id": 259344,
+            "occurrence": 1,
+            "value": "Moll; Johannes"
+        },
+        {
+            "facet_id": 259345,
+            "occurrence": 1,
+            "value": "Pappelaur; Michael"
+        },
+        {
+            "facet_id": 274253,
+            "occurrence": 1,
+            "value": "Heberlin"
+        },
+        {
+            "facet_id": 281369,
+            "occurrence": 1,
+            "value": "Landherr; Anna Maria Magdalena"
+        },
+        {
+            "facet_id": 281370,
+            "occurrence": 1,
+            "value": "Rueff; Johann Michael"
+        }
+    ]
+}

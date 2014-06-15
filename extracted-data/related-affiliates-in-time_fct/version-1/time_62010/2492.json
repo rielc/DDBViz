@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 5,
+    "time_fct": "time_62010",
+    "affiliate_facet_id": 2492,
+    "affiliate_facet": "Frisörmuseum",
+    "occurrence": 421,
+    "affiliates": [
+        {
+            "facet_id": 2492,
+            "occurrence": 472,
+            "value": "Reichsbahndirektion Karlsruhe"
+        },
+        {
+            "facet_id": 816070,
+            "occurrence": 1,
+            "value": "Buss, Albert; Brückenbauanstalt Wyhlen"
+        },
+        {
+            "facet_id": 816071,
+            "occurrence": 1,
+            "value": "Eisenbau Wyhlen AG; Gleisanschluss"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 162,
+    "affiliate_facet": "Haenlin",
+    "occurrence": 621,
+    "affiliates": [
+        {
+            "facet_id": 162,
+            "occurrence": 1384,
+            "value": "Limpurg-Gaildorfer Erbschenkenarchiv"
+        },
+        {
+            "facet_id": 9741,
+            "occurrence": 58,
+            "value": "Limpurg-Gaildorf; Johann Wilhelm"
+        },
+        {
+            "facet_id": 54354,
+            "occurrence": 52,
+            "value": "Limpurg-Gaildorf; Joachim Gottfried"
+        },
+        {
+            "facet_id": 68778,
+            "occurrence": 49,
+            "value": "Limpurg-Gaildorf; Albrecht VII."
+        },
+        {
+            "facet_id": 42165,
+            "occurrence": 42,
+            "value": "Limpurg-Gaildorf; Christian Ludwig"
+        },
+        {
+            "facet_id": 174186,
+            "occurrence": 26,
+            "value": "Limpurg-Gaildorf; Friedrich"
+        },
+        {
+            "facet_id": 5287,
+            "occurrence": 20,
+            "value": "Limpurg-Gaildorf; Carl"
+        },
+        {
+            "facet_id": 108017,
+            "occurrence": 18,
+            "value": "Limpurg-Gaildorf; Aemilia, geb. von Roggendorf"
+        },
+        {
+            "facet_id": 144442,
+            "occurrence": 16,
+            "value": "Limpurg-Gaildorf; Heinrich Albrecht"
+        },
+        {
+            "facet_id": 67205,
+            "occurrence": 13,
+            "value": "Ortenburg; Lucia, geb. von Limpurg-Speckfeld"
+        },
+        {
+            "facet_id": 18039,
+            "occurrence": 11,
+            "value": "Limpurg-Gaildorf; Albrecht VII., Schenk von"
+        },
+        {
+            "facet_id": 78314,
+            "occurrence": 11,
+            "value": "Limpurg-Gaildorf; Susanna, geb. von Polheim"
+        },
+        {
+            "facet_id": 13219,
+            "occurrence": 10,
+            "value": "Ortenburg; von"
+        },
+        {
+            "facet_id": 166425,
+            "occurrence": 9,
+            "value": "Limpurg-Gaildorf; Wilhelm Ludwig"
+        },
+        {
+            "facet_id": 59406,
+            "occurrence": 7,
+            "value": "Limpurg-Speckfeld; Heinrich"
+        },
+        {
+            "facet_id": 335461,
+            "occurrence": 7,
+            "value": "Limpurg-Gaildorf; Joachim Gottfried, Schenk von"
+        },
+        {
+            "facet_id": 117679,
+            "occurrence": 6,
+            "value": "Limpurg-Gaildorf; Albrecht VII. Schenk von"
+        },
+        {
+            "facet_id": 54353,
+            "occurrence": 5,
+            "value": "Hohenlohe-Neuenstein-Weikersheim; Georg Friedrich"
+        },
+        {
+            "facet_id": 222509,
+            "occurrence": 5,
+            "value": "Ortenburg; Friedrich Casimir"
+        },
+        {
+            "facet_id": 417709,
+            "occurrence": 5,
+            "value": "Limpurg-Gaildorf; Eleonora, geb. von Zimmern"
+        },
+        {
+            "facet_id": 580624,
+            "occurrence": 5,
+            "value": "Limpurg-Gaildorf; Barbara Dorothea, geb. von Öttingen"
+        },
+        {
+            "facet_id": 54352,
+            "occurrence": 4,
+            "value": "Hohenlohe-Neuenstein-Weikersheim; Eleonora Magdalena"
+        },
+        {
+            "facet_id": 109899,
+            "occurrence": 4,
+            "value": "Koch, Elisabetha (\"Kohlelse\"), Hexe zu Gaildorf"
+        },
+        {
+            "facet_id": 289906,
+            "occurrence": 4,
+            "value": "Hohenlohe-Waldenburg; Ludwig Eberhard"
+        },
+        {
+            "facet_id": 299561,
+            "occurrence": 4,
+            "value": "Limpurg-Speckfeld; Regina, geb. von Polheim"
+        },
+        {
+            "facet_id": 352991,
+            "occurrence": 4,
+            "value": "Limpurg-Speckfeld; Maria Juliana, geb. von Hohenlohe-Neuenstein-Langenburg, verw. von Limpurg-Gaildorf"
+        },
+        {
+            "facet_id": 483674,
+            "occurrence": 4,
+            "value": "Limpurg-Speckfeld; Ludwig Casimir"
+        },
+        {
+            "facet_id": 91541,
+            "occurrence": 3,
+            "value": "Ortenburg; Georg"
+        },
+        {
+            "facet_id": 161493,
+            "occurrence": 3,
+            "value": "Frech, Johann Heinrich, Vogt zu Gaildorf"
+        },
+        {
+            "facet_id": 195396,
+            "occurrence": 3,
+            "value": "Hohenlohe-Waldenburg; Georg Friedrich II."
+        },
+        {
+            "facet_id": 266858,
+            "occurrence": 3,
+            "value": "Beeg, Benignus, Pfarrer zu Eutendorf"
+        },
+        {
+            "facet_id": 289904,
+            "occurrence": 3,
+            "value": "Hohenlohe-Neuenstein-Weikersheim; Wolfgang"
+        },
+        {
+            "facet_id": 339947,
+            "occurrence": 3,
+            "value": "Contreras, de, Andreas, spanischer Infanterieoberst"
+        },
+        {
+            "facet_id": 339948,
+            "occurrence": 3,
+            "value": "Lissau, von, Johann, kaiserlicher Kürassieroberst"
+        },
+        {
+            "facet_id": 371836,
+            "occurrence": 3,
+            "value": "Kriechingen, von, Thomas, brandenburg-ansbachischer Kriegsoberst und Amtmann zu Crailsheim"
+        },
+        {
+            "facet_id": 371837,
+            "occurrence": 3,
+            "value": "Neu, Balthasar, brandenburg-ansbachischer Geheimsekretär"
+        },
+        {
+            "facet_id": 400150,
+            "occurrence": 3,
+            "value": "Kaiser, deutsche; Ferdinand II."
+        },
+        {
+            "facet_id": 522614,
+            "occurrence": 3,
+            "value": "Limpurg-Gaildorf; Emilia, geb. von Roggendorf"
+        },
+        {
+            "facet_id": 593176,
+            "occurrence": 3,
+            "value": "Limpurg-Gaildorf; Johann Christoph"
+        },
+        {
+            "facet_id": 664654,
+            "occurrence": 3,
+            "value": "Limpurg-Gaildorf; Maria Juliana, geb. von Hohenlohe-Langenburg"
+        },
+        {
+            "facet_id": 686660,
+            "occurrence": 3,
+            "value": "Kaiser und Könige, römisch-deutsche; Ferdinand II."
+        },
+        {
+            "facet_id": 861895,
+            "occurrence": 3,
+            "value": "Hohenlohe-Waldenburg; Philipp Heinrich"
+        },
+        {
+            "facet_id": 967259,
+            "occurrence": 3,
+            "value": "Wallenstein, von, Albrecht, kaiserlicher Generalissimus"
+        },
+        {
+            "facet_id": 2350,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Johannes III."
+        },
+        {
+            "facet_id": 29274,
+            "occurrence": 2,
+            "value": "Oxenstierna, Axel, schwedischer Reichskanzler"
+        },
+        {
+            "facet_id": 38963,
+            "occurrence": 2,
+            "value": "Müller, Ludwig, öttingischer Kanzler"
+        },
+        {
+            "facet_id": 58726,
+            "occurrence": 2,
+            "value": "Schock, Georg, Einwohner zu Eschach"
+        },
+        {
+            "facet_id": 110089,
+            "occurrence": 2,
+            "value": "Ortenburg; Joachim der Ältere"
+        },
+        {
+            "facet_id": 139477,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Martha, geb. von Castell"
+        },
+        {
+            "facet_id": 218065,
+            "occurrence": 2,
+            "value": "Castell; Wolfgang"
+        },
+        {
+            "facet_id": 252906,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Barbara Elisabetha"
+        },
+        {
+            "facet_id": 289905,
+            "occurrence": 2,
+            "value": "Hohenlohe-Waldenburg; Georg Friedrich I."
+        },
+        {
+            "facet_id": 335752,
+            "occurrence": 2,
+            "value": "Burckhard, Matthias, kaiserlicher Kapitänleutnant"
+        },
+        {
+            "facet_id": 336643,
+            "occurrence": 2,
+            "value": "Pfalz, Kurfürsten und Pfalzgrafen; Johann II."
+        },
+        {
+            "facet_id": 353583,
+            "occurrence": 2,
+            "value": "Limpurg-Speckfeld; Erasmus"
+        },
+        {
+            "facet_id": 390883,
+            "occurrence": 2,
+            "value": "Börrit, Bartel, Einwohner zu Oberrot"
+        },
+        {
+            "facet_id": 425893,
+            "occurrence": 2,
+            "value": "Heffelbach, Martin, Einwohner zu Spöck"
+        },
+        {
+            "facet_id": 427783,
+            "occurrence": 2,
+            "value": "Heroldt, Christian, von Halle, Präzeptor zu Tübingen"
+        },
+        {
+            "facet_id": 430107,
+            "occurrence": 2,
+            "value": "Württemberg, Herzöge; Johann Friedrich"
+        },
+        {
+            "facet_id": 452985,
+            "occurrence": 2,
+            "value": "Mansfeld, von, Ernst, General"
+        },
+        {
+            "facet_id": 461760,
+            "occurrence": 2,
+            "value": "Cron, Endris, Einwohner zu Eichenkirnberg"
+        },
+        {
+            "facet_id": 470575,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Maria, geb. von Castell"
+        },
+        {
+            "facet_id": 498203,
+            "occurrence": 2,
+            "value": "Limpurg-Speckfeld; Wilhelm"
+        },
+        {
+            "facet_id": 516267,
+            "occurrence": 2,
+            "value": "Muggental, Herren von"
+        },
+        {
+            "facet_id": 516268,
+            "occurrence": 2,
+            "value": "Muggental; Erhard"
+        },
+        {
+            "facet_id": 527543,
+            "occurrence": 2,
+            "value": "Erbach, von; Anna Dorothea, geb. von Limpurg-Gaildorf"
+        },
+        {
+            "facet_id": 529640,
+            "occurrence": 2,
+            "value": "Vohenstein, von; Hans Albrecht"
+        },
+        {
+            "facet_id": 529641,
+            "occurrence": 2,
+            "value": "Vohenstein, von; Hans Philipp"
+        },
+        {
+            "facet_id": 529642,
+            "occurrence": 2,
+            "value": "Vohenstein, von; Hans Veit"
+        },
+        {
+            "facet_id": 552187,
+            "occurrence": 2,
+            "value": "Berlichingen, Herren von"
+        },
+        {
+            "facet_id": 600448,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Christian Ludwig, Schenk von"
+        },
+        {
+            "facet_id": 631332,
+            "occurrence": 2,
+            "value": "Theininger, Jörg (\"Raujörg\"), Einwohner zu Ebersberg"
+        },
+        {
+            "facet_id": 647425,
+            "occurrence": 2,
+            "value": "Wolkenstein, von, Carl, kaiserlicher Infanterieoberst"
+        },
+        {
+            "facet_id": 664653,
+            "occurrence": 2,
+            "value": "Hohenlohe-Langenburg; Anna Maria, geb. von Solms-Sonnenwald"
+        },
+        {
+            "facet_id": 677059,
+            "occurrence": 2,
+            "value": "Limpurg-Gaildorf; Carl, Schenk von"
+        },
+        {
+            "facet_id": 704837,
+            "occurrence": 2,
+            "value": "Limpurg-Speckfeld; Conrad"
+        },
+        {
+            "facet_id": 704838,
+            "occurrence": 2,
+            "value": "Limpurg-Speckfeld; Eberhard"
+        },
+        {
+            "facet_id": 704840,
+            "occurrence": 2,
+            "value": "Limpurg-Speckfeld; Georg"
+        },
+        {
+            "facet_id": 760130,
+            "occurrence": 2,
+            "value": "Adelmann von Adelmannsfelden, Familie"
+        },
+        {
+            "facet_id": 775455,
+            "occurrence": 2,
+            "value": "Hohenlohe-Neuenstein-Kirchberg; Joachim Albrecht"
+        },
+        {
+            "facet_id": 775456,
+            "occurrence": 2,
+            "value": "Hohenlohe-Neuenstein-Langenburg; Heinrich Friedrich"
+        },
+        {
+            "facet_id": 790533,
+            "occurrence": 2,
+            "value": "Roschmann, Felix, Superintendent zu Gaildorf"
+        },
+        {
+            "facet_id": 833389,
+            "occurrence": 2,
+            "value": "Lang, Hans, Hofschneider zu Gaildorf"
+        },
+        {
+            "facet_id": 967257,
+            "occurrence": 2,
+            "value": "Kaiser, deutsche; Ferdinand III."
+        },
+        {
+            "facet_id": 1055338,
+            "occurrence": 2,
+            "value": "Müller, Ludwig, öttingischer Rat und Kanzler"
+        },
+        {
+            "facet_id": 1276,
+            "occurrence": 1,
+            "value": "Rechberg-Hohenrechberg; von"
+        },
+        {
+            "facet_id": 2344,
+            "occurrence": 1,
+            "value": "Limpurg-Gaildorf; Anna, geb. von Bern"
+        },
+        {
+            "facet_id": 2345,
+            "occurrence": 1,
+            "value": "Limpurg-Gaildorf; Barbara"
+        },
+        {
+            "facet_id": 2909,
+            "occurrence": 1,
+            "value": "Limpurg-Gaildorf; Wilhelm Heinrich"
+        },
+        {
+            "facet_id": 7516,
+            "occurrence": 1,
+            "value": "Kaiser"
+        },
+        {
+            "facet_id": 13800,
+            "occurrence": 1,
+            "value": "Langhans, limpurgischer Forstknecht zu Gschwend"
+        },
+        {
+            "facet_id": 19372,
+            "occurrence": 1,
+            "value": "Gauckhel, Barbara, Einwohnerin zu Münster"
+        },
+        {
+            "facet_id": 29275,
+            "occurrence": 1,
+            "value": "Schweden, Könige; Christina"
+        },
+        {
+            "facet_id": 31243,
+            "occurrence": 1,
+            "value": "Vid, Martin, Einwohner zu Spöck"
+        },
+        {
+            "facet_id": 36141,
+            "occurrence": 1,
+            "value": "Woellwarth; von"
+        },
+        {
+            "facet_id": 38964,
+            "occurrence": 1,
+            "value": "Rößle, Dorothea (\"Leibvögtin\"), Hexe zu Gaildorf"
+        },
+        {
+            "facet_id": 44342,
+            "occurrence": 1,
+            "value": "Riel, Bernhard, Schlosser zu Gaildorf"
+        },
+        {
+            "facet_id": 51165,
+            "occurrence": 1,
+            "value": "Theininger, Georg, Hofküfer zu Gaildorf"
+        },
+        {
+            "facet_id": 51166,
+            "occurrence": 1,
+            "value": "Theininger, Maria, Einwohnerin zu Gaildorf"
+        },
+        {
+            "facet_id": 56941,
+            "occurrence": 1,
+            "value": "Stetten, Herren von"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61645",
+    "affiliate_fct_id": 14367,
+    "affiliate_fct": "Wechelus",
+    "affiliate_fct_occurrence": 230,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 14367,
+            "affiliate_fct": "Wechelus",
+            "affiliate_fct_occurrence": 230
+        },
+        {
+            "affiliate_fct_id": 30977,
+            "affiliate_fct": "Ramus, Petrus (1515-1572)",
+            "affiliate_fct_occurrence": 34
+        },
+        {
+            "affiliate_fct_id": 1097,
+            "affiliate_fct": "Aristoteles (v384-v322)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 45568,
+            "affiliate_fct": "Crato, Johannes (1519-1585)",
+            "affiliate_fct_occurrence": 16
+        },
+        {
+            "affiliate_fct_id": 45570,
+            "affiliate_fct": "Scholz, Lorenz (1552-1599)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 1985,
+            "affiliate_fct": "Sylburg, Friedrich (1536-1596)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 45569,
+            "affiliate_fct": "Monau, Peter (1551-1588)",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 3291,
+            "affiliate_fct": "Vettori, Pietro (1499-1585)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 5190,
+            "affiliate_fct": "Lipsius, Justus (1547-1606)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 14368,
+            "affiliate_fct": "Mercuriale, Girolamo (1530-1606)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 20498,
+            "affiliate_fct": "Reineck, Reiner (1541-1595)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 75213,
+            "affiliate_fct": "Pistorius, Johann",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 86924,
+            "affiliate_fct": "Piscator, Johannes (1546-1625)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 3556,
+            "affiliate_fct": "Manuzio, Paolo (1512-1574)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 15617,
+            "affiliate_fct": "Coras, Jean de (1513-1572)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 31079,
+            "affiliate_fct": "Du Rosier, Hugues Sureau (1510-1575)",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 5546,
+            "affiliate_fct": "Vergilius Maro, Publius (v70-v19)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 67776,
+            "affiliate_fct": "Thietmarus <Merseburgensis> (975-1018)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 206713,
+            "affiliate_fct": "Wurstisen, Christian (1544-1588)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 8514,
+            "affiliate_fct": "Alexander <Aphrodisiensis>",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 21361,
+            "affiliate_fct": "Camerarius, Joachim (1500-1574)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 23702,
+            "affiliate_fct": "Sigonio, Carlo (1524-1584)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 486524,
+            "affiliate_fct": "Jordán, Tamás (1539-1585)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 3898,
+            "affiliate_fct": "Hippocrates (v460-v370)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 34793,
+            "affiliate_fct": "Riccoboni, Antonio (1541-1599)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 42292,
+            "affiliate_fct": "Fernel, Jean (1497-1558)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 53718,
+            "affiliate_fct": "Rantzau, Heinrich (1526-1598)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 68979,
+            "affiliate_fct": "Fischerus",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 88487,
+            "affiliate_fct": "Conti, Natale (1520-1582)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 140737,
+            "affiliate_fct": "Scribonius, Wilhelm Adolf",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 330538,
+            "affiliate_fct": "Temple, William (1555-1627)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 340470,
+            "affiliate_fct": "Micqueau, Jean L.",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 244,
+            "affiliate_fct": "Plutarchus (45-120)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4138,
+            "affiliate_fct": "Terentius Afer, Publius (v195-v159)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 6260,
+            "affiliate_fct": "Mizauld, Antoine (1510-1578)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10501,
+            "affiliate_fct": "Du Jon, François (1545-1602)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 16040,
+            "affiliate_fct": "Paracelsus (1493-1541)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20439,
+            "affiliate_fct": "Fouquelin, Antoine",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20440,
+            "affiliate_fct": "Freig, Johannes Thomas (1543-1583)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 31080,
+            "affiliate_fct": "Papon, Jean (1505-1590)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 35002,
+            "affiliate_fct": "Della Casa, Giovanni (1503-1556)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 36991,
+            "affiliate_fct": "Gratianus <de Clusio> (-1150)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 38234,
+            "affiliate_fct": "Dorn, Gerhard (ca. 16.Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 41249,
+            "affiliate_fct": "Scaliger, Julius Caesar (1484-1558)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 42276,
+            "affiliate_fct": "Guillon, René",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63091,
+            "affiliate_fct": "Ellinger, Andreas (1526-1582)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63659,
+            "affiliate_fct": "Talon, Omer (1510-1562)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 68916,
+            "affiliate_fct": "Lambin, Denys (1520-1572)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 69613,
+            "affiliate_fct": "Maximilian <II., Heiliges Römisches Reich, Kaiser> (1527-1576)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 86249,
+            "affiliate_fct": "Sambucus, Johannes (1531-1584)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 94134,
+            "affiliate_fct": "Plancy, Guillaume (1514-1568)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 111879,
+            "affiliate_fct": "Salignac, Bernard",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 133826,
+            "affiliate_fct": "Brenner, Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 142224,
+            "affiliate_fct": "Decimator, Heinrich (1555-1627)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 166186,
+            "affiliate_fct": "Łasicki, Jan (1534-1605)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 191204,
+            "affiliate_fct": "Monachus <Pegaviensis> (ca. um 1124)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 196030,
+            "affiliate_fct": "Bonfini, Antonio (1427-1502)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 200144,
+            "affiliate_fct": "Schindler, Valentin (1543-1604)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 209477,
+            "affiliate_fct": "Chyträus, Nathan (1543-1598)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 239912,
+            "affiliate_fct": "Bright, Timothie (ca. 1550-1615/16)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 260363,
+            "affiliate_fct": "Gorecius, Leonardus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 329259,
+            "affiliate_fct": "Mignault, Claude (1536-1606)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 414675,
+            "affiliate_fct": "Sporisch, Johann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 417374,
+            "affiliate_fct": "Frobenius, Georg Ludwig (1566-1645)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 565565,
+            "affiliate_fct": "Mancinus, Julius",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 595473,
+            "affiliate_fct": "Bielski, Joachim (1540-1599)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 655744,
+            "affiliate_fct": "Schneeberger, Anton",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 13,
+            "affiliate_fct": "Deutsche Forschungsgemeinschaft",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1249,
+            "affiliate_fct": "Erasmus, Desiderius (1469-1536)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1507,
+            "affiliate_fct": "Goclenius, Rudolph (1547-1628)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1932,
+            "affiliate_fct": "Herodotus (v485-v425)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3899,
+            "affiliate_fct": "Galenus (129-199)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5262,
+            "affiliate_fct": "Ramus, Petrus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5306,
+            "affiliate_fct": "SLUB Dresden",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 5332,
+            "affiliate_fct": "Nidecki, Andrzej Patrycy (1522-1587)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6365,
+            "affiliate_fct": "Lucretius Carus, Titus (v94-v55)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10467,
+            "affiliate_fct": "Plato (v427-v347)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 11234,
+            "affiliate_fct": "Alexander <ab Alexandro> (1461-1523)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 16479,
+            "affiliate_fct": "Schegk, Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20044,
+            "affiliate_fct": "Rayanus, Hermannus (fl. 1555-1568)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21650,
+            "affiliate_fct": "Cato, Marcus Porcius <Censorius> (v234-v149)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21783,
+            "affiliate_fct": "Bèze, Théodore de (1519-1605)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24049,
+            "affiliate_fct": "Estienne, Henri (1531-1598)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 25619,
+            "affiliate_fct": "Tixier, Jean (1480-1524)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27838,
+            "affiliate_fct": "Cato, Dionysius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28779,
+            "affiliate_fct": "Junius, Hadrianus (1511-1575)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28881,
+            "affiliate_fct": "Lauterbach von Noskowitz, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31811,
+            "affiliate_fct": "Valla, Laurentius (1407-1457)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39585,
+            "affiliate_fct": "Roding, Wilhelm (1549-1603)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 41054,
+            "affiliate_fct": "Heresbach, Conrad (1496-1576)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 43797,
+            "affiliate_fct": "Christmann, Jakob (1554-1613)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45472,
+            "affiliate_fct": "Euclides (ca. 3. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45955,
+            "affiliate_fct": "Cebes <Philosophus>",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 55186,
+            "affiliate_fct": "Muret, Marc-Antoine (1526-1585)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 55553,
+            "affiliate_fct": "Buchanan, George (1506-1582)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 56670,
+            "affiliate_fct": "Mansfeld, Ernst von (1561-1609)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 61096,
+            "affiliate_fct": "Della Porta, Giambattista (1535-1615)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62665,
+            "affiliate_fct": "Maximus <Planudes> (1260-1310)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

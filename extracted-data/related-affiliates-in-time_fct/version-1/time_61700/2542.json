@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 19,
+    "time_fct": "time_61700",
+    "affiliate_facet_id": 2542,
+    "affiliate_facet": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek",
+    "occurrence": 323,
+    "affiliates": [
+        {
+            "facet_id": 2542,
+            "occurrence": 338,
+            "value": "Bauhofer"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 25,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 29695,
+            "occurrence": 24,
+            "value": "Baier, Johann Wilhelm"
+        },
+        {
+            "facet_id": 21327,
+            "occurrence": 23,
+            "value": "Musaeus, Johannes (1613-1681)"
+        },
+        {
+            "facet_id": 2544,
+            "occurrence": 19,
+            "value": "Beck, Michael (1653-1712)"
+        },
+        {
+            "facet_id": 32732,
+            "occurrence": 17,
+            "value": "Müller, Peter (1640-1696)"
+        },
+        {
+            "facet_id": 22949,
+            "occurrence": 16,
+            "value": "Gerhard, Johann Ernst (1621-1668)"
+        },
+        {
+            "facet_id": 23868,
+            "occurrence": 16,
+            "value": "Müller, Philipp (1640-1713)"
+        },
+        {
+            "facet_id": 2543,
+            "occurrence": 14,
+            "value": "Roth, Eberhard Rudolph (1646-1715)"
+        },
+        {
+            "facet_id": 6787,
+            "occurrence": 12,
+            "value": "Müller, Peter"
+        },
+        {
+            "facet_id": 17305,
+            "occurrence": 12,
+            "value": "Sagittarius, Caspar (1643-1694)"
+        },
+        {
+            "facet_id": 150114,
+            "occurrence": 10,
+            "value": "Reiske, Johann (1641-1701)"
+        },
+        {
+            "facet_id": 6545,
+            "occurrence": 9,
+            "value": "Bechmann, Johann Volkmar (1624-1689)"
+        },
+        {
+            "facet_id": 19407,
+            "occurrence": 9,
+            "value": "Roth, Heinrich Balthasar (1639-1689)"
+        },
+        {
+            "facet_id": 70399,
+            "occurrence": 9,
+            "value": "Groß, Simon (1658-1680)"
+        },
+        {
+            "facet_id": 19122,
+            "occurrence": 8,
+            "value": "Chemnitz, Christian (1615-1666)"
+        },
+        {
+            "facet_id": 1259,
+            "occurrence": 7,
+            "value": "Veltheim, Valentin (1645-1700)"
+        },
+        {
+            "facet_id": 11321,
+            "occurrence": 7,
+            "value": "Schmidt, Johann Andreas (1652-1726)"
+        },
+        {
+            "facet_id": 87417,
+            "occurrence": 7,
+            "value": "Lorenz, Justus"
+        },
+        {
+            "facet_id": 32762,
+            "occurrence": 6,
+            "value": "Slevogt, Johann Philipp (1649-1727)"
+        },
+        {
+            "facet_id": 35123,
+            "occurrence": 6,
+            "value": "Nicolai, Johann Friedrich (1639-1683)"
+        },
+        {
+            "facet_id": 73108,
+            "occurrence": 6,
+            "value": "Danz, Johann Andreas (1654-1727)"
+        },
+        {
+            "facet_id": 118369,
+            "occurrence": 6,
+            "value": "Koch, Michael"
+        },
+        {
+            "facet_id": 163539,
+            "occurrence": 6,
+            "value": "Calmberg, Jacob"
+        },
+        {
+            "facet_id": 190,
+            "occurrence": 5,
+            "value": "Lyncker, Nicolaus Christoph von (1643-1726)"
+        },
+        {
+            "facet_id": 5306,
+            "occurrence": 5,
+            "value": "SLUB Dresden"
+        },
+        {
+            "facet_id": 17340,
+            "occurrence": 5,
+            "value": "Hundeshagen, Johann Christoph"
+        },
+        {
+            "facet_id": 19113,
+            "occurrence": 5,
+            "value": "Weigel, Erhard"
+        },
+        {
+            "facet_id": 9453,
+            "occurrence": 4,
+            "value": "Opitz, Heinrich"
+        },
+        {
+            "facet_id": 12098,
+            "occurrence": 4,
+            "value": "Croph, Johann Baptist (1660-1722)"
+        },
+        {
+            "facet_id": 25148,
+            "occurrence": 4,
+            "value": "Sonntag, Christoph (1654-1717)"
+        },
+        {
+            "facet_id": 33905,
+            "occurrence": 4,
+            "value": "Riemer, Johannes (1648-1714)"
+        },
+        {
+            "facet_id": 62371,
+            "occurrence": 4,
+            "value": "Häner, Johann Heinrich (1649-)"
+        },
+        {
+            "facet_id": 185613,
+            "occurrence": 4,
+            "value": "Cunovius, Theodor"
+        },
+        {
+            "facet_id": 193228,
+            "occurrence": 4,
+            "value": "Hoffmann, Christian (1634-1674)"
+        },
+        {
+            "facet_id": 269712,
+            "occurrence": 4,
+            "value": "Heber, Gottfried"
+        },
+        {
+            "facet_id": 395329,
+            "occurrence": 4,
+            "value": "Hemmerling, Johann"
+        },
+        {
+            "facet_id": 428623,
+            "occurrence": 4,
+            "value": "Elliger, Christian (1638-1688)"
+        },
+        {
+            "facet_id": 662846,
+            "occurrence": 4,
+            "value": "Otho, Wilhelm Ludwig"
+        },
+        {
+            "facet_id": 5729,
+            "occurrence": 3,
+            "value": "Hamberger, Georg Albrecht (1662-1716)"
+        },
+        {
+            "facet_id": 14994,
+            "occurrence": 3,
+            "value": "Röber, Paul"
+        },
+        {
+            "facet_id": 16541,
+            "occurrence": 3,
+            "value": "Krauss, Peter Pancratius (1641-1693)"
+        },
+        {
+            "facet_id": 19590,
+            "occurrence": 3,
+            "value": "Fabricius, Friedrich"
+        },
+        {
+            "facet_id": 31652,
+            "occurrence": 3,
+            "value": "Müller, Johann Jacob (1639-1706)"
+        },
+        {
+            "facet_id": 44981,
+            "occurrence": 3,
+            "value": "Niemann, Sebastian (1625-1684)"
+        },
+        {
+            "facet_id": 45004,
+            "occurrence": 3,
+            "value": "Kißling, Sigismund"
+        },
+        {
+            "facet_id": 47647,
+            "occurrence": 3,
+            "value": "Gihnlein, Johann Daniel"
+        },
+        {
+            "facet_id": 61084,
+            "occurrence": 3,
+            "value": "Forster, Jacob Wilhelm (1667-1722)"
+        },
+        {
+            "facet_id": 76452,
+            "occurrence": 3,
+            "value": "Meyenberg, Justus Philipp (1642-1709)"
+        },
+        {
+            "facet_id": 107254,
+            "occurrence": 3,
+            "value": "Mertz, J. G."
+        },
+        {
+            "facet_id": 115759,
+            "occurrence": 3,
+            "value": "Bruncken, Johann"
+        },
+        {
+            "facet_id": 116611,
+            "occurrence": 3,
+            "value": "Knorre, Johann Friedrich (1658-1718)"
+        },
+        {
+            "facet_id": 135611,
+            "occurrence": 3,
+            "value": "Möller, Nicolaus (1664-1734)"
+        },
+        {
+            "facet_id": 142740,
+            "occurrence": 3,
+            "value": "Vockerodt, Gottfried (1665-1727)"
+        },
+        {
+            "facet_id": 152811,
+            "occurrence": 3,
+            "value": "Liedvogel, Johann Theodor"
+        },
+        {
+            "facet_id": 192905,
+            "occurrence": 3,
+            "value": "Creil, Johannes"
+        },
+        {
+            "facet_id": 215711,
+            "occurrence": 3,
+            "value": "Thill, Johann Christoph (1659-1728)"
+        },
+        {
+            "facet_id": 256355,
+            "occurrence": 3,
+            "value": "Scheibler, Johann Hartmann"
+        },
+        {
+            "facet_id": 296158,
+            "occurrence": 3,
+            "value": "Weimar, Daniel (ca. 2. Hälfte 17. Jh.)"
+        },
+        {
+            "facet_id": 296159,
+            "occurrence": 3,
+            "value": "Dasdorff, Carl Friedrich"
+        },
+        {
+            "facet_id": 304426,
+            "occurrence": 3,
+            "value": "Lang, Matthias (1624-1682)"
+        },
+        {
+            "facet_id": 340608,
+            "occurrence": 3,
+            "value": "Tilemann, Paul Heinrich von (1656-1733)"
+        },
+        {
+            "facet_id": 402955,
+            "occurrence": 3,
+            "value": "Thryllitius, Jacob"
+        },
+        {
+            "facet_id": 480241,
+            "occurrence": 3,
+            "value": "Funck, David (1630-1690)"
+        },
+        {
+            "facet_id": 486187,
+            "occurrence": 3,
+            "value": "Crusius, Georg Andreas"
+        },
+        {
+            "facet_id": 583547,
+            "occurrence": 3,
+            "value": "Wiese, Ulrich (1668-1720)"
+        },
+        {
+            "facet_id": 755270,
+            "occurrence": 3,
+            "value": "Geldern, Constans von (-1729)"
+        },
+        {
+            "facet_id": 792697,
+            "occurrence": 3,
+            "value": "Holst, Johann (-1707)"
+        },
+        {
+            "facet_id": 1096851,
+            "occurrence": 3,
+            "value": "Knericht, Augustin (1664-1713)"
+        },
+        {
+            "facet_id": 159,
+            "occurrence": 2,
+            "value": "Beier, Adrian (1634-1712)"
+        },
+        {
+            "facet_id": 3869,
+            "occurrence": 2,
+            "value": "Krebs, Johann Friedrich (1651-1721)"
+        },
+        {
+            "facet_id": 6949,
+            "occurrence": 2,
+            "value": "Struve, Georg Adam (1619-1692)"
+        },
+        {
+            "facet_id": 8643,
+            "occurrence": 2,
+            "value": "Fabricius, Johann"
+        },
+        {
+            "facet_id": 20110,
+            "occurrence": 2,
+            "value": "Sieboldt, Johann Elias"
+        },
+        {
+            "facet_id": 29696,
+            "occurrence": 2,
+            "value": "Zürner, Philipp Heinrich"
+        },
+        {
+            "facet_id": 35124,
+            "occurrence": 2,
+            "value": "Engelmann, Georg"
+        },
+        {
+            "facet_id": 51778,
+            "occurrence": 2,
+            "value": "Goetze, Georg"
+        },
+        {
+            "facet_id": 83160,
+            "occurrence": 2,
+            "value": "Flörcke, Heinrich Ernst (1660-1741)"
+        },
+        {
+            "facet_id": 85302,
+            "occurrence": 2,
+            "value": "Niemann, Michael"
+        },
+        {
+            "facet_id": 88489,
+            "occurrence": 2,
+            "value": "Schneider, Friedrich"
+        },
+        {
+            "facet_id": 120727,
+            "occurrence": 2,
+            "value": "Vietor, Johann Daniel"
+        },
+        {
+            "facet_id": 146611,
+            "occurrence": 2,
+            "value": "Höfflich, Georg Christoph (1663-1725)"
+        },
+        {
+            "facet_id": 163540,
+            "occurrence": 2,
+            "value": "Lüdeke, Ernst"
+        },
+        {
+            "facet_id": 175390,
+            "occurrence": 2,
+            "value": "Strobel, Jacob Peter"
+        },
+        {
+            "facet_id": 181322,
+            "occurrence": 2,
+            "value": "Blumberg, Friedrich Gottlieb"
+        },
+        {
+            "facet_id": 226143,
+            "occurrence": 2,
+            "value": "Fürstenau, Gabriel Heinrich"
+        },
+        {
+            "facet_id": 240826,
+            "occurrence": 2,
+            "value": "Morath, Elias (1663-1718)"
+        },
+        {
+            "facet_id": 253624,
+            "occurrence": 2,
+            "value": "Bahn, Johann Ernst"
+        },
+        {
+            "facet_id": 279173,
+            "occurrence": 2,
+            "value": "Gaue, Martin"
+        },
+        {
+            "facet_id": 294733,
+            "occurrence": 2,
+            "value": "Grüzmann, Daniel (1640-1726)"
+        },
+        {
+            "facet_id": 294734,
+            "occurrence": 2,
+            "value": "Bonenberg, Nicolaus"
+        },
+        {
+            "facet_id": 297001,
+            "occurrence": 2,
+            "value": "Specht, Christian"
+        },
+        {
+            "facet_id": 314091,
+            "occurrence": 2,
+            "value": "Kretschmar, Johann Martin (1665-)"
+        },
+        {
+            "facet_id": 324398,
+            "occurrence": 2,
+            "value": "Reinboth, Heinrich"
+        },
+        {
+            "facet_id": 330287,
+            "occurrence": 2,
+            "value": "Ortth, Philipp Wilhelm"
+        },
+        {
+            "facet_id": 358153,
+            "occurrence": 2,
+            "value": "Mimesius, Georg"
+        },
+        {
+            "facet_id": 380459,
+            "occurrence": 2,
+            "value": "Niemann, Sebastian"
+        },
+        {
+            "facet_id": 389169,
+            "occurrence": 2,
+            "value": "Thill, Johann Gottlieb (1653-1713)"
+        },
+        {
+            "facet_id": 413299,
+            "occurrence": 2,
+            "value": "Wetering, Jacob von"
+        },
+        {
+            "facet_id": 421399,
+            "occurrence": 2,
+            "value": "Zeschlin, Johann Theodor von"
+        }
+    ]
+}

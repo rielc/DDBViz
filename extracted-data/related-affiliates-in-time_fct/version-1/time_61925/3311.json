@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 10,
+    "time_fct": "time_61925",
+    "affiliate_facet_id": 3311,
+    "affiliate_facet": "Perthes",
+    "occurrence": 537,
+    "affiliates": [
+        {
+            "facet_id": 3311,
+            "occurrence": 561,
+            "value": "Weber"
+        },
+        {
+            "facet_id": 6925,
+            "occurrence": 73,
+            "value": "Dickens, Charles (1812-1870)"
+        },
+        {
+            "facet_id": 13151,
+            "occurrence": 73,
+            "value": "Roberts, H."
+        },
+        {
+            "facet_id": 13150,
+            "occurrence": 71,
+            "value": "Browne, Hablot Knight (1815-1882)"
+        },
+        {
+            "facet_id": 28453,
+            "occurrence": 24,
+            "value": "Bekker, Immanuel (1785-1871)"
+        },
+        {
+            "facet_id": 8111,
+            "occurrence": 15,
+            "value": "Gutzkow, Karl (1811-1878)"
+        },
+        {
+            "facet_id": 124230,
+            "occurrence": 13,
+            "value": "Limmer, Karl August (1767-1853)"
+        },
+        {
+            "facet_id": 31041,
+            "occurrence": 12,
+            "value": "Laube, Heinrich (1806-1884)"
+        },
+        {
+            "facet_id": 60428,
+            "occurrence": 12,
+            "value": "Storch, Ludwig (1803-1881)"
+        },
+        {
+            "facet_id": 15271,
+            "occurrence": 11,
+            "value": "Cruikshank, George (1792-1878)"
+        },
+        {
+            "facet_id": 20277,
+            "occurrence": 11,
+            "value": "Devrient, Eduard (1801-1877)"
+        },
+        {
+            "facet_id": 23296,
+            "occurrence": 11,
+            "value": "Thiers, Adolphe (1797-1877)"
+        },
+        {
+            "facet_id": 22456,
+            "occurrence": 10,
+            "value": "Welcker, Friedrich Gottlieb (1784-1868)"
+        },
+        {
+            "facet_id": 28459,
+            "occurrence": 10,
+            "value": "Bernhard, Carl (1798-1865)"
+        },
+        {
+            "facet_id": 53044,
+            "occurrence": 10,
+            "value": "Wolff, Oskar Ludwig Bernhard (1799-1851)"
+        },
+        {
+            "facet_id": 4565,
+            "occurrence": 9,
+            "value": "Deinhardstein, Johann Ludwig (1794-1859)"
+        },
+        {
+            "facet_id": 13500,
+            "occurrence": 9,
+            "value": "Cattermole, George (1800-1868)"
+        },
+        {
+            "facet_id": 84581,
+            "occurrence": 9,
+            "value": "Schopen, Ludwig (1799-1867)"
+        },
+        {
+            "facet_id": 333563,
+            "occurrence": 9,
+            "value": "Moriarty, Edward A. (1819-1874)"
+        },
+        {
+            "facet_id": 41724,
+            "occurrence": 8,
+            "value": "Nöggerath, Jakob (1788-1877)"
+        },
+        {
+            "facet_id": 232279,
+            "occurrence": 8,
+            "value": "Oltmans, Jan Frederik"
+        },
+        {
+            "facet_id": 7015,
+            "occurrence": 7,
+            "value": "Sporschil, Johann (1800-1863)"
+        },
+        {
+            "facet_id": 30318,
+            "occurrence": 7,
+            "value": "Diez, Friedrich Christian (1794-1876)"
+        },
+        {
+            "facet_id": 74074,
+            "occurrence": 7,
+            "value": "Benedix, Roderich (1811-1873)"
+        },
+        {
+            "facet_id": 154962,
+            "occurrence": 7,
+            "value": "Bayer, Hieronymus von (1792-1876)"
+        },
+        {
+            "facet_id": 13579,
+            "occurrence": 6,
+            "value": "Schlegel, Friedrich von (1772-1829)"
+        },
+        {
+            "facet_id": 37569,
+            "occurrence": 6,
+            "value": "Kilian, Hermann Friedrich (1800-1863)"
+        },
+        {
+            "facet_id": 64997,
+            "occurrence": 6,
+            "value": "Johannes <VI., Imperium Byzantinum, Imperator> (1295-1383)"
+        },
+        {
+            "facet_id": 219991,
+            "occurrence": 6,
+            "value": "Windischmann, Karl Josef Hieronymus (1775-1839)"
+        },
+        {
+            "facet_id": 13,
+            "occurrence": 5,
+            "value": "Deutsche Forschungsgemeinschaft"
+        },
+        {
+            "facet_id": 16622,
+            "occurrence": 5,
+            "value": "Dindorf, Wilhelm (1802-1883)"
+        },
+        {
+            "facet_id": 19125,
+            "occurrence": 5,
+            "value": "Prutz, Robert Eduard (1816-1872)"
+        },
+        {
+            "facet_id": 28429,
+            "occurrence": 5,
+            "value": "Cuvier, Georges (1769-1832)"
+        },
+        {
+            "facet_id": 53720,
+            "occurrence": 5,
+            "value": "Lücke, Friedrich (1791-1855)"
+        },
+        {
+            "facet_id": 95013,
+            "occurrence": 5,
+            "value": "Burckhardt, Eduard"
+        },
+        {
+            "facet_id": 114822,
+            "occurrence": 5,
+            "value": "Meinhold, Wilhelm (1797-1851)"
+        },
+        {
+            "facet_id": 232599,
+            "occurrence": 5,
+            "value": "Maurenbrecher, Romeo (1803-1843)"
+        },
+        {
+            "facet_id": 31831,
+            "occurrence": 4,
+            "value": "Lassen, Christian (1800-1876)"
+        },
+        {
+            "facet_id": 45102,
+            "occurrence": 4,
+            "value": "Becker, Gottfried Wilhelm (1778-1854)"
+        },
+        {
+            "facet_id": 101934,
+            "occurrence": 4,
+            "value": "Niebuhr, Barthold Georg (1776-1831)"
+        },
+        {
+            "facet_id": 134169,
+            "occurrence": 4,
+            "value": "Fallmerayer, Jakob Philipp (1790-1861)"
+        },
+        {
+            "facet_id": 357057,
+            "occurrence": 4,
+            "value": "Lüders, Otto"
+        },
+        {
+            "facet_id": 370978,
+            "occurrence": 4,
+            "value": "Rössler, Carl Gottfried (1784-1837)"
+        },
+        {
+            "facet_id": 370979,
+            "occurrence": 4,
+            "value": "Reghellini <de Schio> (1770-1853)"
+        },
+        {
+            "facet_id": 411281,
+            "occurrence": 4,
+            "value": "Lippert, Robert"
+        },
+        {
+            "facet_id": 469729,
+            "occurrence": 4,
+            "value": "Ross, John (1777-1856)"
+        },
+        {
+            "facet_id": 581546,
+            "occurrence": 4,
+            "value": "Duden, Gottfried (1785-1856)"
+        },
+        {
+            "facet_id": 5340,
+            "occurrence": 3,
+            "value": "Oehlenschläger, Adam Gottlob (1779-1850)"
+        },
+        {
+            "facet_id": 9678,
+            "occurrence": 3,
+            "value": "Westenrieder, Lorenz von (1748-1829)"
+        },
+        {
+            "facet_id": 9705,
+            "occurrence": 3,
+            "value": "Schlegel, August Wilhelm von (1767-1845)"
+        },
+        {
+            "facet_id": 20007,
+            "occurrence": 3,
+            "value": "Dindorf, Ludwig August (1805-1871)"
+        },
+        {
+            "facet_id": 22324,
+            "occurrence": 3,
+            "value": "Klencke, Hermann (1813-1881)"
+        },
+        {
+            "facet_id": 32351,
+            "occurrence": 3,
+            "value": "Roth, Karl Johann Friedrich von (1780-1852)"
+        },
+        {
+            "facet_id": 36465,
+            "occurrence": 3,
+            "value": "Schelling, Friedrich Wilhelm Joseph von (1775-1854)"
+        },
+        {
+            "facet_id": 42781,
+            "occurrence": 3,
+            "value": "Pelz, Eduard (1800-1876)"
+        },
+        {
+            "facet_id": 43940,
+            "occurrence": 3,
+            "value": "Movers, Franz Carl (1806-1856)"
+        },
+        {
+            "facet_id": 112471,
+            "occurrence": 3,
+            "value": "Beskow, Bernhard von (1796-1868)"
+        },
+        {
+            "facet_id": 117470,
+            "occurrence": 3,
+            "value": "Magold, Maurus (1761-1837)"
+        },
+        {
+            "facet_id": 118192,
+            "occurrence": 3,
+            "value": "Sack, Karl Heinrich (1789-1875)"
+        },
+        {
+            "facet_id": 126459,
+            "occurrence": 3,
+            "value": "Classen, Johannes"
+        },
+        {
+            "facet_id": 151228,
+            "occurrence": 3,
+            "value": "Bischoff, Christian Heinrich Ernst (1781-1861)"
+        },
+        {
+            "facet_id": 162333,
+            "occurrence": 3,
+            "value": "Nicephorus <Gregoras> (1295-1359)"
+        },
+        {
+            "facet_id": 229649,
+            "occurrence": 3,
+            "value": "Petzoldt, Alexander (1810-1889)"
+        },
+        {
+            "facet_id": 278362,
+            "occurrence": 3,
+            "value": "Hinkert, F. Wilhelm"
+        },
+        {
+            "facet_id": 292282,
+            "occurrence": 3,
+            "value": "Procopius <Caesariensis> (500-562)"
+        },
+        {
+            "facet_id": 315866,
+            "occurrence": 3,
+            "value": "Industrie-Ausstellung <1835, München>"
+        },
+        {
+            "facet_id": 818,
+            "occurrence": 2,
+            "value": "Mayer, Georg"
+        },
+        {
+            "facet_id": 2148,
+            "occurrence": 2,
+            "value": "Simrock, Karl (1802-1876)"
+        },
+        {
+            "facet_id": 6889,
+            "occurrence": 2,
+            "value": "Hamm, Wilhelm (1820-1880)"
+        },
+        {
+            "facet_id": 10712,
+            "occurrence": 2,
+            "value": "Schubert, Gotthilf Heinrich von (1780-1860)"
+        },
+        {
+            "facet_id": 17399,
+            "occurrence": 2,
+            "value": "Johannes <Zonaras> (-1130)"
+        },
+        {
+            "facet_id": 17400,
+            "occurrence": 2,
+            "value": "Pinder, Moritz (1807-1871)"
+        },
+        {
+            "facet_id": 19308,
+            "occurrence": 2,
+            "value": "Georgius <Codinus> (ca. um 1347/60)"
+        },
+        {
+            "facet_id": 21275,
+            "occurrence": 2,
+            "value": "Döllinger, Ignaz von (1799-1890)"
+        },
+        {
+            "facet_id": 21563,
+            "occurrence": 2,
+            "value": "Wolf, Hieronymus (1516-1580)"
+        },
+        {
+            "facet_id": 22044,
+            "occurrence": 2,
+            "value": "Döllinger, Ignaz (1770-1841)"
+        },
+        {
+            "facet_id": 24014,
+            "occurrence": 2,
+            "value": "Spazier, Richard Otto (1803-1854)"
+        },
+        {
+            "facet_id": 26044,
+            "occurrence": 2,
+            "value": "Strauß, David Friedrich (1808-1874)"
+        },
+        {
+            "facet_id": 33423,
+            "occurrence": 2,
+            "value": "Walter, Ferdinand (1794-1879)"
+        },
+        {
+            "facet_id": 38959,
+            "occurrence": 2,
+            "value": "Lachmann, Karl (1793-1851)"
+        },
+        {
+            "facet_id": 57819,
+            "occurrence": 2,
+            "value": "Bernd, Christian Samuel Theodor (1775-1854)"
+        },
+        {
+            "facet_id": 59129,
+            "occurrence": 2,
+            "value": "Meineke, August (1790-1870)"
+        },
+        {
+            "facet_id": 62068,
+            "occurrence": 2,
+            "value": "Mickiewicz, Adam (1798-1855)"
+        },
+        {
+            "facet_id": 74774,
+            "occurrence": 2,
+            "value": "Georgius <Pachymeres> (1242-1310)"
+        },
+        {
+            "facet_id": 75886,
+            "occurrence": 2,
+            "value": "Ritter, Carl (1779-1859)"
+        },
+        {
+            "facet_id": 90738,
+            "occurrence": 2,
+            "value": "Sömmerring, Samuel Thomas von (1755-1830)"
+        },
+        {
+            "facet_id": 96217,
+            "occurrence": 2,
+            "value": "Michael <Glycas> (-1204)"
+        },
+        {
+            "facet_id": 125124,
+            "occurrence": 2,
+            "value": "Anastasius <Bibliothecarius> (811-879)"
+        },
+        {
+            "facet_id": 126458,
+            "occurrence": 2,
+            "value": "Theophanes <Confessor> (752-817)"
+        },
+        {
+            "facet_id": 135303,
+            "occurrence": 2,
+            "value": "Dresch, Leonhard"
+        },
+        {
+            "facet_id": 137007,
+            "occurrence": 2,
+            "value": "Hoppe, Janus"
+        },
+        {
+            "facet_id": 152185,
+            "occurrence": 2,
+            "value": "Sollogub, Vladimir A. (1813-1882)"
+        },
+        {
+            "facet_id": 156532,
+            "occurrence": 2,
+            "value": "Stadler, Johann Evangelist (1804-1868)"
+        },
+        {
+            "facet_id": 165338,
+            "occurrence": 2,
+            "value": "Georgius <Cedrenus> (gest. ca. 1100)"
+        },
+        {
+            "facet_id": 165339,
+            "occurrence": 2,
+            "value": "Johannes <Scylitza> (ca. 11. Jh.)"
+        },
+        {
+            "facet_id": 166861,
+            "occurrence": 2,
+            "value": "Redepenning, Ernst Rudolf (1810-1883)"
+        },
+        {
+            "facet_id": 182994,
+            "occurrence": 2,
+            "value": "Mayer, August F."
+        },
+        {
+            "facet_id": 242238,
+            "occurrence": 2,
+            "value": "Ungarn / Országgyűlés"
+        },
+        {
+            "facet_id": 256001,
+            "occurrence": 2,
+            "value": "Theophylactus <Simocatta> (580-628)"
+        },
+        {
+            "facet_id": 291367,
+            "occurrence": 2,
+            "value": "Schmitz, Christian"
+        }
+    ]
+}

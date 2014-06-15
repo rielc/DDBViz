@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 21,
+    "time_fct": "time_61500",
+    "affiliate_fct_id": 932,
+    "affiliate_fct": "Weingarten, Äbte von; Hartmann von Burgau",
+    "affiliate_fct_occurrence": 152,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 927,
+            "affiliate_fct": "Burgau, Hartmann von, Abt von Weingarten",
+            "affiliate_fct_occurrence": 152
+        },
+        {
+            "affiliate_fct_id": 932,
+            "affiliate_fct": "Weingarten, Äbte von; Hartmann von Burgau",
+            "affiliate_fct_occurrence": 152
+        },
+        {
+            "affiliate_fct_id": 21255,
+            "affiliate_fct": "Wochner, Ulrich, Unterlandvogt",
+            "affiliate_fct_occurrence": 39
+        },
+        {
+            "affiliate_fct_id": 12728,
+            "affiliate_fct": "Klotz, Ulrich, Landrichter",
+            "affiliate_fct_occurrence": 19
+        },
+        {
+            "affiliate_fct_id": 107675,
+            "affiliate_fct": "Käppler, Martin, Ammann",
+            "affiliate_fct_occurrence": 18
+        },
+        {
+            "affiliate_fct_id": 55385,
+            "affiliate_fct": "Ankenreute, Konrad",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 137822,
+            "affiliate_fct": "Schutz, Kaspar, Amtmann",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 172832,
+            "affiliate_fct": "Humpis, Friedrich",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 192850,
+            "affiliate_fct": "Neukomm, Jos, Großkeller",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 44621,
+            "affiliate_fct": "Reischach, Bilgrin von; Unterlandvogt",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 4250,
+            "affiliate_fct": "Hoff, Peter von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 7098,
+            "affiliate_fct": "Schwarz, Hans",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 107676,
+            "affiliate_fct": "Mayer, Ursula",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 365131,
+            "affiliate_fct": "Zeilhofer, Jörg, Notar",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 656447,
+            "affiliate_fct": "Raiser, Peter, Vikar",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 673245,
+            "affiliate_fct": "Mulfingen, Hans von",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 83780,
+            "affiliate_fct": "Fuchsschwanz, Veit, Ammann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 83781,
+            "affiliate_fct": "Golter, Konrad",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 140285,
+            "affiliate_fct": "Mayer, Konrad",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 179352,
+            "affiliate_fct": "Gutenmann, Jörg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 235541,
+            "affiliate_fct": "Fuchsschwanz, Hans",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 278387,
+            "affiliate_fct": "Cäppler, Martin, Ammann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 333805,
+            "affiliate_fct": "Mösch, Balthasar, Notar",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 536488,
+            "affiliate_fct": "Varrer, Jörg",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 656446,
+            "affiliate_fct": "Feser, Jörg, Kaplan",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 810717,
+            "affiliate_fct": "Payer, Anna",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 894412,
+            "affiliate_fct": "Payer, Simon",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 6317,
+            "affiliate_fct": "Weber, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 7866,
+            "affiliate_fct": "Mangolt, Konrad, Ammann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 28440,
+            "affiliate_fct": "Brülmayer, Martin",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 30182,
+            "affiliate_fct": "Schellang, Hans Jakob",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 31913,
+            "affiliate_fct": "Fischer, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 44227,
+            "affiliate_fct": "Boß, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63792,
+            "affiliate_fct": "Gutenmann, Afra",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 63793,
+            "affiliate_fct": "Gutenmann, Sebastian",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 84726,
+            "affiliate_fct": "Ölhafen, Leonhard, Dr. iur., Chorherr und königlicher Sekretär",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 90997,
+            "affiliate_fct": "Surmann, Jörg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 91000,
+            "affiliate_fct": "Surmann, Thomas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 91260,
+            "affiliate_fct": "Neukomm, Jos, Propst von Hofen",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 93487,
+            "affiliate_fct": "Hagen, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 107678,
+            "affiliate_fct": "Starck, Margaretha",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 107680,
+            "affiliate_fct": "Weber, Ursula",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 144376,
+            "affiliate_fct": "Metzger, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 148242,
+            "affiliate_fct": "Veser, Barbara",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 151624,
+            "affiliate_fct": "Sürg, Hildbrand",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 169964,
+            "affiliate_fct": "Schiegg, Jodok, Kaplan",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 192851,
+            "affiliate_fct": "Rotenhüsler, Klaus, gen. Hessel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 232550,
+            "affiliate_fct": "Kesenheimer, Jakob",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 287481,
+            "affiliate_fct": "Geng, Jörg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 287482,
+            "affiliate_fct": "Reischach, Bilgrin von, Landvogteiverweser",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 303191,
+            "affiliate_fct": "Cäppler s. Käppler",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 311777,
+            "affiliate_fct": "Klotz, Ulrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 313341,
+            "affiliate_fct": "Spiegel, Rudolf, Ammann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 333802,
+            "affiliate_fct": "Balloff, Heinrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 333803,
+            "affiliate_fct": "Bodmar, Hans, Prior",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 333806,
+            "affiliate_fct": "Norrer, Jörg, Ammann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 344775,
+            "affiliate_fct": "Schutzbach, Elsa",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 362052,
+            "affiliate_fct": "Seltenbach, Anna",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 364475,
+            "affiliate_fct": "Schärlin, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 365127,
+            "affiliate_fct": "Newkumen, Jos, Großkeller",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 409259,
+            "affiliate_fct": "Baumann, Konrad",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 421430,
+            "affiliate_fct": "Vorrer, Jörg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 421653,
+            "affiliate_fct": "Hubis, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 423720,
+            "affiliate_fct": "Egen, Jakob",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 423722,
+            "affiliate_fct": "Meler, Michel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 443124,
+            "affiliate_fct": "Funck, Jörg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 457293,
+            "affiliate_fct": "Bach, Hans am; Kaplan",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 458942,
+            "affiliate_fct": "Mäslin, Hans",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 534536,
+            "affiliate_fct": "Kesenheimer, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 542289,
+            "affiliate_fct": "Helbler, Konrad, Ammann",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 559323,
+            "affiliate_fct": "Neithart, Hieronymus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 559324,
+            "affiliate_fct": "Nithart, Hieronymus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 561850,
+            "affiliate_fct": "Baumann, Jörg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 640612,
+            "affiliate_fct": "Sorg, Margaretha",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 659606,
+            "affiliate_fct": "Spöchlin, Hans, M.A., Prediger",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 827326,
+            "affiliate_fct": "Stainhuser, Peter",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 818,
+            "affiliate_fct": "Mayer, Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1035,
+            "affiliate_fct": "Ziegler, Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1043,
+            "affiliate_fct": "Schiegg, Kaspar, Abt von Weingarten",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1044,
+            "affiliate_fct": "Weingarten, Äbte von; Kaspar Schiegg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1628,
+            "affiliate_fct": "Müller, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4997,
+            "affiliate_fct": "Wisenhofer, Michel",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 9350,
+            "affiliate_fct": "Faber",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10241,
+            "affiliate_fct": "Egen, Ul",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21254,
+            "affiliate_fct": "Wiggenhuser, Peter",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27933,
+            "affiliate_fct": "Konstanz, Bischöfe von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28441,
+            "affiliate_fct": "Engler, Elsa",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28442,
+            "affiliate_fct": "Schmotzlin, Elsa",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 28443,
+            "affiliate_fct": "Schmotzlin, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30180,
+            "affiliate_fct": "Mayer, Anna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 37596,
+            "affiliate_fct": "Mayer, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 48198,
+            "affiliate_fct": "Mor, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 48446,
+            "affiliate_fct": "Ungemut, Johannes, Notar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53278,
+            "affiliate_fct": "Klein, Ulrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54444,
+            "affiliate_fct": "Herzog",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60340,
+            "affiliate_fct": "Müller, Anna",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 60878,
+            "affiliate_fct": "Keller, Hans",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68783,
+            "affiliate_fct": "Montfort-Tettnang, Ulrich Graf von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68883,
+            "affiliate_fct": "Zürn",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68946,
+            "affiliate_fct": "Schiegg, Hans",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

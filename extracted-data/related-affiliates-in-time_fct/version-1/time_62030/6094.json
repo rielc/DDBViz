@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 29,
+    "time_fct": "time_62030",
+    "affiliate_facet_id": 6094,
+    "affiliate_facet": "Forstamt Sinsheim",
+    "occurrence": 290,
+    "affiliates": [
+        {
+            "facet_id": 6094,
+            "occurrence": 303,
+            "value": "Weissmann, Frieder"
+        },
+        {
+            "facet_id": 19555,
+            "occurrence": 110,
+            "value": "Seinemeyer, Meta"
+        },
+        {
+            "facet_id": 1935,
+            "occurrence": 89,
+            "value": "Wagner, Richard"
+        },
+        {
+            "facet_id": 84,
+            "occurrence": 62,
+            "value": "Verdi, Giuseppe"
+        },
+        {
+            "facet_id": 13779,
+            "occurrence": 29,
+            "value": "Puccini, Giacomo"
+        },
+        {
+            "facet_id": 19556,
+            "occurrence": 29,
+            "value": "Pattiera, Tino"
+        },
+        {
+            "facet_id": 4676,
+            "occurrence": 28,
+            "value": "Andrésen, Ivar"
+        },
+        {
+            "facet_id": 10046,
+            "occurrence": 28,
+            "value": "Burg, Robert"
+        },
+        {
+            "facet_id": 98639,
+            "occurrence": 24,
+            "value": "Jung, Helene"
+        },
+        {
+            "facet_id": 1861,
+            "occurrence": 20,
+            "value": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "facet_id": 263941,
+            "occurrence": 20,
+            "value": "Hirzel, Max"
+        },
+        {
+            "facet_id": 10780,
+            "occurrence": 18,
+            "value": "Bettendorf, Emmy"
+        },
+        {
+            "facet_id": 81714,
+            "occurrence": 15,
+            "value": "Branzell, Karin"
+        },
+        {
+            "facet_id": 4674,
+            "occurrence": 14,
+            "value": "Pilinszky, Zsigmond"
+        },
+        {
+            "facet_id": 28596,
+            "occurrence": 11,
+            "value": "Lehmann, Lotte"
+        },
+        {
+            "facet_id": 119553,
+            "occurrence": 10,
+            "value": "Bäumer, Margarete"
+        },
+        {
+            "facet_id": 126352,
+            "occurrence": 10,
+            "value": "Gläser, John"
+        },
+        {
+            "facet_id": 162501,
+            "occurrence": 10,
+            "value": "Pistor, Gotthelf"
+        },
+        {
+            "facet_id": 250078,
+            "occurrence": 10,
+            "value": "Merrem-Nikisch, Grete"
+        },
+        {
+            "facet_id": 263942,
+            "occurrence": 10,
+            "value": "Bader, Willy"
+        },
+        {
+            "facet_id": 132,
+            "occurrence": 9,
+            "value": "Weber, Carl Maria von"
+        },
+        {
+            "facet_id": 394182,
+            "occurrence": 9,
+            "value": "Oehmann, Carl Martin"
+        },
+        {
+            "facet_id": 7320,
+            "occurrence": 8,
+            "value": "Gounod, Charles"
+        },
+        {
+            "facet_id": 109975,
+            "occurrence": 8,
+            "value": "Giordano, Umberto"
+        },
+        {
+            "facet_id": 6093,
+            "occurrence": 7,
+            "value": "Heckmann-Bettendorf, Emmy"
+        },
+        {
+            "facet_id": 13394,
+            "occurrence": 7,
+            "value": "List, Emanuel"
+        },
+        {
+            "facet_id": 26401,
+            "occurrence": 7,
+            "value": "Strauss, Richard"
+        },
+        {
+            "facet_id": 1936,
+            "occurrence": 6,
+            "value": "Tauber, Richard"
+        },
+        {
+            "facet_id": 98640,
+            "occurrence": 6,
+            "value": "Düttbernd, Fritz"
+        },
+        {
+            "facet_id": 250077,
+            "occurrence": 6,
+            "value": "Staegemann, Waldemar"
+        },
+        {
+            "facet_id": 266424,
+            "occurrence": 6,
+            "value": "Taucher, Curt"
+        },
+        {
+            "facet_id": 395444,
+            "occurrence": 6,
+            "value": "Zohsel, Fritz"
+        },
+        {
+            "facet_id": 787511,
+            "occurrence": 6,
+            "value": "Salvi, Margherita"
+        },
+        {
+            "facet_id": 5849,
+            "occurrence": 5,
+            "value": "Strauß, Johann <Sohn>"
+        },
+        {
+            "facet_id": 6907,
+            "occurrence": 5,
+            "value": "Leoncavallo, Ruggiero"
+        },
+        {
+            "facet_id": 27628,
+            "occurrence": 5,
+            "value": "Rossini, Gioachino"
+        },
+        {
+            "facet_id": 35363,
+            "occurrence": 5,
+            "value": "Bohnen, Michael"
+        },
+        {
+            "facet_id": 202975,
+            "occurrence": 5,
+            "value": "Engel, Werner"
+        },
+        {
+            "facet_id": 5133,
+            "occurrence": 4,
+            "value": "Meyerbeer, Giacomo"
+        },
+        {
+            "facet_id": 7605,
+            "occurrence": 4,
+            "value": "Bizet, Georges"
+        },
+        {
+            "facet_id": 10800,
+            "occurrence": 4,
+            "value": "Beethoven, Ludwig van"
+        },
+        {
+            "facet_id": 18201,
+            "occurrence": 4,
+            "value": "Loewe, Carl"
+        },
+        {
+            "facet_id": 27588,
+            "occurrence": 4,
+            "value": "Larsén-Todsen, Nanny"
+        },
+        {
+            "facet_id": 28595,
+            "occurrence": 4,
+            "value": "Offenbach, Jacques"
+        },
+        {
+            "facet_id": 33862,
+            "occurrence": 4,
+            "value": "Schützendorf, Leo"
+        },
+        {
+            "facet_id": 48488,
+            "occurrence": 4,
+            "value": "Roswaenge, Helge"
+        },
+        {
+            "facet_id": 58364,
+            "occurrence": 4,
+            "value": "Hüsch, Gerhard"
+        },
+        {
+            "facet_id": 85168,
+            "occurrence": 4,
+            "value": "Hofmannsthal, Hugo von"
+        },
+        {
+            "facet_id": 135500,
+            "occurrence": 4,
+            "value": "Stünzner, Elisa"
+        },
+        {
+            "facet_id": 148959,
+            "occurrence": 4,
+            "value": "Rubinštejn, Anton G."
+        },
+        {
+            "facet_id": 153908,
+            "occurrence": 4,
+            "value": "Strauss, Johann"
+        },
+        {
+            "facet_id": 157410,
+            "occurrence": 4,
+            "value": "Minten, Reimer"
+        },
+        {
+            "facet_id": 201263,
+            "occurrence": 4,
+            "value": "Schöffler, Paul"
+        },
+        {
+            "facet_id": 210842,
+            "occurrence": 4,
+            "value": "Schwarz, Vera"
+        },
+        {
+            "facet_id": 340949,
+            "occurrence": 4,
+            "value": "Helletsgruber, Louise"
+        },
+        {
+            "facet_id": 737817,
+            "occurrence": 4,
+            "value": "Jokl, Fritzi"
+        },
+        {
+            "facet_id": 3292,
+            "occurrence": 3,
+            "value": "Schubert, Franz"
+        },
+        {
+            "facet_id": 195105,
+            "occurrence": 3,
+            "value": "Mancke, Grete"
+        },
+        {
+            "facet_id": 551604,
+            "occurrence": 3,
+            "value": "Jonsson, Peter"
+        },
+        {
+            "facet_id": 11078,
+            "occurrence": 2,
+            "value": "Humperdinck, Engelbert"
+        },
+        {
+            "facet_id": 11135,
+            "occurrence": 2,
+            "value": "Habich, Eduard"
+        },
+        {
+            "facet_id": 11928,
+            "occurrence": 2,
+            "value": "Piave, Francesco Maria"
+        },
+        {
+            "facet_id": 12526,
+            "occurrence": 2,
+            "value": "Schumann, Robert"
+        },
+        {
+            "facet_id": 12962,
+            "occurrence": 2,
+            "value": "Mascagni, Pietro"
+        },
+        {
+            "facet_id": 13121,
+            "occurrence": 2,
+            "value": "Kiurina, Bertha"
+        },
+        {
+            "facet_id": 18203,
+            "occurrence": 2,
+            "value": "Rethberg, Elisabeth"
+        },
+        {
+            "facet_id": 20858,
+            "occurrence": 2,
+            "value": "Cajkovskij, Pëtr Il'ic"
+        },
+        {
+            "facet_id": 22740,
+            "occurrence": 2,
+            "value": "Adam, Adolphe"
+        },
+        {
+            "facet_id": 29446,
+            "occurrence": 2,
+            "value": "Albanese, Licia"
+        },
+        {
+            "facet_id": 41251,
+            "occurrence": 2,
+            "value": "Liszt, Franz"
+        },
+        {
+            "facet_id": 61612,
+            "occurrence": 2,
+            "value": "Lindlar, Joseph"
+        },
+        {
+            "facet_id": 75796,
+            "occurrence": 2,
+            "value": "Tosti, Francesco Paolo"
+        },
+        {
+            "facet_id": 77470,
+            "occurrence": 2,
+            "value": "Kienzl, Wilhelm"
+        },
+        {
+            "facet_id": 79337,
+            "occurrence": 2,
+            "value": "Knote, Heinrich"
+        },
+        {
+            "facet_id": 82857,
+            "occurrence": 2,
+            "value": "Schmidt, Joseph"
+        },
+        {
+            "facet_id": 87401,
+            "occurrence": 2,
+            "value": "Krauss, Fritz"
+        },
+        {
+            "facet_id": 110151,
+            "occurrence": 2,
+            "value": "Hildach, Eugen"
+        },
+        {
+            "facet_id": 111013,
+            "occurrence": 2,
+            "value": "Weingartner, Felix"
+        },
+        {
+            "facet_id": 136682,
+            "occurrence": 2,
+            "value": "Jerger, Alfred"
+        },
+        {
+            "facet_id": 140338,
+            "occurrence": 2,
+            "value": "Jockel, Fritzi"
+        },
+        {
+            "facet_id": 154676,
+            "occurrence": 2,
+            "value": "Becce, Giuseppe"
+        },
+        {
+            "facet_id": 179095,
+            "occurrence": 2,
+            "value": "Kiepura, Jan"
+        },
+        {
+            "facet_id": 195103,
+            "occurrence": 2,
+            "value": "Knepel, Else"
+        },
+        {
+            "facet_id": 195104,
+            "occurrence": 2,
+            "value": "Catopol, Elise von"
+        },
+        {
+            "facet_id": 196295,
+            "occurrence": 2,
+            "value": "Gerö, Elisabeth"
+        },
+        {
+            "facet_id": 208620,
+            "occurrence": 2,
+            "value": "Malkin, Berta"
+        },
+        {
+            "facet_id": 209735,
+            "occurrence": 2,
+            "value": "Lange, Hanns"
+        },
+        {
+            "facet_id": 225991,
+            "occurrence": 2,
+            "value": "Kalenberg, Josef"
+        },
+        {
+            "facet_id": 256883,
+            "occurrence": 2,
+            "value": "Kemp, Barbara"
+        },
+        {
+            "facet_id": 274322,
+            "occurrence": 2,
+            "value": "Enderlein, Erik"
+        },
+        {
+            "facet_id": 368825,
+            "occurrence": 2,
+            "value": "Malkin, Beate"
+        },
+        {
+            "facet_id": 372004,
+            "occurrence": 2,
+            "value": "Méhul, Étienne Nicolas"
+        },
+        {
+            "facet_id": 409414,
+            "occurrence": 2,
+            "value": "Wette, Adelheid"
+        },
+        {
+            "facet_id": 585166,
+            "occurrence": 2,
+            "value": "Lissmann, Hans"
+        },
+        {
+            "facet_id": 610094,
+            "occurrence": 2,
+            "value": "Biehler, Franz"
+        },
+        {
+            "facet_id": 854481,
+            "occurrence": 2,
+            "value": "Fetrás, Oscar"
+        },
+        {
+            "facet_id": 871462,
+            "occurrence": 2,
+            "value": "Berlik, Jan"
+        },
+        {
+            "facet_id": 894333,
+            "occurrence": 2,
+            "value": "Piccaluga, Nino"
+        },
+        {
+            "facet_id": 943975,
+            "occurrence": 2,
+            "value": "Pauly, Rose"
+        },
+        {
+            "facet_id": 1107708,
+            "occurrence": 2,
+            "value": "Knothe, Heinrich"
+        }
+    ]
+}

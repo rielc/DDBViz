@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 9,
+    "time_fct": "time_62120",
+    "affiliate_fct_id": 3599,
+    "affiliate_fct": "Universitätsbibliothek Greifswald",
+    "affiliate_fct_occurrence": 547,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 3599,
+            "affiliate_fct": "Universitätsbibliothek Greifswald",
+            "affiliate_fct_occurrence": 547
+        },
+        {
+            "affiliate_fct_id": 3600,
+            "affiliate_fct": "Bogs, Jessica (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 13324,
+            "affiliate_fct": "Hirschnitz-Garbers, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14899,
+            "affiliate_fct": "Schwarz, Philipp",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 15786,
+            "affiliate_fct": "Grieger, Anita (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 17827,
+            "affiliate_fct": "Schulz, Katharina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19428,
+            "affiliate_fct": "Linhart, Carsten (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20731,
+            "affiliate_fct": "Rad, Kathrin von (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 20864,
+            "affiliate_fct": "Krüger, Markus (1977-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 23482,
+            "affiliate_fct": "Maruska, Karin (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30437,
+            "affiliate_fct": "Baudis, Hela",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 40277,
+            "affiliate_fct": "Eick, Andrea (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 45313,
+            "affiliate_fct": "Lau, Katharina (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 77320,
+            "affiliate_fct": "Hoell, Bernadette (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78159,
+            "affiliate_fct": "Schneider, Christian (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 79876,
+            "affiliate_fct": "Hübinger, Lisa",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 80757,
+            "affiliate_fct": "Buras, Allan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 83501,
+            "affiliate_fct": "Kabisch, Johannes Fritz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 93669,
+            "affiliate_fct": "Ittermann, Till (1977-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 99765,
+            "affiliate_fct": "Lange, Julia (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 100451,
+            "affiliate_fct": "Torkler, Sarah Julia (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 109687,
+            "affiliate_fct": "Zollinger, Richard Christoph (1983-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 114966,
+            "affiliate_fct": "Kochanowski, Alexandra (1987-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 127919,
+            "affiliate_fct": "Neumann, Silke (1974-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128036,
+            "affiliate_fct": "Schwarzenberger, Martina (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 128199,
+            "affiliate_fct": "Mühlinghaus, Alexandra",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 139159,
+            "affiliate_fct": "Wunderle, Lydia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 140733,
+            "affiliate_fct": "Weber, Maria",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 141705,
+            "affiliate_fct": "Jaskulsky, Mathis",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 149571,
+            "affiliate_fct": "Schmidt, Katharina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 152799,
+            "affiliate_fct": "Schwebe, Matthias (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 160833,
+            "affiliate_fct": "Block, Stephan (1978-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 166478,
+            "affiliate_fct": "Handrup, Stephan (1983-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 167466,
+            "affiliate_fct": "Ankerhold, Annegret (1966-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 169216,
+            "affiliate_fct": "Naumann, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174748,
+            "affiliate_fct": "Janke, Eva (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 174749,
+            "affiliate_fct": "Utpatel, Kirtsen (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176277,
+            "affiliate_fct": "Skrzipek, Sabine Susanne Nadine (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 176279,
+            "affiliate_fct": "Wilmes, Boris (1977-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 180518,
+            "affiliate_fct": "Craesmeyer, Clara (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 190366,
+            "affiliate_fct": "Fricke, Katja (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 191542,
+            "affiliate_fct": "Hundt, Jana (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192095,
+            "affiliate_fct": "Trinh, Thanh Trung (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192159,
+            "affiliate_fct": "Lapp, Sabine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194095,
+            "affiliate_fct": "Hesse, Matthias (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 194443,
+            "affiliate_fct": "Evert, Katja (1977-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 195121,
+            "affiliate_fct": "Gámez de Armas, Gustavo Adolfo (1977-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 197310,
+            "affiliate_fct": "Werner, Andrea",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 207131,
+            "affiliate_fct": "Ribback, Silvia (1983-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 209887,
+            "affiliate_fct": "Strauß, Olaf (1966-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 210487,
+            "affiliate_fct": "Irmer, Christian Volker (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 212244,
+            "affiliate_fct": "Ritter, Michael",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 215506,
+            "affiliate_fct": "Klinger, Franziska Martha (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 216010,
+            "affiliate_fct": "Jungmeier, Michael (1965-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 219114,
+            "affiliate_fct": "Schurmann, Claudia",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 226797,
+            "affiliate_fct": "Friedrich, Jochen (1975-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 228701,
+            "affiliate_fct": "Nguyen, Thanh Lan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 230959,
+            "affiliate_fct": "Lueke, Sven",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 231939,
+            "affiliate_fct": "Sternkopf, Viviane (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 238425,
+            "affiliate_fct": "Gebhard, Simon (1978-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 240460,
+            "affiliate_fct": "Winter, Theresa (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 243056,
+            "affiliate_fct": "Vogelgesang, Antje",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 244247,
+            "affiliate_fct": "Fuchs, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 245139,
+            "affiliate_fct": "Wohlberg, Verena (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 247670,
+            "affiliate_fct": "Arndt, Matthias (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 253033,
+            "affiliate_fct": "Dominik, Malte Jan (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 256860,
+            "affiliate_fct": "Harms, Manuela (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 257156,
+            "affiliate_fct": "Lorbeer, Roberto (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259111,
+            "affiliate_fct": "Engel, Josefine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 259374,
+            "affiliate_fct": "Bleeke, Matthias",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 264326,
+            "affiliate_fct": "Herrholz, Evelyn (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 265557,
+            "affiliate_fct": "Brautferger, Uta",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 267017,
+            "affiliate_fct": "Asmus, Ariane",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268865,
+            "affiliate_fct": "Bock, Karen (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 269561,
+            "affiliate_fct": "Lichte, Jan Ulrich (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 271112,
+            "affiliate_fct": "Bachmann, Anja (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 272054,
+            "affiliate_fct": "Armstrong, Jeanette Christine",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 280500,
+            "affiliate_fct": "Perner, Kerstin (1983-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 282862,
+            "affiliate_fct": "Hummel, Anke (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 283900,
+            "affiliate_fct": "Kopp, Daniel (1980-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 293553,
+            "affiliate_fct": "Hempel, Kristina",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 296131,
+            "affiliate_fct": "Kersten, Ines",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 297372,
+            "affiliate_fct": "Weigel, Martin (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 302059,
+            "affiliate_fct": "Vahl, Katja",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 302569,
+            "affiliate_fct": "Lauenstein, Ann-Sophie (1982-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 304544,
+            "affiliate_fct": "Davids, Sabine (1979-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 307904,
+            "affiliate_fct": "Ottl, Christian (1976-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310120,
+            "affiliate_fct": "Joseph, Christy (1981-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 310803,
+            "affiliate_fct": "Bui, Khanh Chi",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 311969,
+            "affiliate_fct": "Rüdiger, Andreas Johannes (1983-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313507,
+            "affiliate_fct": "Kühn, Verena (1985-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 322382,
+            "affiliate_fct": "Arndt, Martin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 325185,
+            "affiliate_fct": "Wisotzki, Christian",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 325751,
+            "affiliate_fct": "Oberstadt, Moritz Caspar Franz (1987-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 325756,
+            "affiliate_fct": "Czekay, Susann",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 328343,
+            "affiliate_fct": "Groß, Raoul (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 330006,
+            "affiliate_fct": "Konzack, Silke (1984-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 332745,
+            "affiliate_fct": "Altarabulsi, Mhd Basel (1985-)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 344350,
+            "affiliate_fct": "Richter, Jan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 344885,
+            "affiliate_fct": "Spoerl, Mark-Christopher (1985-)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

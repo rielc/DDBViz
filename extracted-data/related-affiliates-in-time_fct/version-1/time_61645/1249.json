@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61645",
+    "affiliate_facet_id": 1249,
+    "affiliate_facet": "Gymnicus",
+    "occurrence": 195,
+    "affiliates": [
+        {
+            "facet_id": 1249,
+            "occurrence": 199,
+            "value": "Erasmus, Desiderius (1469-1536)"
+        },
+        {
+            "facet_id": 275,
+            "occurrence": 20,
+            "value": "Froben"
+        },
+        {
+            "facet_id": 1248,
+            "occurrence": 19,
+            "value": "Augustinus, Aurelius (354-430)"
+        },
+        {
+            "facet_id": 4138,
+            "occurrence": 17,
+            "value": "Terentius Afer, Publius (v195-v159)"
+        },
+        {
+            "facet_id": 1250,
+            "occurrence": 15,
+            "value": "Lipsius, Martin (1492-1555)"
+        },
+        {
+            "facet_id": 1839,
+            "occurrence": 15,
+            "value": "Melanchthon, Philipp (1497-1560)"
+        },
+        {
+            "facet_id": 276,
+            "occurrence": 12,
+            "value": "Cicero, Marcus Tullius (v106-v43)"
+        },
+        {
+            "facet_id": 21650,
+            "occurrence": 10,
+            "value": "Cato, Marcus Porcius <Censorius> (v234-v149)"
+        },
+        {
+            "facet_id": 3016,
+            "occurrence": 9,
+            "value": "Hieronymus, Sophronius Eusebius (345-420)"
+        },
+        {
+            "facet_id": 20448,
+            "occurrence": 9,
+            "value": "Frobenius"
+        },
+        {
+            "facet_id": 27838,
+            "occurrence": 9,
+            "value": "Cato, Dionysius"
+        },
+        {
+            "facet_id": 104795,
+            "occurrence": 9,
+            "value": "Lorich, Reinhard (1510-1564)"
+        },
+        {
+            "facet_id": 116250,
+            "occurrence": 9,
+            "value": "Pantaleon, Heinrich (1522-1595)"
+        },
+        {
+            "facet_id": 6204,
+            "occurrence": 8,
+            "value": "Horst"
+        },
+        {
+            "facet_id": 26765,
+            "occurrence": 7,
+            "value": "Fabricius"
+        },
+        {
+            "facet_id": 59806,
+            "occurrence": 7,
+            "value": "Publilius <Syrus> (ca. 1. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 1267,
+            "occurrence": 6,
+            "value": "Gymnicus"
+        },
+        {
+            "facet_id": 2375,
+            "occurrence": 6,
+            "value": "Manger"
+        },
+        {
+            "facet_id": 3556,
+            "occurrence": 6,
+            "value": "Manuzio, Paolo (1512-1574)"
+        },
+        {
+            "facet_id": 15468,
+            "occurrence": 5,
+            "value": "Velcurio, Johannes (1490-1534)"
+        },
+        {
+            "facet_id": 15051,
+            "occurrence": 4,
+            "value": "Fabricius, Georg (1516-1571)"
+        },
+        {
+            "facet_id": 42275,
+            "occurrence": 4,
+            "value": "Isocrates (v436-v338)"
+        },
+        {
+            "facet_id": 52418,
+            "occurrence": 4,
+            "value": "Bryling"
+        },
+        {
+            "facet_id": 270640,
+            "occurrence": 4,
+            "value": "Payen"
+        },
+        {
+            "facet_id": 17091,
+            "occurrence": 3,
+            "value": "Birck, Sixt (1501-1554)"
+        },
+        {
+            "facet_id": 19524,
+            "occurrence": 3,
+            "value": "Plautus, Titus Maccius (ca. 254 v. Chr.-184 v. Chr.)"
+        },
+        {
+            "facet_id": 20985,
+            "occurrence": 3,
+            "value": "Hegendorph, Christoph (1500-1540)"
+        },
+        {
+            "facet_id": 30977,
+            "occurrence": 3,
+            "value": "Ramus, Petrus (1515-1572)"
+        },
+        {
+            "facet_id": 37103,
+            "occurrence": 3,
+            "value": "Egnazio, Giovanni Battista (1478-1553)"
+        },
+        {
+            "facet_id": 70226,
+            "occurrence": 3,
+            "value": "Ausonius, Decimus Magnus (310-395)"
+        },
+        {
+            "facet_id": 79142,
+            "occurrence": 3,
+            "value": "Tappe, Eberhard"
+        },
+        {
+            "facet_id": 84429,
+            "occurrence": 3,
+            "value": "Brylinger"
+        },
+        {
+            "facet_id": 99577,
+            "occurrence": 3,
+            "value": "Frobenivs Et Episcopivs"
+        },
+        {
+            "facet_id": 173,
+            "occurrence": 2,
+            "value": "Cholinus"
+        },
+        {
+            "facet_id": 1506,
+            "occurrence": 2,
+            "value": "Egenolphus"
+        },
+        {
+            "facet_id": 2409,
+            "occurrence": 2,
+            "value": "Suetonius Tranquillus, Gaius (70-150)"
+        },
+        {
+            "facet_id": 2734,
+            "occurrence": 2,
+            "value": "Rivius, Johann <Pädagoge, 1500-1553> (1500-1553)"
+        },
+        {
+            "facet_id": 7039,
+            "occurrence": 2,
+            "value": "Egenolph"
+        },
+        {
+            "facet_id": 15784,
+            "occurrence": 2,
+            "value": "Lykosthenes, Konrad (1518-1561)"
+        },
+        {
+            "facet_id": 17516,
+            "occurrence": 2,
+            "value": "Vives, Juan Luis (1492-1540)"
+        },
+        {
+            "facet_id": 18778,
+            "occurrence": 2,
+            "value": "Steinman"
+        },
+        {
+            "facet_id": 20401,
+            "occurrence": 2,
+            "value": "Seneca, Lucius Annaeus <Philosophus> (v4-65)"
+        },
+        {
+            "facet_id": 23860,
+            "occurrence": 2,
+            "value": "Rihel"
+        },
+        {
+            "facet_id": 46754,
+            "occurrence": 2,
+            "value": "Olivet, Pierre Joseph d' (1682-1768)"
+        },
+        {
+            "facet_id": 47369,
+            "occurrence": 2,
+            "value": "Longueil, Gilbert de (1507-1543)"
+        },
+        {
+            "facet_id": 49118,
+            "occurrence": 2,
+            "value": "Froschauer"
+        },
+        {
+            "facet_id": 51501,
+            "occurrence": 2,
+            "value": "Cyprianus, Thascius Caecilius (200-258)"
+        },
+        {
+            "facet_id": 57029,
+            "occurrence": 2,
+            "value": "Gelen, Sigmund (1497-1554)"
+        },
+        {
+            "facet_id": 79381,
+            "occurrence": 2,
+            "value": "Vincentius"
+        },
+        {
+            "facet_id": 81232,
+            "occurrence": 2,
+            "value": "Hoffmannus"
+        },
+        {
+            "facet_id": 104697,
+            "occurrence": 2,
+            "value": "Celtis, Konrad (1459-1508)"
+        },
+        {
+            "facet_id": 175362,
+            "occurrence": 2,
+            "value": "Neuber"
+        },
+        {
+            "facet_id": 282580,
+            "occurrence": 2,
+            "value": "Hervagius & Brand"
+        },
+        {
+            "facet_id": 292428,
+            "occurrence": 2,
+            "value": "Novicampianus, Albertus"
+        },
+        {
+            "facet_id": 310252,
+            "occurrence": 2,
+            "value": "Baudouin, Pierre"
+        },
+        {
+            "facet_id": 803106,
+            "occurrence": 2,
+            "value": "Frobenius Et Episcopius"
+        },
+        {
+            "facet_id": 174,
+            "occurrence": 1,
+            "value": "Latomus, Bartholomaeus (1485-1570)"
+        },
+        {
+            "facet_id": 212,
+            "occurrence": 1,
+            "value": "Luther, Martin"
+        },
+        {
+            "facet_id": 244,
+            "occurrence": 1,
+            "value": "Plutarchus (45-120)"
+        },
+        {
+            "facet_id": 884,
+            "occurrence": 1,
+            "value": "Luther, Martin (1483-1546)"
+        },
+        {
+            "facet_id": 1718,
+            "occurrence": 1,
+            "value": "Petri"
+        },
+        {
+            "facet_id": 1765,
+            "occurrence": 1,
+            "value": "Telesio, Antonio (1482-1533)"
+        },
+        {
+            "facet_id": 2184,
+            "occurrence": 1,
+            "value": "Episcopius"
+        },
+        {
+            "facet_id": 3450,
+            "occurrence": 1,
+            "value": "Soter"
+        },
+        {
+            "facet_id": 3624,
+            "occurrence": 1,
+            "value": "Schott"
+        },
+        {
+            "facet_id": 4064,
+            "occurrence": 1,
+            "value": "(Lechler)"
+        },
+        {
+            "facet_id": 4883,
+            "occurrence": 1,
+            "value": "Flacius, Matthias (1520-1575)"
+        },
+        {
+            "facet_id": 4979,
+            "occurrence": 1,
+            "value": "[Egenolff]"
+        },
+        {
+            "facet_id": 5505,
+            "occurrence": 1,
+            "value": "Horatius Flaccus, Quintus (v65-v8)"
+        },
+        {
+            "facet_id": 5546,
+            "occurrence": 1,
+            "value": "Vergilius Maro, Publius (v70-v19)"
+        },
+        {
+            "facet_id": 5651,
+            "occurrence": 1,
+            "value": "Froben et Episcopius"
+        },
+        {
+            "facet_id": 5653,
+            "occurrence": 1,
+            "value": "Rhenanus, Beatus (1485-1547)"
+        },
+        {
+            "facet_id": 6348,
+            "occurrence": 1,
+            "value": "Weissenhorn"
+        },
+        {
+            "facet_id": 8168,
+            "occurrence": 1,
+            "value": "Gessner"
+        },
+        {
+            "facet_id": 9902,
+            "occurrence": 1,
+            "value": "Sturm, Johann"
+        },
+        {
+            "facet_id": 10081,
+            "occurrence": 1,
+            "value": "Egenolff"
+        },
+        {
+            "facet_id": 11734,
+            "occurrence": 1,
+            "value": "Theodorus <Gaza> (1398-1476)"
+        },
+        {
+            "facet_id": 12047,
+            "occurrence": 1,
+            "value": "Perna"
+        },
+        {
+            "facet_id": 12658,
+            "occurrence": 1,
+            "value": "Hutten, Ulrich von (1488-1523)"
+        },
+        {
+            "facet_id": 14367,
+            "occurrence": 1,
+            "value": "Wechelus"
+        },
+        {
+            "facet_id": 14923,
+            "occurrence": 1,
+            "value": "Froschouer"
+        },
+        {
+            "facet_id": 14924,
+            "occurrence": 1,
+            "value": "Gwalther, Rudolf (1519-1586)"
+        },
+        {
+            "facet_id": 15446,
+            "occurrence": 1,
+            "value": "Josephus, Flavius (37/38-100)"
+        },
+        {
+            "facet_id": 17821,
+            "occurrence": 1,
+            "value": "Voegelinus"
+        },
+        {
+            "facet_id": 18362,
+            "occurrence": 1,
+            "value": "Zetznerus"
+        },
+        {
+            "facet_id": 18872,
+            "occurrence": 1,
+            "value": "Othmar"
+        },
+        {
+            "facet_id": 19056,
+            "occurrence": 1,
+            "value": "Brunfels, Otto (1488-1534)"
+        },
+        {
+            "facet_id": 21154,
+            "occurrence": 1,
+            "value": "Eichorn"
+        },
+        {
+            "facet_id": 22804,
+            "occurrence": 1,
+            "value": "Guntherus"
+        },
+        {
+            "facet_id": 23451,
+            "occurrence": 1,
+            "value": "Oliver, Pedro Juan (fl. 1535-1543)"
+        },
+        {
+            "facet_id": 24025,
+            "occurrence": 1,
+            "value": "Francus"
+        },
+        {
+            "facet_id": 25320,
+            "occurrence": 1,
+            "value": "Marso, Pietro (1442-1510)"
+        },
+        {
+            "facet_id": 25964,
+            "occurrence": 1,
+            "value": "Fuhrmann"
+        },
+        {
+            "facet_id": 26477,
+            "occurrence": 1,
+            "value": "Arnobius <Iunior> (ca. 5. Jh.)"
+        },
+        {
+            "facet_id": 27740,
+            "occurrence": 1,
+            "value": "Frosch[auer]"
+        },
+        {
+            "facet_id": 28037,
+            "occurrence": 1,
+            "value": "[Beck]"
+        },
+        {
+            "facet_id": 28659,
+            "occurrence": 1,
+            "value": "Vögelin"
+        },
+        {
+            "facet_id": 33641,
+            "occurrence": 1,
+            "value": "Papa"
+        },
+        {
+            "facet_id": 34241,
+            "occurrence": 1,
+            "value": "Sichard, Johann (1499-1552)"
+        },
+        {
+            "facet_id": 36918,
+            "occurrence": 1,
+            "value": "Baumannus"
+        }
+    ]
+}

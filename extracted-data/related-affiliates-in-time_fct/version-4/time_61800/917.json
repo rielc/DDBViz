@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 12,
+    "time_fct": "time_61800",
+    "affiliate_fct_id": 917,
+    "affiliate_fct": "Bayerisches Nationalmuseum (München)",
+    "affiliate_fct_occurrence": 1302,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 917,
+            "affiliate_fct": "Bayerisches Nationalmuseum (München)",
+            "affiliate_fct_occurrence": 1302
+        },
+        {
+            "affiliate_fct_id": 33157,
+            "affiliate_fct": "Elhafen, Ignaz",
+            "affiliate_fct_occurrence": 22
+        },
+        {
+            "affiliate_fct_id": 19610,
+            "affiliate_fct": "Bustelli, Franz Anton",
+            "affiliate_fct_occurrence": 21
+        },
+        {
+            "affiliate_fct_id": 16571,
+            "affiliate_fct": "Günther, Ignaz",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 54531,
+            "affiliate_fct": "Wagner, Peter (2)",
+            "affiliate_fct_occurrence": 14
+        },
+        {
+            "affiliate_fct_id": 19609,
+            "affiliate_fct": "Nymphenburger Porzellanmanufaktur",
+            "affiliate_fct_occurrence": 12
+        },
+        {
+            "affiliate_fct_id": 26088,
+            "affiliate_fct": "Melchior, Johann Peter",
+            "affiliate_fct_occurrence": 11
+        },
+        {
+            "affiliate_fct_id": 50595,
+            "affiliate_fct": "Leoni, Antonio (1704)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 242322,
+            "affiliate_fct": "Wedgwood, Josiah",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 502506,
+            "affiliate_fct": "Troger, Simon",
+            "affiliate_fct_occurrence": 8
+        },
+        {
+            "affiliate_fct_id": 214536,
+            "affiliate_fct": "Hannong, Joseph Adam",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 82127,
+            "affiliate_fct": "Hillebrand, Ignaz",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 171209,
+            "affiliate_fct": "Lücke, Carl Gottlieb",
+            "affiliate_fct_occurrence": 6
+        },
+        {
+            "affiliate_fct_id": 627,
+            "affiliate_fct": "Straub, Johann Baptist",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 28620,
+            "affiliate_fct": "Kändler, Johann Joachim",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 84186,
+            "affiliate_fct": "Hagen, Franz",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 100254,
+            "affiliate_fct": "Linck, Konrad",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 4337,
+            "affiliate_fct": "Candid, Peter",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 5040,
+            "affiliate_fct": "Puchwiser, Johann",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 66412,
+            "affiliate_fct": "Auliczek, Dominik",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 245951,
+            "affiliate_fct": "Schreiber, Johann Theophil",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 26087,
+            "affiliate_fct": "Frankenthaler Porzellanmanufaktur",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 38456,
+            "affiliate_fct": "Bellucci, Antonio",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 38501,
+            "affiliate_fct": "Dirr, Johann Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 38502,
+            "affiliate_fct": "Wieland, Johann Georg",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 52594,
+            "affiliate_fct": "Houdon, Jean-Antoine",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 58906,
+            "affiliate_fct": "Lang, Franz Thaddäus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 101039,
+            "affiliate_fct": "Eberlein, Johann Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 114692,
+            "affiliate_fct": "Stainhart, Dominicus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 119600,
+            "affiliate_fct": "Deutschmann, Joseph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 151146,
+            "affiliate_fct": "Gotzkowsky, ? (1765)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 192997,
+            "affiliate_fct": "Chédeville, Joseph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 226638,
+            "affiliate_fct": "Grupello, Gabriel",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 278261,
+            "affiliate_fct": "Eichler, Heinrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 278262,
+            "affiliate_fct": "Schöner, Christoph",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 334168,
+            "affiliate_fct": "Thelott, Johann Andreas",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 334951,
+            "affiliate_fct": "Manufaktur de la Rheine",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 355615,
+            "affiliate_fct": "Soldani, Massimiliano",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 426648,
+            "affiliate_fct": "Perlthaler, Anton",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 666293,
+            "affiliate_fct": "Grauppensberg, Vitus",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 844386,
+            "affiliate_fct": "Ardin, Johann Friedrich",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 924816,
+            "affiliate_fct": "Desportes, François (1661",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1167698,
+            "affiliate_fct": "Fabrik Nast",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 916,
+            "affiliate_fct": "Asam, Egid Quirin",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1766,
+            "affiliate_fct": "Heß, Georg Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 4476,
+            "affiliate_fct": "Carlone, Diego Francesco",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 9379,
+            "affiliate_fct": "Cuvilliés, François de (der Ältere)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 14072,
+            "affiliate_fct": "Wisser, Johann Anton",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21633,
+            "affiliate_fct": "Hetzel, Cajetan",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30463,
+            "affiliate_fct": "Höchster Porzellanmanufaktur",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 33170,
+            "affiliate_fct": "Meyer, Friedrich Elias (der Ältere)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 39695,
+            "affiliate_fct": "Jorhan, Christian (der Ältere)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46365,
+            "affiliate_fct": "Wagner, Peter (1730)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 53969,
+            "affiliate_fct": "Ziesenis, Johann Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 62577,
+            "affiliate_fct": "Louis, Jean Jacques",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 64480,
+            "affiliate_fct": "Horemans, Peter Jacob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69382,
+            "affiliate_fct": "Damm, ? (1958)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 76861,
+            "affiliate_fct": "Händt, L. von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84447,
+            "affiliate_fct": "Mildner, Johann Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 89142,
+            "affiliate_fct": "Schneider, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 109191,
+            "affiliate_fct": "Götsch, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 142140,
+            "affiliate_fct": "Monogrammist A. H. (1801-1900)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 146655,
+            "affiliate_fct": "Acier, Michel Victor",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 150253,
+            "affiliate_fct": "Edlinger, Johann Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 202879,
+            "affiliate_fct": "Feilner, Simon",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 203833,
+            "affiliate_fct": "Pynacker, Adriaen",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 210482,
+            "affiliate_fct": "Wasner, Johann Benedikt",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 231210,
+            "affiliate_fct": "Eberlein, ?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 237351,
+            "affiliate_fct": "Scheufel, Joseph Ignaz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 240491,
+            "affiliate_fct": "Enderlein, Caspar",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 252470,
+            "affiliate_fct": "Foggini, Giovanni Battista",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 252807,
+            "affiliate_fct": "Zeggein, Max Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 268384,
+            "affiliate_fct": "Oegg, Johann Georg",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 290196,
+            "affiliate_fct": "Manufaktur Sautigny",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 321785,
+            "affiliate_fct": "Keßler, Franz (1652)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 345242,
+            "affiliate_fct": "Bergoni, M. A.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 348918,
+            "affiliate_fct": "Auer, Jakob",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 351789,
+            "affiliate_fct": "Lücke, Johann Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 365729,
+            "affiliate_fct": "Lücke, Johann Christoph Ludwig von",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 370165,
+            "affiliate_fct": "Groff, Guillielmus de",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 377992,
+            "affiliate_fct": "Sporrer, Fidelis",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 390822,
+            "affiliate_fct": "Messerschmidt, Franz Xaver",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 400003,
+            "affiliate_fct": "Boucher, Étienne-Nicolas",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 401365,
+            "affiliate_fct": "Bachelier, Jean-Jacques",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 430026,
+            "affiliate_fct": "Zeschinger, Johannes",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 444066,
+            "affiliate_fct": "Johann Wilhelm (Pfalz-Neuburg, Kurfürst)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 446316,
+            "affiliate_fct": "Meyer, ?",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 449970,
+            "affiliate_fct": "Ceracchi, Giuseppe",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 454423,
+            "affiliate_fct": "Adam, Elias",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 478124,
+            "affiliate_fct": "Borcht, Jaspar van der",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 486663,
+            "affiliate_fct": "Auliczek, Dominikus (1734)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 490643,
+            "affiliate_fct": "Jüchzer, Christian Gottfried",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 493614,
+            "affiliate_fct": "Grebner, Georg Friedrich",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 509486,
+            "affiliate_fct": "Stephan, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 515896,
+            "affiliate_fct": "Gitzl, Joachim",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 515897,
+            "affiliate_fct": "Rinspacher, Franz",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 534702,
+            "affiliate_fct": "Saurle, Joseph",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 597593,
+            "affiliate_fct": "La Rosée, Johann Caspar (Reichsgraf)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 629667,
+            "affiliate_fct": "Wenger, Gregor Ferdinand",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 647863,
+            "affiliate_fct": "Pfau, Hans Heinrich (1702)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

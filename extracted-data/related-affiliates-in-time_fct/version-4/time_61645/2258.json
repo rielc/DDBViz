@@ -1,0 +1,449 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61645",
+    "affiliate_fct_id": 2258,
+    "affiliate_fct": "Stephanus",
+    "affiliate_fct_occurrence": 168,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 2258,
+            "affiliate_fct": "Stephanus",
+            "affiliate_fct_occurrence": 168
+        },
+        {
+            "affiliate_fct_id": 24049,
+            "affiliate_fct": "Estienne, Henri (1531-1598)",
+            "affiliate_fct_occurrence": 58
+        },
+        {
+            "affiliate_fct_id": 244,
+            "affiliate_fct": "Plutarchus (45-120)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 276,
+            "affiliate_fct": "Cicero, Marcus Tullius (v106-v43)",
+            "affiliate_fct_occurrence": 13
+        },
+        {
+            "affiliate_fct_id": 21783,
+            "affiliate_fct": "Bèze, Théodore de (1519-1605)",
+            "affiliate_fct_occurrence": 10
+        },
+        {
+            "affiliate_fct_id": 55360,
+            "affiliate_fct": "Calvin, Jean (1509-1564)",
+            "affiliate_fct_occurrence": 9
+        },
+        {
+            "affiliate_fct_id": 195557,
+            "affiliate_fct": "Maximus <Tyrius> (125-185)",
+            "affiliate_fct_occurrence": 7
+        },
+        {
+            "affiliate_fct_id": 10583,
+            "affiliate_fct": "Cassius <Dio> (163-235)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 66146,
+            "affiliate_fct": "Estienne, Robert (1503-1559)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 244294,
+            "affiliate_fct": "Pazzi, Cosimo (-1513)",
+            "affiliate_fct_occurrence": 5
+        },
+        {
+            "affiliate_fct_id": 3427,
+            "affiliate_fct": "Xylander, Wilhelm (1532-1576)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 5762,
+            "affiliate_fct": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 42601,
+            "affiliate_fct": "Viret, Pierre (1511-1571)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 126502,
+            "affiliate_fct": "Vatablus, Franciscus (1493-1547)",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 350667,
+            "affiliate_fct": "[Genevae]",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 350668,
+            "affiliate_fct": "Estienne, Henri",
+            "affiliate_fct_occurrence": 4
+        },
+        {
+            "affiliate_fct_id": 1097,
+            "affiliate_fct": "Aristoteles (v384-v322)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 10502,
+            "affiliate_fct": "Scaliger, Joseph Juste (1540-1609)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 22328,
+            "affiliate_fct": "Hotman, François (1524-1590)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 37440,
+            "affiliate_fct": "Theophrastus (v369-v288)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 94040,
+            "affiliate_fct": "Pagnini, Sante (1470-1536)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 144423,
+            "affiliate_fct": "Mercier, Jean (1545-1600)",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 1932,
+            "affiliate_fct": "Herodotus (v485-v425)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 2546,
+            "affiliate_fct": "Homerus (ca. 8. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 5041,
+            "affiliate_fct": "Pindarus (v522-v445)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 8920,
+            "affiliate_fct": "Mela, Pomponius (ca. 1. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 10315,
+            "affiliate_fct": "Xenophon (v. 430-v. 355)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 11660,
+            "affiliate_fct": "Diogenes <Laertius> (ca. 3. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 18652,
+            "affiliate_fct": "Arrianus, Flavius (95-175)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 20508,
+            "affiliate_fct": "Hesiodus (ca. 8./7. Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 21563,
+            "affiliate_fct": "Wolf, Hieronymus (1516-1580)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 23861,
+            "affiliate_fct": "Bucer, Martin (1491-1551)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 25901,
+            "affiliate_fct": "Politianus, Angelus (1454-1494)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 31811,
+            "affiliate_fct": "Valla, Laurentius (1407-1457)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 102582,
+            "affiliate_fct": "Dionysius <Periegeta> (ca. 1./2. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 107468,
+            "affiliate_fct": "Herodianus <Historicus> (ca. 2./3. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 130715,
+            "affiliate_fct": "Vulcanius, Bonaventura (1538-1614)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 146776,
+            "affiliate_fct": "Eustathius <Thessalonicensis> (1115-1195)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 262003,
+            "affiliate_fct": "Johannes <Xiphilinus, Iunior> (ca. 11. Jh.)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 262004,
+            "affiliate_fct": "Le Blanc, Guillaume (-1588)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 400297,
+            "affiliate_fct": "Bonnefoy, Ennemond (1536-1574)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 1983,
+            "affiliate_fct": "Dionysius <Halicarnassensis> (ca. 1.Jh. v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 3291,
+            "affiliate_fct": "Vettori, Pietro (1499-1585)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 6124,
+            "affiliate_fct": "Appianus (ca. 2. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 7694,
+            "affiliate_fct": "Sophocles (ca. 496/97 v. Chr.-406/05 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 10467,
+            "affiliate_fct": "Plato (v427-v347)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19104,
+            "affiliate_fct": "Thucydides (v460-v400)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 19998,
+            "affiliate_fct": "Nonnus <Panopolitanus> (400-471)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21361,
+            "affiliate_fct": "Camerarius, Joachim (1500-1574)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 21650,
+            "affiliate_fct": "Cato, Marcus Porcius <Censorius> (v234-v149)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 24755,
+            "affiliate_fct": "Themistius (317-388)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 27838,
+            "affiliate_fct": "Cato, Dionysius",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 30203,
+            "affiliate_fct": "Varro, Marcus Terentius (v116-v27)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 31308,
+            "affiliate_fct": "Chevalier, Antoine Rodolphe (1507-1572)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 42275,
+            "affiliate_fct": "Isocrates (v436-v338)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 46846,
+            "affiliate_fct": "Ibn-ʿEzra, Avraham Ben-Meʾir (1089-1164)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 47175,
+            "affiliate_fct": "Rhodoman, Lorenz (1546-1606)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 50358,
+            "affiliate_fct": "Ennius, Quintus (v239-v169)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 52686,
+            "affiliate_fct": "Turnèbe, Adrien (1512-1565)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 54490,
+            "affiliate_fct": "Basilius <Caesariensis> (330-379)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 55553,
+            "affiliate_fct": "Buchanan, George (1506-1582)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 67682,
+            "affiliate_fct": "Serres, Jean de (1540-1598)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 68916,
+            "affiliate_fct": "Lambin, Denys (1520-1572)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 69240,
+            "affiliate_fct": "Aeschines <Orator> (ca. ca. 389 v. Chr.-ca. 314 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 77312,
+            "affiliate_fct": "Tremellius, Immanuel (1510-1580)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 78449,
+            "affiliate_fct": "Agustín, Antonio (1517-1586)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 83348,
+            "affiliate_fct": "Paulus <Apostel> (ca. 1. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 84989,
+            "affiliate_fct": "Ḳimḥi, Daṿid (1160-1235)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 97179,
+            "affiliate_fct": "Athanasius <Alexandrinus> (295-373)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 102008,
+            "affiliate_fct": "Parrasio, Aulo Giano (1470-1522)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120131,
+            "affiliate_fct": "Eudokia <Byzantinisches Reich, Kaiserin, 400-460> (400-460)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 120132,
+            "affiliate_fct": "Proba, Faltonia Betitia (ca. 4./5. Jh.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 141605,
+            "affiliate_fct": "Belon, Pierre",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 185241,
+            "affiliate_fct": "Campana, Francesco",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 211638,
+            "affiliate_fct": "Habakuk (um 626 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 291304,
+            "affiliate_fct": "Lucilius, Gaius (v180-v103)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 313184,
+            "affiliate_fct": "Accius, Lucius (ca. ca. 170 v. Chr. - 85 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 391795,
+            "affiliate_fct": "Baccanelli, Giovanni Battista (1508 ca.-1571)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 433218,
+            "affiliate_fct": "Naevius, Gnaeus (270-201v.Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 449135,
+            "affiliate_fct": "Johannes <Xiphilinus> (1010-1075)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471733,
+            "affiliate_fct": "Caecilius <Statius> (ca. ca. 220/225 vor Chr.-ca. 168 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471734,
+            "affiliate_fct": "Afranius, Lucius (ca. um 110 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471735,
+            "affiliate_fct": "Laberius, Decimus (v106-43)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 471736,
+            "affiliate_fct": "Pacuvius, Marcus (ca. ca. 220 v. Chr.-ca. 130 v. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 709398,
+            "affiliate_fct": "Henricus, Stephanus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 873949,
+            "affiliate_fct": "Memnon <Heracleensis> (ca. 1. Jh. v. Chr./1. Jh. n. Chr.)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1011828,
+            "affiliate_fct": "Cevallerius, Antonius R.",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 1163554,
+            "affiliate_fct": "Ibn-Balʿam, Yehûdā Ben-Šemû'ēl",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

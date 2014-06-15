@@ -1,0 +1,509 @@
+{
+    "time_fct_id": 25,
+    "time_fct": "time_61605",
+    "affiliate_facet_id": 5762,
+    "affiliate_facet": "Bayerisches Nationalmuseum (München)",
+    "occurrence": 817,
+    "affiliates": [
+        {
+            "facet_id": 5762,
+            "occurrence": 134,
+            "value": "Max-Planck-Institut für Wissenschaftsgeschichte, Bibliothek"
+        },
+        {
+            "facet_id": 16760,
+            "occurrence": 17,
+            "value": "Venetia"
+        },
+        {
+            "facet_id": 80867,
+            "occurrence": 8,
+            "value": "Venetiis"
+        },
+        {
+            "facet_id": 55988,
+            "occurrence": 7,
+            "value": "Basileae"
+        },
+        {
+            "facet_id": 19446,
+            "occurrence": 6,
+            "value": "Basel"
+        },
+        {
+            "facet_id": 59571,
+            "occurrence": 6,
+            "value": "Euclides"
+        },
+        {
+            "facet_id": 60549,
+            "occurrence": 6,
+            "value": "Concordia"
+        },
+        {
+            "facet_id": 64064,
+            "occurrence": 6,
+            "value": "Vinegia"
+        },
+        {
+            "facet_id": 34864,
+            "occurrence": 5,
+            "value": "Finé, Oronce"
+        },
+        {
+            "facet_id": 58807,
+            "occurrence": 5,
+            "value": "Parisiis"
+        },
+        {
+            "facet_id": 64352,
+            "occurrence": 5,
+            "value": "DelMonte, Guidubaldo"
+        },
+        {
+            "facet_id": 682120,
+            "occurrence": 5,
+            "value": "Tartaglia, Niccolò"
+        },
+        {
+            "facet_id": 1718,
+            "occurrence": 4,
+            "value": "Petri"
+        },
+        {
+            "facet_id": 2258,
+            "occurrence": 4,
+            "value": "Stephanus"
+        },
+        {
+            "facet_id": 92232,
+            "occurrence": 4,
+            "value": "Marescotti"
+        },
+        {
+            "facet_id": 350667,
+            "occurrence": 4,
+            "value": "[Genevae]"
+        },
+        {
+            "facet_id": 350668,
+            "occurrence": 4,
+            "value": "Estienne, Henri"
+        },
+        {
+            "facet_id": 4951,
+            "occurrence": 3,
+            "value": "Paris"
+        },
+        {
+            "facet_id": 6887,
+            "occurrence": 3,
+            "value": "Wechel"
+        },
+        {
+            "facet_id": 17085,
+            "occurrence": 3,
+            "value": "Ziletti"
+        },
+        {
+            "facet_id": 34865,
+            "occurrence": 3,
+            "value": "Lutetiae"
+        },
+        {
+            "facet_id": 54178,
+            "occurrence": 3,
+            "value": "Giunti"
+        },
+        {
+            "facet_id": 77803,
+            "occurrence": 3,
+            "value": "Antverpiae"
+        },
+        {
+            "facet_id": 129890,
+            "occurrence": 3,
+            "value": "Romae"
+        },
+        {
+            "facet_id": 270497,
+            "occurrence": 3,
+            "value": "Fiorenza"
+        },
+        {
+            "facet_id": 331186,
+            "occurrence": 3,
+            "value": "Roma"
+        },
+        {
+            "facet_id": 502251,
+            "occurrence": 3,
+            "value": "Urbino"
+        },
+        {
+            "facet_id": 613609,
+            "occurrence": 3,
+            "value": "Benedetti, Giovanni Battista de"
+        },
+        {
+            "facet_id": 636976,
+            "occurrence": 3,
+            "value": "Piccolomini, Alessandro"
+        },
+        {
+            "facet_id": 830821,
+            "occurrence": 3,
+            "value": "Troiano"
+        },
+        {
+            "facet_id": 1481,
+            "occurrence": 2,
+            "value": "Plantin"
+        },
+        {
+            "facet_id": 5763,
+            "occurrence": 2,
+            "value": "Noribergae"
+        },
+        {
+            "facet_id": 9196,
+            "occurrence": 2,
+            "value": "Mylius"
+        },
+        {
+            "facet_id": 34554,
+            "occurrence": 2,
+            "value": "Venedig"
+        },
+        {
+            "facet_id": 34866,
+            "occurrence": 2,
+            "value": "Vascosanus"
+        },
+        {
+            "facet_id": 39716,
+            "occurrence": 2,
+            "value": "Herwagen"
+        },
+        {
+            "facet_id": 60413,
+            "occurrence": 2,
+            "value": "Senese"
+        },
+        {
+            "facet_id": 64062,
+            "occurrence": 2,
+            "value": "Vegetius Renatus, Flavius"
+        },
+        {
+            "facet_id": 64351,
+            "occurrence": 2,
+            "value": "Pisauri"
+        },
+        {
+            "facet_id": 73326,
+            "occurrence": 2,
+            "value": "Manutius"
+        },
+        {
+            "facet_id": 83251,
+            "occurrence": 2,
+            "value": "Curtius"
+        },
+        {
+            "facet_id": 85029,
+            "occurrence": 2,
+            "value": "Bononiae"
+        },
+        {
+            "facet_id": 90129,
+            "occurrence": 2,
+            "value": "Gallucci, Giovanni Paolo"
+        },
+        {
+            "facet_id": 90390,
+            "occurrence": 2,
+            "value": "Besson, Jacques"
+        },
+        {
+            "facet_id": 91207,
+            "occurrence": 2,
+            "value": "Cardano, Geronimo"
+        },
+        {
+            "facet_id": 110569,
+            "occurrence": 2,
+            "value": "Cataneo, Girolamo"
+        },
+        {
+            "facet_id": 110799,
+            "occurrence": 2,
+            "value": "Cavellat"
+        },
+        {
+            "facet_id": 119675,
+            "occurrence": 2,
+            "value": "Bevilaqua"
+        },
+        {
+            "facet_id": 155978,
+            "occurrence": 2,
+            "value": "DellaPorta, Giovanni B."
+        },
+        {
+            "facet_id": 178079,
+            "occurrence": 2,
+            "value": "Clavius, Christoph"
+        },
+        {
+            "facet_id": 216792,
+            "occurrence": 2,
+            "value": "Nicolaus &lt;de Cusa&gt;"
+        },
+        {
+            "facet_id": 226633,
+            "occurrence": 2,
+            "value": "Florenz"
+        },
+        {
+            "facet_id": 233680,
+            "occurrence": 2,
+            "value": "Commandino, Federico"
+        },
+        {
+            "facet_id": 233682,
+            "occurrence": 2,
+            "value": "Pisavri"
+        },
+        {
+            "facet_id": 337144,
+            "occurrence": 2,
+            "value": "Barozzi, Francesco"
+        },
+        {
+            "facet_id": 384639,
+            "occurrence": 2,
+            "value": "Pisaurum"
+        },
+        {
+            "facet_id": 452135,
+            "occurrence": 2,
+            "value": "Commandino, Federigo"
+        },
+        {
+            "facet_id": 454066,
+            "occurrence": 2,
+            "value": "Catena, Petrus"
+        },
+        {
+            "facet_id": 515387,
+            "occurrence": 2,
+            "value": "Maurolico, Francesco"
+        },
+        {
+            "facet_id": 518002,
+            "occurrence": 2,
+            "value": "Venetijs"
+        },
+        {
+            "facet_id": 570072,
+            "occurrence": 2,
+            "value": "Belli, Silvio"
+        },
+        {
+            "facet_id": 578286,
+            "occurrence": 2,
+            "value": "Danti, Egnazio"
+        },
+        {
+            "facet_id": 613610,
+            "occurrence": 2,
+            "value": "Taurini"
+        },
+        {
+            "facet_id": 884634,
+            "occurrence": 2,
+            "value": "González de Mendoza, Juan"
+        },
+        {
+            "facet_id": 994540,
+            "occurrence": 2,
+            "value": "Argentorati"
+        },
+        {
+            "facet_id": 275,
+            "occurrence": 1,
+            "value": "Froben"
+        },
+        {
+            "facet_id": 978,
+            "occurrence": 1,
+            "value": "o. V."
+        },
+        {
+            "facet_id": 3272,
+            "occurrence": 1,
+            "value": "Crato"
+        },
+        {
+            "facet_id": 4485,
+            "occurrence": 1,
+            "value": "Chouet"
+        },
+        {
+            "facet_id": 5262,
+            "occurrence": 1,
+            "value": "Ramus, Petrus"
+        },
+        {
+            "facet_id": 5266,
+            "occurrence": 1,
+            "value": "Leipzig"
+        },
+        {
+            "facet_id": 5545,
+            "occurrence": 1,
+            "value": "Knobloch"
+        },
+        {
+            "facet_id": 5764,
+            "occurrence": 1,
+            "value": "Hulsius, Levinus"
+        },
+        {
+            "facet_id": 5857,
+            "occurrence": 1,
+            "value": "Giunta"
+        },
+        {
+            "facet_id": 6596,
+            "occurrence": 1,
+            "value": "[s.n.]"
+        },
+        {
+            "facet_id": 7039,
+            "occurrence": 1,
+            "value": "Egenolph"
+        },
+        {
+            "facet_id": 8397,
+            "occurrence": 1,
+            "value": "Plantinus"
+        },
+        {
+            "facet_id": 9658,
+            "occurrence": 1,
+            "value": "Feyrabendt"
+        },
+        {
+            "facet_id": 13934,
+            "occurrence": 1,
+            "value": "Franceschi"
+        },
+        {
+            "facet_id": 13938,
+            "occurrence": 1,
+            "value": "Zetzner"
+        },
+        {
+            "facet_id": 14806,
+            "occurrence": 1,
+            "value": "Tournes"
+        },
+        {
+            "facet_id": 16758,
+            "occurrence": 1,
+            "value": "Gioliti"
+        },
+        {
+            "facet_id": 16759,
+            "occurrence": 1,
+            "value": "Rusconi, Giovanni Antonio"
+        },
+        {
+            "facet_id": 21154,
+            "occurrence": 1,
+            "value": "Eichorn"
+        },
+        {
+            "facet_id": 23860,
+            "occurrence": 1,
+            "value": "Rihel"
+        },
+        {
+            "facet_id": 24090,
+            "occurrence": 1,
+            "value": "Alberti, Leon Battista"
+        },
+        {
+            "facet_id": 25233,
+            "occurrence": 1,
+            "value": "Griffio"
+        },
+        {
+            "facet_id": 27664,
+            "occurrence": 1,
+            "value": "Ragusi"
+        },
+        {
+            "facet_id": 27666,
+            "occurrence": 1,
+            "value": "Giorgi, Alessandro"
+        },
+        {
+            "facet_id": 28860,
+            "occurrence": 1,
+            "value": "Plantini"
+        },
+        {
+            "facet_id": 29771,
+            "occurrence": 1,
+            "value": "Franckfurt"
+        },
+        {
+            "facet_id": 30464,
+            "occurrence": 1,
+            "value": "Münster, Sebastian"
+        },
+        {
+            "facet_id": 30470,
+            "occurrence": 1,
+            "value": "Nürnberg"
+        },
+        {
+            "facet_id": 35400,
+            "occurrence": 1,
+            "value": "In casa del'autore"
+        },
+        {
+            "facet_id": 42935,
+            "occurrence": 1,
+            "value": "apud I. Moretum"
+        },
+        {
+            "facet_id": 42936,
+            "occurrence": 1,
+            "value": "Antwerpen"
+        },
+        {
+            "facet_id": 42937,
+            "occurrence": 1,
+            "value": "Lipsius, Justus"
+        },
+        {
+            "facet_id": 44961,
+            "occurrence": 1,
+            "value": "Libavius, Andreas"
+        },
+        {
+            "facet_id": 46436,
+            "occurrence": 1,
+            "value": "Feyrabend"
+        },
+        {
+            "facet_id": 48520,
+            "occurrence": 1,
+            "value": "Thurneysser zum Thurn, Leonhardt"
+        }
+    ]
+}

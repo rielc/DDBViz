@@ -1,0 +1,419 @@
+{
+    "time_fct_id": 20,
+    "time_fct": "time_61705",
+    "affiliate_facet_id": 1481,
+    "affiliate_facet": "Haenlinus",
+    "occurrence": 148,
+    "affiliates": [
+        {
+            "facet_id": 1481,
+            "occurrence": 149,
+            "value": "Plantin"
+        },
+        {
+            "facet_id": 5190,
+            "occurrence": 32,
+            "value": "Lipsius, Justus (1547-1606)"
+        },
+        {
+            "facet_id": 4905,
+            "occurrence": 25,
+            "value": "Baronio, Cesare (1538-1607)"
+        },
+        {
+            "facet_id": 4906,
+            "occurrence": 24,
+            "value": "Laderchi, Giacomo (1678-1738)"
+        },
+        {
+            "facet_id": 4907,
+            "occurrence": 24,
+            "value": "Rinaldi, Odorico (1595-1671)"
+        },
+        {
+            "facet_id": 121,
+            "occurrence": 9,
+            "value": "Rosweyde, Heribert (1569-1629)"
+        },
+        {
+            "facet_id": 15640,
+            "occurrence": 9,
+            "value": "Lessius, Leonardus (1554-1623)"
+        },
+        {
+            "facet_id": 6001,
+            "occurrence": 5,
+            "value": "Bellarmino, Roberto (1542-1621)"
+        },
+        {
+            "facet_id": 7540,
+            "occurrence": 5,
+            "value": "Moretus"
+        },
+        {
+            "facet_id": 30165,
+            "occurrence": 5,
+            "value": "Goltzius, Hubert (1526-1583)"
+        },
+        {
+            "facet_id": 5160,
+            "occurrence": 4,
+            "value": "Thomas <a Kempis> (1379-1471)"
+        },
+        {
+            "facet_id": 36846,
+            "occurrence": 4,
+            "value": "Heurne, Johan van (1543-1601)"
+        },
+        {
+            "facet_id": 127681,
+            "occurrence": 3,
+            "value": "David, Jan"
+        },
+        {
+            "facet_id": 460410,
+            "occurrence": 3,
+            "value": "Plancius, Daniel"
+        },
+        {
+            "facet_id": 638,
+            "occurrence": 2,
+            "value": "Petronius <Arbiter> (-66)"
+        },
+        {
+            "facet_id": 3898,
+            "occurrence": 2,
+            "value": "Hippocrates (v460-v370)"
+        },
+        {
+            "facet_id": 4138,
+            "occurrence": 2,
+            "value": "Terentius Afer, Publius (v195-v159)"
+        },
+        {
+            "facet_id": 7541,
+            "occurrence": 2,
+            "value": "Schottus, Andreas (1552-1629)"
+        },
+        {
+            "facet_id": 25489,
+            "occurrence": 2,
+            "value": "Lucas, Franciscus (1549-1619)"
+        },
+        {
+            "facet_id": 33915,
+            "occurrence": 2,
+            "value": "Claudianus, Claudius (370-408)"
+        },
+        {
+            "facet_id": 34240,
+            "occurrence": 2,
+            "value": "Eucherius <Lugdunensis> (-450)"
+        },
+        {
+            "facet_id": 39724,
+            "occurrence": 2,
+            "value": "Núñez, Luis"
+        },
+        {
+            "facet_id": 48083,
+            "occurrence": 2,
+            "value": "Puteanus, Erycius (1574-1646)"
+        },
+        {
+            "facet_id": 48747,
+            "occurrence": 2,
+            "value": "Chiflet, Jean-Jacques (1588-1660)"
+        },
+        {
+            "facet_id": 140713,
+            "occurrence": 2,
+            "value": "Sweerts, Pierre François (1567-1629)"
+        },
+        {
+            "facet_id": 376816,
+            "occurrence": 2,
+            "value": "Weerdt, Josse de (-1625)"
+        },
+        {
+            "facet_id": 468139,
+            "occurrence": 2,
+            "value": "Morgues, Mathieu de (1582-1670)"
+        },
+        {
+            "facet_id": 1249,
+            "occurrence": 1,
+            "value": "Erasmus, Desiderius (1469-1536)"
+        },
+        {
+            "facet_id": 2409,
+            "occurrence": 1,
+            "value": "Suetonius Tranquillus, Gaius (70-150)"
+        },
+        {
+            "facet_id": 3547,
+            "occurrence": 1,
+            "value": "Merula, Paulus (1558-1607)"
+        },
+        {
+            "facet_id": 4945,
+            "occurrence": 1,
+            "value": "Pithou, Pierre (1539-1596)"
+        },
+        {
+            "facet_id": 6224,
+            "occurrence": 1,
+            "value": "Albertus <Magnus> (1193-1280)"
+        },
+        {
+            "facet_id": 8889,
+            "occurrence": 1,
+            "value": "Foreest, Pieter van (1522-1597)"
+        },
+        {
+            "facet_id": 9986,
+            "occurrence": 1,
+            "value": "Plinius Caecilius Secundus, Gaius (61/62-ca. 114)"
+        },
+        {
+            "facet_id": 20401,
+            "occurrence": 1,
+            "value": "Seneca, Lucius Annaeus <Philosophus> (v4-65)"
+        },
+        {
+            "facet_id": 20687,
+            "occurrence": 1,
+            "value": "Schoppe, Caspar (1576-1649)"
+        },
+        {
+            "facet_id": 21706,
+            "occurrence": 1,
+            "value": "Nieremberg, Juan Eusebio (1595-1658)"
+        },
+        {
+            "facet_id": 22995,
+            "occurrence": 1,
+            "value": "Lefèvre, André (1520-1581)"
+        },
+        {
+            "facet_id": 26577,
+            "occurrence": 1,
+            "value": "Hugo <de Sancto Caro> (-1263)"
+        },
+        {
+            "facet_id": 28343,
+            "occurrence": 1,
+            "value": "Bidermann, Jakob (1578-1639)"
+        },
+        {
+            "facet_id": 30203,
+            "occurrence": 1,
+            "value": "Varro, Marcus Terentius (v116-v27)"
+        },
+        {
+            "facet_id": 31657,
+            "occurrence": 1,
+            "value": "Maria"
+        },
+        {
+            "facet_id": 31942,
+            "occurrence": 1,
+            "value": "Nider, Johannes (1380-1438)"
+        },
+        {
+            "facet_id": 33603,
+            "occurrence": 1,
+            "value": "Hugo, Hermann (1588-1629)"
+        },
+        {
+            "facet_id": 42055,
+            "occurrence": 1,
+            "value": "Ribadeneyra, Pedro de (1527-1611)"
+        },
+        {
+            "facet_id": 52248,
+            "occurrence": 1,
+            "value": "Aesopus (ca. 6. Jh. v. Chr.)"
+        },
+        {
+            "facet_id": 56182,
+            "occurrence": 1,
+            "value": "Bertius, Petrus (1565-1629)"
+        },
+        {
+            "facet_id": 70784,
+            "occurrence": 1,
+            "value": "Phaedrus (1. Jh. n. Chr.)"
+        },
+        {
+            "facet_id": 83796,
+            "occurrence": 1,
+            "value": "Concilium Tridentinum <1545 - 1563>"
+        },
+        {
+            "facet_id": 85075,
+            "occurrence": 1,
+            "value": "Sommalius, Henricus (1534-1619)"
+        },
+        {
+            "facet_id": 85618,
+            "occurrence": 1,
+            "value": "Orsini, Fulvio (1529-1600)"
+        },
+        {
+            "facet_id": 88046,
+            "occurrence": 1,
+            "value": "Klemens <VIII., Papst> (1536-1605)"
+        },
+        {
+            "facet_id": 104613,
+            "occurrence": 1,
+            "value": "Soteallus, Johannes (-1567)"
+        },
+        {
+            "facet_id": 105518,
+            "occurrence": 1,
+            "value": "Pius <V., Papst> (1504-1572)"
+        },
+        {
+            "facet_id": 109992,
+            "occurrence": 1,
+            "value": "Popma, Ausonius van (1563-1613)"
+        },
+        {
+            "facet_id": 119084,
+            "occurrence": 1,
+            "value": "Poelmann, Theodor (1510-1580)"
+        },
+        {
+            "facet_id": 124873,
+            "occurrence": 1,
+            "value": "Avianus <Poeta> (ca. 4./5. Jh.)"
+        },
+        {
+            "facet_id": 124874,
+            "occurrence": 1,
+            "value": "Delrío, Martín Antonio (1551-1608)"
+        },
+        {
+            "facet_id": 132506,
+            "occurrence": 1,
+            "value": "Rittershausen, Konrad"
+        },
+        {
+            "facet_id": 140712,
+            "occurrence": 1,
+            "value": "Ortelius, Abraham (1527-1598)"
+        },
+        {
+            "facet_id": 141200,
+            "occurrence": 1,
+            "value": "Huarte de San Juan, Juan (1529-1588)"
+        },
+        {
+            "facet_id": 162233,
+            "occurrence": 1,
+            "value": "Bauhuis, Bernard (1575-1629)"
+        },
+        {
+            "facet_id": 177027,
+            "occurrence": 1,
+            "value": "Doetichum, Jan van (ca. 16.Jh.)"
+        },
+        {
+            "facet_id": 185483,
+            "occurrence": 1,
+            "value": "Mascardi, Agostino (1590-1640)"
+        },
+        {
+            "facet_id": 235655,
+            "occurrence": 1,
+            "value": "Faber, Johann (1574-1629)"
+        },
+        {
+            "facet_id": 238300,
+            "occurrence": 1,
+            "value": "Lutius, Horatius (1541-1569)"
+        },
+        {
+            "facet_id": 341356,
+            "occurrence": 1,
+            "value": "Chiflet, Philippe (1597-1657)"
+        },
+        {
+            "facet_id": 377932,
+            "occurrence": 1,
+            "value": "Mertz, Martin (-1652)"
+        },
+        {
+            "facet_id": 407782,
+            "occurrence": 1,
+            "value": "Cathius, Arnold"
+        },
+        {
+            "facet_id": 419637,
+            "occurrence": 1,
+            "value": "Lancilottus, Corneille (1574-1622)"
+        },
+        {
+            "facet_id": 438923,
+            "occurrence": 1,
+            "value": "Hammer, Peter"
+        },
+        {
+            "facet_id": 474266,
+            "occurrence": 1,
+            "value": "Doetichum, Baptista van (1570-1611)"
+        },
+        {
+            "facet_id": 545040,
+            "occurrence": 1,
+            "value": "Galle, Theodor"
+        },
+        {
+            "facet_id": 624195,
+            "occurrence": 1,
+            "value": "Sterre, Jean Chrysostome van der"
+        },
+        {
+            "facet_id": 629912,
+            "occurrence": 1,
+            "value": "Antist, Vicente Justiniano (1543-1595)"
+        },
+        {
+            "facet_id": 629913,
+            "occurrence": 1,
+            "value": "Boucquet, Jean (1580-1640)"
+        },
+        {
+            "facet_id": 630593,
+            "occurrence": 1,
+            "value": "Sweerts, Robert"
+        },
+        {
+            "facet_id": 776836,
+            "occurrence": 1,
+            "value": "Gevaerts, Jean Gaspard (1593-1666)"
+        },
+        {
+            "facet_id": 777169,
+            "occurrence": 1,
+            "value": "Marselaer, Frederik van (1584-1650)"
+        },
+        {
+            "facet_id": 856415,
+            "occurrence": 1,
+            "value": "Meursius, John (1613-1654)"
+        },
+        {
+            "facet_id": 916834,
+            "occurrence": 1,
+            "value": "Meyere, Leo de (-1630)"
+        },
+        {
+            "facet_id": 917007,
+            "occurrence": 1,
+            "value": "Havre, Johann von"
+        }
+    ]
+}

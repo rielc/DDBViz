@@ -73,7 +73,6 @@ launchQuery = function(threadID) {
 
 
 update = function(threadID) {
-
     // so the current query is finished?
         // are there persons left to analyze? 
         if (personIndex < epochsAndPersons[fileIndex].items.length-1 && personIndex < personLimit) {

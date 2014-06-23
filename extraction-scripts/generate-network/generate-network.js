@@ -8,7 +8,7 @@ epochsAndPersons = [];
 nextQuery = false;
 fileIndex = 0;
 personIndex = 0;
-version = 'version-5';
+version = 'version-4';
 dir = '../../extracted-data/related-affiliates-in-time_fct/'+version+'/';
 saveDir = '../../extracted-data/networks-in-time_fct/' + version + '/';
 

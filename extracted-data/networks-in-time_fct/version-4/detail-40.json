@@ -1,4 +1,1827 @@
 {
+    "time_33000": {
+        "links": [],
+        "nodes": []
+    },
+    "time_34000": {
+        "links": [],
+        "nodes": []
+    },
+    "time_35000": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36000": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36300": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36500": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36800": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36900": {
+        "links": [],
+        "nodes": []
+    },
+    "time_36950": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37000": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 12553,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Ägyptisches Museum (Berlin)",
+                "affiliate_fct_occurrence": 52
+            },
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 107
+            }
+        ]
+    },
+    "time_37100": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37200": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37300": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37400": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 43
+            }
+        ]
+    },
+    "time_37500": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37600": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 43
+            }
+        ]
+    },
+    "time_37700": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37800": {
+        "links": [],
+        "nodes": []
+    },
+    "time_37900": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 41
+            }
+        ]
+    },
+    "time_37950": {
+        "links": [],
+        "nodes": []
+    },
+    "time_38000": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10321,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Vor- und Frühgeschichte (Berlin)",
+                "affiliate_fct_occurrence": 48
+            },
+            {
+                "affiliate_fct_id": 11894,
+                "affiliate_fct": "Ramses (Ägypten, König, 2)",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 12553,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Ägyptisches Museum (Berlin)",
+                "affiliate_fct_occurrence": 143
+            },
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 250
+            },
+            {
+                "affiliate_fct_id": 45724,
+                "affiliate_fct": "Archäologisches Nationalmuseum — Vorgeschichtliche Sammlungen (Athen)",
+                "affiliate_fct_occurrence": 143
+            },
+            {
+                "affiliate_fct_id": 66634,
+                "affiliate_fct": "Thutmosis (Ägypten, König, 3)",
+                "affiliate_fct_occurrence": 45
+            },
+            {
+                "affiliate_fct_id": 8874,
+                "affiliate_fct": "Archäologisches Museum (Iraklion)",
+                "affiliate_fct_occurrence": 161
+            }
+        ]
+    },
+    "time_38100": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 101
+            }
+        ]
+    },
+    "time_38200": {
+        "links": [],
+        "nodes": []
+    },
+    "time_38300": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 107
+            },
+            {
+                "affiliate_fct_id": 8874,
+                "affiliate_fct": "Archäologisches Museum (Iraklion)",
+                "affiliate_fct_occurrence": 44
+            }
+        ]
+    },
+    "time_38400": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 8874,
+                "affiliate_fct": "Archäologisches Museum (Iraklion)",
+                "affiliate_fct_occurrence": 45
+            }
+        ]
+    },
+    "time_38500": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 83
+            },
+            {
+                "affiliate_fct_id": 45724,
+                "affiliate_fct": "Archäologisches Nationalmuseum — Vorgeschichtliche Sammlungen (Athen)",
+                "affiliate_fct_occurrence": 100
+            },
+            {
+                "affiliate_fct_id": 66634,
+                "affiliate_fct": "Thutmosis (Ägypten, König, 3)",
+                "affiliate_fct_occurrence": 45
+            },
+            {
+                "affiliate_fct_id": 8874,
+                "affiliate_fct": "Archäologisches Museum (Iraklion)",
+                "affiliate_fct_occurrence": 43
+            }
+        ]
+    },
+    "time_38600": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 8874,
+                "affiliate_fct": "Archäologisches Museum (Iraklion)",
+                "affiliate_fct_occurrence": 61
+            }
+        ]
+    },
+    "time_38700": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 12553,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Ägyptisches Museum (Berlin)",
+                "affiliate_fct_occurrence": 65
+            }
+        ]
+    },
+    "time_38800": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 11894,
+                "affiliate_fct": "Ramses (Ägypten, König, 2)",
+                "affiliate_fct_occurrence": 47
+            },
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 73
+            },
+            {
+                "affiliate_fct_id": 66634,
+                "affiliate_fct": "Thutmosis (Ägypten, König, 3)",
+                "affiliate_fct_occurrence": 41
+            }
+        ]
+    },
+    "time_38900": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 11894,
+                "affiliate_fct": "Ramses (Ägypten, König, 2)",
+                "affiliate_fct_occurrence": 43
+            }
+        ]
+    },
+    "time_38950": {
+        "links": [],
+        "nodes": []
+    },
+    "time_39000": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            },
+            {
+                "target": 8,
+                "source": 8
+            },
+            {
+                "target": 9,
+                "source": 9
+            },
+            {
+                "target": 10,
+                "source": 10
+            },
+            {
+                "target": 11,
+                "source": 11
+            },
+            {
+                "target": 12,
+                "source": 12
+            },
+            {
+                "target": 13,
+                "source": 13
+            },
+            {
+                "target": 14,
+                "source": 14
+            },
+            {
+                "target": 15,
+                "source": 15
+            },
+            {
+                "target": 16,
+                "source": 16
+            },
+            {
+                "target": 17,
+                "source": 17
+            },
+            {
+                "target": 18,
+                "source": 18
+            },
+            {
+                "target": 19,
+                "source": 19
+            },
+            {
+                "target": 20,
+                "source": 20
+            },
+            {
+                "target": 21,
+                "source": 21
+            },
+            {
+                "target": 22,
+                "source": 22
+            },
+            {
+                "target": 23,
+                "source": 23
+            },
+            {
+                "target": 24,
+                "source": 24
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10321,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Museum für Vor- und Frühgeschichte (Berlin)",
+                "affiliate_fct_occurrence": 74
+            },
+            {
+                "affiliate_fct_id": 104538,
+                "affiliate_fct": "Musée Lapidaire (Vienne (Isère))",
+                "affiliate_fct_occurrence": 58
+            },
+            {
+                "affiliate_fct_id": 12553,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Ägyptisches Museum (Berlin)",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 1294,
+                "affiliate_fct": "Akropolis-Museum (Athen)",
+                "affiliate_fct_occurrence": 186
+            },
+            {
+                "affiliate_fct_id": 16402,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Vorderasiatisches Museum (Berlin)",
+                "affiliate_fct_occurrence": 41
+            },
+            {
+                "affiliate_fct_id": 168844,
+                "affiliate_fct": "Museo Archeologico Nazionale (Paestum di Capaccio)",
+                "affiliate_fct_occurrence": 41
+            },
+            {
+                "affiliate_fct_id": 2139,
+                "affiliate_fct": "Ägyptisches Museum (Kairo)",
+                "affiliate_fct_occurrence": 44
+            },
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 189
+            },
+            {
+                "affiliate_fct_id": 25118,
+                "affiliate_fct": "Museo Archeologico (Florenz)",
+                "affiliate_fct_occurrence": 70
+            },
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 538
+            },
+            {
+                "affiliate_fct_id": 34634,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités orientales et d'Art d'Islam (Paris)",
+                "affiliate_fct_occurrence": 64
+            },
+            {
+                "affiliate_fct_id": 37283,
+                "affiliate_fct": "Musei Capitolini (Rom)",
+                "affiliate_fct_occurrence": 60
+            },
+            {
+                "affiliate_fct_id": 37778,
+                "affiliate_fct": "Archäologisches Museum (Olympia)",
+                "affiliate_fct_occurrence": 88
+            },
+            {
+                "affiliate_fct_id": 38676,
+                "affiliate_fct": "Muzeum Archeologiczne (Gdańsk)",
+                "affiliate_fct_occurrence": 90
+            },
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 116
+            },
+            {
+                "affiliate_fct_id": 4541,
+                "affiliate_fct": "British Museum (London)",
+                "affiliate_fct_occurrence": 42
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 741
+            },
+            {
+                "affiliate_fct_id": 50532,
+                "affiliate_fct": "Museo Archeologico Regionale (Syrakus)",
+                "affiliate_fct_occurrence": 112
+            },
+            {
+                "affiliate_fct_id": 5056,
+                "affiliate_fct": "Archäologisches Museum (Delphi)",
+                "affiliate_fct_occurrence": 92
+            },
+            {
+                "affiliate_fct_id": 7238,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung? (Berlin)",
+                "affiliate_fct_occurrence": 49
+            },
+            {
+                "affiliate_fct_id": 846,
+                "affiliate_fct": "Museo Nazionale di Villa Giulia (Rom)",
+                "affiliate_fct_occurrence": 137
+            },
+            {
+                "affiliate_fct_id": 87628,
+                "affiliate_fct": "Monumenti, Musei e Gallerie Pontificie — Museo Gregoriano Etrusco (Vatikan)",
+                "affiliate_fct_occurrence": 56
+            },
+            {
+                "affiliate_fct_id": 8970,
+                "affiliate_fct": "Martin von Wagner Museum der Universität (Würzburg)",
+                "affiliate_fct_occurrence": 43
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 67
+            },
+            {
+                "affiliate_fct_id": 9991,
+                "affiliate_fct": "Staatliche Antikensammlungen und Glyptothek (München)",
+                "affiliate_fct_occurrence": 249
+            }
+        ]
+    },
+    "time_39100": {
+        "links": [],
+        "nodes": []
+    },
+    "time_39200": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 38676,
+                "affiliate_fct": "Muzeum Archeologiczne (Gdańsk)",
+                "affiliate_fct_occurrence": 79
+            }
+        ]
+    },
+    "time_39300": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 48
+            },
+            {
+                "affiliate_fct_id": 34634,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités orientales et d'Art d'Islam (Paris)",
+                "affiliate_fct_occurrence": 41
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 75
+            }
+        ]
+    },
+    "time_39400": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 49
+            },
+            {
+                "affiliate_fct_id": 38676,
+                "affiliate_fct": "Muzeum Archeologiczne (Gdańsk)",
+                "affiliate_fct_occurrence": 61
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 118
+            },
+            {
+                "affiliate_fct_id": 846,
+                "affiliate_fct": "Museo Nazionale di Villa Giulia (Rom)",
+                "affiliate_fct_occurrence": 43
+            }
+        ]
+    },
+    "time_39500": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 104538,
+                "affiliate_fct": "Musée Lapidaire (Vienne (Isère))",
+                "affiliate_fct_occurrence": 55
+            },
+            {
+                "affiliate_fct_id": 1294,
+                "affiliate_fct": "Akropolis-Museum (Athen)",
+                "affiliate_fct_occurrence": 98
+            },
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 119
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 263
+            },
+            {
+                "affiliate_fct_id": 50532,
+                "affiliate_fct": "Museo Archeologico Regionale (Syrakus)",
+                "affiliate_fct_occurrence": 46
+            },
+            {
+                "affiliate_fct_id": 5056,
+                "affiliate_fct": "Archäologisches Museum (Delphi)",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 58
+            },
+            {
+                "affiliate_fct_id": 9991,
+                "affiliate_fct": "Staatliche Antikensammlungen und Glyptothek (München)",
+                "affiliate_fct_occurrence": 114
+            }
+        ]
+    },
+    "time_39600": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 1294,
+                "affiliate_fct": "Akropolis-Museum (Athen)",
+                "affiliate_fct_occurrence": 88
+            },
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 73
+            },
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 210
+            },
+            {
+                "affiliate_fct_id": 37778,
+                "affiliate_fct": "Archäologisches Museum (Olympia)",
+                "affiliate_fct_occurrence": 56
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 206
+            },
+            {
+                "affiliate_fct_id": 846,
+                "affiliate_fct": "Museo Nazionale di Villa Giulia (Rom)",
+                "affiliate_fct_occurrence": 55
+            },
+            {
+                "affiliate_fct_id": 9991,
+                "affiliate_fct": "Staatliche Antikensammlungen und Glyptothek (München)",
+                "affiliate_fct_occurrence": 65
+            }
+        ]
+    },
+    "time_39700": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 68
+            },
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 187
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 186
+            },
+            {
+                "affiliate_fct_id": 9991,
+                "affiliate_fct": "Staatliche Antikensammlungen und Glyptothek (München)",
+                "affiliate_fct_occurrence": 48
+            }
+        ]
+    },
+    "time_39800": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 42
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 53
+            }
+        ]
+    },
+    "time_39900": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 46
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 75
+            }
+        ]
+    },
+    "time_39950": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 66
+            },
+            {
+                "affiliate_fct_id": 3346,
+                "affiliate_fct": "Archäologisches Nationalmuseum (Athen)",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 73
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 76
+            }
+        ]
+    },
+    "time_60100": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            },
+            {
+                "target": 8,
+                "source": 8
+            },
+            {
+                "target": 9,
+                "source": 9
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 75
+            },
+            {
+                "affiliate_fct_id": 386,
+                "affiliate_fct": "Landesmuseum Mainz (Mainz)",
+                "affiliate_fct_occurrence": 98
+            },
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 109
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 76
+            },
+            {
+                "affiliate_fct_id": 56,
+                "affiliate_fct": "Lüttig, Matthias (Fotograf)",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 61,
+                "affiliate_fct": "Richter, Regine (Fotograf)",
+                "affiliate_fct_occurrence": 84
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 120
+            }
+        ]
+    },
+    "time_60200": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            },
+            {
+                "target": 8,
+                "source": 8
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 132
+            },
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 196
+            },
+            {
+                "affiliate_fct_id": 4746,
+                "affiliate_fct": "Staatliche Museen zu Berlin - Preußischer Kulturbesitz — Antikensammlung (Berlin)",
+                "affiliate_fct_occurrence": 56
+            },
+            {
+                "affiliate_fct_id": 537,
+                "affiliate_fct": "Aufsberg, Lala (Fotograf)",
+                "affiliate_fct_occurrence": 58
+            },
+            {
+                "affiliate_fct_id": 6111,
+                "affiliate_fct": "Rheinisches Landesmuseum (Trier)",
+                "affiliate_fct_occurrence": 57
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 116
+            }
+        ]
+    },
+    "time_60300": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 2216,
+                "affiliate_fct": "Musée National du Louvre — Département des Antiquités grecques, étrusques et romaines (Paris)",
+                "affiliate_fct_occurrence": 102
+            },
+            {
+                "affiliate_fct_id": 4340,
+                "affiliate_fct": "Liebieghaus (Frankfurt (Main))",
+                "affiliate_fct_occurrence": 165
+            },
+            {
+                "affiliate_fct_id": 6111,
+                "affiliate_fct": "Rheinisches Landesmuseum (Trier)",
+                "affiliate_fct_occurrence": 52
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 124
+            }
+        ]
+    },
+    "time_60400": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 3,
+                "source": 4
+            },
+            {
+                "target": 4,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 104538,
+                "affiliate_fct": "Musée Lapidaire (Vienne (Isère))",
+                "affiliate_fct_occurrence": 57
+            },
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 4201,
+                "affiliate_fct": "Biblioteca Apostolica Vaticana (Vatikan)",
+                "affiliate_fct_occurrence": 41
+            },
+            {
+                "affiliate_fct_id": 4540,
+                "affiliate_fct": "Vergil",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 4540,
+                "affiliate_fct": "Vergil",
+                "affiliate_fct_occurrence": 40
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 181
+            }
+        ]
+    },
+    "time_60500": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 1514,
+                "affiliate_fct": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 1727,
+                "affiliate_fct": "Oskar Netoliczka",
+                "affiliate_fct_occurrence": 308
+            },
+            {
+                "affiliate_fct_id": 544,
+                "affiliate_fct": "Helbig, Konrad (Fotograf)",
+                "affiliate_fct_occurrence": 47
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 7885,
+                "affiliate_fct": "Leopold Adler",
+                "affiliate_fct_occurrence": 571
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 53
+            }
+        ]
+    },
+    "time_60600": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 1514,
+                "affiliate_fct": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 1727,
+                "affiliate_fct": "Oskar Netoliczka",
+                "affiliate_fct_occurrence": 308
+            },
+            {
+                "affiliate_fct_id": 544,
+                "affiliate_fct": "Helbig, Konrad (Fotograf)",
+                "affiliate_fct_occurrence": 44
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 7885,
+                "affiliate_fct": "Leopold Adler",
+                "affiliate_fct_occurrence": 571
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 111
+            }
+        ]
+    },
+    "time_60700": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 5
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 7,
+                "source": 7
+            },
+            {
+                "target": 8,
+                "source": 8
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 5,
+                "source": 4
+            },
+            {
+                "target": 10,
+                "source": 10
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 1514,
+                "affiliate_fct": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 1727,
+                "affiliate_fct": "Oskar Netoliczka",
+                "affiliate_fct_occurrence": 308
+            },
+            {
+                "affiliate_fct_id": 38669,
+                "affiliate_fct": "Ragyndrudis",
+                "affiliate_fct_occurrence": 69
+            },
+            {
+                "affiliate_fct_id": 851,
+                "affiliate_fct": "Dom-Museum Fulda (Fulda)",
+                "affiliate_fct_occurrence": 69
+            },
+            {
+                "affiliate_fct_id": 544,
+                "affiliate_fct": "Helbig, Konrad (Fotograf)",
+                "affiliate_fct_occurrence": 42
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 7885,
+                "affiliate_fct": "Leopold Adler",
+                "affiliate_fct_occurrence": 571
+            },
+            {
+                "affiliate_fct_id": 851,
+                "affiliate_fct": "Dom-Museum Fulda (Fulda)",
+                "affiliate_fct_occurrence": 69
+            },
+            {
+                "affiliate_fct_id": 9823,
+                "affiliate_fct": "Römisch-Germanisches Museum (Köln)",
+                "affiliate_fct_occurrence": 63
+            }
+        ]
+    },
+    "time_60800": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 1514,
+                "affiliate_fct": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 1727,
+                "affiliate_fct": "Oskar Netoliczka",
+                "affiliate_fct_occurrence": 308
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 63781,
+                "affiliate_fct": "Collection Charles de l'Eculopier — Bibliothèque Municipale (Amiens)",
+                "affiliate_fct_occurrence": 56
+            },
+            {
+                "affiliate_fct_id": 7885,
+                "affiliate_fct": "Leopold Adler",
+                "affiliate_fct_occurrence": 571
+            }
+        ]
+    },
+    "time_60900": {
+        "links": [
+            {
+                "target": 0,
+                "source": 0
+            },
+            {
+                "target": 1,
+                "source": 1
+            },
+            {
+                "target": 2,
+                "source": 2
+            },
+            {
+                "target": 3,
+                "source": 3
+            },
+            {
+                "target": 3,
+                "source": 4
+            },
+            {
+                "target": 5,
+                "source": 5
+            },
+            {
+                "target": 6,
+                "source": 6
+            },
+            {
+                "target": 4,
+                "source": 3
+            },
+            {
+                "target": 4,
+                "source": 4
+            },
+            {
+                "target": 8,
+                "source": 8
+            },
+            {
+                "target": 9,
+                "source": 9
+            },
+            {
+                "target": 10,
+                "source": 10
+            },
+            {
+                "target": 11,
+                "source": 11
+            },
+            {
+                "target": 12,
+                "source": 12
+            },
+            {
+                "target": 13,
+                "source": 13
+            },
+            {
+                "target": 13,
+                "source": 14
+            },
+            {
+                "target": 14,
+                "source": 14
+            },
+            {
+                "target": 14,
+                "source": 13
+            }
+        ],
+        "nodes": [
+            {
+                "affiliate_fct_id": 10551,
+                "affiliate_fct": "Welter, Michael",
+                "affiliate_fct_occurrence": 77
+            },
+            {
+                "affiliate_fct_id": 13338,
+                "affiliate_fct": "Rosner, Johann",
+                "affiliate_fct_occurrence": 95
+            },
+            {
+                "affiliate_fct_id": 1514,
+                "affiliate_fct": "Generaldirektion der Bad. Staatseisenbahnen Karlsruhe",
+                "affiliate_fct_occurrence": 50
+            },
+            {
+                "affiliate_fct_id": 16700,
+                "affiliate_fct": "Stadtbibliothek (Trier)",
+                "affiliate_fct_occurrence": 74
+            },
+            {
+                "affiliate_fct_id": 22668,
+                "affiliate_fct": "Johannes (Apostolus)",
+                "affiliate_fct_occurrence": 64
+            },
+            {
+                "affiliate_fct_id": 1727,
+                "affiliate_fct": "Oskar Netoliczka",
+                "affiliate_fct_occurrence": 308
+            },
+            {
+                "affiliate_fct_id": 1744,
+                "affiliate_fct": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz (Berlin)",
+                "affiliate_fct_occurrence": 53
+            },
+            {
+                "affiliate_fct_id": 22668,
+                "affiliate_fct": "Johannes (Apostolus)",
+                "affiliate_fct_occurrence": 64
+            },
+            {
+                "affiliate_fct_id": 32944,
+                "affiliate_fct": "Bibliothèque Nationale — Département des Manuscrits (Paris)",
+                "affiliate_fct_occurrence": 170
+            },
+            {
+                "affiliate_fct_id": 393,
+                "affiliate_fct": "Württembergische Landesbibliothek (Stuttgart)",
+                "affiliate_fct_occurrence": 317
+            },
+            {
+                "affiliate_fct_id": 6331,
+                "affiliate_fct": "Simon von Taisten",
+                "affiliate_fct_occurrence": 162
+            },
+            {
+                "affiliate_fct_id": 685,
+                "affiliate_fct": "Bayerische Staatsbibliothek (München)",
+                "affiliate_fct_occurrence": 82
+            },
+            {
+                "affiliate_fct_id": 7885,
+                "affiliate_fct": "Leopold Adler",
+                "affiliate_fct_occurrence": 571
+            },
+            {
+                "affiliate_fct_id": 8725,
+                "affiliate_fct": "Hofschule Karls des Großen",
+                "affiliate_fct_occurrence": 53
+            },
+            {
+                "affiliate_fct_id": 8726,
+                "affiliate_fct": "Bibliothèque Nationale (Paris)",
+                "affiliate_fct_occurrence": 49
+            },
+            {
+                "affiliate_fct_id": 8726,
+                "affiliate_fct": "Bibliothèque Nationale (Paris)",
+                "affiliate_fct_occurrence": 64
+            }
+        ]
+    },
     "time_61000": {
         "links": [
             {

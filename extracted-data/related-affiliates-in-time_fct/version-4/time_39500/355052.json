@@ -1,0 +1,24 @@
+{
+    "time_fct_id": 59,
+    "time_fct": "time_39500",
+    "affiliate_fct_id": 355052,
+    "affiliate_fct": "Berliner Maler",
+    "affiliate_fct_occurrence": 3,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 355052,
+            "affiliate_fct": "Berliner Maler",
+            "affiliate_fct_occurrence": 3
+        },
+        {
+            "affiliate_fct_id": 8970,
+            "affiliate_fct": "Martin von Wagner Museum der Universität (Würzburg)",
+            "affiliate_fct_occurrence": 2
+        },
+        {
+            "affiliate_fct_id": 4541,
+            "affiliate_fct": "British Museum (London)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

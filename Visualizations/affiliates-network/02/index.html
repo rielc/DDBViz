@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+
+*{
+  font-family: 'Lato', sans-serif;
+} 
+
+.circle {
+  stroke: #fff;
+  fill:#fff;
+  fill-opacity: 0.3;
+
+}
+
+.tooltip {
+  background-color:#fff;
+  padding:5px;
+  z-index:20;
+}
+
+.link {
+  stroke: #fff;
+  stroke-opacity: .6;
+}
+
+button, select {
+  padding:10px;
+  border-radius: 10px;
+  border:none;
+  background-color: #818181;
+}
+
+body {
+  background-color: #242424;
+}
+
+h1 {
+  color:#cecece
+}
+
+#wrapper {
+  position:relative;
+  padding:0;
+  width:960px;
+  margin:0 auto 0 auto;
+  z-index:10;
+}
+
+svg {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:0;
+}
+
+
+</style>
+
+<body>
+<div id="wrapper">
+<h1><strong>DDB Personen-Netzwerk</strong><br/> basierend auf Einträgen in den Jahren:</h1>
+<p id="time_fct"></p>
+<select id="time-fct"></select>
+<!-- 
+<p>Eine Person/Organisation muss mindestens
+<button class="threshold" value="5">5</button>
+<button class="threshold" value="10">10</button>
+<button class="threshold" value="20">20</button>
+<button class="threshold" value="40">40</button>
+<button class="threshold" value="80">80</button>mal vorkommen</p> -->
+
+</div>
+<script src="./DDBAffiliateNetwork.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.gabrielcredico.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 3]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+
+  // asdf
+
+  $(document).ready( function() {
+
+    an = new DDBAffiliateNetwork();
+    an.init();
+
+    $('#time-fct').change( function() {
+      an.parameters.timeFct = $(this).find('option:selected').val();
+      an.load();
+    });
+
+    // $('.threshold').click( function() {
+    //   an.parameters.affiliateMinOccurrence = $(this).attr("value" );
+    //   an.load();
+    // });
+    
+  });
+
+</script>
+</body>
+</html>

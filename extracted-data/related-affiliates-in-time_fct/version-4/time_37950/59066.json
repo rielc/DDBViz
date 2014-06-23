@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 83,
+    "time_fct": "time_37950",
+    "affiliate_fct_id": 59066,
+    "affiliate_fct": "HVBG",
+    "affiliate_fct_occurrence": 1,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 59066,
+            "affiliate_fct": "HVBG",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 59068,
+            "affiliate_fct": "Hauptverband der Gewerblichen Berufsgenossenschaften",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273981,
+            "affiliate_fct": "DGUV",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 273982,
+            "affiliate_fct": "Deutsche Gesetzliche Unfallversicherung e.V.",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

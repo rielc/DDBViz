@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 56,
+    "time_fct": "time_60200",
+    "affiliate_fct_id": 111844,
+    "affiliate_fct": "Hadrian (Römisches Reich, Kaiser)",
+    "affiliate_fct_occurrence": 20,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 111844,
+            "affiliate_fct": "Hadrian (Römisches Reich, Kaiser)",
+            "affiliate_fct_occurrence": 20
+        },
+        {
+            "affiliate_fct_id": 134694,
+            "affiliate_fct": "Demitrianus",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 192432,
+            "affiliate_fct": "Antoninus Pius (Römisches Reich, Kaiser)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 239682,
+            "affiliate_fct": "Decrianus",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

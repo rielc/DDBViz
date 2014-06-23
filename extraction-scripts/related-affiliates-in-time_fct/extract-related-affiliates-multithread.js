@@ -31,7 +31,7 @@ init = function() {
         }
     );
 
-    fileIndex = epochsAndPersons.length-1;
+    fileIndex = epochsAndPersons.length-1-40;
 
     for(var i=0; i<threadCount; i++) {
         threads.push(new ThreadedQuery(i));

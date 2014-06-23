@@ -1,0 +1,29 @@
+{
+    "time_fct_id": 60,
+    "time_fct": "time_38900",
+    "affiliate_fct_id": 66634,
+    "affiliate_fct": "Thutmosis (Ägypten, König, 3)",
+    "affiliate_fct_occurrence": 1,
+    "affiliates": [
+        {
+            "affiliate_fct_id": 11894,
+            "affiliate_fct": "Ramses (Ägypten, König, 2)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 66634,
+            "affiliate_fct": "Thutmosis (Ägypten, König, 3)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 107235,
+            "affiliate_fct": "Taharka (Ägypten, König)",
+            "affiliate_fct_occurrence": 1
+        },
+        {
+            "affiliate_fct_id": 107236,
+            "affiliate_fct": "Thutmosis (Ägypten, König, 4)",
+            "affiliate_fct_occurrence": 1
+        }
+    ]
+}

@@ -10,7 +10,7 @@ fileIndex = 0;
 personIndex = 0;
 version = 'version-4';
 dir = '../../extracted-data/related-affiliates-in-time_fct/'+version+'/';
-saveDir = '../../extracted-data/networks-in-time_fct/' + version + '/';
+saveDir = '../../extracted-data/networks-in-time_fct/version-5/';
 
 
 analyze = function(minOccurrence) {
@@ -57,8 +57,8 @@ analyze = function(minOccurrence) {
                                     //console.log('Added Node: ' + affiliate.value + ' in ' + data.time_fct);
                                 }
                                 var link = {
-                                    target : time_fcts[data.time_fct].nodes.map(function(n) { return n.affiliate_fct_id; }).indexOf(data.affiliate_fct_id), 
-                                    source : time_fcts[data.time_fct].nodes.map(function(n) { return n.affiliate_fct_id; }).indexOf(affiliate.affiliate_fct_id), 
+                                    target_affiliate_fct_id : data.affiliate_fct_id, 
+                                    source_affiliate_fct_id : affiliate.affiliate_fct_id, 
                                     value : affiliate.occurrence
                                 };
                                 time_fcts[data.time_fct].links.push(link);

@@ -1,0 +1,28 @@
+SELECT  
+    affiliate_fct_items.facet_id as affiliate_fct_id,
+    affiliate_fct.value as affiliate_fct,
+    count(*) as affiliate_fct_occurrence,
+	-- affiliate_fct_role.value as role,
+	affiliate_fct_normdata.value as normdata
+	-- affiliate_fct_normdata.value as normdata
+--    SUM(CASE WHEN (affiliate_fct_role.value LIKE '%_involved%' AND affiliate_fct.id = 1000) THEN 1 ELSE 0 END)
+FROM
+    affiliate_fct_items
+	INNER JOIN affiliate_fct ON affiliate_fct.id = affiliate_fct_items.facet_id
+	-- INNER JOIN time_fct_items ON time_fct_items.item_id = affiliate_fct_items.item_id
+	-- INNER JOIN affiliate_fct_role_items ON affiliate_fct_role_items.item_id = affiliate_fct_items.item_id
+	-- INNER JOIN affiliate_fct_role ON affiliate_fct_role_items.facet_id = affiliate_fct_role.id
+	LEFT JOIN affiliate_fct_normdata_items ON affiliate_fct_normdata_items.item_id = affiliate_fct_items.item_id
+	LEFT JOIN affiliate_fct_normdata ON affiliate_fct_normdata_items.facet_id = affiliate_fct_normdata.id
+WHERE
+		affiliate_fct.id = 30
+		-- time_fct_items.facet_id = (SELECT id FROM time_fct WHERE value="time_62050")
+		-- affiliate_fct_role.value LIKE 'Thüringer Universitäts- und Landesbibliothek Jena'
+--         AND affiliate_fct_items.item_id = affiliate_fct_normdata_items.item_id
+--         AND affiliate_fct_normdata_items.facet_id = affiliate_fct_normdata.id
+-- 
+--         AND affiliate_fct_items.item_id = affiliate_fct_role_items.item_id
+--         AND affiliate_fct_role_items.facet_id = affiliate_fct_role.id
+
+GROUP BY normdata
+ORDER BY affiliate_fct_occurrence DESC

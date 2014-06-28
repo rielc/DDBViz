@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+  <link rel="stylesheet" href="./css/d3.tip.css">
+  <link rel="stylesheet" href="../css/skeleton.css">
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="./css/style.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div>
+  <svg id="network"></svg>
+</div>
+<div id="wrapper" class="container">
+<h1 class="sixteen columns"> <span class="ddb-text"> Deutsche Digitale Bibliothek</span><br />Personen und Organisationen</h1>
+<svg id="timeline"></svg>
+<p class="four columns">Ausgewählte Zeiträume:</p>
+<p class="twelve columns" id="timeline-sums"></p>
+</div>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/underscore.js"></script>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="./js/DDBAffiliateNetwork.js"></script>
+<script src="./js/d3.tip.js"></script>
+<script type="text/javascript">
+
+  // init the whole document
+
+  $(document).ready( function() {
+
+    an = new DDBAffiliateNetwork();
+    an.init();
+
+    $('#time-fct').change( function() {
+      an.parameters.timeFct = $(this).find('option:selected').val();
+      an.load();
+    });
+
+    $("#wrapper").css('top', $(window).height()-200);
+
+  });
+
+</script>
+</body>
+</html>

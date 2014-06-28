@@ -1,0 +1,317 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+
+
+/* #Site Styles
+================================================== */
+
+a { color:#6358bd; border-bottom:1px solid #6358bd; text-decoration: none;}
+
+strong {
+		font-weight: 500;
+}
+
+h1, h2, h3, p, dl {
+	margin: 0;
+	padding:0;
+}
+
+p {
+    margin: 0.725rem 0 0.725rem 0;
+	padding:0;
+}
+
+
+h1 {
+	text-transform: uppercase;
+    font-size: 1.6875rem;
+    font-weight: 500;
+	letter-spacing:0.1rem;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+p ~ h3, dl ~ h3, div ~ h3 {
+    margin: 2.9rem 0 0 0;
+}
+
+p, dl, h2, h3 {
+    font-size: 0.9375rem;
+    line-height: 1.45rem;
+    margin: 0 0 0.725rem 0;
+}
+
+h3 ~ p, h3 ~ dl {
+    margin: 0.725rem 0 0 0;
+}
+
+
+
+dl, dt, dd {
+	padding:0;
+	margin:0;
+	font-weight: 300;
+}
+
+dl dt { font-weight: 500; }
+
+
+body {
+    padding:0;
+    margin:0;
+    font-weight:300;
+    color:#000;
+	background-color:#f5f5f5;
+}
+
+input[type="text"], textarea {
+	border:none;
+    font-size: 0.9375rem;
+	font-family: 'Alegreya Sans', sans-serif;
+    line-height: 1.45rem;
+    font-weight:300;
+	background-color:transparent;
+	padding:0;
+	margin:1.45rem 0 0 0;
+	width:220px;
+	border-bottom: 1px dashed #6358bd;
+}
+
+textarea {
+	height:10rem;
+}
+
+
+
+/* #Page Styles
+================================================== */
+
+
+a.icon {
+	font-family: 'fontello';
+    font-size:2.70rem;
+    text-align:center;
+    color:#c4c4c4;
+    border:none;
+}
+
+a.icon:hover {
+    color:#6358bd;
+}
+
+/*  background-color: #edefdf;
+    background-color: #e1e6bd;
+    background-color: #d6dd9b; */
+
+#intro {
+	/*
+	background-image: url('../images/intro3.jpg');
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-attachment:fixed;
+	background-size:100%; */
+	background-color:#6358bd;
+}
+
+
+#arrows {
+	z-index: 99;
+	position:fixed;
+	left:280px;
+	top:2.9rem;
+}
+
+#arrow-up {
+	cursor: pointer;
+	position:absolute;
+	top:0;
+	transform:rotate(0deg);
+	transform-origin:50% 0%;
+	-ms-transform-origin:50% 0%; /* IE 9 */
+	-webkit-transform-origin:50% 0%; /* Chrome, Safari, Opera */
+}
+
+
+#arrow-down {
+	cursor: pointer;
+	position:absolute;
+	top:20px;
+	transform:rotate(0deg);
+	transform-origin:50% 100%;
+	-ms-transform-origin:50% 100%; /* IE 9 */
+	-webkit-transform-origin:50% 100%; /* Chrome, Safari, Opera */
+}
+
+
+#main {
+    height:20px;
+    background-image: url('../images/navigation-shadow.png');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    font-weight: 400;
+    z-index:99;
+    position:fixed;
+    bottom:3rem;
+}
+
+.wrapper {
+	padding:2.9rem 0 2.9rem 0;
+}
+
+
+#main ul li {
+    float:left;
+    list-style-type: none;
+    padding:0 2rem;
+}
+
+
+#intro, #hey, #works, #details, #i-am, #contact {
+	background-image: url('../images/section-shadow.png');
+	background-repeat: no-repeat;
+	background-position: bottom center;
+  background-blend-mode: multiply;
+}
+
+#detail-text, #detail-title {
+	background-image: url('../images/section-shadow.png');
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-origin:content-box;
+	background-blend-mode: multiply;
+	background-size:100%;
+}
+
+
+.important-text {
+	margin: 0 0 2.9rem 0;
+    font-size:1.6875rem;
+    line-height: 2.225rem;
+    font-weight: 300;
+}
+
+
+#detail-title p { letter-spacing:0.1rem; }
+#detail-meta dl { margin: 0 0 0 0; }
+#detail-meta dl dt { font-weight: 500; padding:0; margin:0.725rem 0 0 0; text-transform: uppercase;}
+#detail-meta dl dd { padding:0; margin:0 0 1.45rem 0; }
+
+
+ div.project ~ div.project {
+    margin:2.9rem 0 0 0;
+}
+
+ div.project {
+    z-index:1;
+    text-align: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: middle center;
+    margin:margin:2.9rem 0 margin:2.9rem 0;
+}
+
+ div.project img.hidden {
+    display: none;
+}
+
+ div.active-project img, img.teaser {
+    display: block;
+}
+
+.row {
+        /*box-shadow: inset 2px -20px 20px -10px rgba(0, 0, 0, 0.1);*/
+}
+
+#works img:hover {
+		background-color:#6358bd;
+}
+
+.inactive h1 {
+    opacity: 1.0;
+}
+
+
+
+/* #Media Queries
+================================================== */
+
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+
+    }
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+
+        h1 {
+            font-size: 1.2rem;
+			line-height: 1.40rem;
+        }
+
+				.important-text {
+						font-size:1.2rem;
+						line-height: 1.4rem;
+						font-weight: 300;
+				}
+
+				p {
+						line-height: 1.20rem;
+				}
+
+    }
+
+
+
+
+/* #Font-Face
+================================================== */
+* {
+    font-family: 'Alegreya Sans', sans-serif;
+    transition: width 0.1s;
+    transition: height 0.1s;
+    transition: background-color 0.5s;
+		-webkit-transition: -webkit-transform 0.1s ease-out; /* Changed here */
+		-moz-transition: -moz-transform 0.1s ease-out;
+		-o-transition: -o-transform 0.1s ease-out;
+		transition: transform 0.1s ease-out;
+}
+
+
+@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?24645204');
+  src: url('../font/fontello.eot?24645204#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?24645204') format('woff'),
+       url('../font/fontello.ttf?24645204') format('truetype'),
+       url('../font/fontello.svg?24645204#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

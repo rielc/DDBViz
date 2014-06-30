@@ -1,18 +1,32 @@
 .d3-tip {
-  
-  line-height: 1;
-  font-weight: bold;
-  padding: 5px;
-  background: rgba(255, 255, 255, 1);
-  color: #000;
-  border-radius: 0px;
+  padding: 5px 10px 5px 10px;
+  background-color: #fff;
   pointer-events: none;
-  font-family: Arial;
-  font-size: 10px;
-  font-variant: normal;
-  -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.74);
-  -moz-box-shadow:    0px 0px 7px 0px rgba(0, 0, 0, 0.74);
-  box-shadow:         0px 0px 7px 0px rgba(0, 0, 0, 0.74);
+  text-align: center;
+}
+
+.d3-tip h3 {
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  line-height: 1.2rem;
+  font-size: 1rem;
+  color:#000;
+  margin:0;
+  padding: 2px 0 2px 0;
+  border-bottom:1px solid #a40539;
+}
+
+.d3-tip p {
+  color:#a40539;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 0.625rem;
+  line-height: 0.75rem;
+  padding: 2px 0 2px 0;
+
+
 }
 
 
@@ -24,7 +38,7 @@
   font-size: 5px;
   width: 100%;
   line-height: 1;
-  color: rgba(255, 255, 255, 1);
+  color: #fff;
   position: absolute;
   pointer-events: none;
 }

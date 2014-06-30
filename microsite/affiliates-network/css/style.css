@@ -21,7 +21,7 @@
 /* #Site Styles
 ================================================== */
 
-a { color:#fff; border-bottom:1px solid #a40539; text-decoration: none;}
+a { !important color:#fff; border-bottom:1px solid #a40539; text-decoration: underline; font-weight:500;}
 
 body {
 	background-color:#222222;
@@ -38,14 +38,19 @@ strong {
 }
 
 h1 {
-    font-size: 2.7rem;
+    font-size: 1.6785rem;
     font-weight: 300;
-	padding:2rem 0 2rem 0;
+	padding:25px 0 25px 0;
 	color:#B0B0B0;
 }
 
-h3 {
-	text-transform: uppercase;
+h1#title {
+	text-align: center;
+  	letter-spacing: 0.1rem;
+  	font-family: "Times New Roman", Times, serif;
+  	font-style: italic;
+  	font-weight: normal;
+
 }
 
 
@@ -69,6 +74,8 @@ g.resize rect {
 }
 
 .ddb-text {
+  	font-family: 'Lato', sans-serif;
+  	font-style: normal;
 	text-transform: uppercase;
     font-weight:500;
 	color:#a40539;
@@ -76,7 +83,6 @@ g.resize rect {
 
 #wrapper {
 	position: relative;
-	background-color:rgba(0, 0, 0, 0.75)
 }
 
 svg#network {

@@ -13,7 +13,8 @@
   <svg id="network"></svg>
 </div>
 <div id="wrapper" class="container">
-<h1 class="sixteen columns"> <span class="ddb-text"> Deutsche Digitale Bibliothek</span><br />Personen und Organisationen</h1>
+<h1 class="sixteen columns" id="title"> <span class="ddb-text"> Deutsche Digitale Bibliothek</span><br />Personen und Organisationen</h1>
+<p class="sixteen columns"><a href="#" id="node-positioning-network">Netzwerk</a> / <a href="#" id="node-positioning-sort-by-occurrence">Sortiert nach Vorkommen</a></p>
 <svg id="timeline"></svg>
 <p class="four columns">Ausgewählte Zeiträume:</p>
 <p class="twelve columns" id="timeline-sums"></p>
@@ -37,7 +38,17 @@
       an.load();
     });
 
-    $("#wrapper").css('top', $(window).height()-200);
+    $("#wrapper").css('top', $(window).height()-$("#title").height()-100);
+
+    $("#node-positioning-sort-by-occurrence").click(function () {
+      an.switchNodepositioning("sortByOccurrence");
+      return false;
+    });
+    $("#node-positioning-network").click(function () {
+      an.switchNodepositioning("network");
+      return false;
+
+    });
 
   });
 

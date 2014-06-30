@@ -81,12 +81,17 @@ g.resize rect {
 	color:#a40539;
 }
 
+#header {
+	position:realtive;
+}
+
 #wrapper {
 	position: relative;
 }
 
 svg#network {
 	position:fixed;
+
 }
 
 

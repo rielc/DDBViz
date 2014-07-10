@@ -1,3 +1,8 @@
+radius = function() {
+
+
+};
+
 DDBAffiliateNetwork = function()
 {
 
@@ -39,7 +44,6 @@ DDBAffiliateNetwork = function()
 
     this.collectNewNodes = function (e0, e1) {
       if (this.timelineIDs[0] != e0 || this.timelineIDs[1] != e1) {
-
 
 
         if (this.timelineIDs[0] < e0) {
@@ -166,7 +170,7 @@ DDBAffiliateNetwork = function()
 
   this.initTimeline = function () {
 
-    this.timelineWidth = 940;
+    this.timelineWidth = 820;
     var brushScale = d3.scale.linear()
       .domain([0,this.timeFcts.length-1])
       .range([0, this.timelineWidth]);
@@ -176,7 +180,38 @@ DDBAffiliateNetwork = function()
           extent1;
 
       // if dragging, preserve the width of the extent
-      var d0 = Math.round(extent0[0]), d1 = Math.round(extent0[1]);
+      //var d0 = Math.round(extent0[0]), d1 = Math.round(extent0[1]);
+
+
+      d0 = Math.round(brushScale.invert(d3.mouse(this)[0]));
+      d1=d0+1;
+
+      // console.log('d0: '+d0);
+      // console.log('d1: '+d1);
+
+      //   //d1 = d0+1;
+      // console.log('nd0: '+d0);
+      // console.log('nd1: '+d1);
+
+      if (d1>d0) {
+        d0 = d1-1;
+      } else {
+        if (d1<d0) {
+          d1 = d0+1;
+        }
+      }
+
+
+      if (d0 > self.timeFcts.length-1) {
+        d0 = self.timeFcts.length-2;
+        d1 = self.timeFcts.length-1;
+      }
+
+      if (d0 < 1) {
+        d0 = 0;
+        d1 = 1;
+      }
+
       d3.select(this).call(self.brush.extent([d0, d1]));
       self.collectNewNodes(d0, d1);
     };
@@ -184,12 +219,11 @@ DDBAffiliateNetwork = function()
 
     var yScale = d3.scale.linear()
       .domain([0, 300])
-      .range([0, 100]);
+      .range([0, 40]);
 
     this.timeline = d3.select("#timeline")
       .attr("width", this.timelineWidth)
-      .attr("class", "sixteen columns")
-      .attr("height", 250);
+      .attr("height", 40);
 
     this.brush = d3.svg.brush()
       .x(brushScale)
@@ -210,9 +244,15 @@ DDBAffiliateNetwork = function()
 
 
     this.gBrush.selectAll("rect")
-      .attr("height", 100)
+      .attr("height", 40)
       .attr('transform', 'translate(0,0)')
       .attr('fill-opacity', 0.2);
+
+
+    this.timeFacetTip = d3.tip().attr('class', 'd3-tip').html( function (i) { return '<h3>'+self.timeNames[i]+'</h3>'; } );
+    //this.timeFacetTip.show();
+    this.timeline.call(this.timeFacetTip);
+
 
     this.ticks
       .enter()
@@ -223,12 +263,14 @@ DDBAffiliateNetwork = function()
       .attr('height', 0 )
       .attr('fill', '#a40539')
       .attr('fill-opacity', 1)
+      .on('mouseover', this.timeFacetTip.show)
       .transition()
       .duration(500)
       .delay( function (d, i) { return i*3; } )
       .attr('height', function (d, i) { if (self.data[d] != undefined) { return yScale(self.data[d].nodes.length); } else { return 0; }} )
-      .attr('y', function (d, i) { if (self.data[d] != undefined) { return 100-yScale(self.data[d].nodes.length); } else { return 0; }} );
+      .attr('y', function (d, i) { if (self.data[d] != undefined) { return 40-yScale(self.data[d].nodes.length); } else { return 0; }} );
 
+    /*
     this.labels = this.timeline.append('g')
       .attr("id", "labels")
       .selectAll('text')
@@ -246,9 +288,7 @@ DDBAffiliateNetwork = function()
       .transition()
       .duration(500)
       .delay( function (d, i) { return i*3; } )
-      .style('fill-opacity', 1);
-;
-
+      .style('fill-opacity', 1); */
 
   };
 
@@ -288,9 +328,8 @@ DDBAffiliateNetwork = function()
       case "network" :
         this.affiliates
           .style("fill", '#cecece')
-          .style("fill-opacity", 0.5)
+          .style("fill-opacity", 1.0)
           .transition()
-          .delay(1500)
           .duration(1000)
           .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); });
       break;
@@ -324,20 +363,25 @@ DDBAffiliateNetwork = function()
         this.affiliates
           .enter()
           .append("circle")
-          .on('mouseover', this.tip.show)
-          .on('mouseout', this.tip.hide)
-          .on('click', function (d) { self.focusAffiliate(d) })
+          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
+          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
+          //.attr("filter", "url(#dropshadow)")
+          //.on('click', function (d) { self.focusAffiliate(d) })
           .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
           .attr("class", "affiliate")
           .attr("r", function (d) { return 0; })
-          //.on("click", function (d) { self.loadNormdata(d.affiliate_fct_id); })
+          //.attr("fill" ,"url(#hatch00);")
+          .on("click", function (d) { self.openDDB("node", d.affiliate_fct); })
+          .style("stroke", "#222")
+          .style("stroke-width", "2")
+          .style("stroke-location", "inside")
           .style("fill", '#cecece')
           .transition()
           .delay(1500)
           .duration(500)
           .delay(function(d, i) {return i*3;})
           .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); })
-          .style("fill-opacity", 0.5);
+          .style("fill-opacity", 1.0);
 
 
       break;
@@ -349,8 +393,8 @@ DDBAffiliateNetwork = function()
           .append("circle")
           .attr("r", function (d) { return 0; })
           .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
-          .on('mouseover', this.tip.show)
-          .on('mouseout', this.tip.hide)
+          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
+          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
           .on('click', function (d) { self.focusAffiliate(d) })
           .attr("class", "affiliate")
           .style("fill", '#cecece')
@@ -380,6 +424,46 @@ DDBAffiliateNetwork = function()
   };
 
 
+  this.openDDB = function (mode, data) {
+
+    switch(mode) {
+      case "node":
+      console.log(data);
+        window.open("https://www.deutsche-digitale-bibliothek.de/searchresults?query=&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURIComponent(data)+"&offset=0&viewType=grid")
+      break;
+
+      case "link":
+      var query = 'affiliate\:\('+encodeURI(data.source.affiliate_fct)+') AND affiliate\:\('+encodeURI(data.target.affiliate_fct)+'\)&viewType=grid';
+        window.open('https://www.deutsche-digitale-bibliothek.de/searchresults?query='+query);
+      break;
+    }
+  };
+
+  this.defocus = function () {
+    this.links.attr("opacity", 1.0);
+    this.affiliates.attr("opacity", 1.0);
+  };
+
+
+  this.focus = function (mode, data) {
+
+    this.links.attr("opacity", 0.1);
+    this.affiliates.attr("opacity", 0.3);
+
+    switch(mode) {
+      case "node":
+        d3.select("#affiliate_fct_id-" + data.affiliate_fct_id).attr("opacity", 1.0);
+      break;
+
+      case "link":
+        d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).attr("opacity", 1.0);
+        d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).attr("opacity", 1.0);
+        d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).attr("opacity", 1.0);
+      break;
+    }
+
+  };
+
 
   this.init = function() {
 
@@ -394,8 +478,9 @@ DDBAffiliateNetwork = function()
 
     // create the force-directed-graph
     this.force = d3.layout.force()
-      .charge(-10)
-      .linkDistance(function (d) { return Math.sqrt( (self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI ) + Math.sqrt( (self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI )})
+      .charge(function (d) { return Math.sqrt(Math.sqrt(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum))*-20 - 40; })
+      .friction(0.85)
+      .linkDistance(function (d) { return Math.sqrt( (self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI ) + 10 + Math.sqrt( (self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI )})
       .size([  this.networkWidth, this.networkHeight]);
 
     this.allNodes = d3.map();
@@ -405,11 +490,12 @@ DDBAffiliateNetwork = function()
 
     /* Initialize tooltip */
     this.tip = d3.tip().attr('class', 'd3-tip').html( function (d) { return '<h3>'+d.affiliate_fct+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum+' Einträge)</p>'; } );
+
     this.svg.call(this.tip);     /* Invoke the tip in the context of your visualization */
 
     this.parameters.timeFct = this.timeFcts[0];
 
-    jQuery.getJSON( "./data/detail-10.json", function (result) {
+    jQuery.getJSON( "./data/detail-20.json", function (result) {
 
       self.data = result;
       self.initTimeline();
@@ -473,11 +559,14 @@ DDBAffiliateNetwork = function()
         case "network" :
           self.affiliates
             .attr("cx", function (d) { if (!d.fixed) {return d.x;}} )
+            //.attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
             .attr("cy", function (d) { if (!d.fixed) {return d.y;}} );
           self.links
             .attr("x1", function (d) { return d.source.x; })
-            .attr("y1", function (d) { return d.source.y; })
             .attr("x2", function (d) { return d.target.x; })
+            //.attr("x1", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+            //.attr("x2", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+            .attr("y1", function (d) { return d.source.y; })
             .attr("y2", function (d) { return d.target.y; });
         break;
         case "sortByOccurrence" :
@@ -496,47 +585,32 @@ DDBAffiliateNetwork = function()
 
   /*
 
+  this.defs = this.svg.append("defs");
 
-  this.createtimelineBrush = function() { 
+  this.filter = this.defs
+      .append("filter")
+      .attr("id", "dropshadow");
 
-  this.timelineX = d3.time.scale()
-    .domain([new Date(2013, 2, 1), new Date(2013, 2, 15) - 1])
-    .range([0, width]);
+  this.filter
+      .append("feGaussianBlur")
+      .attr("in", "SourceAlpha")
+      .attr("stdDeviation", 2)
+      .attr("result", "blur");
 
-  this.timelineBrush = d3.svg.brush()
-      .x(x)
-      .extent([new Date(2013, 2, 2), new Date(2013, 2, 3)])
-      .on("brush", brushed);
+  this.filter
+      .append("feOffset")
+      .attr("in", "blur")
+      .attr("dx", 0)
+      .attr("dy", 0)
+      .attr("result", "offsetBlur");
 
-  this.timelineGroup = this.svg.append("rect")
-      .attr("class", "grid-background")
-      .attr("width", width)
-      .attr("height", height);
+  this.feMerge = this.filter.append("feMerge");
 
+  this.feMerge.append("feMergeNode")
+      .attr("in", "offsetBlur");
 
-  this.svg.append("g")
-      .attr("class", "x grid")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.svg.axis()
-          .scale(x)
-          .orient("bottom")
-          .ticks(d3.time.hours, 12)
-          .tickSize(-height)
-          .tickFormat(""))
-    .selectAll(".tick")
-    .classed("minor", function(d) { return d.getHours(); });
-
-  this.svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.svg.axis()
-        .scale(x)
-        .orient("bottom")
-        .ticks(d3.time.days)
-        .tickPadding(0))
-    .selectAll("text")
-      .attr("x", 6)
-      .style("text-anchor", null);
+  this.feMerge.append("feMergeNode")
+      .attr("in", "SourceGraphic");
 
   };
 
@@ -550,20 +624,33 @@ DDBAffiliateNetwork = function()
   this.load = function () {
 
     this.links = this.svg
+      .select("g#links")
       .selectAll(".link")
-      .data( this.force.links() );
-      // , function(d) { return (d.source+'-'+d.target); }
+      .data( this.force.links(), function (d) { return (d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id);} );
+      // ,  }
+
+    this.links
+      .attr("stroke-opacity", 0.0)
+      .transition()
+      .duration(500)
+      .delay(1000)
+      .style("stroke-opacity", 0.5);
 
     this.links
       .enter()
       .append("line")
+      .on("mouseover", function (d,i) { self.focus("link", d);} )
+      .on("mouseout", function (d,i) { self.defocus();} )
       .attr("class", "link")
+      .attr("id", function (d) { return "link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id; })
       .attr("stroke-opacity", 0.0)
+      .on("click", function (d) { self.openDDB("link", d); })
       .style("stroke", '#a40539')
-      .style("stroke-width", 2)
+      .style("stroke-width", 6)
       .transition()
       .duration(500)
-      .style("stroke-opacity", 1.0);
+      .delay(1000)
+      .style("stroke-opacity", 0.5);
 
     this.links
       .exit()
@@ -574,6 +661,7 @@ DDBAffiliateNetwork = function()
 
     // selection
     this.affiliates = this.svg
+      .select("g#nodes")
       .selectAll(".affiliate")
       .data(this.force.nodes() , function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id; } );
 
@@ -585,12 +673,12 @@ DDBAffiliateNetwork = function()
     this.affiliates
       .exit()
       .transition()
-      .duration(700)
-      .style("fill-opacity", 0.1)
+      .duration(300)
+      .style("fill-opacity", 0.0)
       .style("fill", '#000')
       .transition()
       .duration(700)
-      .attr("cx", function (d,i) { var offset = 0; if( self.timelineDirection == "future" ) { offset = self.networkWidth*-1 } else { offset = self.networkWidth } return d.x + offset; })
+      //.attr("cx", function (d,i) { var offset = 0; if( self.timelineDirection == "future" ) { offset = self.networkWidth*-1 } else { offset = self.networkWidth } return d.x + offset; })
       .remove();
 
 

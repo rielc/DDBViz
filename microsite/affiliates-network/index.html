@@ -9,18 +9,21 @@
 </head>
 
 <body>
-<div id="header" class="container"><h1 class="sixteen columns" id="title"> <span class="ddb-text"> Deutsche Digitale Bibliothek</span><br />Personen und Organisationen</h1>
-</div>
-<div>
-  <svg id="network"></svg>
-</div>
-<div id="wrapper" class="container">
-<svg id="timeline"></svg>
-<p class="four columns">Ausgewählte Zeiträume:</p>
-<p class="twelve columns" id="timeline-sums"></p>
-<p class="sixteen columns"><a href="#" id="node-positioning-network">Netzwerk</a> / <a href="#" id="node-positioning-sort-by-occurrence">Sortiert nach Vorkommen</a></p>
-
-</div>
+<svg id="network">
+  <g id="links"></g>
+  <g id="nodes"></g>
+</svg>
+<header class="container">
+  <h3 class="alpha six columns" id="ddb">Deutsche Digitale Bibliothek</h3>
+  <h1 class="omega ten columns" id="type">Personen und Organisationen in <span id="timeline-sums"></span></h1>
+  <p class="alpha two columns">
+    <img class="icon-button" src="images/icons/network.svg" id="node-positioning-network" />
+    <img class="icon-button"  src="images/icons/sorted.svg" id="node-positioning-sort-by-occurrence"/>
+  </p>
+  <p class="omega fourteen columns">
+    <svg id="timeline"></svg>
+  </p>
+</header>
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
@@ -35,22 +38,30 @@
     an = new DDBAffiliateNetwork();
     an.init();
 
+
     $('#time-fct').change( function() {
       an.parameters.timeFct = $(this).find('option:selected').val();
       an.load();
     });
 
-    $("#wrapper").css('top', $(window).height()-$("#title").height()-100);
-
     $("#node-positioning-sort-by-occurrence").click(function () {
+      $(".icon-button").removeClass('active');
+      $(this).addClass('active');
       an.switchNodepositioning("sortByOccurrence");
       return false;
     });
     $("#node-positioning-network").click(function () {
+      $(".icon-button").removeClass('active');
+      $(this).addClass('active');
       an.switchNodepositioning("network");
       return false;
 
     });
+
+    //$('footer').css("top", ($(window).height()));
+    //console.log($("footer").height());
+    //$('footer').css("left", $("header").css("left"));
+
 
   });
 

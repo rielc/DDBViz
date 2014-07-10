@@ -30,29 +30,46 @@ body {
 }
 
 p {
-		font-weight: 200;
+	font-weight: 200;
 }
 
 strong {
-		font-weight: 500;
+	font-weight: 500;
 }
 
-h1 {
-    font-size: 1.6785rem;
-    font-weight: 300;
-	padding:25px 0 25px 0;
+p, h1, h2, h3 {
+    font-size: 1.0rem;
+  	font-family: "Times New Roman", Times, serif;
+	margin:1.5rem 0 0 0 ;
+	padding:0;
 	color:#B0B0B0;
 }
 
-h1#title {
-	text-align: center;
-  	letter-spacing: 0.1rem;
-  	font-family: "Times New Roman", Times, serif;
-  	font-style: italic;
-  	font-weight: normal;
 
+img.icon-button {
+	cursor: pointer;
+	opacity:0.5;
+	border-radius: 15px;
 }
 
+img.active {
+	opacity:1.0;
+}
+
+#ddb {
+  	font-family: 'Lato', sans-serif;
+  	font-style: normal;
+	text-transform: uppercase;
+    font-weight:500;
+	color:#a40539;
+}
+
+#type {
+  	font-family: "Times New Roman", Times, serif;
+  	letter-spacing: 0.1rem;
+  	font-style: italic;
+	color:#EDEDED;
+}
 
 rect.extent {
   height:90px;
@@ -69,20 +86,18 @@ g.resize rect {
 }
 
 
-#timeline-sums {
-    font-weight:300;
+header {
+	position:fixed;
+	z-index:10;
+	background-image: url("../images/shadow.png");
+	background-repeat: no-repeat;
+	background-position: bottom center;
 }
 
-.ddb-text {
-  	font-family: 'Lato', sans-serif;
-  	font-style: normal;
-	text-transform: uppercase;
-    font-weight:500;
-	color:#a40539;
-}
-
-#header {
-	position:realtive;
+footer {
+	position:absolute;
+	background-image: url("../images/shadow.png");
+	z-index:10;
 }
 
 #wrapper {
@@ -91,7 +106,17 @@ g.resize rect {
 
 svg#network {
 	position:fixed;
+	z-index:0;
+	top:0;
+	left:0;
+}
 
+svg#timeline {
+
+}
+
+.link, .affiliate {
+	cursor: pointer;
 }
 
 

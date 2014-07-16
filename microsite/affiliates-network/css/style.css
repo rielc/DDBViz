@@ -39,7 +39,7 @@ strong {
 
 p, h1, h2, h3 {
     font-size: 1.0rem;
-  	font-family: "Times New Roman", Times, serif;
+  	font-family: KarbidWeb, Calibri, Arial, sans-serif;
 	margin:1.5rem 0 0 0 ;
 	padding:0;
 	color:#B0B0B0;
@@ -64,10 +64,13 @@ img.active {
 	color:#a40539;
 }
 
+svg#network {
+	cursor: move;
+}
+
 #type {
-  	font-family: "Times New Roman", Times, serif;
+  	font-family: "KarbidWeb", sans-serif;
   	letter-spacing: 0.1rem;
-  	font-style: italic;
 	color:#EDEDED;
 }
 
@@ -89,9 +92,17 @@ g.resize rect {
 header {
 	position:fixed;
 	z-index:10;
-	background-image: url("../images/shadow.png");
 	background-repeat: no-repeat;
 	background-position: bottom center;
+
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.3))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#4d000000',GradientType=0 ); /* IE6-9 */
+
 }
 
 footer {
@@ -171,3 +182,22 @@ svg#timeline {
 body {
   	font-family: 'Lato', sans-serif;
 }
+
+
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("../../css/1HGuyWp6Yj6Z5z3kcAMgRdtlHegjbmhkSKRGcfXNgDR.eot");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("../../css/lzAnrAKX2n7PutBy5buXFL0d24qV6eUHbMaz5h9ue2q.woff") format("woff");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("../../css/yIMIfUnWlhZH037ltWgPCUzeEs43WOvOy7ewoNSTo8h.woff") format("woff");
+  font-weight: bold;
+}
+

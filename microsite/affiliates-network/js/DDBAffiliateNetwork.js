@@ -1,8 +1,3 @@
-radius = function() {
-
-
-};
-
 DDBAffiliateNetwork = function()
 {
 
@@ -17,10 +12,50 @@ DDBAffiliateNetwork = function()
 
   this.networkWidth = $(window).width(), this.networkHeight = $(window).height();
 
+  this.globalMaxOccurence = 0, this.globalMinOccurence = 1000;
+
   // append svg and resize
   this.svg = d3.select("#network")
     .attr("width", this.networkWidth)
     .attr("height", this.networkHeight);
+
+
+    var x = d3.scale.linear()
+        .domain([0, this.networkWidth])
+        .range([0, this.networkWidth]);
+
+    var y = d3.scale.linear()
+        .domain([0, this.networkHeight])
+        .range([this.networkHeight, 0]);
+
+
+    function zoom(d) {
+
+      if (self.force.alpha() == 0) {
+
+        self.affiliates
+          .attr("cx", transformX)
+          .attr("cy", transformY);
+
+        self.links
+          .attr("x1", function(d) { return transformX(d.source); })
+          .attr("x2", function(d) { return transformX(d.target); })
+          .attr("y1", function(d) { return transformY(d.source); })
+          .attr("y2", function(d) { return transformY(d.target); });
+      }
+
+    }
+    function transformX(d) {
+      return x(d.x);
+    }
+
+    function transformY(d) {
+      return y(d.y);
+
+    }
+
+  this.svg
+    .call(d3.behavior.zoom().x(x).y(y).scaleExtent([1, 8]).on("zoom", zoom));
 
 
     // collects all nodes in the beginning
@@ -28,6 +63,8 @@ DDBAffiliateNetwork = function()
       var keys = d3.keys(this.data);
       for (var i=0; i<keys.length; i++) {
         var nodes = this.data[keys[i]].nodes;
+        var links = this.data[keys[i]].links;
+
         nodes.forEach(function(n) {
           if (self.allNodes.has(n.affiliate_fct_id) == false) {
             self.allNodes.set( n.affiliate_fct_id, {
@@ -38,7 +75,35 @@ DDBAffiliateNetwork = function()
             );
           }
         });
+
+
+        // update the minimum/maximum occurrences as reference for scales
+        var currentMax = d3.max(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
+        var currentMin = d3.min(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
+
+        if (currentMin != undefined && currentMax != undefined) {
+
+          console.log('max:' + this.globalMaxOccurence);
+          console.log('min:' + this.globalMinOccurence);
+
+          if (this.globalMaxOccurence<currentMax) { this.globalMaxOccurence = currentMax; }
+
+          if (this.globalMinOccurence>currentMin && currentMin !=0) { this.globalMinOccurence = currentMin; }
+          // update the scale
+
+        }
+        this.radiusScale = d3.scale.log(100).domain([this.globalMinOccurence, this.globalMaxOccurence]).range([1, 40]);
+
       }
+
+    };
+
+
+    this.radius = function(value) {
+
+      return this.radiusScale(value);
+      //return Math.sqrt((value)/Math.PI);
+
     };
 
 
@@ -331,7 +396,7 @@ DDBAffiliateNetwork = function()
           .style("fill-opacity", 1.0)
           .transition()
           .duration(1000)
-          .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); });
+          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); });
       break;
 
       case "sortByOccurrence" :
@@ -342,7 +407,7 @@ DDBAffiliateNetwork = function()
           .duration(500)
           .style("fill", '#cecece')
           .style("fill-opacity", 0.5)
-          .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); })
+          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
           .attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
           .attr("cy", function (d,i) { return self.networkHeight/2 } );
       break;
@@ -372,15 +437,15 @@ DDBAffiliateNetwork = function()
           .attr("r", function (d) { return 0; })
           //.attr("fill" ,"url(#hatch00);")
           .on("click", function (d) { self.openDDB("node", d.affiliate_fct); })
-          .style("stroke", "#222")
-          .style("stroke-width", "2")
+          .style("stroke-width", "1")
           .style("stroke-location", "inside")
-          .style("fill", '#cecece')
+          .style("fill", "#7a7a7a")
+          .style("stroke", "#cecece")
           .transition()
           .delay(1500)
           .duration(500)
           .delay(function(d, i) {return i*3;})
-          .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); })
+          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
           .style("fill-opacity", 1.0);
 
 
@@ -397,14 +462,15 @@ DDBAffiliateNetwork = function()
           .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
           .on('click', function (d) { self.focusAffiliate(d) })
           .attr("class", "affiliate")
-          .style("fill", '#cecece')
+          .style("fill", "#7a7a7a")
+          .style("stroke", "#cecece")
           .attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
           .attr("cy", function (d,i) { return self.networkHeight/2 } )
           .on("click", function (d) { self.loadNormdata(d.affiliate_fct_id); })
           .transition()
           .duration(500)
           .delay(function(d, i) {return i*10;})
-          .attr("r", function (d) { return Math.sqrt( (self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI); })
+          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
           .style("fill-opacity", 0.3);
 
       break;
@@ -440,25 +506,36 @@ DDBAffiliateNetwork = function()
   };
 
   this.defocus = function () {
-    this.links.attr("opacity", 1.0);
-    this.affiliates.attr("opacity", 1.0);
+    this.links.style("stroke", "#a40539");
+    this.affiliates.style("fill", "#7a7a7a").style("stroke", "#cecece");
   };
 
 
   this.focus = function (mode, data) {
 
-    this.links.attr("opacity", 0.1);
-    this.affiliates.attr("opacity", 0.3);
+    this.links.style("stroke", "#a40539");
+    this.affiliates.style("fill", "#7a7a7a").style("stroke", "#cecece");
 
     switch(mode) {
       case "node":
-        d3.select("#affiliate_fct_id-" + data.affiliate_fct_id).attr("opacity", 1.0);
+        d3.select("#affiliate_fct_id-" + data.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+
+        links = this.currentLinks.values().filter(function (n) { return (n.target.affiliate_fct_id == data.affiliate_fct_id ||  n.source.affiliate_facet_id == data.affiliate_fct_id); });
+        console.log(links);
+        for(var i=0; i<links.length; i++) {
+          d3.select("#link-"+links[i].source.affiliate_fct_id+'_'+links[i].target.affiliate_fct_id).style("stroke", "#fff");
+          d3.select("#link-"+links[i].target.affiliate_fct_id+'_'+links[i].source.affiliate_fct_id).style("stroke", "#fff");
+
+          d3.select("#affiliate_fct_id-" + links[i].source.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+          d3.select("#affiliate_fct_id-" + links[i].target.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+        }
+
       break;
 
       case "link":
-        d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).attr("opacity", 1.0);
-        d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).attr("opacity", 1.0);
-        d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).attr("opacity", 1.0);
+        d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).style("stroke", "#fff");
+        d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+        d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
       break;
     }
 
@@ -475,12 +552,13 @@ DDBAffiliateNetwork = function()
     this.timelineIDs = [];
     this.timelineSum = [];
 
+    this.radiusScale = d3.scale.log();
 
     // create the force-directed-graph
     this.force = d3.layout.force()
-      .charge(function (d) { return Math.sqrt(Math.sqrt(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum))*-20 - 40; })
-      .friction(0.85)
-      .linkDistance(function (d) { return Math.sqrt( (self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI ) + 10 + Math.sqrt( (self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI )})
+      .charge(function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum)*self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum)*-1; })
+      .friction(0.7)
+      .linkDistance(function (d) { return self.radius(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum) + 20 + self.radius(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum)})
       .size([  this.networkWidth, this.networkHeight]);
 
     this.allNodes = d3.map();
@@ -489,7 +567,7 @@ DDBAffiliateNetwork = function()
     this.currentLinks = d3.map();
 
     /* Initialize tooltip */
-    this.tip = d3.tip().attr('class', 'd3-tip').html( function (d) { return '<h3>'+d.affiliate_fct+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum+' Einträge)</p>'; } );
+    this.tip = d3.tip().attr('class', 'd3-tip').html( function (d) { return '<h3>'+d.affiliate_fct+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum+' Einträge</p>'; } );
 
     this.svg.call(this.tip);     /* Invoke the tip in the context of your visualization */
 
@@ -532,7 +610,7 @@ DDBAffiliateNetwork = function()
           var x = node.x - quad.point.x;
           var y = node.y - quad.point.y;
           var distance = Math.sqrt( x * x + y * y );
-          var distanceOfCombinedRadius = Math.sqrt( (self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI) + Math.sqrt( (self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI);
+          var distanceOfCombinedRadius = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence_sum);
             if ( distance < distanceOfCombinedRadius ) {
               distance = (distance - distanceOfCombinedRadius) / distance * .5;
               node.x -= (x *= distance);
@@ -558,16 +636,16 @@ DDBAffiliateNetwork = function()
       switch(self.nodePositioning) {
         case "network" :
           self.affiliates
-            .attr("cx", function (d) { if (!d.fixed) {return d.x;}} )
+            .attr("cx", function (d) { if (!d.fixed) {return transformX(d);}} )
             //.attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
-            .attr("cy", function (d) { if (!d.fixed) {return d.y;}} );
+            .attr("cy", function (d) { if (!d.fixed) {return transformY(d)}} );
           self.links
-            .attr("x1", function (d) { return d.source.x; })
-            .attr("x2", function (d) { return d.target.x; })
+            .attr("x1", function (d) { return transformX(d.source); })
+            .attr("x2", function (d) { return transformX(d.target); })
             //.attr("x1", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum); })
             //.attr("x2", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum); })
-            .attr("y1", function (d) { return d.source.y; })
-            .attr("y2", function (d) { return d.target.y; });
+            .attr("y1", function (d) { return transformY(d.source); })
+            .attr("y2", function (d) { return transformY(d.target); });
         break;
         case "sortByOccurrence" :
           // copies the network-positions
@@ -634,7 +712,7 @@ DDBAffiliateNetwork = function()
       .transition()
       .duration(500)
       .delay(1000)
-      .style("stroke-opacity", 0.5);
+      .style("stroke-opacity", 1.0);
 
     this.links
       .enter()
@@ -646,11 +724,11 @@ DDBAffiliateNetwork = function()
       .attr("stroke-opacity", 0.0)
       .on("click", function (d) { self.openDDB("link", d); })
       .style("stroke", '#a40539')
-      .style("stroke-width", 6)
+      .style("stroke-width", 2)
       .transition()
       .duration(500)
       .delay(1000)
-      .style("stroke-opacity", 0.5);
+      .style("stroke-opacity", 1.0);
 
     this.links
       .exit()
@@ -674,8 +752,8 @@ DDBAffiliateNetwork = function()
       .exit()
       .transition()
       .duration(300)
+      .style("stroke-opacity", 0.0)
       .style("fill-opacity", 0.0)
-      .style("fill", '#000')
       .transition()
       .duration(700)
       //.attr("cx", function (d,i) { var offset = 0; if( self.timelineDirection == "future" ) { offset = self.networkWidth*-1 } else { offset = self.networkWidth } return d.x + offset; })

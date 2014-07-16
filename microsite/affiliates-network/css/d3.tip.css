@@ -1,23 +1,21 @@
 .d3-tip {
   padding: 5px 10px 5px 10px;
-  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.75);
   pointer-events: none;
   text-align: center;
 }
 
 .d3-tip h3 {
-  letter-spacing: 0.1rem;
-  font-family: "Times New Roman", Times, serif;
-  font-style: italic;
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
   line-height: 1.2rem;
   font-size: 1rem;
-  color:#000;
+  color:#fff;
   margin:0;
   padding: 2px 0 2px 0;
 }
 
 .d3-tip p {
-  color:#a40539;
+  color:#fff;
   font-weight: 400;
   font-family: 'Lato', sans-serif;
   font-style: normal;
@@ -38,7 +36,7 @@
   font-size: 10px;
   width: 100%;
   line-height: 1;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.75);
   position: absolute;
   pointer-events: none;
 }

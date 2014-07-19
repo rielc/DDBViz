@@ -2,28 +2,44 @@
 <head>
 <meta charset="utf-8">
   <link rel="stylesheet" href="./css/d3.tip.css">
-  <link rel="stylesheet" href="../css/skeleton.css">
-  <link rel="stylesheet" href="../css/base.css">
   <link rel="stylesheet" href="./css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-<svg id="network">
+<div class="header">
+  <div class="container">
+    <h1>Deutsche Digitale Bibliothek <span>visualisiert</span></h1>
+    <div class="menu">
+      <span>Übersicht</span>
+      <span>Stichworte</span>
+      <span>Orte</span>
+      <span>Nertzwerke</span>
+    </div>
+  </div>
+</div>
+<div class="subheader">
+  <div class="container">
+    <h1>Ein Netzwerk aus den aktivsten Personen/Organisationen um <span id="time-facet-name"></span></h1>
+    <p class="timeline-tip">
+      <svg id="timeline"></svg>
+    </p>
+    <p> Dargestellt werden die 500 aktivsten Personen/Organisationen und Ihre  Kollaboratoren. Eine Person muss mindestens 20 Einträge haben, damit sie vorkommt.</p>
+  </div>
+</div>
+<div class="main">
+  <div class="container">
+    <div class="menu">
+      <img src="images/icons/network.svg" id="node-positioning-network" />
+      <img src="images/icons/sorted.svg" id="node-positioning-sort-by-occurrence"/>
+    </div>
+  </div>
+  <svg id="network">
   <g id="links"></g>
   <g id="nodes"></g>
 </svg>
-<header class="container">
-  <h3 class="alpha six columns" id="ddb">Deutsche Digitale Bibliothek</h3>
-  <h1 class="omega ten columns" id="type">Personen und Organisationen in <span id="timeline-sums"></span></h1>
-  <p class="alpha two columns">
-    <img class="icon-button" src="images/icons/network.svg" id="node-positioning-network" />
-    <img class="icon-button"  src="images/icons/sorted.svg" id="node-positioning-sort-by-occurrence"/>
-  </p>
-  <p class="omega fourteen columns">
-    <svg id="timeline"></svg>
-  </p>
-</header>
+</div>
+
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
@@ -43,6 +59,22 @@
       an.parameters.timeFct = $(this).find('option:selected').val();
       an.load();
     });
+
+    $('#time-facet-name').mouseover( function() {
+      $(".timeline-tip").attr("class", "timeline-tip active");
+      an.resizeWindow();
+    });
+
+    $('#network').mouseover( function() {
+      $(".timeline-tip").attr("class", "timeline-tip inactive");
+      an.resizeWindow();
+    });
+
+
+    $( window ).resize(function() {
+      an.resizeWindow();
+    });
+
 
     $("#node-positioning-sort-by-occurrence").click(function () {
       $(".icon-button").removeClass('active');

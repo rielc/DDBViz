@@ -9,16 +9,21 @@ DDBAffiliateNetwork = function()
 
   this.nodePositioning = "network";
   this.minOccurrence = 40;
+  this.maxNodeCount =0;
+  this.maxNodeCount =100;
 
-  this.networkWidth = $(window).width(), this.networkHeight = $(window).height();
+  this.networkWidth = $(window).width(), 
+  this.networkHeight = $(window).height()-$(".header").outerHeight(true)-$(".subheader").outerHeight(true);
+
+  console.log(this.networkHeight)
 
   this.globalMaxOccurence = 0, this.globalMinOccurence = 1000;
 
   // append svg and resize
   this.svg = d3.select("#network")
     .attr("width", this.networkWidth)
-    .attr("height", this.networkHeight);
-
+    .attr("height", this.networkHeight); //this.networkHeight
+    
 
     var x = d3.scale.linear()
         .domain([0, this.networkWidth])
@@ -58,17 +63,30 @@ DDBAffiliateNetwork = function()
     .call(d3.behavior.zoom().x(x).y(y).scaleExtent([1, 8]).on("zoom", zoom));
 
 
+    this.resizeWindow  = function () {
+      // fetch the new sizes
+      this.networkWidth = $(window).width(), 
+      this.networkHeight = $(window).height()-$(".header").outerHeight(true)-$(".subheader").outerHeight(true);
+      this.svg
+        .attr("width", this.networkWidth)
+        .attr("height", this.networkHeight);
+      this.force.size([this.networkWidth, this.networkHeight]);
+    }
+
+
     // collects all nodes in the beginning
     this.collectAllNodes = function () {
       var keys = d3.keys(this.data);
+
+      // walk through all epochs
       for (var i=0; i<keys.length; i++) {
         var nodes = this.data[keys[i]].nodes;
         var links = this.data[keys[i]].links;
 
+      // for every node in that epoch
         nodes.forEach(function(n) {
           if (self.allNodes.has(n.affiliate_fct_id) == false) {
             self.allNodes.set( n.affiliate_fct_id, {
-                // id : n.affiliate_fct_id, 
                 affiliate_fct_id : n.affiliate_fct_id, 
                 affiliate_fct : n.affiliate_fct,
                 affiliate_fct_occurrence : n.affiliate_fct_occurrence }
@@ -80,18 +98,17 @@ DDBAffiliateNetwork = function()
         // update the minimum/maximum occurrences as reference for scales
         var currentMax = d3.max(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
         var currentMin = d3.min(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
-
         if (currentMin != undefined && currentMax != undefined) {
-
-          console.log('max:' + this.globalMaxOccurence);
-          console.log('min:' + this.globalMinOccurence);
-
           if (this.globalMaxOccurence<currentMax) { this.globalMaxOccurence = currentMax; }
-
           if (this.globalMinOccurence>currentMin && currentMin !=0) { this.globalMinOccurence = currentMin; }
           // update the scale
-
         }
+
+        // get min/max node count
+        if (this.maxNodeCount<nodes.length) { this.maxNodeCount = nodes.length; }
+        if (this.minNodeCount>nodes.length) { this.minNodeCount = nodes.length; }
+
+
         this.radiusScale = d3.scale.log(100).domain([this.globalMinOccurence, this.globalMaxOccurence]).range([1, 40]);
 
       }
@@ -128,28 +145,11 @@ DDBAffiliateNetwork = function()
         for (var i=e0; i<e1; i++) {
           keys.push(this.timeFcts[i]);
           this.timelineSums.push(this.timeNames[i]);
-          d3.select("#timeline-sums").text(this.timelineSums.join(', '));
+          d3.select("#time-facet-name").text(this.timelineSums.join(', '));
         }
 
         // calculate the sum of all occurrences
         this.nodeValues = d3.map();
-        for (var i=0; i<keys.length; i++) {
-          var nodes = this.data[keys[i]].nodes;
-          nodes.forEach(function (n) {
-            if (self.nodeValues.has(n.affiliate_fct_id) == true) {
-              self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_occurrence_sum+=n.affiliate_fct_occurrence;
-              self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_occurrence_per_time_fct[n.affiliate_fct_id] = n.affiliate_fct_occurrence
-            } else {
-              self.nodeValues.set(n.affiliate_fct_id, {
-                affiliate_fct_occurrence_sum : n.affiliate_fct_occurrence,
-                affiliate_fct_occurrence_per_time_fct : {}
-              });
-            }
-          });
-        }
-
-
-        // calculate the sum of all occurrences
         for (var i=0; i<keys.length; i++) {
           var nodes = this.data[keys[i]].nodes;
           nodes.forEach(function (n) {
@@ -223,7 +223,7 @@ DDBAffiliateNetwork = function()
           return nv.affiliate_fct_occurrence_sum;
         });
 
-        this.horizontalScale = d3.scale.log(2).domain([minOccurence, maxOccurence]).range([200, this.networkWidth-200]);
+        this.horizontalScale = d3.scale.log(2).domain([minOccurence, maxOccurence]).range([ , this.networkWidth-200]);
 
 
         this.load();
@@ -283,7 +283,7 @@ DDBAffiliateNetwork = function()
 
 
     var yScale = d3.scale.linear()
-      .domain([0, 300])
+      .domain([0, this.maxNodeCount])
       .range([0, 40]);
 
     this.timeline = d3.select("#timeline")
@@ -386,17 +386,82 @@ DDBAffiliateNetwork = function()
   };
 
 
+   this.enterNodes = function () {
+    /*
+    hist = d3.layout.histogram()
+      .value(function (n) { return self.nodeValues.get(n.affiliate_fct_id)
+      .affiliate_fct_occurrence_sum; })
+      .range([0, 100000])
+      .bins(10);
+
+    vert = d3.scale.linear()
+      .domain([0, 1])
+      .range([0, 500]);
+
+    this.hist = hist(this.force.nodes());
+
+    */
+
+
+    switch(this.nodePositioning) {
+
+      case "network" :
+
+        // enter new affiliates
+        this.affiliates
+          .enter()
+          .append("circle")
+          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
+          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
+          .on("click", function (d) { self.openDDB("node", d.affiliate_fct); })
+          .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
+          .attr("class", "affiliate")
+          .style("stroke-width", "1")
+          .style("stroke-location", "inside")
+          .call(resetNode)
+          .attr("r", function (d) { return 0; })
+          .transition()
+          .duration(500)
+          .call(resetNode)
+          .style("fill", "#fff");
+      break;
+
+      case "sortByOccurrence" :
+
+        this.affiliates
+          .enter()
+          .append("circle")
+          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
+          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
+          .on("click", function (d) { self.openDDB("node", d.affiliate_fct); })
+          .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
+          .attr("class", "affiliate")
+          .style("stroke-width", "1")
+          .style("stroke-location", "inside")
+          .call(resetNode)
+          .attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+          .attr("cy", function (d,i) { return self.networkHeight/2 } )
+          .transition()
+          .duration(500)
+          .call(resetNode);
+      break;
+
+
+    }
+
+  };
+
+
   this.updateNodes = function () {
 
     switch(this.nodePositioning) {
 
       case "network" :
         this.affiliates
-          .style("fill", '#cecece')
-          .style("fill-opacity", 1.0)
           .transition()
           .duration(1000)
-          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); });
+          .style("fill", "#dbdbdb")
+          .call(resetNode);
       break;
 
       case "sortByOccurrence" :
@@ -416,78 +481,24 @@ DDBAffiliateNetwork = function()
 
   };
 
-
-  this.enterNodes = function () {
-
-
-    switch(this.nodePositioning) {
-
-      case "network" :
-
-    // enter new affiliates
-        this.affiliates
-          .enter()
-          .append("circle")
-          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
-          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
-          //.attr("filter", "url(#dropshadow)")
-          //.on('click', function (d) { self.focusAffiliate(d) })
-          .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
-          .attr("class", "affiliate")
-          .attr("r", function (d) { return 0; })
-          //.attr("fill" ,"url(#hatch00);")
-          .on("click", function (d) { self.openDDB("node", d.affiliate_fct); })
-          .style("stroke-width", "1")
-          .style("stroke-location", "inside")
-          .style("fill", "#7a7a7a")
-          .style("stroke", "#cecece")
-          .transition()
-          .delay(1500)
-          .duration(500)
-          .delay(function(d, i) {return i*3;})
-          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
-          .style("fill-opacity", 1.0);
+  function resetNode (selection) {
+    selection
+      .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+      .style("fill", "#dbdbdb")
+      .style("stroke", "#fff")
+      .style("fill-opacity", 1.0);
+  }
+  function highlightNode (selection) {
+    selection
+      .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+      .style("fill", "#a40539")
+      .style("stroke", "#a40539")
+      .style("fill-opacity", 1.0);
+  }
 
 
-      break;
-
-      case "sortByOccurrence" :
-
-        this.affiliates
-          .enter()
-          .append("circle")
-          .attr("r", function (d) { return 0; })
-          .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
-          .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
-          .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
-          .on('click', function (d) { self.focusAffiliate(d) })
-          .attr("class", "affiliate")
-          .style("fill", "#7a7a7a")
-          .style("stroke", "#cecece")
-          .attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
-          .attr("cy", function (d,i) { return self.networkHeight/2 } )
-          .on("click", function (d) { self.loadNormdata(d.affiliate_fct_id); })
-          .transition()
-          .duration(500)
-          .delay(function(d, i) {return i*10;})
-          .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
-          .style("fill-opacity", 0.3);
-
-      break;
-
-
-    }
-
-  };
-
-
-
-  this.loadNormdata = function (affiliateFacetID) {
-
-      jQuery.getJSON("http://api.lobid.org/person?name="+this.allNodes.get(affiliateFacetID).affiliate_fct+"&format=full" , function (result) {
-        console.log(result);
-      });
-  };
+  function highlightLink (selection) { selection.style("stroke", "#a40539").style("stroke-opacity",1.0); }
+  function resetLink (selection) { selection.style("stroke", "#cecece").style("stroke-opacity",1.0); }
 
 
   this.openDDB = function (mode, data) {
@@ -506,36 +517,32 @@ DDBAffiliateNetwork = function()
   };
 
   this.defocus = function () {
-    this.links.style("stroke", "#a40539");
-    this.affiliates.style("fill", "#7a7a7a").style("stroke", "#cecece");
+    this.links.call(resetLink);
+    this.affiliates.call(resetNode);
   };
 
 
   this.focus = function (mode, data) {
 
-    this.links.style("stroke", "#a40539");
-    this.affiliates.style("fill", "#7a7a7a").style("stroke", "#cecece");
+    this.links.call(resetLink);
+    this.affiliates.call(resetNode);
 
     switch(mode) {
       case "node":
-        d3.select("#affiliate_fct_id-" + data.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
-
+        d3.select("#affiliate_fct_id-" + data.affiliate_fct_id).call(highlightNode);
         links = this.currentLinks.values().filter(function (n) { return (n.target.affiliate_fct_id == data.affiliate_fct_id ||  n.source.affiliate_facet_id == data.affiliate_fct_id); });
-        console.log(links);
         for(var i=0; i<links.length; i++) {
-          d3.select("#link-"+links[i].source.affiliate_fct_id+'_'+links[i].target.affiliate_fct_id).style("stroke", "#fff");
-          d3.select("#link-"+links[i].target.affiliate_fct_id+'_'+links[i].source.affiliate_fct_id).style("stroke", "#fff");
-
-          d3.select("#affiliate_fct_id-" + links[i].source.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
-          d3.select("#affiliate_fct_id-" + links[i].target.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+          d3.select("#link-"+links[i].source.affiliate_fct_id+'_'+links[i].target.affiliate_fct_id).call(highlightLink);
+          d3.select("#link-"+links[i].target.affiliate_fct_id+'_'+links[i].source.affiliate_fct_id).call(highlightLink);
+          d3.select("#affiliate_fct_id-" + links[i].source.affiliate_fct_id).call(highlightLink);
+          d3.select("#affiliate_fct_id-" + links[i].target.affiliate_fct_id).call(highlightLink);
         }
-
       break;
 
       case "link":
-        d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).style("stroke", "#fff");
-        d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
-        d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).style("fill", "#cecece").style("stroke", "#7a7a7a");
+        d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).call(highlightLink);
+        d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).call(highlightNode);
+        d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).call(highlightNode);
       break;
     }
 
@@ -576,14 +583,14 @@ DDBAffiliateNetwork = function()
     jQuery.getJSON( "./data/detail-20.json", function (result) {
 
       self.data = result;
-      self.initTimeline();
-      //self.brushEvent();
       self.collectAllNodes();
+      self.initTimeline();
+      self.resizeWindow();
     });
 
 
-    this.force.on("tick", function (e) {
 
+    this.force.on("tick", function (e) {
       self.nodeValues.keys().forEach(function (id) {
         self.nodeValues.get(id).networkPosition = {
           x : self.currentNodes.get(id).x,
@@ -591,41 +598,41 @@ DDBAffiliateNetwork = function()
         };
       });
 
-      function collide (node) {
+    function collide (node) {
 
-        var nr = Math.sqrt( (self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI );
-        var nx1 = node.x - nr;
-        var nx2 = node.x + nr;
-        var ny1 = node.y - nr;
-        var ny2 = node.y + nr;
+      var nr = Math.sqrt( (self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) / Math.PI );
+      var nx1 = node.x - nr;
+      var nx2 = node.x + nr;
+      var ny1 = node.y - nr;
+      var ny2 = node.y + nr;
 
-        return function(quad, qxy, qy1, qx2, qy2) {
+      return function(quad, qxy, qy1, qx2, qy2) {
 
-        if ( quad && (quad !== node) && quad.point != undefined ) {
+      if ( quad && (quad !== node) && quad.point != undefined ) {
 
 
-          // console.log(node);
-          // console.log(quad);
+        // console.log(node);
+        // console.log(quad);
 
-          var x = node.x - quad.point.x;
-          var y = node.y - quad.point.y;
-          var distance = Math.sqrt( x * x + y * y );
-          var distanceOfCombinedRadius = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence_sum);
-            if ( distance < distanceOfCombinedRadius ) {
-              distance = (distance - distanceOfCombinedRadius) / distance * .5;
-              node.x -= (x *= distance);
-              node.y -= (y *= distance);
-              quad.x += x;
-              quad.y += y;
-            }
+        var x = node.x - quad.point.x;
+        var y = node.y - quad.point.y;
+        var distance = Math.sqrt( x * x + y * y );
+        var distanceOfCombinedRadius = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence_sum) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence_sum);
+          if ( distance < distanceOfCombinedRadius ) {
+            distance = (distance - distanceOfCombinedRadius) / distance * .5;
+            node.x -= (x *= distance);
+            node.y -= (y *= distance);
+            quad.x += x;
+            quad.y += y;
           }
-          return qxy > nx2 
-              || qx2 < nx1
-              || qy1 > ny2 
-              || qy2 < ny1;
-        };
-      }
-
+        }
+        return qxy > nx2 
+            || qx2 < nx1
+            || qy1 > ny2 
+            || qy2 < ny1;
+      };
+    }
+                  
         // var q = d3.geom.quadtree(self.force.nodes());
 
         // for (var i=0; i<self.force.nodes().length; ++i) {
@@ -708,10 +715,10 @@ DDBAffiliateNetwork = function()
       // ,  }
 
     this.links
-      .attr("stroke-opacity", 0.0)
       .transition()
       .duration(500)
       .delay(1000)
+      .call(resetLink)
       .style("stroke-opacity", 1.0);
 
     this.links
@@ -719,16 +726,14 @@ DDBAffiliateNetwork = function()
       .append("line")
       .on("mouseover", function (d,i) { self.focus("link", d);} )
       .on("mouseout", function (d,i) { self.defocus();} )
+      .on("click", function (d) { self.openDDB("link", d); })
       .attr("class", "link")
       .attr("id", function (d) { return "link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id; })
       .attr("stroke-opacity", 0.0)
-      .on("click", function (d) { self.openDDB("link", d); })
-      .style("stroke", '#a40539')
-      .style("stroke-width", 2)
       .transition()
       .duration(500)
       .delay(1000)
-      .style("stroke-opacity", 1.0);
+      .call(resetLink);
 
     this.links
       .exit()
@@ -742,7 +747,6 @@ DDBAffiliateNetwork = function()
       .select("g#nodes")
       .selectAll(".affiliate")
       .data(this.force.nodes() , function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id; } );
-
 
       this.updateNodes();
       this.enterNodes();

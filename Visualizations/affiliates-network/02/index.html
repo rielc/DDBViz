@@ -8,18 +8,11 @@
   font-family: 'Lato', sans-serif;
 } 
 
-.circle {
-  stroke: #fff;
-  fill:#fff;
-  fill-opacity: 0.3;
+.affiliate {
+  fill:#a40539;
 
 }
 
-.tooltip {
-  background-color:#fff;
-  padding:5px;
-  z-index:20;
-}
 
 .link {
   stroke: #fff;
@@ -34,11 +27,15 @@ button, select {
 }
 
 body {
-  background-color: #242424;
+  background-color: #222;
 }
 
 h1 {
   color:#cecece
+}
+
+strong {
+  font-weight: 500;
 }
 
 #wrapper {
@@ -57,12 +54,23 @@ svg {
 }
 
 
+rect.extent {
+  height:90px;
+  fill:#a40539;
+}
+
+g.resize rect {
+  height:90px;
+  fill:#fff;
+}
+
+
 </style>
 
 <body>
-<div id="wrapper">
+<div id="wrapper"><!-- 
 <h1><strong>DDB Personen-Netzwerk</strong><br/> basierend auf Einträgen in den Jahren:</h1>
-<p id="time_fct"></p>
+<p id="time_fct"></p>-->
 <select id="time-fct"></select>
 <!-- 
 <p>Eine Person/Organisation muss mindestens
@@ -73,9 +81,12 @@ svg {
 <button class="threshold" value="80">80</button>mal vorkommen</p> -->
 
 </div>
-<script src="./DDBAffiliateNetwork.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="./DDBAffiliateNetwork.js"></script>
+<script src="./d3.tip.js"></script>
+<script src="./underscore.js"></script>
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<link rel="stylesheet" href="./d3-tip.css"></link>
 <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 
 <script type="text/javascript">
@@ -100,7 +111,11 @@ svg {
 
     $('#time-fct').change( function() {
       an.parameters.timeFct = $(this).find('option:selected').val();
-      an.load();
+          this.timeline
+    .append("svg:rect")
+    .attr("width", 960)
+    .attr("height", 200);
+    an.load();
     });
 
     // $('.threshold').click( function() {

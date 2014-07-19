@@ -5,35 +5,15 @@
 	 width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
 <g>
 	<g>
-		<circle fill="#B0B0B0" cx="15" cy="15" r="5"/>
+		<circle fill="#B0B0B0" cx="9" cy="11" r="5.5"/>
 	</g>
 	<g>
-		<circle fill="#B0B0B0" cx="23" cy="23" r="3"/>
+		<circle fill="#B0B0B0" cx="23" cy="13" r="2"/>
 	</g>
 	<g>
-		<circle fill="#B0B0B0" cx="7" cy="23" r="3"/>
+		<circle fill="#B0B0B0" cx="17" cy="21" r="3.5"/>
 	</g>
-	<g>
-		<circle fill="#B0B0B0" cx="7" cy="11" r="1.5"/>
-	</g>
-	<g>
-		<circle fill="#B0B0B0" cx="23" cy="11" r="1.5"/>
-	</g>
-	<g>
-		<circle fill="#B0B0B0" cx="15" cy="24" r="1.5"/>
-	</g>
-	<g>
-		<circle fill="#B0B0B0" cx="15" cy="5" r="3"/>
-	</g>
-	<g>
-		
-			<rect x="10" y="14.05" transform="matrix(0.7071 0.7071 -0.7071 0.7071 16.6569 -2.2132)" fill="#B0B0B0" width="2" height="9.899"/>
-	</g>
-	<g>
-		<rect x="14.05" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 19 -7.8701)" fill="#B0B0B0" width="9.899" height="2"/>
-	</g>
-	<g>
-		<rect x="14" y="6" fill="#B0B0B0" width="2" height="6"/>
-	</g>
+	<line fill="none" stroke="#B0B0B0" stroke-miterlimit="10" x1="17" y1="21" x2="23" y2="13"/>
+	<line fill="none" stroke="#B0B0B0" stroke-miterlimit="10" x1="17" y1="21" x2="9" y2="11"/>
 </g>
 </svg>

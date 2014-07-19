@@ -1,49 +1,77 @@
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
-
-
-
-/* Table of Content
-==================================================
-	#Site Styles
-	#Page Styles
-	#Media Queries
-	#Font-Face */
-
-
-
-/* #Site Styles
-================================================== */
 
 a { !important color:#fff; border-bottom:1px solid #a40539; text-decoration: underline; font-weight:500;}
 
 body {
-	background-color:#222222;
-    font-size: 1.0rem;
-    color:#B0B0B0;
+  background: #222222;
+  color:#FFF;
+  margin: 0;
+  min-height: 700px;
+  font-family: KarbidWeb, sans-serif;
+  overflow:hidden;
 }
+
+#time-facet-caption { }
+#time-facet-name {  border-bottom:2px solid #a40539;;}
 
 p {
-	font-weight: 200;
+  font-size: 12px;
+  opacity: 0.8;
 }
 
-strong {
-	font-weight: 500;
+.active {
+  -webkit-animation: fadein 0.15s cubic-bezier(0, -0.530, 0.405, 1.425);
+  -moz-animation: fadein 0.15s; /* Firefox */
+  -ms-animation: fadein 0.15s; /* Internet Explorer */
+  -o-animation: fadein 0.15s; /* Opera */
+  animation: fadein 0.15s;
 }
 
-p, h1, h2, h3 {
-    font-size: 1.0rem;
-  	font-family: KarbidWeb, Calibri, Arial, sans-serif;
-	margin:1.5rem 0 0 0 ;
-	padding:0;
-	color:#B0B0B0;
+.inactive {
+  -webkit-animation: fadeout 0.15s cubic-bezier(0, -0.530, 0.405, 1.425);
+  -moz-animation: fadeout 0.15s; /* Firefox */
+  -ms-animation: fadeout 0.15s; /* Internet Explorer */
+  -o-animation: fadeout 0.15s; /* Opera */
+  animation: fadeout 0.15s;
 }
+
+.inactive svg {
+  display:none;
+}
+
+@keyframes fadein {
+    from { height: 0px; opacity: 0; }
+    to   { height: 40px; opacity: 1; }
+}
+
+/* Firefox */
+@-moz-keyframes fadein {
+    from { height: 0px; opacity: 0; }
+    to   { height: 40px; opacity: 1; }
+}
+
+/* Safari and Chrome */
+@-webkit-keyframes fadein {
+    from { height: 0px; opacity: 0; }
+    to   { height: 40px; opacity: 1; }
+}
+
+@keyframes fadeout {
+    from { height: 40px; opacity: 0; }
+    to   { height: 0px; opacity: 1; }
+}
+
+/* Firefox */
+@-moz-keyframes fadeout {
+    from { height: 40px; opacity: 0; }
+    to   { height: 0px; opacity: 1; }
+}
+
+/* Safari and Chrome */
+@-webkit-keyframes fadeout {
+    from { height: 40px; opacity: 0; }
+    to   { height: 0px; opacity: 1; }
+}
+
 
 
 img.icon-button {
@@ -64,8 +92,48 @@ img.active {
 	color:#a40539;
 }
 
-svg#network {
-	cursor: move;
+.header {
+  padding-top: 10px;
+  /*margin-bottom: 20px;*/
+  background: #363636;
+  padding-bottom: 10px;
+
+}
+.header h1 {
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #A8A8A8;
+}
+.header span {
+  font-weight: normal;
+  font-size: 17px;
+  /* text-transform: initial; */
+  font-weight: 500;
+  color: #FFFFFF;
+}
+
+.header .menu {
+  display: none;
+}
+
+.subheader {
+  padding-top: 10px;
+  background: #292929;
+  padding-bottom: 10px;
+}
+
+.subheader h1 {
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+.main {
 }
 
 #type {
@@ -88,102 +156,22 @@ g.resize rect {
     font-size: 0.625rem;
 }
 
-
-header {
-	position:fixed;
-	z-index:10;
-	background-repeat: no-repeat;
-	background-position: bottom center;
-
-	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.3))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#4d000000',GradientType=0 ); /* IE6-9 */
-
-}
-
-footer {
-	position:absolute;
-	background-image: url("../images/shadow.png");
-	z-index:10;
-}
-
 #wrapper {
 	position: relative;
 }
 
 svg#network {
-	position:fixed;
-	z-index:0;
-	top:0;
-	left:0;
+	cursor: move;
 }
 
 svg#timeline {
+	z-index:10;
 
 }
 
 .link, .affiliate {
 	cursor: pointer;
 }
-
-
-/* #Page Styles
-================================================== */
-
-
-
-/* #Media Queries
-================================================== */
-
-
-	/* Smaller than standard 960 (devices and browsers) */
-	@media only screen and (max-width: 959px) {
-
-    }
-
-	/* Tablet Portrait size to standard 960 (devices and browsers) */
-	@media only screen and (min-width: 768px) and (max-width: 959px) {}
-
-	/* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 767px) {}
-
-	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-	@media only screen and (min-width: 480px) and (max-width: 767px) {}
-
-	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-	@media only screen and (max-width: 479px) {
-
-        h1 {
-            font-size: 1.2rem;
-			line-height: 1.40rem;
-        }
-
-				.important-text {
-						font-size:1.2rem;
-						line-height: 1.4rem;
-						font-weight: 300;
-				}
-
-				p {
-						line-height: 1.20rem;
-				}
-
-    }
-
-
-
-
-/* #Font-Face
-================================================== */
-body {
-  	font-family: 'Lato', sans-serif;
-}
-
-
 
 @font-face {
   font-family: KarbidWeb;
@@ -200,4 +188,5 @@ body {
   src: url("../../css/yIMIfUnWlhZH037ltWgPCUzeEs43WOvOy7ewoNSTo8h.woff") format("woff");
   font-weight: bold;
 }
+	
 

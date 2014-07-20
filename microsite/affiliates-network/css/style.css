@@ -11,68 +11,98 @@ body {
 }
 
 #time-facet-caption { }
-#time-facet-name {  border-bottom:2px solid #a40539;;}
+#time-facet-name {  margin:inherit 10px inherit 10px;background-color:#dbdbdb; color:#363636; padding:3px 10px 3px 10px;}
 
 p {
   font-size: 12px;
   opacity: 0.8;
 }
 
+.timeline-tip.active {
+	margin-top:-10px;
+	background-color:#dbdbdb;
+	opacity: 1.0;
+  	padding:10px 0;
+  	opacity:1.0;
+}
+
+rect.background {
+	cursor:pointer;
+}
+
+.timeline-tip.inactive {
+  padding:0 0;
+  opacity:1.0;
+
+}
+
 .active {
-  -webkit-animation: fadein 0.15s cubic-bezier(0, -0.530, 0.405, 1.425);
-  -moz-animation: fadein 0.15s; /* Firefox */
-  -ms-animation: fadein 0.15s; /* Internet Explorer */
-  -o-animation: fadein 0.15s; /* Opera */
-  animation: fadein 0.15s;
+  -webkit-animation: fadein 0.25s cubic-bezier(0, -0.530, 0.405, 1.425);
+  -moz-animation: fadein 0.25s; /* Firefox */
+  -ms-animation: fadein 0.25s; /* Internet Explorer */
+  -o-animation: fadein 0.25s; /* Opera */
+  animation: fadein 0.25s;
 }
 
 .inactive {
-  -webkit-animation: fadeout 0.15s cubic-bezier(0, -0.530, 0.405, 1.425);
-  -moz-animation: fadeout 0.15s; /* Firefox */
-  -ms-animation: fadeout 0.15s; /* Internet Explorer */
-  -o-animation: fadeout 0.15s; /* Opera */
-  animation: fadeout 0.15s;
+  -webkit-animation: fadeout 0.25s cubic-bezier(0, -0.530, 0.405, 1.425);
+  -moz-animation: fadeout 0.25s; /* Firefox */
+  -ms-animation: fadeout 0.25s; /* Internet Explorer */
+  -o-animation: fadeout 0.25s; /* Opera */
+  animation: fadeout 0.25s;
 }
 
 .inactive svg {
-  display:none;
+  position:absolute;
+  opacity:0.0;
+}
+
+.active svg {
+  position:relative;
 }
 
 @keyframes fadein {
-    from { height: 0px; opacity: 0; }
-    to   { height: 40px; opacity: 1; }
+    from { height: 0px; }
+    to   { height: 100px; }
 }
 
 /* Firefox */
 @-moz-keyframes fadein {
-    from { height: 0px; opacity: 0; }
-    to   { height: 40px; opacity: 1; }
+    from { height: 0px; }
+    to   { height: 100px; }
 }
 
 /* Safari and Chrome */
 @-webkit-keyframes fadein {
-    from { height: 0px; opacity: 0; }
-    to   { height: 40px; opacity: 1; }
+    from { height: 0px; }
+    to   { height: 100px; }
 }
 
 @keyframes fadeout {
-    from { height: 40px; opacity: 0; }
-    to   { height: 0px; opacity: 1; }
+    from { height: 100px; }
+    to   { height: 0px; }
 }
 
 /* Firefox */
 @-moz-keyframes fadeout {
-    from { height: 40px; opacity: 0; }
-    to   { height: 0px; opacity: 1; }
+    from { height: 100px; }
+    to   { height: 0px; }
 }
 
 /* Safari and Chrome */
 @-webkit-keyframes fadeout {
-    from { height: 40px; opacity: 0; }
-    to   { height: 0px; opacity: 1; }
+    from { height: 100px; }
+    to   { height: 0px;  }
 }
 
 
+
+* {
+    transition: opacity 0.25s;
+    transition: background-color 0.25s;
+    transition: color 0.25s;
+    transition: padding 0.15s;
+}
 
 img.icon-button {
 	cursor: pointer;
@@ -164,13 +194,12 @@ svg#network {
 	cursor: move;
 }
 
-svg#timeline {
+svg#timeline rect {
 	z-index:10;
-
 }
 
-.link, .affiliate {
-	cursor: pointer;
+.clickable-link, .affiliate {
+	cursor: pointer !important;
 }
 
 @font-face {

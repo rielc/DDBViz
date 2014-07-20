@@ -47,6 +47,12 @@ DDBAffiliateNetwork = function()
           .attr("x2", function(d) { return transformX(d.target); })
           .attr("y1", function(d) { return transformY(d.source); })
           .attr("y2", function(d) { return transformY(d.target); });
+
+        self.clickableLinks
+          .attr("x1", function(d) { return transformX(d.source); })
+          .attr("x2", function(d) { return transformX(d.target); })
+          .attr("y1", function(d) { return transformY(d.source); })
+          .attr("y2", function(d) { return transformY(d.target); });
       }
 
     }
@@ -77,6 +83,7 @@ DDBAffiliateNetwork = function()
     // collects all nodes in the beginning
     this.collectAllNodes = function () {
       var keys = d3.keys(this.data);
+      var unused = _.difference(keys, this.timeFcts);
 
       // walk through all epochs
       for (var i=0; i<keys.length; i++) {
@@ -95,22 +102,25 @@ DDBAffiliateNetwork = function()
         });
 
 
-        // update the minimum/maximum occurrences as reference for scales
-        var currentMax = d3.max(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
-        var currentMin = d3.min(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
-        if (currentMin != undefined && currentMax != undefined) {
-          if (this.globalMaxOccurence<currentMax) { this.globalMaxOccurence = currentMax; }
-          if (this.globalMinOccurence>currentMin && currentMin !=0) { this.globalMinOccurence = currentMin; }
-          // update the scale
+        //console.log(unused);
+
+        // make sure the ignored epochs are not counted
+        if (unused.indexOf(keys[i]) == -1) {
+          // update the minimum/maximum occurrences as reference for scales
+          var currentMax = d3.max(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
+          var currentMin = d3.min(nodes, function (nv) { return nv.affiliate_fct_occurrence; });
+          if (currentMin != undefined && currentMax != undefined) {
+            if (this.globalMaxOccurence<currentMax) { this.globalMaxOccurence = currentMax; }
+            if (this.globalMinOccurence>currentMin && currentMin !=0) { this.globalMinOccurence = currentMin; }
+            // update the scale
+          }
+
+          // get min/max node count
+          if (this.maxNodeCount<nodes.length) { this.maxNodeCount = nodes.length; }
+          if (this.minNodeCount>nodes.length) { this.minNodeCount = nodes.length; }
+
         }
-
-        // get min/max node count
-        if (this.maxNodeCount<nodes.length) { this.maxNodeCount = nodes.length; }
-        if (this.minNodeCount>nodes.length) { this.minNodeCount = nodes.length; }
-
-
         this.radiusScale = d3.scale.log(100).domain([this.globalMinOccurence, this.globalMaxOccurence]).range([1, 40]);
-
       }
 
     };
@@ -145,6 +155,14 @@ DDBAffiliateNetwork = function()
         for (var i=e0; i<e1; i++) {
           keys.push(this.timeFcts[i]);
           this.timelineSums.push(this.timeNames[i]);
+          var preposition = " im ";
+          if (i<10) {
+            preposition = " während des ";
+          }
+          if (i>65) {
+            preposition = " von ";
+          }
+          d3.select("#preposition").text(preposition);
           d3.select("#time-facet-name").text(this.timelineSums.join(', '));
         }
 
@@ -181,9 +199,7 @@ DDBAffiliateNetwork = function()
           });
         }
 
-
         // remove and add nodes to the current graph
-
         var keysToRemove = _.difference(this.currentNodes.keys(), newNodes.keys());
         var keysToAdd = _.difference(newNodes.keys(), this.currentNodes.keys());
 
@@ -235,28 +251,23 @@ DDBAffiliateNetwork = function()
 
   this.initTimeline = function () {
 
-    this.timelineWidth = 820;
+    this.timelineWidth = 1200,  this.timelineHeight = 120;
+
+    var margin = 10;
+
     var brushScale = d3.scale.linear()
-      .domain([0,this.timeFcts.length-1])
-      .range([0, this.timelineWidth]);
+      .domain([0,this.timeFcts.length])
+      .range([margin, this.timelineWidth-margin]);
+
+
+    var brushWidth = (this.timelineWidth-margin*2)/this.timeNames.length;
 
     this.brushEvent = function () {
       var extent0 = self.brush.extent(),
           extent1;
 
-      // if dragging, preserve the width of the extent
-      //var d0 = Math.round(extent0[0]), d1 = Math.round(extent0[1]);
-
-
       d0 = Math.round(brushScale.invert(d3.mouse(this)[0]));
       d1=d0+1;
-
-      // console.log('d0: '+d0);
-      // console.log('d1: '+d1);
-
-      //   //d1 = d0+1;
-      // console.log('nd0: '+d0);
-      // console.log('nd1: '+d1);
 
       if (d1>d0) {
         d0 = d1-1;
@@ -265,7 +276,6 @@ DDBAffiliateNetwork = function()
           d1 = d0+1;
         }
       }
-
 
       if (d0 > self.timeFcts.length-1) {
         d0 = self.timeFcts.length-2;
@@ -279,20 +289,27 @@ DDBAffiliateNetwork = function()
 
       d3.select(this).call(self.brush.extent([d0, d1]));
       self.collectNewNodes(d0, d1);
+
+      d3.selectAll(".time-facet-labels").style("fill", "#292929");
+      d3.selectAll(".time-facet-ticks").style("fill", "#292929");
+      d3.select(".time-facet-label-"+self.timeFcts[d0]).style("fill", "a40539");
+      d3.select(".time-facet-tick-"+self.timeFcts[d0]).style("fill", "a40539");
+
+      d3.select(".extent").attr("width", brushWidth-2);
     };
 
 
     var yScale = d3.scale.linear()
       .domain([0, this.maxNodeCount])
-      .range([0, 40]);
+      .range([0, 30]);
 
     this.timeline = d3.select("#timeline")
       .attr("width", this.timelineWidth)
-      .attr("height", 40);
+      .attr("height", this.timelineHeight);
 
     this.brush = d3.svg.brush()
       .x(brushScale)
-      .extent([0, 1])
+      .extent([this.timeFcts.length-1, this.timeFcts.length])
       .on("brush", this.brushEvent);
 
     this.ticks = this.timeline.append('g')
@@ -304,14 +321,14 @@ DDBAffiliateNetwork = function()
 
     this.gBrush = this.timeline.append("g")
         .attr("class", "brush")
-        .attr("fill", "#fff")
         .call(this.brush);
 
 
     this.gBrush.selectAll("rect")
-      .attr("height", 40)
+      .attr("height", 30)
       .attr('transform', 'translate(0,0)')
-      .attr('fill-opacity', 0.2);
+      .style('fill-opacity', 1.0)
+      .style("fill", "#a40539");
 
 
     this.timeFacetTip = d3.tip().attr('class', 'd3-tip').html( function (i) { return '<h3>'+self.timeNames[i]+'</h3>'; } );
@@ -319,41 +336,64 @@ DDBAffiliateNetwork = function()
     this.timeline.call(this.timeFacetTip);
 
 
+    var labelWhitelist = [17, 26, 36, 46, 51, 56, 60, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86];
+
+    function simpleTimename(t) {
+
+          timeName = t;
+
+          if(timeName.indexOf("vor Christus") > -1){
+            timeName = "-"+timeName.replace(" v. Chr.","");
+          }
+
+          if(timeName.indexOf("Jahrhundert") > -1){
+            var s = timeName.split(". Jahrhundert");
+            timeName = s[0]+"00";
+          }
+
+          if(timeName.indexOf("bis") > -1){
+            var s = timeName.split(" bis ");
+            timeName = s[0].toString()+" bis "+s[1].toString();
+          }
+
+          return timeName;
+
+    }
+
     this.ticks
       .enter()
       .append('rect')
+      .attr("class", function (d, i) { return "time-facet-ticks time-facet-tick-"+self.timeFcts[i]; })
       .attr('x', function (d, i) { return brushScale(i); } )
       .attr('y', 0 )
-      .attr('width', function (d, i) { return brushScale(1)-1; })
+      .attr('width', function (d, i) { return brushWidth-2; })
       .attr('height', 0 )
-      .attr('fill', '#a40539')
+      .attr('fill', '#363636')
       .attr('fill-opacity', 1)
-      .on('mouseover', this.timeFacetTip.show)
-      .transition()
-      .duration(500)
-      .delay( function (d, i) { return i*3; } )
       .attr('height', function (d, i) { if (self.data[d] != undefined) { return yScale(self.data[d].nodes.length); } else { return 0; }} )
       .attr('y', function (d, i) { if (self.data[d] != undefined) { return 40-yScale(self.data[d].nodes.length); } else { return 0; }} );
 
-    /*
     this.labels = this.timeline.append('g')
-      .attr("id", "labels")
       .selectAll('text')
       .data(this.timeNames)
       .enter()
       .append('text')
-      .text(function (d) { return d; })
-      .attr("transform", function (d,i) { return "translate("+brushScale(i)+",110)rotate(90)"})
-      .attr("font-size", 8)
+      .attr("class", function (d, i) { return "time-facet-labels time-facet-label-"+self.timeFcts[i]; })
+      .text(function (d, i) { if (labelWhitelist.indexOf(i) != -1 || i >=88) {return simpleTimename(d); }})
+      .attr("transform", function (d,i) { return "translate("+brushScale(i)+",50)rotate(90)"})
+      .attr("font-family", "Helvetica, Arial, san-serif")
+      .attr("font-size", 10)
       .attr("stroke", "none")
-      .attr("font-family", "Lato")
       .attr("font-weight", 200)
-      .attr("fill", "#fff")
-      .style('fill-opacity', 0)
-      .transition()
-      .duration(500)
-      .delay( function (d, i) { return i*3; } )
-      .style('fill-opacity', 1); */
+      .attr("fill", "#292929")
+      .style('fill-opacity', 1);
+
+      d3.select(".extent").style("fill-opacity", 0.3).attr("height", 40).style("cursor", "col-resize");
+      d3.select(".background").style("cursor", "col-resize");
+      d3.selectAll(".resize").style("cursor", "col-resize");
+
+
+
 
   };
 
@@ -387,7 +427,7 @@ DDBAffiliateNetwork = function()
 
 
    this.enterNodes = function () {
-    /*
+    
     hist = d3.layout.histogram()
       .value(function (n) { return self.nodeValues.get(n.affiliate_fct_id)
       .affiliate_fct_occurrence_sum; })
@@ -399,8 +439,6 @@ DDBAffiliateNetwork = function()
       .range([0, 500]);
 
     this.hist = hist(this.force.nodes());
-
-    */
 
 
     switch(this.nodePositioning) {
@@ -562,6 +600,7 @@ DDBAffiliateNetwork = function()
     this.radiusScale = d3.scale.log();
 
     // create the force-directed-graph
+
     this.force = d3.layout.force()
       .charge(function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum)*self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum)*-1; })
       .friction(0.7)
@@ -586,6 +625,8 @@ DDBAffiliateNetwork = function()
       self.collectAllNodes();
       self.initTimeline();
       self.resizeWindow();
+      //self.collectNewNodes(0, self.timeFcts.length-1);
+      self.collectNewNodes(self.timeFcts.length-2, self.timeFcts.length-1);
     });
 
 
@@ -646,7 +687,17 @@ DDBAffiliateNetwork = function()
             .attr("cx", function (d) { if (!d.fixed) {return transformX(d);}} )
             //.attr("cx", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence_sum); })
             .attr("cy", function (d) { if (!d.fixed) {return transformY(d)}} );
+
           self.links
+            .attr("x1", function (d) { return transformX(d.source); })
+            .attr("x2", function (d) { return transformX(d.target); })
+            //.attr("x1", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+            //.attr("x2", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence_sum); })
+            .attr("y1", function (d) { return transformY(d.source); })
+            .attr("y2", function (d) { return transformY(d.target); });
+
+          // update the position of the clickable links
+          self.clickableLinks
             .attr("x1", function (d) { return transformX(d.source); })
             .attr("x2", function (d) { return transformX(d.target); })
             //.attr("x1", function (d,i) { return self.horizontalScale(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence_sum); })
@@ -711,7 +762,12 @@ DDBAffiliateNetwork = function()
     this.links = this.svg
       .select("g#links")
       .selectAll(".link")
-      .data( this.force.links(), function (d) { return (d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id);} );
+      .data( this.force.links(), function (d) { return ("link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id);} );
+
+    this.clickableLinks = this.svg
+      .select("g#links")
+      .selectAll(".clickable-link")
+      .data( this.force.links(), function (d) { return ("clickable-link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id);} );
       // ,  }
 
     this.links
@@ -724,22 +780,37 @@ DDBAffiliateNetwork = function()
     this.links
       .enter()
       .append("line")
-      .on("mouseover", function (d,i) { self.focus("link", d);} )
-      .on("mouseout", function (d,i) { self.defocus();} )
       .on("click", function (d) { self.openDDB("link", d); })
       .attr("class", "link")
       .attr("id", function (d) { return "link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id; })
-      .attr("stroke-opacity", 0.0)
+      .call(resetLink)
+      .style("stroke-opacity", 0.0)
       .transition()
       .duration(500)
       .delay(1000)
       .call(resetLink);
+
+    this.clickableLinks
+      .enter()
+      .append("line")
+      .on("mouseover", function (d,i) { self.focus("link", d);} )
+      .on("mouseout", function (d,i) { self.defocus();} )
+      .on("click", function (d) { self.openDDB("link", d); })
+      .attr("class", "clickable-link")
+      .attr("id", function (d) { return "clickable-link-"+d.source.affiliate_fct_id+'_'+d.target.affiliate_fct_id; })
+      .style("stroke", "#000")
+      .style("stroke-opacity", "0.0")
+      .style("stroke-width", "10px");
 
     this.links
       .exit()
       .transition()
       .duration(100)
       .style("stroke-opacity", 0.0)
+      .remove();
+
+    this.clickableLinks
+      .exit()
       .remove();
 
     // selection

@@ -1,6 +1,6 @@
 .d3-tip {
   padding: 5px 10px 5px 10px;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: #fff;
   pointer-events: none;
   text-align: center;
 }
@@ -9,15 +9,15 @@
   font-family: KarbidWeb, Calibri, Arial, sans-serif;
   line-height: 1.2rem;
   font-size: 1rem;
-  color:#fff;
+  color:#222;
   margin:0;
   padding: 2px 0 2px 0;
 }
 
 .d3-tip p {
-  color:#fff;
+  color:#222;
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
   font-style: normal;
   font-size: 0.625rem;
   line-height: 0.75rem;
@@ -33,10 +33,10 @@
 .d3-tip:after {
   box-sizing: border-box;
   display: inline;
-  font-size: 10px;
+  font-size: 15px;
   width: 100%;
-  line-height: 1;
-  color: rgba(0, 0, 0, 0.75);
+  line-height: 0.5;
+  color: #fff;
   position: absolute;
   pointer-events: none;
 }

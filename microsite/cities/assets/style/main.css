@@ -26,7 +26,7 @@ body {
     font-family: "Helvetica", "Arial", sans-serif;
     margin-top: 30px;
     margin-bottom: -5px;
-    padding: 10px;
+    padding: 15px;
     }
 
 .pie-arc {
@@ -82,7 +82,6 @@ body {
 .container .sorting {
     padding-top: 20px;
     float: left;
-    position: fixed;
     z-index: 999;
 }
 
@@ -99,7 +98,7 @@ body {
 }
 
 #wrapper {
-    width: 1000px;
+    width: 1200px;
     margin: 0px auto;
 }
 

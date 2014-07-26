@@ -1,0 +1,231 @@
+@font-face {
+  font-family: KarbidWeb;
+  src: url("http://zeigma.com/ddb/font/KarbidWeb.eot");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("http://zeigma.com/ddb/font/KarbidWeb.woff") format("woff");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("http://zeigma.com/ddb/font/KarbidWebBold.woff") format("woff");
+  font-weight: bold;
+}
+
+body {
+    background: #222;
+    color: #fff;
+    font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+    margin: 0;
+    hyphens: auto;
+    font-size: 0.12px;
+}
+
+a:link{color: white; text-decoration: none;}
+a:visited{color: white; text-decoration: none;}
+a:hover{color: white; text-decoration: none;}
+a:active{color: white; text-decoration: none;}
+
+
+span {
+    display: flex; 
+    flex-direction: row;
+    padding-right: .4em;
+    margin-bottom: .2em;
+    cursor: pointer;
+}
+
+.main div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    align-items: baseline;
+    align-content: space-around;
+}
+
+/*
+.active{
+    color: black;
+    background-color: #ccc;
+}
+
+.inactive{
+    color: #181818;
+    background-color: #222;
+}
+*/
+
+
+
+.activeSmall {
+    cursor: pointer;
+}
+
+#value {
+    cursor: pointer;
+}
+
+.main {
+    text-rendering: optimizeLegibility;
+    font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    position: relative;
+}
+
+
+.line{
+    border-top: 1px solid #ccc;
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.header {
+    padding-top: 10px;
+    background: #363636;
+    padding-bottom: 10px;
+}
+
+.header h1 {
+    font-size: 17px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #A8A8A8;
+}
+
+.header p{
+    display: inline;
+    font-weight: normal;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.header .menu{
+    display: none;
+}
+
+.subheader{
+    padding-top: 10px;
+    background: #292929;
+    padding-bottom: 10px; 
+}
+
+.subheader h1 {
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.subheader p {
+    font-size: 12px;
+    opacity: .8;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.container .clear {
+    padding-top: 20px;
+    float: left;
+    position: fixed;
+    z-index: 999;
+}
+
+.container .clear img {
+    padding: 4px;
+    width: 20px;
+    height: auto; 
+    cursor: pointer;
+    opacity: .5;
+}
+
+.container .clear .button .op {
+    opacity: .5;
+}
+.container .clear .button .op2 {
+    opacity: 1;
+}
+
+.d3-tip {
+  padding: 5px 10px 5px 10px;
+  background-color: #fff;
+  pointer-events: none;
+  text-align: center;
+}
+
+.d3-tip h3 {
+  font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+  font-style: italic;
+  line-height: 1.2rem;
+  font-size: 1rem;
+  color:#000;
+  margin:0;
+  padding: 2px 0 2px 0;
+}
+
+.d3-tip p {
+  color:#a40539;
+  font-weight: 400;
+    font-family: "Helvetica", "Arial", sans-serif;
+  font-style: normal;
+  font-size: 0.625rem;
+  line-height: 0.75rem;
+  padding: 2px 0 2px 0;
+  margin:0;
+
+
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 5px;
+  width: 100%;
+  line-height: 1;
+  color: #fff;
+  position: absolute;
+  pointer-events: none;
+}
+
+/* Northward tooltips */
+.d3-tip.n:after {
+  content: "\25BC";
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+  text-align: center;
+}
+
+/* Eastward tooltips */
+.d3-tip.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 0;
+  top: 50%;
+  left: -8px;
+}
+
+/* Southward tooltips */
+.d3-tip.s:after {
+  content: "\25B2";
+  margin: 0 0 1px 0;
+  top: -8px;
+  left: 0;
+  text-align: center;
+}
+
+/* Westward tooltips */
+.d3-tip.w:after {
+  content: "\25B6";
+  margin: -4px 0 0 -1px;
+  top: 50%;
+  left: 100%;
+}

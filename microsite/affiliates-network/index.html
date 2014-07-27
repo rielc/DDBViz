@@ -5,8 +5,14 @@
   <link rel="stylesheet" href="./css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 </head>
-
 <body>
+<div id="overlay">
+  <svg></svg>
+</div>
+<svg id="network">
+  <g id="links"></g>
+  <g id="nodes"></g>
+</svg>
 <div class="header">
   <div class="container">
     <h1>Deutsche Digitale Bibliothek <span>visualisiert</span></h1>
@@ -20,24 +26,17 @@
 </div>
 <div class="subheader">
   <div class="container">
-    <h1>Ein Netzwerk aus den aktivsten Personen/Organisationen <span id="preposition"> im </span><span id="time-facet-name"></span></h1>
-    <p class="timeline-tip active">
-      <svg id="timeline"></svg>
+    <h1>Ein Netzwerk aus den aktivsten Personen/Organisationen <span id="preposition"> im</span><span id="time-facet-name"></span></h1>
+    <p class="timeline-tip inactive">
+      <img src="images/arrow-02.svg" class="left-arrow"/><svg id="timeline"></svg><img src="images/arrow-01.svg" class="right-arrow"/>
     </p>
-    <p> Dargestellt werden die 500 aktivsten Personen/Organisationen und Ihre  Kollaboratoren. Eine Person muss mindestens 20 Einträge haben, damit sie vorkommt.</p>
+    <p id="description"> Visualisiert werden die 500 aktivsten Personen/Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>
+      <div class="main">
+        <img src="images/icons/network.svg" id="node-positioning-network" />
+        <img src="images/icons/sorted.svg" id="node-positioning-sort-by-occurrence"/>
+        <img src="images/icons/info.svg" class="help" width="20"  height="20" />
+      </div>
   </div>
-</div>
-<div class="main">
-  <div class="container">
-    <div class="menu">
-      <img src="images/icons/network.svg" id="node-positioning-network" />
-      <img src="images/icons/sorted.svg" id="node-positioning-sort-by-occurrence"/>
-    </div>
-  </div>
-  <svg id="network">
-  <g id="links"></g>
-  <g id="nodes"></g>
-</svg>
 </div>
 
 <script src="../js/d3.v3.min.js"></script>
@@ -49,48 +48,70 @@
 
   // init the whole document
 
+
+
+
   $(document).ready( function() {
 
     an = new DDBAffiliateNetwork();
     an.init();
 
+    // window.setInterval( function() {
+    //     an.currentTimeFacetID--;
+    //     an.timeline
+    //       .call(an.brush.extent([an.currentTimeFacetID, an.currentTimeFacetID+1]))
+    //       .call(an.brushEvent);
+    // }, 100);
 
     $('#time-fct').change( function() {
       an.parameters.timeFct = $(this).find('option:selected').val();
       an.load();
     });
 
-    $('.subheader').mouseover( function() {
-      $(".timeline-tip").attr("class", "timeline-tip active");
-      $("#time-facet-name").css( {"background-color": "#dbdbdb", "color": "#292929"} );
-
-      an.resizeWindow();  
-    });
-
-    $('#network').mouseover( function() {
-      $(".timeline-tip").attr("class", "timeline-tip inactive");
-      $("#time-facet-name").css( {"background-color": "#292929", "color": "#dbdbdb"} );
-      an.resizeWindow();
-    });
-
+    $('.subheader').css("opacity", 0.0);
+    $('.subheader h1').css("opacity", 0.0);
+    $('#description').css("opacity", 0.0);
 
     $( window ).resize(function() {
       an.resizeWindow();
     });
 
+    $( ".left-arrow" ).click(function() {
+      an.currentTimeFacetID--;
+      an.collectNewNodes(an.currentTimeFacetID, an.currentTimeFacetID+1)
+      d3.selectAll(".time-facet-labels").style("fill", "#363636");
+      d3.selectAll(".time-facet-ticks").style("fill", "#363636");
+      d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
+      d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
+      d3.select(".extent").attr("width", an.brushWidth);
+      d3.select(".extent").attr("x", an.brushScale(an.currentTimeFacetID));
+    });
 
-    $("#node-positioning-sort-by-occurrence").click(function () {
+    $( ".right-arrow" ).click(function() {
+      an.currentTimeFacetID++;
+      an.collectNewNodes(an.currentTimeFacetID, an.currentTimeFacetID+1);
+      d3.selectAll(".time-facet-labels").style("fill", "#363636");
+      d3.selectAll(".time-facet-ticks").style("fill", "#363636");
+      d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
+      d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
+      d3.select(".extent").attr("width", an.brushWidth);
+      d3.select(".extent").attr("x", an.brushScale(an.currentTimeFacetID));
+    });
+
+
+
+    $("#node-positioning-sort-by-occurrence").click( function () {
       $(".icon-button").removeClass('active');
       $(this).addClass('active');
       an.switchNodepositioning("sortByOccurrence");
       return false;
     });
-    $("#node-positioning-network").click(function () {
+
+    $("#node-positioning-network").click( function () {
       $(".icon-button").removeClass('active');
       $(this).addClass('active');
       an.switchNodepositioning("network");
       return false;
-
     });
 
     //$('footer').css("top", ($(window).height()));

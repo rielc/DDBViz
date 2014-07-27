@@ -3,6 +3,7 @@
   background-color: #fff;
   pointer-events: none;
   text-align: center;
+  max-width: 200px;
 }
 
 .d3-tip h3 {
@@ -19,12 +20,20 @@
   font-family: KarbidWeb, Calibri, Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 0.625rem;
+  font-size: 10px;
   line-height: 0.75rem;
   padding: 2px 0 2px 0;
   margin:0;
+}
 
-
+.d3-tip p.description {
+  text-align: left;
+  color:#222;
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-size: 10px;
+  line-height: 14px;
+  padding: 5px 0 5px 0;
+  margin:0;
 }
 
 
@@ -41,6 +50,7 @@
   pointer-events: none;
 }
 
+
 /* Northward tooltips */
 .d3-tip.n:after {
   content: "\25BC";
@@ -53,9 +63,9 @@
 /* Eastward tooltips */
 .d3-tip.e:after {
   content: "\25C0";
-  margin: -4px 0 0 0;
+  margin: -4px 0 0 -3px;
   top: 50%;
-  left: -8px;
+  left: -51%;
 }
 
 /* Southward tooltips */
@@ -70,7 +80,7 @@
 /* Westward tooltips */
 .d3-tip.w:after {
   content: "\25B6";
-  margin: -4px 0 0 -1px;
+  margin: -4px 0 0 1px;
   top: 50%;
-  left: 100%;
+  left: 51%;
 }

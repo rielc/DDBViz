@@ -7,49 +7,97 @@ body {
   margin: 0;
   min-height: 700px;
   font-family: KarbidWeb, sans-serif;
-  overflow:hidden;
+
 }
 
 #time-facet-caption { }
-#time-facet-name {  margin:inherit 10px inherit 10px;background-color:#dbdbdb; color:#363636; padding:3px 10px 3px 10px;}
+#time-facet-name { 
+  background-color:transparent;
+  margin:0 -4px 0 0;
+  color: #ffffff;
+  padding:0;
+}
 
 p {
   font-size: 12px;
   opacity: 0.8;
 }
 
-.timeline-tip.active {
-	margin-top:-10px;
-	background-color:#dbdbdb;
-	opacity: 1.0;
-  	padding:10px 0;
-  	opacity:1.0;
+.timeline-tip {
+  border:none;
+  border-radius: 3px;
+  margin-top:-2px;
+  opacity: 0.0;
+  padding:0;
+  opacity:1.0;
+  z-index:30;
 }
+
+.timeline-tip.active {
+  border-top:5px solid #bf8f9f;
+	background-color:#ccc;
+	opacity:1.0;
+  padding:0 0 10px 0;
+  margin-top:-2px;
+}
+
+.timeline-tip.inactive {
+  border:none;
+}
+
+.timeline-tip.inactive .left-arrow, 
+.timeline-tip.inactive .right-arrow {
+  display:none;
+}
+
+.timeline-tip.active .left-arrow, 
+.timeline-tip.active .right-arrow {
+  display:normal;
+} 
 
 rect.background {
 	cursor:pointer;
 }
 
-.timeline-tip.inactive {
-  padding:0 0;
-  opacity:1.0;
 
+rect {
+	shape-rendering: geometricPrecision;
 }
 
+.left-arrow{ float:left; } 
+.right-arrow { float:right; } 
+
+.right-arrow {
+  padding:32px 10px 15px 0;
+  cursor: pointer;
+  margin:0;
+  display:box;
+}
+
+.left-arrow {
+  padding:32px 0 15px 10px;
+  cursor: pointer;
+  margin:0;
+  display:box;
+} 
+
+
+
+
 .active {
-  -webkit-animation: fadein 0.25s cubic-bezier(0, -0.530, 0.405, 1.425);
-  -moz-animation: fadein 0.25s; /* Firefox */
-  -ms-animation: fadein 0.25s; /* Internet Explorer */
-  -o-animation: fadein 0.25s; /* Opera */
-  animation: fadein 0.25s;
+  -webkit-animation: fadein 0.45s;
+  -moz-animation: fadein 0.45s; /* Firefox */
+  -ms-animation: fadein 0.45s; /* Internet Explorer */
+  -o-animation: fadein 0.45s; /* Opera */
+  animation: fadein 0.45s;
 }
 
 .inactive {
-  -webkit-animation: fadeout 0.25s cubic-bezier(0, -0.530, 0.405, 1.425);
-  -moz-animation: fadeout 0.25s; /* Firefox */
-  -ms-animation: fadeout 0.25s; /* Internet Explorer */
-  -o-animation: fadeout 0.25s; /* Opera */
-  animation: fadeout 0.25s;
+  -webkit-animation: fadeout 0.45s;
+  -moz-animation: fadeout 0.45s; /* Firefox */
+  -ms-animation: fadeout 0.45s; /* Internet Explorer */
+  -o-animation: fadeout 0.45s; /* Opera */
+  animation: fadeout 0.45s;
 }
 
 .inactive svg {
@@ -59,49 +107,52 @@ rect.background {
 
 .active svg {
   position:relative;
+  opacity:1.0;
 }
 
 @keyframes fadein {
     from { height: 0px; }
-    to   { height: 100px; }
+    to   { height: 85px; }
 }
 
-/* Firefox */
-@-moz-keyframes fadein {
-    from { height: 0px; }
-    to   { height: 100px; }
+@keyframes fadeout {
+    from { height: 85px; }
+    to   { height: 0px; }
 }
 
 /* Safari and Chrome */
 @-webkit-keyframes fadein {
     from { height: 0px; }
-    to   { height: 100px; }
-}
-
-@keyframes fadeout {
-    from { height: 100px; }
-    to   { height: 0px; }
+    to   { height: 85px; }
 }
 
 /* Firefox */
 @-moz-keyframes fadeout {
-    from { height: 100px; }
+    from { height: 85px; }
     to   { height: 0px; }
+}
+
+/* Firefox */
+@-moz-keyframes fadein {
+    from { height: 0px; }
+    to   { height: 85px; }
 }
 
 /* Safari and Chrome */
 @-webkit-keyframes fadeout {
-    from { height: 100px; }
+    from { height: 85px; }
     to   { height: 0px;  }
 }
 
 
 
 * {
-    transition: opacity 0.25s;
-    transition: background-color 0.25s;
-    transition: color 0.25s;
-    transition: padding 0.15s;
+    transition: opacity 0.45s;
+    transition: background-color 0.45s;
+    transition: color 0.45s;
+    transition: padding 0.45s;
+    transition: margin 0.45s;
+    transition: border 0.45s;
 }
 
 img.icon-button {
@@ -113,22 +164,14 @@ img.icon-button {
 img.active {
 	opacity:1.0;
 }
-
-#ddb {
-  	font-family: 'Lato', sans-serif;
-  	font-style: normal;
-	text-transform: uppercase;
-    font-weight:500;
-	color:#a40539;
-}
-
 .header {
-  padding-top: 10px;
-  /*margin-bottom: 20px;*/
+  padding-top: 12px;
   background: #363636;
   padding-bottom: 10px;
-
+  z-index:10;
+  position: relative;
 }
+
 .header h1 {
   font-weight: 200;
   text-transform: uppercase;
@@ -150,8 +193,10 @@ img.active {
 
 .subheader {
   padding-top: 10px;
-  background: #292929;
+  background-color: rgba(43, 43, 43, 0.75);
   padding-bottom: 10px;
+  z-index:10;
+  position: relative;
 }
 
 .subheader h1 {
@@ -163,13 +208,15 @@ img.active {
   width: 1200px;
   margin: auto;
 }
+
 .main {
+  z-index:20;
 }
 
 #type {
-  	font-family: "KarbidWeb", sans-serif;
-  	letter-spacing: 0.1rem;
-	color:#EDEDED;
+	font-family: "KarbidWeb", sans-serif;
+	letter-spacing: 0.1rem;
+  color:#EDEDED;
 }
 
 rect.extent {
@@ -192,11 +239,14 @@ g.resize rect {
 
 svg#network {
 	cursor: move;
+	position:fixed;
+  z-index:0;
 }
 
-svg#timeline rect {
-	z-index:10;
+svg#network * {
+  z-index:0;
 }
+
 
 .clickable-link, .affiliate {
 	cursor: pointer !important;
@@ -217,5 +267,57 @@ svg#timeline rect {
   src: url("../../css/yIMIfUnWlhZH037ltWgPCUzeEs43WOvOy7ewoNSTo8h.woff") format("woff");
   font-weight: bold;
 }
+
+
+#overlay {
+  position: relative;
+}
+#overlay svg{
+  display: none;
+  position: absolute;
+  width: 1200px;
+  background: rgba(34, 34, 34, 0.45);
+  z-index: 20;
+  left: 0;
+}
+
+#overlay text {
+  fill:#222;
+}
+
+#overlay circle {
+  fill: #FFF;
+  opacity: 0.22;
+}
+
+#overlay line {
+  stroke: #FFF;
+  opacity: 0.9;
+}
+
+#overlay rect {
+  fill: #FFF;
+  opacity: 0.9;
+}
+
+
+.main .help {
+ position: relative;
+ float: right;
+}
+.main .help img {
+  width: 20px;
+  cursor:pointer;
+  opacity: 0.5;
+}
+.main .help .active, .main .help img:hover {
+  opacity: 1;
+}
+
+.help {
+  position: absolute;
+  z-index: 200;
+}
+
 	
 

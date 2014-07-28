@@ -30,26 +30,17 @@ a:active{color: white; text-decoration: none;}
 
 
 span {
-    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-    display: -ms-flexbox;      /* TWEENER - IE 10 */
-    display: -webkit-flex;     /* NEW - Chrome */
-    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    display: flex; 
     flex-direction: row;
-    -webkit-box-flex-direction: row;
     padding-right: .4em;
     margin-bottom: .2em;
     cursor: pointer;
-        align-items: baseline;
-
 }
 
 .main div{
-	display: -webkit-flex;
-	display: flex;
-	-webkit-flex-flow: row wrap;
-	flex-flow: row wrap;
-	-webkit-justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content:flex-start;
     align-items: baseline;
     align-content: space-around;
@@ -83,10 +74,7 @@ span {
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding: 30px;
     position: relative;
 }
 
@@ -98,36 +86,39 @@ span {
 }
 
 .header {
-    padding-right: 20px;
-    padding-left: 20px;
-    padding-top: 12px;
-    background: #363636;
-    padding-bottom: 10px;
+  background: #363636;
+  z-index:10;
+  padding-bottom: 10px;
+  position: relative;
+  height:60px;
 }
-
 .header h1 {
-    font-size: 17px;
-    font-weight: 200;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: #A8A8A8;
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #A8A8A8;
+  width:600px;
+  float:left;
+  padding-top: 12px;
 }
 
-.header p{
-    display: inline;
-    font-weight: normal;
-    font-size: 17px;
-    font-weight: 500;
-    color: #fff;
+.header h1 span { display:inline;}
+
+.header span, .header a {
+  font-weight: normal;
+  font-size: 17px;
+  /* text-transform: initial; */
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 17px;
 }
 
-.header .menu{
-    display: none;
-}
+.header .menu { float:right; }
+.header .menu a { float:left; display:block; padding:22px; color:#cecece; text-decoration: none;}
+.menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
 
 .subheader{
-    padding-right: 20px;
-    padding-left: 20px;
     padding-top: 10px;
     background: #292929;
     padding-bottom: 10px; 
@@ -175,53 +166,42 @@ span {
   background-color: #fff;
   pointer-events: none;
   text-align: center;
-  max-width: 200px;
 }
 
 .d3-tip h3 {
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+  font-style: italic;
   line-height: 1.2rem;
   font-size: 1rem;
-  color:#222;
+  color:#000;
   margin:0;
   padding: 2px 0 2px 0;
 }
 
 .d3-tip p {
-  color:#222;
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  color:#a40539;
   font-weight: 400;
+  font-family: "Helvetica", "Arial", sans-serif;
   font-style: normal;
-  font-size: 10px;
+  font-size: 0.625rem;
   line-height: 0.75rem;
   padding: 2px 0 2px 0;
   margin:0;
+
+
 }
-
-.d3-tip p.description {
-  text-align: left;
-  color:#222;
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
-  font-size: 10px;
-  line-height: 14px;
-  padding: 5px 0 5px 0;
-  margin:0;
-}
-
-
 
 /* Creates a small triangle extender for the tooltip */
 .d3-tip:after {
   box-sizing: border-box;
   display: inline;
-  font-size: 15px;
+  font-size: 5px;
   width: 100%;
-  line-height: 0.5;
+  line-height: 1;
   color: #fff;
   position: absolute;
   pointer-events: none;
 }
-
 
 /* Northward tooltips */
 .d3-tip.n:after {
@@ -235,9 +215,9 @@ span {
 /* Eastward tooltips */
 .d3-tip.e:after {
   content: "\25C0";
-  margin: -4px 0 0 -3px;
+  margin: -4px 0 0 0;
   top: 50%;
-  left: -51%;
+  left: -8px;
 }
 
 /* Southward tooltips */
@@ -252,7 +232,7 @@ span {
 /* Westward tooltips */
 .d3-tip.w:after {
   content: "\25B6";
-  margin: -4px 0 0 1px;
+  margin: -4px 0 0 -1px;
   top: 50%;
-  left: 51%;
+  left: 100%;
 }

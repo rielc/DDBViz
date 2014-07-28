@@ -98,12 +98,10 @@ span {
   font-size: 17px;
   letter-spacing: 1px;
   color: #A8A8A8;
-  width:600px;
+  width:500px;
   float:left;
   padding-top: 12px;
 }
-
-.header h1 span { display:inline;}
 
 .header span, .header a {
   font-weight: normal;
@@ -115,8 +113,9 @@ span {
 }
 
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px; color:#cecece; text-decoration: none;}
+.header .menu a { float:left; display:block; padding:22px;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
+.menu a { color:#cecece; text-decoration: none; }
 
 .subheader{
     padding-top: 10px;

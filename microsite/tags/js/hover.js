@@ -273,7 +273,7 @@ var keywords = [
     {"id":676,"value":1621,"name":"Lastkraftwagen"},
     {"id":8,"value":1619,"name":"Stenografie"},
     {"id":1831,"value":1591,"name":"Gruppe"},
-    {"id":1460,"value":1581,"name":"Sprache, Linguistik"},
+    {"id":1460,"value":1581,"name":"Sprache,-Linguistik"},
     {"id":199,"value":1570,"name":"Gemäldegalerie Alte Meister"},
     {"id":1470,"value":1566,"name":"Literatur in anderen Sprachen"},
     {"id":2640,"value":1557,"name":"Bericht"},
@@ -537,8 +537,8 @@ var keywords = [
         var min = 705;
         var valueScale = d3.scale.sqrt().domain([min, max]).range([115, 650]);
         
-            
-        // füge für jede zeile in den daten ein LI ein
+
+         // füge für jede zeile in den daten ein LI ein
         keywordsSelection
             .data(keywords)
             .enter()
@@ -564,7 +564,7 @@ var keywords = [
                         colorMax = keywordCount[1].c; // zweitgrößte anzahl
                         colorMin = keywordCount[keywordCount.length-1].c;
                         
-
+                        
                     // falls es für das aktuelle wort überhaupt einträge gibt…
                     if (keywordCount.length>0) {
 
@@ -579,15 +579,13 @@ var keywords = [
                         
                         d3.selectAll("#value")
                             .remove();
-
-                        
-                        
+                            
                         // geht durch alle keywords
                         for(var i=0; i<keywordCount.length; i++) {
                             
                             // aktulles keyword ist nicht das keyword des aktuellen LI-elements
                             if (keywordCount[i].facet_id != d.id){
-                                
+
                                 // färbs es nach der scale ein
                                 d3.select("#t" + keywordCount[i].facet_id)
                                     .transition()
@@ -596,6 +594,7 @@ var keywords = [
                                     .style("background-color", "#222")
                                     .style("color", colorScale.domain([colorMin, colorMax])(keywordCount[i].c))
                                 
+                                
                             } else {
                                 // oh, es sit doch das akteuelle LI… FÄRBE ES WHITE!!!
                                 d3.select("#t" + keywordCount[i].facet_id)
@@ -603,7 +602,8 @@ var keywords = [
                                     .duration(350)
                                     .attr("class", "active")
                                     .style("color", "#000")
-                                    .style("background-color", "#ccc");
+                                    .style("background-color", "#ccc")
+                                    .style("background-clip", "content-box");
                                 
                                 d3.select(".subheader .container h1")
                                     .append("a")

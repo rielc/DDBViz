@@ -38,13 +38,19 @@ span {
 }
 
 .main div{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-justify-content: flex-start;
     justify-content:flex-start;
+    -webkit-align-items: baseline;
     align-items: baseline;
     align-content: space-around;
+    -webkit-align-content: space-around;
+
 }
+
 
 /*
 .active{
@@ -139,27 +145,6 @@ span {
     margin: auto;
 }
 
-.container .clear {
-    padding-top: 20px;
-    float: left;
-    position: fixed;
-    z-index: 999;
-}
-
-.container .clear img {
-    padding: 4px;
-    width: 20px;
-    height: auto; 
-    cursor: pointer;
-    opacity: .5;
-}
-
-.container .clear .button .op {
-    opacity: .5;
-}
-.container .clear .button .op2 {
-    opacity: 1;
-}
 
 .d3-tip {
   padding: 5px 10px 5px 10px;

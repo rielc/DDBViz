@@ -570,7 +570,7 @@ var keywords = [
 
                         
                         // voll toller reset
-                       d3.selectAll("span")
+                       d3.selectAll(".main span")
                             .transition()
                             .duration(350)
                             .attr("class", "kickMe")
@@ -616,7 +616,7 @@ var keywords = [
                         }
                     } else {
                         // keine keywords in der aktuellen liste 
-                        d3.selectAll("span")
+                        d3.selectAll(".main span")
                             .transition()
                             .duration(350)
                             .attr("class", "kickMe")
@@ -627,7 +627,7 @@ var keywords = [
                     }
                 
                    if($(this).hasClass('active'))  {
-                        d3.selectAll("span")
+                        d3.selectAll(".main span")
                             .transition()
                             .duration(350)
                             .attr("class", "kickMe")

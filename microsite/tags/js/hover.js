@@ -564,7 +564,7 @@ var keywords = [
                         colorMax = keywordCount[1].c; // zweitgrößte anzahl
                         colorMin = keywordCount[keywordCount.length-1].c;
                         
-
+                        
                     // falls es für das aktuelle wort überhaupt einträge gibt…
                     if (keywordCount.length>0) {
 
@@ -587,7 +587,7 @@ var keywords = [
                             
                             // aktulles keyword ist nicht das keyword des aktuellen LI-elements
                             if (keywordCount[i].facet_id != d.id){
-                                
+
                                 // färbs es nach der scale ein
                                 d3.select("#t" + keywordCount[i].facet_id)
                                     .transition()
@@ -603,7 +603,8 @@ var keywords = [
                                     .duration(350)
                                     .attr("class", "active")
                                     .style("color", "#000")
-                                    .style("background-color", "#ccc");
+                                    .style("background-color", "#ccc")
+                                    .style("background-clip", "content-box");
                                 
                                 d3.select(".subheader .container h1")
                                     .append("a")

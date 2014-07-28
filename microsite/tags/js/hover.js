@@ -603,7 +603,8 @@ var keywords = [
                                     .duration(350)
                                     .attr("class", "active")
                                     .style("color", "#000")
-                                    .style("background-color", "#ccc");
+                                    .style("background-color", "#ccc")
+                                    .style("background-clip", "content-box");
                                 
                                 d3.select(".subheader .container h1")
                                     .append("a")

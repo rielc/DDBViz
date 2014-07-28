@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Deutsche Digitale Bibliothek visualisiert</title>
+<link rel="icon" type="image/png" href="favicon.png" />
+<meta charset="utf-8">
+<style>
+@font-face {
+  font-family: KarbidWeb;
+  src: url("css/KarbidWeb.eot");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("css/KarbidWeb.woff") format("woff");
+}
+
+@font-face {
+  font-family: KarbidWeb;
+  src: url("css/KarbidWebBold.woff") format("woff");
+  font-weight: bold;
+}
+
+
+body {
+	background: #0A0A0A;	
+  color: #FFF;
+  margin: 0;
+	padding: 0;
+  min-height: 700px;
+  font-family: KarbidWeb, sans-serif;
+}
+
+p {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.header {
+  background: #363636;
+  z-index:10;
+  padding-bottom: 10px;
+  position: relative;
+  height:60px;
+}
+.header h1 {
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #A8A8A8;
+  width:600px;
+  float:left;
+  padding-top: 12px;
+}
+
+.header h1 span { display:inline;}
+
+.header span, .header a {
+  font-weight: normal;
+  font-size: 17px;
+  /* text-transform: initial; */
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 17px;
+}
+
+.header .menu { float:right; }
+.header .menu a { float:left; display:block; padding:22px; color:#cecece; text-decoration: none;}
+.menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
+
+
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+
+
+.subheader {
+  padding-top: 10px;
+  background: #292929;
+  padding-bottom: 10px;
+}
+
+.subheader h1 {
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+.feedback {
+	background: #171717;	
+	margin: 0;
+	min-height: 200px;
+	width: 100%;
+	clear: both;
+}
+
+.footer {
+	height: 200px;
+	bottom: 0;
+	width: 100%;
+	margin-top: 20px;
+}
+
+
+.subheader h1 {
+	font-size: 27px;
+	line-height: 1.5em;
+	margin-bottom: 40px;
+	font-weight: normal;
+}
+
+.subheader p {
+	font-size: 18px;
+	line-height: 1.5em;
+	font-weight: normal;
+}
+
+.subheader a { 	color: #CD1245; }
+.subheader a:hover { 	text-decoration: underline; }
+
+.main {
+  background: #222222;	
+	padding: 50px 0 25px;
+	margin: 0;
+	margin-left: -20px;
+}
+
+.project {
+	float: left;
+	padding: 10px;
+	width: 265px;
+	margin-right: 20px;
+	line-height: 1.35em;	
+}
+
+.main .container div:nth-child(4) {
+	margin-right: 0px;
+}
+
+.project:hover {
+	background: #292929;
+}
+
+.project img {
+	
+}
+
+h2, a h2 {
+	font-size: 18px;
+	color: #fff;
+}
+
+.feedback h2 {
+	margin: 0;
+	padding: 20px 0 20px;
+}
+
+.subheader {
+	padding: 90px 0;
+	height: 270px;
+	min-width: 1240px;
+	background: #292929 url('index/leaves.png') center no-repeat;
+}
+
+.subheader .container {
+	width: 540px;
+	padding-left: 600px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="container">
+    <h1>Deutsche Digitale Bibliothek <span>visualisiert</span></h1>
+    <div class="menu">
+      <span><a class="active" href="../">Start</a></span>
+      <span><a href="../time-exploration/" >Übersicht</a></span>
+      <span><a href="../tags/">Stichworte</a></span>
+      <span><a href="../cities/">Orte</a></span>
+      <span><a href="../affiliates-network/">Netzwerke</a></span>
+    </div>
+  </div>
+</div>
+
+<div class="subheader">
+  <div class="container">
+    <h1>Wie sieht eine Sammlung von<br>
+über 7 Millionen Kulturobjekten aus?</h1>
+    <p>
+			Die <a href="https://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a> macht eine Vielzahl von Objekten verschiedenster Kultur- und Forschungseinrichtungen zugänglich.<br>
+			Dieses Projekt versucht, die Ausmaße dieses Bestandes mit Hilfe interaktiver Visualisierungen sichtbar und greifbar zu machen.
+		</p>
+  </div>
+</div>
+
+<div class="main">
+<div class="container">
+	
+<div class="project">	
+<a href="time-exploration/">
+<img src="index/time.png" width=265 height=265>	
+<h2>Epochen &amp; Sparten</h2>
+<p>Die zeitliche Übersicht erlaubt eine Detailbetrachtung der häufigsten Stichworte, Orte und Personen pro Zeitabschnitt.</p></a>
+</div>
+
+<div class="project">	
+<a href="tags/"><img src="index/tags.png" width=265 height=265>	
+<h2>Stichworte</h2>
+<p>Die häufigsten Stichworte werden der Größe nach abgebildet. Gemeinsames Auftreten mit anderen Begriffen wird durch Klicken angezeigt.</p></a>
+</div>
+
+<div class="project">	
+<a href="cities/"><img src="index/cities.png" width=265 height=265>	
+<h2>Orte &amp; Sparten</h2>
+<p>Übersicht der Städte mit den meisten Einträgen. Die Unterteilung der jeweiligen Stadt erfolgt durch die verschiedenen Sparten.</p></a>
+</div>
+
+<div class="project">	
+<a href="affiliates-network/">
+<img src="index/network.png" width=265 height=265>	
+<h2>Personen &amp; Organisationen</h2>
+<p>Beziehungsnetzwerke zwischen den aktivsten Personen und Organisationen im Bestand über frei wählbare Zeiträume.</p></a>
+</div>
+
+<div style="clear: both;">&nbsp;</div>
+	
+</div></div>
+
+<div class="feedback">
+<div class="container">
+	<h2>Feedback</h2>
+	</div>
+</div>
+
+<div class="footer">
+<div class="container">
+<h2>Credit</h2>
+</div>
+</div>
+
+</body>
+</html>

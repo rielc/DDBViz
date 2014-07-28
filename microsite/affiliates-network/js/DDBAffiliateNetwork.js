@@ -909,7 +909,7 @@ DDBAffiliateNetwork = function()
           .append("circle")
           .on("mouseover", function (d,i) { self.focus("node", d); self.tip.show(d);} )
           .on("mouseout", function (d,i) { self.defocus(); self.tip.hide();} )
-          .on("click", function (d) { console.log(d.affiliate_fct); self.saveOrganisation(d.affiliate_fct_id); /*self.openDDB("node", d.affiliate_fct)*/; })
+          .on("click", function (d) { /*self.saveOrganisation(d.affiliate_fct_id);*/ self.openDDB("node", d.affiliate_fct); })
           .attr("id", function (d) { return "affiliate_fct_id-" + d.affiliate_fct_id } )
           .attr("class", "affiliate")
           .call(this.resetNode)
@@ -986,7 +986,7 @@ DDBAffiliateNetwork = function()
       case "node":
         var url = 
         "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&viewType=grid" +
-        "&facetValues%5B%5D=affiliate_fct_role="+encodeURIComponent(data)+
+        "&facetValues%5B%5D=affiliate_fct_role="+encodeURI(data)+
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
         window.open(url);

@@ -122,6 +122,12 @@ body {
     justify-content:center;
     align-items: flex-end;
     align-content: stretch;
+    display: -webkit-inline-flex;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -webkit-justify-content:center;
+    -webkit-align-items: flex-end;
+    -webkit-align-content: stretch;
 }
 
 
@@ -178,8 +184,6 @@ p.value {
   padding: 5px 0 5px 0;
   margin:0;
 }
-
-
 
 /* Creates a small triangle extender for the tooltip */
 .d3-tip:after {
@@ -292,66 +296,66 @@ p.value {
 .Wurzburg {-webkit-order: 62; order: 62; -ms-flex-order: 62;}
 .Zurich {-webkit-order: 63; order: 63; -ms-flex-order: 63;}
 
-.Amsterdam_max {display: flex; flex-direction: column; align-items: center; }
-.Argentoratum_max {display: flex; flex-direction: column; align-items: center; }
-.Augsburg_max {display: flex; flex-direction: column; align-items: center; }
-.Augspurg_max {display: flex; flex-direction: column; align-items: center; }
-.Basileae_max {display: flex; flex-direction: column; align-items: center; }
-.Berlin_max {display: flex; flex-direction: column; align-items: center; }
-.Bonn_max {display: flex; flex-direction: column; align-items: center; }
-.Braunschweig_max {display: flex; flex-direction: column; align-items: center; }
-.Bremen_max {display: flex; flex-direction: column; align-items: center; }
-.Bruxelles_max {display: flex; flex-direction: column; align-items: center; }
-.ColoniaeAgrippinae_max {display: flex; flex-direction: column; align-items: center; }
-.Darmstadt_max {display: flex; flex-direction: column; align-items: center; }
-.Dresden_max {display: flex; flex-direction: column; align-items: center; }
-.Dusseldorf_max {display: flex; flex-direction: column; align-items: center; }
-.Erlangen_max {display: flex; flex-direction: column; align-items: center; }
-.FrankfurtMain_max {display: flex; flex-direction: column; align-items: center; }
-.Freiburg_max {display: flex; flex-direction: column; align-items: center; }
-.Gottingen_max {display: flex; flex-direction: column; align-items: center; }
-.Hala_max {display: flex; flex-direction: column; align-items: center; }
-.Halle_max {display: flex; flex-direction: column; align-items: center; }
-.Hamburg_max {display: flex; flex-direction: column; align-items: center; }
-.Hannover_max {display: flex; flex-direction: column; align-items: center; }
-.Heidelberg_max {display: flex; flex-direction: column; align-items: center; }
-.Ingolstadii_max {display: flex; flex-direction: column; align-items: center; }
-.Jena_max {display: flex; flex-direction: column; align-items: center; }
-.Karlsruhe_max {display: flex; flex-direction: column; align-items: center; }
-.Kassel_max {display: flex; flex-direction: column; align-items: center; }
-.Kiel_max {display: flex; flex-direction: column; align-items: center; }
-.Koln_max {display: flex; flex-direction: column; align-items: center; }
-.Konstanz_max {display: flex; flex-direction: column; align-items: center; }
-.Leipzig_max {display: flex; flex-direction: column; align-items: center; }
-.Lipsia_max {display: flex; flex-direction: column; align-items: center; }
-.Lipsiae_max {display: flex; flex-direction: column; align-items: center; }
-.London_max {display: flex; flex-direction: column; align-items: center; }
-.Ludwigsburg_max {display: flex; flex-direction: column; align-items: center; }
-.Lugdunum_max {display: flex; flex-direction: column; align-items: center; }
-.Madrid_max {display: flex; flex-direction: column; align-items: center; }
-.Mainz_max {display: flex; flex-direction: column; align-items: center; }
-.Mannheim_max {display: flex; flex-direction: column; align-items: center; }
-.Marburg_max {display: flex; flex-direction: column; align-items: center; }
-.Milano_max {display: flex; flex-direction: column; align-items: center; }
-.Monachii_max {display: flex; flex-direction: column; align-items: center; }
-.Munchen_max {display: flex; flex-direction: column; align-items: center; }
-.Neuenstein_max {display: flex; flex-direction: column; align-items: center; }
-.Nurnberg_max {display: flex; flex-direction: column; align-items: center; }
-.Paris_max {display: flex; flex-direction: column; align-items: center; }
-.Prag_max {display: flex; flex-direction: column; align-items: center; }
-.Regensburg_max {display: flex; flex-direction: column; align-items: center; }
-.Rom_max {display: flex; flex-direction: column; align-items: center; }
-.Roma_max {display: flex; flex-direction: column; align-items: center; }
-.Sigmaringen_max {display: flex; flex-direction: column; align-items: center; }
-.Stuttgart_max {display: flex; flex-direction: column; align-items: center; }
-.Tubinga_max {display: flex; flex-direction: column; align-items: center; }
-.Tubingen_max {display: flex; flex-direction: column; align-items: center; }
-.Ulm_max {display: flex; flex-direction: column; align-items: center; }
-.Venetia_max {display: flex; flex-direction: column; align-items: center; }
-.Venetiis_max {display: flex; flex-direction: column; align-items: center; }
-.Venezia_max {display: flex; flex-direction: column; align-items: center; }
-.Weimar_max {display: flex; flex-direction: column; align-items: center; }
-.Wertheim_max {display: flex; flex-direction: column; align-items: center; }
-.Wien_max {display: flex; flex-direction: column; align-items: center; }
-.Wurzburg_max {display: flex; flex-direction: column; align-items: center; }
-.Zurich_max {display: flex; flex-direction: column; align-items: center; }
+.Amsterdam_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Argentoratum_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Augsburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Augspurg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Basileae_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Berlin_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Bonn_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Braunschweig_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Bremen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Bruxelles_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.ColoniaeAgrippinae_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Darmstadt_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Dresden_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Dusseldorf_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Erlangen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.FrankfurtMain_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Freiburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Gottingen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Hala_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Halle_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Hamburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Hannover_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Heidelberg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Ingolstadii_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Jena_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Karlsruhe_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Kassel_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Kiel_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Koln_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Konstanz_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Leipzig_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Lipsia_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Lipsiae_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.London_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Ludwigsburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Lugdunum_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Madrid_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Mainz_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Mannheim_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Marburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Milano_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Monachii_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Munchen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Neuenstein_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Nurnberg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Paris_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Prag_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Regensburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Rom_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Roma_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Sigmaringen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Stuttgart_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Tubinga_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Tubingen_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Ulm_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Venetia_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Venetiis_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Venezia_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Weimar_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Wertheim_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Wien_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Wurzburg_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }
+.Zurich_max {display: flex; flex-direction: column; align-items: center; display: -webkit-flex; -webkit-flex-direction: column; -webkit-align-items: center; }

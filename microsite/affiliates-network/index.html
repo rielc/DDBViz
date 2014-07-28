@@ -3,7 +3,6 @@
 <meta charset="utf-8">
   <link rel="stylesheet" href="./css/d3.tip.css">
   <link rel="stylesheet" href="./css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div id="overlay">
@@ -27,10 +26,10 @@
 </div>
 <div class="subheader">
   <div class="container">
-    <h1>Ein Netzwerk aus den aktivsten Personen und Organisationen <span id="preposition"> im</span><span id="time-facet-name"></span><img style="float:right;display:block;" src="images/icons/info.svg" class="help" width="20"  height="20" />
+    <h1>Ein Netzwerk aus den aktivsten Personen und Organisationen <span id="preposition"> im</span><span id="time-facet-name"></span><img style="float:right;display:block;" src="./images/icons/info.svg" class="help" width="20"  height="20" />
 </h1>
-    <p class="timeline-tip inactive">
-      <img src="images/arrow-02.svg" class="left-arrow"/><svg id="timeline"></svg><img src="images/arrow-01.svg" class="right-arrow"/>
+    <p class="timeline-tip">
+      <img src="./images/arrow-02.svg" class="left-arrow"/><svg id="timeline"></svg><img src="./images/arrow-01.svg" class="right-arrow"/>
     </p>
     <p id="description"> Visualisiert werden die 500 aktivsten Personen und Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>
   </div>
@@ -39,8 +38,8 @@
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.tip.js"></script>
 <script src="./js/DDBAffiliateNetwork.js"></script>
-<script src="./js/d3.tip.js"></script>
 <script type="text/javascript">
 
   $(document).ready( function() {
@@ -58,25 +57,29 @@
     });
 
     $( ".left-arrow" ).click(function() {
-      an.currentTimeFacetID--;
-      an.collectNewNodes(an.currentTimeFacetID, an.currentTimeFacetID+1)
-      d3.selectAll(".time-facet-labels").style("fill", "#363636");
-      d3.selectAll(".time-facet-ticks").style("fill", "#363636");
-      d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
-      d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
-      d3.select(".extent").attr("width", an.brushWidth);
-      d3.select(".extent").attr("x", an.brushScale(an.currentTimeFacetID));
+      if (an.currentTimeFctID > 0) {
+        an.currentTimeFctID--;
+        an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1)
+        d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
+        d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
+        d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".extent").attr("width", an.brushWidth);
+        d3.select(".extent").attr("x", an.brushScale(an.currentTimeFctID));
+      }
     });
 
     $( ".right-arrow" ).click(function() {
-      an.currentTimeFacetID++;
-      an.collectNewNodes(an.currentTimeFacetID, an.currentTimeFacetID+1);
-      d3.selectAll(".time-facet-labels").style("fill", "#363636");
-      d3.selectAll(".time-facet-ticks").style("fill", "#363636");
-      d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
-      d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFacetID]).style("fill", "#a40539");
-      d3.select(".extent").attr("width", an.brushWidth);
-      d3.select(".extent").attr("x", an.brushScale(an.currentTimeFacetID));
+      if (an.currentTimeFctID < an.timeFcts.length-1) {
+        an.currentTimeFctID++;
+        an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
+        d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
+        d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
+        d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".extent").attr("width", an.brushWidth);
+        d3.select(".extent").attr("x", an.brushScale(an.currentTimeFctID));
+      }
     });
 
   });

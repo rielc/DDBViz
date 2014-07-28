@@ -1,100 +1,52 @@
-// detect per regex-magic and compare through ID list, what type the affilaite is
-
-function calcDate (year, end) {
-  var d2 = new Date(0);
-  if (end) { d2.setUTCFullYear(year, 11, 31); } else { d2.setUTCFullYear(year); }
-    var d1 = new Date(1970,0,01);
-    d1 = d1.getTime() / 86400000;
-    d2 = d2.getTime() / 86400000;
-  return parseInt(new Number(d2 - d1).toFixed(0))+ 719164 ;}
-function clearName (name) {
-  var newname = "";
-  if (name.indexOf(",") > -1) {
-    var strings = name.split(",");
-    newName = strings[1]+" "+strings[0];
-  } else {
-    newName = name;
-  }
-  if (name.indexOf("(Fotograf)") > -1) {
-    newName = newName.replace("(Fotograf)", "");
-  }
-  newName = newName.replace( new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"), ""); // clear the years out of the name
-  return newName; };
-
 DDBAffiliateNetwork = function()
 {
 
-  this.svgWidth = $(window).width();
-
+  // timfct_id
   this.timeFcts = ['time_36100', 'time_36200', 'time_36300', 'time_36400', 'time_36500', 'time_36600', 'time_36700', 'time_36800', 'time_36900', 'time_36950', 'time_37100', 'time_37200', 'time_37300', 'time_37400', 'time_37500', 'time_37600', 'time_37700', 'time_37800', 'time_37900', 'time_37950', 'time_38100', 'time_38200', 'time_38300', 'time_38400', 'time_38500', 'time_38600', 'time_38700', 'time_38800', 'time_38900', 'time_38950', 'time_39100', 'time_39200', 'time_39300', 'time_39400', 'time_39500', 'time_39600', 'time_39700', 'time_39800', 'time_39900', 'time_39950', 'time_60200', 'time_60300', 'time_60400', 'time_60500', 'time_60600', 'time_60700', 'time_60800', 'time_60900', 'time_61000', 'time_61105', 'time_61145', 'time_61205', 'time_61245', 'time_61305', 'time_61345', 'time_61405', 'time_61445', 'time_61505', 'time_61545', 'time_61605', 'time_61645', 'time_61705', 'time_61745', 'time_61807', 'time_61825', 'time_61847', 'time_61875', 'time_61907', 'time_61925', 'time_61947', 'time_61975', 'time_62010', 'time_62020', 'time_62030', 'time_62040', 'time_62050', 'time_62060', 'time_62070', 'time_62080', 'time_62090', 'time_62095', 'time_62110', 'time_62120'];
   this.timeNames = ['40. Jahrhundert vor Christus', '39. Jahrhundert vor Christus', '38. Jahrhundert vor Christus', '37. Jahrhundert vor Christus', '36. Jahrhundert vor Christus','35. Jahrhundert vor Christus', '34. Jahrhundert vor Christus', '33. Jahrhundert vor Christus', '32. Jahrhundert vor Christus', '31. Jahrhundert vor Christus', '30. Jahrhundert vor Christus', '29. Jahrhundert vor Christus', '28. Jahrhundert vor Christus', '27. Jahrhundert vor Christus', '26. Jahrhundert vor Christus', '25. Jahrhundert vor Christus', '24. Jahrhundert vor Christus', '23. Jahrhundert vor Christus', '22. Jahrhundert vor Christus', '21. Jahrhundert vor Christus', '20. Jahrhundert vor Christus', '19. Jahrhundert vor Christus', '18. Jahrhundert vor Christus', '17. Jahrhundert vor Christus', '16. Jahrhundert vor Christus', '15. Jahrhundert vor Christus', '14. Jahrhundert vor Christus', '13. Jahrhundert vor Christus', '12. Jahrhundert vor Christus', '11. Jahrhundert vor Christus', '10. Jahrhundert vor Christus', '9. Jahrhundert vor Christus', '8. Jahrhundert vor Christus', '7. Jahrhundert vor Christus', '6. Jahrhundert vor Christus', '5. Jahrhundert vor Christus', '4. Jahrhundert vor Christus', '3. Jahrhundert vor Christus', '2. Jahrhundert vor Christus', '1. Jahrhundert vor Christus', '1. Jahrhundert', '2. Jahrhundert', '3. Jahrhundert', '4. Jahrhundert', '5. Jahrhundert', '6. Jahrhundert', '7. Jahrhundert', '8. Jahrhundert', '9. Jahrhundert', '1001 bis 1050', '1051 bis 1100', '1101 bis 1150', '1151 bis 1200', '1201 bis 1250', '1251 bis 1300', '1301 bis 1350', '1351 bis 1400', '1401 bis 1450', '1451 bis 1500', '1501 bis 1550', '1551 bis 1600', '1601 bis 1650', '1651 bis 1700', '1701 bis 1725', '1726 bis 1750', '1751 bis 1775', '1776 bis 1800', '1801 bis 1825', '1826 bis 1850', '1851 bis 1875', '1876 bis 1900', '1901 bis 1910', '1911 bis 1920', '1921 bis 1930', '1931 bis 1940', '1941 bis 1950', '1951 bis 1960', '1961 bis 1970', '1971 bis 1980', '1981 bis 1990', '1991 bis 2000', '2001 bis 2010', '2011 bis 2020'];
-  this.parameters = { timeFct : "", affiliateMinOccurrence : 40 };
+
+  // these ids are marked as orgnisations
   this.organisationIDs = [11511,1285,6655,6653,41150,3100,21070,4572,35266,35265,6160,4321,13435,9213,16020,13118,5810,16694,226,30557,210,13368,10276,10354,40311,1483,26161,35283,2026,629,6062,8875,20319,20318,10216,20266,23103,3454,179,429,2038,6011,1194,4973,9584,1756,4812,14080,24533,9543,5928,1404,1402,4696,1563,9893,1432,68113,5552,1001,3059,131,1065,2845,205,5022,75476,6822,5306,2295,1261,25991,195,8726,1514,129,7942,12654,13570,15064,3175,8764,2492,15572,336,1850,918,25077,11882,21203,5067,7180,4415,4413,574,1442,27026,136675,1827,792,14011,35245,8574,40290,19050,9848,4998,17484,2337,5442,439,5276,109,50532,846,87628,104538,25118,154186,30724,2216,7238,168844,35115,2139,4201,53735,10028,32944,6485,1527,26283,3305,4414,14362,18389,14366,9994,2119,416,6852,2122,16868,3803,1151,13437,30661,20160,11382,448,3605,18921,20636,3434,10640,3599,37664,388,387,1084,1854,22478,7819,788,4803,1205,2276,20911,4797,4799,86554,376,70,25487,5295,5297,59093,6221,501,2671,32570,33833,46545,586,1110,12886,5853,13293,16696,29931,10830,3607,3538,4062,2214,3892,3071,1876,4314,156324,35324,67901,15380,7943,6245,1728,9163,898,715,780,1416,5208,8506,3968,165,45988,135,6299,2792,52279,5848,1849,10757,4925,8273,16187,4926,4927,38271,9289,41685,14682,93166,76376,6874,10721,53779,164356,8750,3033,45201,26546,122407,13024,38583,1769,16092,126035,9306,611,5191,39509,1446,242,12443,8161,12494,67748,177179,39756,47348,77969,27040,15904,14176,13019,17494,20646,755,681,6782,8167,420,2675,5978,29,7026,853,3807,1147,46,8509,5819,1463,710,2261,8518,835,80709,6474,40895,76579,20740,58803,1498,4962,2736,42947,16849,4985,9423,168302,144266,126735,43788,3537,500,5269,12565,10188,268,27497,730,17154,13284,32084,1399,5065,11463,3553,693,174732,123132,73951,9725,1497,4475,7609,10371,9426,10181,345,3808,1633,7572,14217,3831,1684,22157,2725,11622,4358,6517,12109,21001,1525,326,11300,1054,3594,1859,4003,10210,8955,13134,3469,15552,9715,29195,5594,570,7907,9366,62633,9404,19424,14780,76120,32250,50100,58853,98304,23926,44804,1491,3431,112474,32878,55052,6746,224982,67579,80699,107633,7056,65891,60514,22639,67156,2377,15193,4901,54130,52313,309,39782,23449,43468,2460,9651,17523,3176,25743,50603,144627,14964,124,3237,7660,7527,15722,2282,83307,1896,9425,7168,79191,221,90104,6459,3715,9003,867,14507,837,17188,670,2057,2832,47556,2248,6561,37207,7000,1266,5155,1062,653,22623,3092,6336,3643,251,62076,307,3131,10916,2075,5311,18123,12498,4887,32914,25963,1783,81518,11330,35819,204486,35820,351,1623,25762,13534,257,62676,40292,11843,70108,57316,29259,70107,126893,11842,23179,65596,6158,13,8760,8759,15973,21876,21877,14002,23025,62670,301,3697,600,2157,1487,4627,26,2515,300,5895,6441,917,1906,1788,442,162,14658,2935,3692,5473,1353,2340,521,1131,6941,24756,39548,14138,2476,12378,99451,36045,7715,9900,10833,5025,5710,2245,4197,22347,7745,728,10312,6648,12260,9876,15620,687,15098,1988,43513,9991,4746,9823,3346,1294,2487,5056,8970,10321,38676,125509,34634,8874,12553,37778,4541,104707,4340,20816,40378,39533,386,37283,40872,6111,176578,34371,94330,12953,11242,37317,10862,851,63781,393,16700,2705,877,1744,685,48248,2263,61894,1168,7052,51806,75470,131186,119935,24493,31417,15560,14765,32129,8767,44959,13891,104901,61939,52504,30594,93698,59453,2619,2620,3983,30308,28465,10551,5213,37298,6269,9161,8433,9751,594,1824,30978,31357,63986,7692,14646,4634,6884,13866,128365,1478,28228,62048,720,24200,571,22085,102630,1568,38823,6644,43982,150380,35415,28124,1495,733,140,13748,12374,19496,1867,2410,2413,4401,26034,63678,26036,2414,4393,131794,129866,63679,26027,26035,87954,109000,67790,2415,26038,108991,86793,127375,127377,129868,261347,87950,180043,276861,26039,127775,46884,136228,131790,131767,197838,86780,129867,127380,264856,806,4392,46887,26037,131775,171400,4396,26033,86788,4399,136234,33676,2073,5647,7608,3646,253,25,4616,37158,10130,1875,654,6412,562,5762,27504,19513,25004,16239,19336,2727,2085,3673,1120,120]; 
   this.nodePositioning = "network";
-  this.minOccurrence = 40;
-  this.maxNodeCount =0;
-  this.maxNodeCount =100;
 
+  // dimensions of the network
   this.networkWidth = $(window).width(), 
   this.networkHeight = $(window).height()-$(".header").outerHeight(true);
 
+  // occurrences for scaling etc
+  this.minOccurrence = 40;
+  this.maxOccurrence = 40;
   this.globalMaxOccurence = 0,
   this.globalMinOccurence = 1000;
+  this.maxNodeCount = 0;
+  this.maxNodeCount = 100;
 
-  this.highlightedAffiliates = [];
-  this.currentTimeFacetID = this.timeFcts.length-1;
+  this.currentTimeFctID = this.timeFcts.length-2;
 
   // append svg and resize
   this.svg = d3.select("#network")
     .attr("width", this.networkWidth)
-    .attr("height", this.networkHeight); //this.networkHeight
+    .attr("height", this.networkHeight); 
 
   this.histogramBinAxis = this.svg
     .append("g")
     .attr("class", "histogram-bin-axis")
     .selectAll("g.bin");
 
-    this.detectType = function(n) {
-      var type = undefined;
-      if (
-        // n.affiliate_fct.match(new RegExp("[M|m]useum", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("[M|m]inesterium", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("[G|g]ericht", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("([I|i]nstitut)+", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("([M|m]useen)+", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("(Technoseum)+", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("([S|s]ammlung)+", "gi")) || 
-        // n.affiliate_fct.match(new RegExp("([A|a]rchiv)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([A|a]mt)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("(Landesbibliothek)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([U|u]niversitätsbibliothek)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([S|s]taatsbibliothek)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("[B|b]]ibliothek", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([D|d]epartement)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([R|r]egierung)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([G|g]emeinschaft)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("[U|u]niversität", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([F|f]orum)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([S|s]tiftung)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([N|n]achlass)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([H|h]ochschule)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("(VEB)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("(AG)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("(GmbH)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([G|g]rafschaft)+", "gi")) ||
-        // n.affiliate_fct.match(new RegExp("([K|k]loster)+", "gi")) ||
-        this.organisationIDs.indexOf(n.affiliate_fct_id) > -1 
-      ) { type = 'organisation'; } 
-      else /*(
-        n.affiliate_fct.match(new RegExp("\\(Fotograf\\)", "gi")) ||
-        n.affiliate_fct.match(new RegExp("Herzog", "gi")) || 
-        n.affiliate_fct.match(new RegExp("König", "gi")) ||
-        n.affiliate_fct.match(new RegExp("Politiker", "gi")) ||
-        n.affiliate_fct.match(new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"))
-      )*/ { type = 'person'; }
-        console.log(type);
-      return type;
-    };
+  this.detectType = function(n) {
+    var type = undefined;
+    if ( this.organisationIDs.indexOf(n.affiliate_fct_id) > -1 
+    ) { type = 'organisation'; } 
+    else /*(
+      n.affiliate_fct.match(new RegExp("\\(Fotograf\\)", "gi")) ||
+      n.affiliate_fct.match(new RegExp("Herzog", "gi")) || 
+      n.affiliate_fct.match(new RegExp("König", "gi")) ||
+      n.affiliate_fct.match(new RegExp("Politiker", "gi")) ||
+      n.affiliate_fct.match(new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"))
+    )*/ { type = 'person'; }
+      console.log(type);
+    return type;
+  };
     
 
   this.generateOverlay = function() {
@@ -106,16 +58,21 @@ DDBAffiliateNetwork = function()
       .style("width", $(window).width())
       .style("height", $(window).height()-$(".header").outerHeight(true))
       .selectAll("*").remove();
- 
+
       var infos = [];
+
+      this.affiliates.style("fill", "ccc").style("fill-opacity", "0.1");
+      this.links.style("stroke-opacity", "0.1");
+
 
       // affiliate
       var examplePerson = this.currentNodes.values()
         .sort(function (a, b) { return self.nodeValues.get(b.affiliate_fct_id).affiliate_fct_occurrence - self.nodeValues.get(a.affiliate_fct_id).affiliate_fct_occurrence;})
         .filter(function (n) { return (self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_type == "person")})[0];
 
+
       if (examplePerson != undefined) {
-        d3.select("#affiliate_fct_id-" + examplePerson.affiliate_fct_id).style("stroke", "#ccc").style("stroke-width", 5);
+        d3.select("#affiliate_fct_id-" + examplePerson.affiliate_fct_id).style("fill-opacity", "1").style("fill", "a40539");
         infos.push({
           x : self.transformX(examplePerson),
           y : self.transformY(examplePerson),
@@ -129,7 +86,7 @@ DDBAffiliateNetwork = function()
         .filter(function (n) { return (self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_type == "organisation")})[0];
 
       if (exampleOrganisation != undefined) {
-        d3.select("#affiliate_fct_id-" + exampleOrganisation.affiliate_fct_id).style("stroke", "#ccc").style("stroke-width", 5);
+        d3.select("#affiliate_fct_id-" + exampleOrganisation.affiliate_fct_id).style("fill-opacity", "1");
         infos.push({
           x : self.transformX(exampleOrganisation),
           y : self.transformY(exampleOrganisation),
@@ -142,7 +99,9 @@ DDBAffiliateNetwork = function()
       var exampleLink = d3.shuffle(this.currentLinks.values().filter(function (l) { return l.source.affiliate_fct_id != l.target.affiliate_fct_id;}))[0];
       if (exampleLink != undefined) {
         var linkPosition = { x: (exampleLink.target.x+exampleLink.source.x)/2, y: (exampleLink.target.y+exampleLink.source.y)/2 }
-        d3.select("#link-"+exampleLink.source.affiliate_fct_id+'_'+exampleLink.target.affiliate_fct_id).call(this.highlightLink).style("stroke-width", 5);
+        d3.select("#affiliate_fct_id-" + exampleLink.source.affiliate_fct_id).call(this.resetNode);
+        d3.select("#affiliate_fct_id-" + exampleLink.target.affiliate_fct_id).call(this.resetNode);
+        d3.select("#link-"+exampleLink.source.affiliate_fct_id+'_'+exampleLink.target.affiliate_fct_id).call(this.highlightLink).style("stroke-width", 5).style("stroke", "#fff");
         infos.push({
           x : self.transformX(linkPosition),
           y : self.transformY(linkPosition),
@@ -153,22 +112,22 @@ DDBAffiliateNetwork = function()
 
 
       infos.push({
-        x : $(".timeline-tip").position().left+25,
-        y : $(".timeline-tip").position().top+50,
+        x : $(".timeline-tip").position().left+15,
+        y : $(".timeline-tip").position().top+55,
         text : "Vorheriger Zeitraum",
         r: 0
       });
 
       infos.push({
-        x : $(".timeline-tip").position().left+this.timelineWidth+55,
-        y : $(".timeline-tip").position().top+50,
+        x : $(".timeline-tip").position().left+this.timelineWidth+45,
+        y : $(".timeline-tip").position().top+55,
         text : "Nächster Zeitraum",
         r: 0
       });
 
       infos.push({
         x : ($("#overlay").width()/2-600)+950,
-        y : 90,
+        y : 75,
         text : "Anzahl der Personen und Organisationen eines Zeitraumes",
         r: 30
       });
@@ -225,7 +184,6 @@ DDBAffiliateNetwork = function()
             });
         });
   };
-    //generatethis.Overlay();
 
   this.resizeWindow = function () {
     // fetch the new sizes
@@ -265,12 +223,9 @@ DDBAffiliateNetwork = function()
   this.transformY = function (d) { return this.zoomYScale(d.y); }
 
   this.init = function() {
-
     self = this;
 
     this.data = {};
-    this.version = 'version-4';
-
     this.timelineIDs = [];
     this.timelineSum = [];
 
@@ -303,7 +258,7 @@ DDBAffiliateNetwork = function()
       .domain([0, this.networkHeight])
       .range([this.networkHeight, 0]);
 
-      this.zoomContext = d3.behavior.zoom().x(this.zoomXScale).y(this.zoomYScale).scaleExtent([0.5, 10]).on("zoom", this.zoom);
+    this.zoomContext = d3.behavior.zoom().x(this.zoomXScale).y(this.zoomYScale).scaleExtent([0.5, 10]).on("zoom", this.zoom);
     this.svg.call(this.zoomContext);
 
     // christophers awesome help overlay 
@@ -338,28 +293,25 @@ DDBAffiliateNetwork = function()
     this.svg.call(this.sourceTip);
     this.svg.call(this.targetTip);
 
-    this.parameters.timeFct = this.timeFcts[0];
-
-    jQuery.getJSON( "./data/detail-20.json", function (result) {
+    jQuery.getJSON( "./data/affiliates.json", function (result) {
       self.data = result;
       self.collectAllNodes();
       self.initTimeline();
       self.resizeWindow();
-      self.collectNewNodes(self.currentTimeFacetID, self.timeFcts.length);
-
+      self.collectNewNodes(self.currentTimeFctID, self.timeFcts.length);
         window.setTimeout( function () {
           $('.subheader').mouseover( function() {
             $(".timeline-tip").attr("class", "timeline-tip active");
-            $("#time-facet-name").css( {"background-color": "#bf8f9f", "color": "#363636", "padding":"10px 10px 14px 10px"} );
             an.resizeWindow();  
           });
           $('#network').mouseover( function() {
             $(".timeline-tip").attr({"class": "timeline-tip inactive"});
-            $("#time-facet-name").css( {"background-color": "transparent", "color": "#ffffff", "padding":"0"} );
             an.resizeWindow();
           });
-          $('.subheader').mouseover();
-          d3.select(".extent").transition().delay(2500).duration(200).attr("height", 45);
+          //$('.subheader').mouseover();
+
+          // set the height of the brush
+          d3.select(".extent").transition().delay(2500).duration(200).attr("height", 40);
         }, 2000);
 
 
@@ -396,7 +348,9 @@ DDBAffiliateNetwork = function()
         break;
         case "sortByOccurrence" :break;
         }
-      });};
+      });
+  };
+  
   this.extractQueryDates = function (t) {
     var start=0,end=0;
     if(t.indexOf("Jahrhundert") > -1) {
@@ -422,7 +376,7 @@ DDBAffiliateNetwork = function()
     return timeName;};
   this.initTimeline = function () {
 
-    this.timelineWidth = 1120,  this.timelineHeight = 80;
+    this.timelineWidth = 1140,  this.timelineHeight = 80;
     this.brushWidth = (self.timelineWidth/self.timeNames.length)-2;
 
     var margin = 20;
@@ -445,18 +399,18 @@ DDBAffiliateNetwork = function()
       if (d0 > self.timeFcts.length-1) { d0 = self.timeFcts.length-1; d1 = self.timeFcts.length-0; }
       if (d0 < 1) { d0 = 0; d1 = 1; }
 
-      self.currentTimeFacetID = d0;
-      d3.select(this).call(self.brush.extent([self.currentTimeFacetID, d1]));
+      self.currentTimeFctID = d0;
+      d3.select(this).call(self.brush.extent([self.currentTimeFctID, d1]));
 
-      console.log(self.currentTimeFacetID+","+d1);
+      console.log(self.currentTimeFctID+","+d1);
 
-      d3.selectAll(".time-facet-labels").style("fill", "#363636");
-      d3.selectAll(".time-facet-ticks").style("fill", "#363636");
-      d3.select(".time-facet-label-"+self.timeFcts[self.currentTimeFacetID]).style("fill", "a40539");
-      d3.select(".time-facet-tick-"+self.timeFcts[self.currentTimeFacetID]).style("fill", "a40539");
+      d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
+      d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
+      d3.select(".time-facet-label-"+self.timeFcts[self.currentTimeFctID]).style("fill", "#bf8f9f");
+      d3.select(".time-facet-tick-"+self.timeFcts[self.currentTimeFctID]).style("fill", "#bf8f9f");
       d3.select(".extent").attr("width", self.brushWidth);
 
-      self.collectNewNodes(self.currentTimeFacetID, d1);
+      self.collectNewNodes(self.currentTimeFctID, d1);
     }
 
     var yScale = d3.scale.linear()
@@ -469,21 +423,24 @@ DDBAffiliateNetwork = function()
 
     this.timeline
       .append("line")
-      .style("stroke", "#bf8f9f")
+      .style("stroke", "#d2d2d2")
       .style("stroke-width", 3)
       .style("shape-rendering", "crispEdges")
       .attr("x1", 0)
       .attr("x2", 0)
-      .attr("y1", this.timelineHeight/2+6)
-      .attr("y2", this.timelineHeight/2+6)
+      .attr("y1", this.timelineHeight/2+1)
+      .attr("y2", this.timelineHeight/2+1)
       .transition()
       .delay(2000)
       .duration(1000)
       .attr("x2", this.timelineWidth);
 
+      d3.select(".left-arrow").transition().delay(2000).duration(200).style("opacity", 1.0);
+      d3.select(".right-arrow").transition().delay(3000).duration(200).style("opacity", 1.0);
+
     this.brush = d3.svg.brush()
       .x(this.brushScale)
-      .extent([this.timeFcts.length-1, this.timeFcts.length])
+      .extent([this.timeFcts.length-2, this.timeFcts.length-1])
       .on("brush", brushEvent);
 
     this.ticks = this.timeline.append('g')
@@ -496,10 +453,13 @@ DDBAffiliateNetwork = function()
         .call(this.brush);
 
     this.gBrush.selectAll("rect")
-      .attr("height", 50)
+      .attr("height", 45)
       .attr('transform', 'translate(0,0)')
-      .style('fill-opacity', 1.0)
-      .style("fill", "#a40539");
+      .style("fill", "none")
+      .style('fill-opacity', 0.0)
+      .style("stroke", "#d2d2d2")
+      .style("stroke-location", "inside")
+      .style("shape-rendering", "crisEdges");
 
     // these labels are in the timeline visible
     var labelWhitelist = [0, 5, 10, 15, 20, 25, 30, 35, 40, 44, 49, 51, 53, 55, 57, 59, 61, 63, 67, 71, 81];
@@ -509,17 +469,17 @@ DDBAffiliateNetwork = function()
       .append('rect')
       .attr("class", function (d, i) { return "time-facet-ticks time-facet-tick-"+self.timeFcts[i]; })
       .attr('x', function (d, i) { return self.brushScale(i); } )
-      .attr('y', 45)
+      .attr('y', 40)
       .attr('width', function (d, i) { return self.brushWidth; })
       .attr('height', 0 )
-      .attr('fill', function (d,i) { return i==self.currentTimeFacetID ? "#a40539" : "#363636" })
+      .attr('fill', function (d,i) { return i==self.currentTimeFctID ? "#bf8f9f" : "#d2d2d2" })
       .attr('fill-opacity', 1)
       .style("shape-rendering", "crisEdges")
       .transition()
       .duration(100)
       .delay(function(d, i) { return 2000+i*50 })
       .attr('height', function (d, i) { if (self.data[d] != undefined) { return yScale(self.data[d].nodes.length); } else { return 0; }} )
-      .attr('y', function (d, i) { if (self.data[d] != undefined) { return 45-yScale(self.data[d].nodes.length); } else { return 0; }} );
+      .attr('y', function (d, i) { if (self.data[d] != undefined) { return 40-yScale(self.data[d].nodes.length); } else { return 0; }} );
 
     this.labels = this.timeline.append('g')
       .selectAll('text')
@@ -528,13 +488,13 @@ DDBAffiliateNetwork = function()
       .append('text')
       .attr("class", function (d, i) { return "time-facet-labels time-facet-label-"+self.timeFcts[i]; })
       .text(function (d, i) { if (labelWhitelist.indexOf(i) != -1 || i >=88) {return self.simpleTimename(d); }})
-      .attr("transform", function (d,i) { return "translate("+(self.brushScale(i)+8)+",52)rotate(-90)"})
+      .attr("transform", function (d,i) { return "translate("+(self.brushScale(i)+8)+",47)rotate(-90)"})
       .attr("font-family", "KarbidWeb, sans-serif;")
       .attr("text-anchor", "end") 
       .attr("font-size", 10)
       .attr("stroke", "none")
       .attr("font-weight", 400)
-      .attr("fill", "#363636")
+      .attr("fill", "#d2d2d2")
       .style('fill-opacity', 0)
       .transition()
       .duration(100)
@@ -542,9 +502,10 @@ DDBAffiliateNetwork = function()
       .style('fill-opacity', 1);
       d3.select(".background").style("cursor", "col-resize");
       d3.selectAll(".resize").style("cursor", "col-resize");
-      d3.select(".extent").attr("height", 0).style("cursor", "col-resize").style("fill-opacity", 0.3).attr("width",this.brushWidth);
+      d3.select(".extent").attr("height", 0).style("cursor", "col-resize").attr("width",this.brushWidth);
 
   };
+
   this.collectAllNodes = function () {
 
     // get all keys and extract the unused keys (as defined by the timeline)
@@ -725,7 +686,6 @@ DDBAffiliateNetwork = function()
 
     } else {
     }};
-
   /*
   this.getNeighbours = function (a, currentHop) {
 
@@ -827,7 +787,7 @@ DDBAffiliateNetwork = function()
         .style("fill", function (d) { 
           switch(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_type) {
             case "organisation" :
-            return "#000";
+            return "#ccc";
             break;
             case "person":
             return "#a40539";
@@ -842,10 +802,10 @@ DDBAffiliateNetwork = function()
   this.highlightNode = function (selection) {
       selection
         .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence); })
-        .style("fill", "#ccc")
+        .style("fill", "#bf8f9f")
         //.style("stroke", "#a40539")
         .style("fill-opacity", 0.9); }
-  this.highlightLink = function (selection) { selection.style("stroke", "#fff").style("stroke-opacity",1.0); };
+  this.highlightLink = function (selection) { selection.style("bf8f9f", "#fff").style("stroke-opacity",1.0); };
   this.resetLink = function (selection) { selection.style("stroke", "#ccc").style("stroke-opacity",0.5).style("stroke-width",1); };
   this.enterNodes = function () {
     this.links = this.svg
@@ -1059,3 +1019,26 @@ DDBAffiliateNetwork = function()
       .attr("cx", function (d) { return 300 })
       .attr("cy", function (d) {   return self.networkHeight/2 } );}
 };
+
+// detect per regex-magic and compare through ID list, what type the affilaite is
+
+function calcDate (year, end) {
+  var d2 = new Date(0);
+  if (end) { d2.setUTCFullYear(year, 11, 31); } else { d2.setUTCFullYear(year); }
+    var d1 = new Date(1970,0,01);
+    d1 = d1.getTime() / 86400000;
+    d2 = d2.getTime() / 86400000;
+  return parseInt(new Number(d2 - d1).toFixed(0))+ 719164 ;}
+function clearName (name) {
+  var newname = "";
+  if (name.indexOf(",") > -1) {
+    var strings = name.split(",");
+    newName = strings[1]+" "+strings[0];
+  } else {
+    newName = name;
+  }
+  if (name.indexOf("(Fotograf)") > -1) {
+    newName = newName.replace("(Fotograf)", "");
+  }
+  newName = newName.replace( new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"), ""); // clear the years out of the name
+  return newName; };

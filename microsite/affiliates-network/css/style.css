@@ -20,42 +20,6 @@ p {
   opacity: 0.8;
 }
 
-.timeline-tip {
-  border-radius: 3px;
-  margin-top:-2px;
-  opacity: 0.0;
-  padding:0;
-  opacity:1.0;
-  z-index:30;
-}
-
-.timeline-tip.active {
-  border-top:5px solid #bf8f9f;
-	background-color:#ccc;
-	opacity:1.0;
-  padding:0 0 10px 0;
-  margin-top:-2px;
-}
-
-.timeline-tip.inactive {
-  border-radius: 3px;
-  margin-top:-2px;
-  opacity: 0.0;
-  padding:0;
-  opacity:1.0;
-  z-index:30;
-}
-
-.timeline-tip.inactive .left-arrow, 
-.timeline-tip.inactive .right-arrow {
-  display:none;
-}
-
-.timeline-tip.active .left-arrow, 
-.timeline-tip.active .right-arrow {
-  display:normal;
-} 
-
 rect.background {
 	cursor:pointer;
 }
@@ -65,18 +29,18 @@ rect {
 	shape-rendering: geometricPrecision;
 }
 
-.left-arrow{ float:left; } 
-.right-arrow { float:right; } 
+.left-arrow{ float:left; opacity:0.0; } 
+.right-arrow { float:right; opacity:0.0; } 
 
 .right-arrow {
-  padding:32px 10px 15px 0;
+  padding:27px 0 15px 0;
   cursor: pointer;
   margin:0;
   display:box;
 }
 
 .left-arrow {
-  padding:32px 0 15px 10px;
+  padding:27px 0 15px 0;
   cursor: pointer;
   margin:0;
   display:box;
@@ -92,6 +56,16 @@ rect {
   position:relative;
   opacity:1.0;
 }
+
+.timeline-tip {
+  opacity:1.0;
+  z-index:30;
+}
+
+.timeline-tip.active { opacity:1.0; }
+.timeline-tip.inactive { opacity: 0.0; }
+.timeline-tip.inactive .left-arrow, .timeline-tip.inactive .right-arrow { display:none;position:absolute; }
+.timeline-tip.active .left-arrow, .timeline-tip.active .right-arrow { display:normal; position:relative;} 
 
 
 .timeline-tip.active {
@@ -112,30 +86,30 @@ rect {
 
 @keyframes fadein {
     from { height: 0px; }
-    to   { height: 85px; }
+    to   { height: 80px; }
 }
 
 @keyframes fadeout {
-    from { height: 85px; }
+    from { height: 80px; }
     to   { height: 0px; }
 }
 
 /* Safari and Chrome */
 @-webkit-keyframes fadein {
     from { height: 0px; }
-    to   { height: 85px; }
+    to   { height: 80px; }
 }
 
 /* Firefox */
 @-moz-keyframes fadeout {
-    from { height: 85px; }
+    from { height: 80px; }
     to   { height: 0px; }
 }
 
 /* Firefox */
 @-moz-keyframes fadein {
     from { height: 0px; }
-    to   { height: 85px; }
+    to   { height: 80px; }
 }
 
 /* Safari and Chrome */
@@ -183,10 +157,10 @@ img.active {
   width:500px;
   float:left;
 }
+
 .header span {
   font-weight: normal;
   font-size: 17px;
-  /* text-transform: initial; */
   font-weight: 500;
   color: #FFFFFF;
 }
@@ -198,7 +172,7 @@ img.active {
 
 .subheader {
   padding-top: 10px;
-  background-color: rgba(43, 43, 43, 0.75);
+  background-color: rgba(41, 41, 41, 0.95);
   padding-bottom: 10px;
   z-index:10;
   position: relative;
@@ -259,17 +233,17 @@ svg#network * {
 
 @font-face {
   font-family: KarbidWeb;
-  src: url("../../css/1HGuyWp6Yj6Z5z3kcAMgRdtlHegjbmhkSKRGcfXNgDR.eot");
+  src: url("../../css/KarbidWeb.eot");
 }
 
 @font-face {
   font-family: KarbidWeb;
-  src: url("../../css/lzAnrAKX2n7PutBy5buXFL0d24qV6eUHbMaz5h9ue2q.woff") format("woff");
+  src: url("../../css/KarbidWeb.woff") format("woff");
 }
 
 @font-face {
   font-family: KarbidWeb;
-  src: url("../../css/yIMIfUnWlhZH037ltWgPCUzeEs43WOvOy7ewoNSTo8h.woff") format("woff");
+  src: url("../../css/KarbidWebBold.woff") format("woff");
   font-weight: bold;
 }
 
@@ -326,5 +300,92 @@ svg#network * {
   height:20px;
 }
 
-	
+
+
+.d3-tip {
+  padding: 5px 10px 5px 10px;
+  background-color: #fff;
+  pointer-events: none;
+  text-align: center;
+  max-width: 200px;
+}
+
+.d3-tip h3 {
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  line-height: 1.2rem;
+  font-size: 1rem;
+  color:#222;
+  margin:0;
+  padding: 2px 0 2px 0;
+}
+
+.d3-tip p {
+  color:#222;
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10px;
+  line-height: 0.75rem;
+  padding: 2px 0 2px 0;
+  margin:0;
+}
+
+.d3-tip p.description {
+  text-align: left;
+  color:#222;
+  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-size: 10px;
+  line-height: 14px;
+  padding: 5px 0 5px 0;
+  margin:0;
+}
+
+
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 15px;
+  width: 100%;
+  line-height: 0.5;
+  color: #fff;
+  position: absolute;
+  pointer-events: none;
+}
+
+
+/* Northward tooltips */
+.d3-tip.n:after {
+  content: "\25BC";
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+  text-align: center;
+}
+
+/* Eastward tooltips */
+.d3-tip.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 -3px;
+  top: 50%;
+  left: -51%;
+}
+
+/* Southward tooltips */
+.d3-tip.s:after {
+  content: "\25B2";
+  margin: 0 0 1px 0;
+  top: -8px;
+  left: 0;
+  text-align: center;
+}
+
+/* Westward tooltips */
+.d3-tip.w:after {
+  content: "\25B6";
+  margin: -4px 0 0 1px;
+  top: 50%;
+  left: 51%;
+}
 

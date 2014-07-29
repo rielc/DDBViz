@@ -75,8 +75,6 @@ a {
 	text-decoration: none;
 }
 
-
-
 .subheader {
   padding-top: 10px;
   background: #292929;
@@ -102,9 +100,49 @@ a {
 .feedback {
 	background: #171717;	
 	margin: 0;
-	min-height: 200px;
+	padding: 30px 0;
 	width: 100%;
 	clear: both;
+}
+
+.feedback h2 {
+	width: 305px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	margin-left: 305px;
+	float: left;
+}
+	
+.feedback p {
+	width: 265px;
+	xpadding-top: 7px;
+	margin-left: 305px;
+	margin-right: 40px;
+	float: left;
+  opacity: 0.65;
+	
+}
+
+.feedback textarea {
+	width: 255px;
+	height: 100px;
+	margin: 10px 0 0 0;
+	padding: 5px;
+	float: left;
+	background: #333;
+	resize: none;	
+	border: 0 solid #999;
+}
+
+.feedback textarea:focus {
+	background: #ccc;	
+}
+
+.feedback input {
+	clear: both;
+	margin: 0;
+	padding: 0;
+	margin-top: 180px;
 }
 
 .footer {
@@ -163,11 +201,6 @@ h2, a h2 {
 	color: #fff;
 }
 
-.feedback h2 {
-	margin: 0;
-	padding: 20px 0 20px;
-}
-
 .subheader {
 	padding: 90px 0;
 	height: 270px;
@@ -176,7 +209,7 @@ h2, a h2 {
 }
 
 .subheader .container {
-	width: 540px;
+	width: 555px;
 	padding-left: 600px;
 }
 
@@ -191,9 +224,9 @@ h2, a h2 {
     <div class="menu">
       <span><a class="active" href="./">Start</a></span>
       <span><a href="epochen/">Epochen</a></span>
-      <span><a href="tags/">Stichworte</a></span>
-      <span><a href="cities/">Orte</a></span>
-      <span><a href="affiliates-network/">Netzwerke</a></span>
+      <span><a href="stichworte/">Stichworte</a></span>
+      <span><a href="orte/">Orte</a></span>
+      <span><a href="netzwerke/">Netzwerke</a></span>
     </div>
   </div>
 </div>
@@ -244,13 +277,23 @@ h2, a h2 {
 
 <div class="feedback">
 <div class="container">
-	<h2>Feedback</h2>
+
+	<h2>Feedback?</h2>
+	<p>
+		Bitte teilen Sie uns Ihre Beobachtungen, Ideen und Vorschläge zu den hier vorgestellten Visualisierungen mit.<br><br>Schreiben Sie Ihre Gedanken bitte in die nebenstehende Box und wählen ‘Absenden’.
+	</p>
+	
+	<form action="#" method="get" accept-charset="utf-8">
+			<textarea name="text"></textarea>
+			<input type="submit" value="Absenden">
+	</form>
+	
 	</div>
 </div>
 
 <div class="footer">
 <div class="container">
-<h2>Credit</h2>
+<h2>&nbsp;</h2>
 </div>
 </div>
 

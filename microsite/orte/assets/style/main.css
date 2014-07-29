@@ -1,16 +1,16 @@
 @font-face {
   font-family: KarbidWeb;
-  src: url("http://infovis.fh-potsdam.de/ddb/css/KarbidWeb.eot");
+  src: url("../../../css/KarbidWeb.eot");
 }
 
 @font-face {
   font-family: KarbidWeb;
-  src: url("http://infovis.fh-potsdam.de/ddb/css/KarbidWeb.woff") format("woff");
+  src: url("../../../css/KarbidWeb.woff") format("woff");
 }
 
 @font-face {
   font-family: KarbidWeb;
-  src: url("http://infovis.fh-potsdam.de/ddb/css/KarbidWebBold.woff") format("woff");
+  src: url("../../../css/KarbidWebBold.woff") format("woff");
   font-weight: bold;
 }
 

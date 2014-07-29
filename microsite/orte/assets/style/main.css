@@ -20,6 +20,7 @@ body {
     color: #fff;
     font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
     margin: 0;
+		min-width: 1240px;		
 }
 
 .pie-chart {

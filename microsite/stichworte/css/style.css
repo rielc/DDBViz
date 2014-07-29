@@ -19,8 +19,10 @@ body {
     color: #fff;
     font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
     margin: 0;
+		padding: 0;
     hyphens: auto;
     font-size: 0.12px;
+		min-width: 1240px;
 }
 
 a:link{color: white; text-decoration: none;}
@@ -98,6 +100,7 @@ a:active{color: white; text-decoration: none;}
   position: relative;
   height:60px;
 }
+
 .header h1 {
   font-weight: 200;
   text-transform: uppercase;

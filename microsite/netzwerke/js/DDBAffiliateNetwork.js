@@ -946,7 +946,7 @@ DDBAffiliateNetwork = function()
       case "node":
         var url = 
         "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&viewType=grid" +
-        "&facetValues%5B%5D=affiliate_fct_role="+encodeURI(data)+
+        "&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURI(data)+
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
         window.open(url);
@@ -1020,7 +1020,6 @@ DDBAffiliateNetwork = function()
       .attr("cy", function (d) {   return self.networkHeight/2 } );}
 };
 
-// detect per regex-magic and compare through ID list, what type the affilaite is
 
 function calcDate (year, end) {
   var d2 = new Date(0);
@@ -1028,7 +1027,9 @@ function calcDate (year, end) {
     var d1 = new Date(1970,0,01);
     d1 = d1.getTime() / 86400000;
     d2 = d2.getTime() / 86400000;
-  return parseInt(new Number(d2 - d1).toFixed(0))+ 719164 ;}
+  return parseInt(new Number(d2 - d1).toFixed(0))+ 719164;
+}
+
 function clearName (name) {
   var newname = "";
   if (name.indexOf(",") > -1) {

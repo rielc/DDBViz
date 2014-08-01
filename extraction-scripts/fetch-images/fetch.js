@@ -3,10 +3,18 @@ var casper = require('casper').create();
 var href;
 
 casper.start('https://www.deutsche-digitale-bibliothek.de/searchresults?query=affiliate%3A%28%22Willy+Pragher%22%29&rows=20&viewType=grid&sort=RELEVANCE', function() {
-    href = this.evaluate(function () {
+
+
+  __utils__.findOne('.thumbnail-wrapper img').getAttribute('src');
+
+    //href = this.evaluate(function () {
+      console.log(__utils__.findOne('.thumbnail-wrapper img').getAttribute('src'));
         //return 'https://www.deutsche-digitale-bibliothek.de' + __utils__.findOne('.thumbnail-wrapper img').getAttribute('src');
-        this.download('https://www.deutsche-digitale-bibliothek.de' + __utils__.findOne('.thumbnail-wrapper img').getAttribute('src'),"a.jpg");
-    });
+       // casper
+        //  .download(
+           // 'https://www.deutsche-digitale-bibliothek.de' + __utils__.findOne('.thumbnail-wrapper img').getAttribute('src'),
+            //"/Volumes/Data/Users/rielc/Coding/DDBViz/extraction-scripts/fetch-images/a.jpg");
+    //});
 });
 
 casper.run(function() {

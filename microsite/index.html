@@ -21,7 +21,6 @@
   font-weight: bold;
 }
 
-
 body {
 	background: #0A0A0A;	
   color: #FFF;
@@ -29,6 +28,7 @@ body {
 	padding: 0;
   min-height: 700px;
   font-family: KarbidWeb, sans-serif;
+	min-width: 1240px;
 }
 
 p {
@@ -43,6 +43,7 @@ p {
   position: relative;
   height:60px;
 }
+
 .header h1 {
   font-weight: 200;
   text-transform: uppercase;
@@ -75,8 +76,6 @@ a {
 	text-decoration: none;
 }
 
-
-
 .subheader {
   padding-top: 10px;
   background: #292929;
@@ -102,18 +101,64 @@ a {
 .feedback {
 	background: #171717;	
 	margin: 0;
-	min-height: 200px;
+	padding: 30px 0;
 	width: 100%;
 	clear: both;
 }
 
-.footer {
-	height: 200px;
-	bottom: 0;
-	width: 100%;
-	margin-top: 20px;
+.feedback h2 {
+	width: 305px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	margin-left: 305px;
+	float: left;
+}
+	
+.feedback p {
+	width: 265px;
+	xpadding-top: 7px;
+	margin-left: 305px;
+	margin-right: 40px;
+	float: left;
+  opacity: 0.65;
+	
 }
 
+.feedback textarea {
+	width: 255px;
+	height: 100px;
+	margin: 10px 0 0 0;
+	padding: 5px;
+	float: left;
+	background: #333;
+	resize: none;	
+	border: 0 solid #999;
+}
+
+.feedback textarea:focus {
+	background: #ccc;	
+}
+
+.feedback input {
+	clear: both;
+	margin: 0;
+	padding: 0;
+	margin-top: 180px;
+}
+
+.footer {
+	color: #777;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.footer .container {
+	padding-bottom: 30px;
+}
+
+.footer a { 	color: #ccc; }
+.footer a:hover { 	color: #fff; text-decoration: underline;}
 
 .subheader h1 {
 	font-size: 27px;
@@ -163,11 +208,6 @@ h2, a h2 {
 	color: #fff;
 }
 
-.feedback h2 {
-	margin: 0;
-	padding: 20px 0 20px;
-}
-
 .subheader {
 	padding: 90px 0;
 	height: 270px;
@@ -176,7 +216,7 @@ h2, a h2 {
 }
 
 .subheader .container {
-	width: 540px;
+	width: 555px;
 	padding-left: 600px;
 }
 
@@ -191,9 +231,9 @@ h2, a h2 {
     <div class="menu">
       <span><a class="active" href="./">Start</a></span>
       <span><a href="epochen/">Epochen</a></span>
-      <span><a href="tags/">Stichworte</a></span>
-      <span><a href="cities/">Orte</a></span>
-      <span><a href="affiliates-network/">Netzwerke</a></span>
+      <span><a href="stichworte/">Stichworte</a></span>
+      <span><a href="orte/">Orte</a></span>
+      <span><a href="netzwerke/">Netzwerke</a></span>
     </div>
   </div>
 </div>
@@ -220,19 +260,19 @@ h2, a h2 {
 </div>
 
 <div class="project">	
-<a href="tags/"><img src="index/tags.png" width=265 height=265>	
+<a href="stichworte/"><img src="index/tags.png" width=265 height=265>	
 <h2>Stichworte</h2>
 <p>Die häufigsten Stichworte werden der Größe nach abgebildet. Gemeinsames Auftreten mit anderen Begriffen wird durch Klicken angezeigt.</p></a>
 </div>
 
 <div class="project">	
-<a href="cities/"><img src="index/cities.png" width=265 height=265>	
+<a href="orte/"><img src="index/cities.png" width=265 height=265>	
 <h2>Orte &amp; Sparten</h2>
 <p>Übersicht der Städte mit den meisten Einträgen. Die Unterteilung der jeweiligen Stadt erfolgt durch die verschiedenen Sparten.</p></a>
 </div>
 
 <div class="project">	
-<a href="affiliates-network/">
+<a href="netzwerke/">
 <img src="index/network.png" width=265 height=265>	
 <h2>Personen &amp; Organisationen</h2>
 <p>Beziehungsnetzwerke zwischen den aktivsten Personen und Organisationen im Bestand über frei wählbare Zeiträume.</p></a>
@@ -244,13 +284,33 @@ h2, a h2 {
 
 <div class="feedback">
 <div class="container">
-	<h2>Feedback</h2>
+
+	<h2>Feedback?</h2>
+	<p>
+		Bitte teilen Sie uns Ihre Beobachtungen, Ideen und Vorschläge zu den hier vorgestellten Visualisierungen mit.<br><br>Schreiben Sie Ihre Gedanken bitte in die nebenstehende Box und wählen ‘Absenden’.
+	</p>
+	
+	<form action="#" method="get" accept-charset="utf-8">
+			<textarea name="text"></textarea>
+			<input type="submit" value="Absenden">
+	</form>
+	
 	</div>
 </div>
 
 <div class="footer">
 <div class="container">
-<h2>Credit</h2>
+<h2>&nbsp;</h2>
+
+<p>Ein Gemeinschaftsprojekt von <a href="http://fh-potsdam.de/">Fachhochschule Potsdam</a> und <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
+	
+	Design und Umsetzung: Christian Bernhardt, Gabriel Credico und Christopher Pietsch<br>
+	Wissenschaftliche Leitung: Prof. Dr. Marian Dörk</a> &nbsp;
+	Beratung: Stephan Bartholmei
+
+
+</p>
+	
 </div>
 </div>
 

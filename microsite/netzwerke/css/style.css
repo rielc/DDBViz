@@ -4,7 +4,7 @@ body {
   margin: 0;
   min-height: 700px;
   font-family: KarbidWeb, sans-serif;
-
+	min-width: 1240px;
 }
 
 #time-facet-caption { }

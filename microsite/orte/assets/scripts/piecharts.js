@@ -16,9 +16,14 @@ function drawPie(dataSet, selectString, outerRadius) {
     function fillArc() {
         var arc = d3.selectAll("." + this.getAttribute('class'));
 
-        d3.selectAll("#pie-arc").style('opacity', .2);
+        d3.selectAll("#pie-arc")
+        .transition()
+        .duration(350)
+        .style('opacity', .2);
         
         arc.style('opacity', 1)
+        .transition()
+        .duration(350)
         .style('fill', function() {
             return d3.rgb(d3.select(this).style("fill")).brighter(.7);
         });
@@ -26,7 +31,7 @@ function drawPie(dataSet, selectString, outerRadius) {
         var tip = d3.tip()
             .attr('class', 'd3-tip')
             .offset([-10, 0])
-            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+d.data.magnitude+' Einträge</p>'; } );
+            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+d3.format(",")(d.data.magnitude)+' Einträge</p>'; } );
 
                 
     function refillArc() {
@@ -70,8 +75,15 @@ function drawPie(dataSet, selectString, outerRadius) {
         var arc = d3.select(this);
         var colorValue = arc.attr('color_value');
 
-        arc.style('opacity', 1).style('fill', colorValue);
-        d3.selectAll("#pie-arc").style('opacity', 1).style('fill', function (d, i) {
+        arc
+        .transition()
+        .duration(350)
+        .style('opacity', 1).style('fill', colorValue);
+        
+        d3.selectAll("#pie-arc")
+        .transition()
+        .duration(350)
+        .style('opacity', 1).style('fill', function (d, i) {
             return color(i);});
     }
 
@@ -119,7 +131,8 @@ function drawPie(dataSet, selectString, outerRadius) {
         // This will create <g> elements for every 'extra' data element that should be associated
         // with a selection. The result is creating a <g> for every object in the data array
         // Create a group to hold each slice (we will have a <path> and a <text>      // element associated with each slice)
-	   .enter().append("svg:a")
+	   .enter()
+            .append("svg:a")
             .attr("xlink:href", function(d) { return d.data.link; })
             .attr("target", "_blank")
         .append('svg:g')

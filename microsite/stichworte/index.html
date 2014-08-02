@@ -3,10 +3,8 @@
     <meta charset="utf-8">
     <title>Deutsche Digitale Bibliothek visualisiert - Stichworte</title>
     <link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
-    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="../js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
-    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <script type="text/javascript" src="js/hover.js"></script>
 
 </head>
@@ -25,18 +23,18 @@
     </div>
   </div>
 </div>
+<div id="overlay"><svg></svg></div>
     
 <div class="subheader">
   <div class="container">
+    <div class="help"></div>
     <h1>Stichworte </h1>
     <p>
     Die 500 am häufigsten Stichworte sind der Größe nach abgebildet, durch das klicken auf ein Stichwort sieht man, welche anderen Stichworte mit diesem häufig auftreten.
     </p>
   </div>
 </div>
- 
-<div class="main"> 
-</div>
-    
+<div class="main"></div>
+<div id="tip" class="d3-tip n" style="position: absolute;  pointer-events: none; box-sizing: border-box; left:"><p></p></div>
 </body>
 </html>

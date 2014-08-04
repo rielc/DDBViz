@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Deutsche Digitale Bibliothek visualisiert - Epochen</title>
+<title>Epochen - Deutsche Digitale Bibliothek visualisiert</title>
 <link rel="icon" type="image/png" href="../favicon.png" />
 <meta charset="utf-8">
 <style>
@@ -644,9 +644,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   });
 
   var dataWords = [
-    { key: "Stichworte", values: dataKeywords },
-    { key: "Orte", values: dataPlaces },
-    { key: "Personen/Organisationen", values: dataAffiliates }
+    { key: "Stichworte", values: dataKeywords, href: "/stichworte" },
+    { key: "Orte", values: dataPlaces, href: "/orte"},
+    { key: "Personen/Organisationen", values: dataAffiliates, href: "/netzwerke" }
   ];
 
   colorScale = function(d){
@@ -791,7 +791,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     .html(function(d) {
       //console.log(d)
       if(d.types) return dataSector.get(d.key,"name");
-      else return d3.format(",")(d.count);
+      else return d3.format(".")(d.count);
     });
 
   svg.call(tip)
@@ -1150,7 +1150,16 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       return "("+ yearRange[0] + " bis " + yearRange[1] + ")";
     })
 
+    var facetRange = [
+      dataTime.get(selected[0], "value"),
+      dataTime.get(selected[selected.length-1], "value")
+    ];
+
     selected.pop();
+
+    console.log("FILTER", facetRange)
+
+    //https://api.deutsche-digitale-bibliothek.de/search?time_fct=time_36100&oauth_consumer_key=PFxeYlfQT6il4h0KFtowd297dBEZPgho0X4YzEQAn3YSFk3ISS61407155687299
 
     drawNormalizedBar(selected,timeRange);
 
@@ -1161,8 +1170,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     }
     
   }
-
-
 
 
 
@@ -1184,9 +1191,10 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     .text(function(d){ return d.key; })
     .append("a")
       .attr("title", "zur Detailvisualisierung springen")
-      .attr("href", function(d){ return "#detail"; })
+      .attr("href", function(d){ return d.href; })
     .append("img")
       .attr("src", function(d){ return "icons/detail.svg" })
+
 
   e.append("div")
     .attr("class", "wordArea")
@@ -1202,7 +1210,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .classed("active", true)
       .append("div").attr("class", "info")
       .text(function(d){
-        return d3.format(",")(d.count);;
+        return d3.format(".")(d.count);;
       })
   }
   var outWord = function(d){
@@ -1478,7 +1486,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     legend.append("text")
         .attr("x", 7)
         .attr("dy", ".35em")
-        .text(function(d) { return d3.format(",")(d.count); })
+        .text(function(d) { return d3.format(".")(d.count); })
         .style("opacity",0)
         .transition()
         .duration(300)
@@ -1490,7 +1498,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         return "translate( "+ (lineheight + 30 + yScaleBarLog2(d.count)) +", " + lineheight/2 + ")";
       })
 
-    e.select(".legend text").text(function(d) { return d3.format(",")(d.count); });
+    e.select(".legend text").text(function(d) { return d3.format(".")(d.count); });
     
   }
 
@@ -1568,9 +1576,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     svg.selectAll(".total").remove();
   }
 
-  //skipIntro();
-  animateIntro();
-  //animateTimeline();
+
+  
 
 
   var animateTimelineNow = 0;
@@ -1630,6 +1637,13 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       })
       .style("opacity", 1)
   }
+
+  skipIntro();
+  animateTimeline();
+  //animateIntro();
+
+
+
 
   var overlay = d3.select("#overlay svg");
   var generateOverlay = function(){
@@ -1771,10 +1785,11 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
             .attr("transform", "translate("+(p ? (-bb.width-8) : (4+4))+","+15+")")
 
           //console.log(bb)
+          // todo: 14 height anpassen
           background
             .attr("width", bb.width+(4*2))
-            .attr("height", bb.height)
-            .attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(bb.height)+4)+")");
+            .attr("height", 14)
+            .attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(14)+4)+")");
 
           infoTip
             .transition()

@@ -504,6 +504,11 @@ var keywords = [
 var overlay = {};
 var selectedKeywordID = 0;
 
+function formatNumber (number) {
+    var reg = new RegExp(",", 'g');
+    return d3.format(",")(number).replace(reg, ".");
+}
+
 
 function generateOverlay () {
     
@@ -518,10 +523,10 @@ function generateOverlay () {
    }
     var infos = 
         [
-            { x: 145, y: 170, text: "Ausgwähltes Stichwort", r: 30},
-            { x: 1060, y: 190, text: "Viele gemeinsame Einträge", r: 20},
-            { x: 380, y: 440, text: "Wenige gemeinsame Einträge", r: 15},
-            { x: 820, y: 300, text: "Keine gemeinsamen Einträge", r: 10},
+            { x: 145, y: 170, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
+            { x: 1060, y: 190, text: "Viele gemeinsame Einträge sind rot", r: 20},
+            { x: 380, y: 440, text: "Wenige gemeinsame Einträge sind grau", r: 15},
+            { x: 820, y: 300, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
             { x: 400, y: 35, text: "Verlinkung zu www.ddb.de", r: 20}
         ];
         
@@ -571,14 +576,19 @@ function generateOverlay () {
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
             if(d.active) generateOverlay();
-            else
-                var e = document.createEvent('UIEvents');
+            
+        });
+        
+        $("#overlay svg").click(function(){
+            var e = document.createEvent('UIEvents');
                 e.initUIEvent('click', true, true /* ... */);
                 d3.select("#t4").node().dispatchEvent(e);
                 overlay.style("display", "none")
+
+                d3.select(".help img")
+                    .data([{active:false}])
         });
-        
-        
+
         $("#tip").css("opacity", 0);
 
         // lade die CSV-datei und pack sie in csvDATA
@@ -627,14 +637,33 @@ function generateOverlay () {
                 k.facet_id == d.id);})[0];
             
             if (hoveredKeywordData != undefined) {
-                
-                if (selectedKeywordID != 0) {
+                // wenn man über aktive hovert
+                if (selectedKeywordID == d.id) {
+                    $("#tip").css("opacity", 1.0);
+                    
+                    var tag = $("#t"+d.id);
+
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" Einträge. Erneut klicken zum deselektieren."); 
+                    $("#tip").css({
+                                "top": 
+                                    tag.offset().top
+                                   -parseInt(tag.css('font-size'))/3
+                                   -$("#tip").height(), 
+                                "left":
+                                    tag.offset().left
+                                    - parseInt(tag.css('padding-right'))
+                                    + tag.width()/2
+                                    - $("#tip").width()/2 
+                                      });
+                }
+                // wenn worte hovert die eingefärbt sind ungleich 0
+                else if (selectedKeywordID != 0) {
                     
                     $("#tip").css("opacity", 1.0);
                     
                     var tag = $("#t"+d.id);
 
-                    $("#tip p").text(d3.format(",")(hoveredKeywordData.c)+" gemeinsame Einträge"); 
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" gemeinsame Einträge"); 
                     $("#tip").css({
                                 "top": 
                                     tag.offset().top
@@ -648,7 +677,9 @@ function generateOverlay () {
                                       });
 
 
-                } else {
+                } 
+                // alles andere, also 0
+                else {
                     var tag = $("#t"+d.id);
                     $("#tip p").text("0"); 
                     $("#tip").css({
@@ -753,7 +784,7 @@ function generateOverlay () {
                                     .attr("target", "_blank")
                                     .attr("id", "value")
                                     .attr("class", "activeSmall")
-                                    .text( function (d) {return "(ausgewählt: "+keywordCount[i].value+" - "+d3.format(",")(keywordCount[i].c)+" Einträge)";});
+                                    .text( function (d) { return "(ausgewählt: "+keywordCount[i].value+" - "+formatNumber(keywordCount[i].c)+" Einträge)";});
                         }
                         }
                     } else {

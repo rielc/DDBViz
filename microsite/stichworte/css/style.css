@@ -227,6 +227,7 @@ a:active{color: white; text-decoration: none;}
 
 .help {
   float: right;
+  cursor: pointer;
 }
 
 .help img {
@@ -241,8 +242,8 @@ a:active{color: white; text-decoration: none;}
   display: none;
   position: absolute;
   height: 900px;
-  width: 1200px;
-  background: rgba(34, 34, 34, 0.45);
+  width: 100%;
+  background: rgba(34, 34, 34, 0);
   z-index: 100;
   left: 0;
 }

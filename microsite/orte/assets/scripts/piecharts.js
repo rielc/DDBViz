@@ -12,6 +12,10 @@ function drawPie(dataSet, selectString, outerRadius) {
     var textLabel;
     var textMagnitude;
     
+    function formatNumber (number) {
+    var reg = new RegExp(",", 'g');
+    return d3.format(",")(number).replace(reg, ".");
+    }
     
     function fillArc() {
         var arc = d3.selectAll("." + this.getAttribute('class'));
@@ -31,7 +35,7 @@ function drawPie(dataSet, selectString, outerRadius) {
         var tip = d3.tip()
             .attr('class', 'd3-tip')
             .offset([-10, 0])
-            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+d3.format(",")(d.data.magnitude)+' Einträge</p>'; } );
+            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+formatNumber(d.data.magnitude)+' Einträge</p>'; } );
 
                 
     function refillArc() {

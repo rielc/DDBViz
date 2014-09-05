@@ -224,3 +224,46 @@ a:active{color: white; text-decoration: none;}
   top: 50%;
   left: 100%;
 }
+
+.help {
+  float: right;
+  cursor: pointer;
+}
+
+.help img {
+  width: 20px;
+}
+
+#overlay {
+  position: relative;
+  z-index: 50;
+}
+#overlay svg{
+  display: none;
+  position: absolute;
+  height: 900px;
+  width: 100%;
+  background: rgba(34, 34, 34, 0);
+  z-index: 100;
+  left: 0;
+}
+
+#overlay text {
+  fill:#222;
+    font-size: 16px;
+}
+
+#overlay circle {
+  fill: #FFF;
+  opacity: 0.22;
+}
+
+#overlay line {
+  stroke: #FFF;
+  opacity: 0.9;
+}
+
+#overlay rect {
+  fill: #FFF;
+  opacity: 0.9;
+}

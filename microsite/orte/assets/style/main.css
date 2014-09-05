@@ -23,8 +23,9 @@ body {
 		min-width: 1240px;		
 }
 
+
+
 .pie-chart {
-    font-family: "Helvetica", "Arial", sans-serif;
     margin-top: 30px;
     margin-bottom: -5px;
     padding: 15px;
@@ -104,18 +105,25 @@ body {
     opacity: 1;
 }
 
+.container .sorting a {
+    text-decoration: none;
+}
+
+.dissolve{
+  display: none;
+}
+
 #wrapper {
     width: 1200px;
     margin: 0px auto;
 }
 
-#wrapper-clone {
-    width: 1000px;
+#wrapper_clone {
+    width: 1200px;
     margin: 0px auto;
 }
 
 .main {
-    font-family: "Helvetica", "Arial", sans-serif;
     font-weight: 400;
     display: inline-flex;
     flex-direction: row;
@@ -197,7 +205,6 @@ p.value {
   position: absolute;
   pointer-events: none;
 }
-
 
 /* Northward tooltips */
 .d3-tip.n:after {

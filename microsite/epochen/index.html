@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Deutsche Digitale Bibliothek visualisiert - Epochen</title>
+<title>Epochen - Deutsche Digitale Bibliothek visualisiert</title>
 <link rel="icon" type="image/png" href="../favicon.png" />
 <meta charset="utf-8">
 <style>
@@ -62,6 +62,10 @@
 .group .group-label {
   fill:rgba(255, 255, 255, 0.82);
 }
+.group a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.82);
+}
 .arc text {
   fill:rgba(255, 255, 255, 0.82);
 }
@@ -105,7 +109,6 @@ p {
   fill: #FFF;
   /*fill:none;*/
   shape-rendering: crispEdges;
-  mix-blend-mode: multiply;
 }
 
 .legend {
@@ -334,6 +337,8 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 .subheader h1 {
     font-weight: normal;
     font-size: 17px;
+    display: inline;
+    float: left;
 }
 
 .container {
@@ -341,6 +346,7 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
   margin: auto;
   padding-left: 20px;
   padding-right: 20px;
+  position: relative;
 }
 .main {
   margin-top: 20px;
@@ -378,6 +384,25 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
   opacity: 0.9;
 }
 
+.skip {
+  position: relative;
+  z-index: 200;
+  background: #E6E6E6;
+  color: #000;
+  padding: 4px;
+  font-size: 12px;
+  /* left: 0; */
+  text-decoration: none;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  display: none;
+}
+
+.subheader p {
+  clear: both;
+}
+
 </style>
 
 </head>
@@ -399,7 +424,9 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 
 <div class="subheader">
   <div class="container">
+
     <h1>Epochen und Sparten <span class="timerange"></span></h1>
+    <a class="skip" href="#skip">Intro überspringen</a>
     <p>
     Übersichtsvisualisierung des Datenbestandes entlang der Epochen und Sparten. Die Auswahl eines Zeitabschnitts erlaubt eine Detailbetrachtung der häufigsten Stichworte, Orte, Personen und Organisationen.
     </p>
@@ -414,6 +441,7 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
   <!--   <img src="icons/list.svg" data="list" class="active">
   <img src="icons/stream.svg" data="stream" class=""> -->
   </div>
+  
 
   <div class="help">
   </div>
@@ -460,18 +488,20 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 <script src="js/d3tip.js"></script>
 <script src="js/cubehelix.js"></script>
 <link rel="stylesheet" href="js/d3tip.css"></link>
-<!-- <link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,100italic,300italic,400italic,700italic" rel="stylesheet" type="text/css"> -->
 
 
 <script>
 
 /* 
 *   Copyright by Christopher Pietsch
-*   Epochen und Sparten
-*   Übersicht
+*   Epochen und Sparten, Visualisierung in D3
 *   2014 chrispie.com cpietsch@gmail.com
-*   d3.js jazz
+*   d3.js, mysql
+*   The code is a bit messy and represents a
+*   generative design process
 */
+
+
 
 var ddbUrl = "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&rows=20&viewType=grid";
 
@@ -495,8 +525,6 @@ var yScaleStacked = d3.scale.linear().range([height, 0]),
       .range([d3.hsl(270, .75, .35), d3.hsl(70, 1.5, .8)]);
     typeScale = d3.scale.ordinal().range(colorbrewer.Set1[5].map(inverse));
 
-
-// todo: http://stackoverflow.com/questions/10675802/d3-js-stacked-bar-chart-with-logarithmic-scaling
 
 var horizonSize = 5;
 
@@ -645,9 +673,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   });
 
   var dataWords = [
-    { key: "Stichworte", values: dataKeywords },
-    { key: "Orte", values: dataPlaces },
-    { key: "Personen/Organisationen", values: dataAffiliates }
+    { key: "Stichworte", values: dataKeywords, href: "/stichworte" },
+    { key: "Orte", values: dataPlaces, href: "/orte"},
+    { key: "Personen/Organisationen", values: dataAffiliates, href: "/netzwerke" }
   ];
 
   colorScale = function(d){
@@ -792,7 +820,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     .html(function(d) {
       //console.log(d)
       if(d.types) return dataSector.get(d.key,"name");
-      else return d3.format(",")(d.count);
+      else return d3.format(",")(d.count).replace(/,/g,".");
     });
 
   svg.call(tip)
@@ -1151,7 +1179,16 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       return "("+ yearRange[0] + " bis " + yearRange[1] + ")";
     })
 
+    var facetRange = [
+      dataTime.get(selected[0], "value"),
+      dataTime.get(selected[selected.length-1], "value")
+    ];
+
     selected.pop();
+
+    console.log("FILTER", facetRange)
+
+    //https://api.deutsche-digitale-bibliothek.de/search?time_fct=time_36100&oauth_consumer_key=PFxeYlfQT6il4h0KFtowd297dBEZPgho0X4YzEQAn3YSFk3ISS61407155687299
 
     drawNormalizedBar(selected,timeRange);
 
@@ -1162,8 +1199,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     }
     
   }
-
-
 
 
 
@@ -1182,12 +1217,13 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     .classed("group", true)
 
   e.append("h2")
-    .text(function(d){ return d.key; })
     .append("a")
       .attr("title", "zur Detailvisualisierung springen")
-      .attr("href", function(d){ return "#detail"; })
+      .attr("href", function(d){ return d.href; })
+    .text(function(d){ return d.key; })
     .append("img")
       .attr("src", function(d){ return "icons/detail.svg" })
+
 
   e.append("div")
     .attr("class", "wordArea")
@@ -1203,7 +1239,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .classed("active", true)
       .append("div").attr("class", "info")
       .text(function(d){
-        return d3.format(",")(d.count);;
+        return d3.format(",")(d.count).replace(/,/g,".");
       })
   }
   var outWord = function(d){
@@ -1239,7 +1275,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       d.count = d3.sum(d.values, function(d){ return d.count; })
     })
     nestedWords.sort(function(a,b){ return b.count - a.count; })
-    nestedWords = nestedWords.slice(0,20)
+    nestedWords = nestedWords.slice(0,30)
     //if(data.key == "Personen/Organisation") nestedWords = nestedWords.slice(0,10)
 
     wordScale.domain(d3.extent(nestedWords, function(d){ return d.count; }))
@@ -1324,7 +1360,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
               .delay(function(d,i){
                   return i*100;
                 })
-              .attr("opacity",1)
+              .attr("opacity",0.8)
   });
 
   function drawNormalizedBar(selected,timeRange){
@@ -1393,7 +1429,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       })
       .transition()
       .duration(1000)
-      .delay(2000)
+      .delay(500)
       .attr("width", function(d) { return yScaleBarLog2(d.count); })
 
 
@@ -1479,11 +1515,11 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     legend.append("text")
         .attr("x", 7)
         .attr("dy", ".35em")
-        .text(function(d) { return d3.format(",")(d.count); })
+        .text(function(d) { return d3.format(",")(d.count).replace(/,/g,"."); })
         .style("opacity",0)
         .transition()
         .duration(300)
-        .delay(700)
+        .delay(1200)
         .style("opacity",1)
 
     e.select(".legend")
@@ -1491,7 +1527,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         return "translate( "+ (lineheight + 30 + yScaleBarLog2(d.count)) +", " + lineheight/2 + ")";
       })
 
-    e.select(".legend text").text(function(d) { return d3.format(",")(d.count); });
+    e.select(".legend text").text(function(d) { return d3.format(",")(d.count).replace(/,/g,"."); });
     
   }
 
@@ -1501,6 +1537,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   // })
 
   var animateIntro = function(){
+
+      // todo: in an other live i will use d3.timer() for that ;)
+
       svg.selectAll(".total")
         .transition()
           .duration(500)
@@ -1537,9 +1576,14 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           .delay(8000)
           .duration(1000)
           .attr('transform', function(d, i){ return "translate(0," + (lineheight - 6) +")"; })
+          .style("opacity",1)
   }
 
   var skipIntro = function(){
+    svg.selectAll(".axis .tick").style("opacity", 0.8);
+    svg.selectAll(".group-label")
+      .attr('transform', function(d, i){ return "translate(0," + (lineheight - 6) +")"; })
+      .style("opacity",1);
     d3.select("#wordArea").transition().style("opacity", 1);
     d3.select(".main .menu").transition().style("opacity", 1);
     d3.select(".main .help").transition().style("opacity", 1);
@@ -1566,12 +1610,11 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         return areaLines(d.values);
       })
 
-    svg.selectAll(".total").remove();
+    //svg.selectAll(".total").remove();
   }
 
-  //skipIntro();
-  animateIntro();
-  //animateTimeline();
+
+  
 
 
   var animateTimelineNow = 0;
@@ -1615,14 +1658,17 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
             return areaLines(d.values);
           })
 
-        if (i==dataTime.length) renderFilter(dataTimeValues.slice(0,i),false)
+        if (i==dataTime.length-1) renderFilter(dataTimeValues.slice(0,i),false)
         else if(i>0) renderFilter(dataTimeValues.slice(0,i),true)
       })
       .each("end",  function(d,i){
-        if(i == dataTime.length) {
+        console.log("END",i, dataTime.length,dataTime)
+
+        if(i == dataTime.length-1) {
           console.log("END Timeline");
           d3.transition().delay(1000).each("end", function(){
             insertBrush();
+            d3.select(".skip").style("display","none");
             d3.select("#wordArea").transition().style("opacity", 1);
             d3.select(".main .menu").transition().style("opacity", 1);
             d3.select(".main .help").transition().style("opacity", 1);
@@ -1631,6 +1677,20 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       })
       .style("opacity", 1)
   }
+
+  //skipIntro();
+  //animateTimeline();
+
+  if(location.hash=="#skip"){
+    skipIntro();
+  } else {
+    d3.select(".skip").style("display","inline");
+    animateIntro();
+  }
+  
+
+
+
 
   var overlay = d3.select("#overlay svg");
   var generateOverlay = function(){
@@ -1769,16 +1829,18 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           var bb = text.node().getBBox();
 
           text
-            .attr("transform", "translate("+(p ? (-bb.width-8) : (4+4))+","+15+")")
+            .attr("transform", "translate("+(p ? (-bb.width-8) : (4+4))+","+16+")")
 
           //console.log(bb)
+          // todo: 14 height anpassen
           background
             .attr("width", bb.width+(4*2))
-            .attr("height", bb.height)
-            .attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(bb.height)+4)+")");
+            .attr("height", 16)
+            .attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(14)+4)+")");
 
           infoTip
             .transition()
+            .ease("elastic")
             .attr("transform", function(d){
               return "translate("+d.x+","+d.y+"), rotate(0)";
             })
@@ -1800,7 +1862,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
      })
   //generateOverlay();
      
-    
+  addEventListener('hashchange', function() {
+    if(location.hash == "#skip") location.reload(true);
+  }, false);  
 }
 
 

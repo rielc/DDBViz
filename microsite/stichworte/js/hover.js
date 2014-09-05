@@ -501,9 +501,95 @@ var keywords = [
     {"id":1129,"value":705,"name":"Landesaufnahme"}];
 
 
+var overlay = {};
+var selectedKeywordID = 0;
+
+function formatNumber (number) {
+    var reg = new RegExp(",", 'g');
+    return d3.format(",")(number).replace(reg, ".");
+}
+
+
+function generateOverlay () {
+    
+    overlay
+    .style("display", "inline")
+    .selectAll("*").remove();    
+
+    if (selectedKeywordID != 4){ 
+        var e = document.createEvent('UIEvents');
+        e.initUIEvent('click', true, true /* ... */);
+        d3.select("#t4").node().dispatchEvent(e);
+   }
+    var infos = 
+        [
+            { x: 145, y: 170, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
+            { x: 1060, y: 190, text: "Viele gemeinsame Einträge sind rot", r: 20},
+            { x: 380, y: 440, text: "Wenige gemeinsame Einträge sind grau", r: 15},
+            { x: 820, y: 300, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
+            { x: 400, y: 35, text: "Verlinkung zu www.ddb.de", r: 20}
+        ];
+        
+
+    overlay
+    .selectAll("g")
+    .data(infos)
+      .enter()
+        .append("g")
+        .attr("transform", function(d){ return "translate("+d.x+","+d.y+"), rotate(10)"; })
+        .transition()
+        .delay(function(d,i){ return i*50; })
+        .each("end",function(d){
+          var infoTip = d3.select(this);
+          var p = d.x > $("body").width()/2;
+
+          infoTip.append("circle").attr("r", function(d){ return d.r; })
+          infoTip.append("line").attr("x1", 0).attr("y1", 0).attr("x2", p ? -5 : 5).attr("y2", 5)
+
+          var background = infoTip.append("rect")
+          var text = infoTip.append("text").text(function(d){ return d.text; })
+          var bb = text.node().getBBox();
+
+          text.attr("transform", "translate("+(p ? (-bb.width-8) : (4+4))+","+15+")");
+
+          background
+            .attr("width", bb.width+(4*2))
+            .attr("height", bb.height).attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(bb.height)+4)+")");
+          infoTip.transition().attr("transform", function(d){ return "translate("+d.x+","+d.y+"), rotate(0)";});
+    })
+}
+
+
     var csvData = [];
 
     $(document).ready( function() {
+        
+     overlay = d3.select("#overlay svg");     
+        
+      d3.select('.help')
+        .selectAll("img")
+        .data([{active:false}])
+        .enter()
+        .append("img")
+        .attr("src", "icons/info.svg")
+        .on("click", function(d){
+            d.active = !d.active;
+            d3.select(this).classed("active", d.active);
+            if(d.active) generateOverlay();
+            
+        });
+        
+        $("#overlay svg").click(function(){
+            var e = document.createEvent('UIEvents');
+                e.initUIEvent('click', true, true /* ... */);
+                d3.select("#t4").node().dispatchEvent(e);
+                overlay.style("display", "none")
+
+                d3.select(".help img")
+                    .data([{active:false}])
+        });
+
+        $("#tip").css("opacity", 0);
 
         // lade die CSV-datei und pack sie in csvDATA
         d3.csv("./scripts/data-tags.csv")
@@ -511,6 +597,9 @@ var keywords = [
             .get(function(error, rows) {
                 csvData = rows;
             });
+        
+    
+        
         
         // erzeuge die colorscale
         var colorScale = d3.scale.linear()
@@ -522,6 +611,8 @@ var keywords = [
             .select(".main")
             .append("div")
             .selectAll("div#keywords span");
+        
+        selectedKeywordID = 0;
         
         /*
         $('body').click( function() {
@@ -537,6 +628,78 @@ var keywords = [
         var min = 705;
         var valueScale = d3.scale.sqrt().domain([min, max]).range([115, 650]);
         
+        
+        function customTip(d, position) {
+            
+            
+            var hoveredKeywordData = csvData.filter( function (k) { return (
+                k.current_facet_id == selectedKeywordID && 
+                k.facet_id == d.id);})[0];
+            
+            if (hoveredKeywordData != undefined) {
+                // wenn man über aktive hovert
+                if (selectedKeywordID == d.id) {
+                    $("#tip").css("opacity", 1.0);
+                    
+                    var tag = $("#t"+d.id);
+
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" Einträge. Erneut klicken zum deselektieren."); 
+                    $("#tip").css({
+                                "top": 
+                                    tag.offset().top
+                                   -parseInt(tag.css('font-size'))/3
+                                   -$("#tip").height(), 
+                                "left":
+                                    tag.offset().left
+                                    - parseInt(tag.css('padding-right'))
+                                    + tag.width()/2
+                                    - $("#tip").width()/2 
+                                      });
+                }
+                // wenn worte hovert die eingefärbt sind ungleich 0
+                else if (selectedKeywordID != 0) {
+                    
+                    $("#tip").css("opacity", 1.0);
+                    
+                    var tag = $("#t"+d.id);
+
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" gemeinsame Einträge"); 
+                    $("#tip").css({
+                                "top": 
+                                    tag.offset().top
+                                   -parseInt(tag.css('font-size'))/3
+                                   -$("#tip").height(), 
+                                "left":
+                                    tag.offset().left
+                                    - parseInt(tag.css('padding-right'))
+                                    + tag.width()/2
+                                    - $("#tip").width()/2 
+                                      });
+
+
+                } 
+                // alles andere, also 0
+                else {
+                    var tag = $("#t"+d.id);
+                    $("#tip p").text("0"); 
+                    $("#tip").css({
+                                "top": 
+                                    tag.offset().top
+                                   -parseInt(tag.css('font-size'))/3
+                                   -$("#tip").height(), 
+                                "left":
+                                    tag.offset().left
+                                    - parseInt(tag.css('padding-right'))
+                                    + tag.width()/2
+                                    - $("#tip").width()/2 
+                                  });
+
+                }
+                    
+            }
+                         
+        }
+        
 
          // füge für jede zeile in den daten ein LI ein
         keywordsSelection
@@ -548,7 +711,11 @@ var keywords = [
             .text( function (d) { return d.name; })
             .style("background-color", "#222")
             .style("color", "#ccc")
+            .style("opacity", 1)
+            .on("mouseover", function(d)  { customTip(d, 200) })
             .on("click", function (d) {
+                
+                       $("#tip").css("opacity", 0);
                 
                     // hole aus scvData alle Zeilen raus bei denen die current_facet_id mit der id des aktuellen wortes übereinstimmt
                     // und sortiere diese nach vorkommen
@@ -596,6 +763,12 @@ var keywords = [
                                 
                                 
                             } else {
+                                
+                                // merke dir die ID des ausgewählten keywords 
+                                selectedKeywordID = keywordCount[i].facet_id;
+                                
+                                console.log(selectedKeywordID);
+                                
                                 // oh, es sit doch das akteuelle LI… FÄRBE ES WHITE!!!
                                 d3.select("#t" + keywordCount[i].facet_id)
                                     .transition()
@@ -611,7 +784,7 @@ var keywords = [
                                     .attr("target", "_blank")
                                     .attr("id", "value")
                                     .attr("class", "activeSmall")
-                                    .text( function (d) {return "(ausgewählt: "+keywordCount[i].value+" - "+keywordCount[i].c+" Einträge)";});
+                                    .text( function (d) { return "(ausgewählt: "+keywordCount[i].value+" - "+formatNumber(keywordCount[i].c)+" Einträge)";});
                         }
                         }
                     } else {
@@ -634,6 +807,8 @@ var keywords = [
                             .style("color", "#ccc")
                             .style("background-color", "#222");
                        
+                       selectedKeywordID = 0;
+                       
                         d3.selectAll("#value")
                             .remove();
                     }
@@ -644,5 +819,13 @@ var keywords = [
 
                 }
             );
+d3.select(".main")
+            .style("opacity", 0)
+            .transition()
+            .ease("exp-in-out")
+            .duration(1500)
+            .style("opacity", 1);
 
 });
+
+        

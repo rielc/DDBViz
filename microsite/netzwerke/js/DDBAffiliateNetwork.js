@@ -204,6 +204,7 @@ DDBAffiliateNetwork = function()
   this.zoom = function (d) {
     if (self.force.alpha() == 0) {
       self.affiliates
+        .call(self.resetNodeSize)
         .attr("cx", function(d) { return self.transformX(d)} )
         .attr("cy", function(d) { return self.transformY(d)} );
       self.links
@@ -243,6 +244,9 @@ DDBAffiliateNetwork = function()
          + 20 + 
         self.radius(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence)})
       .size([  this.networkWidth, this.networkHeight]);
+      // .linkStrength(function (d) {
+      //     if (d.common_occurrence =! undefined) { console.log("values"); console.log("no values"); return d.common_occurrence } else { return 0.5 }
+      // });
 
     // data storages
     this.allNodes = d3.map();
@@ -282,18 +286,18 @@ DDBAffiliateNetwork = function()
     this.tip = d3.tip()
       .attr('class', 'd3-tip')
       .html( function (d) {
-        var content = '<h3>'+clearName(d.affiliate_fct)+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence+' Einträge</p>'; 
+        var content = '<h3>'+clearName(d.affiliate_fct)+'</h3><p>'+formatNumber(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)+' Einträge</p>'; 
         return content;
       });
     this.svg.call(this.tip); 
 
     // Initialize neighbour tooltip
-    this.sourceTip = d3.tip().attr('class', 'd3-tip source-tip').html( function (d) { return '<h3>'+d.affiliate_fct+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence+' Einträge</p>'; } );
-    this.targetTip = d3.tip().attr('class', 'd3-tip target-tip').html( function (d) { return '<h3>'+d.affiliate_fct+'</h3><p>'+self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence+' Einträge</p>'; } );
+    this.sourceTip = d3.tip().attr('class', 'd3-tip source-tip').html( function (d) { return '<h3>'+d.source.affiliate_fct+'</h3><p>'+formatNumber(self.currentLinks.get(d.source.affiliate_fct_id+"_"+d.target.affiliate_fct_id ).common_occurrence) +' gemeinsame Einträge</p>'; } );
+    this.targetTip = d3.tip().attr('class', 'd3-tip target-tip').html( function (d) { return '<h3>'+d.target.affiliate_fct+'</h3><p>'+formatNumber(self.currentLinks.get(d.source.affiliate_fct_id+"_"+d.target.affiliate_fct_id ).common_occurrence) +' gemeinsame Einträge</p>'; } );
     this.svg.call(this.sourceTip);
     this.svg.call(this.targetTip);
 
-    jQuery.getJSON( "./data/affiliates.json", function (result) {
+    jQuery.getJSON( "./data/affiliates-with-strength.json", function (result) {
       self.data = result;
       self.collectAllNodes();
       self.initTimeline();
@@ -330,6 +334,7 @@ DDBAffiliateNetwork = function()
         case "network" :
           // update the position of the nodes
           self.affiliates
+            .call(self.resetNodeSize)
             .attr("cx", function (d) { if (!d.fixed) {return self.transformX(d);}} )
             .attr("cy", function (d) { if (!d.fixed) {return self.transformY(d)}} );
             //.attr("r", function(d) { return self.zoomYScale(self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)); });
@@ -500,9 +505,9 @@ DDBAffiliateNetwork = function()
       .duration(100)
       .delay(function(d, i) { return 2000+i*50 })
       .style('fill-opacity', 1);
-      d3.select(".background").style("cursor", "col-resize");
-      d3.selectAll(".resize").style("cursor", "col-resize");
-      d3.select(".extent").attr("height", 0).style("cursor", "col-resize").attr("width",this.brushWidth);
+      d3.select(".background").style("cursor", "pointer");
+      d3.selectAll(".resize").style("cursor", "pointer");
+      d3.select(".extent").attr("height", 0).style("cursor", "pointer").attr("width",this.brushWidth);
 
   };
 
@@ -631,7 +636,8 @@ DDBAffiliateNetwork = function()
           if (self.currentLinks.has(linkID) == false) 
             self.currentLinks.set(linkID, {
               source : self.currentNodes.get(l.source_affiliate_fct_id),
-              target : self.currentNodes.get(l.target_affiliate_fct_id)
+              target : self.currentNodes.get(l.target_affiliate_fct_id),
+              common_occurrence : l.common_occurrence != undefined ? l.common_occurrence : 0
             });
         });
       }
@@ -781,9 +787,21 @@ DDBAffiliateNetwork = function()
       .duration(500)
       //.attr("cx", function (d,i) { var offset = 0; if( self.timelineDirection == "future" ) { offset = self.networkWidth*-1 } else { offset = self.networkWidth } return d.x + offset; })
       .remove(); };
+
+  this.resetNodeSize = function (selection) {
+      selection
+        .attr("r", function (d) {
+           if (self.zoomContext.scale() > 1.0) {
+            return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence); 
+          } else {
+            return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence) * self.zoomContext.scale();
+          }
+      });
+  };
+
   this.resetNode = function (selection) {
       selection
-        .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence); })
+        .call(self.resetNodeSize)
         .style("fill", function (d) { 
           switch(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_type) {
             case "organisation" :
@@ -799,12 +817,20 @@ DDBAffiliateNetwork = function()
         .style("stroke", "none") 
         //.style("stroke", "#fff")
         .style("fill-opacity", 0.9); }
+
   this.highlightNode = function (selection) {
       selection
-        .attr("r", function (d) { return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence); })
+        .attr("r", function (d) {
+           if (self.zoomContext.scale() > 1.0) {
+            return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence); 
+          } else {
+            return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence) * self.zoomContext.scale();
+          }
+        })
         .style("fill", "#bf8f9f")
         //.style("stroke", "#a40539")
         .style("fill-opacity", 0.9); }
+
   this.highlightLink = function (selection) { selection.style("bf8f9f", "#fff").style("stroke-opacity",1.0); };
   this.resetLink = function (selection) { selection.style("stroke", "#ccc").style("stroke-opacity",0.5).style("stroke-width",1); };
   this.enterNodes = function () {
@@ -946,7 +972,7 @@ DDBAffiliateNetwork = function()
       case "node":
         var url = 
         "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&viewType=grid" +
-        "&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURI(data)+
+        "&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURI(clearString(data))+
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
         window.open(url);
@@ -986,6 +1012,8 @@ DDBAffiliateNetwork = function()
       break;
 
       case "link":
+
+        // calculate the direction of the tip
         var sx = d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id)[0][0].cx.baseVal.value;
         var sy = d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id)[0][0].cy.baseVal.value
         var tx = d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id)[0][0].cx.baseVal.value;
@@ -998,8 +1026,8 @@ DDBAffiliateNetwork = function()
         if ( Math.abs(diffH) > Math.abs(diffV) ) { if ( sx>tx ) { sh="e";th="w"; } else { sh="w";th="e"; } s = sh; t = th; } 
         else { if ( sy>ty ) { sv="s";tv="n"; } else { sv="n";tv="s"; } s = sv; t = tv; }
 
-        this.sourceTip.direction(s).show(data.source, d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id)[0][0]);
-        this.targetTip.direction(t).show(data.target, d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id)[0][0]);
+        this.sourceTip.direction(s).show(data, d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id)[0][0]);
+        this.targetTip.direction(t).show(data, d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id)[0][0]);
         d3.select("#link-"+data.source.affiliate_fct_id+'_'+data.target.affiliate_fct_id).call(this.highlightLink);
         d3.select("#affiliate_fct_id-" + data.source.affiliate_fct_id).call(this.highlightNode);
         d3.select("#affiliate_fct_id-" + data.target.affiliate_fct_id).call(this.highlightNode);
@@ -1028,6 +1056,20 @@ function calcDate (year, end) {
     d1 = d1.getTime() / 86400000;
     d2 = d2.getTime() / 86400000;
   return parseInt(new Number(d2 - d1).toFixed(0))+ 719164;
+}
+
+function formatNumber (number) {
+  var reg = new RegExp(",", 'g');
+  return d3.format(",")(number).replace(reg, ".");
+}
+
+function clearString(string) {
+  var list = ["+", "||", "!", "{", "}", "^", "[", "]", '"', "~", "*", "=", "?", ":", "/"]
+
+  for (var i=0; i<list.length; i++) {
+    string = string.replace(list[i], "\\"+list[i]);
+  }
+  return string;
 }
 
 function clearName (name) {

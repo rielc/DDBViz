@@ -286,14 +286,14 @@ svg#network * {
 }
 .main .help img {
   width: 20px;
-  cursor:pointer;
+  cursor: pointer;
   opacity: 0.5;
 }
 .main .help .active, .main .help img:hover {
   opacity: 1;
 }
 
-.help {
+img.help {
   position: absolute;
   z-index: 200;
   width:20px;

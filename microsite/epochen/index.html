@@ -482,11 +482,11 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 
 </div>
 
-<script src="js/d3.v3.min.js"></script>
-<script src="js/queue.v1.min.js"></script>
-<script src="js/colorbrewer.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/queue.v1.min.js"></script>
+<script src="../js/log.js"></script>
 <script src="js/d3tip.js"></script>
-<script src="js/cubehelix.js"></script>
 <link rel="stylesheet" href="js/d3tip.css"></link>
 
 
@@ -501,7 +501,7 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 *   generative design process
 */
 
-
+log("view", "area", "type", "value");
 
 var ddbUrl = "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&rows=20&viewType=grid";
 
@@ -519,11 +519,11 @@ var yScaleStacked = d3.scale.linear().range([height, 0]),
     yScaleBarLog2 = d3.scale.linear().range([0, 100]),
     yScaleTotal = d3.scale.linear().clamp(true).range([2, width]),
     xScale = d3.scale.linear().range([0, width]),
-    wordScale = d3.scale.linear().range([10, 25]),
+    wordScale = d3.scale.linear().range([10, 25]);
     //colorScale = d3.scale.ordinal().range(colorbrewer.Set1[7].map(inverse));
-    colorScale = d3.scale.cubehelix()
-      .range([d3.hsl(270, .75, .35), d3.hsl(70, 1.5, .8)]);
-    typeScale = d3.scale.ordinal().range(colorbrewer.Set1[5].map(inverse));
+    // colorScale = d3.scale.cubehelix()
+    //   .range([d3.hsl(270, .75, .35), d3.hsl(70, 1.5, .8)]);
+    //typeScale = d3.scale.ordinal().range(colorbrewer.Set1[5].map(inverse));
 
 
 var horizonSize = 5;
@@ -950,6 +950,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         if(d=="list") transitionMultiples();
         else if(d=="stream") transitionStacked();
         else if(d=="intro") transitionArc();
+        log("epochen", "click", "navi", d);
       });
   
   function transitionMultiples() {

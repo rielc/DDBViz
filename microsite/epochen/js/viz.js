@@ -28,7 +28,8 @@ $(document).ready(function(){
     fm.init(fm_options);
 });
 
-log("view", "area", "type", "value");
+//log("view", "area", "type", "value");
+log("epochen", "page", "load", "start");
 
 var ddbUrl = "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&rows=20&viewType=grid";
 
@@ -168,6 +169,8 @@ Array.prototype.get = function(id,val){
 }
 
 function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType, dataKeywords, dataPlaces, dataAffiliates) {
+
+  log("epochen", "page", "load", "data");
 
   dataTime.forEach(function(d) {
     d.id = +d.id;
@@ -342,6 +345,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     .ticks(dataTime.length-1)
     //.ticks(10)
 
+  // d3.tip mit logging ???
 
   var tip = d3.tip().offset([-5, 0]).attr('class', 'd3-tip')
     .html(function(d) {
@@ -657,6 +661,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
   function brushend(d){
 
+    log("epochen", "click", "timeline", brush.extent());
+
     // console.log("brushend", brush.extent()[0]);
     // sweet stuff eh ? :D
     wordArea
@@ -763,6 +769,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   var enterWord = function(d){
     //console.log("enter", d)
 
+    //log("epochen", "hover", "word", d.key);
+
     var w = d3.select(this)
       .classed("active", true)
       .append("div").attr("class", "info")
@@ -816,7 +824,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .append("div")
       .on("mouseenter", enterWord)
       .on("mouseleave", outWord)
-      //.on("click", function(e){ clickWord(e,d.key); })
+      .on("click", function(d){
+        log("epochen", "click", "word", d.key);
+      })
       .classed("word", true)
       .append("a").classed("text", true)
       .style("font-size", "0px")
@@ -924,11 +934,13 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       //.attr("y", function(d) { return yScaleBarLog(d.count); })
       .attr("width", function(d) { return yScaleBarLog2(d.count); })
       .on('click', function(d){
-        console.log(d)
+        console.log(d);
         var url = ddbUrl +
           "&facetValues%5B%5D=sector_fct%3D"+dataSector.get(d.key,"value") +
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
+        //log("epochen", "click", "total", url);
+        log("epochen", "click", "total", dataSector.get(d.key,"value"));
         window.open(url);
       })
 
@@ -953,6 +965,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=sector_fct%3D"+dataSector.get(d.key,"value") +
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
+        log("epochen", "click", "total", dataSector.get(d.key,"value"));
         window.open(url);
       })
       .transition()
@@ -1002,6 +1015,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=type_fct%3D"+dataType.get(typeId,"value")+
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
+        log("epochen", "click", "sector", dataSector.get(sectorId,"value"));
         window.open(url);
       })
       .style("opacity",0)
@@ -1025,6 +1039,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=type_fct%3D"+dataType.get(typeId,"value")+
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
+        log("epochen", "click", "sector", dataSector.get(sectorId,"value"));
         window.open(url);
       })
 
@@ -1383,6 +1398,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .append("img")
       .attr("src", "icons/info.svg")
       .on("click", function(d){
+        log("epochen", "click", "help", d.active);
         d.active = !d.active;
         d3.select(this).classed("active", d.active);
         if(d.active) generateOverlay();
@@ -1391,7 +1407,10 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   //generateOverlay();
      
   addEventListener('hashchange', function() {
-    if(location.hash == "#skip") location.reload(true);
+    if(location.hash == "#skip") {
+      log("epochen", "click", "skip", "true");
+      location.reload(true);
+    }
   }, false);  
 }
 

@@ -4,7 +4,7 @@ function log(view, area, type, value){
 		type: type,
 		view: view,
 		area: area,
-		value: value
+		value: value.toString()
 	};
 	console.log("logging", payload);
 	$.post( "../log.php", payload);

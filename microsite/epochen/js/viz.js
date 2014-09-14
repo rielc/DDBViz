@@ -21,15 +21,14 @@ $(document).ready(function(){
         email_required: false,
         callback: function(data){ 
           //console.log("feedback",data);
-          log("epochen", "feedback", "feedback", data);
+          log("epochen", "send", "feedback", data);
         },
     };
 
     fm.init(fm_options);
 });
 
-//log("view", "area", "type", "value");
-log("epochen", "page", "load", "start");
+log("epochen", "load", "page", "loaded");
 
 var ddbUrl = "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&rows=20&viewType=grid";
 
@@ -170,7 +169,7 @@ Array.prototype.get = function(id,val){
 
 function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType, dataKeywords, dataPlaces, dataAffiliates) {
 
-  log("epochen", "page", "load", "data");
+  log("epochen", "load", "data", "true");
 
   dataTime.forEach(function(d) {
     d.id = +d.id;

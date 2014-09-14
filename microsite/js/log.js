@@ -1,5 +1,5 @@
 
-function log(view, area, type, value){
+function log(view, type, area, value){
 	var payload = {
 		type: type,
 		view: view,

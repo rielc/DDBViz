@@ -523,19 +523,20 @@ function generateOverlay () {
    }
     var infos = 
         [
-            { x: 145, y: 170, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
-            { x: 1060, y: 190, text: "Viele gemeinsame Einträge sind rot", r: 20},
-            { x: 380, y: 440, text: "Wenige gemeinsame Einträge sind grau", r: 15},
-            { x: 820, y: 300, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
-            { x: 400, y: 35, text: "Verlinkung zu www.ddb.de", r: 20}
+            { x: 145, y: 190, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
+            { x: 960, y: 200, text: "Viele gemeinsame Einträge sind rot", r: 20},
+            { x: 240, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
+            { x: 680, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
+            { x: 280, y: 35, text: "Verlinkung zu www.ddb.de", r: 20}
         ];
-        
+
 
     overlay
     .selectAll("g")
     .data(infos)
       .enter()
         .append("g")
+        .attr("class", "infoField")
         .attr("transform", function(d){ return "translate("+d.x+","+d.y+"), rotate(10)"; })
         .transition()
         .delay(function(d,i){ return i*50; })
@@ -643,7 +644,7 @@ function generateOverlay () {
                     
                     var tag = $("#t"+d.id);
 
-                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" Einträge. Erneut klicken zum deselektieren."); 
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" Einträge. Erneutes Klicken hebt die Auswahl auf."); 
                     $("#tip").css({
                                 "top": 
                                     tag.offset().top
@@ -778,13 +779,19 @@ function generateOverlay () {
                                     .style("background-color", "#ccc")
                                     .style("background-clip", "content-box");
                                 
+                                d3.select(".subheader .container h1 span")
+                                    .remove("class", "blankHL");
+                                
                                 d3.select(".subheader .container h1")
+                                    .append("span")
+                                    .attr("class", "activeSmall")
+                                    .attr("id", "value")
+                                    .text( function (d) { return "Stichwort: "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
                                     .attr("target", "_blank")
-                                    .attr("id", "value")
-                                    .attr("class", "activeSmall")
-                                    .text( function (d) { return "(ausgewählt: "+keywordCount[i].value+" - "+formatNumber(keywordCount[i].c)+" Einträge)";});
+                                    .attr("class", "activeLink")
+                                    .text(function (d){return keywordCount[i].value+" hat "+formatNumber(keywordCount[i].c)+" Einträge";});
                         }
                         }
                     } else {
@@ -807,10 +814,16 @@ function generateOverlay () {
                             .style("color", "#ccc")
                             .style("background-color", "#222");
                        
-                       selectedKeywordID = 0;
-                       
+                        selectedKeywordID = 0;
+
                         d3.selectAll("#value")
                             .remove();
+
+                        d3.select(".subheader .container h1")
+                            .append("span")
+                            .attr("class", "blankHL")
+                            .text("Stichworte");
+
                     }
                     else {
                     }

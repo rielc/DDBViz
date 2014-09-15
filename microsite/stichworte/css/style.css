@@ -17,18 +17,17 @@
 body {
     background: #222;
     color: #fff;
-    font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+    font-family: "KarbidWeb", sans-serif;
     margin: 0;
-		padding: 0;
-    hyphens: auto;
-    font-size: 0.12px;
-		min-width: 1240px;
-}
+    padding: 0;
+    min-height: 700px;
+    min-width: 1240px;    
+}}
 
-a:link{color: white; text-decoration: none;}
-a:visited{color: white; text-decoration: none;}
-a:hover{color: white; text-decoration: none;}
-a:active{color: white; text-decoration: none;}
+a:link{color: white; text-decoration: underline;}
+a:visited{color: white; text-decoration: underline;}
+a:hover{color: white; text-decoration: underline;}
+a:active{color: white; text-decoration: underline;}
 
 
 .main span {
@@ -40,6 +39,9 @@ a:active{color: white; text-decoration: none;}
 }
 
 .main div{
+  hyphens: auto;
+  font-size: 0.12px;
+  min-width: 1240px;
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-flow: row wrap;
@@ -53,32 +55,19 @@ a:active{color: white; text-decoration: none;}
 
 }
 
-
-/*
-.active{
-    color: black;
-    background-color: #ccc;
-}
-
-.inactive{
-    color: #181818;
-    background-color: #222;
-}
-*/
-
-
-
 .activeSmall {
     cursor: pointer;
 }
 
-#value {
-    cursor: pointer;
+.activeLink {
+  cursor: pointer;
+  text-decoration: underline;
 }
+
 
 .main {
     text-rendering: optimizeLegibility;
-    font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+    font-family: "KarbidWeb", sans-serif;
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
@@ -124,8 +113,12 @@ a:active{color: white; text-decoration: none;}
 }
 
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px; color:#cecece; text-decoration: none;}
+.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
+
+.menu .social { float: right; padding: 22px 16px;}
+.menu .social a { padding:0px 8px; color:#cecece; text-decoration: none; height: 26px;}
+.menu .social a:hover  { color: #CD1245; background-color:#363636; }
 
 .subheader{
     padding-top: 10px;
@@ -148,7 +141,6 @@ a:active{color: white; text-decoration: none;}
     margin: auto;
 }
 
-
 .d3-tip {
   padding: 5px 10px 5px 10px;
   background-color: #fff;
@@ -157,7 +149,7 @@ a:active{color: white; text-decoration: none;}
 }
 
 .d3-tip h3 {
-  font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+  font-family: "KarbidWeb", sans-serif;
   font-style: italic;
   line-height: 1.2rem;
   font-size: 1rem;
@@ -169,7 +161,7 @@ a:active{color: white; text-decoration: none;}
 .d3-tip p {
   color:#a40539;
   font-weight: 400;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "KarbidWeb", sans-serif;
   font-style: normal;
   font-size: 0.625rem;
   line-height: 0.75rem;
@@ -235,9 +227,13 @@ a:active{color: white; text-decoration: none;}
 }
 
 #overlay {
+  width: 1200px;
+  display: block;
+  margin: auto;
   position: relative;
   z-index: 50;
 }
+
 #overlay svg{
   display: none;
   position: absolute;

@@ -3,7 +3,21 @@
 <head>
 <title>Deutsche Digitale Bibliothek visualisiert</title>
 <link rel="icon" type="image/png" href="favicon.png" />
+<link href="css/font-awesome.min.css" rel="stylesheet">
 <meta charset="utf-8">
+
+    <script type="text/javascript"> 
+    var $buoop = {}; 
+    $buoop.ol = window.onload; 
+    window.onload=function(){ 
+     try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+     var e = document.createElement("script"); 
+     e.setAttribute("type", "text/javascript"); 
+     e.setAttribute("src", "//browser-update.org/update.js"); 
+     document.body.appendChild(e); 
+    } 
+    </script> 
+
 <style>
 @font-face {
   font-family: KarbidWeb;
@@ -23,11 +37,11 @@
 
 body {
 	background: #0A0A0A;	
-  color: #FFF;
-  margin: 0;
+	color: #FFF;
+  	margin: 0;
 	padding: 0;
-  min-height: 700px;
-  font-family: KarbidWeb, sans-serif;
+  	min-height: 700px;
+  	font-family: KarbidWeb, sans-serif;
 	min-width: 1240px;
 }
 
@@ -67,8 +81,12 @@ p {
 }
 
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px; color:#cecece; text-decoration: none;}
+.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
+
+.menu .social {	float: right; padding: 22px 16px;}
+.menu .social a { padding:0px 8px; color:#cecece; text-decoration: none; vertical-align: middle}
+.menu .social a:hover  { color: #CD1245; background-color:#363636; }
 
 
 a {
@@ -234,6 +252,10 @@ h2, a h2 {
       <span><a href="stichworte/">Stichworte</a></span>
       <span><a href="orte/">Orte</a></span>
       <span><a href="netzwerke/">Netzwerke</a></span>
+      	<div class="social">
+			<a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+			<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+		</div>
     </div>
   </div>
 </div>
@@ -304,8 +326,8 @@ h2, a h2 {
 
 <p>Ein Gemeinschaftsprojekt von <a href="http://fh-potsdam.de/">Fachhochschule Potsdam</a> und <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
 	
-	Design und Umsetzung: Christian Bernhardt, Gabriel Credico und Christopher Pietsch<br>
-	Wissenschaftliche Leitung: Prof. Dr. Marian Dörk</a> &nbsp;
+	Design und Umsetzung: <a href="http://www.cbernhardt.info" target="_blank">Christian Bernhardt</a>, <a href="http://gabrielcredico.de" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
+	Wissenschaftliche Leitung: <a href="http://mariandoerk.de/" target="_blank">Prof. Dr. Marian Dörk</a> &nbsp;
 	Beratung: Stephan Bartholmei
 
 

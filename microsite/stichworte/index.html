@@ -1,13 +1,26 @@
 <html lang="de">
 <head>
-    <meta charset="utf-8">
     <title>Stichworte - Deutsche Digitale Bibliothek visualisiert</title>
+    <link href="../css/font-awesome.min.css" rel="stylesheet">
+    <meta charset="utf-8">
     <link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" href="../favicon.png" />
     <script type="text/javascript" src="../js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
     <script type="text/javascript" src="js/hover.js"></script>
-
+    
+    <script type="text/javascript"> 
+    var $buoop = {}; 
+    $buoop.ol = window.onload; 
+    window.onload=function(){ 
+     try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+     var e = document.createElement("script"); 
+     e.setAttribute("type", "text/javascript"); 
+     e.setAttribute("src", "//browser-update.org/update.js"); 
+     document.body.appendChild(e); 
+    } 
+    </script> 
+  
 </head>
 
    
@@ -18,9 +31,13 @@
     <div class="menu">
       <span><a href="../">Start</a></span>
       <span><a href="../epochen/">Epochen</a></span>
-      <span><a href="../stichworte/" class="active">Stichworte</a></span>
+      <span><a class="active" href="../stichworte/">Stichworte</a></span>
       <span><a href="../orte/">Orte</a></span>
       <span><a href="../netzwerke/">Netzwerke</a></span>
+        <div class="social">
+      <a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+      <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+    </div>
     </div>
   </div>
 </div>
@@ -29,7 +46,7 @@
 <div class="subheader">
   <div class="container">
     <div class="help"></div>
-    <h1>Stichworte </h1>
+    <h1><span class="blankHL">Stichworte</span></h1>
     <p>
     Die 500 am häufigsten Stichworte sind der Größe nach abgebildet, durch das klicken auf ein Stichwort sieht man, welche anderen Stichworte mit diesem häufig auftreten.
     </p>

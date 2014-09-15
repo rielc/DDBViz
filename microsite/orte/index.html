@@ -1,18 +1,31 @@
 <!DOCTYPE>
 <html lang="de">
 <head>
-    <meta charset="utf-8">
     <title>Orte - Deutsche Digitale Bibliothek visualisiert</title>
     <link rel="icon" type="image/png" href="../favicon.png" />
-    <script type="text/javascript" src="assets/scripts/jquery.latest.js"></script>
     <script type="text/javascript" src="assets/scripts/jquery.js"></script>
     <script src="assets/scripts/d3.v2.js"></script>
     <script src="assets/scripts/piecharts.js"></script>
-    <script src="assets/scripts/d3.tip.js"></script>
+    <script src="../js/d3.tip.js"></script>
     <script src="assets/scripts/data-sets.js"></script>
-    <link href="assets/style/main.css" rel="stylesheet" />
-    
+    <link href="../css/font-awesome.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <link href="assets/style/main.css" rel="stylesheet">
+
+    <script type="text/javascript"> 
+    var $buoop = {}; 
+    $buoop.ol = window.onload; 
+    window.onload=function(){ 
+     try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+     var e = document.createElement("script"); 
+     e.setAttribute("type", "text/javascript"); 
+     e.setAttribute("src", "//browser-update.org/update.js"); 
+     document.body.appendChild(e); 
+    } 
+    </script> 
+
 </head>
+
 <body>
 <div class="header">
   <div class="container">
@@ -21,8 +34,12 @@
       <span><a href="../">Start</a></span>
       <span><a href="../epochen/">Epochen</a></span>
       <span><a href="../stichworte/">Stichworte</a></span>
-      <span><a href="../orte/" class="active">Orte</a></span>
+      <span><a class="active" href="../orte/">Orte</a></span>
       <span><a href="../netzwerke/">Netzwerke</a></span>
+        <div class="social">
+            <a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+        </div>
     </div>
   </div>
 </div>
@@ -463,8 +480,6 @@ $('.button').click
         $('.Zurich_max').toggleClass('Zurich');
         $('#top').toggleClass('active');
         $('#abc').toggleClass('active');
-        $('#big').toggleClass('dissolve');        
-        $('#alf').toggleClass('dissolve');
 
         return false;        
     });

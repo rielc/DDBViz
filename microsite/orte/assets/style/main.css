@@ -18,12 +18,12 @@
 body {
     background: #222;
     color: #fff;
-    font-family: "KarbidWeb", "Calibri", "Arial", sans-serif;
+    font-family: "KarbidWeb", sans-serif;
     margin: 0;
+    padding: 0;
+    min-height: 700px;
 		min-width: 1240px;		
 }
-
-
 
 .pie-chart {
     margin-top: 30px;
@@ -41,6 +41,7 @@ body {
   padding-bottom: 10px;
   position: relative;
   height:60px;
+  font-size: 17px;
 }
 .header h1 {
   font-weight: 200;
@@ -62,9 +63,12 @@ body {
 }
 
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px;}
+.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
-.menu a { color:#cecece; text-decoration: none; }
+
+.menu .social { float: right; padding: 22px 16px;}
+.menu .social a { padding:0px 8px; color:#cecece; text-decoration: none; height: 26px;}
+.menu .social a:hover  { color: #CD1245; background-color:#363636; }
 
 .subheader{
     padding-top: 10px;
@@ -165,7 +169,7 @@ p.value {
 }
 
 .d3-tip h3 {
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-family: KarbidWeb, sans-serif;
   line-height: 1.2rem;
   font-size: 1rem;
   color:#222;
@@ -175,7 +179,7 @@ p.value {
 
 .d3-tip p {
   color:#222;
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-family: KarbidWeb, sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 10px;
@@ -187,7 +191,7 @@ p.value {
 .d3-tip p.description {
   text-align: left;
   color:#222;
-  font-family: KarbidWeb, Calibri, Arial, sans-serif;
+  font-family: KarbidWeb, sans-serif;
   font-size: 10px;
   line-height: 14px;
   padding: 5px 0 5px 0;

@@ -43,9 +43,10 @@
     </div>
   </div>
 </div>
-    
+<div id="overlay"><svg></svg></div>
 <div class="subheader">
   <div class="container">
+    <div class="help"></div>
     <h1>Orte und Sparten </h1>
     <p id="big" class="">Übersicht der Städte mit den meisten Einträgen. Die Städte sind unterteilt durch Sparten und der Größe nach sortiert.</p>
     <p id="alf" class="dissolve">Übersicht der Städte mit den meisten Einträgen. Die Städte sind unterteilt durch Sparten und alphabetisch sortiert.</p>
@@ -480,6 +481,8 @@ $('.button').click
         $('.Zurich_max').toggleClass('Zurich');
         $('#top').toggleClass('active');
         $('#abc').toggleClass('active');
+        $('#big').toggleClass('dissolve');
+        $('#alf').toggleClass('dissolve');
 
         return false;        
     });

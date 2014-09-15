@@ -118,7 +118,7 @@ a:active{color: white; text-decoration: underline;}
 
 .menu .social { float: right; padding: 22px 16px;}
 .menu .social a { padding:0px 8px; color:#cecece; text-decoration: none; height: 26px;}
-.menu .social a:hover  { color: #CD1245; background-color:#363636; }
+.menu .social a:hover  { color: #fff; background-color:#363636; }
 
 .subheader{
     padding-top: 10px;
@@ -224,10 +224,15 @@ a:active{color: white; text-decoration: underline;}
 
 .help img {
   width: 20px;
+  opacity: .5;
 }
 
+.help .active, .help img:hover{
+  opacity: 1;
+} 
+
 #overlay {
-  width: 1200px;
+  width: 2000px;
   display: block;
   margin: auto;
   position: relative;

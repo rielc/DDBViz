@@ -1,3 +1,83 @@
+var overlay = {};
+
+function generateOverlay () {
+    
+    overlay
+    .style("display", "inline")
+    .selectAll("*").remove();    
+
+    var e = document.createEvent('UIEvents');
+    e.initUIEvent('mouseover', true, true /* ... */);
+    d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+
+
+    var infos = 
+        [
+            { x: 195, y: 235, text: "Das Verhältnis der Kreisbogens wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 30},
+            { x: 170, y: 350, text: "Die größe des Kreises entspricht im Verhältnis der Anzahl der Einträge ", r: 25},
+            { x: 1000, y: 510, text: "Beim hovern über einen Kreisbogen wird der Name und die Anzahl der Einträge der Sparte gezeigt", r: 30},
+            { x: 50, y: 130, text: "Die Städte werden alphabetisch, oder der Größe nach sortiert", r: 20}
+        ];
+
+
+    overlay
+    .selectAll("g")
+    .data(infos)
+      .enter()
+        .append("g")
+        .attr("class", "infoField")
+        .attr("transform", function(d){ return "translate("+d.x+","+d.y+"), rotate(10)"; })
+        .transition()
+        .delay(function(d,i){ return i*50; })
+        .each("end",function(d){
+          var infoTip = d3.select(this);
+          var p = d.x > $("body").width()/2;
+
+          infoTip.append("circle").attr("r", function(d){ return d.r; })
+          infoTip.append("line").attr("x1", 0).attr("y1", 0).attr("x2", p ? -5 : 5).attr("y2", 5)
+
+          var background = infoTip.append("rect")
+          var text = infoTip.append("text").text(function(d){ return d.text; })
+          var bb = text.node().getBBox();
+
+          text.attr("transform", "translate("+(p ? (-bb.width-8) : (4+4))+","+15+")");
+
+          background
+            .attr("width", bb.width+(4*2))
+            .attr("height", bb.height).attr("transform", "translate("+(p ? (-bb.width-12) : 4)+","+(15-(bb.height)+4)+")");
+          infoTip.transition().attr("transform", function(d){ return "translate("+d.x+","+d.y+"), rotate(0)";});
+    })
+}
+
+    $(document).ready( function() {
+
+     overlay = d3.select("#overlay svg");     
+        
+      d3.select('.help')
+        .selectAll("img")
+        .data([{active:false}])
+        .enter()
+        .append("img")
+        .attr("src", "assets/icons/info.svg")
+        .on("click", function(d){
+            d.active = !d.active;
+            d3.select(this).classed("active", d.active);
+            if(d.active) generateOverlay();
+            
+        });
+
+        $("#overlay svg").click(function(){
+            var e = document.createEvent('UIEvents');
+            e.initUIEvent('mouseout', true, true /* ... */);
+            d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+            d3.select(".help img")
+                .classed("active", false);
+            overlay.style("display", "none")
+                
+        });
+        
+    });
+
 function drawPie(dataSet, selectString, outerRadius) {
     // Color Scale Handling...
     var color = d3.scale.ordinal().range(['#be708b', '#91b2da', '#78d2bb', '#41a069', '#c06d45', '#e3a747', '#a9c54a' ]);

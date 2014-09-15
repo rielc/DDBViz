@@ -584,10 +584,10 @@ function generateOverlay () {
             var e = document.createEvent('UIEvents');
                 e.initUIEvent('click', true, true /* ... */);
                 d3.select("#t4").node().dispatchEvent(e);
-                overlay.style("display", "none")
-
                 d3.select(".help img")
-                    .data([{active:false}])
+                    .classed("active", false)
+                overlay.style("display", "none")
+                
         });
 
         $("#tip").css("opacity", 0);

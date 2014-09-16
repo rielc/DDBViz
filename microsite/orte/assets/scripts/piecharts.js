@@ -6,17 +6,25 @@ function generateOverlay () {
     .style("display", "inline")
     .selectAll("*").remove();    
 
+    if ($("#abc").hasClass('active') ){
+        var f = document.createEvent('UIEvents');
+        f.initUIEvent('click', true, true /* ... */);
+        d3.select(".button").classed("active", true).node().dispatchEvent(f);
+    };
+
     var e = document.createEvent('UIEvents');
     e.initUIEvent('mouseover', true, true /* ... */);
     d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
 
 
+
+
     var infos = 
         [
-            { x: 195, y: 235, text: "Das Verhältnis der Kreisbogens wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 30},
-            { x: 170, y: 350, text: "Die größe des Kreises entspricht im Verhältnis der Anzahl der Einträge ", r: 25},
-            { x: 1000, y: 510, text: "Beim hovern über einen Kreisbogen wird der Name und die Anzahl der Einträge der Sparte gezeigt", r: 30},
-            { x: 50, y: 130, text: "Die Städte werden alphabetisch, oder der Größe nach sortiert", r: 20}
+            { x: 195, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
+            { x: 170, y: 350, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
+            { x: 1000, y: 510, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
+            { x: 50, y: 130, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
         ];
 
 
@@ -62,8 +70,7 @@ function generateOverlay () {
         .on("click", function(d){
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
-            if(d.active) generateOverlay();
-            
+            if(d.active) generateOverlay(); 
         });
 
         $("#overlay svg").click(function(){

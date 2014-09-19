@@ -46,8 +46,7 @@ body {
 }
 
 p {
-  font-size: 12px;
-  opacity: 0.8;
+  font-size: 14px;
 }
 
 .header {
@@ -124,21 +123,41 @@ a {
 	padding: 30px 0;
 	width: 100%;
 	clear: both;
-	xborder: 1px solid #999;
-	height: 300px;
+	height: 375px;
 }
 
 .background h2 {
 	width: 590px;
-	margin-bottom: 0;
+ 	margin-bottom: 0;
 	padding-bottom: 0;
+}
+
+.background h2.faq {
+	float: right;
+	margin-top: -27px;
 }
 	
 .background p {
-	width: 550px;
+	width: 560px;
 	padding-top: 5px;
+	padding-right: 40px;
 	float: left;
-  opacity: 0.65;
+	color: #aaa;
+	line-height: 1.5em;
+}
+
+.background p a { 
+	color: #fff !important;
+}
+
+.background p a:hover { 
+	text-decoration: underline;
+}
+
+.background p.faq {
+	xmargin-top: -10px;
+	padding-right: 0;
+	padding-left: 10px;
 }
 
 .footer {
@@ -154,6 +173,11 @@ a {
 
 .footer a { 	color: #ccc; }
 .footer a:hover { 	color: #fff; text-decoration: underline;}
+
+.footer img {
+	margin: 25px;
+	border: 0;
+}
 
 .subheader h1 {
 	font-size: 27px;
@@ -257,19 +281,19 @@ h2, a h2 {
 <a href="epochen/">
 <img src="index/time.png" width=265 height=265>	
 <h2>Epochen &amp; Sparten</h2>
-<p>Die zeitliche Übersicht erlaubt eine Detailbetrachtung der häufigsten Stichworte, Orte und Personen pro Zeitabschnitt.</p></a>
+<p>Die zeitliche Übersicht visualisiert die häufigsten Stichworte, Orte, Personen und Organisationen pro Zeitabschnitt.</p></a>
 </div>
 
 <div class="project">	
 <a href="stichworte/"><img src="index/tags.png" width=265 height=265>	
 <h2>Stichworte</h2>
-<p>Die häufigsten Stichworte werden der Größe nach abgebildet. Gemeinsames Auftreten mit anderen Begriffen wird durch Klicken angezeigt.</p></a>
+<p>Die häufigsten Stichworte werden der Größe nach abgebildet. Gemeinsames Auftreten wird durch Klicken visualisiert.</p></a>
 </div>
 
 <div class="project">	
 <a href="orte/"><img src="index/cities.png" width=265 height=265>	
 <h2>Orte &amp; Sparten</h2>
-<p>Übersicht der Städte mit den meisten Einträgen. Die Unterteilung der jeweiligen Stadt erfolgt durch die verschiedenen Sparten.</p></a>
+<p>Übersicht der Städte mit den meisten Einträgen. Die Ringe sind entsprechend der vertretenen Sparten unterteilt.</p></a>
 </div>
 
 <div class="project">	
@@ -289,7 +313,25 @@ h2, a h2 {
 
 	<h2>Hintergrund</h2>
 	<p>
-		Die Deutsche Digitale Bibliothek (DDB) ist ein Gemeinschaftsprojekt von Bund, Ländern und Kommunen, das zum Ziel hat, den freien Zugang zum kulturellen und wissenschaftlichen Erbe Deutschlands über ein Webportal zu ermöglichen. Die Visualisierungen sind das Resultat einer explorativen Untersuchung, die zum Ziel hat, innovative Übersichten über den Bestand der DDB zu entwickeln und in Form visueller und interaktiver Ansichten bereit zu stellen. Im Gegensatz zu existierenden Oberflächen digitaler Bibliotheken, die wenige Objekte in Form von Ergebnislisten präsentieren, werden neuartige Visualisierungen entwickelt, um die Streuung vieler Objekte entlang von Zeit, Ort, Person, Stichwörtern und anderen Dimensionen sichtbar zu machen. Die grundlegende Idee dabei ist, die Verteilung einer großen Anzahl an Kulturobjekten entlang der relevanten Facetten innovativ darzustellen und somit Betreibern und Nutzern der DDB einen einzigartigen Blick auf die Ausmaße des Bestandes zu ermöglichen.</p>
+		Die <a href="https://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a> (DDB) ist ein Gemeinschaftsprojekt von Bund, Ländern und Kommunen, das zum Ziel hat, den freien Zugang zum kulturellen und wissenschaftlichen Erbe Deutschlands über ein Webportal zu ermöglichen.
+			<br><br>
+		Die Visualisierungen sind das Resultat einer explorativen Untersuchung, die zum Ziel hat, innovative Übersichten über den Bestand der DDB zu entwickeln und in Form visueller und interaktiver Ansichten bereit zu stellen.
+		Im Gegensatz zu existierenden Suchoberflächen, die wenige Objekte in Form von Ergebnislisten präsentieren, werden hier neuartige Visualisierungen entwickelt, um die Streuung vieler Objekte entlang von Zeit, Ort, Thema und Person und anderen Dimensionen sichtbar zu machen.</p>
+	
+	<h2 class="faq">FAQ</h2>
+	
+	<p class="faq">
+<em>Wie hängen die Visualisierungen mit den Metadatenfeldern der DDB zusammen?</em><br>
+Die Visualisierungen basieren ausschließlich auf den Facetten, welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über die index-Methode bereitstellt.
+<br><br>
+<em>Sind die Visualisierungen barrierfrei?</em><br>
+Nein, im Moment sind die Seiten bzw. Visualisierungen leider noch nicht auf Barrierefreiheit hin optimiert.
+<br><br>
+<em>Warum stimmt manchmal nicht die Anzahl von Objekten in den Visualisierungen mit der entsprechenden Zahl auf der DDB-Seite überein?
+</em>
+<br>
+Die Visualisierungen basieren auf einem Schnappschuss der Daten von Juni 2014 und bilden nicht den aktuellsten Datenbestand der DDB ab.
+</p>	
 	
 	</div>
 </div>
@@ -297,6 +339,9 @@ h2, a h2 {
 <div class="footer">
 <div class="container">
 <h2>&nbsp;</h2>
+
+<a href="http://infovis.fh-potsdam.de/"><img height=100 width=300 src="index/infovisfhp.png" alt="Logo information+visualization FH Potsdam"></a>
+<a href="https://www.deutsche-digitale-bibliothek.de/"><img height=100 width=300 src="index/ddb.png" alt="Logo Deutsche Digitale Bibliothek"></a>
 
 <p>Ein Gemeinschaftsprojekt von <a href="http://fh-potsdam.de/">Fachhochschule Potsdam</a> und <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
 	

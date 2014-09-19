@@ -24,7 +24,6 @@ body {
     min-width: 1240px;    
 }
 
-a {color:#fff; text-decoration: underline;}
 a:link{color: white; text-decoration: underline;}
 a:visited{color: white; text-decoration: underline;}
 a:hover{color: white; text-decoration: underline;}
@@ -112,9 +111,11 @@ a:active{color: white; text-decoration: underline;}
   font-size: 17px;
 }
 
+.header .menu a, .header h1 { line-height:27px; }
+
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
-.menu a:active, .menu a:hover { background-color: #292929; color: #fff;}
+.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none; }
+.menu a.active, .menu a.hover { background-color: #292929; color: #fff;}
 
 .menu .social { float: right; padding: 22px 16px;}
 .menu .social a { padding:4px 8px; color:#cecece; text-decoration: none; height: 26px;}

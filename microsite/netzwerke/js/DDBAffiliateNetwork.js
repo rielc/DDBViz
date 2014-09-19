@@ -474,10 +474,9 @@ DDBAffiliateNetwork = function()
     this.gBrush.selectAll("rect")
       .attr("height", 45)
       .attr('transform', 'translate(0,0)')
-      .style("fill", "none")
-      .style('fill-opacity', 0.0)
-      .style("stroke", "#d2d2d2")
-      .style("stroke-location", "inside")
+      .style("fill", "#a40539")
+      .style('fill-opacity', 0.3)
+      .style("stroke", "none")
       .style("shape-rendering", "crisEdges");
 
     // these labels are in the timeline visible

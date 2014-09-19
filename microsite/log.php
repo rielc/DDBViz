@@ -9,7 +9,7 @@ if (
 	!empty($_POST["value"])
 ) {
 	$file = fopen("./logs/" . $id . ".csv", "a+");
-	$new_content = date("c") . ";" . $_POST["view"] . ";" . $_POST["type"] . ";" . $_POST["area"] . ";" . $_POST["value"] . "\n";
+	$new_content = date("c") . ";" . $_POST["view"] . ";" . $_POST["type"] . ";" . $_POST["area"] . ";" . trim(preg_replace('/\s\s+/', ' ', $_POST["value"])) . "\n";
 	fwrite($file, $new_content);
 	echo("written to $id");
 } else {

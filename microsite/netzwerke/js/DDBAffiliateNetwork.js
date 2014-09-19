@@ -230,6 +230,26 @@ DDBAffiliateNetwork = function()
 
   this.init = function() {
 
+    var fm_options = {
+        jQueryUI : false,
+        position : "right-bottom",
+        // name_placeholder:"Name please",                     
+        trigger_label : "Feedback",
+        title_label: "Beobachtungen, Ideen und Vorschläge",       
+        message_required : true,
+        show_asterisk_for_required : false,
+        feedback_url : "send_feedback",
+        submit_label: "Absenden",
+        email_required: false,
+        callback: function(data){ 
+          //console.log("feedback",data);
+          console.log(data);
+          log("netzwerke", "send", "feedback", data.message);
+        },
+    };
+
+    fm.init(fm_options);
+
     self = this;
 
     this.data = {};

@@ -3,8 +3,10 @@
 <head>
     <title>Orte - Deutsche Digitale Bibliothek visualisiert</title>
     <link rel="icon" type="image/png" href="../favicon.png" />
-    <script type="text/javascript" src="assets/scripts/jquery.js"></script>
+    <script src="../js/jquery-2.1.1.min.js"></script>
     <script src="assets/scripts/d3.v2.js"></script>
+    <script src="../js/jquery.feedback_me.js"></script>
+    <link rel="stylesheet" href="../css/jquery.feedback_me.css"></link>
     <script src="assets/scripts/piecharts.js"></script>
     <script src="../js/d3.tip.js"></script>
     <script src="assets/scripts/data-sets.js"></script>
@@ -404,18 +406,7 @@
         
 
 $('.button').click
-    (function() {
-
-        d3.select("#wrapper")
-            .transition()
-            .ease("exp-in-out")
-            .style("opacity", 0)
-            .transition()
-            .ease("exp-in-out")
-            .delay(400)
-            .duration(300)
-            .style("opacity", 1)        
-
+    ( function() {
         $('.Amsterdam_max').toggleClass('Amsterdam');
         $('.Argentoratum_max').toggleClass('Argentoratum');
         $('.Augsburg_max').toggleClass('Augsburg');
@@ -483,7 +474,6 @@ $('.button').click
         $('#abc').toggleClass('active');
         $('#big').toggleClass('dissolve');
         $('#alf').toggleClass('dissolve');
-
         return false;        
     });
         
@@ -498,14 +488,6 @@ $('.button').click
         // }
 
 
-        d3.select("#wrapper")
-            .style("opacity", 0)
-            .transition()
-            .ease("exp-in-out")
-            .duration(1500)
-            .style("opacity", 1);
-
-        $()    
 
     </script>
 </body>

@@ -51,12 +51,18 @@ DDBAffiliateNetwork = function()
 
   this.generateOverlay = function() {
 
-    this.overlay = d3.select("#overlay svg");
-    this.overlay
-      .style("display", "block")
+    this.overlay =  
+    d3.select("#overlay")
       .style("width", $(window).width())
-      .style("height", $(window).height()-$(".header").outerHeight(true))
-      .selectAll("*").remove();
+      .style("height", $(window).height()-10)
+      .style("display", "block");
+
+    this.overlaySVG = this.overlay.select("svg");
+    this.overlaySVG
+      .attr("width", $(window).width())
+      .attr("height", $(window).height()-10)
+      .selectAll("*")
+      .remove();
 
       var infos = [];
 
@@ -74,7 +80,7 @@ DDBAffiliateNetwork = function()
         d3.select("#affiliate_fct_id-" + examplePerson.affiliate_fct_id).style("fill-opacity", "1").style("fill", "a40539");
         infos.push({
           x : self.transformX(examplePerson),
-          y : self.transformY(examplePerson),
+          y : self.transformY(examplePerson)+$(".header").outerHeight(true),
           text : "Person",
           r: 0
         });
@@ -88,7 +94,7 @@ DDBAffiliateNetwork = function()
         d3.select("#affiliate_fct_id-" + exampleOrganisation.affiliate_fct_id).style("fill-opacity", "1");
         infos.push({
           x : self.transformX(exampleOrganisation),
-          y : self.transformY(exampleOrganisation),
+          y : self.transformY(exampleOrganisation)+$(".header").outerHeight(true),
           text : "Organisation",
           r: 0
         });
@@ -103,7 +109,7 @@ DDBAffiliateNetwork = function()
         d3.select("#link-"+exampleLink.source.affiliate_fct_id+'_'+exampleLink.target.affiliate_fct_id).call(this.highlightLink).style("stroke-width", 5).style("stroke", "#fff");
         infos.push({
           x : self.transformX(linkPosition),
-          y : self.transformY(linkPosition),
+          y : self.transformY(linkPosition)+$(".header").outerHeight(true),
           text : "Gemeinsames vorkommen",
           r: 0
         });
@@ -112,26 +118,26 @@ DDBAffiliateNetwork = function()
 
       infos.push({
         x : $(".timeline-tip").position().left+15,
-        y : $(".timeline-tip").position().top+55,
+        y : $(".timeline-tip").position().top+55+$(".header").outerHeight(true),
         text : "Vorheriger Zeitraum",
         r: 0
       });
 
       infos.push({
         x : $(".timeline-tip").position().left+this.timelineWidth+45,
-        y : $(".timeline-tip").position().top+55,
+        y : $(".timeline-tip").position().top+55+$(".header").outerHeight(true),
         text : "Nächster Zeitraum",
         r: 0
       });
 
       infos.push({
         x : ($("#overlay").width()/2-600)+950,
-        y : 75,
+        y : 75+$(".header").outerHeight(true),
         text : "Anzahl der Personen und Organisationen eines Zeitraumes",
         r: 30
       });
 
-    this.overlay
+    this.overlaySVG
       .selectAll("g")
       .data(infos)
       .enter()
@@ -234,15 +240,26 @@ DDBAffiliateNetwork = function()
 
     // create the force-directed-graph
     this.force = d3.layout.force()
-      .charge(function (d) { 
-        return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)
-        *
-        self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)*-0.5; })
+      .charge( function (d) { 
+        return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence) *
+          self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence) *-0.5;
+      })
       .friction(0.7)
-      .linkDistance(function (d) { 
-        return self.radius(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence)
-         + 20 + 
-        self.radius(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence)})
+      .linkStrength( function (d) {
+        var strength = 
+          (
+            d.common_occurrence / self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence + 
+            d.common_occurrence / self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence
+          ) / 2;
+          console.log( (strength > 1.0) ? 1.0 : strength)
+          return (strength > 1.0) ? 1.0 : strength;
+      })
+      .linkDistance( function (d) { 
+        return ( 
+          self.radius(self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence) + 20 + 
+          self.radius(self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence)
+          );
+      })
       .size([  this.networkWidth, this.networkHeight]);
       // .linkStrength(function (d) {
       //     if (d.common_occurrence =! undefined) { console.log("values"); console.log("no values"); return d.common_occurrence } else { return 0.5 }
@@ -278,10 +295,13 @@ DDBAffiliateNetwork = function()
         log("netzwerke", "open-infolayer", "timeline", true);
       });
 
-    d3.select('#overlay')
+    d3.select('#overlay svg')
       .on("click", function (d) {
+
+        self.overlay
+          .style("display", "none");
+
         self.tip.hide();
-        self.overlay.style("display", "none");
         self.affiliates.call(self.resetNode);
         self.links.call(self.resetLink);
         self.force.start();
@@ -1093,15 +1113,17 @@ function clearString(string) {
 }
 
 function clearName (name) {
-  var newname = "";
-  if (name.indexOf(",") > -1) {
-    var strings = name.split(",");
-    newName = strings[1]+" "+strings[0];
-  } else {
-    newName = name;
-  }
-  if (name.indexOf("(Fotograf)") > -1) {
-    newName = newName.replace("(Fotograf)", "");
-  }
-  newName = newName.replace( new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"), ""); // clear the years out of the name
-  return newName; };
+  // var newname = "";
+  // if (name.indexOf(",") > -1) {
+  //   var strings = name.split(",");
+  //   newName = strings[1]+" "+strings[0];
+  // } else {
+  //   newName = name;
+  // }
+  // if (name.indexOf("(Fotograf)") > -1) {
+  //   newName = newName.replace("(Fotograf)", "");
+  // }
+  // newName = newName.replace( new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"), ""); // clear the years out of the name
+  return name;
+  //return newName;
+ };

@@ -3,17 +3,18 @@ var overlay = {};
 function generateOverlay () {
     
     overlay
-    .style("display", "inline")
+    .style("display", "inline")        
+    .style("width", $(window).width)
     .selectAll("*").remove();    
 
     if ($("#abc").hasClass('active') ){
         var f = document.createEvent('UIEvents');
-        f.initUIEvent('click', true, true /* ... */);
+        f.initUIEvent('click', true, true, window, 1);
         d3.select(".button").classed("active", true).node().dispatchEvent(f);
     };
 
     var e = document.createEvent('UIEvents');
-    e.initUIEvent('mouseover', true, true /* ... */);
+    e.initUIEvent('mouseover', true, true, window, 1);
     d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
 
 
@@ -21,10 +22,10 @@ function generateOverlay () {
 
     var infos = 
         [
-            { x: 195, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
-            { x: 170, y: 350, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
-            { x: 1000, y: 510, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
-            { x: 50, y: 130, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
+            { x: 395, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
+            { x: 190, y: 360, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
+            { x: 1000, y: 520, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
+            { x: 85, y: 140, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
         ];
 
 
@@ -59,7 +60,31 @@ function generateOverlay () {
 
     $(document).ready( function() {
 
-     overlay = d3.select("#overlay svg");     
+    fm_options = {
+        jQueryUI : false,
+        position : "right-bottom",
+        // name_placeholder:"Name please",                     
+        trigger_label : "Feedback",
+          title_label: "Beobachtungen, Ideen und Vorschläge",             
+        message_required : true,
+        show_asterisk_for_required : false,
+        feedback_url : "send_feedback",
+        submit_label: "Absenden",
+        email_required: false,
+        callback: function(data){ 
+        },
+    };
+
+        fm.init(fm_options);
+
+    d3.select("#wrapper")
+        .style("opacity", 0)
+        .transition()
+        .ease("exp-in-out")
+        .duration(1500)
+        .style("opacity", 1);
+
+         overlay = d3.select("#overlay svg");     
         
       d3.select('.help')
         .selectAll("img")
@@ -75,7 +100,7 @@ function generateOverlay () {
 
         $("#overlay svg").click(function(){
             var e = document.createEvent('UIEvents');
-            e.initUIEvent('mouseout', true, true /* ... */);
+            e.initUIEvent('mouseout', true, true, window, 1);
             d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
             d3.select(".help img")
                 .classed("active", false);

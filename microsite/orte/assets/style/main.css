@@ -31,8 +31,7 @@ body {
     padding: 15px;
     }
 
-.pie-arc {
-  transition: fill .4s ease-in-out; }
+/*.pie-arc { transition: fill .4s ease-in-out; }*/
 
 
 .header {
@@ -83,7 +82,7 @@ body {
 }
 
 .subheader p {
-    font-size: 12px;
+    font-size: 14px;
     opacity: .8;
 }
 
@@ -260,7 +259,6 @@ p.value {
 }
 
 #overlay {
-  width: 1200px;
   display: block;
   margin: auto;
   position: relative;
@@ -271,7 +269,7 @@ p.value {
   display: none;
   position: absolute;
   height: 900px;
-  width: 100%;
+  width: 1200px;
   background: rgba(34, 34, 34, 0);
   z-index: 100;
   left: 0;

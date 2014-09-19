@@ -514,20 +514,21 @@ function generateOverlay () {
     
     overlay
     .style("display", "inline")
+    .style("width", $(window).width)
     .selectAll("*").remove();    
 
     if (selectedKeywordID != 4){ 
         var e = document.createEvent('UIEvents');
-        e.initUIEvent('click', true, true /* ... */);
+        e.initUIEvent('click', true, true, window, 1);
         d3.select("#t4").node().dispatchEvent(e);
    }
     var infos = 
         [
             { x: 145, y: 190, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
             { x: 960, y: 200, text: "Viele gemeinsame Einträge sind rot", r: 20},
-            { x: 240, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
-            { x: 680, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
-            { x: 280, y: 35, text: "Verlinkung zu www.ddb.de", r: 20}
+            { x: 280, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
+            { x: 710, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
+            { x: 310, y: 35, text: "Verlinkung zu www.deutsche-digitale-bibliothek.de", r: 20}
         ];
 
 
@@ -565,6 +566,23 @@ function generateOverlay () {
 
     $(document).ready( function() {
         
+        fm_options = {
+            jQueryUI : false,
+            position : "right-bottom",
+            // name_placeholder:"Name please",                     
+            trigger_label : "Feedback",
+              title_label: "Beobachtungen, Ideen und Vorschläge",             
+            message_required : true,
+            show_asterisk_for_required : false,
+            feedback_url : "send_feedback",
+            submit_label: "Absenden",
+            email_required: false,
+            callback: function(data){ 
+            },
+        };
+
+        fm.init(fm_options);
+        
      overlay = d3.select("#overlay svg");     
         
       d3.select('.help')
@@ -582,7 +600,7 @@ function generateOverlay () {
         
         $("#overlay svg").click(function(){
             var e = document.createEvent('UIEvents');
-                e.initUIEvent('click', true, true /* ... */);
+                e.initUIEvent('click', true, true, window, 1);
                 d3.select("#t4").node().dispatchEvent(e);
                 d3.select(".help img")
                     .classed("active", false)
@@ -786,12 +804,12 @@ function generateOverlay () {
                                     .append("span")
                                     .attr("class", "activeSmall")
                                     .attr("id", "value")
-                                    .text( function (d) { return "Stichwort: "})
+                                    .text( function (d) { return "Stichwort: "+keywordCount[i].value+" hat "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
                                     .attr("target", "_blank")
                                     .attr("class", "activeLink")
-                                    .text(function (d){return keywordCount[i].value+" hat "+formatNumber(keywordCount[i].c)+" Einträge";});
+                                    .text(function (d){return formatNumber(keywordCount[i].c)+" Einträge";});
                         }
                         }
                     } else {

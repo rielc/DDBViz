@@ -168,11 +168,10 @@ img.active {
 .header .menu a , .header h1 { line-height: 27px; }
 
 .header .menu { float:right; }
-.header .menu a { float:left; display:block; padding:22px;}
+.header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}
-.menu a { color:#cecece; text-decoration: none; }
 
-.menu .social { float: right; padding: 22px 16px;}
+.menu .social { font-size: 17px; float: right; padding: 22px 16px;}
 .menu .social a { padding:0px 8px; color:#cecece; text-decoration: none; vertical-align: middle}
 .menu .social a:hover  { color: #fff; background-color:#363636; }
 

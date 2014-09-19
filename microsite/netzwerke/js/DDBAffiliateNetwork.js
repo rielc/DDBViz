@@ -352,12 +352,12 @@ DDBAffiliateNetwork = function()
       self.collectNewNodes(self.currentTimeFctID, self.timeFcts.length);
         window.setTimeout( function () {
           $('.subheader').mouseover( function() {
-            $(".timeline-tip").attr("class", "timeline-tip active");
-            an.resizeWindow();  
+            // $(".timeline-tip").attr("class", "timeline-tip active");
+            // an.resizeWindow();
           });
           $('#network').mouseover( function() {
-            $(".timeline-tip").attr({"class": "timeline-tip inactive"});
-            an.resizeWindow();
+            // $(".timeline-tip").attr({"class": "timeline-tip inactive"});
+            // an.resizeWindow();
           });
           //$('.subheader').mouseover();
 
@@ -489,12 +489,12 @@ DDBAffiliateNetwork = function()
       .attr("y1", this.timelineHeight/2+1)
       .attr("y2", this.timelineHeight/2+1)
       .transition()
-      .delay(2000)
+      // .delay(2000)
       .duration(1000)
       .attr("x2", this.timelineWidth);
 
-      d3.select(".left-arrow").transition().delay(2000).duration(200).style("opacity", 1.0);
-      d3.select(".right-arrow").transition().delay(3000).duration(200).style("opacity", 1.0);
+      d3.select(".left-arrow").transition().delay(1000).duration(200).style("opacity", 1.0);
+      d3.select(".right-arrow").transition().delay(1000).duration(200).style("opacity", 1.0);
 
     this.brush = d3.svg.brush()
       .x(this.brushScale)
@@ -534,7 +534,7 @@ DDBAffiliateNetwork = function()
       .style("shape-rendering", "crisEdges")
       .transition()
       .duration(100)
-      .delay(function(d, i) { return 2000+i*50 })
+      .delay(function(d, i) { return 1000+i*25 })
       .attr('height', function (d, i) { if (self.data[d] != undefined) { return yScale(self.data[d].nodes.length); } else { return 0; }} )
       .attr('y', function (d, i) { if (self.data[d] != undefined) { return 40-yScale(self.data[d].nodes.length); } else { return 0; }} );
 
@@ -555,7 +555,7 @@ DDBAffiliateNetwork = function()
       .style('fill-opacity', 0)
       .transition()
       .duration(100)
-      .delay(function(d, i) { return 2000+i*50 })
+      .delay(function(d, i) { return 1000+i*25 })
       .style('fill-opacity', 1);
       d3.select(".background").style("cursor", "pointer");
       d3.selectAll(".resize").style("cursor", "pointer");

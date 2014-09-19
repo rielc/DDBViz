@@ -44,7 +44,7 @@ DDBAffiliateNetwork = function()
       n.affiliate_fct.match(new RegExp("Politiker", "gi")) ||
       n.affiliate_fct.match(new RegExp("\\([0-9]{0,4}\-[0-9]{0,4}\\)", "gi"))
     )*/ { type = 'person'; }
-      console.log(type);
+      //console.log(type);
     return type;
   };
     
@@ -243,7 +243,7 @@ DDBAffiliateNetwork = function()
         email_required: false,
         callback: function(data){ 
           //console.log("feedback",data);
-          console.log(data);
+          //console.log(data);
           log("netzwerke", "send", "feedback", data.message);
         },
     };
@@ -271,7 +271,6 @@ DDBAffiliateNetwork = function()
             d.common_occurrence / self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence + 
             d.common_occurrence / self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence
           ) / 2;
-          console.log( (strength > 1.0) ? 1.0 : strength)
           return (strength > 1.0) ? 1.0 : strength;
       })
       .linkDistance( function (d) { 
@@ -446,7 +445,7 @@ DDBAffiliateNetwork = function()
 
     function brushEvent () {
 
-      console.log(d3.mouse(this)[0]);
+      //console.log(d3.mouse(this)[0]);
       d0 = Math.round(self.brushScale.invert( d3.mouse(this)[0]) );
       //console.log("asdasd" + d3.mouse(d3.select("#timeline"))[0]);
 
@@ -457,7 +456,7 @@ DDBAffiliateNetwork = function()
       self.currentTimeFctID = d0;
       d3.select(this).call(self.brush.extent([self.currentTimeFctID, d1]));
 
-      console.log(self.currentTimeFctID+","+d1);
+      //console.log(self.currentTimeFctID+","+d1);
 
       d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
       d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");

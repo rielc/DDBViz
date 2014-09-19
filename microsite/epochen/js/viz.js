@@ -22,7 +22,7 @@ $(document).ready(function(){
         email_required: false,
         callback: function(data){ 
           //console.log("feedback",data);
-          log("epochen", "send", "feedback", data);
+          log("epochen", "send", "feedback", data.message);
         },
     };
 

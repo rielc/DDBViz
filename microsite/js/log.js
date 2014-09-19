@@ -6,6 +6,7 @@ function log(view, type, area, value){
 		area: area,
 		value: value.toString()
 	};
-	console.log("logging", payload);
-	$.post( "../log.php", payload);
+	
+	if (view=="index") $.post( "log.php", payload);
+	else $.post( "../log.php", payload);
 }

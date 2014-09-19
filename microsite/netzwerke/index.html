@@ -83,7 +83,7 @@
       if (an.currentTimeFctID > 0) {
         an.currentTimeFctID--;
         log("netzwerke", "click-left-button", "timeline", an.timeNames[an.currentTimeFctID]);
-        console.log(an.currentTimeFctID + " - " +an.currentTimeFctID+1);
+        // console.log(an.currentTimeFctID + " - " +an.currentTimeFctID+1);
         an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
         d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
         d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");

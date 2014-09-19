@@ -1022,7 +1022,7 @@ DDBAffiliateNetwork = function()
   this.saveOrganisation = function (affiliate_fct_id) {
     if (self.organisationIDs.indexOf(affiliate_fct_id) == -1) {
         self.organisationIDs.push(affiliate_fct_id);
-        console.log("this.organisationIDs = [" + self.organisationIDs+"];");
+        // console.log("this.organisationIDs = [" + self.organisationIDs+"];");
     } };
   this.openDDB = function (mode, data) {
     switch(mode) {

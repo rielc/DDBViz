@@ -269,9 +269,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     return dataTimeValues.indexOf(d.timeId) > -1;
   })
 
-  console.log("data", data, data[0]);
-  console.log("dataTime", dataTime, dataTime[0]);
-  console.log("dataSector", dataSector, dataSector[0]);
+  // console.log("data", data, data[0]);
+  // console.log("dataTime", dataTime, dataTime[0]);
+  // console.log("dataSector", dataSector, dataSector[0]);
 
   // if have clean that mess up... d3.nest?, precalc data?
   var nested = dataSector.map(function(d){
@@ -310,9 +310,9 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
  nested.sort(function(a,b){ return d3.ascending(a.total, b.total); })
 
-  console.log("nested",nested)
+  // console.log("nested",nested)
   stack(nested);
-  console.log("layers",nested)
+  // console.log("layers",nested)
   
   linepadding = 10;
   lineheight = height / nested.length -linepadding;
@@ -720,7 +720,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
     selected.pop();
 
-    console.log("FILTER", facetRange)
+    // console.log("FILTER", facetRange)
 
     //https://api.deutsche-digitale-bibliothek.de/search?time_fct=time_36100&oauth_consumer_key=PFxeYlfQT6il4h0KFtowd297dBEZPgho0X4YzEQAn3YSFk3ISS61407155687299
 
@@ -762,7 +762,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   e.append("div")
     .attr("class", "wordArea")
     .each(function(d){
-      console.log(d)
+      // console.log(d)
       //drawWords(d3.select(this), d, [])
     })
 
@@ -787,7 +787,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   }
 
   function clickWord(d,key){
-    console.log(key,d);
+    // console.log(key,d);
 
   }
 
@@ -873,7 +873,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   var barWidth = 5;
   var barPadding = 5;
 
-  console.log(dataType)
+  // console.log(dataType)
 
   var createTypeLegend = once(function() {
     sidesvg.append("g")
@@ -934,7 +934,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       //.attr("y", function(d) { return yScaleBarLog(d.count); })
       .attr("width", function(d) { return yScaleBarLog2(d.count); })
       .on('click', function(d){
-        console.log(d);
+        // console.log(d);
         var url = ddbUrl +
           "&facetValues%5B%5D=sector_fct%3D"+dataSector.get(d.key,"value") +
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
@@ -960,7 +960,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide)
       .on('click', function(d){
-        console.log(d)
+        // console.log(d)
         var url = ddbUrl +
           "&facetValues%5B%5D=sector_fct%3D"+dataSector.get(d.key,"value") +
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
@@ -1205,10 +1205,10 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         else if(i>0) renderFilter(dataTimeValues.slice(0,i),true)
       })
       .each("end",  function(d,i){
-        console.log("END",i, dataTime.length,dataTime)
+        // console.log("END",i, dataTime.length,dataTime)
 
         if(i == dataTime.length-1) {
-          console.log("END Timeline");
+          // console.log("END Timeline");
           d3.transition().delay(1000).each("end", function(){
             insertBrush();
             d3.select(".skip").style("display","none");

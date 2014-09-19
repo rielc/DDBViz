@@ -51,11 +51,13 @@ p {
 }
 
 .header {
+	margin: 0;
+	padding: 0;
   background: #363636;
   z-index:10;
-  padding-bottom: 10px;
+ 	padding-bottom: 10px;
   position: relative;
-  height:60px;
+  height: 60px;
 }
 
 .header h1 {
@@ -69,16 +71,17 @@ p {
   padding-top: 12px;
 }
 
-.header h1 span { display:inline;}
+.header h1 span { display: inline;}
 
 .header span, .header a {
   font-weight: normal;
   font-size: 17px;
-  /* text-transform: initial; */
   font-weight: 500;
   color: #FFFFFF;
   font-size: 17px;
 }
+
+.header .menu a , .header h1 { line-height: 27px; }
 
 .header .menu { float:right; }
 .header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none;}
@@ -116,52 +119,27 @@ a {
   margin-top: 20px;
 }
 
-.feedback {
+.background {
 	background: #171717;	
 	margin: 0;
 	padding: 30px 0;
 	width: 100%;
 	clear: both;
+	xborder: 1px solid #999;
+	height: 300px;
 }
 
-.feedback h2 {
-	width: 305px;
+.background h2 {
+	width: 590px;
 	margin-bottom: 0;
 	padding-bottom: 0;
-	margin-left: 305px;
-	float: left;
 }
 	
-.feedback p {
-	width: 265px;
-	xpadding-top: 7px;
-	margin-left: 305px;
-	margin-right: 40px;
+.background p {
+	width: 550px;
+	padding-top: 5px;
 	float: left;
   opacity: 0.65;
-	
-}
-
-.feedback textarea {
-	width: 255px;
-	height: 100px;
-	margin: 10px 0 0 0;
-	padding: 5px;
-	float: left;
-	background: #333;
-	resize: none;	
-	border: 0 solid #999;
-}
-
-.feedback textarea:focus {
-	background: #ccc;	
-}
-
-.feedback input {
-	clear: both;
-	margin: 0;
-	padding: 0;
-	margin-top: 180px;
 }
 
 .footer {
@@ -304,18 +282,13 @@ h2, a h2 {
 	
 </div></div>
 
-<div class="feedback">
+<div class="background">
+	
 <div class="container">
 
-	<h2>Feedback?</h2>
+	<h2>Hintergrund</h2>
 	<p>
-		Bitte teilen Sie uns Ihre Beobachtungen, Ideen und Vorschläge zu den hier vorgestellten Visualisierungen mit.<br><br>Schreiben Sie Ihre Gedanken bitte in die nebenstehende Box und wählen ‘Absenden’.
-	</p>
-	
-	<form action="#" method="get" accept-charset="utf-8">
-			<textarea name="text"></textarea>
-			<input type="submit" value="Absenden">
-	</form>
+		Die Deutsche Digitale Bibliothek (DDB) ist ein Gemeinschaftsprojekt von Bund, Ländern und Kommunen, das zum Ziel hat, den freien Zugang zum kulturellen und wissenschaftlichen Erbe Deutschlands über ein Webportal zu ermöglichen. Die Visualisierungen sind das Resultat einer explorativen Untersuchung, die zum Ziel hat, innovative Übersichten über den Bestand der DDB zu entwickeln und in Form visueller und interaktiver Ansichten bereit zu stellen. Im Gegensatz zu existierenden Oberflächen digitaler Bibliotheken, die wenige Objekte in Form von Ergebnislisten präsentieren, werden neuartige Visualisierungen entwickelt, um die Streuung vieler Objekte entlang von Zeit, Ort, Person, Stichwörtern und anderen Dimensionen sichtbar zu machen. Die grundlegende Idee dabei ist, die Verteilung einer großen Anzahl an Kulturobjekten entlang der relevanten Facetten innovativ darzustellen und somit Betreibern und Nutzern der DDB einen einzigartigen Blick auf die Ausmaße des Bestandes zu ermöglichen.</p>
 	
 	</div>
 </div>

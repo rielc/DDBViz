@@ -315,6 +315,8 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
   color: #FFFFFF;
 }
 
+.header .menu a , .header h1 { line-height: 27px; }
+
 .header .menu { float:right; }
 .header .menu a { float:left; display:block; padding:22px;}
 .menu a.active, .menu a:hover  { background-color: #292929; color: #fff;}

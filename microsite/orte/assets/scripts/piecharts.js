@@ -110,7 +110,7 @@ function generateOverlay () {
         
     });
 
-function drawPie(dataSet, selectString, outerRadius) {
+function drawPie(dataSet, selectString, outerRadius, cityName) {
     // Color Scale Handling...
     var color = d3.scale.ordinal().range(['#be708b', '#91b2da', '#78d2bb', '#41a069', '#c06d45', '#e3a747', '#a9c54a' ]);
 
@@ -250,6 +250,7 @@ function drawPie(dataSet, selectString, outerRadius) {
 	   .enter()
             .append("svg:a")
             .attr("xlink:href", function(d) { return d.data.link; })
+            .on("click", function (d) { log("orte", "click", "arc", "Stadt:" + cityName+", Sparte:"+d.data.legendLabel+", url:"+d.data.link);} )
             .attr("target", "_blank")
         .append('svg:g')
         .attr('class', 'slice')

@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../css/jquery.feedback_me.css"></link>
     <script src="assets/scripts/piecharts.js"></script>
     <script src="../js/d3.tip.js"></script>
+    <script src="../js/log.js"></script>
     <script src="assets/scripts/data-sets.js"></script>
     <link href="../css/font-awesome.min.css" rel="stylesheet">
     <meta charset="utf-8">
@@ -336,7 +337,7 @@
         var min = 3324;
         var valueScale = d3.scale.sqrt().domain([min, max]).range([25, 165]);
 
-        drawPie(dataSet[name], selector, valueScale(townSet.value));
+        drawPie(dataSet[name], selector, valueScale(townSet.value), name);
     }
 
 

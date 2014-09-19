@@ -6,19 +6,16 @@ function generateOverlay () {
     .style("display", "inline")        
     .style("width", $(window).width)
     .selectAll("*").remove();    
-
+    //wenn button nach abc sortiert ist, mach das rückgängig
     if ($("#abc").hasClass('active') ){
         var f = document.createEvent('UIEvents');
         f.initUIEvent('click', true, true, window, 1);
         d3.select(".button").classed("active", true).node().dispatchEvent(f);
     };
-
+    //mouseover bei stuttgart
     var e = document.createEvent('UIEvents');
     e.initUIEvent('mouseover', true, true, window, 1);
     d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
-
-
-
 
     var infos = 
         [
@@ -28,7 +25,7 @@ function generateOverlay () {
             { x: 85, y: 140, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
         ];
 
-
+    //magie mit mathe
     overlay
     .selectAll("g")
     .data(infos)
@@ -59,7 +56,7 @@ function generateOverlay () {
 }
 
     $(document).ready( function() {
-
+    // feedback feld
     fm_options = {
         jQueryUI : false,
         position : "right-bottom",
@@ -72,27 +69,31 @@ function generateOverlay () {
         submit_label: "Absenden",
         email_required: false,
         callback: function(data){ 
+            //logging 
+            log("orte", "send", "feedback", data.message);
+
         },
     };
 
         fm.init(fm_options);
-
+    //bei seitenstart - animation abspielen fade in
     d3.select("#wrapper")
         .style("opacity", 0)
         .transition()
         .ease("exp-in-out")
         .duration(1500)
         .style("opacity", 1);
-
-         overlay = d3.select("#overlay svg");     
+    //help button overlay zuweisen
+    overlay = d3.select("#overlay svg");     
         
-      d3.select('.help')
+    d3.select('.help')
         .selectAll("img")
         .data([{active:false}])
         .enter()
         .append("img")
-        .attr("src", "assets/icons/info.svg")
+        .attr("src", "icons/info.svg")
         .on("click", function(d){
+            log("orte", "open-infolayer", "help", d.active);
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
             if(d.active) generateOverlay(); 
@@ -105,11 +106,14 @@ function generateOverlay () {
             d3.select(".help img")
                 .classed("active", false);
             overlay.style("display", "none")
-                
+            log("orte", "close-infolayer", "help", d.active);    
         });
         
     });
+log("orte", "load", "page", "loaded");
 
+
+//all die schönen kreise entstehen hier
 function drawPie(dataSet, selectString, outerRadius, cityName) {
     // Color Scale Handling...
     var color = d3.scale.ordinal().range(['#be708b', '#91b2da', '#78d2bb', '#41a069', '#c06d45', '#e3a747', '#a9c54a' ]);
@@ -123,12 +127,12 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
     
     var textLabel;
     var textMagnitude;
-    
+    //kommas zu punken
     function formatNumber (number) {
     var reg = new RegExp(",", 'g');
     return d3.format(",")(number).replace(reg, ".");
     }
-    
+    //kreisbögen füllen, animieren, an und ausknipsen lalala
     function fillArc() {
         var arc = d3.selectAll("." + this.getAttribute('class'));
 
@@ -155,37 +159,6 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
         .style('fill', function (d,i){
             return color(i);});
     }
-    
-    
-    function displayLabel() {
-        var arc = d3.select(this);
-
-        textLabel = canvas.append('svg:text')
-            .data(arc.data())
-            .attr('dy', '.3em')
-            .style('text-anchor', 'middle')
-            .style('fill', '#ccc')
-            .style('stroke', 'none')
-            .style('opacity', 1)
-            .style('font-size', '0.9em')
-            .text(function (d) {
-                return d.data.legendLabel;});
-    }
-    
-    function displayMagnitude() {
-        var arc = d3.select(this);
-
-        textMagnitude = canvas.append('svg:text')
-            .data(arc.data())
-            .attr('dy', '1.7em')
-            .style('text-anchor', 'middle')
-            .style('fill', '#666')
-            .style('stroke', 'none')
-            .style('opacity', 1)
-            .style('font-size', '0.9em')
-            .text(function (d) {
-                return d.data.magnitude;});
-    }
 
     function restoreArcColor() {
         var arc = d3.select(this);
@@ -201,22 +174,6 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
         .duration(350)
         .style('opacity', 1).style('fill', function (d, i) {
             return color(i);});
-    }
-
-    function removeLabel() {
-        if (textLabel == null) {
-            return;
-        }
-
-        textLabel.remove();
-    }
-    
-    function removeMagnitude() {
-        if (textMagnitude == null) {
-            return;
-        }
-
-        textMagnitude.remove();
     }
 
     // Create a drawing canvas...
@@ -250,12 +207,11 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
 	   .enter()
             .append("svg:a")
             .attr("xlink:href", function(d) { return d.data.link; })
-            .on("click", function (d) { log("orte", "click", "arc", "Stadt:" + cityName+", Sparte:"+d.data.legendLabel+", url:"+d.data.link);} )
+            .on("click", function (d) { 
+                log("orte", "click", "arc", "Stadt:" + cityName+", Sparte:"+d.data.legendLabel+", url:"+d.data.link);} )
             .attr("target", "_blank")
         .append('svg:g')
         .attr('class', 'slice')
-        // Set the color for each slice to be chosen from the color function defined above
-        // This creates the actual SVG path using the associated data (pie) with the arc drawing function
         .style('stroke', 'none')
         .style("fill", "#000");
     
@@ -277,11 +233,7 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide)
         .on('mouseout.restoreArcColor', restoreArcColor)
-        .on('mouseout.removeLabel', removeLabel)
-        .on('mouseout.removeMagnitude', removeMagnitude)
         .on('mouseover.refillArc', refillArc)
         .on('mouseover.fillArc', fillArc);
-//        .on('mouseover.displayLabel', displayLabel)
-//        .on('mouseover.displayMagnitude', displayMagnitude);
     
 }

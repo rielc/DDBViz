@@ -1,4 +1,3 @@
-// Data Used for this example...
 var dataSet = {
 
     Dresden: [

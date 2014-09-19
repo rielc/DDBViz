@@ -2,18 +2,18 @@
 <html lang="de">
 <head>
     <title>Orte - Deutsche Digitale Bibliothek visualisiert</title>
+    <meta charset="utf-8">
     <link rel="icon" type="image/png" href="../favicon.png" />
     <script src="../js/jquery-2.1.1.min.js"></script>
-    <script src="assets/scripts/d3.v2.js"></script>
+    <script src="js/d3.v2.js"></script>
     <script src="../js/jquery.feedback_me.js"></script>
     <link rel="stylesheet" href="../css/jquery.feedback_me.css"></link>
-    <script src="assets/scripts/piecharts.js"></script>
-    <script src="../js/d3.tip.js"></script>
     <script src="../js/log.js"></script>
-    <script src="assets/scripts/data-sets.js"></script>
+    <script src="js/viz_orte.js"></script>
+    <script src="../js/d3.tip.js"></script>
+    <script src="js/data-sets.js"></script>
     <link href="../css/font-awesome.min.css" rel="stylesheet">
-    <meta charset="utf-8">
-    <link href="assets/style/main.css" rel="stylesheet">
+    <link href="style/main.css" rel="stylesheet">
 
     <script type="text/javascript"> 
     var $buoop = {}; 
@@ -57,8 +57,8 @@
 </div>  
 <div class="container">    
     <div class="sorting">
-        <a href="#" class="button"><img src="assets/icons/top.svg" id="top" class="active">
-        <img src="assets/icons/abc.svg" id="abc" class=""></a>
+        <a href="#" class="button"><img src="icons/top.svg" id="top" class="active">
+        <img src="icons/abc.svg" id="abc" class=""></a>
     </div>
 </div>
 
@@ -408,6 +408,8 @@
 
 $('.button').click
     ( function() {
+        log("stichworte", "click","sort-button","sort-changed");
+
         $('.Amsterdam_max').toggleClass('Amsterdam');
         $('.Argentoratum_max').toggleClass('Argentoratum');
         $('.Augsburg_max').toggleClass('Augsburg');
@@ -475,7 +477,9 @@ $('.button').click
         $('#abc').toggleClass('active');
         $('#big').toggleClass('dissolve');
         $('#alf').toggleClass('dissolve');
-        return false;        
+        return false; 
+
+
     });
         
 

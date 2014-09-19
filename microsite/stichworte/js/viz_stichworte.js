@@ -1,3 +1,4 @@
+//keywords, aus denen das html gerüst gebaut wird.
 var keywords = [
     {"id":4,"value":1148022,"name":"Fotos"},
     {"id":5,"value":480195,"name":"Kapitel"},
@@ -503,20 +504,20 @@ var keywords = [
 
 var overlay = {};
 var selectedKeywordID = 0;
-
+//kommas zu punkten
 function formatNumber (number) {
     var reg = new RegExp(",", 'g');
     return d3.format(",")(number).replace(reg, ".");
 }
 
-
+//hilfe button overlay
 function generateOverlay () {
     
     overlay
     .style("display", "inline")
     .style("width", $(window).width)
     .selectAll("*").remove();    
-
+//klicke automatisch die ID-4 an (Fotos)
     if (selectedKeywordID != 4){ 
         var e = document.createEvent('UIEvents');
         e.initUIEvent('click', true, true, window, 1);
@@ -531,7 +532,7 @@ function generateOverlay () {
             { x: 310, y: 35, text: "Verlinkung zu www.deutsche-digitale-bibliothek.de", r: 20}
         ];
 
-
+//wieder magie mit mathe
     overlay
     .selectAll("g")
     .data(infos)
@@ -565,7 +566,7 @@ function generateOverlay () {
     var csvData = [];
 
     $(document).ready( function() {
-        
+        //feedback button        
         fm_options = {
             jQueryUI : false,
             position : "right-bottom",
@@ -578,11 +579,13 @@ function generateOverlay () {
             submit_label: "Absenden",
             email_required: false,
             callback: function(data){ 
+                log("stichworte", "send", "feedback", data.message);
+
             },
         };
 
         fm.init(fm_options);
-        
+    //overlay generieren, wenn man auf den help button klickt        
      overlay = d3.select("#overlay svg");     
         
       d3.select('.help')
@@ -592,13 +595,17 @@ function generateOverlay () {
         .append("img")
         .attr("src", "icons/info.svg")
         .on("click", function(d){
+            log("stichworte", "open-infolayer", "help", d.active);
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
             if(d.active) generateOverlay();
             
         });
-        
+        //overlay ausblenden + ID 4 abwählen        
         $("#overlay svg").click(function(){
+            
+            log("stichworte", "close-infolayer", "help", "active:false");
+
             var e = document.createEvent('UIEvents');
                 e.initUIEvent('click', true, true, window, 1);
                 d3.select("#t4").node().dispatchEvent(e);
@@ -607,11 +614,11 @@ function generateOverlay () {
                 overlay.style("display", "none")
                 
         });
-
+        //vorher erstellter tip ausblenden
         $("#tip").css("opacity", 0);
 
         // lade die CSV-datei und pack sie in csvDATA
-        d3.csv("./scripts/data-tags.csv")
+        d3.csv("./data/data-tags.csv")
             .row(function(d) { return d; })
             .get(function(error, rows) {
                 csvData = rows;
@@ -631,25 +638,15 @@ function generateOverlay () {
             .append("div")
             .selectAll("div#keywords span");
         
+    
         selectedKeywordID = 0;
         
-        /*
-        $('body').click( function() {
-            d3.selectAll("li")
-                .data(keywords)
-                .style("font-size", function(d) { return valueScale(d.value) + "em"; })
-                    .style("color", "#434343")
-                    .style("opacity", 1.0);
-        });
-        */
-        // scale für die keywort-size
         var max = 1148022;
         var min = 705;
         var valueScale = d3.scale.sqrt().domain([min, max]).range([115, 650]);
         
-        
+         // i dont' know what this is all about, but the tip is involved…      
         function customTip(d, position) {
-            
             
             var hoveredKeywordData = csvData.filter( function (k) { return (
                 k.current_facet_id == selectedKeywordID && 
@@ -733,9 +730,9 @@ function generateOverlay () {
             .style("opacity", 1)
             .on("mouseover", function(d)  { customTip(d, 200) })
             .on("click", function (d) {
-                
+
                        $("#tip").css("opacity", 0);
-                
+
                     // hole aus scvData alle Zeilen raus bei denen die current_facet_id mit der id des aktuellen wortes übereinstimmt
                     // und sortiere diese nach vorkommen
                         d3.select("#top")
@@ -785,9 +782,7 @@ function generateOverlay () {
                                 
                                 // merke dir die ID des ausgewählten keywords 
                                 selectedKeywordID = keywordCount[i].facet_id;
-                                
-                                console.log(selectedKeywordID);
-                                
+                                                                
                                 // oh, es sit doch das akteuelle LI… FÄRBE ES WHITE!!!
                                 d3.select("#t" + keywordCount[i].facet_id)
                                     .transition()
@@ -807,10 +802,13 @@ function generateOverlay () {
                                     .text( function (d) { return "Stichwort: "+keywordCount[i].value+" hat "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
-                                    .on("click", function (d, i) { log("stichworte", "click", "keyword-link", "Word:" + keywordCount[i].value+", url:"+"https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value);} )          
+                                    .on("click", function (d, i) { log("stichworte", "click", "keyword-link", "Word: " + keywordCount[i].value+", url:"+"https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value);} )
                                     .attr("target", "_blank")
                                     .attr("class", "activeLink")
                                     .text(function (d){return formatNumber(keywordCount[i].c)+" Einträge";});
+
+                                                            log("stichworte", "keyword-click", "keyword-pool", "Word: "+ keywordCount[i].value);
+
                         }
                         }
                     } else {
@@ -847,11 +845,10 @@ function generateOverlay () {
                     else {
                     }
 
-
-
                 }
             );
-d3.select(".main")
+        // beim seiten-start wird animation abgespielt.
+        d3.select(".main")
             .style("opacity", 0)
             .transition()
             .ease("exp-in-out")
@@ -859,5 +856,6 @@ d3.select(".main")
             .style("opacity", 1);
 
 });
+log("stichworte", "load", "page", "loaded");
 
         

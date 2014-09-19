@@ -807,6 +807,7 @@ function generateOverlay () {
                                     .text( function (d) { return "Stichwort: "+keywordCount[i].value+" hat "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
+                                    .on("click", function (d, i) { log("stichworte", "click", "keyword-link", "Word:" + keywordCount[i].value+", url:"+"https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value);} )          
                                     .attr("target", "_blank")
                                     .attr("class", "activeLink")
                                     .text(function (d){return formatNumber(keywordCount[i].c)+" Einträge";});

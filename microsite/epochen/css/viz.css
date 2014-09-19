@@ -86,7 +86,7 @@ body {
 }
 
 p {
-  font-size: 12px;
+  font-size: 14px;
   opacity: 0.8;
 }
 
@@ -197,7 +197,7 @@ p {
 }
 
 #wordArea h2 {
-  font-size: 12px;
+  font-size: 14px;
 font-weight: normal;
 padding-bottom: 5px;
 border-bottom: 1px solid rgba(255, 255, 255, 0.23);

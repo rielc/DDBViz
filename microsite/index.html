@@ -4,19 +4,52 @@
 <title>Deutsche Digitale Bibliothek visualisiert</title>
 <link rel="icon" type="image/png" href="favicon.png" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/log.js"></script>
+<script src="js/jquery.feedback_me.js"></script>
+<link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
+<script type="text/javascript"> 
+var $buoop = {}; 
+$buoop.ol = window.onload; 
+window.onload=function(){ 
+ try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+ var e = document.createElement("script"); 
+ e.setAttribute("type", "text/javascript"); 
+ e.setAttribute("src", "//browser-update.org/update.js"); 
+ document.body.appendChild(e); 
+} 
+</script> 
 
-    <script type="text/javascript"> 
-    var $buoop = {}; 
-    $buoop.ol = window.onload; 
-    window.onload=function(){ 
-     try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
-     var e = document.createElement("script"); 
-     e.setAttribute("type", "text/javascript"); 
-     e.setAttribute("src", "//browser-update.org/update.js"); 
-     document.body.appendChild(e); 
-    } 
-    </script> 
+<script type="text/javascript">
+	
+$(document).ready( function() {
+	
+	// logging
+  log("index", "load", "page", true);
+		
+	// feedback
+  fm_options = {
+      jQueryUI : false,
+      position : "right-bottom",
+      // name_placeholder:"Name please",                     
+      trigger_label : "Feedback",			
+      message_required : true,
+      show_asterisk_for_required : false,
+      feedback_url : "send_feedback",
+			title_label: "Ihre Beobachtungen, Ideen und Vorschläge",			
+      submit_label: "Absenden",
+      email_required: false,
+      callback: function(data){ 
+        log("index", "send", "feedback", data);
+      },
+  };
+
+  fm.init(fm_options);
+
+});	
+	
+</script>
 
 <style>
 @font-face {
@@ -155,7 +188,6 @@ a {
 }
 
 .background p.faq {
-	xmargin-top: -10px;
 	padding-right: 0;
 	padding-left: 10px;
 }
@@ -168,7 +200,7 @@ a {
 }
 
 .footer .container {
-	padding-bottom: 30px;
+	padding: 20px 0 40px;
 }
 
 .footer a { 	color: #ccc; }
@@ -177,6 +209,10 @@ a {
 .footer img {
 	margin: 25px;
 	border: 0;
+	opacity: 0.85;
+}
+.footer img:hover {
+	opacity: 1;
 }
 
 .subheader h1 {
@@ -190,6 +226,7 @@ a {
 	font-size: 18px;
 	line-height: 1.5em;
 	font-weight: normal;
+	color: #ccc;
 }
 
 .subheader a { 	color: #CD1245; }
@@ -321,14 +358,14 @@ h2, a h2 {
 	<h2 class="faq">FAQ</h2>
 	
 	<p class="faq">
-<em>Wie hängen die Visualisierungen mit den Metadatenfeldern der DDB zusammen?</em><br>
-Die Visualisierungen basieren ausschließlich auf den Facetten, welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über die index-Methode bereitstellt.
+<strong>Wie hängen die Visualisierungen mit den Metadatenfeldern der DDB zusammen?</strong><br>
+Die Visualisierungen basieren ausschließlich auf den Facetten, welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über <a href="https://api.deutsche-digitale-bibliothek.de/doku/display/ADD/indexing-profile">indexing-profile</a> bereitstellt.
 <br><br>
-<em>Sind die Visualisierungen barrierfrei?</em><br>
+<strong>Sind die Visualisierungen barrierfrei?</strong><br>
 Nein, im Moment sind die Seiten bzw. Visualisierungen leider noch nicht auf Barrierefreiheit hin optimiert.
 <br><br>
-<em>Warum stimmt manchmal nicht die Anzahl von Objekten in den Visualisierungen mit der entsprechenden Zahl auf der DDB-Seite überein?
-</em>
+<strong>Warum stimmt manchmal nicht die Anzahl von Objekten in den Visualisierungen mit der entsprechenden Zahl auf der DDB-Seite überein?
+</strong>
 <br>
 Die Visualisierungen basieren auf einem Schnappschuss der Daten von Juni 2014 und bilden nicht den aktuellsten Datenbestand der DDB ab.
 </p>	
@@ -338,7 +375,6 @@ Die Visualisierungen basieren auf einem Schnappschuss der Daten von Juni 2014 un
 
 <div class="footer">
 <div class="container">
-<h2>&nbsp;</h2>
 
 <a href="http://infovis.fh-potsdam.de/"><img height=100 width=300 src="index/infovisfhp.png" alt="Logo information+visualization FH Potsdam"></a>
 <a href="https://www.deutsche-digitale-bibliothek.de/"><img height=100 width=300 src="index/ddb.png" alt="Logo Deutsche Digitale Bibliothek"></a>

@@ -50,11 +50,10 @@ DDBAffiliateNetwork = function()
     
 
   this.generateOverlay = function() {
+
     this.overlay = d3.select("#overlay svg");
     this.overlay
-      .style("display", "inline")
-      .style("left", 0)
-      .style("top", $(".header").outerHeight(true))
+      .style("display", "block")
       .style("width", $(window).width())
       .style("height", $(window).height()-$(".header").outerHeight(true))
       .selectAll("*").remove();
@@ -224,6 +223,7 @@ DDBAffiliateNetwork = function()
   this.transformY = function (d) { return this.zoomYScale(d.y); }
 
   this.init = function() {
+
     self = this;
 
     this.data = {};
@@ -263,6 +263,11 @@ DDBAffiliateNetwork = function()
       .range([this.networkHeight, 0]);
 
     this.zoomContext = d3.behavior.zoom().x(this.zoomXScale).y(this.zoomYScale).scaleExtent([0.5, 10]).on("zoom", this.zoom);
+
+    this.zoomContext.on("zoomend", function () {
+      log("netzwerke", "zoom-or-drag", "canvas", 'scale:' + self.zoomContext.scale() + ', translate: ' + self.zoomContext.translate());
+    });
+
     this.svg.call(this.zoomContext);
 
     // christophers awesome help overlay 
@@ -270,6 +275,7 @@ DDBAffiliateNetwork = function()
       .on("click", function (d) {
         self.force.stop();
         self.generateOverlay();
+        log("netzwerke", "open-infolayer", "timeline", true);
       });
 
     d3.select('#overlay')
@@ -279,6 +285,7 @@ DDBAffiliateNetwork = function()
         self.affiliates.call(self.resetNode);
         self.links.call(self.resetLink);
         self.force.start();
+        log("netzwerke", "close-infolayer", "timeline", true);
       });
 
 
@@ -299,6 +306,7 @@ DDBAffiliateNetwork = function()
 
     jQuery.getJSON( "./data/affiliates-with-strength.json", function (result) {
       self.data = result;
+      log("netzwerke", "load", "data", true);
       self.collectAllNodes();
       self.initTimeline();
       self.resizeWindow();
@@ -323,6 +331,8 @@ DDBAffiliateNetwork = function()
 
     // simulation updates
     this.force.on("tick", function (e) {
+
+      // update the position of all nodes which are stored for smooth animation
       self.nodeValues.keys().forEach(function (id) {
         self.nodeValues.get(id).networkPosition = {
           x : self.currentNodes.get(id).x,
@@ -334,7 +344,7 @@ DDBAffiliateNetwork = function()
         case "network" :
           // update the position of the nodes
           self.affiliates
-            .call(self.resetNodeSize)
+            //.call(self.resetNodeSize)
             .attr("cx", function (d) { if (!d.fixed) {return self.transformX(d);}} )
             .attr("cy", function (d) { if (!d.fixed) {return self.transformY(d)}} );
             //.attr("r", function(d) { return self.zoomYScale(self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)); });
@@ -401,7 +411,7 @@ DDBAffiliateNetwork = function()
       //console.log("asdasd" + d3.mouse(d3.select("#timeline"))[0]);
 
       d1=d0+1;
-      if (d0 > self.timeFcts.length-1) { d0 = self.timeFcts.length-1; d1 = self.timeFcts.length-0; }
+      if (d0 > self.timeFcts.length-1) { d0 = self.timeFcts.length-1; d1 = self.timeFcts.length; }
       if (d0 < 1) { d0 = 0; d1 = 1; }
 
       self.currentTimeFctID = d0;
@@ -415,6 +425,10 @@ DDBAffiliateNetwork = function()
       d3.select(".time-facet-tick-"+self.timeFcts[self.currentTimeFctID]).style("fill", "#bf8f9f");
       d3.select(".extent").attr("width", self.brushWidth);
 
+      // log the selection via timeline … but only if its a new selection
+      if (self.timelineIDs[0] != d0 || self.timelineIDs[1] != d1) {
+        log("netzwerke", "select-epoch", "timeline", self.timeNames[self.currentTimeFctID])
+      }
       self.collectNewNodes(self.currentTimeFctID, d1);
     }
 
@@ -833,6 +847,7 @@ DDBAffiliateNetwork = function()
 
   this.highlightLink = function (selection) { selection.style("bf8f9f", "#fff").style("stroke-opacity",1.0); };
   this.resetLink = function (selection) { selection.style("stroke", "#ccc").style("stroke-opacity",0.5).style("stroke-width",1); };
+
   this.enterNodes = function () {
     this.links = this.svg
       .select("g#links")
@@ -903,7 +918,8 @@ DDBAffiliateNetwork = function()
           .transition()
           .duration(500)
           .delay(function(d,i) { return i*3})
-          .call(this.resetNode);
+          .call(this.resetNode)
+          .call(this.resetNodeSize);
       break;
 
       case "sortByOccurrence" :
@@ -933,7 +949,8 @@ DDBAffiliateNetwork = function()
         this.affiliates
           .transition()
           .duration(1000)
-          .call(this.resetNode);
+          .call(this.resetNode)
+          .call(this.resetNodeSize);
       break;
 
       case "sortByOccurrence" :
@@ -946,6 +963,8 @@ DDBAffiliateNetwork = function()
           .attr("cx", function (d,i) { return self.nodeValues.get(d.affiliate_fct_id).sortedPosition.x; })
           .attr("cy", function (d,i) { return self.nodeValues.get(d.affiliate_fct_id).sortedPosition.y; })
           .call(this.resetNode);
+
+
           this.links
             .transition()
             .duration(1000)
@@ -975,6 +994,7 @@ DDBAffiliateNetwork = function()
         "&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURI(clearString(data))+
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
+        log("netzwerke", "open-node", "canvas", "node:"+data+", url:" + url);
         window.open(url);
       break;
       case "link":
@@ -983,6 +1003,7 @@ DDBAffiliateNetwork = function()
         'affiliate\:\('+encodeURI(data.source.affiliate_fct)+') AND affiliate\:\('+encodeURI(data.target.affiliate_fct)+'\)&viewType=grid&' +
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
+        log("netzwerke", "open-link", "canvas", "a:"+data.source.affiliate_fct+", b:"+data.target.affiliate_fct+ ", url:" + url);
         window.open(url);
       break;
     } };

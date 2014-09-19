@@ -3,6 +3,7 @@
 <meta charset="utf-8">
   <link rel="stylesheet" href="./css/d3.tip.css">
   <link rel="stylesheet" href="./css/style.css">
+  <link href="../css/font-awesome.min.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="../favicon.png" />
   <title>Netzwerke – Deutsche Digitale Bibliothek visualisiert</title>
 </head>
@@ -23,6 +24,10 @@
       <span><a href="../stichworte/">Stichworte</a></span>
       <span><a href="../orte/">Orte</a></span>
       <span><a href="../netzwerke/" class="active">Netzwerke</a></span>
+        <div class="social">
+          <a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+          <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+        </div>
     </div>
   </div>
 </div>
@@ -33,18 +38,20 @@
     <p class="timeline-tip">
       <img src="./images/arrow-02.svg" class="left-arrow"/><svg id="timeline"></svg><img src="./images/arrow-01.svg" class="right-arrow"/>
     </p>
-    <p id="description"> Visualisiert werden die 500 aktivsten Personen und Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>
+    <!--<p id="description"> Visualisiert werden die 500 aktivsten Personen und Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>-->
   </div>
 </div>
-
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
 <script src="../js/d3.tip.js"></script>
 <script src="./js/DDBAffiliateNetwork.js"></script>
+<script src="../js/log.js"></script>
 <script type="text/javascript">
 
   $(document).ready( function() {
+
+    log("netzwerke", "load", "page", true);
 
     an = new DDBAffiliateNetwork();
     an.init();
@@ -56,11 +63,13 @@
 
     $( window ).resize(function() {
       an.resizeWindow();
+      log("netzwerke", "resize", "window", an.networkWidth+','+an.networkHeight);
     });
 
     $( ".left-arrow" ).click(function() {
       if (an.currentTimeFctID > 0) {
         an.currentTimeFctID--;
+        log("netzwerke", "click-left-button", "timeline", an.timeNames[an.currentTimeFctID]);
         console.log(an.currentTimeFctID + " - " +an.currentTimeFctID+1);
         an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
         d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
@@ -75,6 +84,7 @@
     $( ".right-arrow" ).click(function() {
       if (an.currentTimeFctID < an.timeFcts.length-1) {
         an.currentTimeFctID++;
+        log("netzwerke", "click-right-button", "timeline", an.timeNames[an.currentTimeFctID]);
         an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
         d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
         d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");

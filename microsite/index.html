@@ -27,7 +27,7 @@ $(document).ready( function() {
 	
 	// logging
   log("index", "load", "page", true);
-		
+
 	// feedback
   fm_options = {
       jQueryUI : false,
@@ -190,6 +190,10 @@ a {
 .background p.faq {
 	padding-right: 0;
 	padding-left: 10px;
+}
+
+.background p.faq strong {
+	color: #fff;
 }
 
 .footer {
@@ -359,7 +363,7 @@ h2, a h2 {
 	
 	<p class="faq">
 <strong>Wie hängen die Visualisierungen mit den Metadatenfeldern der DDB zusammen?</strong><br>
-Die Visualisierungen basieren ausschließlich auf den Facetten, welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über <a href="https://api.deutsche-digitale-bibliothek.de/doku/display/ADD/indexing-profile">indexing-profile</a> bereitstellt.
+Die Visualisierungen basieren ausschließlich auf den Facetten (zum Beispiel Personen &amp; Organisationen), welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über <a href="https://api.deutsche-digitale-bibliothek.de/doku/display/ADD/indexing-profile">indexing-profile</a> bereitstellt.
 <br><br>
 <strong>Sind die Visualisierungen barrierfrei?</strong><br>
 Nein, im Moment sind die Seiten bzw. Visualisierungen leider noch nicht auf Barrierefreiheit hin optimiert.

@@ -19,10 +19,10 @@ function generateOverlay () {
 
     var infos = 
         [
-            { x: 395, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
-            { x: 190, y: 360, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
-            { x: 1000, y: 520, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
-            { x: 85, y: 140, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
+            { x: 355, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
+            { x: 150, y: 360, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
+            { x: 950, y: 520, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
+            { x: 55, y: 140, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
         ];
 
     //magie mit mathe

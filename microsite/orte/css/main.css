@@ -260,7 +260,8 @@ p.value {
 
 #overlay {
   display: block;
-  margin: auto;
+  margin: 0 auto;
+  width: 1200px;
   position: relative;
   z-index: 50;
 }

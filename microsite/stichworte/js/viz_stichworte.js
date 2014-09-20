@@ -525,11 +525,11 @@ function generateOverlay () {
    }
     var infos = 
         [
-            { x: 145, y: 190, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
-            { x: 960, y: 200, text: "Viele gemeinsame Einträge sind rot", r: 20},
-            { x: 280, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
-            { x: 710, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
-            { x: 310, y: 35, text: "Verlinkung zu www.deutsche-digitale-bibliothek.de", r: 20}
+            { x: 105, y: 190, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
+            { x: 920, y: 200, text: "Viele gemeinsame Einträge sind rot", r: 20},
+            { x: 240, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
+            { x: 670, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
+            { x: 270, y: 35, text: "Verlinkung zu www.deutsche-digitale-bibliothek.de", r: 20}
         ];
 
 //wieder magie mit mathe

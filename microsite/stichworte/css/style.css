@@ -74,7 +74,6 @@ a:active{color: white; text-decoration: underline;}
     position: relative;
 }
 
-
 .line{
     border-top: 1px solid #ccc;
     width: 1000px;
@@ -115,7 +114,7 @@ a:active{color: white; text-decoration: underline;}
 
 .header .menu { float:right; }
 .header .menu a { float:left; display:block; padding:22px 20px; color:#cecece; text-decoration: none; }
-.menu a.active, .menu a.hover { background-color: #292929; color: #fff;}
+.menu a.active, .menu a:hover { background-color: #292929; color: #fff;}
 
 .menu .social { float: right; padding: 22px 16px;}
 .menu .social a { padding:4px 8px; color:#cecece; text-decoration: none; height: 26px;}
@@ -234,7 +233,8 @@ a:active{color: white; text-decoration: underline;}
 
 #overlay {
   display: block;
-  margin: auto;
+  margin: 0 auto;
+  width: 1200px;
   position: relative;
   z-index: 50;
 }
@@ -242,6 +242,7 @@ a:active{color: white; text-decoration: underline;}
 #overlay svg{
   display: none;
   position: absolute;
+  margin: 0 auto;
   height: 900px;
   width: 1200px;
   background: rgba(34, 34, 34, 0);

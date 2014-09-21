@@ -7,8 +7,8 @@ function log(view, type, area, value){
 		value: value.toString()
 	};
 	
-	// collect browser and version
-	if (type=="load" && area=="page") payload.value = navigator.platform + ","+navigator.sayswho;
+	// collect browser, version, and referrer
+	if (type=="load" && area=="page") payload.value = navigator.platform + ","+navigator.sayswho+","+document.referrer;
 	
 	if (view=="index") $.post( "log.php", payload);
 	else $.post( "../log.php", payload);

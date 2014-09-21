@@ -32,11 +32,17 @@ rect {
 .left-arrow{ float:left; opacity:0.0; } 
 .right-arrow { float:right; opacity:0.0; } 
 
+
+#timeline {
+	xfloat: left;
+}
+
 .right-arrow {
-  padding:27px 0 15px 0;
+  padding: 27px 0 15px 0px;
   cursor: pointer;
   margin:0;
-  display:box;
+ 	display:box;
+	
 }
 
 .left-arrow {
@@ -61,6 +67,8 @@ rect {
 	margin-top: -10px;
   opacity:1.0;
   z-index:30;
+	width: 1200px;
+	float: left;
 }
 
 .timeline-tip.active { opacity:1.0; }
@@ -182,6 +190,7 @@ img.active {
   padding-bottom: 0px;
   z-index:10;
   position: relative;
+	height: 130px;
 }
 
 .subheader h1 {

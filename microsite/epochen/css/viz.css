@@ -140,6 +140,7 @@ p {
 .main .help img {
   opacity: 0.5;
   width: 20px;
+	height: 20px;
   cursor:pointer;
 }
 .main .help .active, .main .help img:hover {

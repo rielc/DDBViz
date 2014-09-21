@@ -251,6 +251,7 @@ p.value {
 
 .help img {
   width: 20px;
+	height: 20px;	
   opacity: .5;
 }
 

@@ -224,6 +224,7 @@ a:active{color: white; text-decoration: underline;}
 
 .help img {
   width: 20px;
+	height: 20px;	
   opacity: .5;
 }
 

@@ -711,7 +711,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     ]
 
     d3.select(".timerange").text(function(d){
-      return "("+ yearRange[0] + " bis " + yearRange[1] + ")";
+      return " von "+ yearRange[0] + " bis " + yearRange[1] + "";
     })
 
     var facetRange = [
@@ -1082,7 +1082,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
   var animateIntro = function(){
 
-      // todo: in an other live i will use d3.timer() for that ;)
+      // todo: in an other life i will use d3.timer() for that ;)
 
       svg.selectAll(".total")
         .transition()
@@ -1121,9 +1121,14 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           .duration(1000)
           .attr('transform', function(d, i){ return "translate(0," + (lineheight - 6) +")"; })
           .style("opacity",1)
+			
+			// avoid jumping skip intro
+			setTimeout(function(){ $(".timerange").removeClass("intro"); }, 16500);
   }
 
   var skipIntro = function(){
+		$(".timerange").removeClass("intro");
+		
     svg.selectAll(".axis .tick").style("opacity", 0.8);
     svg.selectAll(".group-label")
       .attr('transform', function(d, i){ return "translate(0," + (lineheight - 6) +")"; })

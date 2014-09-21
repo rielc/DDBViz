@@ -400,3 +400,7 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 .subheader p {
   clear: both;
 }
+
+.timerange.intro {
+	display: none;
+}

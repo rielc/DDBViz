@@ -206,7 +206,7 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.23);
 #wordArea img {
   width: 14px;
   float: right;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 .wordArea .word {

@@ -289,26 +289,17 @@ svg#network * {
 }
 
 
-.main .help {
- position: relative;
- float: right;
-}
-.main .help img {
-  width: 20px;
-  cursor: pointer;
-  opacity: 0.5;
-}
-.main .help .active, .main .help img:hover {
-  opacity: 1;
+img.help {
+	position: relative;
+	float: right;
+	opacity: 0.5;
+	width: 20px;
+	height: 20px;
 }
 
-img.help {
-  position: absolute;
-  z-index: 200;
-  width:20px;
-  height:20px;
+img.help:hover {
+	opacity: 1;
 }
-
 
 
 .d3-tip {

@@ -723,6 +723,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
     // console.log("FILTER", facetRange)
 
+    //console.time("render");
+
     //https://api.deutsche-digitale-bibliothek.de/search?time_fct=time_36100&oauth_consumer_key=PFxeYlfQT6il4h0KFtowd297dBEZPgho0X4YzEQAn3YSFk3ISS61407155687299
 
     drawNormalizedBar(selected,timeRange);
@@ -733,6 +735,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       })
     }
     
+    //console.timeEnd("render");
+
   }
 
 
@@ -1002,8 +1006,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .classed("type",true)
       .attr('transform', function(d, i){ return "translate(" + (i) * (barWidth+barPadding)  +", 0)"; })
       .attr("width", barWidth)
-      .attr("y", function(d) { return yScaleBarLog(d.count); })
-      .attr("height", function(d) { return lineheight - yScaleBarLog(d.count); })
+      .attr("y", function(d) { return (isNaN(yScaleBarLog(d.count)) ? lineheight : yScaleBarLog(d.count)); })
+      .attr("height", function(d) { return lineheight - (isNaN(yScaleBarLog(d.count)) ? lineheight : yScaleBarLog(d.count)); })
       .style("fill", "#FFF")
       // .on('mouseover', function(d){
       //   console.log(d)
@@ -1097,7 +1101,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           })
           .style("opacity",1)
         .transition()
-          .delay(7000)
+          .delay(4000)
           .duration(1000)
           .attr("height", 1)
           .attr('transform', function(d, i){ return "translate(0," + lineheight +")"; })
@@ -1108,7 +1112,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
             if(i==0) renderFilter(dataTimeValues.slice(0,1),true)
           })
         .transition()
-          .duration(2000)
+          .duration(1000)
           .each("end", function(d,i){
             if(i==0) animateTimeline();
           })
@@ -1122,13 +1126,13 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           })
           .style("opacity",1)
         .transition()
-          .delay(8000)
+          .delay(5000)
           .duration(1000)
           .attr('transform', function(d, i){ return "translate(0," + (lineheight - 6) +")"; })
           .style("opacity",1)
 			
 			// avoid jumping skip intro
-			setTimeout(function(){ $(".timerange").removeClass("intro"); }, 16500);
+			setTimeout(function(){ $(".timerange").removeClass("intro"); }, 14500);
   }
 
   var skipIntro = function(){

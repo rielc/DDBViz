@@ -920,6 +920,11 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     yScaleBarLog
       .range([lineheight,0])
       .domain([1,d3.max(selectedData, function(d) { return d.count; })])
+      //.clamp(true)
+      //.nice()
+
+    // todo! 
+    //console.log(d3.max(selectedData, function(d) { return d.count; }), selectedData)
     
     yScaleBarLog2
       .range([0,lineheight*2])
@@ -1030,8 +1035,8 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
     e.selectAll(".type")
       .data(function(d){ return d.types; })
-      .attr("y", function(d) { return yScaleBarLog(d.count); })
-      .attr("height", function(d) { return lineheight - yScaleBarLog(d.count); })
+      .attr("y", function(d) { return (isNaN(yScaleBarLog(d.count)) ? lineheight : yScaleBarLog(d.count)); })
+      .attr("height", function(d) { return lineheight - (isNaN(yScaleBarLog(d.count)) ? lineheight : yScaleBarLog(d.count)); })
       .on('click', function(d){
         var sectorId = d3.select(this.parentNode).datum().key;
         var typeId = d.key;

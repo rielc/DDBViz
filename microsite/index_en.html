@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Deutsche Digitale Bibliothek visualisiert</title>
+<title>Deutsche Digitale Bibliothek visualized</title>
 <link rel="icon" type="image/png" href="favicon.png" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <script src="js/jquery-2.1.1.min.js"></script>
@@ -31,14 +31,14 @@ $(document).ready( function() {
 	// feedback
   fm_options = {
       jQueryUI : false,
-      position : "right-bottom",
-      // name_placeholder:"Name please",                     
-      trigger_label : "Feedback",			
-      message_required : true,
-      show_asterisk_for_required : false,
-      feedback_url : "send_feedback",
-			title_label: "Beobachtungen, Ideen und Vorschläge",			
-      submit_label: "Absenden",
+        position : "right-bottom",
+        // name_placeholder:"Name please",                     
+        trigger_label : "Feedback",
+				title_label: "Drop us a line",				
+        message_required : true,
+        show_asterisk_for_required : false,
+        feedback_url : "send_feedback",
+        submit_label: "Send",
       email_required: false,
       callback: function(data){ 
         log("index", "send", "feedback", data.message);
@@ -48,6 +48,8 @@ $(document).ready( function() {
   fm.init(fm_options);
 
 });	
+
+
 	
 </script>
 
@@ -98,7 +100,7 @@ p {
   font-size: 17px;
   letter-spacing: 1px;
   color: #A8A8A8;
-  width:600px;
+  width:480px;
   float:left;
   padding-top: 12px;
 }
@@ -289,24 +291,27 @@ h2, a h2 {
 
 <div class="header">
   <div class="container">
-    <h1>Deutsche Digitale Bibliothek <span>visualisiert</span></h1>
+    <h1>Deutsche Digitale Bibliothek <span>visualized</span></h1>
     <div class="menu">
-      <span><a class="active" href="./">Start</a></span>
-      <span><a href="epochen/">Epochen</a></span>
-      <span><a href="stichworte/">Stichworte</a></span>
-      <span><a href="orte/">Orte</a></span>
-      <span><a href="netzwerke/">Netzwerke</a></span>
-      	<div class="social">
-			<a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
-			<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
-		</div>
+      <span><a href="/">Start</a></span>
+      <span><a href="/timeline/" class="active">Timeline</a></span>
+      <span><a href="/keywords/">Keywords</a></span>
+      <span><a href="/places/">Places</a></span>
+      <span><a href="/networks/">Networks</a></span>
+      <div class="social"><a href="/index_de.html">DE</a><span style="float:left">|</span><a href="/index_en.html">EN</a></div>
+	    
+      <div class="social">
+				<a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+				<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+			</div>			
+
     </div>
   </div>
 </div>
 
 <div class="subheader">
   <div class="container">
-    <h1>Wie sieht eine Sammlung von<br>
+    <h1>ENGLISCH ...Wie sieht eine Sammlung von<br>
 über 7 Millionen Kulturobjekten aus?</h1>
     <p>
 			Die <a href="https://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a> macht eine Vielzahl von Objekten des digitalen kulturellen Erbes aus deutschen Kultur- und Forschungseinrichtungen zugänglich.
@@ -323,8 +328,8 @@ h2, a h2 {
 <div class="project">	
 <a href="epochen/">
 <img src="index/time.png" width=265 height=265>	
-<h2>Epochen &amp; Sparten</h2>
-<p>Die zeitliche Übersicht visualisiert die häufigsten Stichworte, Orte, Personen und Organisationen pro Zeitabschnitt.</p></a>
+<h2>Eras &amp; Genres</h2>
+<p>Overview visualization of the dataset along the eras and genres. Each period shows the most common keywords, places, people and organizations.</p></a>
 </div>
 
 <div class="project">	

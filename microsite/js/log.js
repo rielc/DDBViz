@@ -6,17 +6,17 @@ function log(view, type, area, value){
 		area: area,
 		value: value.toString()
 	};
-	
+
 	// collect browser, version, and referrer
 	if (type=="load" && area=="page") payload.value = navigator.platform + ","+navigator.sayswho+","+document.referrer;
-	
-	if (view=="index") $.post( "log.php", payload);
-	else $.post( "../log.php", payload);
+
+	//if (view=="index") $.post( "log.php", payload);
+	//else $.post( "../log.php", payload);
 }
 
 // from https://stackoverflow.com/questions/5916900/detect-version-of-browser
 navigator.sayswho = (function(){
-    var ua= navigator.userAgent, tem, 
+    var ua= navigator.userAgent, tem,
     M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
     if(/trident/i.test(M[1])){
         tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];

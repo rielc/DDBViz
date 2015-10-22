@@ -8,7 +8,7 @@ body {
 }
 
 #time-facet-caption { }
-#time-facet-name { 
+#time-facet-name {
   background-color:transparent;
   margin:0 -4px 0 0;
   color: #ffffff;
@@ -29,8 +29,8 @@ rect {
 	shape-rendering: geometricPrecision;
 }
 
-.left-arrow{ float:left; opacity:0.0; } 
-.right-arrow { float:right; opacity:0.0; } 
+.left-arrow{ float:left; opacity:0.0; }
+.right-arrow { float:right; opacity:0.0; }
 
 
 #timeline {
@@ -42,7 +42,7 @@ rect {
   cursor: pointer;
   margin:0;
  	display:box;
-	
+
 }
 
 .left-arrow {
@@ -50,7 +50,7 @@ rect {
   cursor: pointer;
   margin:0;
   display:box;
-} 
+}
 
 
 .inactive svg {
@@ -74,7 +74,7 @@ rect {
 .timeline-tip.active { opacity:1.0; }
 .timeline-tip.inactive { opacity: 0.0; }
 .timeline-tip.inactive .left-arrow, .timeline-tip.inactive .right-arrow { display:none;position:absolute; }
-.timeline-tip.active .left-arrow, .timeline-tip.active .right-arrow { display:normal; position:relative;} 
+.timeline-tip.active .left-arrow, .timeline-tip.active .right-arrow { display:normal; position:relative;}
 
 
 .timeline-tip.active {
@@ -241,9 +241,39 @@ svg#network * {
   z-index:0;
 }
 
+svg#network .x.axis text {
+  transform:translate(0,-10px);
+}
+
+svg#network .y.axis text {
+  transform:translate(10px,0);
+}
+
+
+svg#network #axis line {
+  stroke:#fff;
+  fill-opacity:0;
+  stroke-width:1px;
+}
+
+svg#network .tick text {
+  fill:#EDEDED;
+  font-size: 8px;
+  font-weight: 200;
+}
+
+svg#network path.domain {
+  fill-opacity:0.1;
+  fill:#fff;
+}
+
 
 .clickable-link, .affiliate {
 	cursor: pointer !important;
+}
+
+.link {
+  dash-array: 1 2;
 }
 
 @font-face {
@@ -261,6 +291,38 @@ svg#network * {
   src: url("../../css/KarbidWebBold.woff") format("woff");
   font-weight: bold;
 }
+
+ a#switchMode {
+   transition: all 0.5s;
+   display:block;
+   width:50px;
+   height:50px;
+   position:absolute;
+   left:20px;
+   bottom:20px;
+   color:#fff;
+   background:rgba(255, 255, 255, 0.1);
+   text-decoration: none;
+   text-transform: uppercase;
+   background-repeat: no-repeat;
+   background-position: center;
+   border-radius: 25px;
+ }
+
+ #switchMode:hover {
+   bottom:17px;
+   background:rgba(255, 255, 255, 0.25);
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+ #switchMode.network {
+   background-image: url("../images/icons/network.svg");
+ }
+
+ #switchMode.sorted {
+   background-image: url("../images/icons/sorted.svg");
+ }
 
 
 #overlay {
@@ -397,4 +459,3 @@ img.help:hover {
   top: 50%;
   left: 51%;
 }
-

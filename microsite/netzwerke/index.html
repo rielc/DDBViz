@@ -42,6 +42,8 @@
     <!--<p id="description"> Visualisiert werden die 500 aktivsten Personen und Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>-->
   </div>
 </div>
+<a href="#" id="switchMode" class="network"></a>
+
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
@@ -49,17 +51,17 @@
 <script src="../js/d3.tip.js"></script>
 <script src="./js/DDBAffiliateNetwork.js"></script>
 <script src="../js/log.js"></script>
-  <script type="text/javascript"> 
-  var $buoop = {}; 
-  $buoop.ol = window.onload; 
-  window.onload=function(){ 
-   try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
-   var e = document.createElement("script"); 
-   e.setAttribute("type", "text/javascript"); 
-   e.setAttribute("src", "//browser-update.org/update.js"); 
-   document.body.appendChild(e); 
-  } 
-  </script> 
+  <script type="text/javascript">
+  var $buoop = {};
+  $buoop.ol = window.onload;
+  window.onload=function(){
+   try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+   var e = document.createElement("script");
+   e.setAttribute("type", "text/javascript");
+   e.setAttribute("src", "//browser-update.org/update.js");
+   document.body.appendChild(e);
+  }
+  </script>
 <script type="text/javascript">
 
   $(document).ready( function() {

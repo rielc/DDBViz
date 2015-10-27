@@ -254,19 +254,6 @@ DDBAffiliateNetwork = function()
       .charge( function (d, i) {
         return (self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence)) *-10;
       })
-      .friction(0.95)
-      //.linkStrength(1.0)
-      .linkStrength( function (d) {
-        var strength =
-          (
-            d.common_occurrence / self.nodeValues.get(d.source.affiliate_fct_id).affiliate_fct_occurrence +
-            d.common_occurrence / self.nodeValues.get(d.target.affiliate_fct_id).affiliate_fct_occurrence
-          );
-          //console.log(strength);
-          return strength;
-          //return (strength > 1.0) ? 0.0 : strength;
-      })
-      .linkDistance(0)
       .size([  this.networkWidth, this.networkHeight]);
 
     // data storages
@@ -300,11 +287,16 @@ DDBAffiliateNetwork = function()
     // christophers awesome help overlay
     d3.select('.help')
       .on("click", function (d) {
-        self.switchNodePositioning("network");
-        window.setTimeout(function() { 
+        if (self.nodePositioning == "sortByOccurrence") {
+          self.switchNodePositioning("network");
+          window.setTimeout(function() { 
+            self.force.stop();
+            self.generateOverlay();
+          }, 1100);
+        } else {
           self.force.stop();
-        }, 1000);
-        self.generateOverlay();
+          self.generateOverlay();
+        }
         log("netzwerke", "open-infolayer", "timeline", true);
       });
 
@@ -683,11 +675,18 @@ DDBAffiliateNetwork = function()
 
 
       // calculate optimal force for simulation
-      var k = Math.sqrt( this.currentNodes.values().length/ (this.networkWidth * (this.networkHeight)) );
+      var k = Math.sqrt( this.currentNodes.values().length/ (this.networkWidth * this.networkHeight) );
 
       this.force
-        .charge( -10 / k )
-        .gravity( 100 * k )
+      .friction(0.65)
+        .gravity( 75 * k )
+        //.linkStrength(1.0)
+        .charge( function (d) {
+          return self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence, true) *
+            self.radius(self.nodeValues.get(d.affiliate_fct_id).affiliate_fct_occurrence, true) *-5;
+        })
+        .linkStrength( 1)
+        .linkDistance( 0)
         .nodes( this.currentNodes.values() )
         .links( this.currentLinks.values() );
 
@@ -719,7 +718,7 @@ DDBAffiliateNetwork = function()
                     l = Math.sqrt(x * x + y * y),
                     r = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence, true) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence, true);
                 if (l < r) {
-                  l = (l - r) / l * .5;
+                  l = (l - r) / l * .25;
                   node.x -= x *= l;
                   node.y -= y *= l;
                   quad.point.x += x;
@@ -762,8 +761,8 @@ DDBAffiliateNetwork = function()
     this.minOccurence = d3.min(this.nodeValues.values(), function (nv) { return nv.affiliate_fct_occurrence; });
 
     // scales for positioning
-    this.verticalScale = d3.scale.log(100).domain([this.minOccurence, this.maxOccurence]).range([this.networkHeight-60, 200]);
-    this.horizontalScale = d3.scale.linear().domain([this.maxLinkCount, this.minLinkCount]).range([this.networkWidth-60, 60]);
+    this.verticalScale = d3.scale.log(100).domain([this.minOccurence, this.maxOccurence]).range([this.networkHeight-160, 300]);
+    this.horizontalScale = d3.scale.linear().domain([this.maxLinkCount, this.minLinkCount]).range([this.networkWidth-160, 160]);
 
     // save the position based on the scales calculated before
     this.currentNodes.values().forEach(function (node) {
@@ -1028,6 +1027,7 @@ DDBAffiliateNetwork = function()
       .style("stroke-opacity", 0.0)
       .transition()
       .duration(1000)
+      .delay(function(d,i) { return i*3;})
       .call(this.resetLinkStyle);
 
     this.clickableLinks
@@ -1082,7 +1082,7 @@ DDBAffiliateNetwork = function()
     this.links
       .exit()
       .transition()
-      .duration(100)
+      .duration(300)
       .style("stroke-opacity", 0.0)
       .remove();
 
@@ -1094,7 +1094,6 @@ DDBAffiliateNetwork = function()
         .affiliates
         .exit()
         .transition()
-        //.delay(function(d,i) { return i*3;})
         .duration(300)
         .attr("r", 0)
         .style("fill-opacity", 0.0)

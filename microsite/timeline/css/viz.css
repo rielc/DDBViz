@@ -14,6 +14,11 @@
   font-weight: bold;
 }
 
+.menu .lang { float: right;  }
+.menu .lang a { padding:0px 8px; color:#777; text-decoration: none; vertical-align: middle}
+.menu .lang a:hover  { color: #fff; background-color:#363636; }
+
+
 .axis line {
   fill: none;
   stroke: #FFF;

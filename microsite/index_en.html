@@ -9,22 +9,22 @@
 <script src="js/jquery.feedback_me.js"></script>
 <link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
-<script type="text/javascript"> 
-var $buoop = {}; 
-$buoop.ol = window.onload; 
-window.onload=function(){ 
- try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
- var e = document.createElement("script"); 
- e.setAttribute("type", "text/javascript"); 
- e.setAttribute("src", "//browser-update.org/update.js"); 
- document.body.appendChild(e); 
-} 
-</script> 
+<script type="text/javascript">
+var $buoop = {};
+$buoop.ol = window.onload;
+window.onload=function(){
+ try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+ var e = document.createElement("script");
+ e.setAttribute("type", "text/javascript");
+ e.setAttribute("src", "//browser-update.org/update.js");
+ document.body.appendChild(e);
+}
+</script>
 
 <script type="text/javascript">
-	
+
 $(document).ready( function() {
-	
+
 	// logging
   log("index", "load", "page", true);
 
@@ -32,25 +32,25 @@ $(document).ready( function() {
   fm_options = {
       jQueryUI : false,
         position : "right-bottom",
-        // name_placeholder:"Name please",                     
+        // name_placeholder:"Name please",
         trigger_label : "Feedback",
-				title_label: "Drop us a line",				
+				title_label: "Drop us a line",
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",
         submit_label: "Send",
       email_required: false,
-      callback: function(data){ 
+      callback: function(data){
         log("index", "send", "feedback", data.message);
       },
   };
 
   fm.init(fm_options);
 
-});	
+});
 
 
-	
+
 </script>
 
 <style>
@@ -71,7 +71,7 @@ $(document).ready( function() {
 }
 
 body {
-	background: #0A0A0A;	
+	background: #0A0A0A;
 	color: #FFF;
   	margin: 0;
 	padding: 0;
@@ -157,7 +157,7 @@ a {
 }
 
 .background {
-	background: #171717;	
+	background: #171717;
 	margin: 0;
 	padding: 30px 0;
 	width: 100%;
@@ -175,7 +175,7 @@ a {
 	float: right;
 	margin-top: -27px;
 }
-	
+
 .background p {
 	width: 550px;
 	padding-top: 5px;
@@ -186,18 +186,18 @@ a {
 	font-size: 18px;
 }
 
-.background p a { 
+.background p a {
 	color: #fff !important;
 }
 
-.background p a:hover { 
+.background p a:hover {
 	text-decoration: underline;
 }
 
 .background p.faq {
 	padding-right: 0;
 	padding-left: 0;
-	font-size: 14px;	
+	font-size: 14px;
 }
 
 .background p.faq strong {
@@ -249,7 +249,7 @@ a {
 .subheader a:hover { 	text-decoration: underline; }
 
 .main {
-  background: #222222;	
+  background: #222222;
 	padding: 50px 0 25px;
 	margin: 0;
 	margin-left: -20px;
@@ -260,7 +260,7 @@ a {
 	padding: 10px;
 	width: 265px;
 	margin-right: 20px;
-	line-height: 1.35em;	
+	line-height: 1.35em;
 }
 
 .main .container div:nth-child(4) {
@@ -272,7 +272,7 @@ a {
 }
 
 .project img {
-	
+
 }
 
 h2, a h2 {
@@ -310,7 +310,7 @@ h2, a h2 {
       <div class="social">
 				<a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
 				<a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
-			</div>			
+			</div>
 
     </div>
   </div>
@@ -322,47 +322,47 @@ h2, a h2 {
     <p>
 			The <a href="https://www.deutsche-digitale-bibliothek.de/">German Digital Library</a> provides access
 			to a comprehensive collection of objects that are part of the digital cultural heritage of German cultural and academic institutions. This project attempts to make the extent of this stock of artefacts, documents and resources visible and tangible with the help of interactive visualizations.
-			The resulting representations are experimental overviews of the temporal and spatial distribution of objects and the associated topics, people, and organizations.			
+			The resulting representations are experimental overviews of the temporal and spatial distribution of objects and the associated topics, people, and organizations.
 		</p>
   </div>
 </div>
 
 <div class="main">
 <div class="container">
-	
-<div class="project">	
+
+<div class="project">
 <a href="epochen/">
-<img src="index/time.png" width=265 height=265>	
+<img src="index/time.png" width=265 height=265>
 <h2>Eras &amp; Genres</h2>
-<p>The temporal overview visualizes the most common keywords, places, people, and organizations 
+<p>The temporal overview visualizes the most common keywords, places, people, and organizations
 	per time period.</p></a>
 </div>
 
-<div class="project">	
-<a href="keywords/"><img src="index/tags.png" width=265 height=265>	
+<div class="project">
+<a href="keywords/"><img src="index/tags.png" width=265 height=265>
 <h2>Keywords</h2>
 <p>The most frequent keywords are shown using varying font sizes. Common occurrences can be revealed per click.</p></a>
 </div>
 
-<div class="project">	
-<a href="orte/"><img src="index/cities.png" width=265 height=265>	
+<div class="project">
+<a href="orte/"><img src="index/cities.png" width=265 height=265>
 <h2>Places &amp; Areas</h2>
 <p>An overview of cities with the most entries. The rings are subdivided by the different institution types.</p></a>
 </div>
 
-<div class="project">	
+<div class="project">
 <a href="netzwerke/">
-<img src="index/network.png" width=265 height=265>	
+<img src="index/network.png" width=265 height=265>
 <h2>People &amp; Organizations</h2>
 <p>Networks among the most prolific people and organizations in the collection across selectable periods.</p></a>
 </div>
 
 <div style="clear: both;">&nbsp;</div>
-	
+
 </div></div>
 
 <div class="background">
-	
+
 <div class="container">
 
 	<h2>Background</h2>
@@ -373,9 +373,9 @@ h2, a h2 {
 This project is an experiment. We are very interested in your observations, ideas and suggestions.
 Please try out the visualizations and share your impressions via the feedback form at the right edge of the window.
 	</p>
-	
+
 	<h2 class="faq">FAQ</h2>
-	
+
 	<p class="faq">
 <strong>How are the visualizations related with the metadata fiels of the DDB?</strong><br>
 The visualizations are solely based on the facets (e.g., people &amp; organizations),
@@ -392,7 +392,7 @@ The visualizations are based on a data snapshot from June 2014 and do not repres
 <br>
 The visualizations were developed towards the current versions of the four most used browsers (June 2014): Chrome 35, Safari 7, Firefox 30, Internet Explorer 11. The visualizations have not yet been optimized for mobile devices.
 </p>
-	
+
 	</div>
 </div>
 
@@ -403,14 +403,14 @@ The visualizations were developed towards the current versions of the four most 
 <a href="https://www.deutsche-digitale-bibliothek.de/"><img height=150 width=300 src="index/ddb.png" alt="Logo Deutsche Digitale Bibliothek"></a>
 
 <p>A collaboration between <a href="http://fh-potsdam.de/">Potsdam University of Applied Sciences</a> and <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
-	
-	Design and implementation: Christian Bernhardt, Gabriel Credico und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
+
+	Design and implementation: Christian Bernhardt, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
 	Scientific supervision: <a href="http://mariandoerk.de/" target="_blank">Prof. Dr. Marian Dörk</a> &nbsp;
 	Consulting: Stephan Bartholmei
 
 
 </p>
-	
+
 </div>
 </div>
 

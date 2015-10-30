@@ -9,22 +9,22 @@
 <script src="js/jquery.feedback_me.js"></script>
 <link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
-<script type="text/javascript"> 
-var $buoop = {}; 
-$buoop.ol = window.onload; 
-window.onload=function(){ 
- try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
- var e = document.createElement("script"); 
- e.setAttribute("type", "text/javascript"); 
- e.setAttribute("src", "//browser-update.org/update.js"); 
- document.body.appendChild(e); 
-} 
-</script> 
+<script type="text/javascript">
+var $buoop = {};
+$buoop.ol = window.onload;
+window.onload=function(){
+ try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+ var e = document.createElement("script");
+ e.setAttribute("type", "text/javascript");
+ e.setAttribute("src", "//browser-update.org/update.js");
+ document.body.appendChild(e);
+}
+</script>
 
 <script type="text/javascript">
-	
+
 $(document).ready( function() {
-	
+
 	// logging
   log("index", "load", "page", true);
 
@@ -32,23 +32,23 @@ $(document).ready( function() {
   fm_options = {
       jQueryUI : false,
       position : "right-bottom",
-      // name_placeholder:"Name please",                     
-      trigger_label : "Feedback",			
+      // name_placeholder:"Name please",
+      trigger_label : "Feedback",
       message_required : true,
       show_asterisk_for_required : false,
       feedback_url : "send_feedback",
-			title_label: "Beobachtungen, Ideen und Vorschläge",			
+			title_label: "Beobachtungen, Ideen und Vorschläge",
       submit_label: "Absenden",
       email_required: false,
-      callback: function(data){ 
+      callback: function(data){
         log("index", "send", "feedback", data.message);
       },
   };
 
   fm.init(fm_options);
 
-});	
-	
+});
+
 </script>
 
 <style>
@@ -69,7 +69,7 @@ $(document).ready( function() {
 }
 
 body {
-	background: #0A0A0A;	
+	background: #0A0A0A;
 	color: #FFF;
   	margin: 0;
 	padding: 0;
@@ -156,7 +156,7 @@ a {
 }
 
 .background {
-	background: #171717;	
+	background: #171717;
 	margin: 0;
 	padding: 30px 0;
 	width: 100%;
@@ -174,7 +174,7 @@ a {
 	float: right;
 	margin-top: -27px;
 }
-	
+
 .background p {
 	width: 550px;
 	padding-top: 5px;
@@ -185,18 +185,18 @@ a {
 	font-size: 18px;
 }
 
-.background p a { 
+.background p a {
 	color: #fff !important;
 }
 
-.background p a:hover { 
+.background p a:hover {
 	text-decoration: underline;
 }
 
 .background p.faq {
 	padding-right: 0;
 	padding-left: 0;
-	font-size: 14px;	
+	font-size: 14px;
 }
 
 .background p.faq strong {
@@ -248,7 +248,7 @@ a {
 .subheader a:hover { 	text-decoration: underline; }
 
 .main {
-  background: #222222;	
+  background: #222222;
 	padding: 50px 0 25px;
 	margin: 0;
 	margin-left: -20px;
@@ -259,7 +259,7 @@ a {
 	padding: 10px;
 	width: 265px;
 	margin-right: 20px;
-	line-height: 1.35em;	
+	line-height: 1.35em;
 }
 
 .main .container div:nth-child(4) {
@@ -271,7 +271,7 @@ a {
 }
 
 .project img {
-	
+
 }
 
 h2, a h2 {
@@ -322,46 +322,46 @@ h2, a h2 {
 			Die <a href="https://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a> macht eine Vielzahl von Objekten des digitalen kulturellen Erbes aus deutschen Kultur- und Forschungseinrichtungen zugänglich.
 			Dieses Projekt versucht, die Ausmaße dieses Bestandes mit Hilfe interaktiver Visualisierungen sichtbar und greifbar zu machen.
 			Die resultierenden Ansichten sind experimentelle Übersichten über die grobe zeitliche und räumliche Verteilung der Objekte und die verknüpften Themen, Personen und Organisationen.
-			
+
 		</p>
   </div>
 </div>
 
 <div class="main">
 <div class="container">
-	
-<div class="project">	
+
+<div class="project">
 <a href="epochen/">
-<img src="index/time.png" width=265 height=265>	
+<img src="index/time.png" width=265 height=265>
 <h2>Epochen &amp; Sparten</h2>
 <p>Die zeitliche Übersicht visualisiert die häufigsten Stichworte, Orte, Personen und Organisationen pro Zeitabschnitt.</p></a>
 </div>
 
-<div class="project">	
-<a href="stichworte/"><img src="index/tags.png" width=265 height=265>	
+<div class="project">
+<a href="stichworte/"><img src="index/tags.png" width=265 height=265>
 <h2>Stichworte</h2>
 <p>Die häufigsten Stichworte werden der Größe nach abgebildet. Gemeinsames Auftreten wird durch Klicken visualisiert.</p></a>
 </div>
 
-<div class="project">	
-<a href="orte/"><img src="index/cities.png" width=265 height=265>	
+<div class="project">
+<a href="orte/"><img src="index/cities.png" width=265 height=265>
 <h2>Orte &amp; Sparten</h2>
 <p>Übersicht der Städte mit den meisten Einträgen. Die Ringe sind entsprechend der vertretenen Sparten unterteilt.</p></a>
 </div>
 
-<div class="project">	
+<div class="project">
 <a href="netzwerke/">
-<img src="index/network.png" width=265 height=265>	
+<img src="index/network.png" width=265 height=265>
 <h2>Personen &amp; Organisationen</h2>
 <p>Beziehungsnetzwerke zwischen den aktivsten Personen und Organisationen im Bestand über frei wählbare Zeiträume.</p></a>
 </div>
 
 <div style="clear: both;">&nbsp;</div>
-	
+
 </div></div>
 
 <div class="background">
-	
+
 <div class="container">
 
 	<h2>Hintergrund</h2>
@@ -374,9 +374,9 @@ Dieses Projekt ist ein Experiment. Wir sind sehr an Ihren Beobachtungen, Ideen u
 Bitte probieren Sie die Visualisierungen aus und teilen uns Ihre Eindrücke
 über das Feedback-Formular am rechten Fensterrand mit.
 	</p>
-	
+
 	<h2 class="faq">FAQ</h2>
-	
+
 	<p class="faq">
 <strong>Wie hängen die Visualisierungen mit den Metadatenfeldern der DDB zusammen?</strong><br>
 Die Visualisierungen basieren ausschließlich auf den Facetten (zum Beispiel Personen &amp; Organisationen), welche die DDB in ihrem Suchinterface in der Seitenleiste bzw. in der API über <a href="https://api.deutsche-digitale-bibliothek.de/doku/display/ADD/indexing-profile">indexing-profile</a> bereitstellt.
@@ -392,8 +392,8 @@ Die Visualisierungen basieren auf einem Schnappschuss der Daten von Juni 2014 un
 <strong>Welche Browser-Versionen werden unterstützt?</strong>
 <br>
 Die Visualisierungen wurden im Hinblick auf die aktuellen Versionen der vier meistverwendeten Browser entwickelt  (Juni 2014): Chrome 35, Safari 7, Firefox 30, Internet Explorer 11. Die Visualisierungen sind nicht für mobile Geräte optimiert.
-</p>	
-	
+</p>
+
 	</div>
 </div>
 
@@ -404,14 +404,14 @@ Die Visualisierungen wurden im Hinblick auf die aktuellen Versionen der vier mei
 <a href="https://www.deutsche-digitale-bibliothek.de/"><img height=150 width=300 src="index/ddb.png" alt="Logo Deutsche Digitale Bibliothek"></a>
 
 <p>Ein Gemeinschaftsprojekt von <a href="http://fh-potsdam.de/">Fachhochschule Potsdam</a> und <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
-	
-	Design und Umsetzung: Christian Bernhardt, Gabriel Credico und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
+
+	Design und Umsetzung: Christian Bernhardt, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
 	Wissenschaftliche Leitung: <a href="http://mariandoerk.de/" target="_blank">Prof. Dr. Marian Dörk</a> &nbsp;
 	Beratung: Stephan Bartholmei
 
 
 </p>
-	
+
 </div>
 </div>
 

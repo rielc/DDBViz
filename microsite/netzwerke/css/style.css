@@ -255,10 +255,18 @@ svg#network .y.axis text {
 }
 
 
+
 svg#network #axis line {
   stroke:#fff;
   fill-opacity:0;
   stroke-width:1px;
+}
+
+svg#network .labels text{
+  fill:#EDEDED;
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: 1.5;
 }
 
 svg#network .tick text {

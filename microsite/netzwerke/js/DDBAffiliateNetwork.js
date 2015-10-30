@@ -353,7 +353,6 @@ DDBAffiliateNetwork = function()
         }, 2000);
 
     });
-
   };
 
   this.extractQueryDates = function (t) {
@@ -782,7 +781,8 @@ DDBAffiliateNetwork = function()
     this.yAxis = d3.svg.axis().scale(this.verticalScale).tickSize(3).ticks(2).orient("right").tickFormat(d3.format(".0f")).tickPadding(0).outerTickSize(1);
 
     if (this.axes == undefined) {
-        this.axes = this.svg.append("g").attr("id", "axis");
+
+        this.axes = this.svg.append("g").attr("id", "axis").style("opacity", 0.0);
         this.calculateSortedPositions();
 
         // Add the x-axis.
@@ -796,6 +796,13 @@ DDBAffiliateNetwork = function()
           .attr("class", "y axis")
           .attr("transform", "translate(" + (this.networkWidth-60) + ",0)")
           .call(this.yAxis);
+
+          this.axes.append
+
+          this.axes.append("g").attr("class", "labels");
+          this.axes.select("g.labels").append("text").attr("class", "x").text("Verknüpfungen").attr("transform", "translate(50," + 200 + ")");
+          this.axes.select("g.labels").append("text").attr("class", "y").text("Einträge").attr("x",  (this.networkWidth-60)).attr("y", (this.networkHeight-60)).attr("transform", "rotate("+ (this.networkWidth-60)+ " " + (this.networkHeight-140) + "90)");
+
     }
 
     // update the x-axis.

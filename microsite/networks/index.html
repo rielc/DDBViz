@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+  <link rel="stylesheet" href="./css/d3.tip.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <link href="../css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/jquery.feedback_me.css"></link>
+  <link rel="icon" type="image/png" href="../favicon.png" />
+  <title>Networks – Deutsche Digitale Bibliothek visualized</title>
+</head>
+<body>
+<div id="overlay">
+  <svg></svg>
+</div>
+<svg id="network">
+  <g id="links"></g>
+  <g id="nodes"></g>
+</svg>
+<div class="header">
+  <div class="container">
+    <h1>Deutsche Digitale Bibliothek <span>visualized</span></h1>
+    <div class="menu">
+      <span><a href="../">Start</a></span>
+      <span><a href="../timeline/">Timeline</a></span>
+      <span><a href="../keywords/">Keywords</a></span>
+      <span><a href="../places/">Places</a></span>
+      <span><a href="../networks/" class="active">Networks</a></span>
+      <span class="lang"><a href="../netzwerke/">English</a></span>
+
+        <div class="social">
+          <a target="_blank" href="http://twitter.com/home?status=Die%20Deutsche%20Digitale%20Bibliothek%20visualisiert%20–%20Epochen,%20Stichworte,%20Orte%20und%20Netzwerke%20in%20der%20@ddbkultur%20http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-twitter"></i></a>
+          <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://infovis.fh-potsdam.de/ddb/"><i class="fa fa-facebook"></i></a>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="subheader">
+  <div class="container">
+    <h1>A network of the most active persons and organisations <span id="preposition"></span><span id="time-facet-name"></span><img style="float:right;display:block;cursor:pointer;" src="./images/icons/info.svg" class="help" width="20"  height="20" />
+</h1>
+    <p class="timeline-tip">
+      <img src="./images/arrow-02.svg" class="left-arrow"/><svg height="80" id="timeline"></svg><img src="./images/arrow-01.svg" class="right-arrow"/>
+    </p>
+    <!--<p id="description"> Visualisiert werden die 500 aktivsten Personen und Organisationen einer Epoche und Ihre Kollaboratoren.<br />Eine Person muss mindestens 20 Einträge vorweisen, damit sie vorkommt.</p>-->
+  </div>
+</div>
+<a href="#" id="switchMode" class="network"></a>
+
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/underscore.js"></script>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/jquery.feedback_me.js"></script>
+<script src="../js/d3.tip.js"></script>
+<script src="./js/DDBAffiliateNetwork.js"></script>
+<script src="../js/log.js"></script>
+  <script type="text/javascript">
+  var $buoop = {};
+  $buoop.ol = window.onload;
+  window.onload=function(){
+   try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+   var e = document.createElement("script");
+   e.setAttribute("type", "text/javascript");
+   e.setAttribute("src", "//browser-update.org/update.js");
+   document.body.appendChild(e);
+  }
+  </script>
+<script type="text/javascript">
+
+  $(document).ready( function() {
+
+    log("netzwerke", "load", "page", true);
+
+    an = new DDBAffiliateNetwork();
+    an.init();
+
+    $('#time-fct').change( function() {
+      an.parameters.timeFct = $(this).find('option:selected').val();
+      an.load();
+    });
+
+    $( window ).resize(function() {
+      an.resizeWindow();
+      log("netzwerke", "resize", "window", an.networkWidth+','+an.networkHeight);
+    });
+
+    $( ".left-arrow" ).click(function() {
+      if (an.currentTimeFctID > 0) {
+        an.currentTimeFctID--;
+        log("netzwerke", "click-left-button", "timeline", an.timeNames[an.currentTimeFctID]);
+        // console.log(an.currentTimeFctID + " - " +an.currentTimeFctID+1);
+        an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
+        d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
+        d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
+        d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".extent").attr("width", an.brushWidth);
+        d3.select(".extent").attr("x", an.brushScale(an.currentTimeFctID));
+      }
+    });
+
+    $( ".right-arrow" ).click(function() {
+      if (an.currentTimeFctID < an.timeFcts.length-1) {
+        an.currentTimeFctID++;
+        log("netzwerke", "click-right-button", "timeline", an.timeNames[an.currentTimeFctID]);
+        an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
+        d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
+        d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
+        d3.select(".time-facet-label-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".time-facet-tick-"+an.timeFcts[an.currentTimeFctID]).style("fill", "#bf8f9f");
+        d3.select(".extent").attr("width", an.brushWidth);
+        d3.select(".extent").attr("x", an.brushScale(an.currentTimeFctID));
+      }
+    });
+
+  });
+
+</script>
+</body>
+</html>

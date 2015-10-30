@@ -572,7 +572,7 @@ function generateOverlay () {
             position : "right-bottom",
             // name_placeholder:"Name please",                     
             trigger_label : "Feedback",
-              title_label: "Beobachtungen, Ideen und Vorschläge",             
+              title_label: "Beobachtungen, Ideen und Vorschläge,             
             message_required : true,
             show_asterisk_for_required : false,
             feedback_url : "send_feedback",

@@ -15,14 +15,14 @@ function generateOverlay () {
     //mouseover bei stuttgart
     var e = document.createEvent('UIEvents');
     e.initUIEvent('mouseover', true, true, window, 1);
-    d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+    d3.select(".Stuttgart_max .pie-chart .Archives").node().dispatchEvent(e);
 
     var infos = 
         [
-            { x: 355, y: 235, text: "The circle size is defined by the number of entries.", r: 30},
-            { x: 150, y: 360, text: "The arc length represents the number of entries for a given area.", r: 25},
-            { x: 950, y: 520, text: "By hovering the mouse over an arc, its name and the respective number of entries are displayed.", r: 30},
-            { x: 55, y: 140, text: "sorted by alphabet or by frequency", r: 20}
+            { x: 355, y: 235, text: "Circle size is defined by the number of entries", r: 30},
+            { x: 150, y: 360, text: "Arc length represents the number of entries for a given sector", r: 25},
+            { x: 950, y: 520, text: "Hovering mouse over an arc displays name of the corresponding sector", r: 30},
+            { x: 55, y: 140, text: "Sorted by alphabet or by frequency", r: 20}
         ];
 
     //magie mit mathe
@@ -62,7 +62,7 @@ function generateOverlay () {
         position : "right-bottom",
         // name_placeholder:"Name please",                     
         trigger_label : "Feedback",
-          title_label: "Observations, ideas and suggestions",             
+          title_label: "Your observations, ideas and suggestions",             
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",
@@ -102,7 +102,7 @@ function generateOverlay () {
         $("#overlay svg").click(function(){
             var e = document.createEvent('UIEvents');
             e.initUIEvent('mouseout', true, true, window, 1);
-            d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+            d3.select(".Stuttgart_max .pie-chart .Archives").node().dispatchEvent(e);
             d3.select(".help img")
                 .classed("active", false);
             overlay.style("display", "none")

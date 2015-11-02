@@ -525,10 +525,10 @@ function generateOverlay () {
    }
     var infos = 
         [
-            { x: 105, y: 190, text: "Click selected Keyword again, to cancel selection", r: 30},
-            { x: 920, y: 200, text: "Common shared entries are red", r: 20},
-            { x: 240, y: 445, text: "Few shared entries are grey", r: 15},
-            { x: 670, y: 310, text: "No shared entries are grey", r: 10},
+            { x: 105, y: 190, text: "To cancel selection click selected keyword again", r: 30},
+            { x: 920, y: 200, text: "Frequently co-occurring keywords are highlighted red", r: 20},
+            { x: 240, y: 445, text: "Infrequently co-occurring keywords are highlighted light grey", r: 15},
+            { x: 670, y: 310, text: "Terms not co-occourring with selected keyword are greyed out", r: 10},
             { x: 270, y: 35, text: "Link to the www.deutsche-digitale-bibliothek.de", r: 20}
         ];
 
@@ -572,7 +572,7 @@ function generateOverlay () {
             position : "right-bottom",
             // name_placeholder:"Name please",                     
             trigger_label : "Feedback",
-              title_label: "Observations, ideas and suggestions",             
+              title_label: "Your observations, ideas and suggestions",             
             message_required : true,
             show_asterisk_for_required : false,
             feedback_url : "send_feedback",

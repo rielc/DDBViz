@@ -34,7 +34,7 @@ $(document).ready( function() {
         position : "right-bottom",
         // name_placeholder:"Name please",
         trigger_label : "Feedback",
-				title_label: "Observations, ideas and suggestions",
+				title_label: "Your observations, ideas and suggestions",
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",
@@ -287,6 +287,13 @@ h2, a h2 {
 	background: #292929 url('index/icons.png') center no-repeat;
 }
 
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+  .subheader {
+		background-image: url('index/icons@2x.png');		
+    background-size: 1200px 400px;
+  }
+}
+
 .subheader .container {
 	width: 520px;
 	padding-left: 560px;
@@ -318,10 +325,10 @@ h2, a h2 {
 
 <div class="subheader">
   <div class="container">
-    <h1>How does a collection of over <br>7 million cultural objects look like?</h1>
+    <h1>How does a collection of over 7&nbsp;million cultural heritage objects look like?</h1>
     <p>
 			The <a href="https://www.deutsche-digitale-bibliothek.de/">German Digital Library</a> provides access
-			to a comprehensive collection of objects that are part of the digital cultural heritage of German cultural and academic institutions. This project attempts to make the extent of this stock of artefacts, documents and resources visible and tangible with the help of interactive visualizations.
+			to a continuously growing collection that is part of the digital cultural heritage of German cultural and academic institutions. This project attempts to make the dimensions of this stock of artefacts, documents and resources visible and tangible with the help of interactive visualizations.
 			The resulting representations are experimental overviews of the temporal and spatial distribution of objects and the associated topics, people, and organizations.
 		</p>
   </div>
@@ -333,9 +340,9 @@ h2, a h2 {
 <div class="project">
 <a href="timeline/">
 <img src="index/time.png" width=265 height=265>
-<h2>Eras &amp; Genres</h2>
-<p>The temporal overview visualizes the most common keywords, places, people, and organizations
-	per time period.</p></a>
+<h2>Periods &amp; Sectors</h2>
+<p>This overview visualizes the most common keywords, places, persons, and organizations
+	over time.</p></a>
 </div>
 
 <div class="project">
@@ -346,14 +353,14 @@ h2, a h2 {
 
 <div class="project">
 <a href="places/"><img src="index/cities.png" width=265 height=265>
-<h2>Places &amp; Areas</h2>
+<h2>Places &amp; Sectors</h2>
 <p>An overview of cities with the most entries. The rings are subdivided by the different institution types.</p></a>
 </div>
 
 <div class="project">
 <a href="networks/">
 <img src="index/network.png" width=265 height=265>
-<h2>People &amp; Organizations</h2>
+<h2>Persons &amp; Organizations</h2>
 <p>Networks among the most prolific people and organizations in the collection across selectable periods.</p></a>
 </div>
 
@@ -367,10 +374,10 @@ h2, a h2 {
 
 	<h2>Background</h2>
 	<p>
-		The visualizations are the result of an exploratory study, which aimed to generate innovative perspectives on the collection of the <a href="https://www.deutsche-digitale-bibliothek.de/">German Digital Library</a> (Deutsche Digitale Bibliothek, DDB) and make them available as visual and interactive representations.
+		The visualizations are the result of an exploratory study aimed at generating innovative perspectives on the collection of the <a href="https://www.deutsche-digitale-bibliothek.de/">German Digital Library</a> (Deutsche Digitale Bibliothek, DDB) and make them available as visual and interactive representations.
 		In contrast to existing search interfaces, which show only a few objects as part of result lists, the presented views should show the distribution of objects along time, place, topic, people, and other dimensions.
 <br><br>
-This project is an experiment. We are very interested in your observations, ideas and suggestions.
+This project is an experiment. We are very interested in your Your observations, ideas and suggestions.
 Please try out the visualizations and share your impressions via the feedback form at the right edge of the window.
 	</p>
 
@@ -378,7 +385,7 @@ Please try out the visualizations and share your impressions via the feedback fo
 
 	<p class="faq">
 <strong>How are the visualizations related with the metadata fiels of the DDB?</strong><br>
-The visualizations are solely based on the facets (e.g., people &amp; organizations),
+The visualizations are solely based on the facets (e.g., persons &amp; organizations),
 which the DDB exposes via the search interface or the API method <a href="https://api.deutsche-digitale-bibliothek.de/doku/display/ADD/indexing-profile">indexing-profile</a>.
 <br><br>
 <strong>Are the visualizations optimized for accessibility?</strong><br>

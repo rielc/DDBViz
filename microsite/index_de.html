@@ -7,6 +7,7 @@
 <script src="js/jquery-2.1.1.min.js"></script>
 <script src="js/log.js"></script>
 <script src="js/jquery.feedback_me.js"></script>
+<script src="index/retina.min.js"></script>
 <link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
 <script type="text/javascript">
@@ -37,7 +38,7 @@ $(document).ready( function() {
       message_required : true,
       show_asterisk_for_required : false,
       feedback_url : "send_feedback",
-			title_label: "Observations, ideas and suggestions",
+			title_label: "Your observations, ideas and suggestions",
       submit_label: "Absenden",
       email_required: false,
       callback: function(data){
@@ -286,6 +287,13 @@ h2, a h2 {
 	background: #292929 url('index/icons.png') center no-repeat;
 }
 
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+  .subheader {
+		background-image: url('index/icons@2x.png');		
+    background-size: 1200px 400px;
+  }
+}
+
 .subheader .container {
 	width: 520px;
 	padding-left: 560px;
@@ -370,7 +378,7 @@ h2, a h2 {
 <!-- <br><br> -->
 		Die Visualisierungen sind das Resultat einer explorativen Untersuchung, die zum Ziel hatte, innovative Perspektiven auf den Bestand der <a href="https://www.deutsche-digitale-bibliothek.de/">Deutschen Digitalen Bibliothek</a> (DDB) zu entwickeln und in Form visueller und interaktiver Ansichten bereit zu stellen. Im Gegensatz zu existierenden Suchoberflächen, die wenige Objekte in Form von Ergebnislisten präsentieren, sollen die vorgestellten Ansichten die Streuung vieler Objekte entlang von Zeit, Ort, Thema, Person und anderen Dimensionen sichtbar machen.
 <br><br>
-Dieses Projekt ist ein Experiment. Wir sind sehr an Ihren Observations, ideas and suggestionsn interessiert.
+Dieses Projekt ist ein Experiment. Wir sind sehr an Ihren Your observations, ideas and suggestionsn interessiert.
 Bitte probieren Sie die Visualisierungen aus und teilen uns Ihre Eindrücke
 über das Feedback-Formular am rechten Fensterrand mit.
 	</p>

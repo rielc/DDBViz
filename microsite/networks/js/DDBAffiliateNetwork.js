@@ -226,7 +226,7 @@ DDBAffiliateNetwork = function()
         position : "right-bottom",
         // name_placeholder:"Name please",
         trigger_label : "Feedback",
-        title_label: "Observations, ideas and suggestions",
+        title_label: "Your observations, ideas and suggestions",
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",

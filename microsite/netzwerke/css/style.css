@@ -264,7 +264,7 @@ svg#network #axis line {
 
 svg#network .labels text{
   fill:#EDEDED;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 400;
   letter-spacing: 1.5;
 }

@@ -713,7 +713,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     ]
 
     d3.select(".timerange").text(function(d){
-      return " from "+ yearRange[0] + " bis " + yearRange[1] + "";
+      return " from "+ yearRange[0] + " until " + yearRange[1] + "";
     })
 
     var facetRange = [
@@ -1329,7 +1329,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       infos.push({
         x: brush.x+brush.width/2,
         y: 200,
-        text: "Epochenauswahl",
+        text: "Time period selection",
         r: 10
       });
     }

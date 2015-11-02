@@ -703,32 +703,6 @@ DDBAffiliateNetwork = function()
           var q = d3.geom.quadtree(nodes), i = 0, n = nodes.length;
           while (++i < n) { q.visit(collide(nodes[i])); }
 
-          function collide ( node ) {
-          var r = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence, true),
-              nx1 = node.x - r,
-              nx2 = node.x + r,
-              ny1 = node.y - r,
-              ny2 = node.y + r;
-            return function(quad, x1, y1, x2, y2) {
-              //console.log(quad);
-              if (quad.point && (quad.point !== node)) {
-                var x = node.x - quad.point.x,
-                    y = node.y - quad.point.y,
-                    l = Math.sqrt(x * x + y * y),
-                    r = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence, true) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence, true);
-                if (l < r) {
-                  l = (l - r) / l * .25;
-                  node.x -= x *= l;
-                  node.y -= y *= l;
-                  quad.point.x += x;
-                  quad.point.y += y;
-                }
-              }
-              return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
-            };
-
-          }
-
           // update the position of all nodes which are stored for smooth animation
           self.nodeValues.keys().forEach(function (id) {
             self.nodeValues.get(id).networkPosition = {
@@ -1328,6 +1302,31 @@ function clearString(string) {
     string = string.replace(list[i], "\\"+list[i]);
   }
   return string;
+}
+
+function collide ( node ) {
+var r = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence, true),
+    nx1 = node.x - r,
+    nx2 = node.x + r,
+    ny1 = node.y - r,
+    ny2 = node.y + r;
+  return function(quad, x1, y1, x2, y2) {
+    //console.log(quad);
+    if (quad.point && (quad.point !== node)) {
+      var x = node.x - quad.point.x,
+          y = node.y - quad.point.y,
+          l = Math.sqrt(x * x + y * y),
+          r = self.radius(self.nodeValues.get(node.affiliate_fct_id).affiliate_fct_occurrence, true) + self.radius(self.nodeValues.get(quad.point.affiliate_fct_id).affiliate_fct_occurrence, true);
+      if (l < r) {
+        l = (l - r) / l * .25;
+        node.x -= x *= l;
+        node.y -= y *= l;
+        quad.point.x += x;
+        quad.point.y += y;
+      }
+    }
+    return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+  };
 }
 
 function clearName (name) {

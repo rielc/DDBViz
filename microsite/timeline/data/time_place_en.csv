@@ -16,7 +16,7 @@ timeId,name,placeId,count,nameEn
 1,Darmstadt,23,10919,Darmstadt
 1,Göttingen,3,9079,Göttingen
 1,Hessen,71,7285,Hesse
-1,kreisfrei,14,6769,acyclic
+1,kreisfrei,14,6769,county
 1,Nürnberg,54,6721,Nuremberg
 1,Augsburg,66,6308,Augsburg
 1,Hamburg,39,5613,Hamburg
@@ -122,7 +122,7 @@ timeId,name,placeId,count,nameEn
 2,Hamburg,39,1980,Hamburg
 2,Nürnberg,54,1959,Nuremberg
 2,Erlangen,133,1754,Gain
-2,kreisfrei,14,1489,acyclic
+2,kreisfrei,14,1489,county
 2,Madrid,7,1310,Madrid
 2,Hessen,71,1307,Hesse
 2,Braunschweig,4,1258,Brunswick
@@ -211,7 +211,7 @@ timeId,name,placeId,count,nameEn
 3,Darmstadt,23,4079,Darmstadt
 3,Hessen,71,3264,Hesse
 3,München,48,2954,Munich
-3,kreisfrei,14,2296,acyclic
+3,kreisfrei,14,2296,county
 3,Göttingen,3,2043,Göttingen
 3,"Kassel, Regierungsbezirk",178,1723,"Kassel, Region of"
 3,Marburg,70,1547,Marburg
@@ -314,7 +314,7 @@ timeId,name,placeId,count,nameEn
 4,"Kassel, Regierungsbezirk",178,6565,"Kassel, Region of"
 4,"Marburg-Biedenkopf, Kreis",179,6426,"Marburg-Biedenkopf, district"
 4,Marburg,70,6414,Marburg
-4,kreisfrei,14,5927,acyclic
+4,kreisfrei,14,5927,county
 4,Deutschland,38,4936,Germany
 4,Hamburg,39,4491,Hamburg
 4,Mannheim,549,3084,Mannheim
@@ -414,7 +414,7 @@ timeId,name,placeId,count,nameEn
 5,Hessen,71,1846,Hesse
 5,Hamburg,39,1464,Hamburg
 5,DE,389,1010,DE
-5,kreisfrei,14,813,acyclic
+5,kreisfrei,14,813,county
 5,"Kassel, Regierungsbezirk",178,686,"Kassel, Region of"
 5,Marburg,70,668,Marburg
 5,"Marburg-Biedenkopf, Kreis",179,664,"Marburg-Biedenkopf, district"
@@ -511,7 +511,7 @@ timeId,name,placeId,count,nameEn
 6,Neuenstein,43,2820,Neuenstein
 6,München,48,1750,Munich
 6,Hessen,71,1714,Hesse
-6,kreisfrei,14,1253,acyclic
+6,kreisfrei,14,1253,county
 6,"Kassel, Regierungsbezirk",178,1188,"Kassel, Region of"
 6,"Marburg-Biedenkopf, Kreis",179,1112,"Marburg-Biedenkopf, district"
 6,Marburg,70,1092,Marburg
@@ -616,7 +616,7 @@ timeId,name,placeId,count,nameEn
 7,Berlin,18,628,Berlin
 7,Deutschland,38,583,Germany
 7,Stuttgart S,330,545,Stuttgart S
-7,kreisfrei,14,474,acyclic
+7,kreisfrei,14,474,county
 7,Heilbronn,610,394,Heilbronn
 7,"Paris,",3340,384,"Paris,"
 7,Mannheim MA,894,378,Mannheim MA
@@ -920,7 +920,7 @@ timeId,name,placeId,count,nameEn
 10,Regensburg,67,2022,Regensburg
 10,Hamburg,39,1970,Hamburg
 10,Bruxelles,130,1891,Bruxelles
-10,kreisfrei,14,1721,acyclic
+10,kreisfrei,14,1721,county
 10,Berolinum,55,1549,Berolinum
 10,Hessen,71,1519,Hesse
 10,Erlangen,133,1484,Gain
@@ -1019,7 +1019,7 @@ timeId,name,placeId,count,nameEn
 11,Gammertingen SIG,1644,372,Gammertingen SIG
 11,Hamburg,39,372,Hamburg
 11,unbekannt,3116,360,unknown
-11,kreisfrei,14,336,acyclic
+11,kreisfrei,14,336,county
 11,Köln,57,322,Cologne
 11,Göttingen,3,305,Göttingen
 11,Oberwolfach :,521,285,Oberwolfach:
@@ -1116,7 +1116,7 @@ timeId,name,placeId,count,nameEn
 12,"[S.l.],",492,7130,[S.L.]
 12,Lipsia,42,6780,Lipsia
 12,Jena,447,6299,Jena
-12,kreisfrei,14,5516,acyclic
+12,kreisfrei,14,5516,county
 12,Hessen,71,5036,Hesse
 12,Amsterdam,480,4967,Amsterdam
 12,Freiburg im Breisgau,17,4162,Freiburg in Breisgau
@@ -1214,7 +1214,7 @@ timeId,name,placeId,count,nameEn
 13,München,48,4396,Munich
 13,S.l.,6,3729,S.L.
 13,Freiburg im Breisgau,17,3373,Freiburg in Breisgau
-13,kreisfrei,14,2739,acyclic
+13,kreisfrei,14,2739,county
 13,Augsburg,66,2202,Augsburg
 13,Hessen,71,2133,Hesse
 13,Wien,172,2097,Vienna
@@ -1416,7 +1416,7 @@ timeId,name,placeId,count,nameEn
 15,"Kassel, Regierungsbezirk",178,657,"Kassel, Region of"
 15,"Marburg-Biedenkopf, Kreis",179,656,"Marburg-Biedenkopf, district"
 15,Stuttgart S,330,467,Stuttgart S
-15,kreisfrei,14,355,acyclic
+15,kreisfrei,14,355,county
 15,Hamburg,39,354,Hamburg
 15,Freiburg im Breisgau FR,418,314,Freiburg FR
 15,unbekannt,3116,271,unknown
@@ -1508,7 +1508,7 @@ timeId,name,placeId,count,nameEn
 16,Wertheim,51,8461,Wertheim
 16,Hessen,71,1135,Hesse
 16,Darmstadt,23,1063,Darmstadt
-16,kreisfrei,14,883,acyclic
+16,kreisfrei,14,883,county
 16,Frankfurt (Main),856,745,Frankfurt (Main)
 16,"Darmstadt, Regierungsbezirk",72,739,"Darmstadt, Regierungsbezirk"
 16,München,48,683,Munich
@@ -1624,7 +1624,7 @@ timeId,name,placeId,count,nameEn
 17,München :,255,249,Munich:
 17,Göttingen :,1989,225,Göttingen:
 17,Berlin,18,190,Berlin
-17,kreisfrei,14,176,acyclic
+17,kreisfrei,14,176,county
 17,Frankfurt (Main),856,143,Frankfurt (Main)
 17,Landwasser : Freiburg im Breisgau FR,1542,142,Landwasser: Freiburg FR
 17,"Darmstadt, Regierungsbezirk",72,141,"Darmstadt, Regierungsbezirk"
@@ -1812,7 +1812,7 @@ timeId,name,placeId,count,nameEn
 19,Göttingen,3,7476,Göttingen
 19,Paris,15,6777,Paris
 19,[S.l.],41,5554,[S.L.]
-19,kreisfrei,14,4279,acyclic
+19,kreisfrei,14,4279,county
 19,Jena,447,3917,Jena
 19,Lipsia,42,3004,Lipsia
 19,Hessen,71,2724,Hesse
@@ -1909,7 +1909,7 @@ timeId,name,placeId,count,nameEn
 20,Berlin,18,5030,Berlin
 20,S.l.,6,3767,S.L.
 20,München,48,3531,Munich
-20,kreisfrei,14,2773,acyclic
+20,kreisfrei,14,2773,county
 20,Paris,15,2458,Paris
 20,Göttingen,3,2431,Göttingen
 20,[S.l.],41,1930,[S.L.]
@@ -2002,7 +2002,7 @@ timeId,name,placeId,count,nameEn
 21,Stuttgart,10,23710,Stuttgart
 21,Ludwigsburg,1,12022,Ludwigsburg
 21,Neuenstein,43,8994,Neuenstein
-21,kreisfrei,14,8902,acyclic
+21,kreisfrei,14,8902,county
 21,Karlsruhe,9,8507,Karlsruhe
 21,Dresden,2,7284,Dresden
 21,München,48,6649,Munich
@@ -2101,7 +2101,7 @@ timeId,name,placeId,count,nameEn
 21,Rom [I],4291,115,Rome [I]
 22,Stuttgart,10,16966,Stuttgart
 22,Ludwigsburg,1,8899,Ludwigsburg
-22,kreisfrei,14,6716,acyclic
+22,kreisfrei,14,6716,county
 22,Karlsruhe,9,5695,Karlsruhe
 22,Dresden,2,5132,Dresden
 22,München,48,4848,Munich
@@ -2221,7 +2221,7 @@ timeId,name,placeId,count,nameEn
 23,Hala,110,1538,Hala
 23,Lipsiae,313,1464,Lipsiae
 23,Vitemberga,1735,1346,Vitemberga
-23,kreisfrei,14,1124,acyclic
+23,kreisfrei,14,1124,county
 23,Augspurg,155,979,Augspurg
 23,La Haye,849,897,La Haye
 23,Altdorfium,317,869,Altdorfium
@@ -2307,7 +2307,7 @@ timeId,name,placeId,count,nameEn
 24,Wertheim,51,8711,Wertheim
 24,Sigmaringen,5,6569,Sigmaringen
 24,München,48,6486,Munich
-24,kreisfrei,14,6061,acyclic
+24,kreisfrei,14,6061,county
 24,Venetia,50,4189,Venetia
 24,Basileae,456,3956,Basileae
 24,Berlin,18,3798,Berlin
@@ -2408,7 +2408,7 @@ timeId,name,placeId,count,nameEn
 25,Sigmaringen,5,5520,Sigmaringen
 25,München,48,3599,Munich
 25,Venetia,50,2798,Venetia
-25,kreisfrei,14,2490,acyclic
+25,kreisfrei,14,2490,county
 25,Berlin,18,2420,Berlin
 25,Basileae,456,2079,Basileae
 25,Ingolstadii,446,1825,Ingolstadii
@@ -2515,7 +2515,7 @@ timeId,name,placeId,count,nameEn
 26,Freiburg im Breisgau,17,2332,Freiburg in Breisgau
 26,"[S.l.],",492,2304,[S.L.]
 26,Leipzig,8,2257,Leipzig
-26,kreisfrei,14,1592,acyclic
+26,kreisfrei,14,1592,county
 26,Amsterdam,480,1468,Amsterdam
 26,Jena,447,1443,Jena
 26,Hessen,71,1421,Hesse
@@ -2614,7 +2614,7 @@ timeId,name,placeId,count,nameEn
 27,"Marburg-Biedenkopf, Kreis",179,1453,"Marburg-Biedenkopf, district"
 27,Neuenstein,43,1396,Neuenstein
 27,München,48,894,Munich
-27,kreisfrei,14,712,acyclic
+27,kreisfrei,14,712,county
 27,Deutschland,38,639,Germany
 27,Heilbronn,610,414,Heilbronn
 27,"Wien,",4157,398,"Vienna,"
@@ -2714,7 +2714,7 @@ timeId,name,placeId,count,nameEn
 28,[S.l.],41,3783,[S.L.]
 28,Jena,447,3444,Jena
 28,Lipsia,42,2624,Lipsia
-28,kreisfrei,14,2441,acyclic
+28,kreisfrei,14,2441,county
 28,Witteberga,1053,1672,Witte Berga
 28,Hessen,71,1661,Hesse
 28,Amsterdam,480,1645,Amsterdam
@@ -2811,7 +2811,7 @@ timeId,name,placeId,count,nameEn
 29,Neuenstein,43,2043,Neuenstein
 29,Hessen,71,1685,Hesse
 29,München,48,1245,Munich
-29,kreisfrei,14,1236,acyclic
+29,kreisfrei,14,1236,county
 29,"Kassel, Regierungsbezirk",178,1168,"Kassel, Region of"
 29,"Marburg-Biedenkopf, Kreis",179,1158,"Marburg-Biedenkopf, district"
 29,Marburg,70,1151,Marburg
@@ -2914,7 +2914,7 @@ timeId,name,placeId,count,nameEn
 30,London,161,2895,London
 30,Wien,172,2578,Vienna
 30,Göttingen,3,2354,Göttingen
-30,kreisfrei,14,2174,acyclic
+30,kreisfrei,14,2174,county
 30,[S.l.],41,2111,[S.L.]
 30,Hessen,71,1919,Hesse
 30,Nürnberg,54,1766,Nuremberg
@@ -3003,7 +3003,7 @@ timeId,name,placeId,count,nameEn
 31,Ludwigsburg,1,10758,Ludwigsburg
 31,Dresden,2,9042,Dresden
 31,Karlsruhe,9,7068,Karlsruhe
-31,kreisfrei,14,4430,acyclic
+31,kreisfrei,14,4430,county
 31,München,48,3964,Munich
 31,Neuenstein,43,3447,Neuenstein
 31,Wertheim,51,3402,Wertheim
@@ -3115,7 +3115,7 @@ timeId,name,placeId,count,nameEn
 32,[S.l.],41,1906,[S.L.]
 32,Jena,447,1857,Jena
 32,Hessen,71,1830,Hesse
-32,kreisfrei,14,1614,acyclic
+32,kreisfrei,14,1614,county
 32,"[S.l.],",492,1508,[S.L.]
 32,Freiburg im Breisgau,17,1482,Freiburg in Breisgau
 32,Leipzig,8,1377,Leipzig
@@ -3205,7 +3205,7 @@ timeId,name,placeId,count,nameEn
 33,München,48,855,Munich
 33,Karlsruhe,9,713,Karlsruhe
 33,Dresden,2,649,Dresden
-33,kreisfrei,14,501,acyclic
+33,kreisfrei,14,501,county
 33,Wertheim,51,389,Wertheim
 33,Ludwigsburg,1,361,Ludwigsburg
 33,Berlin,18,253,Berlin
@@ -3300,7 +3300,7 @@ timeId,name,placeId,count,nameEn
 33,Haigerloch BL,90,12,Haigerloch BL
 33,Lichtenberg,5327,12,Lichtenberg
 34,Stuttgart,10,2159,Stuttgart
-34,kreisfrei,14,1341,acyclic
+34,kreisfrei,14,1341,county
 34,Sigmaringen,5,1208,Sigmaringen
 34,München,48,1108,Munich
 34,Freiburg im Breisgau,17,1107,Freiburg in Breisgau
@@ -3403,7 +3403,7 @@ timeId,name,placeId,count,nameEn
 35,Stuttgart,10,3535,Stuttgart
 35,Ludwigsburg,1,3231,Ludwigsburg
 35,München,48,2870,Munich
-35,kreisfrei,14,2611,acyclic
+35,kreisfrei,14,2611,county
 35,Karlsruhe,9,1480,Karlsruhe
 35,Sigmaringen,5,1272,Sigmaringen
 35,Freiburg im Breisgau,17,1131,Freiburg in Breisgau
@@ -3503,7 +3503,7 @@ timeId,name,placeId,count,nameEn
 36,Ludwigsburg,1,2660,Ludwigsburg
 36,Stuttgart,10,2547,Stuttgart
 36,München,48,1879,Munich
-36,kreisfrei,14,1574,acyclic
+36,kreisfrei,14,1574,county
 36,Sigmaringen,5,1229,Sigmaringen
 36,Freiburg im Breisgau,17,1115,Freiburg in Breisgau
 36,Karlsruhe,9,873,Karlsruhe
@@ -3604,7 +3604,7 @@ timeId,name,placeId,count,nameEn
 37,Neuenstein,43,5291,Neuenstein
 37,Karlsruhe,9,4241,Karlsruhe
 37,Dresden,2,3737,Dresden
-37,kreisfrei,14,3394,acyclic
+37,kreisfrei,14,3394,county
 37,München,48,3228,Munich
 37,Mainz,62,1978,Mainz
 37,Sigmaringen,5,1789,Sigmaringen
@@ -3708,7 +3708,7 @@ timeId,name,placeId,count,nameEn
 38,Wertheim,51,385,Wertheim
 38,Ludwigsburg,1,308,Ludwigsburg
 38,Berlin,18,182,Berlin
-38,kreisfrei,14,165,acyclic
+38,kreisfrei,14,165,county
 38,Neuenstein,43,118,Neuenstein
 38,Frankreich,686,83,France
 38,Nordrhein-Westfalen,13,70,North Rhine-Westphalia
@@ -3807,7 +3807,7 @@ timeId,name,placeId,count,nameEn
 39,Dresden,2,529,Dresden
 39,Wertheim,51,385,Wertheim
 39,Ludwigsburg,1,308,Ludwigsburg
-39,kreisfrei,14,302,acyclic
+39,kreisfrei,14,302,county
 39,Berlin,18,206,Berlin
 39,Nordrhein-Westfalen,13,137,North Rhine-Westphalia
 39,"Köln, Regierungsbezirk",56,130,"Cologne, Region of"
@@ -3907,7 +3907,7 @@ timeId,name,placeId,count,nameEn
 40,Dresden,2,474,Dresden
 40,Wertheim,51,385,Wertheim
 40,Ludwigsburg,1,308,Ludwigsburg
-40,kreisfrei,14,254,acyclic
+40,kreisfrei,14,254,county
 40,Berlin,18,201,Berlin
 40,Hessen,71,141,Hesse
 40,Neuenstein,43,118,Neuenstein
@@ -4008,7 +4008,7 @@ timeId,name,placeId,count,nameEn
 41,Wertheim,51,386,Wertheim
 41,Ludwigsburg,1,311,Ludwigsburg
 41,Berlin,18,190,Berlin
-41,kreisfrei,14,133,acyclic
+41,kreisfrei,14,133,county
 41,Frankreich,686,129,France
 41,Neuenstein,43,118,Neuenstein
 41,Hessen,71,71,Hesse
@@ -4103,7 +4103,7 @@ timeId,name,placeId,count,nameEn
 42,Sigmaringen,5,1200,Sigmaringen
 42,Freiburg im Breisgau,17,1090,Freiburg in Breisgau
 42,München,48,797,Munich
-42,kreisfrei,14,689,acyclic
+42,kreisfrei,14,689,county
 42,Karlsruhe,9,673,Karlsruhe
 42,Dresden,2,431,Dresden
 42,Wertheim,51,388,Wertheim
@@ -4204,7 +4204,7 @@ timeId,name,placeId,count,nameEn
 43,Freiburg im Breisgau,17,1089,Freiburg in Breisgau
 43,München,48,1002,Munich
 43,Karlsruhe,9,685,Karlsruhe
-43,kreisfrei,14,651,acyclic
+43,kreisfrei,14,651,county
 43,Dresden,2,558,Dresden
 43,Wertheim,51,422,Wertheim
 43,Ludwigsburg,1,320,Ludwigsburg
@@ -4303,7 +4303,7 @@ timeId,name,placeId,count,nameEn
 44,Sigmaringen,5,1206,Sigmaringen
 44,Freiburg im Breisgau,17,1098,Freiburg in Breisgau
 44,München,48,987,Munich
-44,kreisfrei,14,961,acyclic
+44,kreisfrei,14,961,county
 44,Karlsruhe,9,705,Karlsruhe
 44,Dresden,2,616,Dresden
 44,Wertheim,51,387,Wertheim
@@ -4400,7 +4400,7 @@ timeId,name,placeId,count,nameEn
 44,Subiaco,15264,14,Subiaco
 44,Augsburg,66,14,Augsburg
 45,Stuttgart,10,2657,Stuttgart
-45,kreisfrei,14,2172,acyclic
+45,kreisfrei,14,2172,county
 45,Dresden,2,2144,Dresden
 45,München,48,1957,Munich
 45,Sigmaringen,5,1217,Sigmaringen
@@ -4502,7 +4502,7 @@ timeId,name,placeId,count,nameEn
 46,Stuttgart,10,2462,Stuttgart
 46,Dresden,2,1312,Dresden
 46,Sigmaringen,5,1208,Sigmaringen
-46,kreisfrei,14,1140,acyclic
+46,kreisfrei,14,1140,county
 46,Freiburg im Breisgau,17,1105,Freiburg in Breisgau
 46,München,48,1054,Munich
 46,Karlsruhe,9,728,Karlsruhe
@@ -4601,7 +4601,7 @@ timeId,name,placeId,count,nameEn
 46,Marburg,70,20,Marburg
 47,Stuttgart,10,2521,Stuttgart
 47,München,48,1693,Munich
-47,kreisfrei,14,1515,acyclic
+47,kreisfrei,14,1515,county
 47,Dresden,2,1475,Dresden
 47,Sigmaringen,5,1217,Sigmaringen
 47,Freiburg im Breisgau,17,1121,Freiburg in Breisgau
@@ -4703,7 +4703,7 @@ timeId,name,placeId,count,nameEn
 48,Ludwigsburg,1,3088,Ludwigsburg
 48,Dresden,2,2285,Dresden
 48,München,48,2004,Munich
-48,kreisfrei,14,1469,acyclic
+48,kreisfrei,14,1469,county
 48,Karlsruhe,9,1375,Karlsruhe
 48,Sigmaringen,5,1270,Sigmaringen
 48,Freiburg im Breisgau,17,1128,Freiburg in Breisgau
@@ -4804,7 +4804,7 @@ timeId,name,placeId,count,nameEn
 49,Karlsruhe,9,4258,Karlsruhe
 49,Dresden,2,4107,Dresden
 49,München,48,3515,Munich
-49,kreisfrei,14,3216,acyclic
+49,kreisfrei,14,3216,county
 49,Mainz,62,2510,Mainz
 49,Neuenstein,43,1809,Neuenstein
 49,Sigmaringen,5,1548,Sigmaringen
@@ -4904,7 +4904,7 @@ timeId,name,placeId,count,nameEn
 50,Dresden,2,2916,Dresden
 50,Karlsruhe,9,2232,Karlsruhe
 50,München,48,2158,Munich
-50,kreisfrei,14,1846,acyclic
+50,kreisfrei,14,1846,county
 50,Sigmaringen,5,1362,Sigmaringen
 50,Mainz,62,1152,Mainz
 50,Freiburg im Breisgau,17,1150,Freiburg in Breisgau
@@ -5004,7 +5004,7 @@ timeId,name,placeId,count,nameEn
 51,Karlsruhe,9,3073,Karlsruhe
 51,München,48,2568,Munich
 51,Dresden,2,2547,Dresden
-51,kreisfrei,14,2238,acyclic
+51,kreisfrei,14,2238,county
 51,Sigmaringen,5,1491,Sigmaringen
 51,Mainz,62,1365,Mainz
 51,Neuenstein,43,1244,Neuenstein
@@ -5099,7 +5099,7 @@ timeId,name,placeId,count,nameEn
 51,Latium,455,42,Lazio
 51,DE,389,42,DE
 51,"Roma, Provincia",452,41,"Roma, Provincia"
-52,kreisfrei,14,432,acyclic
+52,kreisfrei,14,432,county
 52,Athen,642,369,Athens
 52,Italien,451,295,Italy
 52,Deutschland,38,255,Germany
@@ -5199,7 +5199,7 @@ timeId,name,placeId,count,nameEn
 52,Mykonos,10860,5,Mykonos
 52,"Syros, Kreis",18857,5,"Syros, district"
 52,Emilia-Romagna,1768,5,Emilia-Romagna
-53,kreisfrei,14,1814,acyclic
+53,kreisfrei,14,1814,county
 53,Deutschland,38,1006,Germany
 53,Berlin,18,972,Berlin
 53,Italien,451,948,Italy
@@ -5299,7 +5299,7 @@ timeId,name,placeId,count,nameEn
 53,Wien,172,23,Vienna
 53,Milet,19265,22,Milet
 53,Selçuk,7791,22,Selçuk
-54,kreisfrei,14,354,acyclic
+54,kreisfrei,14,354,county
 54,Deutschland,38,232,Germany
 54,Athen,642,223,Athens
 54,Berlin,18,223,Berlin
@@ -5401,7 +5401,7 @@ timeId,name,placeId,count,nameEn
 54,Adolfseck (Kreis Fulda),1165,4,Adolfseck (Kreis Fulda)
 55,München,48,713,Munich
 55,Dresden,2,658,Dresden
-55,kreisfrei,14,512,acyclic
+55,kreisfrei,14,512,county
 55,Berlin,18,240,Berlin
 55,Rheinland-Pfalz,184,145,Rheinland-Pfalz
 55,Nordrhein-Westfalen,13,137,North Rhine-Westphalia
@@ -5500,7 +5500,7 @@ timeId,name,placeId,count,nameEn
 55,Olympia,13350,5,Olympics
 55,"Serres, Agii Theodori, Außenbereich",19152,5,"Serres, Agii Theodori, outdoor"
 56,München,48,723,Munich
-56,kreisfrei,14,542,acyclic
+56,kreisfrei,14,542,county
 56,Dresden,2,532,Dresden
 56,Hessen,71,226,Hesse
 56,Berlin,18,224,Berlin
@@ -5600,7 +5600,7 @@ timeId,name,placeId,count,nameEn
 56,[Ulm],6862,5,[Ulm]
 56,Kairo,1003,5,Cairo
 57,München,48,703,Munich
-57,kreisfrei,14,472,acyclic
+57,kreisfrei,14,472,county
 57,Dresden,2,469,Dresden
 57,Berlin,18,206,Berlin
 57,Hessen,71,176,Hesse
@@ -5701,7 +5701,7 @@ timeId,name,placeId,count,nameEn
 57,Blumenthal,22430,5,Blumenthal
 58,München,48,715,Munich
 58,Dresden,2,486,Dresden
-58,kreisfrei,14,446,acyclic
+58,kreisfrei,14,446,county
 58,Frankreich,686,234,France
 58,Berlin,18,213,Berlin
 58,Nordrhein-Westfalen,13,205,North Rhine-Westphalia
@@ -5799,7 +5799,7 @@ timeId,name,placeId,count,nameEn
 58,Gatow,7877,7,Gatow
 58,"Rom, Katakombe Santa Domitilla",124028,7,"Rome, Catacomb of Santa Domitilla"
 58,"Rom, Forum Romanum",38419,7,"Rome, Roman Forum"
-59,kreisfrei,14,643,acyclic
+59,kreisfrei,14,643,county
 59,Deutschland,38,331,Germany
 59,Berlin,18,325,Berlin
 59,Italien,451,315,Italy
@@ -5906,7 +5906,7 @@ timeId,name,placeId,count,nameEn
 60,Frankreich,686,12,France
 60,Île-de-France,1007,12,Île-de-France
 60,"Paris, Département",1008,12,"Paris, Territory"
-60,kreisfrei,14,11,acyclic
+60,kreisfrei,14,11,county
 60,Karnak,2997,10,Karnak
 60,"Karnak, Amun-Bezirk",34800,10,"Karnak, Amun-District"
 60,Griechenland,2123,9,Greece
@@ -6000,7 +6000,7 @@ timeId,name,placeId,count,nameEn
 60,"Theben (West), Tal der Königinnen, 1. Raum, Südwand, Westseite, Grab der Nefertari",74951,1,"Thebes (West), Valley of the Queens, 1 room, south wall, west side, grave of Nefertari"
 60,"Theben (West), Tal der Könige, 4. Saal, Grab Ramses 9.",80186,1,"Thebes (West), Valley of the Kings, 4. Hall, grave Ramses. 9"
 61,Kairo,1003,75,Cairo
-61,kreisfrei,14,46,acyclic
+61,kreisfrei,14,46,county
 61,"Karnak, Amun-Bezirk",34800,39,"Karnak, Amun-District"
 61,Karnak,2997,34,Karnak
 61,Berlin,18,31,Berlin
@@ -6099,7 +6099,7 @@ timeId,name,placeId,count,nameEn
 61,"Karnak, Tempelbezirk, Raum südlich des Sanktuars, Nordwestraum, Südwand, Tempel des Amon",246935,3,"Karnak, Temple District, the area south of the sanctuary, Northwest area, south wall, Temple of Amon"
 61,"Karnak, Amun-Bezirk, Alexanderzimmer, Nordwand, Ach-menu",268538,3,"Karnak, Amun-District, Alexander Room, North Face, Oh-menu"
 61,"Karnak, Amun-Bezirk, Ostseite, 10. Pylon des Haremhab",17518,2,"Karnak, Amun-District, east side, 10 pylon of Horemheb"
-62,kreisfrei,14,340,acyclic
+62,kreisfrei,14,340,county
 62,Kairo,1003,252,Cairo
 62,Deutschland,38,246,Germany
 62,Berlin,18,241,Berlin
@@ -6199,7 +6199,7 @@ timeId,name,placeId,count,nameEn
 62,Tanis,64070,6,Tanis
 62,"Kydonia, Kreis",34597,6,"Kydonia, district"
 62,Chania,34598,6,Chania
-63,kreisfrei,14,312,acyclic
+63,kreisfrei,14,312,county
 63,Deutschland,38,180,Germany
 63,Berlin,18,179,Berlin
 63,Italien,451,164,Italy
@@ -6299,7 +6299,7 @@ timeId,name,placeId,count,nameEn
 63,Mykonos,10860,3,Mykonos
 63,"Syros, Kreis",18857,3,"Syros, district"
 63,Argos,27670,3,Argos
-64,kreisfrei,14,142,acyclic
+64,kreisfrei,14,142,county
 64,Italien,451,117,Italy
 64,Deutschland,38,99,Germany
 64,Berlin,18,95,Berlin
@@ -6405,7 +6405,7 @@ timeId,name,placeId,count,nameEn
 65,Griechenland,2123,47,Greece
 65,Iraklion,3622,43,Iraklion
 65,"Temenos, Kreis",3624,43,"Temenos, district"
-65,kreisfrei,14,43,acyclic
+65,kreisfrei,14,43,county
 65,"Karnak, Amun-Bezirk",34800,32,"Karnak, Amun-District"
 65,Berlin,18,30,Berlin
 65,Deutschland,38,30,Germany
@@ -6499,7 +6499,7 @@ timeId,name,placeId,count,nameEn
 65,"Karnak, Amun-Bezirk, Ostseite, 10. Pylon des Haremhab",17518,2,"Karnak, Amun-District, east side, 10 pylon of Horemheb"
 65,"Karnak, Amun-Bezirk, Kapelle der Amonirdis, Amontempel",17981,2,"Karnak, Amun-District, Chapel of Amonirdis, Amontempel"
 65,"Theben (West), Tal der Könige, Goldsaal, Westwand, Grab des Haremhab",23927,2,"Thebes (West), Valley of the Kings, Gold Room, west wall, grave of Horemheb"
-66,kreisfrei,14,137,acyclic
+66,kreisfrei,14,137,county
 66,Italien,451,131,Italy
 66,Deutschland,38,68,Germany
 66,Berlin,18,63,Berlin
@@ -6600,7 +6600,7 @@ timeId,name,placeId,count,nameEn
 66,Champagne-Ardenne,11130,2,Champagne-Ardenne
 66,"Marne, Département",11131,2,"Marne, Territory"
 67,Kairo,1003,107,Cairo
-67,kreisfrei,14,54,acyclic
+67,kreisfrei,14,54,county
 67,Griechenland,2123,46,Greece
 67,"Temenos, Kreis",3624,46,"Temenos, district"
 67,Iraklion,3622,45,Iraklion
@@ -6700,7 +6700,7 @@ timeId,name,placeId,count,nameEn
 67,"Medamûd, Tempel des Month, Kiosk",286311,1,"Medamud, Temple of Montu, Kiosk"
 67,"Medamûd, Tempel des Month, Südlicher Kiosk, Südwand",287514,1,"Medamud, Temple of Montu, Southern newsstands, south wall"
 68,Kairo,1003,101,Cairo
-68,kreisfrei,14,30,acyclic
+68,kreisfrei,14,30,county
 68,Berlin,18,30,Berlin
 68,Deutschland,38,30,Germany
 68,Paris,15,10,Paris
@@ -6761,7 +6761,7 @@ timeId,name,placeId,count,nameEn
 68,Hildesheim :,14709,1,Hildesheim:
 68,"Beni Hasan, Grab des Cheti, Südwand",333032,1,"Beni Hasan, grave of Cheti, south wall"
 68,ed-Derr,342266,1,ed Derr
-69,kreisfrei,14,168,acyclic
+69,kreisfrei,14,168,county
 69,Italien,451,102,Italy
 69,Deutschland,38,82,Germany
 69,Berlin,18,80,Berlin
@@ -6868,7 +6868,7 @@ timeId,name,placeId,count,nameEn
 70,Athen,642,18,Athens
 70,Mykene,15003,14,Mycenae
 70,Knossos,3623,11,Knossos
-70,kreisfrei,14,11,acyclic
+70,kreisfrei,14,11,county
 70,Berlin,18,6,Berlin
 70,Deutschland,38,6,Germany
 70,"Knossos, Palast des Minos, Ostflügel",28351,5,"Knossos, Palace of Minos, East Wing"
@@ -6928,7 +6928,7 @@ timeId,name,placeId,count,nameEn
 70,Hessen,71,1,Hesse
 70,"Darmstadt, Regierungsbezirk",72,1,"Darmstadt, Regierungsbezirk"
 70,Frankfurt (Main),856,1,Frankfurt (Main)
-71,kreisfrei,14,82,acyclic
+71,kreisfrei,14,82,county
 71,Berlin,18,63,Berlin
 71,Deutschland,38,63,Germany
 71,Hessen,71,32,Hesse
@@ -7028,7 +7028,7 @@ timeId,name,placeId,count,nameEn
 71,Sendschirli,6314,1,Senjirli
 71,"Theben (West), Tal der Könige, Korridor B, Nordwand, Grab Ramses 6.",7113,1,"Thebes (West), Valley of the Kings, Corridor B, North Face, grave Ramses. 6"
 71,"Theben (West), Grab Ramses IV.",11897,1,"Thebes (West), grave Ramses IV."
-72,kreisfrei,14,182,acyclic
+72,kreisfrei,14,182,county
 72,Gdańsk,899,79,Gdańsk
 72,"Danzig, Freistaat",900,79,"Danzig, Free State"
 72,Danzig,901,79,Danzig
@@ -7128,7 +7128,7 @@ timeId,name,placeId,count,nameEn
 72,Lubomierz (Lwówek Słaskie),136008,1,Lubomierz (Lwówek Śląskie)
 72,Braunswalde (Kreis Stuhm),143526,1,Brown Walde (county Stuhm)
 72,"Löwenberg, Kreis",143527,1,"Lowenberg, district"
-73,kreisfrei,14,169,acyclic
+73,kreisfrei,14,169,county
 73,Berlin,18,126,Berlin
 73,Deutschland,38,123,Germany
 73,Kairo,1003,107,Cairo
@@ -7228,7 +7228,7 @@ timeId,name,placeId,count,nameEn
 73,Locmariaquer,57812,1,Locmariaquer
 73,Potsdam :,26644,1,Potsdam:
 73,"Theben (West), Deir el-Behari, Plateau vor dem Tempel, Totentempel des Mentuhotep 2.",134114,1,"Thebes (West), Deir el-Behari, Plateau in front of the temple, mortuary temple of Mentuhotep. 2"
-74,kreisfrei,14,52,acyclic
+74,kreisfrei,14,52,county
 74,Berlin,18,45,Berlin
 74,Deutschland,38,45,Germany
 74,Kairo,1003,37,Cairo
@@ -7264,7 +7264,7 @@ timeId,name,placeId,count,nameEn
 75,Griechenland,2123,65,Greece
 75,Iraklion,3622,62,Iraklion
 75,"Temenos, Kreis",3624,62,"Temenos, district"
-75,kreisfrei,14,38,acyclic
+75,kreisfrei,14,38,county
 75,Deutschland,38,34,Germany
 75,Berlin,18,33,Berlin
 75,Athen,642,31,Athens
@@ -7355,13 +7355,13 @@ timeId,name,placeId,count,nameEn
 75,"Knossos, Palast des Minos, Südosten",334907,1,"Knossos, Palace of Minos, Southeast"
 75,Buhên,275732,1,Boo
 76,Dresden,2,6,Dresden
-76,kreisfrei,14,1,acyclic
+76,kreisfrei,14,1,county
 76,Berlin,18,1,Berlin
 76,Deutschland,38,1,Germany
 76,Thüringen,2287,1,Thuringia
 76,"Hildburghausen, Kreis",119974,1,"Hildburghausen, district"
 76,Bedheim (Kreis Hildburghausen),172434,1,Bedheim (county Hildburghausen)
-77,kreisfrei,14,315,acyclic
+77,kreisfrei,14,315,county
 77,Italien,451,124,Italy
 77,Frankreich,686,117,France
 77,Deutschland,38,105,Germany
@@ -7470,7 +7470,7 @@ timeId,name,placeId,count,nameEn
 78,Griechenland,2123,13,Greece
 78,Iraklion,3622,13,Iraklion
 78,"Temenos, Kreis",3624,13,"Temenos, district"
-78,kreisfrei,14,10,acyclic
+78,kreisfrei,14,10,county
 78,Gîsa,22886,7,Gisa
 78,Saqqâra,36949,7,Saqqara
 78,Berlin,18,7,Berlin
@@ -7502,7 +7502,7 @@ timeId,name,placeId,count,nameEn
 78,Abydos,67127,1,Abydos
 78,Bubastis,206889,1,Bubastis
 78,Leiden,1303,1,Suffer
-79,kreisfrei,14,43,acyclic
+79,kreisfrei,14,43,county
 79,Berlin,18,29,Berlin
 79,Deutschland,38,29,Germany
 79,Karlsruhe,9,10,Karlsruhe
@@ -7553,7 +7553,7 @@ timeId,name,placeId,count,nameEn
 79,Osnabrück,12828,1,Osnabrück
 79,"Osnabrück (Land), Kreis",13503,1,"Osnabrück (Land), Circle"
 79,"Osnabrück, Regierungsbezirk",13504,1,"Osnabrück, Regierungsbezirk"
-80,kreisfrei,14,26,acyclic
+80,kreisfrei,14,26,county
 80,Berlin,18,18,Berlin
 80,Deutschland,38,18,Germany
 80,Mainz,62,5,Mainz
@@ -7590,7 +7590,7 @@ timeId,name,placeId,count,nameEn
 81,"Syros, Kreis",18857,5,"Syros, district"
 81,Syros,92113,5,Syros
 81,Gîsa,22886,5,Gisa
-81,kreisfrei,14,4,acyclic
+81,kreisfrei,14,4,county
 81,Abusîr,177767,4,Abusir
 81,Leiden,1303,4,Suffer
 81,Amorgos,15796,3,Amorgos
@@ -7634,7 +7634,7 @@ timeId,name,placeId,count,nameEn
 81,"Saqqâra, Mastaba des Ptahhotep?",265498,1,Saqqara Mastaba of Ptahhotep?
 81,Despotiko,276631,1,Despotiko
 81,"Meidûm, Pyramide von Meidûm, Nordosten",299425,1,"Meidum Pyramid of Meidum, Northeast"
-82,kreisfrei,14,43,acyclic
+82,kreisfrei,14,43,county
 82,Kairo,1003,41,Cairo
 82,Berlin,18,35,Berlin
 82,Deutschland,38,35,Germany
@@ -7692,7 +7692,7 @@ timeId,name,placeId,count,nameEn
 82,Hefat,332731,1,Hefat
 82,"Beni Hasan, Grab des Cheti, Südwand",333032,1,"Beni Hasan, grave of Cheti, south wall"
 82,"Saqqâra, Mastaba des Mereruka, Grabeingang",341653,1,"Saqqara, Mastaba of Mereruka, grave input"
-83,kreisfrei,14,96,acyclic
+83,kreisfrei,14,96,county
 83,Gdańsk,899,37,Gdańsk
 83,"Danzig, Freistaat",900,37,"Danzig, Free State"
 83,Danzig,901,37,Danzig
@@ -7792,7 +7792,7 @@ timeId,name,placeId,count,nameEn
 83,Theben (Böotien),106360,1,Thebes (Boeotia)
 83,Eutresis,256494,1,Eutresis
 83,Assur,83622,1,Assur
-84,kreisfrei,14,79,acyclic
+84,kreisfrei,14,79,county
 84,Berlin,18,43,Berlin
 84,Deutschland,38,43,Germany
 84,Gdańsk,899,28,Gdańsk
@@ -7833,7 +7833,7 @@ timeId,name,placeId,count,nameEn
 84,Iraklion,3622,1,Iraklion
 84,"Temenos, Kreis",3624,1,"Temenos, district"
 84,Rzucewo,302810,1,Rzucewo
-85,kreisfrei,14,82,acyclic
+85,kreisfrei,14,82,county
 85,Deutschland,38,78,Germany
 85,Berlin,18,77,Berlin
 85,Athen,642,32,Athens
@@ -7919,7 +7919,7 @@ timeId,name,placeId,count,nameEn
 86,Griechenland,2123,16,Greece
 86,Iraklion,3622,11,Iraklion
 86,"Temenos, Kreis",3624,11,"Temenos, district"
-86,kreisfrei,14,11,acyclic
+86,kreisfrei,14,11,county
 86,Vasiliki (Kreta),19652,6,Vasiliki (Crete)
 86,"Syros, Kreis",18857,5,"Syros, district"
 86,Syros,92113,5,Syros
@@ -7946,7 +7946,7 @@ timeId,name,placeId,count,nameEn
 87,Griechenland,2123,38,Greece
 87,Iraklion,3622,38,Iraklion
 87,"Temenos, Kreis",3624,38,"Temenos, district"
-87,kreisfrei,14,18,acyclic
+87,kreisfrei,14,18,county
 87,Berlin,18,17,Berlin
 87,Deutschland,38,17,Germany
 87,"Pyrgiotissa, Kreis",51246,14,"Pyrgiotissa, district"
@@ -7988,7 +7988,7 @@ timeId,name,placeId,count,nameEn
 87,Nuragheddu,132928,1,Nuragheddu
 87,Dessau,625,1,Dessau
 87,Dessau-Roßlau,2662,1,Dessau
-88,kreisfrei,14,33,acyclic
+88,kreisfrei,14,33,county
 88,Gdańsk,899,25,Gdańsk
 88,"Danzig, Freistaat",900,25,"Danzig, Free State"
 88,Danzig,901,25,Danzig
@@ -8017,7 +8017,7 @@ timeId,name,placeId,count,nameEn
 88,München,48,1,Munich
 88,Bayern,233,1,Bavaria
 88,"Oberbayern, Regierungsbezirk",234,1,"Upper Bavaria, Region of"
-89,kreisfrei,14,30,acyclic
+89,kreisfrei,14,30,county
 89,Berlin,18,30,Berlin
 89,Deutschland,38,30,Germany
 90,Kairo,1003,4,Cairo
@@ -8037,7 +8037,7 @@ timeId,name,placeId,count,nameEn
 90,Thüringen,2287,1,Thuringia
 90,Gera,4732,1,Gera
 90,"Gera, Kreis",65312,1,"Gera, district"
-90,kreisfrei,14,1,acyclic
+90,kreisfrei,14,1,county
 90,Berlin,18,1,Berlin
 90,Tell Halaf,21613,1,Tell Halaf
 90,Paris,15,1,Paris
@@ -8045,12 +8045,12 @@ timeId,name,placeId,count,nameEn
 90,Île-de-France,1007,1,Île-de-France
 90,"Paris, Département",1008,1,"Paris, Territory"
 91,"Lascaux, Höhle",34982,2,"Lascaux, cave"
-91,kreisfrei,14,2,acyclic
+91,kreisfrei,14,2,county
 91,Berlin,18,2,Berlin
 91,Deutschland,38,2,Germany
 91,"Eyzies-de-Tayac-Sireuil, Les, Grotte de Font-de-Gaume",51255,1,"Eyzies-de-Tayac-Sireuil, Les, Grotte de Font-de-Gaume"
 91,"Eyzies-de-Tayac-Sireuil, Les",338395,1,"Eyzies-de-Tayac-Sireuil, Les"
-92,kreisfrei,14,8,acyclic
+92,kreisfrei,14,8,county
 92,Berlin,18,8,Berlin
 92,Deutschland,38,8,Germany
 92,Kairo,1003,8,Cairo
@@ -8065,7 +8065,7 @@ timeId,name,placeId,count,nameEn
 92,Assur,83622,1,Assur
 92,Abydos,67127,1,Abydos
 93,Athen,642,14,Athens
-93,kreisfrei,14,11,acyclic
+93,kreisfrei,14,11,county
 93,Deutschland,38,9,Germany
 93,Berlin,18,8,Berlin
 93,Italien,451,4,Italy
@@ -8122,7 +8122,7 @@ timeId,name,placeId,count,nameEn
 93,Alexandria,8885,1,Alexandria
 93,Dessau,625,1,Dessau
 93,Dessau-Roßlau,2662,1,Dessau
-94,kreisfrei,14,25,acyclic
+94,kreisfrei,14,25,county
 94,Berlin,18,18,Berlin
 94,Deutschland,38,18,Germany
 94,München,48,7,Munich
@@ -8136,7 +8136,7 @@ timeId,name,placeId,count,nameEn
 94,Assur,83622,2,Assur
 95,Volos?,133759,10,Volos?
 95,Deutschland,38,9,Germany
-95,kreisfrei,14,6,acyclic
+95,kreisfrei,14,6,county
 95,Berlin,18,5,Berlin
 95,Volos,119763,3,Volos
 95,Hessen,71,2,Hesse
@@ -8174,19 +8174,19 @@ timeId,name,placeId,count,nameEn
 96,Lübeck,744,1,Lubeck
 96,Schleswig-Holstein,4692,1,Schleswig-Holstein
 96,"Lübeck, Kreis",5571,1,"Lübeck, district"
-97,kreisfrei,14,2,acyclic
+97,kreisfrei,14,2,county
 97,Baden-Württemberg,243,2,Baden-Wurttemberg
 97,"Südbaden, Regierungsbezirk",812,2,"Südbaden, Regierungsbezirk"
 97,Konstanz,2141,2,Constance
 97,Dresden,2,1,Dresden
-98,kreisfrei,14,5,acyclic
+98,kreisfrei,14,5,county
 98,Berlin,18,4,Berlin
 98,Deutschland,38,4,Germany
 98,Carnac,182361,2,Carnac
 98,München,48,1,Munich
 98,Bayern,233,1,Bavaria
 98,"Oberbayern, Regierungsbezirk",234,1,"Upper Bavaria, Region of"
-99,kreisfrei,14,6,acyclic
+99,kreisfrei,14,6,county
 99,Berlin,18,4,Berlin
 99,Deutschland,38,4,Germany
 99,Uruk,296171,3,Uruk
@@ -8202,7 +8202,7 @@ timeId,name,placeId,count,nameEn
 99,Rheinland-Pfalz,184,1,Rheinland-Pfalz
 99,"Rheinhessen-Pfalz, Regierungsbezirk",239,1,"Rheinhessen-Pfalz, Regierungsbezirk"
 100,"Chemnitz, Museum",186146,1,"Chemnitz, Museum"
-101,kreisfrei,14,3,acyclic
+101,kreisfrei,14,3,county
 101,Berlin,18,3,Berlin
 101,Deutschland,38,3,Germany
 101,Uruk,296171,3,Uruk

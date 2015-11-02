@@ -525,11 +525,11 @@ function generateOverlay () {
    }
     var infos = 
         [
-            { x: 105, y: 190, text: "Ausgwähltes Stichwort, erneut klicken um die Auswahl zu deselektieren", r: 30},
-            { x: 920, y: 200, text: "Viele gemeinsame Einträge sind rot", r: 20},
-            { x: 240, y: 445, text: "Wenige gemeinsame Einträge sind grau", r: 15},
-            { x: 670, y: 310, text: "Keine gemeinsamen Einträge sind schwarz", r: 10},
-            { x: 270, y: 35, text: "Verlinkung zu www.deutsche-digitale-bibliothek.de", r: 20}
+            { x: 105, y: 190, text: "To cancel selection click selected keyword again", r: 30},
+            { x: 920, y: 200, text: "Frequently co-occurring keywords are highlighted red", r: 20},
+            { x: 240, y: 445, text: "Infrequently co-occurring keywords are highlighted light grey", r: 15},
+            { x: 670, y: 310, text: "Terms not co-occourring with selected keyword are greyed out", r: 10},
+            { x: 270, y: 35, text: "Link to the www.deutsche-digitale-bibliothek.de", r: 20}
         ];
 
 //wieder magie mit mathe
@@ -572,11 +572,11 @@ function generateOverlay () {
             position : "right-bottom",
             // name_placeholder:"Name please",                     
             trigger_label : "Feedback",
-            title_label: "Ihre Beobachtungen, Ideen und Vorschläge",
+              title_label: "Your observations, ideas and suggestions",             
             message_required : true,
             show_asterisk_for_required : false,
             feedback_url : "send_feedback",
-            submit_label: "Absenden",
+            submit_label: "Send",
             email_required: false,
             callback: function(data){ 
                 log("stichworte", "send", "feedback", data.message);
@@ -659,7 +659,7 @@ function generateOverlay () {
                     
                     var tag = $("#t"+d.id);
 
-                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" Einträge. Erneutes Klicken hebt die Auswahl auf."); 
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" entries. Another click cancels the selection."); 
                     $("#tip").css({
                                 "top": 
                                     tag.offset().top
@@ -679,7 +679,7 @@ function generateOverlay () {
                     
                     var tag = $("#t"+d.id);
 
-                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" gemeinsame Einträge"); 
+                    $("#tip p").text(formatNumber(hoveredKeywordData.c)+" shared entries"); 
                     $("#tip").css({
                                 "top": 
                                     tag.offset().top
@@ -799,13 +799,13 @@ function generateOverlay () {
                                     .append("span")
                                     .attr("class", "activeSmall")
                                     .attr("id", "value")
-                                    .text( function (d) { return "Stichwort: "+keywordCount[i].value+" hat "})
+                                    .text( function (d) { return "Keyword: "+keywordCount[i].value+" has "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
                                     .on("click", function (d, i) { log("stichworte", "click", "keyword-link", "Word: " + keywordCount[i].value+", url:"+"https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value);} )
                                     .attr("target", "_blank")
                                     .attr("class", "activeLink")
-                                    .text(function (d){return formatNumber(keywordCount[i].c)+" Einträge";});
+                                    .text(function (d){return formatNumber(keywordCount[i].c)+" entries";});
 
                                                             log("stichworte", "keyword-click", "keyword-pool", "Word: "+ keywordCount[i].value);
 
@@ -839,7 +839,7 @@ function generateOverlay () {
                         d3.select(".subheader .container h1")
                             .append("span")
                             .attr("class", "blankHL")
-                            .text("Stichworte");
+                            .text("Keywords");
 
                     }
                     else {

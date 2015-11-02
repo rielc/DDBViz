@@ -15,14 +15,14 @@ function generateOverlay () {
     //mouseover bei stuttgart
     var e = document.createEvent('UIEvents');
     e.initUIEvent('mouseover', true, true, window, 1);
-    d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+    d3.select(".Stuttgart_max .pie-chart .Archives").node().dispatchEvent(e);
 
     var infos = 
         [
-            { x: 355, y: 235, text: "Die Kreisesgröße wird durch die Anzahl der Einträge definiert", r: 30},
-            { x: 150, y: 360, text: "Die Kreisbogengröße wird durch Anzahl der Einträge in den jeweiligen Sparten ermittelt", r: 25},
-            { x: 950, y: 520, text: "Beim Mouseover über einen Kreisbogen wird der Name und die Anzahl der Einträge und der Sparte gezeigt", r: 30},
-            { x: 55, y: 140, text: "sortiert alphabetisch & der Häufigkeit nach", r: 20}
+            { x: 355, y: 235, text: "Circle size is defined by the number of entries", r: 30},
+            { x: 150, y: 360, text: "Arc length represents the number of entries for a given sector", r: 25},
+            { x: 950, y: 520, text: "Hovering mouse over an arc displays name of the corresponding sector", r: 30},
+            { x: 55, y: 140, text: "Sorted by alphabet or by frequency", r: 20}
         ];
 
     //magie mit mathe
@@ -62,11 +62,11 @@ function generateOverlay () {
         position : "right-bottom",
         // name_placeholder:"Name please",                     
         trigger_label : "Feedback",
-        title_label: "Ihre Beobachtungen, Ideen und Vorschläge",
+          title_label: "Your observations, ideas and suggestions",             
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",
-        submit_label: "Absenden",
+        submit_label: "Send",
         email_required: false,
         callback: function(data){ 
             //logging 
@@ -102,7 +102,7 @@ function generateOverlay () {
         $("#overlay svg").click(function(){
             var e = document.createEvent('UIEvents');
             e.initUIEvent('mouseout', true, true, window, 1);
-            d3.select(".Stuttgart_max .pie-chart .Archiv").node().dispatchEvent(e);
+            d3.select(".Stuttgart_max .pie-chart .Archives").node().dispatchEvent(e);
             d3.select(".help img")
                 .classed("active", false);
             overlay.style("display", "none")
@@ -151,7 +151,7 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
         var tip = d3.tip()
             .attr('class', 'd3-tip')
             .offset([-10, 0])
-            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+formatNumber(d.data.magnitude)+' Einträge</p>'; } );
+            .html(function(d) { return '<h3>'+d.data.legendLabel+'</h3><p>'+formatNumber(d.data.magnitude)+' entries</p>'; } );
 
                 
     function refillArc() {

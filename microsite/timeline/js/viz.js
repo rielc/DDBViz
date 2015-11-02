@@ -14,7 +14,7 @@ $(document).ready(function(){
         position : "right-bottom",
         // name_placeholder:"Name please",                     
         trigger_label : "Feedback",
-				title_label: "Drop us a line",				
+				title_label: "Your observations, ideas and suggestions",				
         message_required : true,
         show_asterisk_for_required : false,
         feedback_url : "send_feedback",
@@ -205,7 +205,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
   var dataWords = [
     { key: "Keywords", values: dataKeywords, href: "../keywords" },
     { key: "Places", values: dataPlaces, href: "../places"},
-    { key: "Individuals/Organizations", values: dataAffiliates, href: "../networks" }
+    { key: "Persons/Organizations", values: dataAffiliates, href: "../networks" }
   ];
 
   colorScale = function(d){
@@ -713,7 +713,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
     ]
 
     d3.select(".timerange").text(function(d){
-      return " from "+ yearRange[0] + " bis " + yearRange[1] + "";
+      return " from "+ yearRange[0] + " until " + yearRange[1] + "";
     })
 
     var facetRange = [
@@ -798,7 +798,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
   }
 
-  var urlTable = { "Keywords" : "keywords_fct", "Places" : "place_fct", "Individuals/Organizations" : "affiliate_fct_role", }
+  var urlTable = { "Keywords" : "keywords_fct", "Places" : "place_fct", "Persons/Organizations" : "affiliate_fct_role", }
 
   function drawWords(area,data,selected,timeRange){
 
@@ -1270,7 +1270,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       {
         x: 10,
         y: 300,
-        text: "Genre name",
+        text: "Cultural heritage sector",
         r: 0
       },
       {
@@ -1294,7 +1294,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       {
         x: 1080,
         y: 195,
-        text: "Amount of Objects found",
+        text: "Number of objects found per sector within time span",
         r: 30
       },
       {
@@ -1312,7 +1312,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       {
         x: 900,
         y: 520,
-        text: "Top 20 Individuals and Organizations of the selection",
+        text: "Top 20 persons and organizations of the selection",
         r: 20
       },
       {
@@ -1329,7 +1329,7 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       infos.push({
         x: brush.x+brush.width/2,
         y: 200,
-        text: "Epochenauswahl",
+        text: "Time period selection",
         r: 10
       });
     }

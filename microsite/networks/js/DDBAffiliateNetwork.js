@@ -80,41 +80,47 @@ DDBAffiliateNetwork = function()
         .filter(function (n) { return (self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_type == "person")})[0];
 
 
-      if (examplePerson != undefined) {
-        d3.select("#affiliate_fct_id-" + examplePerson.affiliate_fct_id).style("fill-opacity", "1").style("fill", "a40539");
-        infos.push({
-          x : self.transformX(examplePerson),
-          y : self.transformY(examplePerson)+$(".header").outerHeight(true),
-          text : "Person",
-          r: 0
-        });
-      }
+        if (examplePerson != undefined) {
+          d3.select("#affiliate_fct_id-" + examplePerson.affiliate_fct_id).style("fill-opacity", "1").style("fill", "a40539");
+          infos.push({
+            x : self.nodePositioning == "network" ? self.transformX(examplePerson) : self.nodeValues.get(examplePerson.affiliate_fct_id).sortedPosition.x,
+            y : self.nodePositioning == "network" ? self.transformY(examplePerson)+$(".header").outerHeight(true) : self.nodeValues.get(examplePerson.affiliate_fct_id).sortedPosition.y+$(".header").outerHeight(true),
+            text : "Person",
+            r: 0
+          });
+        }
 
       var exampleOrganisation = this.currentNodes.values()
         .sort(function (a, b) { return self.nodeValues.get(b.affiliate_fct_id).affiliate_fct_occurrence - self.nodeValues.get(a.affiliate_fct_id).affiliate_fct_occurrence;})
         .filter(function (n) { return (self.nodeValues.get(n.affiliate_fct_id).affiliate_fct_type == "organisation")})[0];
 
-      if (exampleOrganisation != undefined) {
-        d3.select("#affiliate_fct_id-" + exampleOrganisation.affiliate_fct_id).style("fill-opacity", "1");
-        infos.push({
-          x : self.transformX(exampleOrganisation),
-          y : self.transformY(exampleOrganisation)+$(".header").outerHeight(true),
-          text : "Organisation",
-          r: 0
-        });
-      }
+        if (exampleOrganisation != undefined) {
+          d3.select("#affiliate_fct_id-" + exampleOrganisation.affiliate_fct_id).style("fill-opacity", "1");
+          infos.push({
+            x : self.nodePositioning == "network" ? self.transformX(exampleOrganisation) : self.nodeValues.get(exampleOrganisation.affiliate_fct_id).sortedPosition.x,
+            y : self.nodePositioning == "network" ? self.transformY(exampleOrganisation)+$(".header").outerHeight(true) : self.nodeValues.get(exampleOrganisation.affiliate_fct_id).sortedPosition.y+$(".header").outerHeight(true),
+            text : "Organisation",
+            r: 0
+          });
+        }
 
       // links
       var exampleLink = d3.shuffle(this.currentLinks.values().filter(function (l) { return l.source.affiliate_fct_id != l.target.affiliate_fct_id;}))[0];
       if (exampleLink != undefined) {
-        var linkPosition = { x: (exampleLink.target.x+exampleLink.source.x)/2, y: (exampleLink.target.y+exampleLink.source.y)/2 }
+        if (self.nodePositioning == "network") {
+          var linkPosition = { x: (exampleLink.target.x+exampleLink.source.x)/2, y: (exampleLink.target.y+exampleLink.source.y)/2 }
+        } else {
+          var posX = ((self.nodeValues.get(exampleLink.target.affiliate_fct_id).sortedPosition.x + self.nodeValues.get(exampleLink.source.affiliate_fct_id).sortedPosition.x) / 2);
+          var posY = ((self.nodeValues.get(exampleLink.target.affiliate_fct_id).sortedPosition.y + self.nodeValues.get(exampleLink.source.affiliate_fct_id).sortedPosition.y) / 2);
+          var linkPosition = { x: posX, y: posY };
+        }
         d3.select("#affiliate_fct_id-" + exampleLink.source.affiliate_fct_id).call(this.resetNodeStyle);
         d3.select("#affiliate_fct_id-" + exampleLink.target.affiliate_fct_id).call(this.resetNodeStyle);
         d3.select("#link-"+exampleLink.source.affiliate_fct_id+'_'+exampleLink.target.affiliate_fct_id).call(this.highlightLink).style("stroke-width", 5).style("stroke", "#fff");
         infos.push({
-          x : self.transformX(linkPosition),
-          y : self.transformY(linkPosition)+$(".header").outerHeight(true),
-          text : "Common occurrence",
+          x : self.nodePositioning == "network" ? self.transformX(linkPosition) : linkPosition.x,
+          y : self.nodePositioning == "network" ? (self.transformY(linkPosition) + $(".header").outerHeight(true)) : (linkPosition.y) + $(".header").outerHeight(true),
+          text : "Commmon occurrence",
           r: 0
         });
       }
@@ -138,6 +144,13 @@ DDBAffiliateNetwork = function()
         y : 75+$(".header").outerHeight(true),
         text : "Number of persons and organisations in time frame",
         r: 30
+      });
+
+      infos.push({
+        y : ($("#switchMode").offset().top + 25),
+        x : ($("#switchMode").offset().left + 25),
+        text : self.nodePositioning == "network" ? "Change visualization to scatterplot" : "Change visualization to network",
+        r: 0
       });
 
     this.overlaySVG
@@ -288,11 +301,7 @@ DDBAffiliateNetwork = function()
     d3.select('.help')
       .on("click", function (d) {
         if (self.nodePositioning == "sortByOccurrence") {
-          self.switchNodePositioning("network");
-          window.setTimeout(function() { 
-            self.force.stop();
-            self.generateOverlay();
-          }, 1100);
+          self.generateOverlay();
         } else {
           self.force.stop();
           self.generateOverlay();
@@ -335,19 +344,6 @@ DDBAffiliateNetwork = function()
       self.resizeWindow();
       self.collectNewNodes(self.currentTimeFctID, self.timeFcts.length);
         window.setTimeout( function () {
-
-          /*
-          $('.subheader').mouseover( function() {
-            //$(".timeline-tip").attr("class", "timeline-tip active");
-            //an.resizeWindow();
-          });
-          $('#network').mouseover( function() {
-            $(".timeline-tip").attr({"class": "timeline-tip inactive"});
-            an.resizeWindow();
-          });
-
-          */
-
           // set the height of the brush
           d3.select(".extent").transition().delay(2500).duration(200).attr("height", 40);
         }, 2000);

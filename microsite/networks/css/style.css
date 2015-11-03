@@ -330,11 +330,11 @@ svg#network path.domain {
  }
 
  #switchMode.network {
-   background-image: url("../images/icons/network.svg");
+   background-image: url("../images/icons/sorted.svg");
  }
 
  #switchMode.sorted {
-   background-image: url("../images/icons/sorted.svg");
+   background-image: url("../images/icons/network.svg");
  }
 
 

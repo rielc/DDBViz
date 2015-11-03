@@ -136,7 +136,7 @@ DDBAffiliateNetwork = function()
       infos.push({
         x : ($("#overlay").width()/2-600)+950,
         y : 75+$(".header").outerHeight(true),
-        text : "Number of persons and organisations in time frame",
+        text : "Number of persons and organizations in time frame",
         r: 30
       });
 

@@ -865,27 +865,24 @@ DDBAffiliateNetwork = function()
       });};
 
 
-    this.switchNodePositioning = function (nodePositioning) {
+      this.switchNodePositioning = function (nodePositioning) {
 
-      this.nodePositioning = nodePositioning;
+        this.nodePositioning = nodePositioning;
 
-      switch (this.nodePositioning) {
-        case "network":
-        this.updateGraph();
-        //this.affiliates.transition().duration(1000).call(this.resetNodeSize);
-        //this.links.transition().duration(1000).call(this.resetLinkStyle);
-        this.nodesAreFixed = true;
-        window.setTimeout(function() {self.nodesAreFixed = false; self.force.start(); }, 1000);
-        break;
-        case "sortByOccurrence":
-        this.force.stop();
-        this.nodesAreFixed = true;
-        //this.affiliates.transition().duration(1000).call(this.resetNodeSize);
-        //this.links.transition().duration(1000).call(this.resetLinkStyle);
-        this.updateGraph();
-        break;
-      }
-    };
+        switch (this.nodePositioning) {
+          case "network":
+          self.force.start(); for (var i=0; i<150; i++){ self.force.tick(); } self.force.stop();
+          this.updateGraph();
+          this.nodesAreFixed = true;
+          window.setTimeout(function() {self.nodesAreFixed = false; self.force.start();}, 1000);
+          break;
+          case "sortByOccurrence":
+          this.force.stop();
+          this.nodesAreFixed = true;
+          this.updateGraph();
+          break;
+        }
+      };
 
 
   this.resetLinkPosition = function(selection) {

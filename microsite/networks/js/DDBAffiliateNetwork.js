@@ -369,11 +369,22 @@ DDBAffiliateNetwork = function()
       self.collectAllNodes();
       self.initTimeline();
       self.resizeWindow();
+      console.log(self.currentTimeFctID);
+
+      // for (var i=0; i<self.timeFcts.length; i++) {
+      //   console.log(i);
+      //   console.log("…load");
+      //   console.log("asdf" + self.data[self.timeFcts[i]]);
+      //   if (self.data[self.timeFcts[i]] != undefined) {
+      //     self.collectNewNodes(i, i+1);
+      //   };
+      // }
+
       self.collectNewNodes(self.currentTimeFctID, self.timeFcts.length);
-        window.setTimeout( function () {
-          // set the height of the brush
-          d3.select(".extent").transition().delay(2500).duration(200).attr("height", 40);
-        }, 2000);
+      window.setTimeout( function () {
+        // set the height of the brush
+        d3.select(".extent").transition().delay(2500).duration(200).attr("height", 40);
+      }, 2000);
 
     });
   };
@@ -868,17 +879,14 @@ DDBAffiliateNetwork = function()
 
       switch (this.nodePositioning) {
         case "network":
+        self.force.start(); for (var i=0; i<150; i++){ self.force.tick(); } self.force.stop();
         this.updateGraph();
-        //this.affiliates.transition().duration(1000).call(this.resetNodeSize);
-        //this.links.transition().duration(1000).call(this.resetLinkStyle);
         this.nodesAreFixed = true;
-        window.setTimeout(function() {self.nodesAreFixed = false; self.force.start(); }, 1000);
+        window.setTimeout(function() {self.nodesAreFixed = false; self.force.start();}, 1000);
         break;
         case "sortByOccurrence":
         this.force.stop();
         this.nodesAreFixed = true;
-        //this.affiliates.transition().duration(1000).call(this.resetNodeSize);
-        //this.links.transition().duration(1000).call(this.resetLinkStyle);
         this.updateGraph();
         break;
       }

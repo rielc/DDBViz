@@ -133,7 +133,7 @@ DDBAffiliateNetwork = function()
       });
 
       infos.push({
-        x : $(".timeline-tip").position().left+this.timelineWidth+45,
+        x : $(".timeline-tip").position().left+self.timelineWidth+45,
         y : $(".timeline-tip").position().top+35+$(".header").outerHeight(true),
         text : "Next time frame",
         r: 0
@@ -152,6 +152,22 @@ DDBAffiliateNetwork = function()
         text : self.nodePositioning == "network" ? "Change visualization to scatterplot" : "Change visualization to network",
         r: 0
       });
+
+      if (self.nodePositioning == "sortByOccurrence") {
+        infos.push({
+          y : ($("text.x").offset().top) + 8,
+          x : ($("text.x").offset().left) + 25,
+          text :  "The horizontal position is derived by the number of connected neighbours",
+          r: 30
+        });
+
+        infos.push({
+          y : ($("text.y").offset().top) + 8,
+          x : ($("text.y").offset().left) + 25,
+          text : "The vertical position is derived by the number of entries",
+          r: 30
+        });
+      }
 
     this.overlaySVG
       .selectAll("g")
@@ -309,15 +325,26 @@ DDBAffiliateNetwork = function()
         log("netzwerke", "open-infolayer", "timeline", true);
       });
 
-    d3.select('#overlay svg')
-      .on("click", function (d) {
-        self.overlay.style("display", "none");
-        self.tip.hide();
-        self.affiliates.call(self.resetNodeStyle);
-        self.links.call(self.resetLink);
-        self.force.start();
-        log("netzwerke", "close-infolayer", "timeline", true);
-      });
+      d3.select('#overlay svg')
+        .on("click", function (d) {
+          self.overlay.style("display", "none");
+          self.tip.hide();
+
+          self.affiliates
+            .call(self.resetNodeSize)
+            .call(self.resetNodeStyle);
+
+          self.links
+            .call(self.resetLink)
+            .call(self.resetLinkStyle);
+
+          if (self.nodePositioning == "sortByOccurrence") {
+            self.updateGraph(false);
+          } else {
+            self.force.start();
+          }
+          log("netzwerke", "close-infolayer", "timeline", true);
+        });
 
 
     // Initialize standard  tooltip

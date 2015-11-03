@@ -130,14 +130,14 @@ DDBAffiliateNetwork = function()
 
       infos.push({
         x : $(".timeline-tip").position().left+15,
-        y : $(".timeline-tip").position().top+55+$(".header").outerHeight(true),
+        y : $(".timeline-tip").position().top+35+$(".header").outerHeight(true),
         text : "Vorheriger Zeitraum",
         r: 0
       });
 
       infos.push({
-        x : $(".timeline-tip").position().left+this.timelineWidth+45,
-        y : $(".timeline-tip").position().top+55+$(".header").outerHeight(true),
+        x : $(".timeline-tip").position().left+self.timelineWidth+45,
+        y : $(".timeline-tip").position().top+35+$(".header").outerHeight(true),
         text : "Nächster Zeitraum",
         r: 0
       });
@@ -155,6 +155,22 @@ DDBAffiliateNetwork = function()
         text : self.nodePositioning == "network" ? "Wechsel zur Scatterplot-Ansicht" : "Wechsel zur Netzwerk-Ansicht",
         r: 0
       });
+
+      if (self.nodePositioning == "sortByOccurrence") {
+        infos.push({
+          y : ($("text.x").offset().top) + 8,
+          x : ($("text.x").offset().left) + 25,
+          text :  "Die horizontale Positionierung entspricht der Anzahl von verknüpften Personen / Organisationen",
+          r: 30
+        });
+
+        infos.push({
+          y : ($("text.y").offset().top) + 8,
+          x : ($("text.y").offset().left) + 25,
+          text : "Die vertikale Positionierung entspricht der Anzahl von Einträgen",
+          r: 30
+        });
+      }
 
     this.overlaySVG
       .selectAll("g")
@@ -310,15 +326,26 @@ DDBAffiliateNetwork = function()
             self.generateOverlay();
         }
         log("netzwerke", "open-infolayer", "timeline", true);
-      });
+      })
 
     d3.select('#overlay svg')
       .on("click", function (d) {
         self.overlay.style("display", "none");
         self.tip.hide();
-        self.affiliates.call(self.resetNodeStyle);
-        self.links.call(self.resetLink);
-        self.force.start();
+
+        self.affiliates
+          .call(self.resetNodeSize)
+          .call(self.resetNodeStyle);
+
+        self.links
+          .call(self.resetLink)
+          .call(self.resetLinkStyle);
+
+        if (self.nodePositioning == "sortByOccurrence") {
+          self.updateGraph(false);
+        } else {
+          self.force.start();
+        }
         log("netzwerke", "close-infolayer", "timeline", true);
       });
 

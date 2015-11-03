@@ -308,8 +308,8 @@ DDBAffiliateNetwork = function()
 
     d3.select("#switchMode").on("click", function() {
       switch(self.nodePositioning) {
-        case "network": self.switchNodePositioning("sortByOccurrence"); d3.select("#switchMode").attr("class", "sorted"); break;
-        case "sortByOccurrence": self.switchNodePositioning("network");d3.select("#switchMode").attr("class", "network");break;
+        case "network": self.switchNodePositioning("sortByOccurrence"); d3.select("#switchMode").attr("class", "sorted"); d3.select("#network").classed("network", false).classed("sorted", true);  break;
+        case "sortByOccurrence": self.switchNodePositioning("network");d3.select("#switchMode").attr("class", "network"); d3.select("#network").classed("network", true).classed("sorted", false); break;
       }
     });
 

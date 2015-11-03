@@ -237,7 +237,6 @@ g.resize rect {
 }
 
 svg#network {
-	cursor: move;
 	position:fixed;
   z-index:0;
 }
@@ -254,7 +253,13 @@ svg#network .y.axis text {
   transform:translate(10px,0);
 }
 
+svg#network.network {
+  cursor: move;
+}
 
+svg#network.sorted {
+  cursor:default;
+}
 
 svg#network #axis line {
   stroke:#fff;

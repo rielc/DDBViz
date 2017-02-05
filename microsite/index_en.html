@@ -5,9 +5,6 @@
 <link rel="icon" type="image/png" href="favicon.png" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <script src="js/jquery-2.1.1.min.js"></script>
-<script src="js/log.js"></script>
-<script src="js/jquery.feedback_me.js"></script>
-<link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
 <script type="text/javascript">
 var $buoop = {};
@@ -21,37 +18,6 @@ window.onload=function(){
 }
 </script>
 
-<script type="text/javascript">
-
-$(document).ready( function() {
-
-	// logging
-  log("index", "load", "page", true);
-
-	// feedback
-  fm_options = {
-      jQueryUI : false,
-        position : "right-bottom",
-        // name_placeholder:"Name please",
-        trigger_label : "Feedback",
-				title_label: "Your observations, ideas and suggestions",
-        message_required : true,
-        show_asterisk_for_required : false,
-        feedback_url : "send_feedback",
-        submit_label: "Send",
-      email_required: false,
-      callback: function(data){
-        log("index", "send", "feedback", data.message);
-      },
-  };
-
-  fm.init(fm_options);
-
-});
-
-
-
-</script>
 
 <style>
 @font-face {
@@ -376,9 +342,6 @@ h2, a h2 {
 	<p>
 		The visualizations are the result of an exploratory study aimed at generating innovative perspectives on the collection of the <a href="https://www.deutsche-digitale-bibliothek.de/">German Digital Library</a> (Deutsche Digitale Bibliothek, DDB) and make them available as visual and interactive representations.
 		In contrast to existing search interfaces, which show only a few objects as part of result lists, the presented views should show the distribution of objects along time, place, topic, people, and other dimensions.
-<br><br>
-This project is an experiment. We are very interested in your observations, ideas and suggestions.
-Please try out the visualizations and share your impressions via the feedback form at the right edge of the window.
 	</p>
 
 	<h2 class="faq">FAQ</h2>
@@ -412,7 +375,7 @@ The visualizations were developed towards the current versions of the four most 
 
 <p>A collaboration between <a href="http://fh-potsdam.de/">Potsdam University of Applied Sciences</a> and <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
 
-	Design and implementation: Christian Bernhardt, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
+	Design and implementation: <a href="http://www.cbernhardt.net/" target="_blank">Christian Bernhardt</a>, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
 	Scientific supervision: <a href="http://mariandoerk.de/" target="_blank">Prof. Dr. Marian Dörk</a> &nbsp;
 	Consulting: Stephan Bartholmei
 

@@ -5,10 +5,7 @@
 <link rel="icon" type="image/png" href="favicon.png" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <script src="js/jquery-2.1.1.min.js"></script>
-<script src="js/log.js"></script>
-<script src="js/jquery.feedback_me.js"></script>
 <script src="index/retina.min.js"></script>
-<link rel="stylesheet" href="css/jquery.feedback_me.css"></link>
 <meta charset="utf-8">
 <script type="text/javascript">
 var $buoop = {};
@@ -20,36 +17,6 @@ window.onload=function(){
  e.setAttribute("src", "//browser-update.org/update.js");
  document.body.appendChild(e);
 }
-</script>
-
-<script type="text/javascript">
-
-$(document).ready( function() {
-
-	// logging
-  log("index", "load", "page", true);
-
-	// feedback
-  fm_options = {
-      jQueryUI : false,
-      position : "right-bottom",
-      // name_placeholder:"Name please",
-      trigger_label : "Feedback",
-      message_required : true,
-      show_asterisk_for_required : false,
-      feedback_url : "send_feedback",
-			title_label: "Ihre Beobachtungen, Ideen und Vorschläge",
-      submit_label: "Absenden",
-      email_required: false,
-      callback: function(data){
-        log("index", "send", "feedback", data.message);
-      },
-  };
-
-  fm.init(fm_options);
-
-});
-
 </script>
 
 <style>
@@ -377,10 +344,6 @@ h2, a h2 {
 		<!-- Die <a href="https://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a> (DDB) ist ein Gemeinschaftsprojekt von Bund, Ländern und Kommunen, das den Anspruch hat, den freien Zugang zum kulturellen und wissenschaftlichen Erbe Deutschlands über ein Webportal zu ermöglichen. -->
 <!-- <br><br> -->
 		Die Visualisierungen sind das Resultat einer explorativen Untersuchung, die zum Ziel hatte, innovative Perspektiven auf den Bestand der <a href="https://www.deutsche-digitale-bibliothek.de/">Deutschen Digitalen Bibliothek</a> (DDB) zu entwickeln und in Form visueller und interaktiver Ansichten bereit zu stellen. Im Gegensatz zu existierenden Suchoberflächen, die wenige Objekte in Form von Ergebnislisten präsentieren, sollen die vorgestellten Ansichten die Streuung vieler Objekte entlang von Zeit, Ort, Thema, Person und anderen Dimensionen sichtbar machen.
-<br><br>
-Dieses Projekt ist ein Experiment. Wir sind sehr an Ihren Beobachtungen, Ideen und Vorschlägen interessiert.
-Bitte probieren Sie die Visualisierungen aus und teilen uns Ihre Eindrücke
-über das Feedback-Formular am rechten Fensterrand mit.
 	</p>
 
 	<h2 class="faq">FAQ</h2>
@@ -414,7 +377,7 @@ Die Visualisierungen wurden im Hinblick auf die aktuellen Versionen der vier mei
 
 <p>Ein Gemeinschaftsprojekt von <a href="http://fh-potsdam.de/">Fachhochschule Potsdam</a> und <a href="http://www.deutsche-digitale-bibliothek.de/">Deutsche Digitale Bibliothek</a><br>
 
-	Design und Umsetzung: Christian Bernhardt, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
+	Design und Umsetzung: <a href="http://www.cbernhardt.net/" target="_blank">Christian Bernhardt</a>, <a href="http://www.gabrielcredico.de/" target="_blank">Gabriel Credico</a> und <a href="http://www.chrispie.com/" target="_blank">Christopher Pietsch</a><br>
 	Wissenschaftliche Leitung: <a href="http://mariandoerk.de/" target="_blank">Prof. Dr. Marian Dörk</a> &nbsp;
 	Beratung: Stephan Bartholmei
 

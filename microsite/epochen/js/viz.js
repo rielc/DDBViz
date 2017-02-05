@@ -21,15 +21,11 @@ $(document).ready(function(){
         submit_label: "Absenden",
         email_required: false,
         callback: function(data){ 
-          //console.log("feedback",data);
-          log("epochen", "send", "feedback", data.message);
         },
     };
 
-    fm.init(fm_options);
 });
 
-log("epochen", "load", "page", "loaded");
 
 var ddbUrl = "https://www.deutsche-digitale-bibliothek.de/searchresults?query=&offset=0&rows=20&viewType=grid";
 
@@ -169,8 +165,6 @@ Array.prototype.get = function(id,val){
 }
 
 function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType, dataKeywords, dataPlaces, dataAffiliates) {
-
-  log("epochen", "load", "data", "true");
 
   dataTime.forEach(function(d) {
     d.id = +d.id;
@@ -481,7 +475,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
         if(d=="list") transitionMultiples();
         else if(d=="stream") transitionStacked();
         else if(d=="intro") transitionArc();
-        log("epochen", "select-vis", "navi", d);
       });
   
   function transitionMultiples() {
@@ -515,7 +508,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
         //g.attr('transform', function(){ return "translate(0,0)"; });
     
-    console.log("pie",p);
 
     t.selectAll(".layer")
       .attrTween("d", function(d,i){
@@ -660,9 +652,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
 
 
   function brushend(d){
-
-    log("epochen", "select-epoch", "timeline", brush.extent());
-
 
     // console.log("brushend", brush.extent()[0]);
     // sweet stuff eh ? :D
@@ -830,7 +819,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .on("mouseenter", enterWord)
       .on("mouseleave", outWord)
       .on("click", function(d){
-        log("epochen", "click-out", "word", d.key);
       })
       .classed("word", true)
       .append("a").classed("text", true)
@@ -950,7 +938,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
         //log("epochen", "click", "total", url);
-        log("epochen", "open-link", "total", dataSector.get(d.key,"value"));
         window.open(url);
       })
 
@@ -975,7 +962,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=sector_fct%3D"+dataSector.get(d.key,"value") +
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
-        log("epochen", "open-link", "total", dataSector.get(d.key,"value"));
         window.open(url);
       })
       .transition()
@@ -1025,7 +1011,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=type_fct%3D"+dataType.get(typeId,"value")+
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
-        log("epochen", "open-link", "sector", dataSector.get(sectorId,"value"));
         window.open(url);
       })
       .style("opacity",0)
@@ -1049,7 +1034,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
           "&facetValues%5B%5D=type_fct%3D"+dataType.get(typeId,"value")+
           "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+timeRange[1]+"%5D"+
           "&facetValues%5B%5D=end_time%3D%5B"+timeRange[0]+"+TO+*%5D";
-        log("epochen", "open-link", "sector", dataSector.get(sectorId,"value"));
         window.open(url);
       })
 
@@ -1413,7 +1397,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
       .append("img")
       .attr("src", "icons/info.svg")
       .on("click", function(d){
-        log("epochen", "open-infolayer", "help", d.active);
         d.active = !d.active;
         d3.select(this).classed("active", d.active);
         if(d.active) generateOverlay();
@@ -1423,7 +1406,6 @@ function dataLoaded(error, data, dataTime, dataSector, dataSectorType, dataType,
      
   addEventListener('hashchange', function() {
     if(location.hash == "#skip") {
-      log("epochen", "skip-intro", "skip", "true");
       location.reload(true);
     }
   }, false);  
@@ -1468,7 +1450,6 @@ function pad(num) {
 
 function ddbTime(year)
 {
-  //console.log("ddbTime", year)
   var d2 = new Date(0);
       d2.setUTCFullYear(year);
   var d1 = new Date(1970,0,01);

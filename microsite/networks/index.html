@@ -4,7 +4,6 @@
   <link rel="stylesheet" href="./css/d3.tip.css">
   <link rel="stylesheet" href="./css/style.css">
   <link href="../css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="../css/jquery.feedback_me.css"></link>
   <link rel="icon" type="image/png" href="../favicon.png" />
   <title>Networks – Deutsche Digitale Bibliothek visualized</title>
 	<style type="text/css" media="screen">
@@ -54,10 +53,8 @@
 <script src="../js/d3.v3.min.js"></script>
 <script src="../js/underscore.js"></script>
 <script src="../js/jquery-2.1.1.min.js"></script>
-<script src="../js/jquery.feedback_me.js"></script>
 <script src="../js/d3.tip.js"></script>
 <script src="./js/DDBAffiliateNetwork.js"></script>
-<script src="../js/log.js"></script>
   <script type="text/javascript">
   var $buoop = {};
   $buoop.ol = window.onload;
@@ -73,8 +70,6 @@
 
   $(document).ready( function() {
 
-    log("netzwerke", "load", "page", true);
-
     an = new DDBAffiliateNetwork();
     an.init();
 
@@ -85,14 +80,11 @@
 
     $( window ).resize(function() {
       an.resizeWindow();
-      log("netzwerke", "resize", "window", an.networkWidth+','+an.networkHeight);
     });
 
     $( ".left-arrow" ).click(function() {
       if (an.currentTimeFctID > 0) {
         an.currentTimeFctID--;
-        log("netzwerke", "click-left-button", "timeline", an.timeNames[an.currentTimeFctID]);
-        // console.log(an.currentTimeFctID + " - " +an.currentTimeFctID+1);
         an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
         d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
         d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");
@@ -106,7 +98,6 @@
     $( ".right-arrow" ).click(function() {
       if (an.currentTimeFctID < an.timeFcts.length-1) {
         an.currentTimeFctID++;
-        log("netzwerke", "click-right-button", "timeline", an.timeNames[an.currentTimeFctID]);
         an.collectNewNodes(an.currentTimeFctID, an.currentTimeFctID+1);
         d3.selectAll(".time-facet-labels").style("fill", "#d2d2d2");
         d3.selectAll(".time-facet-ticks").style("fill", "#d2d2d2");

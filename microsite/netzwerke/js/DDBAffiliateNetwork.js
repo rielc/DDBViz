@@ -267,11 +267,8 @@ DDBAffiliateNetwork = function()
         callback: function(data){
           //console.log("feedback",data);
           //console.log(data);
-          log("netzwerke", "send", "feedback", data.message);
         },
     };
-
-    fm.init(fm_options);
 
     self = this;
 
@@ -301,7 +298,6 @@ DDBAffiliateNetwork = function()
     this.zoomContext = d3.behavior.zoom().x(this.zoomXScale).y(this.zoomYScale).scaleExtent([0.1, 20]).on("zoom", this.zoom);
 
     this.zoomContext.on("zoomend", function () {
-      log("netzwerke", "zoom-or-drag", "canvas", 'scale:' + self.zoomContext.scale() + ', translate: ' + self.zoomContext.translate());
       //self.updateGraph(false);
       self.updateGraph(false);
     });
@@ -325,7 +321,6 @@ DDBAffiliateNetwork = function()
             self.force.stop();
             self.generateOverlay();
         }
-        log("netzwerke", "open-infolayer", "timeline", true);
       })
 
     d3.select('#overlay svg')
@@ -346,7 +341,6 @@ DDBAffiliateNetwork = function()
         } else {
           self.force.start();
         }
-        log("netzwerke", "close-infolayer", "timeline", true);
       });
 
 
@@ -368,7 +362,6 @@ DDBAffiliateNetwork = function()
 
     jQuery.getJSON( "./data/affiliates-with-strength.json", function (result) {
       self.data = result;
-      log("netzwerke", "load", "data", true);
       self.collectAllNodes();
       self.initTimeline();
       self.resizeWindow();
@@ -451,7 +444,6 @@ DDBAffiliateNetwork = function()
 
       // log the selection via timeline … but only if its a new selection
       if (self.timelineIDs[0] != d0 || self.timelineIDs[1] != d1) {
-        log("netzwerke", "select-epoch", "timeline", self.timeNames[self.currentTimeFctID])
       }
       self.collectNewNodes(self.currentTimeFctID, d1);
     }
@@ -929,7 +921,6 @@ DDBAffiliateNetwork = function()
 
   this.resetNodeSize = function (selection) {
 
-    console.log("asdasd");
     switch (self.nodePositioning) {
       case "network":
       selection
@@ -1208,7 +1199,6 @@ DDBAffiliateNetwork = function()
         "&facetValues%5B%5D=affiliate_fct_role%3D"+encodeURI(clearString(data))+
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
-        log("netzwerke", "open-node", "canvas", "node:"+data+", url:" + url);
         window.open(url);
       break;
       case "link":
@@ -1217,7 +1207,6 @@ DDBAffiliateNetwork = function()
         'affiliate\:\('+encodeURI(data.source.affiliate_fct)+') AND affiliate\:\('+encodeURI(data.target.affiliate_fct)+'\)&viewType=grid&' +
         "&facetValues%5B%5D=begin_time%3D%5B*+TO+"+this.startDate+"%5D"+
         "&facetValues%5B%5D=end_time%3D%5B"+this.endDate+"+TO+*%5D";
-        log("netzwerke", "open-link", "canvas", "a:"+data.source.affiliate_fct+", b:"+data.target.affiliate_fct+ ", url:" + url);
         window.open(url);
       break;
     } };

@@ -69,13 +69,9 @@ function generateOverlay () {
         submit_label: "Absenden",
         email_required: false,
         callback: function(data){ 
-            //logging 
-            log("orte", "send", "feedback", data.message);
-
         },
     };
 
-        fm.init(fm_options);
     //bei seitenstart - animation abspielen fade in
     d3.select("#wrapper")
         .style("opacity", 0)
@@ -93,7 +89,6 @@ function generateOverlay () {
         .append("img")
         .attr("src", "icons/info.svg")
         .on("click", function(d){
-            log("orte", "open-infolayer", "help", d.active);
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
             if(d.active) generateOverlay(); 
@@ -106,11 +101,9 @@ function generateOverlay () {
             d3.select(".help img")
                 .classed("active", false);
             overlay.style("display", "none")
-            log("orte", "close-infolayer", "help", d.active);    
         });
         
     });
-log("orte", "load", "page", "loaded");
 
 
 //all die schönen kreise entstehen hier
@@ -207,8 +200,6 @@ function drawPie(dataSet, selectString, outerRadius, cityName) {
 	   .enter()
             .append("svg:a")
             .attr("xlink:href", function(d) { return d.data.link; })
-            .on("click", function (d) { 
-                log("orte", "click", "arc", "Stadt:" + cityName+", Sparte:"+d.data.legendLabel+", url:"+d.data.link);} )
             .attr("target", "_blank")
         .append('svg:g')
         .attr('class', 'slice')

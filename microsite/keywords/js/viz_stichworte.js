@@ -579,12 +579,9 @@ function generateOverlay () {
             submit_label: "Send",
             email_required: false,
             callback: function(data){ 
-                log("stichworte", "send", "feedback", data.message);
-
             },
         };
 
-        fm.init(fm_options);
     //overlay generieren, wenn man auf den help button klickt        
      overlay = d3.select("#overlay svg");     
         
@@ -595,7 +592,6 @@ function generateOverlay () {
         .append("img")
         .attr("src", "icons/info.svg")
         .on("click", function(d){
-            log("stichworte", "open-infolayer", "help", d.active);
             d.active = !d.active;
             d3.select(this).classed("active", d.active);
             if(d.active) generateOverlay();
@@ -604,8 +600,6 @@ function generateOverlay () {
         //overlay ausblenden + ID 4 abwählen        
         $("#overlay svg").click(function(){
             
-            log("stichworte", "close-infolayer", "help", "active:false");
-
             var e = document.createEvent('UIEvents');
                 e.initUIEvent('click', true, true, window, 1);
                 d3.select("#t4").node().dispatchEvent(e);
@@ -802,12 +796,11 @@ function generateOverlay () {
                                     .text( function (d) { return "Keyword: "+keywordCount[i].value+" has "})
                                     .append("a")
                                     .attr("href", "https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value)
-                                    .on("click", function (d, i) { log("stichworte", "click", "keyword-link", "Word: " + keywordCount[i].value+", url:"+"https://www.deutsche-digitale-bibliothek.de/searchresults?query=*&rows=20&offset=0&sort=RELEVANCE&viewType=list&category=Kultur&clearFilter=true&facetValues%5B%5D=keywords_fct%3D"+keywordCount[i].value);} )
+                                    .on("click", function (d, i) { } )
                                     .attr("target", "_blank")
                                     .attr("class", "activeLink")
                                     .text(function (d){return formatNumber(keywordCount[i].c)+" entries";});
 
-                                                            log("stichworte", "keyword-click", "keyword-pool", "Word: "+ keywordCount[i].value);
 
                         }
                         }
@@ -856,6 +849,5 @@ function generateOverlay () {
             .style("opacity", 1);
 
 });
-log("stichworte", "load", "page", "loaded");
 
         
